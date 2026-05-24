@@ -1,0 +1,674 @@
+{
+  "claim_id": "24458",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20251208_131217",
+  "source_md": "experiments/gpt-5.1h_20251208_131217/brief_fact_check_id24458.md",
+  "fact_check": "# Fact Check for Statement ID 24458\n\n## Statement\n(...) jedno z rozhodnutí Ústavního soudu, kdy už v roce 2020 jasně zaznělo, že pokud se někdo chystá do té role (člena vlády, pozn. Demagog.cz), tak prezident má zjišťovat, jestli nenastane protiprávní stav.\n\n---\n## OpenAI Deep Research Fact Check\n### 1. Shrnutí tvrzení  \n\nKupka tvrdí, že **v jednom z nálezů Ústavního soudu z roku 2020 už „jasně zaznělo“, že pokud se někdo chystá stát členem vlády, prezident má zjišťovat, zda tím nevznikne protiprávní stav** (ve smyslu neřešitelného střetu zájmů).\n\nJádro je tedy:\n\n1. Existuje nález ÚS z roku 2020 týkající se střetu zájmů členů vlády.  \n2. Tento nález ukládá prezidentovi určitou **aktivní povinnost** při jmenování premiéra a členů vlády ve vztahu ke střetu zájmů.  \n3. Kupka to interpretuje jako povinnost prezidenta **„zjišťovat, jestli nenastane protiprávní stav“** už ve fázi, kdy se dotyčný chystá do funkce.\n\nNíže rozděleno do dílčích tvrzení a doloženo z nálezu ÚS a dalších zdrojů.\n\n---\n\n## 2. Dílčí tvrzení a důkazy\n\n### 2.1 Existence relevantního nálezu ÚS z roku 2020\n\n**Tvrzení:** V roce 2020 Ústavní soud rozhodoval o zákonu o střetu zájmů a řešil i postavení členů vlády a prezidenta.\n\n**Důkazy:**\n\n- Nález č. **148/2020 Sb.**, sp. zn. **Pl. ÚS 4/17**, ze dne 11. 2. 2020, „ve věci návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, (…) a některých ustanovení zákona č. 14/2017 Sb.“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n  – V textu je výslovně uvedeno, že navrhovatelem je **prezident republiky** a jedná se o tzv. **lex Babiš** (zákon o střetu zájmů)([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148)).  \n\n- Sbírka zákonů eviduje nález jako č. **148/2020 Sb.** s datem rozhodnutí 11. 2. 2020 a stručným popisem, že jde o návrhy na zrušení ustanovení zákona o střetu zájmů a jeho novely([psp.cz](https://www.psp.cz/sqw/sbirka.sqw?cz=2&r=1993&utm_source=openai)).  \n\n**Závěr k 2.1:** Ano, **v roce 2020 existuje nález ÚS (Pl. ÚS 4/17, 148/2020 Sb.)**, který se týká střetu zájmů členů vlády a vychází z návrhu prezidenta republiky.\n\n---\n\n### 2.2 Co nález říká o povinnostech prezidenta při jmenování premiéra a členů vlády\n\n**Tvrzení:** Nález z roku 2020 ukládá prezidentovi určitou povinnost při jmenování předsedy vlády a členů vlády ve vztahu ke střetu zájmů.\n\n**Důkazy (přímé citace z nálezu):**\n\nV odůvodnění nálezu se nachází klíčová pasáž (část kolem bodů 197–198), kde Ústavní soud popisuje ústavní roli prezidenta a předsedy vlády ve vztahu k zákonu o střetu zájmů:\n\n- Soud nejprve vysvětluje, že zákonodárce je podle čl. 70 Ústavy oprávněn „stanovit v zákonech podrobnosti“ k ústavním povinnostem členů vlády a že mezi tyto „podrobnosti“ lze zařadit i procesní postupy k řešení střetů zájmů([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148)).  \n\n- Poté následuje pro nás podstatná věta (zvýraznění doplněno):\n\n  > „…**je i povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády (a poté jejich členů)**, k tomu, **zda jmenováním může takový (zejména neřešitelný) střet vzniknout a zda bude moci být řešen postupem, který Ústava, popř. zákon (zejména zákon o střetu zájmů), předvídá**.“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n  (Citace zkrácena na < 25 slov, klíčové části zvýrazněny.)\n\n- Nález dále dodává, že u členů vlády je především na **předsedovi vlády**, aby ve smyslu čl. 69 odst. 2 a čl. 74 Ústavy dohlížel na respektování povinností spojených s funkcí člena vlády, včetně pravidel pro řešení střetu činností odporujících výkonu funkce člena vlády([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148)).  \n\n**Význam této pasáže:**\n\n- ÚS **výslovně mluví o „povinnosti prezidenta republiky“** – nejde jen o obecné doporučení.  \n- Má **přihlížet „při zvažování, koho jmenovat předsedou vlády (a poté jejich členů)“** – tedy právě ve fázi, kdy se rozhoduje, kdo bude premiérem a ministrem.  \n- Má přihlížet k tomu, **zda může jmenováním vzniknout střet zájmů, zvláště neřešitelný**, a zda bude možné konflikt řešit podle Ústavy a zákonů (zejména zákona o střetu zájmů).  \n\nTato právní věta je v médiích a odborných textech po roce 2020 opakovaně citována právě jako klíčový závěr nálezu k roli prezidenta: např. přepisy z Poslanecké sněmovny doslovně citují, že „je povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády a poté jejích členů, k tomu, zda jmenováním může takový zejména neřešitelný střet vzniknout…“([psp.cz](https://www.psp.cz/eknih/2025ps/stenprot/004schuz/s004012.htm?utm_source=openai)). Podobně shrnují tuto větu i média([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/prezident-petr-pavel-ustavni-nalez-stret-zajmu-andrej-babis_2511191041_kno?utm_source=openai)).\n\n**Závěr k 2.2:**  \nNález **zřetelně a výslovně stanoví**, že prezident má povinnost při jmenování předsedy vlády a následně členů vlády **aktivně přihlížet** k riziku vzniku (zejména neřešitelného) **střetu zájmů** a k tomu, zda jej bude možné řešit prostředky předvídanými ústavou a zákonem o střetu zájmů.\n\n---\n\n### 2.3 Co nález říká o „předstižném“ vylučování kandidátů a o okamžiku, kdy se střet zájmů řeší\n\nKupka ve tvrzení mluví o fázi, kdy se někdo „chystá do té role“ – tj. před jmenováním / vstupem do funkce. Je proto důležité, co nález říká o tom, kdy se střet zájmů typicky řeší.\n\n**Důkazy z nálezu:**\n\nV části odůvodnění (body 115–116) ÚS výslovně odlišuje:\n\n1. **Právo ucházet se o volenou či jinou veřejnou funkci**, a  \n2. **Podmínky výkonu funkce po zvolení / jmenování**.\n\n- ÚS zdůrazňuje, že český ústavní pořádek (s výjimkou několika ústavních „volebních cenzů“) **„neumožňuje tzv. předstižně … vyloučit někoho předem z práva ucházet se o zvolení“** a že **„Teprve zvolením nastává možná situace střetu zájmů a nutnost jej vyřešit, popř. alespoň řešit.“**([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n- Dále dodává:\n\n  > „Každý, kdo splňuje výše uvedené podmínky, má právo se ucházet o zvolení (…) nebýt **protiprávně vyloučen** z kandidování (…) Není však právo např. na to, aby se proto někdo stal starostou, hejtmanem či předsedou vlády…“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n- V bodu 116 pak soud výslovně říká:\n\n  > „Právní předpisy České republiky nikomu předem nebrání ucházet se o volenou nebo jinou veřejnou funkci z důvodu možného střetu zájmů (…) **Naopak stanoví, že o veřejnou funkci se … může ucházet každý s tím, že případný vznik neslučitelnosti nebo střetu zájmů bude řešen až v případě, že veřejnou funkci nabude.**“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n**Význam:**\n\n- **Kandidovat / ucházet se o funkci** – včetně funkce člena vlády – lze, i když lze předvídat možný střet zájmů.  \n- **Samotné právo ucházet se o funkci nesmí být „protiprávně“ omezeno** tím, že by někdo byl předem vyloučen kvůli možnému střetu.  \n- **Střet zájmů se má řešit až po nabytí funkce** (v zákonem stanovených lhůtách a procedurách), nikoli jako podmínka možnosti kandidovat.\n\nNález tedy současně:\n\n- **A)** Zakotvuje **povinnost prezidenta přihlížet** ke střetu zájmů při jmenování (viz 2.2),  \n- **B)** Ale zároveň říká, že **právo ucházet se o funkci nesmí být předem omezeno kvůli střetu**; konflikt se řeší až poté, co dotyčný veřejnou funkci získá.\n\nTo vede i část odborné veřejnosti k názoru, že prezident **nemá pravomoc sám „rozhodovat“, zda kandidát už je či není ve střetu zájmů**, nebo jej ex ante diskvalifikovat; to je úkol jiných orgánů (Ministerstvo spravedlnosti, správní orgány, soudy) podle zákona o střetu zájmů([novarepublika.cz](https://www.novarepublika.cz/2025/11/verdikt-emeritniho-ustavniho-soudce-stret-zajmu-neni-prekazkou-pro-jmenovani-babise-premierem?utm_source=openai)).\n\n**Závěr k 2.3:**  \nNález **neříká**, že by Čeští právní předpisy bránily kandidatuře osoby, u níž hrozí střet zájmů. Naopak výslovně stanoví, že **střet zájmů se řeší až po nabytí funkce**, i když prezident a premiér mají povinnost na dodržování těchto pravidel dohlížet.\n\n---\n\n### 2.4 Jak nález interpretuje odborná veřejnost a další zdroje\n\nPro posouzení, zda Kupkova formulace „prezident má zjišťovat, jestli nenastane protiprávní stav“ odpovídá duchu nálezu, je užitečné podívat se na to, jak jej vykládají ústavní právníci.\n\n#### 2.4.1 Výklady zdůrazňující *aktivní roli prezidenta*\n\nŘada komentářů (2023–2025), zejména ve spojitosti s debatou o případném jmenování Andreje Babiše premiérem, cituje právě větu o „povinnosti prezidenta přihlížet“ jako důkaz, že prezident **musí před jmenováním zohlednit možný neřešitelný střet zájmů**:\n\n- iRozhlas shrnuje klíčovou pasáž nálezu tak, že prezident má „přihlížet při zvažování, koho jmenovat“ k tomu, zda jmenováním může vzniknout střet a zda bude možné jej řešit podle Ústavy a zákona o střetu zájmů([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/prezident-petr-pavel-ustavni-nalez-stret-zajmu-andrej-babis_2511191041_kno?utm_source=openai)).  \n\n- Podobně i další média a politici cituji nález v tom smyslu, že prezident je **„zavázán“** tímto nálezem ke kontrole rizika střetu zájmů u kandidáta na premiéra či ministry([psp.cz](https://www.psp.cz/eknih/2025ps/stenprot/004schuz/s004012.htm?utm_source=openai)).  \n\nZ těchto výkladů plyne, že prezident **nemůže jmenování provést „naslepo“**, ale musí si – v rozumné míře – ověřit, zda by jmenováním nevznikl střet zájmů, zejména neřešitelný.\n\n#### 2.4.2 Výklady zdůrazňující *omezenou pravomoc prezidenta a roli jiných orgánů*\n\nNa druhé straně část ústavních právníků (včetně emeritního soudce ÚS Radovana Suchánka) upozorňuje, že:\n\n- Ačkoli nález ukládá prezidentovi **povinnost „přihlížet“**,  \n- **Ústava ani zákony prezidentovi nedávají pravomoc**, aby **sám autoritativně rozhodoval**, zda kandidát je či není ve střetu zájmů; k tomu jsou určeny jiné orgány (Ministerstvo spravedlnosti, správní orgány, soudy) dle zákona o střetu zájmů([novarepublika.cz](https://www.novarepublika.cz/2025/11/verdikt-emeritniho-ustavniho-soudce-stret-zajmu-neni-prekazkou-pro-jmenovani-babise-premierem?utm_source=openai)).  \n\nJiní právníci pak připomínají, že právní úprava střetu zájmů **počítá s tím, že se střet odstraní až po jmenování (typicky do 30 dnů)** a že prezident se svou „povinností přihlížet“ má spíše **předcházet zjevným neřešitelným konfliktům**, než vést paralelní řízení o střetu zájmů([idnes.cz](https://www.idnes.cz/zpravy/domaci/babis-pavel-prezident-stret-zajmu-prvnik-preuss-pravni-uprava.A251107_181128_domaci_lysa?utm_source=openai)).\n\n**Závěr k 2.4:**  \nOdborná veřejnost se shoduje, že nález ukládá prezidentovi **určitý preventivní a kontrolní úkol** ve vztahu ke střetu zájmů u premiéra a ministrů. Liší se ale v názoru, **jak daleko tato povinnost sahá** – zda jde „jen“ o povinnost přihlížet a případně žádat vysvětlení, nebo až o právo Prezidenta odmítnout jmenovat kandidáta, u nějž vidí riziko neřešitelného střetu (a tedy „protiprávního stavu“).\n\n---\n\n## 3. Zhodnocení Kupkova tvrzení\n\n### 3.1 Co je přesné\n\n1. **Rok a existence nálezu:**  \n   - Skutečně existuje **nález ÚS z roku 2020 (Pl. ÚS 4/17, 148/2020 Sb.)** týkající se zákona o střetu zájmů, kde se řeší i postavení členů vlády a role prezidenta.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n2. **Obsah ve vztahu k prezidentovi:**  \n   - Nález **výslovně** stanoví, že je „**povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády (a poté jejich členů)**“ k riziku vzniku (zejména neřešitelného) střetu zájmů a k možnosti jeho řešení podle Ústavy a zákona o střetu zájmů([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148)).  \n   - To lze rozumně interpretovat tak, že **prezident má před jmenováním zohlednit, zda by jmenováním nevzniklo postavení v rozporu se zákonem o střetu zájmů**, tedy potenciálně „protiprávní stav“.\n\n3. **Vztah k situaci „když se někdo chystá do té role“:**  \n   - Nález se přímo vztahuje k okamžiku, kdy prezident **zvažuje, koho jmenovat** – tedy k fázi, kdy se kandidát „chystá“ stát premiérem či ministrem, nikoli až k době dávno po jmenování.\n\n### 3.2 Co je zjednodušené nebo nadsazené\n\n1. **Formulace „má zjišťovat, jestli nenastane protiprávní stav“**  \n\n   - ÚS mluví o povinnosti **„přihlížet při zvažování“** a zohlednit, zda by jmenováním **„mohl vzniknout (zejména neřešitelný) střet“**, a zda jej lze řešit dle zákona. Neříká přímo, že prezident má **„vyšetřovat“ nebo „posuzovat“ střet zájmů sám jako rozhodující orgán.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n   - Praktické „zjišťování“ (posouzení, sbírání informací, žádost o vysvětlení od kandidáta) z povinnosti přihlížet logicky plyne, **ale nález nesvěřuje prezidentovi roli orgánu, který formálně rozhoduje o střetu zájmů** – ta přísluší jiným orgánům (Ministerstvo spravedlnosti, správní orgány, soudy).([novarepublika.cz](https://www.novarepublika.cz/2025/11/verdikt-emeritniho-ustavniho-soudce-stret-zajmu-neni-prekazkou-pro-jmenovani-babise-premierem?utm_source=openai))  \n\n2. **Okamžik řešení střetu zájmů**  \n\n   - Nález současně výslovně stanoví, že **české právo nikoho předem nevylučuje z ucházení se o funkci kvůli možnému střetu zájmů** a že **„případný vznik neslučitelnosti nebo střetu zájmů bude řešen až v případě, že veřejnou funkci nabude“**([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148)).  \n   - To znamená, že nález **neříká**, že by střet musel být **zcela vyřešen už před jmenováním**, pouze že prezident musí při jmenování zvážit, zda jmenováním nevznikne **neřešitelný** střet, resp. stav, který **nebude možné** napravit prostředky, které zákon dává.  \n\n3. **Výraz „protiprávní stav“**  \n\n   - Samotný pojem „**protiprávní stav**“ Ústavní soud v citovaných pasážích nepoužívá; pracuje s pojmem **střetu zájmů**, neslučitelnosti a ústavního deliktu (porušení pravidel čl. 70 Ústavy ve spojení se zákonem o střetu zájmů)([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148?utm_source=openai)).  \n   - „Protiprávní stav“ je tedy **Kupkova (a obecně politická) zkratka** pro situaci, kdy by premiér či ministr vykonával funkci v rozporu se zákonem o střetu zájmů (např. by stát dál přiděloval dotace či zakázky firmám, které podle § 4b a § 4c nesmí takové plnění přijímat)([du.cz](https://www.du.cz/33/159-2006-sb-zakon-o-stretu-zajmu-ve-zneni-ucinnem-k-1-1-2024-uniqueidOhwOuzC33qe_hFd_-jrpTl4cdX9Ek5l8MJS_-1wqvGwCD-vMUnwPlw/?utm_source=openai)). Tato zkratka je obsahově přiměřená, ale formálně se v nálezu neobjevuje.\n\n---\n\n## 4. Celkové zhodnocení\n\n- **Faktické jádro tvrzení (existence nálezu 2020 a to, že ukládá prezidentovi povinnost při jmenování přihlížet ke střetu zájmů kandidáta na premiéra / člena vlády) je přesné.** Nález Pl. ÚS 4/17 z roku 2020 opravdu **jasně říká**, že prezident má při zvažování, koho jmenovat, hodnotit riziko vzniku (zejména neřešitelného) střetu zájmů a možnost jeho řešení v rámci ústavního a zákonného rámce.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n- **Kupkova formulace „má zjišťovat, jestli nenastane protiprávní stav“ je ale zjednodušující a mírně posouvá důraz:**\n  - Nález mluví o **„přihlížení“** a o **„střetu zájmů“**, nikoliv o tom, že prezident má formálně „zjišťovat protiprávní stav“.  \n  - Soud současně říká, že **střet zájmů se zpravidla řeší až po nabytí funkce**, což omezuje, jak daleko může prezident svou preventivní roli ex ante rozšiřovat.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\nPro účely fact-checkingu lze tedy shrnout:\n\n> **Ano, Ústavní soud v nálezu z roku 2020 skutečně uložil prezidentovi povinnost při jmenování premiéra a členů vlády zohlednit riziko neřešitelného střetu zájmů.**  \n> Kupka tuto povinnost vystihuje v zásadě věcně, ale **používá vlastní, mírně nadsazenou formulaci („má zjišťovat, jestli nenastane protiprávní stav“), která ne zcela odpovídá přesné slovní podobě a nuancím nálezu.**\n\n---\n\n## 5. Přehled hlavních primárních zdrojů (pro snadnou kontrolu)\n\n```text\nNález ÚS č. 148/2020 Sb. (Pl. ÚS 4/17) – zákon o střetu zájmů:\nhttps://www.zakonyprolidi.cz/cs/2020-148\n\nSbírka zákonů – anotace 148/2020 a 149/2020:\nhttps://www.psp.cz/sqw/sbirka.sqw?cz=2&r=1993\n\nKrajta – jednotlivé body nálezu 148/2020 Sb. (např. bod 4, 97, 115–117, 197):\nhttps://krajta.slv.cz/2020/148/bod_4\nhttps://krajta.slv.cz/2020/148/bod_97\nhttps://krajta.slv.cz/2020/148/bod_1%3A5  (úvod)\n(ostatní body přes rozhraní /bod_číslo)\n\nZákon č. 159/2006 Sb., o střetu zájmů (aktuální znění – pro definici veřejného funkcionáře a zákazů):\nhttps://www.zakonyprolidi.cz/cs/2006-159\n(nebo např. přehledná verze na DU.cz / Živnostník.cz)\n\nPřehled ve Sbírce zákonů – zařazení nálezu 148/2020 a 149/2020:\nhttps://www.psp.cz/sqw/sbirka.sqw?O=1&T=276\n```\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Kuloáry Napřímo released on 2025-11-28 available from https://tn.nova.cz/zpravodajstvi/clanek/635047-musime-se-srdcari-pracovat-na-promene-reaguje-kupka-na-odchod-kuby-z-ods.\\n\\n\\nThe claim was made by: Martin Kupka, Ministr dopravy\\n\\n\\nThe claim appears in the following immediate context in the source:\\nCo přinesla včerejší první mimořádná schůze Poslanecké sněmovny? Poškodí ODS odchod Martina Kuby? A co se řeší v kuloárech? Zeptáme se ministra dopravy v demisi Martina Kupky, také kandidáta na předsedu ODS. Dobrý den. Dobrý den. Proč jste? Včera jsem vás nepotkala? A v kuloárech, nepotkala jsem vás v kuloárech, v předsálí v Poslanecké sněmovny během té mimořádné schůze.\\nByl jsem v sále a my jsme měli tiskovou konferenci i před tou samotnou schůzí, abychom vysvětlili, proč je důležité, aby premiér České republiky nebyl ve střetu zájmů. Ono se to zdá jako abstraktní téma, přitom je to vlastně úplně konkrétní, když by si to člověk představil, kdyby například starosta malé obce nastavoval dotaci té obce a na konci zároveň jeho firmy tu dotaci čerpaly, zneužívaly. Tak ho ti občani vynesou v zubech.\\nA většinu toho jednání. Pardon, že vám do toho skáču. Většinu toho jednání tam seděl pan Výborný, že vlastně i poslanci té většiny se pozastavovali nad tím, tak oni svolají schůzi a potom tady ani nesedí, aby si tu poslechli.\\nJá jsem sledoval chvíli i projev Andreje Babiše, který bohužel byl plný odsudků hodnocení všech těch předchozích let, budování svobodného demokratického státu, kde samozřejmě byly etapy lepší a etapy horší, ale to, že dneska patříme mezi nejvyspělejší evropské země, to nikdo nemůže zpochybnit. A mě vlastně vždycky zlobí, když nikdo z té nastupující vlády, z někdejší opozice nenechá na té zemi nit suchou, že vypadá jako spálená země, no to vůbec neodpovídá realitě. Dneska zveřejnil Český statistický úřad nezávislá instituce data o tom, jak roste ekonomika a ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí. Co to znamená, že jsme třetí nejrychleji rostoucí ekonomika v Evropské unii? To vůbec neodpovídá obrazu spálené země a v tomhleu naopak má zaznít. A je to samozřejmě zásluha podnikatelů. Je to zásluha lidí, kteří v České republice pracují a samozřejmě také hospodářské politiky, kterou se dařilo realizovat v těch předchozích letech. A výsledkem je to, že do toho dalšího období startujeme s dobrými ukazateli. Rostou reálné mzdy.\\nZároveň se podařilo v tomto směru opravdu snížit, stabilizovat inflaci nikde na hodnotě 2,5 %, a to jsou hodnoty, které opravdu znamenají pozitivní zprávu pro každého občana České republiky.\\nSe zeptám znovu, proč jste tam neseděli ve chvíli, kdy svoláváte tu schůzi? Vybavila jsem si několik schůzí, vlastně, jako kdy vy jste potom pranýřovali Andreje Babiše, že tam vlastně u toho není a proč jste vlastně vy, když už to svoláváte? Proč potom tam máte jednoho zástupce, bez jehož přítomnosti by ta schůze vlastně tam potom nemohl.\\nJá jsem ale seděl v Poslanecké lavici, neseděl jsem v tom místě pro ministry, sledoval jsem, co tam Andrej Babiš říká a potom jsem ještě měl možnost, kdy bylo jasné, že ten jeho projev už teda výrazně přesahuje hodinu. Tak jsem se šel také do kancelářské pracovny oslovit veřejnost, protože bylo jasné, že na mě nedojde, já jsem byl řádně přihlášený, ale ta schůze prostě skončila dřív, protože ten hodinu a čtvrt dlouhý projev prostě omezil reálné možnosti znovu se ptát na to, jak to Andrej Babiš vyřeší. To je přece jádro pudla. To by mě zajímalo, přece to je věc, která mimochodem i na základě rozhodnutí Ústavního soudu by měla zaznít předtím, než se Andrej Babiš stane ministr premiérem České republiky. Já jsem to vysvětloval na tom případu toho starosty. Myslím si, že každý pochopí, že není dobře, aby jedna osoba byla na obou koncích toho finančního potrubí, nastavovala podmínky dotací a na druhém konci její firmy ty dotace čerpaly a totéž platí o veřejných zakázkách.\\nA v okamžiku, kdyby to takhle bylo, tak jednak to může Českou republiku připravit o desítky miliard korun evropských dotací, protože se na nás v tomto směru bude hledět jako na netransparentní zemi. Zároveň samozřejmě všichni, kteří v té zemi podnikají a usilovali by o dotace. Musejí mít nutně pocit, že se neměří všem stejně, že některá zvířata jsou tu rovnější. Jak píše George Orwell, tak myslím, že mandátem a povinností opozice je tady bránit ten systém, který má být férový a má být transparentní a o to běží. A to, že se i prezident domáhá toho, aby Andrej Babiš opravdu zveřejnil, jak se s tím vypořádá, tak tím naplňuje jedno z rozhodnutí Ústavního soudu, kdy už v roce 2020 jasně zaznělo, že pokud se někdo opravdu chystá do té role, tak prezident má směřovat, má zjišťovat, jestli nenastane ten protiprávní stav.\\nTa odpověď té odpovědi se vám včera nedostal, tam zaznělo, že to, jakým způsobem oznámím ten střet zájmů a že vlastně už je domluveno s panem prezidentem, stejně jako ten proces toho, jak budou navštěvovat, jak budou navštěvovat a jakým stylem bude komunikovat vlastně s jednotlivými nominanty, nominanty na ministry.\\nAle nezaznělo to, co, tak přece, jak jednoduché by bylo, kdyby Andrej Babiš vystoupil a řekl, udělám to tak a tak. A v tu chvíli myslím, že.\\n\\nProvide a structured, citation-backed verification of the claim: '(...) jedno z rozhodnutí Ústavního soudu, kdy už v roce 2020 jasně zaznělo, že pokud se někdo chystá do té role (člena vlády, pozn. Demagog.cz), tak prezident má zjišťovat, jestli nenastane protiprávní stav.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 524.00 seconds\n## Agent work log\n```\nREASONING: \nWEB SEARCH: \"prezident\" \"protiprávní stav\" \"Ústavní soud\" 2020\nREASONING: \nWEB SEARCH: \"je i povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády\"\nREASONING: \nWEB SEARCH: \"Pl. Ús 4/17\" \"střet zájmů\"\nREASONING: \nWEB SEARCH: \"Nález\" \"Pl. Ús 4/17\" 11. února 2020 \"zákon o střetu zájmů\"\nREASONING: \nWEB SEARCH: \"Pl. Ús 4/17\" \"N 28/98\"\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nWEB SEARCH: \"148/2020 Sb.\" \"Nález Ústavního soudu\"\nREASONING: \nWEB SEARCH: \"bod_197\" \"148/2020 Sb.\"\nREASONING: \nWEB SEARCH: \"je proto povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády\" \"usoud\"\nREASONING: \nOPEN PAGE: None\nREASONING: \nREASONING: \nREASONING: \nOPEN PAGE: None\nREASONING: \nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nREASONING: \nWEB SEARCH: \"protiprávní stav\" \"střet zájmů\" \"prezident\"\nREASONING: \nWEB SEARCH: \"Pl. Ús 4/17\" \"prezident\" \"přihlížet\"\nREASONING: \nWEB SEARCH: \"nález\" \"Pl. ÚS 4/17\" \"lex Babiš\" 2020\nREASONING: \nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Ústavní soud v nálezu z roku 2020 skutečně uvádí, že prezident má při jmenování vlády brát v úvahu možný střet zájmů kandidátů. Nejde však o tak jednoznačný pokyn aktivně „zjišťovat protiprávní stav“, jak tvrdí Martin Kupka. Výrok hodnotíme jako zavádějící.</p>\n\n<p>Martin Kupka svůj výrok pronesl v debatě o tom, jakou roli má prezident při jmenování předsedy vlády a ministrů a zda má předem posuzovat možný střet zájmů kandidátů. Jako argument uvedl, že už rozhodnutí Ústavního soudu z roku 2020 podle něj jasně říká, že prezident má prověřovat, jestli jejich jmenováním nevznikne protiprávní stav.</p>\n\n<p>Výrok obsahuje několik dílčích faktických tvrzení. Zaprvé, že v roce 2020 existuje konkrétní nález Ústavního soudu týkající se střetu zájmů členů vlády. Zadruhé, že tento nález prezidentovi ukládá povinnost zabývat se při jmenování předsedy vlády a ministrů otázkou střetu zájmů. Zatřetí, že tato povinnost má podobu aktivního „zjišťování, zda nenastane protiprávní stav“ už ve chvíli, kdy se někdo „chystá“ stát členem vlády. Hodnotící obraty jako „jasně zaznělo“ jsou nenormativní a neověřujeme je samostatně; zaměřujeme se na obsah nálezu a jeho výklad.</p>\n\n<p>K první části výroku, tedy samotné existenci nálezu: Ústavní soud vydal 11. února 2020 nález sp. zn. Pl. ÚS 4/17, vyhlášený pod číslem 148/2020 Sb. Tento nález se zabývá ústavností některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, ve znění tzv. <i>lex Babiš</i>, a vztahuje se mimo jiné na členy vlády jako veřejné funkcionáře. Text nálezu je dostupný v databázi NALUS Ústavního soudu, kde je zároveň uvedeno, že byl uveřejněn ve Sbírce nálezů a usnesení Ústavního soudu, svazek 98, na straně 163 a následujících (<a href=\"https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-4-17_2\">NALUS, Pl. ÚS 4/17</a>, s. 163 a násl.). Tvrzení, že v roce 2020 existuje rozhodnutí Ústavního soudu týkající se střetu zájmů členů vlády, je tedy pravdivé.</p>\n\n<p>V odůvodnění tohoto nálezu se soud podrobně věnuje tomu, jak má být vykládán čl. 70 Ústavy, který říká, že člen vlády nesmí vykonávat činnosti, jejichž povaha odporuje výkonu jeho funkce, a jak k tomu mohou zákony stanovit podrobnosti. Soud vysvětluje, že článek 70 představuje generální klauzuli a že zákonodárce je podle něj oprávněn detailněji regulovat situace střetu zájmů členů vlády zákonem o střetu zájmů (<a href=\"https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-4-17_2\">NALUS, Pl. ÚS 4/17</a>, bod 134–136, s. 200–202 SbNU).</p>\n\n<p>Stejně tak nález cituje konkrétní ustanovení zákona o střetu zájmů, například § 4 a § 4a. Podle těchto ustanovení člen vlády nesmí podnikat nebo být v orgánech podnikajících právnických osob a je povinen tyto činnosti ukončit po jmenování: zákon výslovně stanoví, že veřejní funkcionáři podle § 2 odst. 1 písm. c) až h) jsou povinni zakázané činnosti „ukončit bez zbytečného odkladu poté, co začali vykonávat svou funkci, nejpozději však do 30 dnů ode dne zahájení výkonu funkce“ (<a href=\"https://www.stretzajmu.cz/cz/menu/9/pro-obcana/zakon-o-stretu-zajmu/\">zákon č. 159/2006 Sb.</a>, § 4 odst. 3). U mediálních aktivit podle § 4a je tato lhůta 60 dnů (<a href=\"https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-4-17_2\">NALUS, Pl. ÚS 4/17</a>, bod 4, s. 165 SbNU). Zákon tedy počítá s tím, že některé neslučitelné činnosti mohou formálně trvat ještě určitou dobu po jmenování do funkce, pokud jsou v předepsané lhůtě ukončeny.</p>\n\n<p>Klíčová pro výrok Martina Kupky je pasáž nálezu, která se výslovně dotýká role prezidenta při jmenování vlády. V části odůvodnění, kde soud shrnuje, jak mají ústavní orgány dbát na prevenci střetu zájmů, Ústavní soud uvádí, že mezi prostředky ochrany veřejného zájmu patří i postup prezidenta při jmenování vlády. Doslova píše, že je <i>„povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády (a poté jejími členy), k tomu, zda jmenováním může takový (zejména neřešitelný) střet vzniknout…“</i> a zda bude možné jej řešit postupy, které předvídá Ústava a zákon o střetu zájmů (<a href=\"https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-4-17_2\">NALUS, Pl. ÚS 4/17</a>, bod 197, s. 207 SbNU). Druhé dílčí tvrzení, že se nález zabývá rolí prezidenta ve vztahu ke střetu zájmů kandidátů na členy vlády a mluví o určité povinnosti prezidenta, je tedy věcně správné.</p>\n\n<p>Je ale podstatné, v jakém kontextu je tato věta v nálezu uvedena. Ústavní soud ji formuluje v odůvodnění jako obecnou úvahu o tom, jak mají vrcholné orgány výkonné moci – včetně prezidenta, předsedy vlády a samotných členů vlády – bránit vzniku nebo trvání závažného střetu zájmů. Nejde o samostatný výrok soudu, který by přímo vytvářel nové, detailně vymezené procesní povinnosti pro prezidenta, ale o výklad existujících ústavních a zákonných pravidel v širších souvislostech (<a href=\"https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-4-17_2\">NALUS, Pl. ÚS 4/17</a>, body 193–199, s. 205–208 SbNU).</p>\n\n<p>Samotný zákon o střetu zájmů přitom, jak už bylo zmíněno, konstruuje povinnosti především na straně veřejného funkcionáře po jeho jmenování. Podle § 4 odst. 3 a § 4a odst. 2 má nově jmenovaný člen vlády po převzetí funkce stanovenou lhůtu k tomu, aby ukončil zakázané podnikání, členství v orgánech obchodních společností nebo účast v mediální firmě; teprve nesplnění těchto povinností může vést k přestupkovým sankcím, o nichž rozhodují správní orgány, nikoli prezident (<a href=\"https://www.stretzajmu.cz/cz/menu/9/pro-obcana/zakon-o-stretu-zajmu/\">zákon č. 159/2006 Sb.</a>, § 4 a § 4a). V odborném komentáři k aktuálním diskusím o sestavování vlády ústavní právník Aleš Gerloch navíc upozorňuje, že úprava zákona o střetu zájmů „v těchto věcech vylučuje stanovení předběžných podmínek pro jmenování členem vlády, jakož i posuzování dodržení těchto ustanovení jiným státním orgánem (tedy i prezidentem)“ a dodává, že zmínka Ústavního soudu o posuzování střetu zájmů prezidentem je v nálezu uvedena jen „jako obiter dictum“ – tedy spíše ilustrativní poznámka k hlavní argumentaci (<a href=\"https://www.lidovky.cz/nazory/sestavovani-vlady-a-sermovani-ustavou-ta-musi-byt-vykladana-ve-svem-celku.A251126_105001_ln_nazory_rkj\">Lidovky.cz, Aleš Gerloch</a>).</p>\n\n<p>Pokud tedy shrneme třetí dílčí tvrzení, Martin Kupka říká, že Ústavní soud „jasně“ stanovil, že „pokud se někdo chystá do té role“ člena vlády, má prezident „zjišťovat, jestli nenastane protiprávní stav“. Ve skutečnosti nález mluví o povinnosti prezidenta „přihlížet“ při jmenování k tomu, zda jmenováním kandidáta může vzniknout zejména neřešitelný střet zájmů, a zda bude možné jej řešit zákonnými nástroji. Neříká ale, jak přesně má prezident takové přihlížení prakticky provádět, ani nerozšiřuje jeho pravomoci nad rámec textu Ústavy a zákonů. Zároveň samotný zákon o střetu zájmů předpokládá, že některé neslučitelné činnosti lze po jmenování ještě po určitou dobu ukončit, takže určitý (přechodný) střet zájmů může existovat i krátce po nástupu do funkce, aniž by šlo o trvale „neřešitelný“ protiprávní stav.</p>\n\n<p>Z našeho pohledu je tedy přesné říci, že nález z roku 2020 připomíná prezidentovi povinnost brát při jmenování vlády v úvahu možné střety zájmů a jejich řešitelnost. Za zavádějící ale považujeme, že Martin Kupka tuto obecnou úvahu v odůvodnění nálezu převádí do podoby velmi silné a „jasné“ povinnosti prezidenta aktivně „zjišťovat, jestli nenastane protiprávní stav“ ještě před samotným jmenováním, a to bez zmínky o tom, že detailní režim střetu zájmů je nastaven zákonem až pro období po nástupu do funkce a že sankce za porušení nese primárně sám veřejný funkcionář.</p>\n\n<p>V souhrnu: nález Ústavního soudu z roku 2020 o střetu zájmů (Pl. ÚS 4/17) skutečně existuje a zabývá se i rolí prezidenta při jmenování vlády, když po něm požaduje, aby při výběru kandidátů zohledňoval možné, zejména neřešitelné střety zájmů. Z výroku ani z textu nálezu však neplyne tak jednoznačná a procesně detailní povinnost prezidenta „zjišťovat, jestli nenastane protiprávní stav“, jak ji prezentuje Martin Kupka. Proto jeho výrok jako celek hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0e457c0b2adab334006936c493f15481a3817caf1204c4c22e",
+    "created_at": 1765196947.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0e457c0b2adab334006936c4a26d1481a3af15cbbaa8aa46f3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c4b0b95481a3bbe840395d19a17a",
+        "action": {
+          "query": "\"prezident\" \"protiprávní stav\" \"Ústavní soud\" 2020",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c4b906dc81a3a6cbce62d60f64a7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c4d0a80081a3b727629a348d355f",
+        "action": {
+          "query": "\"je i povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c4e150bc81a3b44554b8ce459aa9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c4e9008c81a399ec1354eb4c0886",
+        "action": {
+          "query": "\"Pl. Ús 4/17\" \"střet zájmů\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c4f06efc81a385b23669b382f56e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c4f3e59481a3b68446feb8b11a24",
+        "action": {
+          "query": "\"Nález\" \"Pl. Ús 4/17\" 11. února 2020 \"zákon o střetu zájmů\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c4ffe7d081a3aea487bc65c02f7d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c5020e0481a38a98ba9665c0a9d7",
+        "action": {
+          "query": "\"Pl. Ús 4/17\" \"N 28/98\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c50d1d2881a3892a103cfb6b3f34",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c513e2f881a39ef2d564e28589a5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c517409881a3874d62954f25076a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c51ac9f881a38d711ff770424e38",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c51e5fc481a381061d964a0aad38",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c51f6f6c81a3ba16feadb81a470b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c521cdc081a3bc41caebc1f18262",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c52519c881a3980d4f2c631f497f",
+        "action": {
+          "query": "\"148/2020 Sb.\" \"Nález Ústavního soudu\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c530913c81a39cf9c08004a206b0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c533c2f081a3b0d72ac9a6cf471e",
+        "action": {
+          "query": "\"bod_197\" \"148/2020 Sb.\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c53cee9481a381ad77e575eaf99e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c541c62c81a39ab91e254be00f34",
+        "action": {
+          "query": "\"je proto povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády\" \"usoud\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c550ce7881a38309de1d6a9dbbda",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c56eada881a38c4610c5cf496dbf",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c5730a2c81a3bc2e9655a2ba07c8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c573ead481a3abe42f878071b0c7",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Kromě celé řady na to navazujících zákonů"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c577b20881a3858f2cb26022b6a6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c57af4c081a3abe06cf5ba936e63",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "protiprávní stav"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c57eb7d881a3b4cc8f85e70d1c52",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c5813f3881a3897fa268a43aacd5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c583545481a3a867d430c9edafb5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c583f15881a392a73545bfdd2cbf",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Teprve zvolením nastává možná situace střetu zájmů"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c589513081a39eb71504b1debee0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c589d1e881a398f5640caa901ba5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c58d3eec81a3abebc2790b8acb73",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c5930b2881a3ae5322af28859ce1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c5971fcc81a3bd0a61cb1d74a1e6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c597d7d481a38bfad062dd0db7e1",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Naopak stanoví"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c59fe63081a387da790dbdd8efb2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c5b5e31081a39a9ee0022d21c8c2",
+        "action": {
+          "query": "\"protiprávní stav\" \"střet zájmů\" \"prezident\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c5bd510481a3bfa0f52f55b1ef47",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c5dbad6c81a3b99e0159538739ac",
+        "action": {
+          "query": "\"Pl. Ús 4/17\" \"prezident\" \"přihlížet\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c5e1c67c81a39df31f75449cab68",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e457c0b2adab334006936c5e4598081a3ae3803b1c4611b9c",
+        "action": {
+          "query": "\"nález\" \"Pl. ÚS 4/17\" \"lex Babiš\" 2020",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e457c0b2adab334006936c5e9dd3081a39855ab943fc93ddc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0e457c0b2adab334006936c63a22f881a386db68258ea86950",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1195,
+                "start_index": 1133,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 1391,
+                "start_index": 1329,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 1650,
+                "start_index": 1575,
+                "title": "2/1993 Sb.",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/sqw/sbirka.sqw?cz=2&r=1993&utm_source=openai"
+              },
+              {
+                "end_index": 2550,
+                "start_index": 2488,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 2987,
+                "start_index": 2925,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 3384,
+                "start_index": 3322,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 4316,
+                "start_index": 4225,
+                "title": "PČR, PS 2025-..., 4. schůze, část 12 (27. 11. 2025)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2025ps/stenprot/004schuz/s004012.htm?utm_source=openai"
+              },
+              {
+                "end_index": 4497,
+                "start_index": 4351,
+                "title": "Prezident má podle Ústavního soudu ke střetu zájmů přihlížet | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/prezident-petr-pavel-ustavni-nalez-stret-zajmu-andrej-babis_2511191041_kno?utm_source=openai"
+              },
+              {
+                "end_index": 5637,
+                "start_index": 5575,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 5943,
+                "start_index": 5881,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 6364,
+                "start_index": 6302,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 7494,
+                "start_index": 7324,
+                "title": "Verdikt emeritního ústavního soudce: Střet zájmů není překážkou pro jmenování Babiše premiérem – Nová republika",
+                "type": "url_citation",
+                "url": "https://www.novarepublika.cz/2025/11/verdikt-emeritniho-ustavniho-soudce-stret-zajmu-neni-prekazkou-pro-jmenovani-babise-premierem?utm_source=openai"
+              },
+              {
+                "end_index": 8696,
+                "start_index": 8550,
+                "title": "Prezident má podle Ústavního soudu ke střetu zájmů přihlížet | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/prezident-petr-pavel-ustavni-nalez-stret-zajmu-andrej-babis_2511191041_kno?utm_source=openai"
+              },
+              {
+                "end_index": 8965,
+                "start_index": 8874,
+                "title": "PČR, PS 2025-..., 4. schůze, část 12 (27. 11. 2025)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2025ps/stenprot/004schuz/s004012.htm?utm_source=openai"
+              },
+              {
+                "end_index": 9815,
+                "start_index": 9645,
+                "title": "Verdikt emeritního ústavního soudce: Střet zájmů není překážkou pro jmenování Babiše premiérem – Nová republika",
+                "type": "url_citation",
+                "url": "https://www.novarepublika.cz/2025/11/verdikt-emeritniho-ustavniho-soudce-stret-zajmu-neni-prekazkou-pro-jmenovani-babise-premierem?utm_source=openai"
+              },
+              {
+                "end_index": 10254,
+                "start_index": 10099,
+                "title": "Řešení střetu zájmů bude až po Babišově jmenování do funkce - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/zpravy/domaci/babis-pavel-prezident-stret-zajmu-prvnik-preuss-pravni-uprava.A251107_181128_domaci_lysa?utm_source=openai"
+              },
+              {
+                "end_index": 10999,
+                "start_index": 10937,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 11374,
+                "start_index": 11312,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 12272,
+                "start_index": 12210,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 12746,
+                "start_index": 12576,
+                "title": "Verdikt emeritního ústavního soudce: Střet zájmů není překážkou pro jmenování Babiše premiérem – Nová republika",
+                "type": "url_citation",
+                "url": "https://www.novarepublika.cz/2025/11/verdikt-emeritniho-ustavniho-soudce-stret-zajmu-neni-prekazkou-pro-jmenovani-babise-premierem?utm_source=openai"
+              },
+              {
+                "end_index": 13092,
+                "start_index": 13030,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 13709,
+                "start_index": 13629,
+                "title": "148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148?utm_source=openai"
+              },
+              {
+                "end_index": 14161,
+                "start_index": 13987,
+                "title": "159/2006 Sb., Zákon o střetu zájmů, ve znění účinném k 1.1.2024 | Daně, účetnictví, právo, práce a mzdy pro profesionály",
+                "type": "url_citation",
+                "url": "https://www.du.cz/33/159-2006-sb-zakon-o-stretu-zajmu-ve-zneni-ucinnem-k-1-1-2024-uniqueidOhwOuzC33qe_hFd_-jrpTl4cdX9Ek5l8MJS_-1wqvGwCD-vMUnwPlw/?utm_source=openai"
+              },
+              {
+                "end_index": 14727,
+                "start_index": 14665,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              },
+              {
+                "end_index": 15205,
+                "start_index": 15143,
+                "title": "\n148/2020 Sb. Nález ÚS ČR o zamítnutí návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, a odmítnutí návrhu na zrušení některých ustanovení zákona č. 14/2017 Sb.\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2020-148"
+              }
+            ],
+            "text": "### 1. Shrnutí tvrzení  \n\nKupka tvrdí, že **v jednom z nálezů Ústavního soudu z roku 2020 už „jasně zaznělo“, že pokud se někdo chystá stát členem vlády, prezident má zjišťovat, zda tím nevznikne protiprávní stav** (ve smyslu neřešitelného střetu zájmů).\n\nJádro je tedy:\n\n1. Existuje nález ÚS z roku 2020 týkající se střetu zájmů členů vlády.  \n2. Tento nález ukládá prezidentovi určitou **aktivní povinnost** při jmenování premiéra a členů vlády ve vztahu ke střetu zájmů.  \n3. Kupka to interpretuje jako povinnost prezidenta **„zjišťovat, jestli nenastane protiprávní stav“** už ve fázi, kdy se dotyčný chystá do funkce.\n\nNíže rozděleno do dílčích tvrzení a doloženo z nálezu ÚS a dalších zdrojů.\n\n---\n\n## 2. Dílčí tvrzení a důkazy\n\n### 2.1 Existence relevantního nálezu ÚS z roku 2020\n\n**Tvrzení:** V roce 2020 Ústavní soud rozhodoval o zákonu o střetu zájmů a řešil i postavení členů vlády a prezidenta.\n\n**Důkazy:**\n\n- Nález č. **148/2020 Sb.**, sp. zn. **Pl. ÚS 4/17**, ze dne 11. 2. 2020, „ve věci návrhů na zrušení některých ustanovení zákona č. 159/2006 Sb., o střetu zájmů, (…) a některých ustanovení zákona č. 14/2017 Sb.“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n  – V textu je výslovně uvedeno, že navrhovatelem je **prezident republiky** a jedná se o tzv. **lex Babiš** (zákon o střetu zájmů)([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148)).  \n\n- Sbírka zákonů eviduje nález jako č. **148/2020 Sb.** s datem rozhodnutí 11. 2. 2020 a stručným popisem, že jde o návrhy na zrušení ustanovení zákona o střetu zájmů a jeho novely([psp.cz](https://www.psp.cz/sqw/sbirka.sqw?cz=2&r=1993&utm_source=openai)).  \n\n**Závěr k 2.1:** Ano, **v roce 2020 existuje nález ÚS (Pl. ÚS 4/17, 148/2020 Sb.)**, který se týká střetu zájmů členů vlády a vychází z návrhu prezidenta republiky.\n\n---\n\n### 2.2 Co nález říká o povinnostech prezidenta při jmenování premiéra a členů vlády\n\n**Tvrzení:** Nález z roku 2020 ukládá prezidentovi určitou povinnost při jmenování předsedy vlády a členů vlády ve vztahu ke střetu zájmů.\n\n**Důkazy (přímé citace z nálezu):**\n\nV odůvodnění nálezu se nachází klíčová pasáž (část kolem bodů 197–198), kde Ústavní soud popisuje ústavní roli prezidenta a předsedy vlády ve vztahu k zákonu o střetu zájmů:\n\n- Soud nejprve vysvětluje, že zákonodárce je podle čl. 70 Ústavy oprávněn „stanovit v zákonech podrobnosti“ k ústavním povinnostem členů vlády a že mezi tyto „podrobnosti“ lze zařadit i procesní postupy k řešení střetů zájmů([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148)).  \n\n- Poté následuje pro nás podstatná věta (zvýraznění doplněno):\n\n  > „…**je i povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády (a poté jejich členů)**, k tomu, **zda jmenováním může takový (zejména neřešitelný) střet vzniknout a zda bude moci být řešen postupem, který Ústava, popř. zákon (zejména zákon o střetu zájmů), předvídá**.“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n  (Citace zkrácena na < 25 slov, klíčové části zvýrazněny.)\n\n- Nález dále dodává, že u členů vlády je především na **předsedovi vlády**, aby ve smyslu čl. 69 odst. 2 a čl. 74 Ústavy dohlížel na respektování povinností spojených s funkcí člena vlády, včetně pravidel pro řešení střetu činností odporujících výkonu funkce člena vlády([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148)).  \n\n**Význam této pasáže:**\n\n- ÚS **výslovně mluví o „povinnosti prezidenta republiky“** – nejde jen o obecné doporučení.  \n- Má **přihlížet „při zvažování, koho jmenovat předsedou vlády (a poté jejich členů)“** – tedy právě ve fázi, kdy se rozhoduje, kdo bude premiérem a ministrem.  \n- Má přihlížet k tomu, **zda může jmenováním vzniknout střet zájmů, zvláště neřešitelný**, a zda bude možné konflikt řešit podle Ústavy a zákonů (zejména zákona o střetu zájmů).  \n\nTato právní věta je v médiích a odborných textech po roce 2020 opakovaně citována právě jako klíčový závěr nálezu k roli prezidenta: např. přepisy z Poslanecké sněmovny doslovně citují, že „je povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády a poté jejích členů, k tomu, zda jmenováním může takový zejména neřešitelný střet vzniknout…“([psp.cz](https://www.psp.cz/eknih/2025ps/stenprot/004schuz/s004012.htm?utm_source=openai)). Podobně shrnují tuto větu i média([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/prezident-petr-pavel-ustavni-nalez-stret-zajmu-andrej-babis_2511191041_kno?utm_source=openai)).\n\n**Závěr k 2.2:**  \nNález **zřetelně a výslovně stanoví**, že prezident má povinnost při jmenování předsedy vlády a následně členů vlády **aktivně přihlížet** k riziku vzniku (zejména neřešitelného) **střetu zájmů** a k tomu, zda jej bude možné řešit prostředky předvídanými ústavou a zákonem o střetu zájmů.\n\n---\n\n### 2.3 Co nález říká o „předstižném“ vylučování kandidátů a o okamžiku, kdy se střet zájmů řeší\n\nKupka ve tvrzení mluví o fázi, kdy se někdo „chystá do té role“ – tj. před jmenováním / vstupem do funkce. Je proto důležité, co nález říká o tom, kdy se střet zájmů typicky řeší.\n\n**Důkazy z nálezu:**\n\nV části odůvodnění (body 115–116) ÚS výslovně odlišuje:\n\n1. **Právo ucházet se o volenou či jinou veřejnou funkci**, a  \n2. **Podmínky výkonu funkce po zvolení / jmenování**.\n\n- ÚS zdůrazňuje, že český ústavní pořádek (s výjimkou několika ústavních „volebních cenzů“) **„neumožňuje tzv. předstižně … vyloučit někoho předem z práva ucházet se o zvolení“** a že **„Teprve zvolením nastává možná situace střetu zájmů a nutnost jej vyřešit, popř. alespoň řešit.“**([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n- Dále dodává:\n\n  > „Každý, kdo splňuje výše uvedené podmínky, má právo se ucházet o zvolení (…) nebýt **protiprávně vyloučen** z kandidování (…) Není však právo např. na to, aby se proto někdo stal starostou, hejtmanem či předsedou vlády…“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n- V bodu 116 pak soud výslovně říká:\n\n  > „Právní předpisy České republiky nikomu předem nebrání ucházet se o volenou nebo jinou veřejnou funkci z důvodu možného střetu zájmů (…) **Naopak stanoví, že o veřejnou funkci se … může ucházet každý s tím, že případný vznik neslučitelnosti nebo střetu zájmů bude řešen až v případě, že veřejnou funkci nabude.**“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n**Význam:**\n\n- **Kandidovat / ucházet se o funkci** – včetně funkce člena vlády – lze, i když lze předvídat možný střet zájmů.  \n- **Samotné právo ucházet se o funkci nesmí být „protiprávně“ omezeno** tím, že by někdo byl předem vyloučen kvůli možnému střetu.  \n- **Střet zájmů se má řešit až po nabytí funkce** (v zákonem stanovených lhůtách a procedurách), nikoli jako podmínka možnosti kandidovat.\n\nNález tedy současně:\n\n- **A)** Zakotvuje **povinnost prezidenta přihlížet** ke střetu zájmů při jmenování (viz 2.2),  \n- **B)** Ale zároveň říká, že **právo ucházet se o funkci nesmí být předem omezeno kvůli střetu**; konflikt se řeší až poté, co dotyčný veřejnou funkci získá.\n\nTo vede i část odborné veřejnosti k názoru, že prezident **nemá pravomoc sám „rozhodovat“, zda kandidát už je či není ve střetu zájmů**, nebo jej ex ante diskvalifikovat; to je úkol jiných orgánů (Ministerstvo spravedlnosti, správní orgány, soudy) podle zákona o střetu zájmů([novarepublika.cz](https://www.novarepublika.cz/2025/11/verdikt-emeritniho-ustavniho-soudce-stret-zajmu-neni-prekazkou-pro-jmenovani-babise-premierem?utm_source=openai)).\n\n**Závěr k 2.3:**  \nNález **neříká**, že by Čeští právní předpisy bránily kandidatuře osoby, u níž hrozí střet zájmů. Naopak výslovně stanoví, že **střet zájmů se řeší až po nabytí funkce**, i když prezident a premiér mají povinnost na dodržování těchto pravidel dohlížet.\n\n---\n\n### 2.4 Jak nález interpretuje odborná veřejnost a další zdroje\n\nPro posouzení, zda Kupkova formulace „prezident má zjišťovat, jestli nenastane protiprávní stav“ odpovídá duchu nálezu, je užitečné podívat se na to, jak jej vykládají ústavní právníci.\n\n#### 2.4.1 Výklady zdůrazňující *aktivní roli prezidenta*\n\nŘada komentářů (2023–2025), zejména ve spojitosti s debatou o případném jmenování Andreje Babiše premiérem, cituje právě větu o „povinnosti prezidenta přihlížet“ jako důkaz, že prezident **musí před jmenováním zohlednit možný neřešitelný střet zájmů**:\n\n- iRozhlas shrnuje klíčovou pasáž nálezu tak, že prezident má „přihlížet při zvažování, koho jmenovat“ k tomu, zda jmenováním může vzniknout střet a zda bude možné jej řešit podle Ústavy a zákona o střetu zájmů([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/prezident-petr-pavel-ustavni-nalez-stret-zajmu-andrej-babis_2511191041_kno?utm_source=openai)).  \n\n- Podobně i další média a politici cituji nález v tom smyslu, že prezident je **„zavázán“** tímto nálezem ke kontrole rizika střetu zájmů u kandidáta na premiéra či ministry([psp.cz](https://www.psp.cz/eknih/2025ps/stenprot/004schuz/s004012.htm?utm_source=openai)).  \n\nZ těchto výkladů plyne, že prezident **nemůže jmenování provést „naslepo“**, ale musí si – v rozumné míře – ověřit, zda by jmenováním nevznikl střet zájmů, zejména neřešitelný.\n\n#### 2.4.2 Výklady zdůrazňující *omezenou pravomoc prezidenta a roli jiných orgánů*\n\nNa druhé straně část ústavních právníků (včetně emeritního soudce ÚS Radovana Suchánka) upozorňuje, že:\n\n- Ačkoli nález ukládá prezidentovi **povinnost „přihlížet“**,  \n- **Ústava ani zákony prezidentovi nedávají pravomoc**, aby **sám autoritativně rozhodoval**, zda kandidát je či není ve střetu zájmů; k tomu jsou určeny jiné orgány (Ministerstvo spravedlnosti, správní orgány, soudy) dle zákona o střetu zájmů([novarepublika.cz](https://www.novarepublika.cz/2025/11/verdikt-emeritniho-ustavniho-soudce-stret-zajmu-neni-prekazkou-pro-jmenovani-babise-premierem?utm_source=openai)).  \n\nJiní právníci pak připomínají, že právní úprava střetu zájmů **počítá s tím, že se střet odstraní až po jmenování (typicky do 30 dnů)** a že prezident se svou „povinností přihlížet“ má spíše **předcházet zjevným neřešitelným konfliktům**, než vést paralelní řízení o střetu zájmů([idnes.cz](https://www.idnes.cz/zpravy/domaci/babis-pavel-prezident-stret-zajmu-prvnik-preuss-pravni-uprava.A251107_181128_domaci_lysa?utm_source=openai)).\n\n**Závěr k 2.4:**  \nOdborná veřejnost se shoduje, že nález ukládá prezidentovi **určitý preventivní a kontrolní úkol** ve vztahu ke střetu zájmů u premiéra a ministrů. Liší se ale v názoru, **jak daleko tato povinnost sahá** – zda jde „jen“ o povinnost přihlížet a případně žádat vysvětlení, nebo až o právo Prezidenta odmítnout jmenovat kandidáta, u nějž vidí riziko neřešitelného střetu (a tedy „protiprávního stavu“).\n\n---\n\n## 3. Zhodnocení Kupkova tvrzení\n\n### 3.1 Co je přesné\n\n1. **Rok a existence nálezu:**  \n   - Skutečně existuje **nález ÚS z roku 2020 (Pl. ÚS 4/17, 148/2020 Sb.)** týkající se zákona o střetu zájmů, kde se řeší i postavení členů vlády a role prezidenta.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n2. **Obsah ve vztahu k prezidentovi:**  \n   - Nález **výslovně** stanoví, že je „**povinností prezidenta republiky přihlížet při zvažování, koho jmenovat předsedou vlády (a poté jejich členů)**“ k riziku vzniku (zejména neřešitelného) střetu zájmů a k možnosti jeho řešení podle Ústavy a zákona o střetu zájmů([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148)).  \n   - To lze rozumně interpretovat tak, že **prezident má před jmenováním zohlednit, zda by jmenováním nevzniklo postavení v rozporu se zákonem o střetu zájmů**, tedy potenciálně „protiprávní stav“.\n\n3. **Vztah k situaci „když se někdo chystá do té role“:**  \n   - Nález se přímo vztahuje k okamžiku, kdy prezident **zvažuje, koho jmenovat** – tedy k fázi, kdy se kandidát „chystá“ stát premiérem či ministrem, nikoli až k době dávno po jmenování.\n\n### 3.2 Co je zjednodušené nebo nadsazené\n\n1. **Formulace „má zjišťovat, jestli nenastane protiprávní stav“**  \n\n   - ÚS mluví o povinnosti **„přihlížet při zvažování“** a zohlednit, zda by jmenováním **„mohl vzniknout (zejména neřešitelný) střet“**, a zda jej lze řešit dle zákona. Neříká přímo, že prezident má **„vyšetřovat“ nebo „posuzovat“ střet zájmů sám jako rozhodující orgán.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n   - Praktické „zjišťování“ (posouzení, sbírání informací, žádost o vysvětlení od kandidáta) z povinnosti přihlížet logicky plyne, **ale nález nesvěřuje prezidentovi roli orgánu, který formálně rozhoduje o střetu zájmů** – ta přísluší jiným orgánům (Ministerstvo spravedlnosti, správní orgány, soudy).([novarepublika.cz](https://www.novarepublika.cz/2025/11/verdikt-emeritniho-ustavniho-soudce-stret-zajmu-neni-prekazkou-pro-jmenovani-babise-premierem?utm_source=openai))  \n\n2. **Okamžik řešení střetu zájmů**  \n\n   - Nález současně výslovně stanoví, že **české právo nikoho předem nevylučuje z ucházení se o funkci kvůli možnému střetu zájmů** a že **„případný vznik neslučitelnosti nebo střetu zájmů bude řešen až v případě, že veřejnou funkci nabude“**([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148)).  \n   - To znamená, že nález **neříká**, že by střet musel být **zcela vyřešen už před jmenováním**, pouze že prezident musí při jmenování zvážit, zda jmenováním nevznikne **neřešitelný** střet, resp. stav, který **nebude možné** napravit prostředky, které zákon dává.  \n\n3. **Výraz „protiprávní stav“**  \n\n   - Samotný pojem „**protiprávní stav**“ Ústavní soud v citovaných pasážích nepoužívá; pracuje s pojmem **střetu zájmů**, neslučitelnosti a ústavního deliktu (porušení pravidel čl. 70 Ústavy ve spojení se zákonem o střetu zájmů)([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148?utm_source=openai)).  \n   - „Protiprávní stav“ je tedy **Kupkova (a obecně politická) zkratka** pro situaci, kdy by premiér či ministr vykonával funkci v rozporu se zákonem o střetu zájmů (např. by stát dál přiděloval dotace či zakázky firmám, které podle § 4b a § 4c nesmí takové plnění přijímat)([du.cz](https://www.du.cz/33/159-2006-sb-zakon-o-stretu-zajmu-ve-zneni-ucinnem-k-1-1-2024-uniqueidOhwOuzC33qe_hFd_-jrpTl4cdX9Ek5l8MJS_-1wqvGwCD-vMUnwPlw/?utm_source=openai)). Tato zkratka je obsahově přiměřená, ale formálně se v nálezu neobjevuje.\n\n---\n\n## 4. Celkové zhodnocení\n\n- **Faktické jádro tvrzení (existence nálezu 2020 a to, že ukládá prezidentovi povinnost při jmenování přihlížet ke střetu zájmů kandidáta na premiéra / člena vlády) je přesné.** Nález Pl. ÚS 4/17 z roku 2020 opravdu **jasně říká**, že prezident má při zvažování, koho jmenovat, hodnotit riziko vzniku (zejména neřešitelného) střetu zájmů a možnost jeho řešení v rámci ústavního a zákonného rámce.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\n- **Kupkova formulace „má zjišťovat, jestli nenastane protiprávní stav“ je ale zjednodušující a mírně posouvá důraz:**\n  - Nález mluví o **„přihlížení“** a o **„střetu zájmů“**, nikoliv o tom, že prezident má formálně „zjišťovat protiprávní stav“.  \n  - Soud současně říká, že **střet zájmů se zpravidla řeší až po nabytí funkce**, což omezuje, jak daleko může prezident svou preventivní roli ex ante rozšiřovat.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2020-148))  \n\nPro účely fact-checkingu lze tedy shrnout:\n\n> **Ano, Ústavní soud v nálezu z roku 2020 skutečně uložil prezidentovi povinnost při jmenování premiéra a členů vlády zohlednit riziko neřešitelného střetu zájmů.**  \n> Kupka tuto povinnost vystihuje v zásadě věcně, ale **používá vlastní, mírně nadsazenou formulaci („má zjišťovat, jestli nenastane protiprávní stav“), která ne zcela odpovídá přesné slovní podobě a nuancím nálezu.**\n\n---\n\n## 5. Přehled hlavních primárních zdrojů (pro snadnou kontrolu)\n\n```text\nNález ÚS č. 148/2020 Sb. (Pl. ÚS 4/17) – zákon o střetu zájmů:\nhttps://www.zakonyprolidi.cz/cs/2020-148\n\nSbírka zákonů – anotace 148/2020 a 149/2020:\nhttps://www.psp.cz/sqw/sbirka.sqw?cz=2&r=1993\n\nKrajta – jednotlivé body nálezu 148/2020 Sb. (např. bod 4, 97, 115–117, 197):\nhttps://krajta.slv.cz/2020/148/bod_4\nhttps://krajta.slv.cz/2020/148/bod_97\nhttps://krajta.slv.cz/2020/148/bod_1%3A5  (úvod)\n(ostatní body přes rozhraní /bod_číslo)\n\nZákon č. 159/2006 Sb., o střetu zájmů (aktuální znění – pro definici veřejného funkcionáře a zákazů):\nhttps://www.zakonyprolidi.cz/cs/2006-159\n(nebo např. přehledná verze na DU.cz / Živnostník.cz)\n\nPřehled ve Sbírce zákonů – zařazení nálezu 148/2020 a 149/2020:\nhttps://www.psp.cz/sqw/sbirka.sqw?O=1&T=276\n```",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 92164,
+      "input_tokens_details": {
+        "cached_tokens": 3840
+      },
+      "output_tokens": 18610,
+      "output_tokens_details": {
+        "reasoning_tokens": 13076
+      },
+      "total_tokens": 110774
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

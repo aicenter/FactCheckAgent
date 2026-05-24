@@ -1,0 +1,523 @@
+{
+  "claim_id": "24541",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20260116_143820",
+  "source_md": "experiments/gpt-5.1h_20260116_143820/brief_fact_check_id24541.md",
+  "fact_check": "# Fact Check for Statement ID 24541\n\n## Statement\nVyslovení důvěry vládě musí být do 30 dnů od jmenování premiéra.\n\n---\n## AI Fact Check\n## 1. Posuzovaný výrok\n\nPatrik Nacher:  \n**„Vyslovení důvěry vládě musí být do 30 dnů od jmenování premiéra.“**\n\nVýrok se opírá o existenci zákonné lhůty 30 dnů a o tvrzení, od jakého okamžiku tato lhůta běží.\n\n---\n\n## 2. Rozklad výroku na dílčí tvrzení\n\n1. **Tvrzení A – existence 30denní lhůty:**  \n   První žádost nové vlády o vyslovení důvěry Poslaneckou sněmovnou (a faktické projednání/vyslovení důvěry) musí proběhnout do 30 dnů.\n\n2. **Tvrzení B – počátek lhůty:**  \n   Těchto 30 dnů se počítá **od jmenování premiéra** (předsedy vlády) prezidentem republiky.\n\n---\n\n## 3. Právní úprava důvěry vládě\n\n### 3.1 Ústava České republiky – čl. 68\n\nText Ústavy (ústavní zákon č. 1/1993 Sb.) v části o vládě je reprodukován na několika oficiálních či odborných webech.\n\n- Stránky vlády ČR („Postavení vlády – ústava“) uvádějí u čl. 68:  \n\n  - odst. 2: „Předsedu vlády jmenuje prezident republiky a na jeho návrh jmenuje ostatní členy vlády…“ ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n  - odst. 3: „**Vláda předstoupí do třiceti dnů po svém jmenování** před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n\n- Stejné znění čl. 68 cituje např.:\n  - oficiální text ústavního zákona č. 1/1993 Sb. na právním portálu krajta.slv.cz ([krajta.slv.cz](https://krajta.slv.cz/1993/1?utm_source=openai))  \n  - Atlas českého ústavního vývoje (Právnická fakulta MU) ([czecon.law.muni.cz](https://czecon.law.muni.cz/content/cs/ustavy/1993/?utm_source=openai))  \n  - WIPO Lex (mezinárodní databáze právních textů) ([wipo.int](https://www.wipo.int/wipolex/en/text/492101?utm_source=openai))  \n  - další přetisky Ústavy (např. zena.aktualne.cz) ([zena.aktualne.cz](https://zena.aktualne.cz/ustava/r~i%3Aarticle%3A250641?utm_source=openai))  \n\n**Pozor:** Ústava jasně rozlišuje:\n\n- v odst. 2: **jmenování předsedy vlády** a na jeho návrh ostatních členů vlády,  \n- v odst. 3: **jmenování vlády jako celku**, od jehož okamžiku běží 30denní lhůta („po svém jmenování“ – subjekt je *vláda*). ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n\n### 3.2 Jednací řád Poslanecké sněmovny – zákon č. 90/1995 Sb., § 82\n\nJednací řád PS technicky zajišťuje, aby byla ústavní povinnost dodržena:\n\n- § 82 odst. 1 zákona č. 90/1995 Sb. (přehled na Podnikatel.cz):  \n\n  > „Po jmenování **vlády** zařadí předseda Sněmovny na pořad nejbližší schůze Sněmovny žádost vlády o vyslovení důvěry tak, aby mohla být projednána **nejpozději do 30 dnů od jmenování vlády**.“ ([podnikatel.cz](https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai))  \n\n- Uvedené znění § 82 je shodně reprodukováno i v dalších přehledech zákona a historických materiálech PS. ([podnikatel.cz](https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609288/?utm_source=openai))  \n\nTedy nejen vláda má ústavní povinnost do 30 dnů od svého jmenování požádat o důvěru, ale i předseda Sněmovny má zákonnou povinnost zařídit, aby tato žádost byla **projednána** nejpozději do 30 dnů od jmenování **vlády**.\n\n### 3.3 Sekundární zdroje potvrzující 30denní lhůtu a její vazbu na jmenování vlády\n\nŘada komentářů a zpravodajských textů (vydaných dlouho před sporným výrokem) konzistentně vykládá čl. 68 tak, že:\n\n- třicetidenní lhůta se váže k **jmenování vlády**, ne k jmenování premiéra.\n\nPříklady:\n\n- Hospodářské noviny (2004) ve shrnutí ústavní úpravy důvěry vládě:  \n\n  > „O vyslovení důvěry může Poslaneckou sněmovnu požádat kabinet kdykoli, poprvé tak **musí učinit do 30 dnů od chvíle, kdy ji jmenoval prezident republiky**.“ ([domaci.hn.cz](https://domaci.hn.cz/c1-14550360-vynatky-z-ustavy-ceske-republiky?utm_source=openai))  \n\n- Vládní web – obecný výklad postavení vlády:  \n\n  > „Po parlamentních volbách … prezident republiky jmenuje nového předsedu vlády a na jeho návrh pak jmenuje ostatní členy vlády … **Vláda předstoupí do třiceti dnů po svém jmenování před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry.**“ ([vlada.gov.cz](https://vlada.gov.cz/cz/jednani-vlady/uvodni-stranka-20082/?utm_source=openai))  \n\n- Český rozhlas (komentář z r. 2009 k Fischerově vládě):  \n\n  > „**Vláda předstoupí do třiceti dnů po svém jmenování** před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry. Píše se v české ústavě.“ ([plus.rozhlas.cz](https://plus.rozhlas.cz/o-duvere-vlade-v-nedeli-7811608?utm_source=openai))  \n\n- Euro.cz (článek k volbám 2017):  \n\n  > „**Vláda musí do 30 dnů od jmenování** předstoupit před poslance a požádat je o vyslovení důvěry.“ ([euro.cz](https://www.euro.cz/clanky/cesi-zvolili-nove-poslance-snemovna-se-poprve-sejde-20-listopadu-1379078/?utm_source=openai))  \n\n- Podobně další média a komentáře k ústavě a vládám Andreje Babiše či Petra Fialy odkazují vždy na „do 30 dnů **od jmenování vlády**“ nebo „po svém jmenování“. ([eurozpravy.cz](https://eurozpravy.cz/domaci/politika/209832-co-bude-dal-pokud-babisova-vlada-neziska-duveru?utm_source=openai))  \n\n---\n\n## 4. Důkazy k jednotlivým dílčím tvrzením\n\n### 4.1 Tvrzení A: Existuje 30denní lhůta pro žádost vlády o důvěru / projednání důvěry\n\n**Obsah tvrzení:** První projednání žádosti nové vlády o důvěru má být v Poslanecké sněmovně nejpozději do 30 dnů od určitého referenčního okamžiku.\n\n**Podpora v normativních textech:**\n\n1. **Ústava ČR, čl. 68 odst. 3**  \n   - Jasně ukládá, že **vláda** má:  \n     > „předstoupit do třiceti dnů po svém jmenování před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry“. ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n   - Tím zakládá **ústavní 30denní lhůtu** pro podání první žádosti o důvěru nově jmenovanou vládou.\n\n2. **Jednací řád Poslanecké sněmovny, § 82 odst. 1**  \n   - Upravuje povinnost předsedy Sněmovny tak, aby ústavní lhůta byla dodržena:  \n     > „Po jmenování vlády zařadí předseda Sněmovny … žádost vlády o vyslovení důvěry tak, aby mohla být projednána **nejpozději do 30 dnů od jmenování vlády**.“ ([podnikatel.cz](https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai))  \n\n**Podpora v odborných a mediálních zdrojích:**\n\n- Hospodářské noviny (2004) shrnují, že kabinet musí o důvěru požádat „**do 30 dnů od chvíle, kdy ji (vládu) jmenoval prezident republiky**“. ([domaci.hn.cz](https://domaci.hn.cz/c1-14550360-vynatky-z-ustavy-ceske-republiky?utm_source=openai))  \n- Vládní web, Český rozhlas, Euro.cz a další výslovně připomínají, že vláda musí do 30 dnů **po svém jmenování / od jmenování vlády** předstoupit před Sněmovnu se žádostí o důvěru. ([vlada.gov.cz](https://vlada.gov.cz/cz/jednani-vlady/uvodni-stranka-20082/?utm_source=openai))  \n\n**Závěr k tvrzení A:**  \nTvrzení, že existuje **30denní lhůta** spojená s první žádostí nové vlády o vyslovení důvěry a jejím projednáním, je **jasně potvrzeno** Ústavou i zákonem o jednacím řádu PS. Toto jádro výroku je fakticky správné.\n\n---\n\n### 4.2 Tvrzení B: Lhůta se počítá „od jmenování premiéra“\n\n**Obsah tvrzení:** 30 dnů se má počítat od okamžiku, kdy prezident jmenuje **předsedu vlády** (premiéra).\n\n#### 4.2.1 Co říká Ústava\n\n- **Čl. 68 odst. 2**:  \n  > „Předsedu vlády jmenuje prezident republiky a na jeho návrh jmenuje ostatní členy vlády…“ ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n\n- **Čl. 68 odst. 3**:  \n  > „Vláda předstoupí do třiceti dnů **po svém jmenování** před Poslaneckou sněmovnu…“ ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n\nZ jazykového i systematického výkladu vyplývá:\n\n- subjektem v odstavci 3 je **vláda**, nikoli předseda vlády;  \n- „své jmenování“ tedy odkazuje na **jmenování vlády jako celku** (předseda vlády + ministři), které probíhá podle odstavce 2;  \n- 30denní lhůta je tedy **navázána na jmenování vlády**, nikoli na samostatné jmenování premiéra.\n\nTento výklad potvrzují i učebnicové a komentářové přehledy:  \nnapř. Atlas českého ústavního vývoje uvádí u čl. 68 odst. 3 identické znění, aniž by kdekoliv spojoval lhůtu s jmenováním samotného předsedy vlády. ([czecon.law.muni.cz](https://czecon.law.muni.cz/content/cs/ustavy/1993/?utm_source=openai))  \n\n#### 4.2.2 Co říká jednací řád Poslanecké sněmovny\n\n- § 82 odst. 1 jednacího řádu PS hovoří explicitně o „**jmenování vlády**“ jako o momentu, od kterého běží lhůta 30 dnů pro projednání žádosti o důvěru. ([podnikatel.cz](https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai))  \n\nTento zákon slouží jako prováděcí norma k čl. 68 odst. 3 Ústavy; jasně tedy vykládá, že rozhodným okamžikem je **jmenování vlády**, nikoli jmenování předsedy vlády.\n\n#### 4.2.3 Další zdroje k výkladu počátku lhůty\n\n- Vládní web ve výkladu k postavení vlády popisuje proceduru: prezident jmenuje předsedu vlády, na jeho návrh ostatní členy vlády, a **poté**:  \n  > „Vláda předstoupí do třiceti dnů po svém jmenování před Poslaneckou sněmovnu…“ ([vlada.gov.cz](https://vlada.gov.cz/cz/jednani-vlady/uvodni-stranka-20082/?utm_source=openai))  \n  I zde je z kontextu zřejmé, že se jedná o jmenování *vlády* po jmenování předsedy a ministrů.\n\n- Analytický článek na EuroZprávy.cz výslovně cituje čl. 68 odst. 3 a zdůrazňuje, že jde o lhůtu běžící **od jmenování vlády** (nově jmenovaná vláda). ([eurozpravy.cz](https://eurozpravy.cz/domaci/politika/209832-co-bude-dal-pokud-babisova-vlada-neziska-duveru?utm_source=openai))  \n\n- Některé komentáře k ústavě výslovně zmiňují, že **jediná lhůta, kterou ústava stanoví v této souvislosti, se vztahuje až k okamžiku, kdy je jmenována nová vláda** – od tohoto okamžiku má vláda 30 dnů na žádost o důvěru. ([eurozpravy.cz](https://eurozpravy.cz/domaci/politika/91088-jak-prekopat-ustavu-sobotka-chce-lhuty-pro-hrad-lidovci-by-zmenili-senat?utm_source=openai))  \n\nNaopak, v dostupných normativních textech a jejich standardních výkladech **není doloženo**, že by se třicetidenní lhůta pro žádost o důvěru počítala od jmenování předsedy vlády/premiéra.\n\n#### 4.2.4 Existuje nějaká jiná 30denní lhůta svázaná s premiérem?\n\nV jiných předpisech se skutečně vyskytují 30denní lhůty související s nástupem do veřejné funkce:\n\n- Zákon o střetu zájmů (č. 159/2006 Sb.) v § 4 odst. 3 ukládá vybraným veřejným funkcionářům (včetně členů vlády) ukončit určité podnikatelské a jiné činnosti „bez zbytečného odkladu“, **nejpozději však do 30 dnů ode dne zahájení výkonu funkce**. ([krajta.slv.cz](https://krajta.slv.cz/2006/159/par_4?utm_source=openai))  \n- Stejnou 30denní lhůtu (od zahájení výkonu funkce) zmiňují i komentáře k řešení střetu zájmů Andreje Babiše. ([echo24.cz](https://www.echo24.cz/a/Hprsx/zpravy-domov-babis-resi-stret-zajmu-pred-jmenovanim?utm_source=openai))  \n\nTyto 30denní lhůty se však týkají **řešení střetu zájmů a podávání oznámení**, nikoli vyslovení důvěry vládě Poslaneckou sněmovnou.\n\nNavíc existovala politická debata o tom, zda má být v ústavě stanovena lhůta (např. 30 dnů) pro **jmenování předsedy vlády po volbách**. Článek České justice připomíná, že šlo o návrh premiéra Sobotky, který nakonec nebyl přijat; ústava tedy žádnou takovou lhůtu na jmenování premiéra neobsahuje. ([ceska-justice.cz](https://www.ceska-justice.cz/2014/10/prezident-by-mel-v-budoucnu-jmenovat-vladu-bez-zbytecneho-odkladu/?utm_source=openai))  \n\nTo může vysvětlovat, proč se v politické debatě objevuje více různých „třicetidenních lhůt“, ale **žádná z nich se netýká toho, co říká Nacher – tj. vyslovení důvěry vládě do 30 dnů od jmenování premiéra.**\n\n**Závěr k tvrzení B:**  \nPrávní úprava **jasně** váže 30denní lhůtu na **jmenování vlády jako celku**, nikoli na jmenování předsedy vlády/premiéra. Tvrzení, že vyslovení důvěry vládě „musí být do 30 dnů od jmenování premiéra“, **není v této podobě právně podloženo**.\n\n---\n\n## 5. Kontradiktorní / alternativní evidence\n\n- V dostupných přepisech Ústavy, v Jednacím řádu PS ani v komentářích nebyl nalezen žádný text, který by spojoval 30denní lhůtu pro žádost o důvěru **s datem jmenování předsedy vlády**. Naopak, všechny cituje „po svém jmenování“ (vláda) nebo „od jmenování vlády“. ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n- Některé mediální texty i stenozáznamy Sněmovny (např. při žádosti vlády Petra Fialy o důvěru v roce 2022) výslovně odkazují na to, že ústavní lhůta 30 dnů běží „po jejím (vlády) jmenování“. ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/006schuz/bqbs/b03206801.htm?utm_source=openai))  \n\n---\n\n## 6. Celkové zhodnocení výroku\n\n- **Pravdivé jádro výroku:**  \n  Politik správně odkazuje na existenci **30denní ústavní lhůty**, v níž se nově jmenovaná vláda musí obrátit na Poslaneckou sněmovnu se žádostí o důvěru; jednací řád PS zajišťuje, aby tato žádost byla ve stejné lhůtě projednána.\n\n- **Chybná část výroku:**  \n  Výrok **nesprávně uvádí počátek lhůty** – není to „od jmenování premiéra“, ale **od jmenování vlády jako celku** prezidentem republiky, jak plyne z čl. 68 odst. 3 Ústavy a z § 82 zákona o jednacím řádu Poslanecké sněmovny. ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n\nPro účely fakt‑checku:  \n- **Dílčí tvrzení A (existence 30denní lhůty)** – **podloženo právní úpravou.**  \n- **Dílčí tvrzení B (počátek lhůty od jmenování premiéra)** – **v rozporu s právní úpravou**, která navazuje lhůtu na **jmenování vlády**.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Pro a proti released on 2026-01-13 available from https://plus.rozhlas.cz/debata-o-okamurovi-bude-zajimavejsi-nez-hlasovani-o-duvere-mini-benda-nacher-na-9588540.\\n\\n\\nThe claim was made by: Patrik Nacher, Místopředseda Poslanecké sněmovny\\n\\n\\nThe claim appears in the following immediate context in the source:\\nNechme na to zareagovat pana Bendu, protože se tady hlásil ve studiu o reakci. Prosím o stručnost.\\n00:10:18\\nMarek Benda,předseda poslaneckého klubu /ODS/\\nJe to strašně nefér od Patrika Nachera to, co říká o Markétě Pekarové Adamové. Markéta Pekarová Adamová byla představitelem vítězné koalice SPOLU, která vyhrála minulé volby, mimochodem v Praze je vyhrála způsobem 41 %. Markéta měla absolutně nejvyšší počet preferenčních hlasů. Takže tvářit se, že byla z nějaké menšinové, to přece není pravda. Koalice SPOLU vyhrála minulé volby, porazila vás, Patriku.\\n00:10:46\\nLukáš Matoška,moderátor\\nPosuneme se. A ještě předtím připomenu, že našimi dnešními hosty jsou předseda poslaneckého klubu ODS Marek Benda a místopředseda Poslanecké sněmovny, poslanec hnutí ANO Patrik Nacher. Premiér Andrej Babiš ještě nevyřešil svůj střet zájmů do termínu, který původně slíbil. Odůvodnil to tím, že s vložením akcí Agrofertu do fondu čeká na souhlas ze zahraničí. Není to, pane Nachere, potíž, že si vláda říká o důvěru ještě předtím, než premiér Babiš udělal to, co slíbil?\\n00:11:29\\nPatrik Nacher,\\nposlanec, místopředseda Poslanecké sněmovny /ANO/\\nJá si myslím, že to přesně časově navazuje. My jinou možnost nemáme, tam ty lhůty jsou jasné, a to vyslovení důvěry vládě musí být do 30 dnů od jmenování, od jmenování premiéra, takže ty termíny jdou a v tom zákoně o střetu zájmů je jasně napsáno, že tam je těch 30 dnů, ale v případě, že jsou objektivní důvody, tak se ta lhůta může prodloužit. A v tomhle tom premiér Andrej Babiš komunikuje od začátku transparentně, jasně řekl, jaká je ta cesta, prezident ho pověřil, ty kroky dělal už evidentně, což se ukazuje i předtím, teď v nich pokračuje, jsou tam nějaké lhůty, které jdou mimo něho, je to celkem jako náročná právní záležitost a on o těch krocích a o těch dalších lhůtách...\\n00:12:24\\nLukáš Matoška,moderátor\\n\\nProvide a structured, citation-backed verification of the claim: 'Vyslovení důvěry vládě musí být do 30 dnů od jmenování premiéra.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 248.55 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Třicetidenní lhůta pro žádost vlády o důvěru skutečně existuje, ale běží od jmenování vlády, nikoli od jmenování premiéra. Výrok Patrika Nachera proto hodnotíme jako zavádějící.</p>\n\n<p>Výrok se týká ústavní úpravy jmenování vlády a následného vyslovování důvěry Poslaneckou sněmovnou, tedy základního vztahu mezi vládou a Sněmovnou, který upravuje Ústava České republiky.</p>\n\n<p>Pro ověření jsme výrok rozdělili na dvě dílčí tvrzení. První tvrdí, že existuje třicetidenní lhůta, v níž musí být nová vláda spojena s hlasováním o důvěře ve Sněmovně. Druhé tvrdí, že tato lhůta běží od okamžiku jmenování premiéra prezidentem republiky. Obě tvrzení posuzujeme samostatně.</p>\n\n<p>Text <a href=\"https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai\">čl. 68 odst. 3 Ústavy České republiky</a> stanoví: <i>„Vláda předstoupí do třiceti dnů po svém jmenování před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry.“</i> Ústava tak jasně zakotvuje třicetidenní lhůtu, v níž nově jmenovaná vláda musí Poslaneckou sněmovnu o důvěru požádat.</p>\n\n<p>Prováděcí úpravu obsahuje § 82 odst. 1 <a href=\"https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai\">zákona o jednacím řádu Poslanecké sněmovny</a>, který ukládá předsedovi Sněmovny zařadit žádost vlády o vyslovení důvěry na pořad tak, aby mohla být projednána <i>„nejpozději do 30 dnů od jmenování vlády“</i>. Tento zákon tak technicky zajišťuje, aby ústavní třicetidenní lhůta byla dodržena i z hlediska projednání žádosti ve Sněmovně.</p>\n\n<p>Na existenci této třicetidenní lhůty opakovaně upozorňují také odborné a zpravodajské texty shrnující ústavní úpravu vlády. Přehled v <a href=\"https://domaci.hn.cz/c1-14550360-vynatky-z-ustavy-ceske-republiky?utm_source=openai\">Hospodářských novinách</a> nebo výklad na vládním webu <a href=\"https://vlada.gov.cz/cz/jednani-vlady/uvodni-stranka-20082/?utm_source=openai\">Vlády ČR</a> shodně uvádějí, že nově jmenovaná vláda musí do 30 dnů po svém jmenování předstoupit před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry.</p>\n\n<p>Z těchto zdrojů vyplývá, že první dílčí tvrzení, tedy samotná existence třicetidenní lhůty spojené s první žádostí vlády o důvěru a jejím projednáním, je fakticky správné.</p>\n\n<p>Druhá část výroku ale tvrdí, že uvedená lhůta běží „od jmenování premiéra“. Podle <a href=\"https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai\">čl. 68 odst. 2 Ústavy</a> platí, že <i>„předsedu vlády jmenuje prezident republiky a na jeho návrh jmenuje ostatní členy vlády“</i>. Až tento celek – předseda vlády a ministři – tvoří vládu, která je následně jako vláda jmenována.</p>\n\n<p>Stejný článek Ústavy v odstavci 3 pak jasně říká, že třicetidenní lhůta se vztahuje k okamžiku, kdy byla jmenována právě vláda jako celek, nikoli pouze její předseda. Formulace <i>„vláda předstoupí do třiceti dnů po svém jmenování“</i> v textu <a href=\"https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai\">Ústavy</a> jazykově i systematicky odkazuje na akt jmenování vlády, který předchází žádosti o důvěru.</p>\n\n<p>Tento výklad potvrzuje i § 82 odst. 1 <a href=\"https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai\">jednacího řádu Poslanecké sněmovny</a>, jenž výslovně uvádí, že žádost musí být projednána „nejpozději do 30 dnů od jmenování vlády“. Zákon tak jednoznačně navazuje počátek lhůty na jmenování vlády, nikoli na samostatný či dřívější akt jmenování předsedy vlády.</p>\n\n<p>Odborné i zpravodajské texty, které vysvětlují proces jmenování vlády a vyslovování důvěry, používají stejnou formulaci. Analýza na serveru <a href=\"https://eurozpravy.cz/domaci/politika/209832-co-bude-dal-pokud-babisova-vlada-neziska-duveru?utm_source=openai\">EuroZprávy.cz</a> nebo článek na webu <a href=\"https://www.euro.cz/clanky/cesi-zvolili-nove-poslance-snemovna-se-poprve-sejde-20-listopadu-1379078/?utm_source=openai\">Euro.cz</a> shodně popisují, že vláda musí do 30 dnů od svého jmenování předstoupit před Sněmovnu a požádat o vyslovení důvěry, přičemž počátečním okamžikem je jmenování vlády, nikoli jmenování premiéra samotného.</p>\n\n<p>V jiných právních předpisech se sice objevují třicetidenní lhůty vztahující se k nástupu do veřejné funkce, ty se však týkají jiných povinností než vyslovení důvěry vládě. Například <a href=\"https://krajta.slv.cz/2006/159/par_4?utm_source=openai\">zákon o střetu zájmů</a> ukládá členům vlády ukončit vybrané podnikatelské aktivity <i>„nejpozději do 30 dnů ode dne zahájení výkonu funkce“</i>, jde však o úpravu střetu zájmů a majetkových povinností, nikoli o proceduru žádosti vlády o důvěru Poslanecké sněmovny.</p>\n\n<p>V dostupných zněních Ústavy, jednacího řádu Poslanecké sněmovny ani ve standardních výkladech proto nenacházíme žádnou oporu pro tvrzení, že by třicetidenní lhůta pro vyslovení důvěry vládě běžela od jmenování premiéra. Druhé dílčí tvrzení je tedy v této podobě v rozporu s platnou právní úpravou.</p>\n\n<p>Celkově tedy platí, že Patrik Nacher správně odkazuje na existenci ústavní třicetidenní lhůty, v níž nově jmenovaná vláda musí požádat Poslaneckou sněmovnu o důvěru. Zároveň však nesprávně uvádí, že se tato lhůta počítá od jmenování premiéra, ačkoliv Ústava i prováděcí zákon ji jednoznačně vážou až k jmenování vlády jako celku. Výrok proto hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0e1271e0e55be20800696a55bb4bc0819f97fa28c167a70edc",
+    "created_at": 1768576443.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0e1271e0e55be20800696a55c39f80819fb3a68f4ee54547ae",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e1271e0e55be20800696a55cdf088819fa87c9d88789094fd",
+        "action": {
+          "query": "\"Vlada predstoupi do 30 dnu po svem jmenovani pred Poslaneckou snemovnu a pozada ji o vysloveni duvery\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Vlada predstoupi do 30 dnu po svem jmenovani pred Poslaneckou snemovnu a pozada ji o vysloveni duvery\"",
+            "\"Ústava České republiky\" čl. 68 odst. 3 vlada pozada Poslaneckou snemovnu o vysloveni duvery do 30 dnu",
+            "psp.cz Ústava článek 68",
+            "\"vlozenim akcii Agrofertu\" \"stret zajmu\" 30 dnu lhuta"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e1271e0e55be20800696a55d0e398819f8916156710f11054",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e1271e0e55be20800696a55d2ae98819fa27177aa4f9ed8bb",
+        "action": {
+          "query": "\"90/1995 Sb.\" \"o jednacim radu Poslanecke snemovny\" § 82",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"90/1995 Sb.\" \"o jednacim radu Poslanecke snemovny\" § 82",
+            "zakon 90/1995 Sb. jednaci rad Poslanecke snemovny § 82 duvera vlade"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e1271e0e55be20800696a55d491cc819f89cfcf38e06ef0a6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e1271e0e55be20800696a55d5a6f4819f81825f29e4ebf287",
+        "action": {
+          "query": "\"90/1995 Sb.\" \"o jednacím řádu Poslanecké sněmovny\" psp.cz",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"90/1995 Sb.\" \"o jednacím řádu Poslanecké sněmovny\" psp.cz",
+            "\"Zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny\" sbírka"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e1271e0e55be20800696a55d82374819f97c4b158e9ba9353",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e1271e0e55be20800696a55d83eac819faeb8615603495355",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e1271e0e55be20800696a55d8ef1c819f945d486ac650cb9a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e1271e0e55be20800696a55d96868819f84a185fa0e96a6dd",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "§ 82"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e1271e0e55be20800696a55daf050819f98b34718074ab8ad",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e1271e0e55be20800696a55dc267c819f9ca8c21b248e83b3",
+        "action": {
+          "query": "\"Po jmenování vlády zařadí předseda Sněmovny\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Po jmenování vlády zařadí předseda Sněmovny\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e1271e0e55be20800696a55de1094819fab5ce96ed8a40b95",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e1271e0e55be20800696a55f9bd54819f90f32112e5d7fee0",
+        "action": {
+          "query": "\"30 dnů od jmenování premiéra\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"30 dnů od jmenování premiéra\"",
+            "\"30 dnu od jmenovani premiera\"",
+            "\"do 30 dnů od jmenování\" \"předsedy vlády\" ústava",
+            "\"Vlada predstoupi do triceti dnu po svem jmenovani\" vysloveni duvery"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e1271e0e55be20800696a55fdd608819fa3b7f527017646c6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e1271e0e55be20800696a560f2898819f8044d3f9c6720f91",
+        "action": {
+          "query": "\"159/2006 Sb.\" \"o střetu zájmů\" 30 dnů ode dne zahájení výkonu funkce",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"159/2006 Sb.\" \"o střetu zájmů\" 30 dnů ode dne zahájení výkonu funkce",
+            "zákon o střetu zájmů 30 dnů ode dne zahájení výkonu funkce",
+            "\"bez zbytečného odkladu po nástupu do funkce, nejpozději do 30 dnů ode dne zahájení výkonu funkce\"",
+            "zákon o střetu zájmů 159/2006  recnizacni   zpracovani"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e1271e0e55be20800696a561383bc819f93e34b9b0f0d693b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0e1271e0e55be20800696a5645e3ac819f9851b2a4bfff605f",
+        "action": {
+          "query": "\"Vláda předstoupí do třiceti dnů\" \"jmenování\" \"předsedy vlády\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Vláda předstoupí do třiceti dnů\" \"jmenování\" \"předsedy vlády\"",
+            "\"do 30 dnů\" \"od jmenování předsedy vlády\"",
+            "\"30 dnů od jmenování předsedy vlády\" \"vyslovení důvěry\"",
+            "\"30 dnů po svém jmenování\" \"před Poslaneckou sněmovnu\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0e1271e0e55be20800696a564b4b14819fade6d7bf5f73e1f0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0e1271e0e55be20800696a566e442c819fa2931b1242993682",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1061,
+                "start_index": 940,
+                "title": "Postavení vlády - ústava | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai"
+              },
+              {
+                "end_index": 1312,
+                "start_index": 1191,
+                "title": "Postavení vlády - ústava | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai"
+              },
+              {
+                "end_index": 1500,
+                "start_index": 1435,
+                "title": "1/1993 Sb. - Ústava České republiky",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/1993/1?utm_source=openai"
+              },
+              {
+                "end_index": 1653,
+                "start_index": 1561,
+                "title": "1993 | Atlas českého ústavního vývoje",
+                "type": "url_citation",
+                "url": "https://czecon.law.muni.cz/content/cs/ustavy/1993/?utm_source=openai"
+              },
+              {
+                "end_index": 1782,
+                "start_index": 1707,
+                "title": "WIPO Lex",
+                "type": "url_citation",
+                "url": "https://www.wipo.int/wipolex/en/text/492101?utm_source=openai"
+              },
+              {
+                "end_index": 1930,
+                "start_index": 1836,
+                "title": "ústava - Žena.cz - magazín pro ženy",
+                "type": "url_citation",
+                "url": "https://zena.aktualne.cz/ustava/r~i%3Aarticle%3A250641?utm_source=openai"
+              },
+              {
+                "end_index": 2300,
+                "start_index": 2179,
+                "title": "Postavení vlády - ústava | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai"
+              },
+              {
+                "end_index": 2833,
+                "start_index": 2712,
+                "title": "Zákon o jednacím řádu Poslanecké sněmovny - Žádost vlády o vyslovení důvěry - Podnikatel.cz",
+                "type": "url_citation",
+                "url": "https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai"
+              },
+              {
+                "end_index": 3064,
+                "start_index": 2943,
+                "title": "Zákon o jednacím řádu Poslanecké sněmovny - ČÁST JEDENÁCTÁ - JEDNÁNÍ O DŮVĚŘE VLÁDĚ - Podnikatel.cz",
+                "type": "url_citation",
+                "url": "https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609288/?utm_source=openai"
+              },
+              {
+                "end_index": 3912,
+                "start_index": 3811,
+                "title": "Výňatky z Ústavy České republiky | Hospodářské noviny (HN.cz)",
+                "type": "url_citation",
+                "url": "https://domaci.hn.cz/c1-14550360-vynatky-z-ustavy-ceske-republiky?utm_source=openai"
+              },
+              {
+                "end_index": 4305,
+                "start_index": 4210,
+                "title": "uvodni stranka | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/jednani-vlady/uvodni-stranka-20082/?utm_source=openai"
+              },
+              {
+                "end_index": 4605,
+                "start_index": 4511,
+                "title": "O důvěře vládě v neděli | Plus",
+                "type": "url_citation",
+                "url": "https://plus.rozhlas.cz/o-duvere-vlade-v-nedeli-7811608?utm_source=openai"
+              },
+              {
+                "end_index": 4880,
+                "start_index": 4749,
+                "title": "Češi zvolili nové poslance. Sněmovna se poprvé sejde 20. listopadu - Euro.cz",
+                "type": "url_citation",
+                "url": "https://www.euro.cz/clanky/cesi-zvolili-nove-poslance-snemovna-se-poprve-sejde-20-listopadu-1379078/?utm_source=openai"
+              },
+              {
+                "end_index": 5173,
+                "start_index": 5044,
+                "title": "Co bude dál, pokud Babišova vláda nezíská důvěru? | EuroZprávy.cz",
+                "type": "url_citation",
+                "url": "https://eurozpravy.cz/domaci/politika/209832-co-bude-dal-pokud-babisova-vlada-neziska-duveru?utm_source=openai"
+              },
+              {
+                "end_index": 5809,
+                "start_index": 5688,
+                "title": "Postavení vlády - ústava | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai"
+              },
+              {
+                "end_index": 6334,
+                "start_index": 6213,
+                "title": "Zákon o jednacím řádu Poslanecké sněmovny - Žádost vlády o vyslovení důvěry - Podnikatel.cz",
+                "type": "url_citation",
+                "url": "https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai"
+              },
+              {
+                "end_index": 6629,
+                "start_index": 6528,
+                "title": "Výňatky z Ústavy České republiky | Hospodářské noviny (HN.cz)",
+                "type": "url_citation",
+                "url": "https://domaci.hn.cz/c1-14550360-vynatky-z-ustavy-ceske-republiky?utm_source=openai"
+              },
+              {
+                "end_index": 6908,
+                "start_index": 6813,
+                "title": "uvodni stranka | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/jednani-vlady/uvodni-stranka-20082/?utm_source=openai"
+              },
+              {
+                "end_index": 7590,
+                "start_index": 7469,
+                "title": "Postavení vlády - ústava | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai"
+              },
+              {
+                "end_index": 7826,
+                "start_index": 7705,
+                "title": "Postavení vlády - ústava | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai"
+              },
+              {
+                "end_index": 8472,
+                "start_index": 8380,
+                "title": "1993 | Atlas českého ústavního vývoje",
+                "type": "url_citation",
+                "url": "https://czecon.law.muni.cz/content/cs/ustavy/1993/?utm_source=openai"
+              },
+              {
+                "end_index": 8802,
+                "start_index": 8681,
+                "title": "Zákon o jednacím řádu Poslanecké sněmovny - Žádost vlády o vyslovení důvěry - Podnikatel.cz",
+                "type": "url_citation",
+                "url": "https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai"
+              },
+              {
+                "end_index": 9344,
+                "start_index": 9249,
+                "title": "uvodni stranka | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/jednani-vlady/uvodni-stranka-20082/?utm_source=openai"
+              },
+              {
+                "end_index": 9724,
+                "start_index": 9595,
+                "title": "Co bude dál, pokud Babišova vláda nezíská důvěru? | EuroZprávy.cz",
+                "type": "url_citation",
+                "url": "https://eurozpravy.cz/domaci/politika/209832-co-bude-dal-pokud-babisova-vlada-neziska-duveru?utm_source=openai"
+              },
+              {
+                "end_index": 10103,
+                "start_index": 9950,
+                "title": "Jak překopat Ústavu: Sobotka chce lhůty pro Hrad, lidovci by změnili Senát | EuroZprávy.cz",
+                "type": "url_citation",
+                "url": "https://eurozpravy.cz/domaci/politika/91088-jak-prekopat-ustavu-sobotka-chce-lhuty-pro-hrad-lidovci-by-zmenili-senat?utm_source=openai"
+              },
+              {
+                "end_index": 10783,
+                "start_index": 10710,
+                "title": "§ 4, 159/2006 Sb. - Zákon o střetu zájmů",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/2006/159/par_4?utm_source=openai"
+              },
+              {
+                "end_index": 11010,
+                "start_index": 10896,
+                "title": "Ústavní právník: Zákon míří na řešení střetu zájmů až po jmenování, požadavky Hradu ale chápu - Echo24.cz",
+                "type": "url_citation",
+                "url": "https://www.echo24.cz/a/Hprsx/zpravy-domov-babis-resi-stret-zajmu-pred-jmenovanim?utm_source=openai"
+              },
+              {
+                "end_index": 11587,
+                "start_index": 11444,
+                "title": "Prezident by měl v budoucnu jmenovat vládu bez zbytečného odkladu - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2014/10/prezident-by-mel-v-budoucnu-jmenovat-vladu-bez-zbytecneho-odkladu/?utm_source=openai"
+              },
+              {
+                "end_index": 12504,
+                "start_index": 12383,
+                "title": "Postavení vlády - ústava | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai"
+              },
+              {
+                "end_index": 12797,
+                "start_index": 12699,
+                "title": "PČR, PS 2021-..., 6. schůze, část 32 (12. 1. 2022)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2021ps/stenprot/006schuz/bqbs/b03206801.htm?utm_source=openai"
+              },
+              {
+                "end_index": 13475,
+                "start_index": 13354,
+                "title": "Postavení vlády - ústava | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Posuzovaný výrok\n\nPatrik Nacher:  \n**„Vyslovení důvěry vládě musí být do 30 dnů od jmenování premiéra.“**\n\nVýrok se opírá o existenci zákonné lhůty 30 dnů a o tvrzení, od jakého okamžiku tato lhůta běží.\n\n---\n\n## 2. Rozklad výroku na dílčí tvrzení\n\n1. **Tvrzení A – existence 30denní lhůty:**  \n   První žádost nové vlády o vyslovení důvěry Poslaneckou sněmovnou (a faktické projednání/vyslovení důvěry) musí proběhnout do 30 dnů.\n\n2. **Tvrzení B – počátek lhůty:**  \n   Těchto 30 dnů se počítá **od jmenování premiéra** (předsedy vlády) prezidentem republiky.\n\n---\n\n## 3. Právní úprava důvěry vládě\n\n### 3.1 Ústava České republiky – čl. 68\n\nText Ústavy (ústavní zákon č. 1/1993 Sb.) v části o vládě je reprodukován na několika oficiálních či odborných webech.\n\n- Stránky vlády ČR („Postavení vlády – ústava“) uvádějí u čl. 68:  \n\n  - odst. 2: „Předsedu vlády jmenuje prezident republiky a na jeho návrh jmenuje ostatní členy vlády…“ ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n  - odst. 3: „**Vláda předstoupí do třiceti dnů po svém jmenování** před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n\n- Stejné znění čl. 68 cituje např.:\n  - oficiální text ústavního zákona č. 1/1993 Sb. na právním portálu krajta.slv.cz ([krajta.slv.cz](https://krajta.slv.cz/1993/1?utm_source=openai))  \n  - Atlas českého ústavního vývoje (Právnická fakulta MU) ([czecon.law.muni.cz](https://czecon.law.muni.cz/content/cs/ustavy/1993/?utm_source=openai))  \n  - WIPO Lex (mezinárodní databáze právních textů) ([wipo.int](https://www.wipo.int/wipolex/en/text/492101?utm_source=openai))  \n  - další přetisky Ústavy (např. zena.aktualne.cz) ([zena.aktualne.cz](https://zena.aktualne.cz/ustava/r~i%3Aarticle%3A250641?utm_source=openai))  \n\n**Pozor:** Ústava jasně rozlišuje:\n\n- v odst. 2: **jmenování předsedy vlády** a na jeho návrh ostatních členů vlády,  \n- v odst. 3: **jmenování vlády jako celku**, od jehož okamžiku běží 30denní lhůta („po svém jmenování“ – subjekt je *vláda*). ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n\n### 3.2 Jednací řád Poslanecké sněmovny – zákon č. 90/1995 Sb., § 82\n\nJednací řád PS technicky zajišťuje, aby byla ústavní povinnost dodržena:\n\n- § 82 odst. 1 zákona č. 90/1995 Sb. (přehled na Podnikatel.cz):  \n\n  > „Po jmenování **vlády** zařadí předseda Sněmovny na pořad nejbližší schůze Sněmovny žádost vlády o vyslovení důvěry tak, aby mohla být projednána **nejpozději do 30 dnů od jmenování vlády**.“ ([podnikatel.cz](https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai))  \n\n- Uvedené znění § 82 je shodně reprodukováno i v dalších přehledech zákona a historických materiálech PS. ([podnikatel.cz](https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609288/?utm_source=openai))  \n\nTedy nejen vláda má ústavní povinnost do 30 dnů od svého jmenování požádat o důvěru, ale i předseda Sněmovny má zákonnou povinnost zařídit, aby tato žádost byla **projednána** nejpozději do 30 dnů od jmenování **vlády**.\n\n### 3.3 Sekundární zdroje potvrzující 30denní lhůtu a její vazbu na jmenování vlády\n\nŘada komentářů a zpravodajských textů (vydaných dlouho před sporným výrokem) konzistentně vykládá čl. 68 tak, že:\n\n- třicetidenní lhůta se váže k **jmenování vlády**, ne k jmenování premiéra.\n\nPříklady:\n\n- Hospodářské noviny (2004) ve shrnutí ústavní úpravy důvěry vládě:  \n\n  > „O vyslovení důvěry může Poslaneckou sněmovnu požádat kabinet kdykoli, poprvé tak **musí učinit do 30 dnů od chvíle, kdy ji jmenoval prezident republiky**.“ ([domaci.hn.cz](https://domaci.hn.cz/c1-14550360-vynatky-z-ustavy-ceske-republiky?utm_source=openai))  \n\n- Vládní web – obecný výklad postavení vlády:  \n\n  > „Po parlamentních volbách … prezident republiky jmenuje nového předsedu vlády a na jeho návrh pak jmenuje ostatní členy vlády … **Vláda předstoupí do třiceti dnů po svém jmenování před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry.**“ ([vlada.gov.cz](https://vlada.gov.cz/cz/jednani-vlady/uvodni-stranka-20082/?utm_source=openai))  \n\n- Český rozhlas (komentář z r. 2009 k Fischerově vládě):  \n\n  > „**Vláda předstoupí do třiceti dnů po svém jmenování** před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry. Píše se v české ústavě.“ ([plus.rozhlas.cz](https://plus.rozhlas.cz/o-duvere-vlade-v-nedeli-7811608?utm_source=openai))  \n\n- Euro.cz (článek k volbám 2017):  \n\n  > „**Vláda musí do 30 dnů od jmenování** předstoupit před poslance a požádat je o vyslovení důvěry.“ ([euro.cz](https://www.euro.cz/clanky/cesi-zvolili-nove-poslance-snemovna-se-poprve-sejde-20-listopadu-1379078/?utm_source=openai))  \n\n- Podobně další média a komentáře k ústavě a vládám Andreje Babiše či Petra Fialy odkazují vždy na „do 30 dnů **od jmenování vlády**“ nebo „po svém jmenování“. ([eurozpravy.cz](https://eurozpravy.cz/domaci/politika/209832-co-bude-dal-pokud-babisova-vlada-neziska-duveru?utm_source=openai))  \n\n---\n\n## 4. Důkazy k jednotlivým dílčím tvrzením\n\n### 4.1 Tvrzení A: Existuje 30denní lhůta pro žádost vlády o důvěru / projednání důvěry\n\n**Obsah tvrzení:** První projednání žádosti nové vlády o důvěru má být v Poslanecké sněmovně nejpozději do 30 dnů od určitého referenčního okamžiku.\n\n**Podpora v normativních textech:**\n\n1. **Ústava ČR, čl. 68 odst. 3**  \n   - Jasně ukládá, že **vláda** má:  \n     > „předstoupit do třiceti dnů po svém jmenování před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry“. ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n   - Tím zakládá **ústavní 30denní lhůtu** pro podání první žádosti o důvěru nově jmenovanou vládou.\n\n2. **Jednací řád Poslanecké sněmovny, § 82 odst. 1**  \n   - Upravuje povinnost předsedy Sněmovny tak, aby ústavní lhůta byla dodržena:  \n     > „Po jmenování vlády zařadí předseda Sněmovny … žádost vlády o vyslovení důvěry tak, aby mohla být projednána **nejpozději do 30 dnů od jmenování vlády**.“ ([podnikatel.cz](https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai))  \n\n**Podpora v odborných a mediálních zdrojích:**\n\n- Hospodářské noviny (2004) shrnují, že kabinet musí o důvěru požádat „**do 30 dnů od chvíle, kdy ji (vládu) jmenoval prezident republiky**“. ([domaci.hn.cz](https://domaci.hn.cz/c1-14550360-vynatky-z-ustavy-ceske-republiky?utm_source=openai))  \n- Vládní web, Český rozhlas, Euro.cz a další výslovně připomínají, že vláda musí do 30 dnů **po svém jmenování / od jmenování vlády** předstoupit před Sněmovnu se žádostí o důvěru. ([vlada.gov.cz](https://vlada.gov.cz/cz/jednani-vlady/uvodni-stranka-20082/?utm_source=openai))  \n\n**Závěr k tvrzení A:**  \nTvrzení, že existuje **30denní lhůta** spojená s první žádostí nové vlády o vyslovení důvěry a jejím projednáním, je **jasně potvrzeno** Ústavou i zákonem o jednacím řádu PS. Toto jádro výroku je fakticky správné.\n\n---\n\n### 4.2 Tvrzení B: Lhůta se počítá „od jmenování premiéra“\n\n**Obsah tvrzení:** 30 dnů se má počítat od okamžiku, kdy prezident jmenuje **předsedu vlády** (premiéra).\n\n#### 4.2.1 Co říká Ústava\n\n- **Čl. 68 odst. 2**:  \n  > „Předsedu vlády jmenuje prezident republiky a na jeho návrh jmenuje ostatní členy vlády…“ ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n\n- **Čl. 68 odst. 3**:  \n  > „Vláda předstoupí do třiceti dnů **po svém jmenování** před Poslaneckou sněmovnu…“ ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n\nZ jazykového i systematického výkladu vyplývá:\n\n- subjektem v odstavci 3 je **vláda**, nikoli předseda vlády;  \n- „své jmenování“ tedy odkazuje na **jmenování vlády jako celku** (předseda vlády + ministři), které probíhá podle odstavce 2;  \n- 30denní lhůta je tedy **navázána na jmenování vlády**, nikoli na samostatné jmenování premiéra.\n\nTento výklad potvrzují i učebnicové a komentářové přehledy:  \nnapř. Atlas českého ústavního vývoje uvádí u čl. 68 odst. 3 identické znění, aniž by kdekoliv spojoval lhůtu s jmenováním samotného předsedy vlády. ([czecon.law.muni.cz](https://czecon.law.muni.cz/content/cs/ustavy/1993/?utm_source=openai))  \n\n#### 4.2.2 Co říká jednací řád Poslanecké sněmovny\n\n- § 82 odst. 1 jednacího řádu PS hovoří explicitně o „**jmenování vlády**“ jako o momentu, od kterého běží lhůta 30 dnů pro projednání žádosti o důvěru. ([podnikatel.cz](https://www.podnikatel.cz/zakony/zakon-o-jednacim-radu-poslanecke-snemovny/f1609290/?utm_source=openai))  \n\nTento zákon slouží jako prováděcí norma k čl. 68 odst. 3 Ústavy; jasně tedy vykládá, že rozhodným okamžikem je **jmenování vlády**, nikoli jmenování předsedy vlády.\n\n#### 4.2.3 Další zdroje k výkladu počátku lhůty\n\n- Vládní web ve výkladu k postavení vlády popisuje proceduru: prezident jmenuje předsedu vlády, na jeho návrh ostatní členy vlády, a **poté**:  \n  > „Vláda předstoupí do třiceti dnů po svém jmenování před Poslaneckou sněmovnu…“ ([vlada.gov.cz](https://vlada.gov.cz/cz/jednani-vlady/uvodni-stranka-20082/?utm_source=openai))  \n  I zde je z kontextu zřejmé, že se jedná o jmenování *vlády* po jmenování předsedy a ministrů.\n\n- Analytický článek na EuroZprávy.cz výslovně cituje čl. 68 odst. 3 a zdůrazňuje, že jde o lhůtu běžící **od jmenování vlády** (nově jmenovaná vláda). ([eurozpravy.cz](https://eurozpravy.cz/domaci/politika/209832-co-bude-dal-pokud-babisova-vlada-neziska-duveru?utm_source=openai))  \n\n- Některé komentáře k ústavě výslovně zmiňují, že **jediná lhůta, kterou ústava stanoví v této souvislosti, se vztahuje až k okamžiku, kdy je jmenována nová vláda** – od tohoto okamžiku má vláda 30 dnů na žádost o důvěru. ([eurozpravy.cz](https://eurozpravy.cz/domaci/politika/91088-jak-prekopat-ustavu-sobotka-chce-lhuty-pro-hrad-lidovci-by-zmenili-senat?utm_source=openai))  \n\nNaopak, v dostupných normativních textech a jejich standardních výkladech **není doloženo**, že by se třicetidenní lhůta pro žádost o důvěru počítala od jmenování předsedy vlády/premiéra.\n\n#### 4.2.4 Existuje nějaká jiná 30denní lhůta svázaná s premiérem?\n\nV jiných předpisech se skutečně vyskytují 30denní lhůty související s nástupem do veřejné funkce:\n\n- Zákon o střetu zájmů (č. 159/2006 Sb.) v § 4 odst. 3 ukládá vybraným veřejným funkcionářům (včetně členů vlády) ukončit určité podnikatelské a jiné činnosti „bez zbytečného odkladu“, **nejpozději však do 30 dnů ode dne zahájení výkonu funkce**. ([krajta.slv.cz](https://krajta.slv.cz/2006/159/par_4?utm_source=openai))  \n- Stejnou 30denní lhůtu (od zahájení výkonu funkce) zmiňují i komentáře k řešení střetu zájmů Andreje Babiše. ([echo24.cz](https://www.echo24.cz/a/Hprsx/zpravy-domov-babis-resi-stret-zajmu-pred-jmenovanim?utm_source=openai))  \n\nTyto 30denní lhůty se však týkají **řešení střetu zájmů a podávání oznámení**, nikoli vyslovení důvěry vládě Poslaneckou sněmovnou.\n\nNavíc existovala politická debata o tom, zda má být v ústavě stanovena lhůta (např. 30 dnů) pro **jmenování předsedy vlády po volbách**. Článek České justice připomíná, že šlo o návrh premiéra Sobotky, který nakonec nebyl přijat; ústava tedy žádnou takovou lhůtu na jmenování premiéra neobsahuje. ([ceska-justice.cz](https://www.ceska-justice.cz/2014/10/prezident-by-mel-v-budoucnu-jmenovat-vladu-bez-zbytecneho-odkladu/?utm_source=openai))  \n\nTo může vysvětlovat, proč se v politické debatě objevuje více různých „třicetidenních lhůt“, ale **žádná z nich se netýká toho, co říká Nacher – tj. vyslovení důvěry vládě do 30 dnů od jmenování premiéra.**\n\n**Závěr k tvrzení B:**  \nPrávní úprava **jasně** váže 30denní lhůtu na **jmenování vlády jako celku**, nikoli na jmenování předsedy vlády/premiéra. Tvrzení, že vyslovení důvěry vládě „musí být do 30 dnů od jmenování premiéra“, **není v této podobě právně podloženo**.\n\n---\n\n## 5. Kontradiktorní / alternativní evidence\n\n- V dostupných přepisech Ústavy, v Jednacím řádu PS ani v komentářích nebyl nalezen žádný text, který by spojoval 30denní lhůtu pro žádost o důvěru **s datem jmenování předsedy vlády**. Naopak, všechny cituje „po svém jmenování“ (vláda) nebo „od jmenování vlády“. ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n- Některé mediální texty i stenozáznamy Sněmovny (např. při žádosti vlády Petra Fialy o důvěru v roce 2022) výslovně odkazují na to, že ústavní lhůta 30 dnů běží „po jejím (vlády) jmenování“. ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/006schuz/bqbs/b03206801.htm?utm_source=openai))  \n\n---\n\n## 6. Celkové zhodnocení výroku\n\n- **Pravdivé jádro výroku:**  \n  Politik správně odkazuje na existenci **30denní ústavní lhůty**, v níž se nově jmenovaná vláda musí obrátit na Poslaneckou sněmovnu se žádostí o důvěru; jednací řád PS zajišťuje, aby tato žádost byla ve stejné lhůtě projednána.\n\n- **Chybná část výroku:**  \n  Výrok **nesprávně uvádí počátek lhůty** – není to „od jmenování premiéra“, ale **od jmenování vlády jako celku** prezidentem republiky, jak plyne z čl. 68 odst. 3 Ústavy a z § 82 zákona o jednacím řádu Poslanecké sněmovny. ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/postaveni-vlady/postaveni-vlady---ustava-15263/?utm_source=openai))  \n\nPro účely fakt‑checku:  \n- **Dílčí tvrzení A (existence 30denní lhůty)** – **podloženo právní úpravou.**  \n- **Dílčí tvrzení B (počátek lhůty od jmenování premiéra)** – **v rozporu s právní úpravou**, která navazuje lhůtu na **jmenování vlády**.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 57025,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 15874,
+      "output_tokens_details": {
+        "reasoning_tokens": 11439
+      },
+      "total_tokens": 72899
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1768576677,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

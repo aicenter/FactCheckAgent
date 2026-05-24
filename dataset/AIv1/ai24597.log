@@ -1,0 +1,629 @@
+{
+  "claim_id": "24597",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260220_173536",
+  "source_md": "experiments/gpt5.1_h_20260220_173536/brief_fact_check_id24597.md",
+  "fact_check": "# Fact Check for Statement ID 24597\n\n## Statement\n(...) minulá vláda, když jednostranně navýšila platy vojákům.\n\n---\n## AI Fact Check\n## Shrnutí\n\n- **Fakticky doložitelné je, že „minulá vláda“ (kabinet Petra Fialy) opakovaně zvýšila platy vojáků z povolání.** ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n- **Naopak část tvrzení, že šlo o „jednostranné“ zvýšení jen pro vojáky, je v rozporu s oficiálními dokumenty vlády a resortů.** Ty ukazují, že ve stejných rozhodnutích vláda současně zvyšovala i platy či stabilizační příplatky policistů, hasičů a dalších bezpečnostních sborů. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n\nNíže je podrobný rozklad po dílčích tvrzeních.\n\n---\n\n## 1. Identifikace tvrzení a kontext\n\nSporná věta: **„…minulá vláda, když jednostranně navýšila platy vojákům…“**\n\nMožné interpretace:\n\n1. **Úzká (doslovná):** Předchozí vláda zvýšila platy *jen* vojákům, zatímco policistům, hasičům a dalším bezpečnostním sborům nikoli.\n2. **Volnější (politická):** Vláda zvýšila platy vojákům výrazněji / jinak konstruovaně než u policistů a hasičů, což podle mluvčího „rozevřelo nůžky“, i když jisté zvýšení měli všichni.\n\nPro ověření je třeba:\n\n- zjistit, **kdo je „minulá vláda“**,  \n- zmapovat **konkrétní kroky této vlády ve zvyšování platů vojáků**,  \n- zkontrolovat, **co se současně dělo s platy policistů, hasičů a dalších sborů**.\n\n---\n\n## 2. Kdo je „minulá vláda“?\n\n- Lubomír Metnar je podle oficiálních stránek Poslanecké sněmovny **ministrem vnitra od 15. 12. 2025**. ([psp.cz](https://www.psp.cz/sqw/text/detail.sqw?id=6544&o=10&utm_source=openai))  \n- Téhož dne byl podle Úřadu vlády a agentury AP jmenován nový kabinet **Andreje Babiše**; tím skončila vláda Petra Fialy. ([apnews.com](https://apnews.com/article/109771312dec01f2e6860eaeba7da9c3?utm_source=openai))  \n- „Minulou vládou“ tedy Metnar zjevně míní **vládu Petra Fialy (ODS), úřadující v letech 2021–prosinec 2025**.\n\n---\n\n## 3. Důkazy: Zvyšování platů vojáků za vlády Petra Fialy\n\n### 3.1 Zvyšování od 1. ledna 2023\n\n- Usnesením z 7. 12. 2022 vláda rozhodla o **zvýšení platů vojáků i policistů / bezpečnostních sborů od 1. 1. 2023**.  \n  - Pro příslušníky bezpečnostních sborů: tarify ve třídách 3–11 +10 %, v 1–2 +17 %.  \n  - **„Navýšení platů se týká rovněž vojáků. Pro hodnosti svobodník až armádní generál se tarify zvyšují o 10 %.“** ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n\n### 3.2 Zvyšování od 1. ledna 2025 (1500 Kč)\n\n- ČTK k jednání vlády 11. 12. 2024: od 1. 1. 2025 **vzrostou služební tarify vojáků z povolání jednotně o 1500 Kč měsíčně** (svobodník až armádní generál).  \n- Současně: **„O 1500 korun se od ledna zvednou také služební tarify hasičů a policistů.“** ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai))  \n\n### 3.3 Balík z června 2025 (tarify + bydlení + příplatky)\n\n- Ministerstvo obrany (MO) shrnuje v tiskové zprávě z 4./5. 6. 2025, že vláda rozhodla o **navýšení platů vojáků z povolání od 1. 7. 2025 ve dvou fázích**:  \n  - příspěvek na bydlení **+100 %** (min. +3000 Kč/měsíc pro každého vojáka),  \n  - služební tarify: celkem **+15 %** pro hodnosti od svobodníka po štábního praporčíka a **+10 %** od poručíka výš,  \n  - polovina tohoto navýšení (7,5 % a 5 %) od 1. 7. 2025, druhá polovina od 1. 1. 2026. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/))  \n- Úřad vlády 11. 6. 2025 potvrdil, že byl schválen příslušný balík nařízení vlády: **tarify vojáků se zvyšují o 7,5 % / 5 % od 1. 7. 2025 a o stejnou hodnotu od 1. 1. 2026**, plus zvýšení příspěvku na bydlení (Praha na 7000 Kč, mimo Prahu na 6000 Kč). ([uv.gov.cz](https://uv.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/))  \n- MO pak v samostatném materiálu shrnuje, že **po kombinaci zvýšení tarifů, bydlení a stabilizačních příplatků si vojáci od 1. 7. 2025 a 1. 1. 2026 polepší v součtu nejméně o 8378 Kč měsíčně, mnozí výrazně více**. ([ikp.army.cz](https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni?utm_source=openai))  \n\n**Závěr k této části:**  \nTvrzení, že Fialova vláda vojákům „navýšila platy“, je dobře doložené – stalo se tak opakovaně (2023, 2025) a zvlášť výrazně v balíku z června 2025.\n\n---\n\n## 4. Co dělala tatáž vláda se mzdami policistů, hasičů a dalších bezpečnostních sborů?\n\nPro posouzení slova „jednostranně“ je klíčové, zda vláda současně (a v jakém rozsahu) zvyšovala i platy **bezpečnostních sborů** (policie, hasiči, Vězeňská služba, celní správa, GIBS).\n\n### 4.1 Zvyšování od 1. ledna 2023\n\n- Už z výše citovaného vládního materiálu z 7. 12. 2022 plyne, že **stejným rozhodnutím vláda zvyšovala tarify jak policistům a dalším bezpečnostním sborům, tak vojákům** – všem o 10 % (nižším třídám policie o 17 % kvůli nástupním platům). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n\n### 4.2 Zvyšování od 1. ledna 2025\n\n- V prosinci 2024 vláda schválila nařízení, podle něhož **od 1. 1. 2025 vzrostou služební tarify hasičů a policistů o 1500 Kč**, shodně s vojáky. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai))  \n- Ministerstvo vnitra ve vlastní tiskové zprávě (14. 11. 2024) oznámilo, že:  \n  - každému policistovi a hasiči po skončení základní přípravy **vzroste plat od roku 2025 o 2500 Kč** (1500 Kč do tarifu + 1000 Kč do stabilizačního příspěvku),  \n  - připomíná, že **„začátkem loňského roku“ (tj. 2023) se povedlo prosadit zvýšení tarifních platů o 10 % a nástupních platů dokonce o 17 %**. ([mv.gov.cz](https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx))  \n- Deník tento krok popisuje stejně: vláda schválila **plošné navýšení tarifů pro bezpečnostní sbory o 1500 Kč**, k tomu už dříve slíbených +1000 Kč do stabilizačního příplatku, celkem +2500 Kč měsíčně. ([denik.cz](https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai))  \n\n### 4.3 Balík z června 2025 – souběžné zvyšování u vojáků i policie/hasičů\n\nOficiální tisková zpráva Úřadu vlády z 4. 6. 2025 (tedy tentýž balík, v němž se řeší velké zvýšení platů vojáků) uvádí:\n\n- „**Vojáci a příslušníci bezpečnostních sborů Ministerstva vnitra si od 1. července finančně polepší. Na další navýšení příjmů se mohou těšit od Nového roku.**“ ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai))  \n- Konkrétně:  \n  - **vojákům** se zvyšují tarify a příspěvek na bydlení (viz výše),  \n  - **příslušníkům bezpečnostních sborů (policisté, hasiči atd.) se plošně navyšují stabilizační příplatky a „od ledna také platy“** (tarify). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai))  \n\nTotéž shrnují nezávislé zpravodajské texty (ČTK, Seznam Zprávy, E15, Novinky):\n\n- „**Vojákům se zvýší platové tarify… Policisté a hasiči budou mít od 1. července o 3000 korun vyšší měsíční výplatu prostřednictvím navýšení stabilizačního příplatku.**“ ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2682045?utm_source=openai))  \n- TV Nova (TN.cz) k 1. 7. 2025: **„Bezpečnostním složkám se od 1. července zvyšují platy. Policisté a hasiči budou mít o 3000 měsíčně víc – dostanou to formou navýšení stabilizačního příspěvku. U vojáků se nárůst liší podle hodnosti (7,5 % / 5 %).“** ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/620228-policistum-vojakum-i-hasicum-se-zvysily-platy-rozpocet-je-napjaty-varuji-odbornici?utm_source=openai))  \n\n### 4.4 Další bezpečnostní sbory (Vězeňská služba, celní správa, GIBS)\n\n- ČTK (2. 7. 2025) a další média informují, že vláda **navýšila stabilizační příplatky o 3000 Kč měsíčně také členům Vězeňské služby, celníkům a příslušníkům GIBS**, a to „ve stejné výši jako dříve u vojáků, policistů a hasičů“. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2693657?utm_source=openai))  \n\n### 4.5 Srovnání výchozích platů\n\n- Analýza serveru POŽÁRY.cz (citující podklady ministerstva vnitra) uvádí pro **rok 2023** průměrné mzdy na základních pozicích:  \n  - hasiči ~51 000 Kč,  \n  - policisté ~43 000 Kč,  \n  - vojáci ~46 000 Kč. ([pozary.cz](https://www.pozary.cz/clanek/291014-generalni-reditel-hasicu-svym-pokynem-zvysil-od-1-cervence-2025-stabilizacni-priplatky-o-3-000-korun/?utm_source=openai))  \n\nTo ukazuje, že ještě před balíkem 2025 **nebyli vojáci platově „nad“ hasiči – naopak hasiči byli nejlépe placení; vojáci byli mezi policisty a hasiči.**\n\n---\n\n## 5. Posouzení slova „jednostranně“\n\n### 5.1 Doslovná interpretace („jen vojákům, ne bezpečnostním sborům“)\n\nPodle dostupných oficiálních dokumentů:\n\n- **V prosinci 2022** vláda zvýšila platy **současně vojákům i policistům / bezpečnostním sborům** (10 %, resp. 17 % u nejnižších tarifů policie). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n- **V prosinci 2024** schválila vláda navýšení tarifů **o 1500 Kč jak vojákům, tak policistům a hasičům** od 1. 1. 2025. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai))  \n- **V červnu 2025** vláda schválila komplexní balík, který **současně**:  \n  - výrazně zvyšuje tarify a příspěvek na bydlení vojákům,  \n  - **od 1. 7. 2025 (+3000 do stabilizačního příplatku) a od 1. 1. 2026** navyšuje příjmy i příslušníkům bezpečnostních sborů (policistům, hasičům, dozorcům, celníkům, GIBS). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai))  \n\nKromě toho sama ministryně obrany v tiskové zprávě MO zdůrazňuje, že **rozložení zvýšení tarifů vojáků do dvou fází je „kompromis, na kterém jsme se domluvili s panem ministrem vnitra Rakušanem“**, aby bylo řešení koordinované. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/))  \n\n> Z těchto podkladů vyplývá, že klíčová rozhodnutí o zvýšení platů **nebyla přijímána „jen pro vojáky“, ale vždy i pro policii, hasiče a další sbory**, byť v jiné struktuře (tarif vs. stabilizační příplatek, rozdílné procento apod.).\n\n**Doslovná interpretace „jednostranně navýšila platy vojákům“ (bez obdobného růstu u bezpečnostních sborů) je tedy v rozporu s dostupnými fakty.**\n\n### 5.2 Volnější interpretace („největší a nejskokovější růst byl u vojáků, což otevřelo nůžky“)\n\n- Balík pro vojáky v roce 2025 zahrnuje:  \n  - **tarifní růst 10–15 %**,  \n  - **100% zvýšení příspěvku na bydlení** (typicky +3000 Kč),  \n  - další změny stabilizačních příplatků. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/))  \n- Policisté a hasiči dostali v letech 2024/2025:  \n  - **+1500 Kč do tarifu od 1. 1. 2025**,  \n  - před tím (leden 2025) již prosazené **+1500 Kč do tarifů +1000 Kč stabilizační příspěvek** (celkem +2500 Kč),  \n  - **+3000 Kč do stabilizačního příplatku od 1. 7. 2025**,  \n  - plánované navýšení tarifů od 1. 1. 2026 (vládní materiály mluví o cca 5 % jako výchozí hladině). ([mv.gov.cz](https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx))  \n\nZ hlediska konstrukce balíku tedy:\n\n- **Vojáci** dostali výrazný procentní růst tarifů a bydlení, který MO samo prezentuje jako „významné“ a jako splnění slibu zvýšit příjem o min. 8378 Kč. ([ikp.army.cz](https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni?utm_source=openai))  \n- **Policisté a hasiči** dostali silný nárůst stabilizačních příplatků a peněžní navýšení v Kč (2500 + 3000), což procentně může být u nižších hodností také vysoké, ale struktura je jiná.\n\nLze tedy diskutovat, **zda výsledné rozdíly v příjmech po roce 2025 mezi armádou a ostatními sbory „rozevřely nůžky“ více, než bylo dříve**. To je spíše hodnotící soud a závisí na konkrétním porovnání pozic a nástupních tarifů, pro které ale nejsou v jednom centrálním zdroji kompletní data.\n\n**Nicméně ani při této benevolentní interpretaci neodpovídá realitě, že by vláda „jednostranně“ řešila pouze vojáky a zcela ignorovala bezpečnostní sbory.** Balík z 4. 6. 2025 výslovně zahrnuje vojáky i všechny bezpečnostní sbory, jen v jiných nástrojích a poměrech. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai))  \n\n---\n\n## 6. Závěry k dílčím tvrzením\n\n| Dílčí tvrzení | Shrnutí důkazů | Stav podle důkazů |\n| --- | --- | --- |\n| **„Minulá vláda (Fialova) navýšila platy vojákům.“** | Vládní usnesení z 12/2022 (navýšení tarifů o 10 % od 1. 1. 2023), z 12/2024 (+1500 Kč od 1. 1. 2025), a balík z 6/2025 (tarify +10–15 %, bydlení +100 %, další příplatky). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai)) | **Fakticky podloženo (pravdivé).** |\n| **„…když jednostranně navýšila platy vojákům“ – ve smyslu, že zvýšení bylo jen pro vojáky, ne pro bezpečnostní sbory.** | Stejnými rozhodnutími vláda současně navyšovala i platy/příplatky policistů, hasičů a dalších sborů: 12/2022 (vojsko + policie/BS), 12/2024 (1500 Kč pro vojáky i policii/HZS), 6/2025 (balík pro vojáky plus zvýšení stabilizačních příplatků policistům a hasičům o 3000 Kč, následně i dozorcům, celníkům a GIBS). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai)) | **V rozporu s fakty; vláda řešila celé bezpečnostní sbory, ne jen vojáky.** |\n| **Volnější čtení „jednostranně“ – že vláda dala vojákům výraznější/rychlejší růst a tím „rozevřela nůžky“ vůči policii a hasičům.** | Objektivně: vojákům balík 2025 přinesl velmi silný růst tarifů a bydlení; policistům a hasičům spíše kombinaci pevné částky do tarifu a výrazného růstu stabilizačních příplatků. Reálnou velikost „nůžek“ by bylo třeba doložit detailními statistickými porovnáními platů před a po; z dostupných oficiálních podkladů ale nevyplývá, že by vláda ignorovala bezpečnostní sbory. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/)) | **Jako hodnotící soud může vycházet z rozdílné konstrukce balíků, ale formulace „jednostranně“ je zavádějící, protože vláda přidávala i jiným sborům.** |\n\n---\n\n## 7. Přehled klíčových zdrojů (s citacemi)\n\n> Pozn.: Citace jsou zkrácené (do ~25 slov) a přeložené/parafrázované tam, kde je to nutné kvůli licenčním omezením.\n\n1. **Úřad vlády ČR – „Vláda rozhodla o zvýšení platů vojáků a policistů…“ (7. 12. 2022)**  \n   - Popisuje rozhodnutí vlády zvýšit **platové tarify policistů a dalších příslušníků bezpečnostních sborů** (1.–2. třída +17 %, 3.–11. +10 %) a zároveň **zvýšit tarify vojáků ve všech hodnostech o 10 %**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n   - URL: https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/\n\n2. **Ministerstvo vnitra – „Všem policistům i hasičům vzrostou příští rok platy o 2500 Kč“ (14. 11. 2024)**  \n   - „Každému hasiči a policistovi se od příštího roku zvýší plat o 2500 Kč měsíčně (1500 Kč do tarifu +1000 Kč stabilizační příspěvek).“  \n   - Zmiňuje, že **začátkem předchozího roku** se tarifní platy zvýšily o 10 %, nástupní o 17 %. ([mv.gov.cz](https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx))  \n   - URL: https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx\n\n3. **ČTK – „Platy vojáků od ledna vzrostou o 1500 korun…“ (11. 12. 2024)**  \n   - Vládní nařízení: **tarify vojáků z povolání +1500 Kč** pro všechny hodnosti.  \n   - Současně: **„O 1500 korun se od ledna zvednou také služební tarify hasičů a policistů.“** ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai))  \n   - URL: https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112\n\n4. **Úřad vlády ČR – „Vláda rozhodla o zvyšování příjmů vojáků a policistů…“ (4. 6. 2025)**  \n   - „Vojáci a příslušníci bezpečnostních sborů ministerstva vnitra si od 1. července finančně polepší. Na další navýšení příjmů se mohou těšit od Nového roku.“  \n   - U vojáků: zvýšení tarifů a příspěvku na bydlení; u bezpečnostních sborů: **plošné navýšení stabilizačních příplatků a od ledna také platů.** ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai))  \n   - URL: https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/\n\n5. **Ministerstvo obrany – „Vojákům se od července zvýší platy, rozhodla vláda“ (4./5. 6. 2025)**  \n   - Popisuje, že **od července se vojákům zvýší příspěvek na bydlení minimálně o 100 % (nejméně o 3000 Kč)** a tarify celkem o 15 % (nižší hodnosti) a 10 % (vyšší), ve dvou vlnách (1. 7. 2025, 1. 1. 2026).  \n   - „Rozdělení zvýšení tarifů do dvou fází je kompromis, na kterém jsme se domluvili s ministrem vnitra Rakušanem.“ ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/))  \n   - URL: https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/\n\n6. **Úřad vlády ČR – „Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání…“ (11. 6. 2025)**  \n   - Potvrzuje, že od 1. 7. 2025 a 1. 1. 2026 **tarify vojáků rostou o 7,5 % / 5 %** a zvyšuje se příspěvek na bydlení v Praze i mimo Prahu. ([uv.gov.cz](https://uv.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/))  \n   - URL: https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/\n\n7. **MO – „Vojáci si polepší v součtu o nejméně 8 378 Kč…“ (14. 6. 2025)**  \n   - Zvyšování tarifů, bydlení a stabilizačních příplatků má vést k tomu, že **platy vojáků se zvýší minimálně o 8378 Kč hrubého, většina více.** ([ikp.army.cz](https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni?utm_source=openai))  \n   - URL: https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni\n\n8. **Seznam Zprávy / ČTK – „Vláda se dohodla na zvýšení platů vojáků, policistů i hasičů“ (4. 6. 2025)**  \n   - Shrnuje, že vláda rozhodla o zvýšení platových tarifů vojáků (7,5 % / 5 % od 1. 7.) a že policisté a hasiči **budou mít od 1. 7. o 3000 Kč vyšší měsíční výplatu díky navýšení stabilizačního příplatku.** ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2682045?utm_source=openai))  \n   - URL: https://www.seznamzpravy.cz/clanek/domaci-politika-vlada-se-dohodla-na-zvyseni-platu-vojaku-policistu-i-hasicu-278391\n\n9. **TN.cz – „Policistům, vojákům i hasičům se zvýšily platy“ (1. 7. 2025)**  \n   - Konstatuje, že **od 1. 7. 2025 se zvyšují platy všem bezpečnostním složkám**: policisté a hasiči +3000 Kč (stabilizační příspěvek), vojáci +7,5 % / 5 % na tarifech plus zvýšení příspěvku na bydlení. ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/620228-policistum-vojakum-i-hasicum-se-zvysily-platy-rozpocet-je-napjaty-varuji-odbornici?utm_source=openai))  \n   - URL: https://tn.nova.cz/zpravodajstvi/clanek/620228-policistum-vojakum-i-hasicum-se-zvysily-platy-rozpocet-je-napjaty-varuji-odbornici\n\n10. **POŽÁRY.cz – „Generální ředitel hasičů… zvýšil od 1. července 2025 stabilizační příplatky o 3 000 korun“ (28. 6. 2025)**  \n    - Popisuje interní pokyn HZS, kterým se **stabilizační příspěvek hasičů zvyšuje o 3000 Kč** dle let služby, s účinností od 1. 7. 2025.  \n    - Citace analýzy MV: v roce 2023 brali na základních pozicích průměrně **hasiči 51 tis., policisté 43 tis., vojáci 46 tis. Kč.** ([pozary.cz](https://www.pozary.cz/clanek/291014-generalni-reditel-hasicu-svym-pokynem-zvysil-od-1-cervence-2025-stabilizacni-priplatky-o-3-000-korun/?utm_source=openai))  \n    - URL: https://www.pozary.cz/clanek/291014-generalni-reditel-hasicu-svym-pokynem-zvysil-od-1-cervence-2025-stabilizacni-priplatky-o-3-000-korun/\n\n11. **ČTK – „Vláda podpořila zvýšení stabilizačního příplatku pro Vězeňskou službu“ (2. 7. 2025)**  \n    - Vláda schválila **navýšení stabilizačního příplatku o 3000 Kč pro Vězeňskou službu, celní správu a GIBS**; MF uvádí, že „navýšení kopíruje parametry nedávno uplatněné u policistů a hasičů“. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2693657?utm_source=openai))  \n    - URL: https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2693657\n\n12. **Oficiální biografické/lists: Lubomír Metnar, jmenování vlády Andreje Babiše**  \n    - Stránka Poslanecké sněmovny a MV potvrzuje, že **Lubomír Metnar je ministrem vnitra od 15. 12. 2025**. ([psp.cz](https://www.psp.cz/sqw/text/detail.sqw?id=6544&o=10&utm_source=openai))  \n    - AP News potvrzuje, že **15. 12. 2025 byla jmenována nová vláda Andreje Babiše**, čímž skončila vláda Petra Fialy. ([apnews.com](https://apnews.com/article/109771312dec01f2e6860eaeba7da9c3?utm_source=openai))  \n\nTyto zdroje dohromady umožňují ověřit, že:\n\n- Fialova vláda **skutečně výrazně zvýšila platy vojákům**,  \n- ale **neudělala to „jednostranně“ pouze pro vojáky** – zvyšování se opakovaně a souběžně týkalo i policistů, hasičů a dalších bezpečnostních sborů, byť v jiné struktuře a možná jiné intenzitě.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in iDNES.cz released on 2026-02-18 available from https://www.idnes.cz/zpravy/domaci/lubomir-metnar-zvysovani-platu-policie-zbranova-legislativa-bezpecnost-migranti.A260217_204844_domaci_krou?zdroj=otvirak.\\n\\n\\nThe claim was made by: Lubomír Metnar, Ministr vnitra\\n\\n\\nThe claim appears in the following immediate context in the source:\\nVláda chystá zpřísnění azylového zákona. Podle ministra vnitra Lubomíra Metnara (ANO) je problém zejména v chybějící digitalizaci agend, kvůli které stát v podstatě neví, kdo se v něm pohybuje. „Těžko se mi to říká, ale Česko nemá přehled o tom, kdo je na jeho území. Agendy nejsou digitalizované a je to velké bezpečnostní riziko,“ říká v rozhovoru pro iDNES.cz Metnar. Mluví i o platech policistů a hasičů či budoucnosti policejního prezidenta.\\nZačněme otázkou, která teď zajímá policisty, hasiče a další členy bezpečnostních sborů. V programovém prohlášení jim všem slibujete přidání, nástupní plat chcete zvednout hromadně na 50 tisíc korun. Kdy se tak podle vás stane?\\nNejdřív řeknu, proč to děláme. My tím hasíme chaos, který vytvořila minulá vláda, když jednostranně navýšila platy vojákům, a to poměrně skokově, a tím se rozevřely nůžky mezi nimi a příslušníky bezpečnostních sborů. Je to reálný problém a my potřebujeme, aby se ty nůžky přivřely a platově byla tato zaměstnání konkurenceschopná.\\nJak na to tedy půjdete?\\nNavýšení nástupních platů policistů a hasičů plánujeme v rámci celého volebního období, protože jsme proti tomu, aby docházelo ke skokovému navýšení, které by vytvářelo rozdíly a mohlo i ohrozit stabilitu rozpočtu. Těch 50 tisíc korun u nástupních platů není částka vycucaná z prstu, děláme to s ohledem na konkurenceschopnost i s přihlédnutím k situaci v zahraničí. V současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun. Celkově to máme spočítané tak, že po celé naše volební období budeme přidávat každý rok na platy bezpečnostních sborů 2,5 miliardy korun.\\n\\nProvide a structured, citation-backed verification of the claim: '(...) minulá vláda, když jednostranně navýšila platy vojákům.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 349.10 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Vláda Petra Fialy skutečně opakovaně zvýšila platy vojáků z povolání. Současně ale vždy navyšovala i příjmy policistů, hasičů a dalších sborů. Označení „jednostranně“ je proto zavádějící.</p>\n\n<p>Výrok o <i>„minulé vládě, když jednostranně navýšila platy vojákům“</i> zazněl v politické debatě o rozdílech v odměňování armády a bezpečnostních sborů. Z veřejně dostupných informací Poslanecké sněmovny vyplývá, že Lubomír Metnar je ministrem vnitra od 15. prosince 2025, kdy byla jmenována nová vláda Andreje Babiše, čímž skončila vláda Petra Fialy. „Minulou vládou“ tak výrok zjevně míří na kabinet Petra Fialy, který vládl v letech 2021–2025, což potvrzují jak informace Sněmovny, tak zprávy agentury <a href=\"https://apnews.com/article/109771312dec01f2e6860eaeba7da9c3\">AP News</a>.</p>\n\n<p>Výrok obsahuje dvě ověřitelná tvrzení. První dílčí tvrzení zní, že předchozí vláda (vláda Petra Fialy) navýšila platy vojákům. Druhé dílčí tvrzení je, že tak učinila „jednostranně“, tedy pouze u vojáků, nikoliv u policistů, hasičů a dalších bezpečnostních sborů. Následující text tato dvě tvrzení hodnotí zvlášť.</p>\n\n<p>Pokud jde o první tvrzení, že Fialova vláda zvýšila platy vojáků, dostupné podklady ho jednoznačně potvrzují. Už na konci roku 2022 rozhodla vláda podle tiskové zprávy Úřadu vlády <a href=\"https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/\">„Vláda rozhodla o zvýšení platů vojáků a policistů…“</a>, že od 1. ledna 2023 se tarifní platy vojáků ve všech hodnostech, od svobodníka po armádního generála, zvýší o 10 %. V textu vláda uvádí, že se <i>„platové tarify vojáků z povolání ve všech hodnostech zvyšují o 10 %“</i>, zatímco u policistů a dalších bezpečnostních sborů rostou tabulky o 10 %, u dvou nejnižších tříd dokonce o 17 %.</p>\n\n<p>Další navýšení platů vojáků přišlo v roce 2024 pro období od 1. ledna 2025. ČTK popisuje, že podle schváleného nařízení vlády mají služební tarify vojáků z povolání jednotně vzrůst o 1 500 Kč měsíčně, a to pro všechny hodnosti od svobodníka po armádního generála, jak shrnuje zpráva na serveru <a href=\"https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112\">České noviny</a>.</p>\n\n<p>Nejvýraznější balík změn vláda schválila v červnu 2025. Podle tiskové zprávy Ministerstva obrany <a href=\"https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/\">„Vojákům se od července zvýší platy, rozhodla vláda“</a> se od 1. července 2025 vojákům zdvojnásobuje příspěvek na bydlení, minimálně o 3 000 Kč měsíčně pro každého, a zároveň se služební tarify zvyšují celkem o 15 % u nižších hodností (svobodník až štábní praporčík) a o 10 % u důstojníků a vyšších hodností. Toto zvýšení je rozloženo do dvou etap – polovina od 1. července 2025 a druhá polovina od 1. ledna 2026 – jak dále upřesňuje Úřad vlády v textu <a href=\"https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/\">„Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání…“</a>.</p>\n\n<p>Souhrnný materiál Armády ČR na webu <a href=\"https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni\">ikp.army.cz</a> popisuje, že kombinací zvýšených tarifů, příspěvku na bydlení a stabilizačních příplatků si vojáci po plném naběhnutí opatření mají polepšit v součtu nejméně o 8 378 Kč hrubého měsíčně, u mnoha funkcí ještě více. I z hlediska rozsahu tedy platí, že vláda Petra Fialy platy vojáků z povolání navýšila opakovaně a výrazně. První dílčí tvrzení z výroku tak podle našich zjištění odpovídá skutečnosti.</p>\n\n<p>Druhé dílčí tvrzení mluví o tom, že vláda platy vojákům navýšila „jednostranně“. Doslovně vzato by to znamenalo, že navyšovala pouze armádě, zatímco ostatní bezpečnostní sbory – policie, Hasičský záchranný sbor, Vězeňská služba, Celní správa či GIBS – zůstaly stranou. Údaje z oficiálních dokumentů vlády a resortů ale ukazují jiný obraz.</p>\n\n<p>Již zmíněná vládní tisková zpráva z prosince 2022 na stránkách Úřadu vlády <a href=\"https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/\">„Vláda rozhodla o zvýšení platů vojáků a policistů…“</a> je postavena právě na tom, že jedno rozhodnutí zvýšilo platy jak vojákům, tak policistům a dalším příslušníkům bezpečnostních sborů. U bezpečnostních sborů rostou podle ní tarify o 10 %, u dvou nejnižších tříd o 17 %, a přímo v textu se zároveň píše, že <i>„navýšení platů se týká rovněž vojáků z povolání, jejichž platové tarify se zvyšují o 10 %“</i>. Rozhodnutí tedy není jednostranné – dopadá současně na vojáky i bezpečnostní sbory.</p>\n\n<p>Totéž platí pro nařízení vlády projednané na konci roku 2024. Zpráva ČTK shrnutá na serveru <a href=\"https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112\">České noviny</a> uvádí, že od 1. ledna 2025 mají služební tarify vojáků vzrůst o 1 500 Kč měsíčně, a současně dodává, že <i>„o 1 500 korun se od ledna zvednou také služební tarify hasičů a policistů“</i>. Opět tedy nejde o krok zaměřený jen na armádu.</p>\n\n<p>Ministerstvo vnitra ve své tiskové zprávě <a href=\"https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx\">„Všem policistům i hasičům vzrostou příští rok platy o 2500 Kč“</a> vysvětluje, že každému policistovi a hasiči se od roku 2025 zvýší příjem o 2 500 Kč měsíčně (1 500 Kč do tarifu a 1 000 Kč do stabilizačního příplatku) a připomíná, že <i>„začátkem loňského roku se podařilo prosadit navýšení tarifních platů o 10 % a nástupních platů dokonce o 17 %“</i>. I z pohledu Ministerstva vnitra tak vláda neřešila jen armádu, ale systematicky i bezpečnostní sbory.</p>\n\n<p>Klíčový je také červnový balík z roku 2025, který bývá v debatách často zmiňován jako moment, kdy se „rozevřely nůžky“ mezi armádou a ostatními složkami. Oficiální zpráva Úřadu vlády <a href=\"https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/\">„Vláda rozhodla o zvyšování příjmů vojáků a policistů…“</a> však už v úvodu konstatuje, že <i>„vojáci a příslušníci bezpečnostních sborů Ministerstva vnitra si od 1. července finančně polepší. Na další navýšení příjmů se mohou těšit od Nového roku“</i>. V dalším textu vláda rozvádí, že u vojáků roste příspěvek na bydlení a tarifní platy, zatímco u policistů, hasičů a dalších bezpečnostních sborů se plošně navyšují stabilizační příplatky a od ledna také tarifní platy.</p>\n\n<p>Stejný obraz podávají i novinářské souhrny tohoto rozhodnutí. Zpráva ČTK k tiskové konferenci vlády, publikovaná například na serveru <a href=\"https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2682045\">České noviny</a>, uvádí, že vojákům se mají zvýšit platové tarify v řádu 7,5 % a 5 % (podle hodnosti) a zároveň píše, že <i>„policisté a hasiči budou mít od 1. července o 3 000 korun vyšší měsíční výplatu prostřednictvím navýšení stabilizačního příplatku“</i>. Televize Nova shrnuje na serveru <a href=\"https://tn.nova.cz/zpravodajstvi/clanek/620228-policistum-vojakum-i-hasicum-se-zvysily-platy-rozpocet-je-napjaty-varuji-odbornici\">tn.nova.cz</a>, že od 1. července 2025 se zvyšují platy všem hlavním bezpečnostním složkám: policistům a hasičům právě formou vyššího stabilizačního příplatku, vojákům kombinací zvýšených tarifů a příspěvku na bydlení.</p>\n\n<p>Navýšení se navíc netýkalo jen policie a hasičů. Podle další zprávy ČTK na serveru <a href=\"https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2693657\">České noviny</a> vláda začátkem července 2025 schválila i zvýšení stabilizačního příplatku o 3 000 Kč měsíčně pro příslušníky Vězeňské služby, Celní správy a GIBS, přičemž Ministerstvo financí uvádí, že parametry navýšení kopírují nedávno uplatněné zvýšení u policistů a hasičů. Ministerstvo obrany zároveň v uvedené tiskové zprávě připomíná, že rozložení růstu tarifů vojáků do dvou fází je výsledkem dohody s ministrem vnitra Vítem Rakušanem, kterou označuje za <i>„kompromis, na kterém jsme se domluvili s panem ministrem vnitra“</i>. To zapadá do obrazu koordinovaného řešení napříč armádou a bezpečnostními sbory, nikoli izolovaného zvýhodnění jedné složky.</p>\n\n<p>Je pravda, že konstrukce balíků se u armády a bezpečnostních sborů liší. U vojáků vláda zvolila kombinaci značného procentního růstu tarifů a dvojnásobného příspěvku na bydlení, což Ministerstvo obrany samo prezentuje jako velmi výrazné zlepšení. U policistů a hasičů vláda více pracovala s pevnými částkami v korunách (navýšení tarifů o 1 500 Kč, navýšení stabilizačního příplatku o 3 000 Kč) a s posilováním právě těchto stabilizačních bonusů. Zda tato odlišná konstrukce ve výsledku „rozevřela nůžky“ v neprospěch policistů či hasičů, je už částečně hodnotící soud, který by vyžadoval detailní srovnání konkrétních funkcí a platových tříd před a po změnách. Taková komplexní data však v jednom veřejném zdroji k dispozici nemáme.</p>\n\n<p>Co ale naše ověření ukazuje jasně, je, že klíčová rozhodnutí Fialovy vlády o navyšování příjmů nikdy necílila pouze na vojáky. Vždy, když vláda výrazně zvyšovala platy vojáků (v letech 2023 a 2025), současně navyšovala i tarifní platy či stabilizační příplatky policistů, hasičů a dalších bezpečnostních sborů. Doslovné tvrzení, že šlo o „jednostranné“ navýšení jen pro vojáky, je proto v rozporu s oficiálními dokumenty vlády a dotčených ministerstev.</p>\n\n<p>Závěrem tedy shrnujeme: Fialova vláda skutečně opakovaně zvýšila platy vojáků z povolání, a tato část výroku je pravdivá. Zároveň ale nikdy nešlo o krok omezený pouze na armádu – ve stejných rozhodnutích vláda vždy řešila i navýšení příjmů policistů, hasičů a dalších bezpečnostních sborů. Klíčové slovo „jednostranně“ tak vytváří dojem, že vláda přidala jen vojákům a ostatní složky nechala bez navýšení, což neodpovídá doloženým faktům. Celkově proto tento výrok hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_08fb046e9c2432290069988d5d6c488197bddf99e1c8391448",
+    "created_at": 1771605341.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_08fb046e9c2432290069988d680cac819791b7e5fefc85dc8d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08fb046e9c2432290069988d7766388197842b8304a4b3472b",
+        "action": {
+          "query": "\"navýšení platů\" vojáků 2024 vláda",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"navýšení platů\" vojáků 2024 vláda",
+            "\"jednostranně\" navýšila platy vojákům vláda",
+            "zvýšení platů vojáků 2023 2024 bezpečnostní sbory policisté hasiči rozdíl",
+            "vláda Fiala navýšení platů vojákům policistům hasičům 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08fb046e9c2432290069988d7a2dfc819787984159b0fb51a3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08fb046e9c2432290069988d7c70e081978000a72faaef24df",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08fb046e9c2432290069988d7d82e881979a25d271ee327281",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08fb046e9c2432290069988d8399888197b295a711c1bb8a34",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08fb046e9c2432290069988d84e2b88197abd29bc3a63cf6fc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08fb046e9c2432290069988d895e888197a97fcef3ea7a5db0",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08fb046e9c2432290069988d8a1638819798112c9b1c6881d2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08fb046e9c2432290069988d9071e48197b24073dc52e83058",
+        "action": {
+          "query": "\"Lubomír Metnar\" ministr vnitra 2025 vláda ANO",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Lubomír Metnar\" ministr vnitra 2025 vláda ANO",
+            "jmenování vlády ANO 2025 premiér Babiš nebo jiný 2025 nová vláda 2025",
+            "Metnar ministr vnitra ANO vláda 2025",
+            "konec vlády Petra Fialy 2025 demise"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08fb046e9c2432290069988d944af481978c97b0e964d88f26",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08fb046e9c2432290069988d98382081979c90aeec18eba111",
+        "action": {
+          "query": "\"začátkem loňského roku\" \"zvýšení tarifních platů o 10 %\" policistů hasičů",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"začátkem loňského roku\" \"zvýšení tarifních platů o 10 %\" policistů hasičů",
+            "zvýšení tarifních platů policistů a hasičů o 10 % nástupních o 17 %",
+            "\"nástupních platů\" \"policistů\" \"17 %\" 2023",
+            "vláda schválila zvýšení platů bezpečnostních sborů od 1. ledna 2023 10 procent"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08fb046e9c2432290069988d9b4690819795820bab47628f06",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08fb046e9c2432290069988d9dd804819787c3d4194b0ab277",
+        "action": {
+          "query": "\"vlada rozhodla o zvysovani prijmu vojaků a policistů\" cerven 2025",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"vlada rozhodla o zvysovani prijmu vojaků a policistů\" cerven 2025",
+            "\"zvýšení příjmů vojáků a policistů\" vláda 2025",
+            "\"Bezpečnostním složkám se od 1. července zvyšují platy\"",
+            "\"od 1. července se zvyšují platy\" policistům hasičům stabilizační příspěvek 3200"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08fb046e9c2432290069988da0dc288197bb05e6a97b1b7eed",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08fb046e9c2432290069988db17abc819783e8301d75292656",
+        "action": {
+          "query": "\"stabilizační příplatky\" policistům hasičům od 1. července 2025",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"stabilizační příplatky\" policistům hasičům od 1. července 2025",
+            "\"od 1. července\" \"stabilizační příspěvek\" policisté hasiči 3000",
+            "\"policisté a hasiči budou mít od 1. července\" 3000 korun vyšší měsíční výplatu",
+            "\"od 1. ledna 2026\" \"platy\" policistů hasičů zvýší"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08fb046e9c2432290069988db5108c8197a3eba7961702ff6a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08fb046e9c2432290069988dc727848197a460ad075fbbefc3",
+        "action": {
+          "query": "site:mv.gov.cz \"od 1. července\" \"policisté a hasiči\" \"3000\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "site:mv.gov.cz \"od 1. července\" \"policisté a hasiči\" \"3000\"",
+            "\"stabilizačního příspěvku\" \"policisté a hasiči\" 3000 2025",
+            "\"Na růstu se dohodla vláda\" \"stabilizačního příplatku\" \"policisté a hasiči\" 2025",
+            "\"policisté a hasiči\" \"stabilizační příplatek\" 3000 2025"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08fb046e9c2432290069988dcca4ac8197948275e07648f6f4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08fb046e9c2432290069988e366c848197a83ef345fc920e12",
+        "action": {
+          "query": "\"Vojákům se zvýší platy\" 2024 vláda",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Vojákům se zvýší platy\" 2024 vláda",
+            "\"Vojákům vzrostou platy\" 2024",
+            "\"zvýšení tarifních platů\" \"vojáků z povolání\" 2024",
+            "\"tarify vojáků\" 2024 1500"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08fb046e9c2432290069988e39d14c8197aa87af453d65b269",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_08fb046e9c2432290069988e5178848197bbdfec5febe88c1d",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 326,
+                "start_index": 126,
+                "title": "Vláda rozhodla o zvýšení platů vojáků a policistů a prodloužila kontroly na hranicích se Slovenskem | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 807,
+                "start_index": 607,
+                "title": "Vláda rozhodla o zvýšení platů vojáků a policistů a prodloužila kontroly na hranicích se Slovenskem | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 1761,
+                "start_index": 1680,
+                "title": "Mgr. Lubomír Metnar",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/sqw/text/detail.sqw?id=6544&o=10&utm_source=openai"
+              },
+              {
+                "end_index": 1979,
+                "start_index": 1886,
+                "title": "Czech president swears in new coalition government of populist billionaire Andrej Babiš",
+                "type": "url_citation",
+                "url": "https://apnews.com/article/109771312dec01f2e6860eaeba7da9c3?utm_source=openai"
+              },
+              {
+                "end_index": 2717,
+                "start_index": 2517,
+                "title": "Vláda rozhodla o zvýšení platů vojáků a policistů a prodloužila kontroly na hranicích se Slovenskem | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 3167,
+                "start_index": 3017,
+                "title": "Platy vojáků od ledna vzrostou o 1500 korun, nařízení schválila vláda | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai"
+              },
+              {
+                "end_index": 3809,
+                "start_index": 3676,
+                "title": "Vojákům se od července zvýší platy, rozhodla vláda | Ministerstvo obrany\n",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/"
+              },
+              {
+                "end_index": 4263,
+                "start_index": 4064,
+                "title": "Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání a zabývala se budoucností jaderné energetiky v Česku | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://uv.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/"
+              },
+              {
+                "end_index": 4632,
+                "start_index": 4480,
+                "title": "Vojáci si polepší v součtu o nejméně 8 378 Kč, vláda schválila avizovaný soubor opatření | IKP",
+                "type": "url_citation",
+                "url": "https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni?utm_source=openai"
+              },
+              {
+                "end_index": 5568,
+                "start_index": 5368,
+                "title": "Vláda rozhodla o zvýšení platů vojáků a policistů a prodloužila kontroly na hranicích se Slovenskem | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 5904,
+                "start_index": 5754,
+                "title": "Platy vojáků od ledna vzrostou o 1500 korun, nařízení schválila vláda | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai"
+              },
+              {
+                "end_index": 6400,
+                "start_index": 6294,
+                "title": "Všem policistům i hasičům vzrostou příští rok platy o 2500 Kč - Ministerstvo vnitra České republiky",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx"
+              },
+              {
+                "end_index": 6706,
+                "start_index": 6605,
+                "title": "Policistům a hasičům příští rok porostou platy. Polepší si o dva a půl tisíce - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai"
+              },
+              {
+                "end_index": 7282,
+                "start_index": 7069,
+                "title": "Vláda rozhodla o zvyšování příjmů vojáků a policistů a zabývala se i nabytím daru v bitcoinech Ministerstvem spravedlnosti | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai"
+              },
+              {
+                "end_index": 7727,
+                "start_index": 7514,
+                "title": "Vláda rozhodla o zvyšování příjmů vojáků a policistů a zabývala se i nabytím daru v bitcoinech Ministerstvem spravedlnosti | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai"
+              },
+              {
+                "end_index": 8086,
+                "start_index": 7982,
+                "title": "Vláda se dohodla na zvýšení platů vojáků, policistů i hasičů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2682045?utm_source=openai"
+              },
+              {
+                "end_index": 8503,
+                "start_index": 8340,
+                "title": "Policistům, vojákům i hasičům se zvýšily platy. Rozpočet je napjatý, varují odborníci | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/620228-policistum-vojakum-i-hasicum-se-zvysily-platy-rozpocet-je-napjaty-varuji-odbornici?utm_source=openai"
+              },
+              {
+                "end_index": 8912,
+                "start_index": 8808,
+                "title": "Vláda podpořila zvýšení stabilizačního příplatku pro Vězeňskou službu | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2693657?utm_source=openai"
+              },
+              {
+                "end_index": 9327,
+                "start_index": 9157,
+                "title": "Generální ředitel hasičů svým pokynem zvýšil od 1. července 2025 stabilizační příplatky o 3 000 korun | POŽÁRY.cz - ohnisko žhavých zpráv | hasiči aktuálně",
+                "type": "url_citation",
+                "url": "https://www.pozary.cz/clanek/291014-generalni-reditel-hasicu-svym-pokynem-zvysil-od-1-cervence-2025-stabilizacni-priplatky-o-3-000-korun/?utm_source=openai"
+              },
+              {
+                "end_index": 9988,
+                "start_index": 9788,
+                "title": "Vláda rozhodla o zvýšení platů vojáků a policistů a prodloužila kontroly na hranicích se Slovenskem | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 10262,
+                "start_index": 10112,
+                "title": "Platy vojáků od ledna vzrostou o 1500 korun, nařízení schválila vláda | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai"
+              },
+              {
+                "end_index": 10789,
+                "start_index": 10576,
+                "title": "Vláda rozhodla o zvyšování příjmů vojáků a policistů a zabývala se i nabytím daru v bitcoinech Ministerstvem spravedlnosti | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai"
+              },
+              {
+                "end_index": 11154,
+                "start_index": 11021,
+                "title": "Vojákům se od července zvýší platy, rozhodla vláda | Ministerstvo obrany\n",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/"
+              },
+              {
+                "end_index": 11953,
+                "start_index": 11820,
+                "title": "Vojákům se od července zvýší platy, rozhodla vláda | Ministerstvo obrany\n",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/"
+              },
+              {
+                "end_index": 12436,
+                "start_index": 12330,
+                "title": "Všem policistům i hasičům vzrostou příští rok platy o 2500 Kč - Ministerstvo vnitra České republiky",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx"
+              },
+              {
+                "end_index": 12782,
+                "start_index": 12630,
+                "title": "Vojáci si polepší v součtu o nejméně 8 378 Kč, vláda schválila avizovaný soubor opatření | IKP",
+                "type": "url_citation",
+                "url": "https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni?utm_source=openai"
+              },
+              {
+                "end_index": 13747,
+                "start_index": 13534,
+                "title": "Vláda rozhodla o zvyšování příjmů vojáků a policistů a zabývala se i nabytím daru v bitcoinech Ministerstvem spravedlnosti | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai"
+              },
+              {
+                "end_index": 14291,
+                "start_index": 14091,
+                "title": "Vláda rozhodla o zvýšení platů vojáků a policistů a prodloužila kontroly na hranicích se Slovenskem | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 14965,
+                "start_index": 14765,
+                "title": "Vláda rozhodla o zvýšení platů vojáků a policistů a prodloužila kontroly na hranicích se Slovenskem | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 15686,
+                "start_index": 15553,
+                "title": "Vojákům se od července zvýší platy, rozhodla vláda | Ministerstvo obrany\n",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/"
+              },
+              {
+                "end_index": 16511,
+                "start_index": 16311,
+                "title": "Vláda rozhodla o zvýšení platů vojáků a policistů a prodloužila kontroly na hranicích se Slovenskem | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 17133,
+                "start_index": 17027,
+                "title": "Všem policistům i hasičům vzrostou příští rok platy o 2500 Kč - Ministerstvo vnitra České republiky",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx"
+              },
+              {
+                "end_index": 17645,
+                "start_index": 17495,
+                "title": "Platy vojáků od ledna vzrostou o 1500 korun, nařízení schválila vláda | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai"
+              },
+              {
+                "end_index": 18388,
+                "start_index": 18175,
+                "title": "Vláda rozhodla o zvyšování příjmů vojáků a policistů a zabývala se i nabytím daru v bitcoinech Ministerstvem spravedlnosti | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai"
+              },
+              {
+                "end_index": 19139,
+                "start_index": 19006,
+                "title": "Vojákům se od července zvýší platy, rozhodla vláda | Ministerstvo obrany\n",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/"
+              },
+              {
+                "end_index": 19717,
+                "start_index": 19518,
+                "title": "Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání a zabývala se budoucností jaderné energetiky v Česku | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://uv.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/"
+              },
+              {
+                "end_index": 20294,
+                "start_index": 20142,
+                "title": "Vojáci si polepší v součtu o nejméně 8 378 Kč, vláda schválila avizovaný soubor opatření | IKP",
+                "type": "url_citation",
+                "url": "https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni?utm_source=openai"
+              },
+              {
+                "end_index": 20845,
+                "start_index": 20741,
+                "title": "Vláda se dohodla na zvýšení platů vojáků, policistů i hasičů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2682045?utm_source=openai"
+              },
+              {
+                "end_index": 21423,
+                "start_index": 21260,
+                "title": "Policistům, vojákům i hasičům se zvýšily platy. Rozpočet je napjatý, varují odborníci | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/620228-policistum-vojakum-i-hasicum-se-zvysily-platy-rozpocet-je-napjaty-varuji-odbornici?utm_source=openai"
+              },
+              {
+                "end_index": 22139,
+                "start_index": 21969,
+                "title": "Generální ředitel hasičů svým pokynem zvýšil od 1. července 2025 stabilizační příplatky o 3 000 korun | POŽÁRY.cz - ohnisko žhavých zpráv | hasiči aktuálně",
+                "type": "url_citation",
+                "url": "https://www.pozary.cz/clanek/291014-generalni-reditel-hasicu-svym-pokynem-zvysil-od-1-cervence-2025-stabilizacni-priplatky-o-3-000-korun/?utm_source=openai"
+              },
+              {
+                "end_index": 22693,
+                "start_index": 22589,
+                "title": "Vláda podpořila zvýšení stabilizačního příplatku pro Vězeňskou službu | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2693657?utm_source=openai"
+              },
+              {
+                "end_index": 23051,
+                "start_index": 22970,
+                "title": "Mgr. Lubomír Metnar",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/sqw/text/detail.sqw?id=6544&o=10&utm_source=openai"
+              },
+              {
+                "end_index": 23267,
+                "start_index": 23174,
+                "title": "Czech president swears in new coalition government of populist billionaire Andrej Babiš",
+                "type": "url_citation",
+                "url": "https://apnews.com/article/109771312dec01f2e6860eaeba7da9c3?utm_source=openai"
+              }
+            ],
+            "text": "## Shrnutí\n\n- **Fakticky doložitelné je, že „minulá vláda“ (kabinet Petra Fialy) opakovaně zvýšila platy vojáků z povolání.** ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n- **Naopak část tvrzení, že šlo o „jednostranné“ zvýšení jen pro vojáky, je v rozporu s oficiálními dokumenty vlády a resortů.** Ty ukazují, že ve stejných rozhodnutích vláda současně zvyšovala i platy či stabilizační příplatky policistů, hasičů a dalších bezpečnostních sborů. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n\nNíže je podrobný rozklad po dílčích tvrzeních.\n\n---\n\n## 1. Identifikace tvrzení a kontext\n\nSporná věta: **„…minulá vláda, když jednostranně navýšila platy vojákům…“**\n\nMožné interpretace:\n\n1. **Úzká (doslovná):** Předchozí vláda zvýšila platy *jen* vojákům, zatímco policistům, hasičům a dalším bezpečnostním sborům nikoli.\n2. **Volnější (politická):** Vláda zvýšila platy vojákům výrazněji / jinak konstruovaně než u policistů a hasičů, což podle mluvčího „rozevřelo nůžky“, i když jisté zvýšení měli všichni.\n\nPro ověření je třeba:\n\n- zjistit, **kdo je „minulá vláda“**,  \n- zmapovat **konkrétní kroky této vlády ve zvyšování platů vojáků**,  \n- zkontrolovat, **co se současně dělo s platy policistů, hasičů a dalších sborů**.\n\n---\n\n## 2. Kdo je „minulá vláda“?\n\n- Lubomír Metnar je podle oficiálních stránek Poslanecké sněmovny **ministrem vnitra od 15. 12. 2025**. ([psp.cz](https://www.psp.cz/sqw/text/detail.sqw?id=6544&o=10&utm_source=openai))  \n- Téhož dne byl podle Úřadu vlády a agentury AP jmenován nový kabinet **Andreje Babiše**; tím skončila vláda Petra Fialy. ([apnews.com](https://apnews.com/article/109771312dec01f2e6860eaeba7da9c3?utm_source=openai))  \n- „Minulou vládou“ tedy Metnar zjevně míní **vládu Petra Fialy (ODS), úřadující v letech 2021–prosinec 2025**.\n\n---\n\n## 3. Důkazy: Zvyšování platů vojáků za vlády Petra Fialy\n\n### 3.1 Zvyšování od 1. ledna 2023\n\n- Usnesením z 7. 12. 2022 vláda rozhodla o **zvýšení platů vojáků i policistů / bezpečnostních sborů od 1. 1. 2023**.  \n  - Pro příslušníky bezpečnostních sborů: tarify ve třídách 3–11 +10 %, v 1–2 +17 %.  \n  - **„Navýšení platů se týká rovněž vojáků. Pro hodnosti svobodník až armádní generál se tarify zvyšují o 10 %.“** ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n\n### 3.2 Zvyšování od 1. ledna 2025 (1500 Kč)\n\n- ČTK k jednání vlády 11. 12. 2024: od 1. 1. 2025 **vzrostou služební tarify vojáků z povolání jednotně o 1500 Kč měsíčně** (svobodník až armádní generál).  \n- Současně: **„O 1500 korun se od ledna zvednou také služební tarify hasičů a policistů.“** ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai))  \n\n### 3.3 Balík z června 2025 (tarify + bydlení + příplatky)\n\n- Ministerstvo obrany (MO) shrnuje v tiskové zprávě z 4./5. 6. 2025, že vláda rozhodla o **navýšení platů vojáků z povolání od 1. 7. 2025 ve dvou fázích**:  \n  - příspěvek na bydlení **+100 %** (min. +3000 Kč/měsíc pro každého vojáka),  \n  - služební tarify: celkem **+15 %** pro hodnosti od svobodníka po štábního praporčíka a **+10 %** od poručíka výš,  \n  - polovina tohoto navýšení (7,5 % a 5 %) od 1. 7. 2025, druhá polovina od 1. 1. 2026. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/))  \n- Úřad vlády 11. 6. 2025 potvrdil, že byl schválen příslušný balík nařízení vlády: **tarify vojáků se zvyšují o 7,5 % / 5 % od 1. 7. 2025 a o stejnou hodnotu od 1. 1. 2026**, plus zvýšení příspěvku na bydlení (Praha na 7000 Kč, mimo Prahu na 6000 Kč). ([uv.gov.cz](https://uv.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/))  \n- MO pak v samostatném materiálu shrnuje, že **po kombinaci zvýšení tarifů, bydlení a stabilizačních příplatků si vojáci od 1. 7. 2025 a 1. 1. 2026 polepší v součtu nejméně o 8378 Kč měsíčně, mnozí výrazně více**. ([ikp.army.cz](https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni?utm_source=openai))  \n\n**Závěr k této části:**  \nTvrzení, že Fialova vláda vojákům „navýšila platy“, je dobře doložené – stalo se tak opakovaně (2023, 2025) a zvlášť výrazně v balíku z června 2025.\n\n---\n\n## 4. Co dělala tatáž vláda se mzdami policistů, hasičů a dalších bezpečnostních sborů?\n\nPro posouzení slova „jednostranně“ je klíčové, zda vláda současně (a v jakém rozsahu) zvyšovala i platy **bezpečnostních sborů** (policie, hasiči, Vězeňská služba, celní správa, GIBS).\n\n### 4.1 Zvyšování od 1. ledna 2023\n\n- Už z výše citovaného vládního materiálu z 7. 12. 2022 plyne, že **stejným rozhodnutím vláda zvyšovala tarify jak policistům a dalším bezpečnostním sborům, tak vojákům** – všem o 10 % (nižším třídám policie o 17 % kvůli nástupním platům). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n\n### 4.2 Zvyšování od 1. ledna 2025\n\n- V prosinci 2024 vláda schválila nařízení, podle něhož **od 1. 1. 2025 vzrostou služební tarify hasičů a policistů o 1500 Kč**, shodně s vojáky. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai))  \n- Ministerstvo vnitra ve vlastní tiskové zprávě (14. 11. 2024) oznámilo, že:  \n  - každému policistovi a hasiči po skončení základní přípravy **vzroste plat od roku 2025 o 2500 Kč** (1500 Kč do tarifu + 1000 Kč do stabilizačního příspěvku),  \n  - připomíná, že **„začátkem loňského roku“ (tj. 2023) se povedlo prosadit zvýšení tarifních platů o 10 % a nástupních platů dokonce o 17 %**. ([mv.gov.cz](https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx))  \n- Deník tento krok popisuje stejně: vláda schválila **plošné navýšení tarifů pro bezpečnostní sbory o 1500 Kč**, k tomu už dříve slíbených +1000 Kč do stabilizačního příplatku, celkem +2500 Kč měsíčně. ([denik.cz](https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai))  \n\n### 4.3 Balík z června 2025 – souběžné zvyšování u vojáků i policie/hasičů\n\nOficiální tisková zpráva Úřadu vlády z 4. 6. 2025 (tedy tentýž balík, v němž se řeší velké zvýšení platů vojáků) uvádí:\n\n- „**Vojáci a příslušníci bezpečnostních sborů Ministerstva vnitra si od 1. července finančně polepší. Na další navýšení příjmů se mohou těšit od Nového roku.**“ ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai))  \n- Konkrétně:  \n  - **vojákům** se zvyšují tarify a příspěvek na bydlení (viz výše),  \n  - **příslušníkům bezpečnostních sborů (policisté, hasiči atd.) se plošně navyšují stabilizační příplatky a „od ledna také platy“** (tarify). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai))  \n\nTotéž shrnují nezávislé zpravodajské texty (ČTK, Seznam Zprávy, E15, Novinky):\n\n- „**Vojákům se zvýší platové tarify… Policisté a hasiči budou mít od 1. července o 3000 korun vyšší měsíční výplatu prostřednictvím navýšení stabilizačního příplatku.**“ ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2682045?utm_source=openai))  \n- TV Nova (TN.cz) k 1. 7. 2025: **„Bezpečnostním složkám se od 1. července zvyšují platy. Policisté a hasiči budou mít o 3000 měsíčně víc – dostanou to formou navýšení stabilizačního příspěvku. U vojáků se nárůst liší podle hodnosti (7,5 % / 5 %).“** ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/620228-policistum-vojakum-i-hasicum-se-zvysily-platy-rozpocet-je-napjaty-varuji-odbornici?utm_source=openai))  \n\n### 4.4 Další bezpečnostní sbory (Vězeňská služba, celní správa, GIBS)\n\n- ČTK (2. 7. 2025) a další média informují, že vláda **navýšila stabilizační příplatky o 3000 Kč měsíčně také členům Vězeňské služby, celníkům a příslušníkům GIBS**, a to „ve stejné výši jako dříve u vojáků, policistů a hasičů“. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2693657?utm_source=openai))  \n\n### 4.5 Srovnání výchozích platů\n\n- Analýza serveru POŽÁRY.cz (citující podklady ministerstva vnitra) uvádí pro **rok 2023** průměrné mzdy na základních pozicích:  \n  - hasiči ~51 000 Kč,  \n  - policisté ~43 000 Kč,  \n  - vojáci ~46 000 Kč. ([pozary.cz](https://www.pozary.cz/clanek/291014-generalni-reditel-hasicu-svym-pokynem-zvysil-od-1-cervence-2025-stabilizacni-priplatky-o-3-000-korun/?utm_source=openai))  \n\nTo ukazuje, že ještě před balíkem 2025 **nebyli vojáci platově „nad“ hasiči – naopak hasiči byli nejlépe placení; vojáci byli mezi policisty a hasiči.**\n\n---\n\n## 5. Posouzení slova „jednostranně“\n\n### 5.1 Doslovná interpretace („jen vojákům, ne bezpečnostním sborům“)\n\nPodle dostupných oficiálních dokumentů:\n\n- **V prosinci 2022** vláda zvýšila platy **současně vojákům i policistům / bezpečnostním sborům** (10 %, resp. 17 % u nejnižších tarifů policie). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n- **V prosinci 2024** schválila vláda navýšení tarifů **o 1500 Kč jak vojákům, tak policistům a hasičům** od 1. 1. 2025. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai))  \n- **V červnu 2025** vláda schválila komplexní balík, který **současně**:  \n  - výrazně zvyšuje tarify a příspěvek na bydlení vojákům,  \n  - **od 1. 7. 2025 (+3000 do stabilizačního příplatku) a od 1. 1. 2026** navyšuje příjmy i příslušníkům bezpečnostních sborů (policistům, hasičům, dozorcům, celníkům, GIBS). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai))  \n\nKromě toho sama ministryně obrany v tiskové zprávě MO zdůrazňuje, že **rozložení zvýšení tarifů vojáků do dvou fází je „kompromis, na kterém jsme se domluvili s panem ministrem vnitra Rakušanem“**, aby bylo řešení koordinované. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/))  \n\n> Z těchto podkladů vyplývá, že klíčová rozhodnutí o zvýšení platů **nebyla přijímána „jen pro vojáky“, ale vždy i pro policii, hasiče a další sbory**, byť v jiné struktuře (tarif vs. stabilizační příplatek, rozdílné procento apod.).\n\n**Doslovná interpretace „jednostranně navýšila platy vojákům“ (bez obdobného růstu u bezpečnostních sborů) je tedy v rozporu s dostupnými fakty.**\n\n### 5.2 Volnější interpretace („největší a nejskokovější růst byl u vojáků, což otevřelo nůžky“)\n\n- Balík pro vojáky v roce 2025 zahrnuje:  \n  - **tarifní růst 10–15 %**,  \n  - **100% zvýšení příspěvku na bydlení** (typicky +3000 Kč),  \n  - další změny stabilizačních příplatků. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/))  \n- Policisté a hasiči dostali v letech 2024/2025:  \n  - **+1500 Kč do tarifu od 1. 1. 2025**,  \n  - před tím (leden 2025) již prosazené **+1500 Kč do tarifů +1000 Kč stabilizační příspěvek** (celkem +2500 Kč),  \n  - **+3000 Kč do stabilizačního příplatku od 1. 7. 2025**,  \n  - plánované navýšení tarifů od 1. 1. 2026 (vládní materiály mluví o cca 5 % jako výchozí hladině). ([mv.gov.cz](https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx))  \n\nZ hlediska konstrukce balíku tedy:\n\n- **Vojáci** dostali výrazný procentní růst tarifů a bydlení, který MO samo prezentuje jako „významné“ a jako splnění slibu zvýšit příjem o min. 8378 Kč. ([ikp.army.cz](https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni?utm_source=openai))  \n- **Policisté a hasiči** dostali silný nárůst stabilizačních příplatků a peněžní navýšení v Kč (2500 + 3000), což procentně může být u nižších hodností také vysoké, ale struktura je jiná.\n\nLze tedy diskutovat, **zda výsledné rozdíly v příjmech po roce 2025 mezi armádou a ostatními sbory „rozevřely nůžky“ více, než bylo dříve**. To je spíše hodnotící soud a závisí na konkrétním porovnání pozic a nástupních tarifů, pro které ale nejsou v jednom centrálním zdroji kompletní data.\n\n**Nicméně ani při této benevolentní interpretaci neodpovídá realitě, že by vláda „jednostranně“ řešila pouze vojáky a zcela ignorovala bezpečnostní sbory.** Balík z 4. 6. 2025 výslovně zahrnuje vojáky i všechny bezpečnostní sbory, jen v jiných nástrojích a poměrech. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai))  \n\n---\n\n## 6. Závěry k dílčím tvrzením\n\n| Dílčí tvrzení | Shrnutí důkazů | Stav podle důkazů |\n| --- | --- | --- |\n| **„Minulá vláda (Fialova) navýšila platy vojákům.“** | Vládní usnesení z 12/2022 (navýšení tarifů o 10 % od 1. 1. 2023), z 12/2024 (+1500 Kč od 1. 1. 2025), a balík z 6/2025 (tarify +10–15 %, bydlení +100 %, další příplatky). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai)) | **Fakticky podloženo (pravdivé).** |\n| **„…když jednostranně navýšila platy vojákům“ – ve smyslu, že zvýšení bylo jen pro vojáky, ne pro bezpečnostní sbory.** | Stejnými rozhodnutími vláda současně navyšovala i platy/příplatky policistů, hasičů a dalších sborů: 12/2022 (vojsko + policie/BS), 12/2024 (1500 Kč pro vojáky i policii/HZS), 6/2025 (balík pro vojáky plus zvýšení stabilizačních příplatků policistům a hasičům o 3000 Kč, následně i dozorcům, celníkům a GIBS). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai)) | **V rozporu s fakty; vláda řešila celé bezpečnostní sbory, ne jen vojáky.** |\n| **Volnější čtení „jednostranně“ – že vláda dala vojákům výraznější/rychlejší růst a tím „rozevřela nůžky“ vůči policii a hasičům.** | Objektivně: vojákům balík 2025 přinesl velmi silný růst tarifů a bydlení; policistům a hasičům spíše kombinaci pevné částky do tarifu a výrazného růstu stabilizačních příplatků. Reálnou velikost „nůžek“ by bylo třeba doložit detailními statistickými porovnáními platů před a po; z dostupných oficiálních podkladů ale nevyplývá, že by vláda ignorovala bezpečnostní sbory. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/)) | **Jako hodnotící soud může vycházet z rozdílné konstrukce balíků, ale formulace „jednostranně“ je zavádějící, protože vláda přidávala i jiným sborům.** |\n\n---\n\n## 7. Přehled klíčových zdrojů (s citacemi)\n\n> Pozn.: Citace jsou zkrácené (do ~25 slov) a přeložené/parafrázované tam, kde je to nutné kvůli licenčním omezením.\n\n1. **Úřad vlády ČR – „Vláda rozhodla o zvýšení platů vojáků a policistů…“ (7. 12. 2022)**  \n   - Popisuje rozhodnutí vlády zvýšit **platové tarify policistů a dalších příslušníků bezpečnostních sborů** (1.–2. třída +17 %, 3.–11. +10 %) a zároveň **zvýšit tarify vojáků ve všech hodnostech o 10 %**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/tmplid-47/?utm_source=openai))  \n   - URL: https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvyseni-platu-vojaku-a-policistu-a-prodlouzila-kontroly-na-hranicich-se-slovenskem-201479/\n\n2. **Ministerstvo vnitra – „Všem policistům i hasičům vzrostou příští rok platy o 2500 Kč“ (14. 11. 2024)**  \n   - „Každému hasiči a policistovi se od příštího roku zvýší plat o 2500 Kč měsíčně (1500 Kč do tarifu +1000 Kč stabilizační příspěvek).“  \n   - Zmiňuje, že **začátkem předchozího roku** se tarifní platy zvýšily o 10 %, nástupní o 17 %. ([mv.gov.cz](https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx))  \n   - URL: https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx\n\n3. **ČTK – „Platy vojáků od ledna vzrostou o 1500 korun…“ (11. 12. 2024)**  \n   - Vládní nařízení: **tarify vojáků z povolání +1500 Kč** pro všechny hodnosti.  \n   - Současně: **„O 1500 korun se od ledna zvednou také služební tarify hasičů a policistů.“** ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112?utm_source=openai))  \n   - URL: https://www.ceskenoviny.cz/zpravy/platy-vojaku-by-mely-od-ledna-vzrust-o-1500-kc-narizeni-projedna-vlada/2607112\n\n4. **Úřad vlády ČR – „Vláda rozhodla o zvyšování příjmů vojáků a policistů…“ (4. 6. 2025)**  \n   - „Vojáci a příslušníci bezpečnostních sborů ministerstva vnitra si od 1. července finančně polepší. Na další navýšení příjmů se mohou těšit od Nového roku.“  \n   - U vojáků: zvýšení tarifů a příspěvku na bydlení; u bezpečnostních sborů: **plošné navýšení stabilizačních příplatků a od ledna také platů.** ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/?utm_source=openai))  \n   - URL: https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-rozhodla-o-zvysovani-prijmu-vojaku-a-policistu-a-zabyvala-se-i-nabytim-daru-v-bitcoinech-ministerstvem-spravedlnosti-220067/\n\n5. **Ministerstvo obrany – „Vojákům se od července zvýší platy, rozhodla vláda“ (4./5. 6. 2025)**  \n   - Popisuje, že **od července se vojákům zvýší příspěvek na bydlení minimálně o 100 % (nejméně o 3000 Kč)** a tarify celkem o 15 % (nižší hodnosti) a 10 % (vyšší), ve dvou vlnách (1. 7. 2025, 1. 1. 2026).  \n   - „Rozdělení zvýšení tarifů do dvou fází je kompromis, na kterém jsme se domluvili s ministrem vnitra Rakušanem.“ ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/))  \n   - URL: https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vojakum-se-od-cervence-zvysi-platy--rozhodla-vlada-258645/\n\n6. **Úřad vlády ČR – „Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání…“ (11. 6. 2025)**  \n   - Potvrzuje, že od 1. 7. 2025 a 1. 1. 2026 **tarify vojáků rostou o 7,5 % / 5 %** a zvyšuje se příspěvek na bydlení v Praze i mimo Prahu. ([uv.gov.cz](https://uv.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/))  \n   - URL: https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/\n\n7. **MO – „Vojáci si polepší v součtu o nejméně 8 378 Kč…“ (14. 6. 2025)**  \n   - Zvyšování tarifů, bydlení a stabilizačních příplatků má vést k tomu, že **platy vojáků se zvýší minimálně o 8378 Kč hrubého, většina více.** ([ikp.army.cz](https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni?utm_source=openai))  \n   - URL: https://ikp.army.cz/aktualita/vojaci-si-polepsi-v-souctu-o-nejmene-8-378-kc-vlada-schvalila-avizovany-soubor-opatreni\n\n8. **Seznam Zprávy / ČTK – „Vláda se dohodla na zvýšení platů vojáků, policistů i hasičů“ (4. 6. 2025)**  \n   - Shrnuje, že vláda rozhodla o zvýšení platových tarifů vojáků (7,5 % / 5 % od 1. 7.) a že policisté a hasiči **budou mít od 1. 7. o 3000 Kč vyšší měsíční výplatu díky navýšení stabilizačního příplatku.** ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2682045?utm_source=openai))  \n   - URL: https://www.seznamzpravy.cz/clanek/domaci-politika-vlada-se-dohodla-na-zvyseni-platu-vojaku-policistu-i-hasicu-278391\n\n9. **TN.cz – „Policistům, vojákům i hasičům se zvýšily platy“ (1. 7. 2025)**  \n   - Konstatuje, že **od 1. 7. 2025 se zvyšují platy všem bezpečnostním složkám**: policisté a hasiči +3000 Kč (stabilizační příspěvek), vojáci +7,5 % / 5 % na tarifech plus zvýšení příspěvku na bydlení. ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/620228-policistum-vojakum-i-hasicum-se-zvysily-platy-rozpocet-je-napjaty-varuji-odbornici?utm_source=openai))  \n   - URL: https://tn.nova.cz/zpravodajstvi/clanek/620228-policistum-vojakum-i-hasicum-se-zvysily-platy-rozpocet-je-napjaty-varuji-odbornici\n\n10. **POŽÁRY.cz – „Generální ředitel hasičů… zvýšil od 1. července 2025 stabilizační příplatky o 3 000 korun“ (28. 6. 2025)**  \n    - Popisuje interní pokyn HZS, kterým se **stabilizační příspěvek hasičů zvyšuje o 3000 Kč** dle let služby, s účinností od 1. 7. 2025.  \n    - Citace analýzy MV: v roce 2023 brali na základních pozicích průměrně **hasiči 51 tis., policisté 43 tis., vojáci 46 tis. Kč.** ([pozary.cz](https://www.pozary.cz/clanek/291014-generalni-reditel-hasicu-svym-pokynem-zvysil-od-1-cervence-2025-stabilizacni-priplatky-o-3-000-korun/?utm_source=openai))  \n    - URL: https://www.pozary.cz/clanek/291014-generalni-reditel-hasicu-svym-pokynem-zvysil-od-1-cervence-2025-stabilizacni-priplatky-o-3-000-korun/\n\n11. **ČTK – „Vláda podpořila zvýšení stabilizačního příplatku pro Vězeňskou službu“ (2. 7. 2025)**  \n    - Vláda schválila **navýšení stabilizačního příplatku o 3000 Kč pro Vězeňskou službu, celní správu a GIBS**; MF uvádí, že „navýšení kopíruje parametry nedávno uplatněné u policistů a hasičů“. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2693657?utm_source=openai))  \n    - URL: https://www.ceskenoviny.cz/zpravy/zive-tk-po-jednani-vlady/2693657\n\n12. **Oficiální biografické/lists: Lubomír Metnar, jmenování vlády Andreje Babiše**  \n    - Stránka Poslanecké sněmovny a MV potvrzuje, že **Lubomír Metnar je ministrem vnitra od 15. 12. 2025**. ([psp.cz](https://www.psp.cz/sqw/text/detail.sqw?id=6544&o=10&utm_source=openai))  \n    - AP News potvrzuje, že **15. 12. 2025 byla jmenována nová vláda Andreje Babiše**, čímž skončila vláda Petra Fialy. ([apnews.com](https://apnews.com/article/109771312dec01f2e6860eaeba7da9c3?utm_source=openai))  \n\nTyto zdroje dohromady umožňují ověřit, že:\n\n- Fialova vláda **skutečně výrazně zvýšila platy vojákům**,  \n- ale **neudělala to „jednostranně“ pouze pro vojáky** – zvyšování se opakovaně a souběžně týkalo i policistů, hasičů a dalších bezpečnostních sborů, byť v jiné struktuře a možná jiné intenzitě.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 54789,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 18902,
+      "output_tokens_details": {
+        "reasoning_tokens": 11505
+      },
+      "total_tokens": 73691
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1771605668,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

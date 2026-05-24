@@ -1,0 +1,622 @@
+{
+  "claim_id": "24581",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260209_115155",
+  "source_md": "experiments/gpt5.1_h_20260209_115155/brief_fact_check_id24581.md",
+  "fact_check": "# Fact Check for Statement ID 24581\n\n## Statement\nMyslím, že je tam v programu ta korporátní daň, že to chceme snižovat,\n\n---\n## AI Fact Check\n## 1. Shrnutí ověřovaného tvrzení\n\nVýrok Andreje Babiše:  \n> „Myslím, že je tam v programu ta korporátní daň, že to chceme snižovat.“\n\nSmysl: Babiš tvrdí, že v „programu“ (vládním či volebním) má jeho uskupení konkrétní závazek **snižovat korporátní daň**, tj. daň z příjmů právnických osob.\n\n---\n\n## 2. Možné interpretace pojmu „program“\n\nPodle kontextu (dotaz moderátorky na **„toto volební období vaší vlády“**) lze „program“ rozumně chápat dvěma způsoby:\n\n1. **Programové prohlášení vlády Andreje Babiše z 5. ledna 2026** (oficiální vládní dokument pro celé volební období).  \n2. **Volební program hnutí ANO pro parlamentní volby 2025**, na jehož základě vláda vznikla.\n\nPro férové ověření je potřeba zkontrolovat **oba** dokumenty.\n\n---\n\n## 3. Důkazy – programové prohlášení vlády (5. 1. 2026)\n\n### 3.1 Existence programového prohlášení\n\nOficiální web vlády uvádí, že **5. ledna 2026** vláda Andreje Babiše schválila své programové prohlášení.([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-sve-programove-prohlaseni-224662/?utm_source=openai))  \n\n```text\nURL: https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/\nURL (tisková zpráva): https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-sve-programove-prohlaseni-224662/\n```\n\nTento dokument je tedy platným „programem vlády“ v době výroku (7. 2. 2026).\n\n### 3.2 Co v programu vlády stojí o korporátní dani\n\nV kapitole „Finance a hospodaření státu“ programové prohlášení obsahuje část „Snížíme daně rodinám, živnostníkům, zaměstnancům, studentům a firmám“, kde se výslovně píše:([vlada.gov.cz](https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/))  \n\n> „Snížíme daň z příjmů **právnických osob na 19 %**, abychom podpořili podnikání, investice, atraktivitu Česka a tvorbu pracovních míst.“\n\nStejný záměr (nezvyšovat daně, snížit daň z příjmů právnických osob na 19 %) citují i nezávislá média popisující návrh a finální znění programového prohlášení:  \n\n- Echo24 o návrhu programového prohlášení (1. 11. 2025): vláda „chce snížit daň z příjmu právnických osob na 19 procent ze současných 21 procent“.([echo24.cz](https://www.echo24.cz/a/HmwQa/zpravy-domov-nova-vlada-slibuje-zadne-danove-zvyseni?utm_source=openai))  \n- Analýza Patria/ČSOB označuje **snížení daně z příjmu právnických osob z 21 na 19 %** za jeden z finančně nejnákladnějších bodů vládního programu.([patria.cz](https://www.patria.cz/zpravodajstvi/6655970/rozbresk-programove-prohlaseni-vlady-prinasi-mnoho-nakladnych-slibu.html?utm_source=openai))  \n- Publico shrnuje daňovou politiku vlády: „Koalice slibuje nezvyšovat daně. **Sníží daň z příjmů právnických osob na 19 procent** …“([publico.cz](https://publico.cz/politika/babis-vlada-program-hrad?utm_source=openai))  \n- Blesk v přehledu hlavních bodů úniku programového prohlášení uvádí mezi body: „Snížení daně z příjmů právnických osob na 19 %“.([blesk.cz](https://www.blesk.cz/clanek/zpravy-politika/825555/co-slibuje-babisova-vlada-uniklo-programove-prohlaseni-obsahuje-nezvysovani-dani-i-ne-euru.html?utm_source=openai))  \n- Časopis CzechIndustry popisuje legislativní priority MF ČR vycházející z programového prohlášení, včetně „**nižší daně z příjmů právnických osob**“ v balíčku EET 2.0 a dalších daňových úlev.([casopisczechindustry.cz](https://www.casopisczechindustry.cz/products/zmeny-ktere-pripravilo-ministerstvo-financi-pro-rok-2026/))  \n\n```text\nURL (Echo24): https://www.echo24.cz/a/HmwQa/zpravy-domov-nova-vlada-slibuje-zadne-danove-zvyseni\nURL (Publico): https://publico.cz/politika/babis-vlada-program-hrad\nURL (Patria): https://www.patria.cz/zpravodajstvi/6655970/rozbresk-programove-prohlaseni-vlady-prinasi-mnoho-nakladnych-slibu.html\nURL (Blesk): https://www.blesk.cz/clanek/zpravy-politika/825555/co-slibuje-babisova-vlada-uniklo-programove-prohlaseni-obsahuje-nezvysovani-dani-i-ne-euru.html\nURL (CzechIndustry): https://www.casopisczechindustry.cz/products/zmeny-ktere-pripravilo-ministerstvo-financi-pro-rok-2026/\n```\n\n**Závěr k této interpretaci:**  \nProgramové prohlášení vlády Andreje Babiše **explicitně obsahuje závazek snížit daň z příjmů právnických osob na 19 %**. Babišovo tvrzení, že „v programu je korporátní daň, že ji chceme snižovat“, přesně odpovídá obsahu tohoto oficiálního programu vlády.\n\n---\n\n## 4. Důkazy – volební program hnutí ANO 2025\n\nI kdyby „program“ myslel spíš **volební program hnutí ANO**, je nutné zjistit, zda i ten obsahuje plán na snížení korporátní daně.\n\n### 4.1 Existence volebního programu ANO 2025\n\n- Hnutí ANO představilo volební program 4. 9. 2025 v Ostravě; tuto skutečnost zachycují mj. Novinky, Seznam Zprávy, TN.cz či samotný web ANO (sekce „Z médií“).([anobudelip.cz](https://www.anobudelip.cz/cs/zpravy/hnuti-ano-predstavilo-volebni-program?utm_source=openai))  \n\n```text\nURL (ANO – Zprávy): https://www.anobudelip.cz/cs/zpravy/hnuti-ano-predstavilo-volebni-program\nURL (Seznam Zprávy – program): https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-duchody-rodicak-i-platy-zvysovat-dane-snizovat-ano-odtajnilo-program-285332\nURL (TN.cz): https://tn.nova.cz/zpravodajstvi/clanek/628263-ano-predstavilo-svuj-volebni-program-chce-snizit-dane-a-opet-zavest-eet\nURL (Novinky – program ANO): https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607\n```\n\n### 4.2 Obsah volebního programu k dani z příjmů právnických osob\n\nRůzná média shrnující program ANO 2025 shodně uvádějí, že **firmám má být daň z příjmů snížena z 21 na 19 %**:\n\n- Novinky (přehled volebního programu ANO 2025):  \n  „Hnutí slibuje vrátit rodinám daňové úlevy (…) **a firmám snížit daň z příjmů z 21 % na 19 %**.“([novinky.cz](https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607))  \n\n- Seznam Zprávy („Platy vyšší, daně nižší“ – shrnutí programu):  \n  „Firmám se mají daně snížit **z 21 na 19 %**.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-duchody-rodicak-i-platy-zvysovat-dane-snizovat-ano-odtajnilo-program-285332?utm_source=openai))  \n\n- TN.cz („ANO představilo svůj volební program. Chce snížit daně a opět zavést EET“): článek popisuje, že jedním z hlavních slibů je snížení daní, včetně daňové zátěže pro firmy.([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/628263-ano-predstavilo-svuj-volebni-program-chce-snizit-dane-a-opet-zavest-eet?utm_source=openai))  \n\n- Článek v České justici o daňové konferenci cituje místopředsedu ANO Karla Havlíčka:  \n  „Uvažujeme, že dostaneme zpátky **korporátní daň z 21 procent na 19 procent**.“([ceska-justice.cz](https://www.ceska-justice.cz/2025/08/neobtezovat-a-pracovat-s-daty/?utm_source=openai))  \n\n- Další ekonomická média (např. Forvis Mazars shrnující Novinky) uvádějí, že ANO chce vrátit daň firem z 21 % zpět na 19 %; krok hodnotí experti jako sporný, ale potvrzují, že je **součástí programu ANO**.([forvismazars.com](https://www.forvismazars.com/cz/cs/prehledy/forvis-mazars-v-mediich/archiv-2025/ano-chce-snizit-dan-firmam?utm_source=openai))  \n\n```text\nURL (Česká justice): https://www.ceska-justice.cz/2025/08/neobtezovat-a-pracovat-s-daty/\nURL (Forvis Mazars – shrnutí Novinek): https://www.forvismazars.com/cz/cs/prehledy/forvis-mazars-v-mediich/archiv-2025/ano-chce-snizit-dan-firmam\nURL (Dauc – daňové novinky, vč. korporátní daně): https://www.dauc.cz/clanky/15501/danove-novinky-pro-vlastniky-nemovitosti-a-developery-klicove-zmeny-pro-rok-2025\n```\n\n**Závěr k této interpretaci:**  \nVolební program ANO 2025, jak jej popisují nezávislá média i představitelé hnutí, **obsahuje závazek snížit daň z příjmů právnických osob / korporátní daň z 21 % na 19 %**. To přesně odpovídá tvrzení, že „v programu“ je snaha korporátní daň snižovat.\n\n---\n\n## 5. Kontext: skutečná výše korporátní daně před slibem\n\nPro ověření, že jde skutečně o **snížení** (nikoli např. jen zachování sazby), je relevantní skutečná výše daně v době, kdy byl program formulován:\n\n- Podle odborného daňového přehledu ConTax CZ byla sazba daně z příjmů právnických osob **od roku 2024 zvýšena z 19 % na 21 %**; tato vyšší sazba se projeví v přiznáních za rok 2024 podávaných v roce 2025.([contax.cz](https://www.contax.cz/index.php/2025/01/10/zasadni-zmeny-v-oblasti-dane-z-prijmu-od-1-ledna-2025/))  \n\n- Stejnou informaci (korporátní daň zvýšena z 19 na 21 %, ANO slibuje vrácení na 19) uvádějí i další daňové a ekonomické analýzy.([kurzy.cz](https://www.kurzy.cz/dane-danova-priznani/dan-z-prijmu-pravnickych-osob-2025.htm?utm_source=openai))  \n\n```text\nURL (ConTax – změny v dani z příjmů): https://www.contax.cz/index.php/2025/01/10/zasadni-zmeny-v-oblasti-dane-z-prijmu-od-1-ledna-2025/\nURL (Kurzy.cz – přiznání k dani z příjmů právnických osob 2025): https://www.kurzy.cz/dane-danova-priznani/dan-z-prijmu-pravnickych-osob-2025.htm\n```\n\nTo potvrzuje, že slib v programu (návrat na 19 %) je **skutečně závazek daně snižovat** vůči tehdejšímu platnému stavu (21 %).\n\n---\n\n## 6. Hodnocení jednotlivých podtvrzení\n\n### 6.1 „V programu vlády je korporátní daň, že ji chceme snižovat“\n\n- **Fakt:**  \n  Programové prohlášení vlády Andreje Babiše, schválené 5. 1. 2026, obsahuje jasnou větu: „Snížíme daň z příjmů právnických osob na 19 %…“([vlada.gov.cz](https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/))  \n- **Doplňkové zdroje (Echo24, Patria, Publico, Blesk, CzechIndustry atd.)** toto ustanovení nezávisle reprodukují.([echo24.cz](https://www.echo24.cz/a/HmwQa/zpravy-domov-nova-vlada-slibuje-zadne-danove-zvyseni?utm_source=openai))  \n\n**Hodnocení:** Podtvrzení je **jasně pravdivé** – vládní program skutečně obsahuje závazek snížit daň z příjmů právnických osob, tedy korporátní daň.\n\n### 6.2 „V programu hnutí ANO (volebním) je snížení korporátní daně“\n\n- **Fakt:**  \n  Souhrny volebního programu ANO 2025 (Novinky, Seznam Zprávy, TN.cz aj.) uvádějí, že program slibuje „firmám snížit daň z příjmů z 21 % na 19 %“.([novinky.cz](https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607))  \n- **Potvrzení politiky ANO:**  \n  Výrok Karla Havlíčka o „vrácení korporátní daně z 21 na 19 procent“ a vyjádření Aleny Schillerové o snížení korporátní daně na 19 % dokládají, že **snižování korporátní daně je dlouhodobě deklarovaným programovým cílem ANO**.([ceska-justice.cz](https://www.ceska-justice.cz/2025/08/neobtezovat-a-pracovat-s-daty/?utm_source=openai))  \n\n**Hodnocení:** I při interpretaci „program“ jako volebního programu ANO 2025 je tvrzení **doložené** – program skutečně obsahuje závazek snížit korporátní daň.\n\n---\n\n## 7. Celkové zhodnocení tvrzení\n\nNapříč oběma realistickými interpretacemi slova „program“:\n\n- **Programové prohlášení vlády (5. 1. 2026)** jednoznačně obsahuje slib **snížit daň z příjmů právnických osob na 19 %**.([vlada.gov.cz](https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/))  \n- **Volební program ANO 2025** podle vícero nezávislých mediálních shrnutí rovněž slibuje **snížit daň z příjmů firem z 21 % na 19 %**.([novinky.cz](https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607))  \n\nTvrzení Andreje Babiše, že **„v programu je korporátní daň, že ji chceme snižovat“**, je proto:\n\n> **Fakticky podložené (v souladu s obsahem jak vládního programového prohlášení, tak volebního programu ANO 2025).**\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-02-07 available from https://www.youtube.com/watch?v=CRryWLn2KSs.\\n\\n\\nThe claim was made by: Andrej Babiš, Předseda vlády ČR, předseda hnutí ANO\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:35:44\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nA víte, kolik bude HDP asi v roku 2028, bude už asi 10 000 miliard, jo, to je predikce, ano, takže všechno je na procenta a tak dále. My zkrátka, pro nás ten parametr je zadlužení vůči HDP a tam stále patříme mezi málo zadlužené země. A když investujete, no, tak to přinese samozřejmě příjmy do HDP, a to HDP poroste a z toho budou daně. A hlavně, prosím vás, vždyť tady je šedá ekonomika, vždyť oni s tím nedělali. Tady údajně podle NKÚ pracuje načerno 170 000 lidí. Teďka čtu, že, nevím, kde všude, kde jsou lyžařské vleky, že berou jenom cash, no, co to znamená? No, že nevykazujou tržby, že neplatí daně, vždyť oni zrušili EET, oni zrušili EET a my žádné daně teďka nesnižujeme. My jsme splnili to, že jsme řekli, že nedovolíme navyšovat ty zálohy pro OSVČ a dali jsme lidem 12 miliard na vlastně zlevnění energii, jo, protože někdo topí plynem, někdo topí elektřinou, rodinné baráky a oni všichni jako ušetří, takže my plníme program a jsme tam pár týdnů, jako, prosím vás, my skutečně pracujeme, oni nedělají nic. Já jsem se ptal, co ten premiér vlastně dělal na tom Úřadě vlády, tak jsem se, jedinou činnost, kterou jsem rozkryl, že vybíral jídelníček, když přišla zahraniční návštěva, takže kuchaři čekali a pan premiér vybral nějaké jídlo a kuchař potom vařil. To je všechno. Jinak tam nedělali vůbec nic, vůbec nic. Mimochodem, v pondělí a pátek vždycky většinou byli doma, proto si dali vládu na středu. My makáme.\\n00:37:41\\nBára Divišová,moderátorka\\nPane premiére, můžete lidem slíbit, že v tomto volebním období vaše vláda nebude zvyšovat daně. Tečka.\\n00:37:49\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nMy nebudeme zvyšovat daně, ano, ale je tam samozřejmě, myslím, že je tam v programu ta korporátní daň, jo, že to chceme snižovat, ale navyšovat daně nebudeme, my budeme daně vybírat, tak jsme to dělali.\\n00:38:02\\nBára Divišová,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Myslím, že je tam v programu ta korporátní daň, že to chceme snižovat,'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 317.09 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Programové prohlášení vlády Andreje Babiše i volební program hnutí ANO skutečně obsahují závazek snížit daň z příjmů právnických osob, tedy korporátní daň. Výrok proto hodnotíme jako pravdivý.</p>\n\n<p>Výrok Andreje Babiše zazněl v debatě o daňové politice vlády a o tom, jaké závazky obsahuje „program“ jeho uskupení v tomto volebním období. Mluví o tzv. korporátní dani, což je v české debatě běžné označení pro daň z příjmů právnických osob; stejně ji používá i místopředseda ANO Karel Havlíček, když mluví o tom, že chtějí vrátit <i>„korporátní daň z 21 procent na 19 procent“</i> v rozhovoru pro server <a href=\"https://www.ceska-justice.cz/2025/08/neobtezovat-a-pracovat-s-daty/\">Česká justice</a>. Pro ověření výroku jsme proto zkoumali, zda se závazek ke snižování této daně skutečně objevuje v programových dokumentech vlády i hnutí ANO.</p>\n\n<p>Slovo „program“ může v tomto kontextu znamenat buď programové prohlášení vlády, nebo volební program hnutí ANO, ze kterého tato vláda vzešla. Vláda Andreje Babiše dne 5. ledna 2026 schválila své <a href=\"https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-sve-programove-prohlaseni-224662/\">programové prohlášení</a>, jehož plný text je zveřejněn na webu <a href=\"https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/\">Vlády ČR</a>. Hnutí ANO pak představilo svůj volební program pro sněmovní volby 2025 na akci v Ostravě, o čemž informuje samotné hnutí na stránce <a href=\"https://www.anobudelip.cz/cs/zpravy/hnuti-ano-predstavilo-volebni-program\">„Hnutí ANO představilo volební program“</a>. Tento dvojí význam pojmu „program“ je náš interpretační závěr a nejde o samostatné faktické tvrzení, ale o vysvětlení kontextu výroku.</p>\n\n<p>První ověřované dílčí tvrzení je, zda programové prohlášení vlády skutečně obsahuje plán snižovat daň z příjmů právnických osob. V kapitole věnované financím a hospodaření státu se v oficiálním <a href=\"https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/\">programovém prohlášení vlády</a> doslova píše: <i>„Snížíme daň z příjmů právnických osob na 19 %, abychom podpořili podnikání, investice, atraktivitu Česka a tvorbu pracovních míst.“</i> Tím vláda výslovně slibuje snížení daně, kterou Babiš v debatě označuje jako korporátní.</p>\n\n<p>Tento závazek nezávisle potvrzují i média, která obsah programového prohlášení rozebírala. Server <a href=\"https://www.echo24.cz/a/HmwQa/zpravy-domov-nova-vlada-slibuje-zadne-danove-zvyseni\">Echo24</a> při popisu návrhu programu uvádí, že vláda „chce snížit daň z příjmu právnických osob na 19 procent ze současných 21 procent“. Analýza společnosti Patria Finance na webu <a href=\"https://www.patria.cz/zpravodajstvi/6655970/rozbresk-programove-prohlaseni-vlady-prinasi-mnoho-nakladnych-slibu.html\">Patria.cz</a> označuje <i>„snížení daně z příjmu právnických osob z 21 na 19 %“</i> za jeden z finančně nejnákladnějších bodů vládního programu. Podobně server <a href=\"https://publico.cz/politika/babis-vlada-program-hrad\">Publico</a> shrnuje, že koalice slibuje nezvyšovat daně a <i>„sníží daň z příjmů právnických osob na 19 procent“</i>, a přehled hlavních bodů uniklého programu na webu <a href=\"https://www.blesk.cz/clanek/zpravy-politika/825555/co-slibuje-babisova-vlada-uniklo-programove-prohlaseni-obsahuje-nezvysovani-dani-i-ne-euru.html\">Blesk.cz</a> rovněž uvádí snížení daně z příjmů právnických osob na 19 %. O tom, že s tímto krokem počítají i legislativní priority Ministerstva financí vycházející z programového prohlášení, informuje také odborný časopis <a href=\"https://www.casopisczechindustry.cz/products/zmeny-ktere-pripravilo-ministerstvo-financi-pro-rok-2026/\">CzechIndustry</a>, který zmiňuje plán „nižší daně z příjmů právnických osob“ v rámci chystaných daňových balíčků.</p>\n\n<p>Současně je z odborných daňových přehledů patrné, že takový krok by skutečně znamenal snížení sazby proti platnému stavu. Daňová firma ConTax ve svém přehledu <a href=\"https://www.contax.cz/index.php/2025/01/10/zasadni-zmeny-v-oblasti-dane-z-prijmu-od-1-ledna-2025/\">„Zásadní změny v oblasti daně z příjmů od 1. ledna 2025“</a> uvádí, že sazba daně z příjmů právnických osob byla od roku 2024 zvýšena z 19 % na 21 %. Server <a href=\"https://www.kurzy.cz/dane-danova-priznani/dan-z-prijmu-pravnickych-osob-2025.htm\">Kurzy.cz</a> ve své sekci k přiznání k dani z příjmů právnických osob pro rok 2025 se stejnou sazbou 21 % pracuje. Návrat na 19 % slíbený vládním programem tedy objektivně představuje snížení korporátní daně oproti tehdy platné sazbě. Dílčí tvrzení, že v programu vlády je závazek tuto daň snižovat, je proto fakticky podložené.</p>\n\n<p>Druhé dílčí tvrzení se týká volebního programu hnutí ANO. Hnutí samo na webu <a href=\"https://www.anobudelip.cz/cs/zpravy/hnuti-ano-predstavilo-volebni-program\">anobudelip.cz</a> informuje, že začátkem září 2025 představilo svůj volební program pro sněmovní volby. Obsah programu shrnují podrobněji média. Server <a href=\"https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607\">Novinky.cz</a> v přehledu volebního programu ANO 2025 píše, že hnutí slibuje vrátit rodinám daňové úlevy a <i>„firmám snížit daň z příjmů z 21 % na 19 %“</i>. Podobně Seznam Zprávy v článku o programu hnutí ANO uvádějí, že <i>„firmám se mají daně snížit z 21 na 19 %“</i>, jak je zachyceno v textu <a href=\"https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-duchody-rodicak-i-platy-zvysovat-dane-snizovat-ano-odtajnilo-program-285332\">„Důchody, rodičák i platy zvyšovat, daně snižovat. ANO odtajnilo program“</a>. Televizní web <a href=\"https://tn.nova.cz/zpravodajstvi/clanek/628263-ano-predstavilo-svuj-volebni-program-chce-snizit-dane-a-opet-zavest-eet\">TN.cz</a> pak zdůrazňuje, že jedním z hlavních bodů programu je právě snížení daní včetně daňové zátěže firem a opětovné zavedení EET.</p>\n\n<p>Samotní představitelé hnutí ANO navíc veřejně mluví o snížení korporátní daně jako o programovém cíli. Místopředseda ANO Karel Havlíček na daňové konferenci, o níž informuje server <a href=\"https://www.ceska-justice.cz/2025/08/neobtezovat-a-pracovat-s-daty/\">Česká justice</a>, říká, že uvažují o tom, že <i>„dostaneme zpátky korporátní daň z 21 procent na 19 procent“</i>, čímž výslovně spojuje výraz „korporátní daň“ se sazbou daně z příjmů právnických osob. Ekonomická firma Forvis Mazars ve svém shrnutí na webu <a href=\"https://www.forvismazars.com/cz/cs/prehledy/forvis-mazars-v-mediich/archiv-2025/ano-chce-snizit-dan-firmam\">ForvisMazars.com</a> rovněž uvádí, že ANO chce vrátit daň firem z 21 % zpět na 19 % a hodnotí tento slib z hlediska dopadů na veřejné rozpočty. Z těchto zdrojů vyplývá, že snížení daně z příjmů právnických osob z 21 % na 19 % je výslovným bodem volebního programu ANO 2025, a tedy že i ve volebním „programu“ hnutí je korporátní daň skutečně nastavená tak, že ji chtějí snižovat.</p>\n\n<p>Celkově tedy vidíme, že ať už Andrej Babiš v debatě mířil slovem „program“ na programové prohlášení své vlády, nebo na volební program hnutí ANO, v obou dokumentech je explicitně uveden závazek snížit daň z příjmů právnických osob z 21 % na 19 %. Média i odborné daňové přehledy potvrzují jak existenci tohoto slibu, tak to, že jde o skutečné snížení vůči platné sazbě. Výrok „Myslím, že je tam v programu ta korporátní daň, že to chceme snižovat“ proto hodnotíme jako <b>pravda</b>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_07d0f74fee5c03f5006989d3645ef48194a16c5307802ca5ab",
+    "created_at": 1770640228.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_07d0f74fee5c03f5006989d38119fc819488e04d260927c9e3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d39c98348194884a02f602f555c5",
+        "action": {
+          "query": "\"volebni program\" ANO 2017 dan z prijmu pravnickych osob",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"volebni program\" ANO 2017 dan z prijmu pravnickych osob",
+            "\"Teď nebo nikdy\" program ANO 2017 dan z prijmu pravnickych osob",
+            "\"programové prohlášení vlády\" Andreje Babiše daň z příjmů právnických osob",
+            "\"ANO\" volebni program 2017 korporatni dan"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d39fc73c8194817d3d2718ca3bf4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3a71a508194870882465a069d97",
+        "action": {
+          "query": "\"volební program\" hnutí ANO 2025 daň z příjmů právnických osob",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"volební program\" hnutí ANO 2025 daň z příjmů právnických osob",
+            "\"volební program\" ANO 2025 daně firmám",
+            "\"ANO\" volební program 2025 \"daň z příjmů právnických\"",
+            "\"Teď nebo nikdy\" volební program hnutí ANO 2017 daň z příjmů právnických osob"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3ac97508194bb381f3e3a4705b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3afc2f88194898b7084a2758fb6",
+        "action": {
+          "query": "\"Volební program\" \"Hnutí ANO\" 2025 PDF",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Volební program\" \"Hnutí ANO\" 2025 PDF",
+            "\"Volební program hnutí ANO 2025\" PDF daň z příjmů právnických osob",
+            "\"Platy vyšší, daně nižší\" PDF ANO volební program",
+            "\"daň z příjmů právnických osob\" \"Hnutí ANO\" program"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3b29a708194afc4640e4680667a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3b37828819495bbd4e291066a05",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3b463a08194847fd276b578b146",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3baf8c081948e2bb3e8458f6eef",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3bd0fb48194aa9e8e7817494b55",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3bf1ae88194a4583478ef3baae1",
+        "action": {
+          "query": "\"Volební program ANO\" \"2025\" filetype:pdf",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Volební program ANO\" \"2025\" filetype:pdf",
+            "\"Platy vyšší, daně nižší\" \"Volební program ANO\" pdf",
+            "\"Volební program hnutí ANO\" \"Volby 2025\"",
+            "\"Snížíme daň z příjmů právnických osob\" \"Hnutí ANO\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3c147e4819493d66c8485e09ec4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3c2160c8194b9b4890d31189c08",
+        "action": {
+          "query": "\"Snížíme daň z příjmů právnických osob na 19 %\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Snížíme daň z příjmů právnických osob na 19 %\"",
+            "\"Snížíme daň z příjmů právnických osob\" \"program\"",
+            "\"daň z příjmů právnických osob na 19 %\" \"ANO\"",
+            "\"nižší daň z příjmů právnických osob\" \"EET 2.0\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3c4b46481948fb51701ee93e2fa",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3cc6b14819485913ef2a24fd587",
+        "action": {
+          "query": "\"daň z příjmů právnických osob\" sazba 21 % 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"daň z příjmů právnických osob\" sazba 21 % 2024",
+            "\"základní sazba\" daně z příjmů právnických osob 21 %",
+            "\"zákon o daních z příjmů\" 586/1992 Sb. sazba daně z příjmů právnických osob 21 %",
+            "sazba daně z příjmů právnických osob v roce 2025 21 %"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3cf1aa08194b2e9f8bc1866827b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3d39c748194bd0ea9c2aa1955e4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3d4cde08194a6013f59b2e61d70",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3d51b78819487eb6de10a14f7c0",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3d654b08194977d51c45b1c7687",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3d6be788194b3e87e5f8aa4c40f",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "právnických osob"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3d9d1a08194ba9c382ef0a232b7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3ead06081949fda5303ef17532b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3ed58d48194864671f1920e321d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3f5ccec8194bf8b6ab5cdb3c709",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3f6fdb081948f077142450433d8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d3fa66cc8194afe95562c9f361d0",
+        "action": {
+          "query": "\"Programové prohlášení\" Babišovy vlády daň z příjmů právnických osob 19",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Programové prohlášení\" Babišovy vlády daň z příjmů právnických osob 19",
+            "\"Snížíme daň z příjmů právnických osob\" kritika",
+            "\"ANO\" \"daň z příjmů právnických osob\" 19 kritici",
+            "\"korporátní daně\" \"volební program ANO\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d3fef46c8194a418002c061a364e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d403207081948a2da042cadd9bb7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d4083c088194a9aa2aee86912de7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d432fbe481949cf9117ea4952358",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d43e24448194945a99fd4138e50b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d43f20cc819480d40fdb7224b069",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "daně"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d443acc881949d30cef540076973",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_07d0f74fee5c03f5006989d44758388194853995bcdbbea360",
+        "action": {
+          "query": "\"daň z příjmů právnických osob\" 19 21 \"Babiš\" kritika",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"daň z příjmů právnických osob\" 19 21 \"Babiš\" kritika",
+            "\"snížení daně z příjmů právnických osob\" \"ANO\" \"nerealistické\"",
+            "\"snížíme daň z příjmů právnických osob\" \"nesplní\"",
+            "\"korporátní daň\" \"ANO\" 2025 program"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_07d0f74fee5c03f5006989d44b0d7481948bf164e0a73065bc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_07d0f74fee5c03f5006989d46f6688819482c91e8942c25f5f",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1095,
+                "start_index": 948,
+                "title": "Vláda Andreje Babiše schválila své programové prohlášení | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-sve-programove-prohlaseni-224662/?utm_source=openai"
+              },
+              {
+                "end_index": 1745,
+                "start_index": 1640,
+                "title": "Programové prohlášení vlády | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/"
+              },
+              {
+                "end_index": 2313,
+                "start_index": 2198,
+                "title": "„Nezvýšíme žádné daně. EET vynechá drobné živnosti.“ Co slibuje Babišova vláda - Echo24.cz",
+                "type": "url_citation",
+                "url": "https://www.echo24.cz/a/HmwQa/zpravy-domov-nova-vlada-slibuje-zadne-danove-zvyseni?utm_source=openai"
+              },
+              {
+                "end_index": 2612,
+                "start_index": 2463,
+                "title": "Rozbřesk: Programové prohlášení vlády přináší mnoho nákladných slibů - Patria.cz",
+                "type": "url_citation",
+                "url": "https://www.patria.cz/zpravodajstvi/6655970/rozbresk-programove-prohlaseni-vlady-prinasi-mnoho-nakladnych-slibu.html?utm_source=openai"
+              },
+              {
+                "end_index": 2833,
+                "start_index": 2747,
+                "title": "Půjčky pro mladé i koruna do ústavy. Co je v programovém prohlášení Babišovy vlády | PUBLICO",
+                "type": "url_citation",
+                "url": "https://publico.cz/politika/babis-vlada-program-hrad?utm_source=openai"
+              },
+              {
+                "end_index": 3143,
+                "start_index": 2965,
+                "title": "Co slibuje Babišova vláda? Uniklo programové prohlášení! Obsahuje nezvyšování daní i ne euru | Blesk.cz",
+                "type": "url_citation",
+                "url": "https://www.blesk.cz/clanek/zpravy-politika/825555/co-slibuje-babisova-vlada-uniklo-programove-prohlaseni-obsahuje-nezvysovani-dani-i-ne-euru.html?utm_source=openai"
+              },
+              {
+                "end_index": 3469,
+                "start_index": 3338,
+                "title": "Změny, které připravilo Ministerstvo financí pro rok 2026 :: Přinášíme vám informace, které dávají smysl",
+                "type": "url_citation",
+                "url": "https://www.casopisczechindustry.cz/products/zmeny-ktere-pripravilo-ministerstvo-financi-pro-rok-2026/"
+              },
+              {
+                "end_index": 4855,
+                "start_index": 4745,
+                "title": "Hnutí ANO představilo volební program | ANO, bude líp",
+                "type": "url_citation",
+                "url": "https://www.anobudelip.cz/cs/zpravy/hnuti-ano-predstavilo-volebni-program?utm_source=openai"
+              },
+              {
+                "end_index": 5827,
+                "start_index": 5719,
+                "title": "Volební program ANO 2025: Nižší daně a levnější energie",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607"
+              },
+              {
+                "end_index": 6123,
+                "start_index": 5945,
+                "title": "Volební program Hnutí ANO: Platy vyšší, daně nižší",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-duchody-rodicak-i-platy-zvysovat-dane-snizovat-ano-odtajnilo-program-285332?utm_source=openai"
+              },
+              {
+                "end_index": 6457,
+                "start_index": 6305,
+                "title": "ANO představilo svůj volební program. Chce snížit daně a opět zavést EET | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/628263-ano-predstavilo-svuj-volebni-program-chce-snizit-dane-a-opet-zavest-eet?utm_source=openai"
+              },
+              {
+                "end_index": 6737,
+                "start_index": 6630,
+                "title": "Přiznání vyplní stát? Daňový systém je potřeba „prořezat“ - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/08/neobtezovat-a-pracovat-s-daty/?utm_source=openai"
+              },
+              {
+                "end_index": 7092,
+                "start_index": 6946,
+                "title": "Novinky.cz: ANO chce snížit daň firmám. Těžilo by z toho i Babišovo impérium; 9. 6. 2025 - Forvis Mazars - Česká republika",
+                "type": "url_citation",
+                "url": "https://www.forvismazars.com/cz/cs/prehledy/forvis-mazars-v-mediich/archiv-2025/ano-chce-snizit-dan-firmam?utm_source=openai"
+              },
+              {
+                "end_index": 8322,
+                "start_index": 8210,
+                "title": "Zásadní změny v oblasti daně z příjmů od 1. ledna 2025 - ConTax CZ, s.r.o.",
+                "type": "url_citation",
+                "url": "https://www.contax.cz/index.php/2025/01/10/zasadni-zmeny-v-oblasti-dane-z-prijmu-od-1-ledna-2025/"
+              },
+              {
+                "end_index": 8567,
+                "start_index": 8455,
+                "title": "Přiznání k dani z příjmů právnických osob v roce 2025 (za rok 2024) - Přiznání do do 1.4.2025, elektronicky do 2.5.2025. | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://www.kurzy.cz/dane-danova-priznani/dan-z-prijmu-pravnickych-osob-2025.htm?utm_source=openai"
+              },
+              {
+                "end_index": 9366,
+                "start_index": 9261,
+                "title": "Programové prohlášení vlády | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/"
+              },
+              {
+                "end_index": 9598,
+                "start_index": 9483,
+                "title": "„Nezvýšíme žádné daně. EET vynechá drobné živnosti.“ Co slibuje Babišova vláda - Echo24.cz",
+                "type": "url_citation",
+                "url": "https://www.echo24.cz/a/HmwQa/zpravy-domov-nova-vlada-slibuje-zadne-danove-zvyseni?utm_source=openai"
+              },
+              {
+                "end_index": 10091,
+                "start_index": 9983,
+                "title": "Volební program ANO 2025: Nižší daně a levnější energie",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607"
+              },
+              {
+                "end_index": 10460,
+                "start_index": 10353,
+                "title": "Přiznání vyplní stát? Daňový systém je potřeba „prořezat“ - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/08/neobtezovat-a-pracovat-s-daty/?utm_source=openai"
+              },
+              {
+                "end_index": 10951,
+                "start_index": 10846,
+                "title": "Programové prohlášení vlády | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/"
+              },
+              {
+                "end_index": 11197,
+                "start_index": 11089,
+                "title": "Volební program ANO 2025: Nižší daně a levnější energie",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607"
+              }
+            ],
+            "text": "## 1. Shrnutí ověřovaného tvrzení\n\nVýrok Andreje Babiše:  \n> „Myslím, že je tam v programu ta korporátní daň, že to chceme snižovat.“\n\nSmysl: Babiš tvrdí, že v „programu“ (vládním či volebním) má jeho uskupení konkrétní závazek **snižovat korporátní daň**, tj. daň z příjmů právnických osob.\n\n---\n\n## 2. Možné interpretace pojmu „program“\n\nPodle kontextu (dotaz moderátorky na **„toto volební období vaší vlády“**) lze „program“ rozumně chápat dvěma způsoby:\n\n1. **Programové prohlášení vlády Andreje Babiše z 5. ledna 2026** (oficiální vládní dokument pro celé volební období).  \n2. **Volební program hnutí ANO pro parlamentní volby 2025**, na jehož základě vláda vznikla.\n\nPro férové ověření je potřeba zkontrolovat **oba** dokumenty.\n\n---\n\n## 3. Důkazy – programové prohlášení vlády (5. 1. 2026)\n\n### 3.1 Existence programového prohlášení\n\nOficiální web vlády uvádí, že **5. ledna 2026** vláda Andreje Babiše schválila své programové prohlášení.([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-sve-programove-prohlaseni-224662/?utm_source=openai))  \n\n```text\nURL: https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/\nURL (tisková zpráva): https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-sve-programove-prohlaseni-224662/\n```\n\nTento dokument je tedy platným „programem vlády“ v době výroku (7. 2. 2026).\n\n### 3.2 Co v programu vlády stojí o korporátní dani\n\nV kapitole „Finance a hospodaření státu“ programové prohlášení obsahuje část „Snížíme daně rodinám, živnostníkům, zaměstnancům, studentům a firmám“, kde se výslovně píše:([vlada.gov.cz](https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/))  \n\n> „Snížíme daň z příjmů **právnických osob na 19 %**, abychom podpořili podnikání, investice, atraktivitu Česka a tvorbu pracovních míst.“\n\nStejný záměr (nezvyšovat daně, snížit daň z příjmů právnických osob na 19 %) citují i nezávislá média popisující návrh a finální znění programového prohlášení:  \n\n- Echo24 o návrhu programového prohlášení (1. 11. 2025): vláda „chce snížit daň z příjmu právnických osob na 19 procent ze současných 21 procent“.([echo24.cz](https://www.echo24.cz/a/HmwQa/zpravy-domov-nova-vlada-slibuje-zadne-danove-zvyseni?utm_source=openai))  \n- Analýza Patria/ČSOB označuje **snížení daně z příjmu právnických osob z 21 na 19 %** za jeden z finančně nejnákladnějších bodů vládního programu.([patria.cz](https://www.patria.cz/zpravodajstvi/6655970/rozbresk-programove-prohlaseni-vlady-prinasi-mnoho-nakladnych-slibu.html?utm_source=openai))  \n- Publico shrnuje daňovou politiku vlády: „Koalice slibuje nezvyšovat daně. **Sníží daň z příjmů právnických osob na 19 procent** …“([publico.cz](https://publico.cz/politika/babis-vlada-program-hrad?utm_source=openai))  \n- Blesk v přehledu hlavních bodů úniku programového prohlášení uvádí mezi body: „Snížení daně z příjmů právnických osob na 19 %“.([blesk.cz](https://www.blesk.cz/clanek/zpravy-politika/825555/co-slibuje-babisova-vlada-uniklo-programove-prohlaseni-obsahuje-nezvysovani-dani-i-ne-euru.html?utm_source=openai))  \n- Časopis CzechIndustry popisuje legislativní priority MF ČR vycházející z programového prohlášení, včetně „**nižší daně z příjmů právnických osob**“ v balíčku EET 2.0 a dalších daňových úlev.([casopisczechindustry.cz](https://www.casopisczechindustry.cz/products/zmeny-ktere-pripravilo-ministerstvo-financi-pro-rok-2026/))  \n\n```text\nURL (Echo24): https://www.echo24.cz/a/HmwQa/zpravy-domov-nova-vlada-slibuje-zadne-danove-zvyseni\nURL (Publico): https://publico.cz/politika/babis-vlada-program-hrad\nURL (Patria): https://www.patria.cz/zpravodajstvi/6655970/rozbresk-programove-prohlaseni-vlady-prinasi-mnoho-nakladnych-slibu.html\nURL (Blesk): https://www.blesk.cz/clanek/zpravy-politika/825555/co-slibuje-babisova-vlada-uniklo-programove-prohlaseni-obsahuje-nezvysovani-dani-i-ne-euru.html\nURL (CzechIndustry): https://www.casopisczechindustry.cz/products/zmeny-ktere-pripravilo-ministerstvo-financi-pro-rok-2026/\n```\n\n**Závěr k této interpretaci:**  \nProgramové prohlášení vlády Andreje Babiše **explicitně obsahuje závazek snížit daň z příjmů právnických osob na 19 %**. Babišovo tvrzení, že „v programu je korporátní daň, že ji chceme snižovat“, přesně odpovídá obsahu tohoto oficiálního programu vlády.\n\n---\n\n## 4. Důkazy – volební program hnutí ANO 2025\n\nI kdyby „program“ myslel spíš **volební program hnutí ANO**, je nutné zjistit, zda i ten obsahuje plán na snížení korporátní daně.\n\n### 4.1 Existence volebního programu ANO 2025\n\n- Hnutí ANO představilo volební program 4. 9. 2025 v Ostravě; tuto skutečnost zachycují mj. Novinky, Seznam Zprávy, TN.cz či samotný web ANO (sekce „Z médií“).([anobudelip.cz](https://www.anobudelip.cz/cs/zpravy/hnuti-ano-predstavilo-volebni-program?utm_source=openai))  \n\n```text\nURL (ANO – Zprávy): https://www.anobudelip.cz/cs/zpravy/hnuti-ano-predstavilo-volebni-program\nURL (Seznam Zprávy – program): https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-duchody-rodicak-i-platy-zvysovat-dane-snizovat-ano-odtajnilo-program-285332\nURL (TN.cz): https://tn.nova.cz/zpravodajstvi/clanek/628263-ano-predstavilo-svuj-volebni-program-chce-snizit-dane-a-opet-zavest-eet\nURL (Novinky – program ANO): https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607\n```\n\n### 4.2 Obsah volebního programu k dani z příjmů právnických osob\n\nRůzná média shrnující program ANO 2025 shodně uvádějí, že **firmám má být daň z příjmů snížena z 21 na 19 %**:\n\n- Novinky (přehled volebního programu ANO 2025):  \n  „Hnutí slibuje vrátit rodinám daňové úlevy (…) **a firmám snížit daň z příjmů z 21 % na 19 %**.“([novinky.cz](https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607))  \n\n- Seznam Zprávy („Platy vyšší, daně nižší“ – shrnutí programu):  \n  „Firmám se mají daně snížit **z 21 na 19 %**.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-duchody-rodicak-i-platy-zvysovat-dane-snizovat-ano-odtajnilo-program-285332?utm_source=openai))  \n\n- TN.cz („ANO představilo svůj volební program. Chce snížit daně a opět zavést EET“): článek popisuje, že jedním z hlavních slibů je snížení daní, včetně daňové zátěže pro firmy.([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/628263-ano-predstavilo-svuj-volebni-program-chce-snizit-dane-a-opet-zavest-eet?utm_source=openai))  \n\n- Článek v České justici o daňové konferenci cituje místopředsedu ANO Karla Havlíčka:  \n  „Uvažujeme, že dostaneme zpátky **korporátní daň z 21 procent na 19 procent**.“([ceska-justice.cz](https://www.ceska-justice.cz/2025/08/neobtezovat-a-pracovat-s-daty/?utm_source=openai))  \n\n- Další ekonomická média (např. Forvis Mazars shrnující Novinky) uvádějí, že ANO chce vrátit daň firem z 21 % zpět na 19 %; krok hodnotí experti jako sporný, ale potvrzují, že je **součástí programu ANO**.([forvismazars.com](https://www.forvismazars.com/cz/cs/prehledy/forvis-mazars-v-mediich/archiv-2025/ano-chce-snizit-dan-firmam?utm_source=openai))  \n\n```text\nURL (Česká justice): https://www.ceska-justice.cz/2025/08/neobtezovat-a-pracovat-s-daty/\nURL (Forvis Mazars – shrnutí Novinek): https://www.forvismazars.com/cz/cs/prehledy/forvis-mazars-v-mediich/archiv-2025/ano-chce-snizit-dan-firmam\nURL (Dauc – daňové novinky, vč. korporátní daně): https://www.dauc.cz/clanky/15501/danove-novinky-pro-vlastniky-nemovitosti-a-developery-klicove-zmeny-pro-rok-2025\n```\n\n**Závěr k této interpretaci:**  \nVolební program ANO 2025, jak jej popisují nezávislá média i představitelé hnutí, **obsahuje závazek snížit daň z příjmů právnických osob / korporátní daň z 21 % na 19 %**. To přesně odpovídá tvrzení, že „v programu“ je snaha korporátní daň snižovat.\n\n---\n\n## 5. Kontext: skutečná výše korporátní daně před slibem\n\nPro ověření, že jde skutečně o **snížení** (nikoli např. jen zachování sazby), je relevantní skutečná výše daně v době, kdy byl program formulován:\n\n- Podle odborného daňového přehledu ConTax CZ byla sazba daně z příjmů právnických osob **od roku 2024 zvýšena z 19 % na 21 %**; tato vyšší sazba se projeví v přiznáních za rok 2024 podávaných v roce 2025.([contax.cz](https://www.contax.cz/index.php/2025/01/10/zasadni-zmeny-v-oblasti-dane-z-prijmu-od-1-ledna-2025/))  \n\n- Stejnou informaci (korporátní daň zvýšena z 19 na 21 %, ANO slibuje vrácení na 19) uvádějí i další daňové a ekonomické analýzy.([kurzy.cz](https://www.kurzy.cz/dane-danova-priznani/dan-z-prijmu-pravnickych-osob-2025.htm?utm_source=openai))  \n\n```text\nURL (ConTax – změny v dani z příjmů): https://www.contax.cz/index.php/2025/01/10/zasadni-zmeny-v-oblasti-dane-z-prijmu-od-1-ledna-2025/\nURL (Kurzy.cz – přiznání k dani z příjmů právnických osob 2025): https://www.kurzy.cz/dane-danova-priznani/dan-z-prijmu-pravnickych-osob-2025.htm\n```\n\nTo potvrzuje, že slib v programu (návrat na 19 %) je **skutečně závazek daně snižovat** vůči tehdejšímu platnému stavu (21 %).\n\n---\n\n## 6. Hodnocení jednotlivých podtvrzení\n\n### 6.1 „V programu vlády je korporátní daň, že ji chceme snižovat“\n\n- **Fakt:**  \n  Programové prohlášení vlády Andreje Babiše, schválené 5. 1. 2026, obsahuje jasnou větu: „Snížíme daň z příjmů právnických osob na 19 %…“([vlada.gov.cz](https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/))  \n- **Doplňkové zdroje (Echo24, Patria, Publico, Blesk, CzechIndustry atd.)** toto ustanovení nezávisle reprodukují.([echo24.cz](https://www.echo24.cz/a/HmwQa/zpravy-domov-nova-vlada-slibuje-zadne-danove-zvyseni?utm_source=openai))  \n\n**Hodnocení:** Podtvrzení je **jasně pravdivé** – vládní program skutečně obsahuje závazek snížit daň z příjmů právnických osob, tedy korporátní daň.\n\n### 6.2 „V programu hnutí ANO (volebním) je snížení korporátní daně“\n\n- **Fakt:**  \n  Souhrny volebního programu ANO 2025 (Novinky, Seznam Zprávy, TN.cz aj.) uvádějí, že program slibuje „firmám snížit daň z příjmů z 21 % na 19 %“.([novinky.cz](https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607))  \n- **Potvrzení politiky ANO:**  \n  Výrok Karla Havlíčka o „vrácení korporátní daně z 21 na 19 procent“ a vyjádření Aleny Schillerové o snížení korporátní daně na 19 % dokládají, že **snižování korporátní daně je dlouhodobě deklarovaným programovým cílem ANO**.([ceska-justice.cz](https://www.ceska-justice.cz/2025/08/neobtezovat-a-pracovat-s-daty/?utm_source=openai))  \n\n**Hodnocení:** I při interpretaci „program“ jako volebního programu ANO 2025 je tvrzení **doložené** – program skutečně obsahuje závazek snížit korporátní daň.\n\n---\n\n## 7. Celkové zhodnocení tvrzení\n\nNapříč oběma realistickými interpretacemi slova „program“:\n\n- **Programové prohlášení vlády (5. 1. 2026)** jednoznačně obsahuje slib **snížit daň z příjmů právnických osob na 19 %**.([vlada.gov.cz](https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/))  \n- **Volební program ANO 2025** podle vícero nezávislých mediálních shrnutí rovněž slibuje **snížit daň z příjmů firem z 21 % na 19 %**.([novinky.cz](https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-program-ano-2025-40540607))  \n\nTvrzení Andreje Babiše, že **„v programu je korporátní daň, že ji chceme snižovat“**, je proto:\n\n> **Fakticky podložené (v souladu s obsahem jak vládního programového prohlášení, tak volebního programu ANO 2025).**",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 81482,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 15486,
+      "output_tokens_details": {
+        "reasoning_tokens": 11864
+      },
+      "total_tokens": 96968
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1770640541,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

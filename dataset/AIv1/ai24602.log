@@ -1,0 +1,997 @@
+{
+  "claim_id": "24602",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260220_173536",
+  "source_md": "experiments/gpt5.1_h_20260220_173536/brief_fact_check_id24602.md",
+  "fact_check": "# Fact Check for Statement ID 24602\n\n## Statement\nV minulém období v roce 2024 vzala předchozí vláda z rozpočtu Ministerstva vnitra dvě miliardy a došlo k propadu (platu, pozn. Demagog.cz) minimálně o 150 korun u každého příslušníka (bezpečnostních sborů, pozn. Demagog.cz)\n\n---\n## AI Fact Check\n## Shrnutí tvrzení a jeho interpretace\n\nZ citované pasáže vyplývá tvrzení:\n\n> „V minulém období v roce 2024 vzala předchozí vláda z rozpočtu Ministerstva vnitra dvě miliardy a došlo k propadu (platu) minimálně o 150 korun u každého příslušníka (bezpečnostních sborů).“\n\nNejpravděpodobnější, fakticky ověřitelná interpretace:\n\n1. **Rozpočtová část tvrzení**  \n   – Mezi roky 2023 a 2024 došlo ke **snížení rozpočtu kapitoly 314 – Ministerstvo vnitra (MV ČR)** zhruba o 2 mld Kč v důsledku rozpočtu připraveného „předchozí vládou“ (vládou Petra Fialy).\n\n2. **Mzdová část tvrzení**  \n   – V důsledku těchto kroků došlo v roce 2024 u **každého příslušníka bezpečnostních sborů** (policisté, hasiči atd. v gesci MV) k **poklesu platu alespoň o 150 Kč**.\n\nNíže jsou obě části rozebrány zvlášť včetně důkazů, protidůkazů a možných alternativních interpretací.\n\n---\n\n## Dílčí tvrzení 1: „Předchozí vláda vzala z rozpočtu Ministerstva vnitra v roce 2024 dvě miliardy“\n\n### Důkazy o vývoji rozpočtu MV mezi 2023 a 2024\n\n**1. Ministerstvo financí – návrh státního rozpočtu 2024 (oficiální tabulka kapitol)**  \n\nTisková zpráva MF k návrhu státního rozpočtu na rok 2024 uvádí tabulku „Celkové výdaje státního rozpočtu podle kapitol“ (v Kč). U kapitoly 314 – Ministerstvo vnitra jsou uvedeny tyto částky:([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137))  \n\n- **Státní rozpočet 2023**: 99 733 224 285 Kč  \n- **Státní rozpočet 2024**: 97 446 613 586 Kč  \n\nRozdíl činí zhruba **2,29 miliardy Kč** (cca 2,3 mld). To znamená, že **rozpočet kapitoly MV je v roce 2024 zhruba o 2,3 mld nižší než v roce 2023**.\n\nStejná čísla shrnuje i přehled kapitol státního rozpočtu 2024 na serveru Fintag (Ministerstvo vnitra: 99,7 mld v roce 2023 vs. 97,4 mld v roce 2024).([fintag.cz](https://www.fintag.cz/2023/09/01/vydaje-jednotlivych-kapitol-statniho-rozpoctu-2024/?utm_source=openai))\n\n**2. ČT24 – shrnutí politické debaty o rozpočtu (6. ledna 2024)**  \n\nV televizní reportáži ČT24 „Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů“ se popisují dopady rozpočtu na bezpečnostní sbory. Reportáž mj. cituje opoziční poslankyni Janu Mračkovou Vildumetzovou (ANO):([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n\n- „… jestli si **ministerstvo obrany vybojuje 39 miliard navíc a ministerstvo vnitra si vybojuje minus 2,2 miliardy**, tak to svědčí o všem“.  \n\nFormulace „minus 2,2 miliardy“ jasně odkazuje na **meziroční pokles rozpočtu MV** v řádu zhruba 2,2 mld Kč – číslo odpovídá údajům Ministerstva financí výše.\n\n**3. Odborový svaz policie (NOS PČR) – krácení služebních příjmů v návrhu rozpočtu 2024**\n\nAnalýza NOS PČR „Může rozhodnutí o krácení ohrozit vnitřní bezpečnost?“ rozebírá vládní **návrh** rozpočtu na rok 2024. U kapitoly 314 (MV ČR) uvádí pro položku „služební příjmy příslušníků ve služebním poměru“ tyto částky:([nospcr.cz](https://www.nospcr.cz/muze-rozhodnuti-snemovny-ohrozit-vnitrni-bezpecnost/))  \n\n- 2023: 33 746 501 754 Kč  \n- návrh 2024: 33 049 019 271 Kč  \n\nPokles cca **697 mil. Kč (−2,1 %)** v samotné položce služebních příjmů (nikoli celé kapitoly). Zároveň text připomíná, že krácení se týká i platů civilních zaměstnanců a provozních výdajů.\n\n### Protiargumenty / upřesnění\n\n- **Pokles rozpočtu neznamená, že „během roku 2024 vláda sebrala dvě miliardy“**, ale že **schválený rozpočet 2024 byl o ~2,3 mld nižší než schválený rozpočet 2023**. Rozhodnutí padlo při přípravě a schvalování rozpočtu (zákon č. 433/2023 Sb. o státním rozpočtu na rok 2024), nikoli dodatečně v průběhu roku.\n- Část původně plánovaného krácení prostředků na **služební příjmy** byla podle pozdějších jednání MV a odborů pro bezpečnostní sbory zčásti korigována (viz další dílčí tvrzení).\n\n### Předběžné hodnocení dílčího tvrzení 1\n\n- Údaje Ministerstva financí a mediální i odborové zdroje **potvrzují**, že rozpočet kapitoly Ministerstva vnitra pro rok 2024 je **přibližně o 2,2–2,3 mld Kč nižší** než v roce 2023.([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137))  \n- Formulace „vzala z rozpočtu MV dvě miliardy“ tedy zhruba odpovídá realitě, pokud se chápe jako **meziroční pokles kapitoly 314** v důsledku rozpočtu prosazeného předchozí vládou.\n\n---\n\n## Dílčí tvrzení 2: „… a došlo k propadu (platu) minimálně o 150 korun u každého příslušníka“\n\nToto tvrzení vyvolává několik otázek:\n\n1. Mluví se o **hrubém služebním příjmu / tarifu**, nebo o **čistém příjmu po odvodech a daních**?  \n2. Vztahuje se „propad“ na **nominální částky** (tj. méně korun na výplatní pásce než v roce 2023), nebo na **reálné příjmy** (očištěné o inflaci)?  \n3. Je pokles přímo **následkem rozpočtového krácení MV o 2 mld**, nebo jiných opatření (konsolidační balíček, nemocenské pojištění, zrušení daňových slev a benefitů)?\n\n### 2a) Byly v roce 2024 nominálně sníženy platy (tarify) příslušníků bezpečnostních sborů?\n\n**1. ČT24 (6. 1. 2024) – platy neklesají, kráceny jsou benefity a provoz**\n\nVe stejné reportáži ČT24, která popisuje rozpočtové krácení, je explicitně uvedeno:([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n\n- „**Platy policistů, hasičů a vězeňských dozorců sice neklesají**, nyní ale příslušníci těchto sborů přijdou o některé benefity nebo investice.“  \n- Dále: „… po vyjednávání o státním rozpočtu **nemuseli plošně snižovat mzdy o dvě procenta**.“\n\nTo znamená, že:\n\n- Původní vládní záměr byl **snížit objem prostředků na platy bezpečnostních sborů o 2 %**,  \n- ale po vyjednávání se **plošné dvouprocentní snížení tarifů neuskutečnilo** a **nominální platy zůstaly na úrovni roku 2023**.  \n\n**2. NOS PČR – jednání s ministrem vnitra 6. 11. 2023**\n\nZápis z jednání odborů bezpečnostních sborů s ministrem vnitra Vítem Rakušanem popisuje dopady konsolidačního balíčku:([nospcr.cz](https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/))  \n\n- Vládní balíček „přinesl **dvouprocentní snížení objemu finančních prostředků na služební příjem příslušníků bezpečnostních sborů**“.  \n- Ministr však uvedl, že se podařilo „**prosadit vrácení tohoto dvouprocentního snížení služebních příjmů u příslušníků v rezortu ministerstva vnitra**, a tedy plní svůj slib, že oproti roku 2023 v roce 2024 služební příjmy nepoklesnou.“\n\nOdborový svaz tedy potvrzuje, že:\n\n- dvouprocentní škrty v objemu mzdových prostředků byly **vztaženy zpět**,  \n- **služební příjmy (tarifní platy) příslušníků MV se mezi roky 2023 a 2024 nominálně nesnížily**.\n\n**3. Ministerstvo vnitra / Ekonomický deník – shrnutí vyjednávání**\n\nTisková zpráva MV a její shrnutí v Ekonomickém deníku k pozdějšímu (2024) vyjednávání o růstu platů pro roky 2025+ uvádějí, že:([mv.gov.cz](https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx?utm_source=openai))  \n\n- „V roce **2024 se i v ekonomicky složité době podařilo prosadit návrh, který vracel 2 % na platech do rozpočtu**, a tak **zajistit, aby platy policistů a hasičů zůstaly na stejné úrovni**.“  \n\nToto tvrzení MV koresponduje s informacemi z NOS PČR a ČT24.\n\n**Závěr k 2a:**  \nPodle oficiálních vyjádření **nedošlo v roce 2024 k nominálnímu poklesu tarifních platů příslušníků bezpečnostních sborů v gesci MV oproti roku 2023**. Dvouprocentní škrty, které konsolidační balíček původně předpokládal, byly pro tyto sbory v rámci MV „vráceny“.\n\n### 2b) Dopady konsolidačního balíčku na **čistý příjem** příslušníků (nové odvody a daně)\n\nAčkoli tarify formálně neklesly, v roce 2024 vstoupila v platnost řada opatření, která **snižují čistý příjem zaměstnanců obecně**, tedy i příslušníků bezpečnostních sborů:\n\n#### a) Nemocenské pojištění zaměstnanců (0,6 % z hrubé mzdy)\n\nOd 1. 1. 2024 začali zaměstnanci poprvé platit **nemocenské pojištění ve výši 0,6 %** z vyměřovacího základu (dříve ho za ně platil jen zaměstnavatel).([mpsv.cz](https://www.mpsv.cz/socialni-pojisteni-v-roce-2024?utm_source=openai))  \n\nPodrobný výpočet Money.cz ukazuje, o kolik to sníží čistou mzdu:([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n\n- při hrubé mzdě 20 000 Kč je nová srážka **120 Kč/měsíc**,  \n- při 30 000 Kč je to **180 Kč/měsíc**,  \n- při 35 000 Kč **210 Kč/měsíc**,  \n- při 50 000 Kč **300 Kč/měsíc**.  \n\nServer Peníze.cz shrnuje dopad takto:([penize.cz](https://www.penize.cz/mzda-a-plat/442054-cista-mzda-2024-vladni-balicek-meni-nemocenske-pojisteni-a-progresivni-dan?utm_source=openai))  \n\n- „Kdo si vydělává **30 tisíc hrubého, dostane kvůli zvýšení nemocenského pojištění od roku 2024 měsíčně o 180 korun méně než dosud**.“  \n\nTypický policista nebo hasič s hrubým služebním příjmem okolo 30–40 tisíc Kč tak čistě z titulu zavedení nemocenského pojištění **přichází každý měsíc o cca 180–240 Kč**, tedy o částku **vyšší než 150 Kč**.\n\n#### b) Zrušení daňové slevy na školkovné a dalších slev\n\nKonsolidační balíček zároveň od roku 2024 **zrušil několik daňových slev**, mj.:([money.cz](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai))  \n\n- **„školkovné“** (sleva za umístění dítěte do MŠ), které v roce 2023 mohlo činit až 17 300 Kč ročně na jedno dítě,  \n- slevu na studenta,  \n- výrazně omezil slevu na manžela/manželku.\n\niDNES.cz k tomu uvádí, že zrušení školkovného znamená pro rodiny **„ztrátu tisíců korun ročně“**.([idnes.cz](https://www.idnes.cz/finance/dane/dane-slevy-2024-rodiny-skolkovne-student-novinky.A240122_093051_p_dane_sov?utm_source=openai))\n\nTyto slevy sice formálně nejsou součástí platu, ale **přímo snižují čistý roční příjem rodin** (včetně rodin policistů a hasičů). Pro příslušníka s malými dětmi mohl být dopad řádově v tisících korun ročně.\n\n#### c) Změny ve Fondu kulturních a sociálních potřeb (FKSP) a benefitech\n\nKonsolidační balíček také **snížil a změnil režim FKSP**, ze kterého jsou často hrazeny zaměstnanecké benefity (rekreace, příspěvek na stravování apod.):([nospcr.cz](https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/))  \n\n- **Základní příděl do FKSP klesl z 2 % na 1 %** objemu mzdových prostředků.  \n- Zároveň je povinnost **nejméně 50 % tohoto přídělu použít na produkty spoření na stáří**, což omezuje využitelnost fondu na „měkké“ benefity.  \n\nNOS PČR v zápisu z 6. 11. 2023 výslovně upozorňuje, že:([nospcr.cz](https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/))  \n\n- současné financování příspěvku na stravování bylo kombinací zaměstnavatele a FKSP,  \n- **FKSP je vládním úsporným balíčkem krácen** a část prostředků je vázána, což přímo ohrožuje rozsah poskytovaných benefitů.\n\nČT24 zase shrnuje, že **příslušníci přijdou o některé benefity** (např. stravování, další výhody), i když samotné tarify neklesají.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n\n#### d) Reálný (inflačně očištěný) propad příjmů\n\nOdbory dlouhodobě argumentují, že i přes formální zachování nominálních platů došlo u bezpečnostních sborů k výraznému **reálnému propadu příjmů**:  \n\n- Tomáš Machovič (NOS PČR) v rozhovoru pro Radiožurnál (22. 8. 2024) uvádí, že **propad reálných příjmů** příslušníků za předchozí tři roky se blíží **20 %**, u některých (např. dojíždějících do Prahy) až **23 %**.([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/odbory-chteji-vyjednat-navyseni-platu-policistu-hasicu-ci-vezenske-sluzby-jinak-9297527?utm_source=openai))  \n- Podobná čísla uvádí i další rozhovory a články (např. Novinky.cz, 29. 7. 2024 – „propad reálných příjmů přes dvacet procent, možná i pětadvacet“).([novinky.cz](https://www.novinky.cz/clanek/domaci-stovky-policistu-odejdou-cekejte-velke-protesty-hrozi-odbory-kvuli-platum-40482088?utm_source=openai))  \n\nTyto údaje se však týkají **reálné kupní síly** (mzdy vs. inflace), nikoli nominálního „150 Kč propadu“ mezi dvěma roky.\n\n### 2c) Existuje zdroj, který by přímo mluvil o „propadu minimálně o 150 Kč u každého příslušníka“?\n\n- V dostupných **oficiálních dokumentech (MF, MV, MPSV)** ani v **odborových materiálech** či v relevantních médiích **se nepodařilo dohledat tvrzení**, že by v roce 2024 došlo k **plošnému snížení platu každého příslušníka bezpečnostních sborů o minimálně 150 Kč** v důsledku krácení rozpočtu MV o 2 mld Kč.\n- Naopak, výše citované zdroje opakovaně zdůrazňují, že:  \n  - **tarify / služební příjmy nominálně neklesly** (zůstaly na úrovni roku 2023),([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n  - „propad“ se týká spíše **čisté mzdy** (nové odvody, zrušení slev) a **reálných příjmů** (inflace) i zhoršení benefitů.\n\nJediné číselné údaje blízké hodnotě **150 Kč měsíčně** jsou:\n\n- **nemocenské pojištění 0,6 %** – u nižších mezd (20–25 tis. Kč) je měsíční odvod **120–150 Kč**, u typických platů policistů (30–35 tis. Kč) spíše **180–210 Kč**;([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n- různé dílčí změny benefitů (např. příspěvek na stravování), kde ale částky nejsou centralizovaně stanovené a liší se podle zaměstnavatele; **žádný jednotný údaj „−150 Kč na osobu“ pro příslušníky bezpečnostních sborů se nepodařilo dohledat**.\n\n### Předběžné hodnocení dílčího tvrzení 2\n\n- **Nominální platy (služební tarify) příslušníků bezpečnostních sborů v gesci MV se v roce 2024 oproti roku 2023 nesnížily** – naopak se vláda chlubila, že se podařilo **zabránit plánovanému 2% snížení objemu prostředků na platy**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n- Na úrovni **čistého příjmu** ale konsolidační balíček zavedl:\n  - nový odvod nemocenského pojištění 0,6 % z hrubé mzdy (pro typické platy policistů jde o **180–300 Kč měsíčně méně**),([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n  - zrušení některých daňových slev (např. školkovné) a omezení slevy na manžela/manželku,([money.cz](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai))  \n  - snížení přídělu do FKSP z 2 % na 1 % a částečné povinné vázání prostředků na spoření na stáří, což omezilo rozsah benefitů.([skoleniproucetni.cz](https://skoleniproucetni.cz/konsolidacni-balicek-a-fksp/?utm_source=openai))  \n- Z těchto důvodů lze říci, že **čistý měsíční příjem typického příslušníka se v roce 2024 snížil alespoň o cca 150 Kč** (ve skutečnosti často spíše o 180–200 Kč jen kvůli nemocenskému), ale:  \n  - **nejde o snížení vyvolané konkrétně „sebráním dvou miliard z rozpočtu MV“**,  \n  - a už vůbec ne o snížení **tarifního platu** – to vyplývá z **celostátních daňových a odvodových změn**, které dopadly na všechny zaměstnance v ČR, nejen na bezpečnostní sbory.\n\n---\n\n## Alternativní interpretace a kontext\n\n1. **„Propad o 150 Kč“ jako zkratka pro dopad nemocenského pojištění**  \n   – Z ekonomických analýz vyplývá, že **zaměstnanec s hrubou mzdou kolem 25 tisíc Kč** přichází kvůli 0,6% nemocenskému přibližně o **150 Kč měsíčně**, u vyšších mezd dokonce více.([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n   – Je možné, že Metnar číslo „150 Kč“ převzal z tohoto obecného odhadu, ovšem pak:\n     - nejde o důsledek **snížení rozpočtu MV o 2 mld**,  \n     - a **nejde o „plat“ ve smyslu tarifního služebního příjmu**, ale o **čistý příjem po odvodech**.\n\n2. **„Propad“ jako reálný (inflačně očištěný) pokles**  \n   – Odbory dlouhodobě upozorňují na **20–25% propad reálných příjmů příslušníků bezpečnostních sborů za poslední dva–tři roky**, ale takový pokles se nijak nepřeklápí do jednoduchého lineárního „−150 Kč měsíčně“.([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/odbory-chteji-vyjednat-navyseni-platu-policistu-hasicu-ci-vezenske-sluzby-jinak-9297527?utm_source=openai))  \n   – Metnarovo spojení „dvě miliardy z rozpočtu MV“ a „−150 Kč každému příslušníkovi“ proto působí spíše jako politická zkratka než jako údaj opřený o konkrétní oficiální výpočty.\n\n---\n\n## Závěrečné shrnutí pro fact‑checkera\n\n1. **Rozpočtová část tvrzení („dvě miliardy z rozpočtu MV“)**  \n   - Oficiální údaje MF a nezávislé mediální/odborové analýzy **potvrzují**, že rozpočet kapitoly Ministerstvo vnitra byl v roce 2024 **zhruba o 2,2–2,3 mld Kč nižší** než v roce 2023.([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137))  \n   - Tato část výroku je tedy **věcně podložená** (při chápání jako meziroční pokles kapitoly).\n\n2. **Mzdová část tvrzení („propad platu minimálně o 150 Kč u každého příslušníka“)**\n   - **Nenašel se žádný oficiální ani odborový zdroj**, který by uváděl, že by **tarifní platy** příslušníků MV byly v roce 2024 sníženy o 150 Kč měsíčně vůči roku 2023.\n   - Naopak, vláda i odbory opakovaně potvrzují, že se v roce 2024 podařilo **zabránit plánovanému dvouprocentnímu snížení služebních příjmů** a že **tarify zůstaly nominálně na úrovni roku 2023**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n   - Čisté mzdy příslušníků se **snížily** kvůli **novému nemocenskému pojištění 0,6 %** (řádově 180–300 Kč/měsíc u typických platů) a kvůli **zrušení některých daňových slev a omezení benefitů**, což se bezpečnostních sborů týká stejně jako ostatních zaměstnanců.([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n   - Tvrzení, že **v důsledku „sebrání dvou miliard z rozpočtu MV“ došlo ke snížení platu každého příslušníka minimálně o 150 Kč**, proto **nemá přímou oporu v oficiálních datech o služebních příjmech** a směšuje různé dopady konsolidačního balíčku (centrální daňové a odvodové změny vs. rozpočet MV).\n\n---\n\n## Hlavní zdroje\n\n- Ministerstvo financí ČR – tabulka „Celkové výdaje státního rozpočtu podle kapitol“ pro rok 2023 a návrh 2024 (kapitola 314 – Ministerstvo vnitra).([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137))  \n- ČT24 (6. 1. 2024): „Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů.“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n- NOS PČR: „Může rozhodnutí o krácení ohrozit vnitřní bezpečnost?“ (analýza krácení služebních příjmů v návrhu rozpočtu 2024).([nospcr.cz](https://www.nospcr.cz/muze-rozhodnuti-snemovny-ohrozit-vnitrni-bezpecnost/))  \n- NOS PČR: „Jednání s ministrem vnitra dne 6. 11. 2023“ (vrácení 2% snížení služebních příjmů u příslušníků MV, příslib, že v roce 2024 služební příjmy nepoklesnou).([nospcr.cz](https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/))  \n- Ministerstvo vnitra / Ekonomický deník: zmínky o tom, že v roce 2024 se podařilo „vrátit 2 % na platech do rozpočtu“ tak, aby platy policistů a hasičů „zůstaly na stejné úrovni“.([mv.gov.cz](https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx?utm_source=openai))  \n- Money.cz: „Konsolidační balíček: nemocenské pojištění u zaměstnanců od 1. 1. 2024“ – tabulka měsíčních odvodů 0,6 % z různých hrubých mezd.([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n- Penize.cz: „Čistá mzda 2024: vládní balíček mění nemocenské pojištění a progresivní daň“ – příklad zaměstnance s 30 000 Kč hrubého (−180 Kč měsíčně kvůli nemocenskému).([penize.cz](https://www.penize.cz/mzda-a-plat/442054-cista-mzda-2024-vladni-balicek-meni-nemocenske-pojisteni-a-progresivni-dan?utm_source=openai))  \n- Přehled daňových změn a zrušení slev (školkovné, sleva na studenta, omezení slevy na manžela/manželku) v rámci konsolidačního balíčku.([money.cz](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai))  \n- Analýzy FKSP a jeho krácení z 2 % na 1 % mzdových prostředků a povinné vázání části na spoření na stáří.([skoleniproucetni.cz](https://skoleniproucetni.cz/konsolidacni-balicek-a-fksp/?utm_source=openai))  \n- Vyjádření odborů (NOS PČR, rozhovory pro Radiožurnál a Novinky.cz) o reálném propadu příjmů příslušníků bezpečnostních sborů (cca 20–25 %).([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/odbory-chteji-vyjednat-navyseni-platu-policistu-hasicu-ci-vezenske-sluzby-jinak-9297527?utm_source=openai))\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in iDNES.cz released on 2026-02-18 available from https://www.idnes.cz/zpravy/domaci/lubomir-metnar-zvysovani-platu-policie-zbranova-legislativa-bezpecnost-migranti.A260217_204844_domaci_krou?zdroj=otvirak.\\n\\n\\nThe claim was made by: Lubomír Metnar, Ministr vnitra\\n\\n\\nThe claim appears in the following immediate context in the source:\\nNejdřív řeknu, proč to děláme. My tím hasíme chaos, který vytvořila minulá vláda, když jednostranně navýšila platy vojákům, a to poměrně skokově, a tím se rozevřely nůžky mezi nimi a příslušníky bezpečnostních sborů. Je to reálný problém a my potřebujeme, aby se ty nůžky přivřely a platově byla tato zaměstnání konkurenceschopná.\\nJak na to tedy půjdete?\\nNavýšení nástupních platů policistů a hasičů plánujeme v rámci celého volebního období, protože jsme proti tomu, aby docházelo ke skokovému navýšení, které by vytvářelo rozdíly a mohlo i ohrozit stabilitu rozpočtu. Těch 50 tisíc korun u nástupních platů není částka vycucaná z prstu, děláme to s ohledem na konkurenceschopnost i s přihlédnutím k situaci v zahraničí. V současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun. Celkově to máme spočítané tak, že po celé naše volební období budeme přidávat každý rok na platy bezpečnostních sborů 2,5 miliardy korun.\\nTakže platy porostou začínajícím policistům a hasičům postupně. Ale o kolik?\\nJen vysvětlím, ten rozdíl mezi aktuálním platem a tou naší avizovanou částkou je dnes zhruba 20 procent. Letos se přidalo pět procent, a když každý rok přidáme plus minus dalších pět procent, tak bychom měli za celé volební období smáznout ten rozdíl, aby se nástupním platem dostali na 50 tisíc. Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.\\nZatím se bavíme o platech nově příchozích. Dočkají se ale navýšení platů do budoucna plošně i ostatní policisté a hasiči, kteří ve sboru působí už řadu let?\\nNavyšování platů se musí propsat i do vyšších tříd všem policistům, protože nemůže dojít k situaci, aby měl nastupující policista vyšší plat než ten, který slouží třeba pět let. Takže to se propíše, ale bude to proporcionální. V současnosti je průměrný plat u policie 60 tisíc korun, což je zase na druhou stranu pěkný plat. Nejvíc ale potřebují přidat policisté v nízkých platových třídách, a úplně nejmíň naopak vysocí funkcionáři, u nich s nějakým enormním navýšením nepočítám.\\nTakže to pětiprocentní navýšení za rok podle vás nebude pro všechny?\\nVůbec ne, tak to ani nelze udělat.\\nChcete také zvýšit počty policistů. Dočkají se nováčci kromě navýšení základního platu i nějakých dalších výhod?\\nNechci se vracet do minulosti, ale v tomto musím. V minulém období totiž v roce 2024 vzala předchozí vláda z rozpočtu ministerstva vnitra dvě miliardy a došlo k propadu minimálně o 150 korun u každého příslušníka místo toho, aby se jim přidalo. A také přišli o školkovné a další benefity. To také příslušníkům nepřispělo a vedlo to k tomu, že v tom roce dokonce klesl počet příslušníků pod 40 tisíc. My jim všechny tyto benefity chceme vrátit.\\nV souvislosti s vojáky nepočítáte s náborovým příspěvkem také pro nově příchozí policisty?\\nNáborový příspěvek u policie již je, jak u obecní, tak u policie České republiky. Ale to není to, co by situaci řešilo, protože oni potřebují mít dostatečně vysoký a konkurenceschopný plat a musí mít perspektivu, že dosáhnou na bankovní produkty, kterými by si mohli pomoct k založení rodiny a bydlení.\\n\\nProvide a structured, citation-backed verification of the claim: 'V minulém období v roce 2024 vzala předchozí vláda z rozpočtu Ministerstva vnitra dvě miliardy a došlo k propadu (platu, pozn. Demagog.cz) minimálně o 150 korun u každého příslušníka (bezpečnostních sborů, pozn. Demagog.cz)'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 439.73 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Rozpočet Ministerstva vnitra pro rok 2024 je skutečně zhruba o 2,3 miliardy korun nižší než v roce 2023. Nominální tarify příslušníků bezpečnostních sborů ale neklesly, „propad“ 150 Kč na osobu souvisí spíše s obecnými daňovými a odvodovými změnami.</p>\n\n<p>Výrok se týká rozpočtu Ministerstva vnitra a platů příslušníků bezpečnostních sborů v souvislosti s konsolidačními opatřeními vlády a státním rozpočtem na rok 2024. Rozpočet na rok 2024 připravila a ve Sněmovně prosadila vláda Petra Fialy, přičemž bezpečnostní sbory dlouhodobě upozorňují na napjaté financování a pokles reálných příjmů svých členů.</p>\n\n<p>Výrok obsahuje dvě samostatná faktická tvrzení. První z nich tvrdí, že „předchozí vláda vzala z rozpočtu Ministerstva vnitra dvě miliardy“ v rozpočtu pro rok 2024. Druhé říká, že v důsledku toho došlo k „propadu platu minimálně o 150 korun u každého příslušníka bezpečnostních sborů“. V následujícím textu obě tyto části hodnotíme zvlášť.</p>\n\n<p>Podle oficiální tabulky kapitol státního rozpočtu, kterou zveřejnilo Ministerstvo financí v tiskové zprávě k návrhu rozpočtu na rok 2024, činily výdaje kapitoly 314 – Ministerstvo vnitra v roce 2023 přibližně 99,7 miliardy Kč a v roce 2024 zhruba 97,4 miliardy Kč. Z údajů v této <a href=\"https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137\">tabulce Ministerstva financí</a> vyplývá meziroční pokles o asi 2,29 miliardy Kč, tedy zhruba o „dvě miliardy“, jak uvádí autor výroku. Stejný řádově dvoumiliardový rozdíl popisuje i článek serveru Fintag, který shrnuje výdaje jednotlivých kapitol státního rozpočtu na rok 2024.</p>\n\n<p>Také televizní reportáž ČT24 o dopadech rozpočtu na bezpečnostní sbory připomíná, že Ministerstvo vnitra má v novém rozpočtu méně peněz. Opoziční poslankyně v ní říká, že zatímco Ministerstvo obrany získalo navíc 39 miliard, „ministerstvo vnitra si vybojuje minus 2,2 miliardy“. Tato formulace v reportáži <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704\">České televize</a> odpovídá číslům z rozpočtové tabulky Ministerstva financí.</p>\n\n<p>Je ale důležité dodat, že nejde o peníze „vzité“ během roku 2024, nýbrž o to, že schválený rozpočet na rok 2024 je v kapitole Ministerstva vnitra meziročně nižší než rozpočet na rok 2023. Rozhodnutí o tomto snížení padlo při přípravě a schvalování zákona o státním rozpočtu. Věcně tedy první část výroku, která mluví o zhruba dvoumiliardovém krácení rozpočtu Ministerstva vnitra oproti předchozímu roku, odpovídá realitě.</p>\n\n<p>Druhá část výroku spojuje toto rozpočtové snížení s „propadem platu minimálně o 150 korun u každého příslušníka“. Klíčové je, zda skutečně došlo k plošnému snížení tarifních (služebních) platů příslušníků bezpečnostních sborů v roce 2024 oproti roku 2023 a zda to přímo souviselo se zmiňovaným krácením rozpočtu Ministerstva vnitra.</p>\n\n<p>Podle reportáže ČT24 o dopadech rozpočtu na policisty, hasiče a dozorce platy samotné neklesly. V textu se doslova uvádí, že <i>„platy policistů, hasičů a vězeňských dozorců sice neklesají, nyní ale příslušníci těchto sborů přijdou o některé benefity nebo investice“</i> a že po vyjednávání „nemuseli plošně snižovat mzdy o dvě procenta“; tyto formulace jsou uvedeny v reportáži <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704\">České televize</a>. To znamená, že původně uvažované dvouprocentní škrty v objemu mzdových prostředků se u příslušníků v gesci Ministerstva vnitra nakonec plošně neprosadily a nominální tarify zůstaly na úrovni roku 2023.</p>\n\n<p>Stejný závěr potvrzují i odborové materiály. Odborový svaz policie v zápisu z jednání s ministrem vnitra popisuje, že konsolidační balíček přinesl dvouprocentní snížení objemu prostředků na služební příjmy, ale ministr vnitra podle zápisu uvedl, že se podařilo <i>„prosadit vrácení tohoto dvouprocentního snížení služebních příjmů u příslušníků v rezortu Ministerstva vnitra a tedy plní svůj slib, že oproti roku 2023 v roce 2024 služební příjmy nepoklesnou“</i>. Tento závěr je uveden v materiálu <a href=\"https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/\">Odborového svazu policie</a>. Ministerstvo vnitra samo pak v souvislosti s pozdějším vyjednáváním o růstu platů připomíná, že v roce 2024 se podařilo „vrátit 2 % na platech do rozpočtu“, aby platy policistů a hasičů zůstaly nominálně stejné, jak píše v tiskové zprávě <a href=\"https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx\">Ministerstvo vnitra</a>.</p>\n\n<p>Z dostupných oficiálních a odborových zdrojů tedy vyplývá, že mezi roky 2023 a 2024 nedošlo u příslušníků bezpečnostních sborů v gesci Ministerstva vnitra k plošnému snížení tarifních (služebních) platů. Druhá část výroku se proto nemůže opírat o změnu samotných tabulkových platů.</p>\n\n<p>V roce 2024 ale začala platit celostátní opatření konsolidačního balíčku, která snižují čistý příjem zaměstnanců obecně, tedy i příslušníků bezpečnostních sborů. Od 1. ledna 2024 musejí všichni zaměstnanci nově platit nemocenské pojištění ve výši 0,6 % z hrubé mzdy. Podle výpočtů na serveru Money.cz tak zaměstnanec s hrubým příjmem 20 tisíc korun odvádí na nemocenském 120 Kč měsíčně, při 30 tisících jde o 180 Kč, při 35 tisících o 210 Kč a při 50 tisících o 300 Kč. Tyto částky uvádí přehled dopadů nemocenského pojištění na serveru <a href=\"https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/\">Money.cz</a>. Server Peníze.cz pak shrnuje, že zaměstnanec s hrubou mzdou 30 tisíc korun dostane kvůli tomuto opatření „měsíčně o 180 korun méně“, jak uvádí text na stránce <a href=\"https://www.penize.cz/mzda-a-plat/442054-cista-mzda-2024-vladni-balicek-meni-nemocenske-pojisteni-a-progresivni-dan\">Penize.cz</a>.</p>\n\n<p>Typický příslušník bezpečnostního sboru s hrubým služebním příjmem okolo 30–40 tisíc korun tak skutečně kvůli novému nemocenskému pojištění přichází na čisté mzdě řádově o 180 až 240 korun měsíčně, tedy o částku vyšší než 150 korun. Současně ale konsolidační balíček zrušil nebo omezil některé daňové slevy, například tzv. školkovné či slevu na manžela, což podle přehledů daňových změn na serveru <a href=\"https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/\">Money.cz</a> znamená pro některé rodiny ztrátu tisíců korun ročně. Další úsporná opatření se dotkla i Fondu kulturních a sociálních potřeb, z něhož se hradí část benefitů, jak popisuje odborný komentář k FKSP na webu <a href=\"https://skoleniproucetni.cz/konsolidacni-balicek-a-fksp/\">skoleniproucetni.cz</a>. To všechno reálnou finanční situaci příslušníků dále zhoršuje.</p>\n\n<p>Tyto změny však platí plošně pro všechny zaměstnance v České republice a nejsou přímým důsledkem toho, že se snížila kapitola rozpočtu Ministerstva vnitra o zhruba dvě miliardy. Jde o fiskální opatření, která přijala vláda v daňových a odvodových zákonech, nikoli o vnitřní rozhodnutí Ministerstva vnitra, jak naložit s vlastní kapitolou. Výrok proto zavádějícím způsobem spojuje dvě různé věci: meziroční zmenšení rozpočtu ministerstva a celostátní změny, které ovlivnily čisté příjmy zaměstnanců.</p>\n\n<p>Navíc se nám v dostupných oficiálních a odborových materiálech ani v relevantním mediálním zpravodajství nepodařilo dohledat podklad, který by přesně říkal, že v důsledku rozpočtového krácení u Ministerstva vnitra „došlo k propadu platu minimálně o 150 korun u každého příslušníka“. Odbory naopak zdůrazňují dlouhodobý propad reálných příjmů o desítky procent, nikoli jednotnou nominální částku na osobu. Číslo 150 korun tak spíše odpovídá odhadu dopadu nemocenského pojištění u nižších mezd podle výpočtů na serveru <a href=\"https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/\">Money.cz</a>, než oficiálním údajům o služebních platech v bezpečnostních sborech.</p>\n\n<p>První část výroku, podle níž je rozpočet Ministerstva vnitra pro rok 2024 přibližně o dvě miliardy nižší než v roce 2023, je tedy věcně správná, i když zjednodušující v tom, že mluví o „vzatie“ peněz, ačkoli jde o meziroční rozdíl schválených rozpočtů. Druhá část, která tvrdí, že v důsledku tohoto kroku došlo k plošnému snížení platu minimálně o 150 korun u každého příslušníka bezpečnostních sborů, neodpovídá dostupným datům o tarifních platech a navíc nepřesně připisuje dopady celostátních daňových a odvodových změn přímo rozpočtu Ministerstva vnitra. Jako celek proto výrok hodnotíme jako zavádějící.</p>\n\n<p>Závěrem shrnujeme, že meziroční pokles rozpočtu kapitoly Ministerstva vnitra o zhruba 2,3 miliardy korun je doložen oficiálními rozpočtovými dokumenty. Nominální tarify příslušníků bezpečnostních sborů se však mezi roky 2023 a 2024 nesnížily; zhoršení čistých příjmů je důsledkem obecných daňových a odvodových změn a omezení benefitů, nikoli přímým a plošným „sebráním“ části platů kvůli dvoumiliardovému škrtnutí rozpočtu ministerstva. Proto je výsledné hodnocení výroku: zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0b29469688acc98100699897cfbbf881a39837a53381f1a9cb",
+    "created_at": 1771608015.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0b29469688acc98100699897dbace881a3b19822a89d284a26",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699897e6ccc081a3b3c3f688b8b2bf0e",
+        "action": {
+          "query": "rozpočet ministerstva vnitra 2024 snížení o dvě miliardy platové tarify policistů 150 korun 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "rozpočet ministerstva vnitra 2024 snížení o dvě miliardy platové tarify policistů 150 korun 2024",
+            "\"propadu minimálně o 150 korun\" policisté 2024",
+            "\"vzala z rozpočtu ministerstva vnitra\" dvě miliardy",
+            "2024 rozpočet kapitola Ministerstvo vnitra meziroční změna 2023 2024 platy bezpečnostní sbory"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699897ea623c81a3955491b06c4a9906",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699897ea84f081a38d96a374e8aa02a9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699897eb3e6c81a388b6154993379516",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699897ec2a9c81a3960aa8424a3cfc6d",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Ministerstvo vnitra"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699897ed614081a3b26c080aaf00d0aa",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699897f0c95c81a380828986fd5dbf7d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699897f1a56881a39dea4465a90e8d51",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699897f20d6481a3b941ff85f2d78955",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "V návrhu státního rozpočtu na rok 2024"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699897fa88b081a3b82a4188ba77e94c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc981006998980ff6e881a3adbc39ef42b47643",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc9810069989819a2c081a3b6800f7bee692bc8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc9810069989819d54c81a3aecbbbe8b89e6464",
+        "action": {
+          "query": "propad 150 korun policistu 2024 sluzebni prijmy",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "propad 150 korun policistu 2024 sluzebni prijmy",
+            "policistům se snížil plat o 150 korun 2024",
+            "\"150 korun\" \"sluzebni prijmy\" \"bezpecnostnich sboru\"",
+            "\"150 Kč\" \"slýužbní příjem\" 2024 policie"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898207f2481a393c23d64b41990ea",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc9810069989823923481a387555604c526f68a",
+        "action": {
+          "query": "\"propadu o 150 korun\" policistů",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"propadu o 150 korun\" policistů",
+            "\"150 korun\" \"skolkovne\" policiste",
+            "\"o 150 korun\" \"príslušníků bezpečnostních sborů\"",
+            "\"propu z platu\" 150 Kč policie 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc9810069989827d31881a39c854b5b7e005913",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699898285f3481a38fdedd5cde99b713",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc981006998982aed8c81a3bd342016013a8a90",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc981006998982b1d8081a3be3b3797c18d0fcf",
+        "action": {
+          "query": "\"150 Kč\" \"policistů\" \"platy\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"150 Kč\" \"policistů\" \"platy\"",
+            "\"o 150 korun méně\" \"policistů\"",
+            "snižení platu policistů 2024",
+            "2024 \"sluzebni prijem\" \"policie\" pokles"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc981006998982f738081a3954c73fb2be9168d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc9810069989833a9dc81a38c17a9ce5912fdcb",
+        "action": {
+          "query": "\"vracel 2 % na platech\" 2024 policistu",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"vracel 2 % na platech\" 2024 policistu",
+            "\"2 % na platech\" \"bezpečnostních sborů\"",
+            "\"o 2 %\" \"sluzebni prijmy\" policistu 2024",
+            "\"vraceli 2 procenta\" \"platy\" policistu 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898369dfc81a3921655d4fe3288e4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc9810069989838728c81a3a7183a0befae5ae1",
+        "action": {
+          "query": "\"vracel 2 % na platech do rozpoctu\" \"policistu\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"vracel 2 % na platech do rozpoctu\" \"policistu\"",
+            "\"vracel 2 %\" \"policistů\" \"rozpočet\"",
+            "\"2 % na platech\" policistů 2024 \"rozpočet\"",
+            "2023 2024 \"sluzebni prijmy\" \"2 %\" \"bezpecnostnich sboru\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc981006998983d164c81a3ba2ae33f628c84c9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc981006998983f93c881a3a2fb07bb086c455c",
+        "action": {
+          "query": "2024 platy policistu hasicu 2 % 2024 \"rozpocet\" ministerstva vnitra 1,95 mld",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "2024 platy policistu hasicu 2 % 2024 \"rozpocet\" ministerstva vnitra 1,95 mld",
+            "\"vracel 2 % na platech do rozpoctu\" \"V roce 2024\" \"Ministerstvo vnitra\"",
+            "\"2 %\" \"platy policistů\" \"2024\" \"ministerstvo vnitra\"",
+            "\"1,95 mld\" \"Ministerstvo vnitra\" 2024 platy"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc9810069989845cfd881a3b3ed9fb868fcee8c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc981006998984b8cdc81a384178f13b89b1b0c",
+        "action": {
+          "query": "\"prisli o skolkovne\" policiste 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"prisli o skolkovne\" policiste 2024",
+            "\"skolkovne\" \"bezpecnostnich sboru\" 2024",
+            "\"benefity\" policistu\" 2024\" \"prisli o\"",
+            "2024 \"skolkovne\" \"danova sleva\" zruseni konsolidacni balicek"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc9810069989850238c81a38bedf34530fd9b94",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc981006998985a43e881a38e0fcec154c3cf70",
+        "action": {
+          "query": "\"Ministerstvo vnitra\" \"dvě miliardy\" 2024 rozpočet",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Ministerstvo vnitra\" \"dvě miliardy\" 2024 rozpočet",
+            "\"z rozpoctu ministerstva vnitra\" \"dvě miliardy\"",
+            "\"kapitoly 314\" snizeni o 2 mld 2024",
+            "vlada snizila rozpočet ministerstva vnitra o 2 mld 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc981006998985dd96081a3a780517d1c593acd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc981006998985efb5481a38a013207f44782c6",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898609b9c81a3b212b87bac0a85be",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc9810069989869b59881a3aa651cc798377aae",
+        "action": {
+          "query": "\"Policisté, hasiči i dozorci přijdou o benefity\" 150 korun",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Policisté, hasiči i dozorci přijdou o benefity\" 150 korun",
+            "\"prijdou o benefity\" \"policiste\" 2024",
+            "pripady \"jidelna\" \"stravne\" policistu 150 Kc 2024",
+            "2024 zruseni prispevku na stravne policistu 150 Kc"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc981006998986d9adc81a38cb98fc3e8aa18f3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc981006998987085f081a3884211e347cf7689",
+        "action": {
+          "query": "\"150 korun\" \"stabilizacni\" \"priplatek\" policistu",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"150 korun\" \"stabilizacni\" \"priplatek\" policistu",
+            "\"prijdou o skolkovne a dalsi benefity\" policiste 2024",
+            "\"prijdu o\" \"prispevek na stravne\" \"policie\" 2024",
+            "2024 zastaveni prispevku na stravne pro policisty 70 Kc 100 Kc"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc981006998987591f081a3a7893b37d5b44be7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699898787c9881a3a5f9c508422b6f05",
+        "action": {
+          "query": "\"propad\" \"sluzebni prijmy\" \"bezpecnostnich sboru\" 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"propad\" \"sluzebni prijmy\" \"bezpecnostnich sboru\" 2024",
+            "\"150 korun\" \"hlediska\" \"policie\" \"benefity\"",
+            "\"150 korun\" \"policie\" \"benefity\"",
+            "\"u kazdeho prislusnika\" \"150\" korun"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898817a6c81a3a31ba886653f515e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc981006998988252b081a381af505e899e9e33",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898894b4081a3917ecd50077ba7dc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc9810069989889c24081a3ab152ba7d06bee55",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc981006998988f19f081a388cdb1facbbcb391",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc981006998989c1bbc81a3966e0a895de707e1",
+        "action": {
+          "query": "\"platy policistu\" 2024 \"neklesaji\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"platy policistu\" 2024 \"neklesaji\"",
+            "\"sluzebni prijmy\" \"nepoklesnou\" 2024 \"ministerstvo vnitra\"",
+            "\"propad\" \"reálných příjmů\" policistů 2024",
+            "\"o 150\" \"sluzebni prijem\" 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898a1924081a387db1ecd19742b40",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699898a8660481a3a1e2c0d17377dab7",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898ab8ea081a3b9f18b5cb0596152",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699898abcf6081a398e6628efcafd41f",
+        "action": {
+          "query": "0,6 % nemocenske pojisteni zamestnancu od 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "0,6 % nemocenske pojisteni zamestnancu od 2024",
+            "zamestnanci budou platit nemocenske pojisteni 0,6 2024 dopad na cisty prijem",
+            "od roku 2024 budou zamestnanci platit nemocenske pojisteni 0,6 existuje odhad kolik kc to cini",
+            "konsolidacni balicek 2024 zamestnanci plati nemocenske 0,6 % dopad na mzdu"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898b36f7081a39c8d3b6b8242b37b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699898cd91a881a38c8bddbf64b04734",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898d5911c81a3b8878ee8e3d0e423",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699898d611e481a3b61c3b43b2faee80",
+        "action": {
+          "query": "\"0,6 %\" \"policistu\" 2024 nemocenske",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"0,6 %\" \"policistu\" 2024 nemocenske",
+            "nemocenske pojisteni policistu 0,6 2024",
+            "plat policistu od roku 2024 nemocenske pojisteni",
+            "policiste nemocenske pojisteni 0,6 2024 bezpecnostni sbory"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898dbbc7881a3a06c1fa885c0b924",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699898e1326481a3b41f23988ef45db3",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898e5d98481a3a0f77c5125076120",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699898e602dc81a3980a69de7384a69f",
+        "action": {
+          "query": "\"nařízení vlády\" \"stupnice základních tarifů\" \"příslušníků bezpečnostních sborů\" 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nařízení vlády\" \"stupnice základních tarifů\" \"příslušníků bezpečnostních sborů\" 2023",
+            "\"stupnice základních tarifů prislusniku bezpecnostnich sboru\" 2024",
+            "základní tarify prislusniku bezpecnostnich sboru od 1. ledna 2024",
+            "\"Nařízení vlády č.\" \"Sluzebni taryfy\" \"bezpecnostnich sboru\" 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898ec665c81a3966bea5f49da32ec",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699898f2c6c881a38f850b711f8d1a83",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898f5e7d081a3b986541adef1dbc0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b29469688acc98100699898f603d481a3939aba563f2c39fe",
+        "action": {
+          "query": "konsolidacni balicek fksp 1 % 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "konsolidacni balicek fksp 1 % 2024",
+            "snizeni pridelu do FKSP na 1 % 2024",
+            "\"fond kulturnich a socialnich potreb\" 1 procento 2024",
+            "\"FKSP\" \"1 %\" 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b29469688acc98100699898fc3b2081a3a432f79eb6bc60d7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0b29469688acc9810069989929b32881a3a043cf4bd0d5821b",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1417,
+                "start_index": 1290,
+                "title": "Státní rozpočet pro rok 2024 míří do třetího čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137"
+              },
+              {
+                "end_index": 1935,
+                "start_index": 1818,
+                "title": "Přehledně: Výdaje jednotlivých kapitol státního rozpočtu 2024 - fintag.cz",
+                "type": "url_citation",
+                "url": "https://www.fintag.cz/2023/09/01/vydaje-jednotlivych-kapitol-statniho-rozpoctu-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 2394,
+                "start_index": 2240,
+                "title": "▶ Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704"
+              },
+              {
+                "end_index": 3105,
+                "start_index": 3016,
+                "title": "Může rozhodnutí o krácení ohrozit vnitřní bezpečnost? - NOS PČR",
+                "type": "url_citation",
+                "url": "https://www.nospcr.cz/muze-rozhodnuti-snemovny-ohrozit-vnitrni-bezpecnost/"
+              },
+              {
+                "end_index": 4237,
+                "start_index": 4110,
+                "title": "Státní rozpočet pro rok 2024 míří do třetího čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137"
+              },
+              {
+                "end_index": 5386,
+                "start_index": 5232,
+                "title": "▶ Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704"
+              },
+              {
+                "end_index": 6127,
+                "start_index": 6053,
+                "title": "Jednání s ministrem vnitra dne 6. 11. 2023 - NOS PČR",
+                "type": "url_citation",
+                "url": "https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/"
+              },
+              {
+                "end_index": 7039,
+                "start_index": 6915,
+                "title": "Všem policistům i hasičům vzrostou příští rok platy o 2500 Kč - Ministerstvo vnitra České republiky",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 8144,
+                "start_index": 8063,
+                "title": "Sociální pojištění v roce 2024 | MPSV",
+                "type": "url_citation",
+                "url": "https://www.mpsv.cz/socialni-pojisteni-v-roce-2024?utm_source=openai"
+              },
+              {
+                "end_index": 8366,
+                "start_index": 8212,
+                "title": "Konsolidační balíček: nemocenské pojištění u zaměstnanců od 1. 1. 2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 8732,
+                "start_index": 8584,
+                "title": "Čistá mzda 2024. Vládní balíček mění nemocenské pojištění a progresivní daň | Peníze.cz",
+                "type": "url_citation",
+                "url": "https://www.penize.cz/mzda-a-plat/442054-cista-mzda-2024-vladni-balicek-meni-nemocenske-pojisteni-a-progresivni-dan?utm_source=openai"
+              },
+              {
+                "end_index": 9362,
+                "start_index": 9221,
+                "title": "Konsolidační balíček: zrušení daňových slev u fyzických osob od 1.1.2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 9789,
+                "start_index": 9649,
+                "title": "Zrušením školkovného i dalších daňových slev ztrácí Češi tisíce korun - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/finance/dane/dane-slevy-2024-rodiny-skolkovne-student-novinky.A240122_093051_p_dane_sov?utm_source=openai"
+              },
+              {
+                "end_index": 10301,
+                "start_index": 10227,
+                "title": "Jednání s ministrem vnitra dne 6. 11. 2023 - NOS PČR",
+                "type": "url_citation",
+                "url": "https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/"
+              },
+              {
+                "end_index": 10660,
+                "start_index": 10586,
+                "title": "Jednání s ministrem vnitra dne 6. 11. 2023 - NOS PČR",
+                "type": "url_citation",
+                "url": "https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/"
+              },
+              {
+                "end_index": 11163,
+                "start_index": 11009,
+                "title": "▶ Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704"
+              },
+              {
+                "end_index": 11746,
+                "start_index": 11582,
+                "title": "Odbory chtějí vyjednat navýšení platů policistů, hasičů či vězeňské služby. Jinak hrozí protesty | Radiožurnál",
+                "type": "url_citation",
+                "url": "https://radiozurnal.rozhlas.cz/odbory-chteji-vyjednat-navyseni-platu-policistu-hasicu-ci-vezenske-sluzby-jinak-9297527?utm_source=openai"
+              },
+              {
+                "end_index": 12050,
+                "start_index": 11897,
+                "title": "Stovky policistů odejdou, čekejte velké protesty, hrozí odbory kvůli platům - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-stovky-policistu-odejdou-cekejte-velke-protesty-hrozi-odbory-kvuli-platum-40482088?utm_source=openai"
+              },
+              {
+                "end_index": 12881,
+                "start_index": 12727,
+                "title": "▶ Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704"
+              },
+              {
+                "end_index": 13388,
+                "start_index": 13234,
+                "title": "Konsolidační balíček: nemocenské pojištění u zaměstnanců od 1. 1. 2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 14066,
+                "start_index": 13912,
+                "title": "▶ Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704"
+              },
+              {
+                "end_index": 14408,
+                "start_index": 14254,
+                "title": "Konsolidační balíček: nemocenské pojištění u zaměstnanců od 1. 1. 2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 14642,
+                "start_index": 14501,
+                "title": "Konsolidační balíček: zrušení daňových slev u fyzických osob od 1.1.2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 14871,
+                "start_index": 14772,
+                "title": "Konsolidační balíček a FKSPskoleniproucetni",
+                "type": "url_citation",
+                "url": "https://skoleniproucetni.cz/konsolidacni-balicek-a-fksp/?utm_source=openai"
+              },
+              {
+                "end_index": 15786,
+                "start_index": 15632,
+                "title": "Konsolidační balíček: nemocenské pojištění u zaměstnanců od 1. 1. 2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 16471,
+                "start_index": 16307,
+                "title": "Odbory chtějí vyjednat navýšení platů policistů, hasičů či vězeňské služby. Jinak hrozí protesty | Radiožurnál",
+                "type": "url_citation",
+                "url": "https://radiozurnal.rozhlas.cz/odbory-chteji-vyjednat-navyseni-platu-policistu-hasicu-ci-vezenske-sluzby-jinak-9297527?utm_source=openai"
+              },
+              {
+                "end_index": 17075,
+                "start_index": 16948,
+                "title": "Státní rozpočet pro rok 2024 míří do třetího čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137"
+              },
+              {
+                "end_index": 17781,
+                "start_index": 17627,
+                "title": "▶ Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704"
+              },
+              {
+                "end_index": 18202,
+                "start_index": 18048,
+                "title": "Konsolidační balíček: nemocenské pojištění u zaměstnanců od 1. 1. 2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 18806,
+                "start_index": 18679,
+                "title": "Státní rozpočet pro rok 2024 míří do třetího čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137"
+              },
+              {
+                "end_index": 19065,
+                "start_index": 18911,
+                "title": "▶ Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704"
+              },
+              {
+                "end_index": 19283,
+                "start_index": 19194,
+                "title": "Může rozhodnutí o krácení ohrozit vnitřní bezpečnost? - NOS PČR",
+                "type": "url_citation",
+                "url": "https://www.nospcr.cz/muze-rozhodnuti-snemovny-ohrozit-vnitrni-bezpecnost/"
+              },
+              {
+                "end_index": 19525,
+                "start_index": 19451,
+                "title": "Jednání s ministrem vnitra dne 6. 11. 2023 - NOS PČR",
+                "type": "url_citation",
+                "url": "https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/"
+              },
+              {
+                "end_index": 19832,
+                "start_index": 19708,
+                "title": "Všem policistům i hasičům vzrostou příští rok platy o 2500 Kč - Ministerstvo vnitra České republiky",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 20130,
+                "start_index": 19976,
+                "title": "Konsolidační balíček: nemocenské pojištění u zaměstnanců od 1. 1. 2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 20451,
+                "start_index": 20303,
+                "title": "Čistá mzda 2024. Vládní balíček mění nemocenské pojištění a progresivní daň | Peníze.cz",
+                "type": "url_citation",
+                "url": "https://www.penize.cz/mzda-a-plat/442054-cista-mzda-2024-vladni-balicek-meni-nemocenske-pojisteni-a-progresivni-dan?utm_source=openai"
+              },
+              {
+                "end_index": 20731,
+                "start_index": 20590,
+                "title": "Konsolidační balíček: zrušení daňových slev u fyzických osob od 1.1.2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 20939,
+                "start_index": 20840,
+                "title": "Konsolidační balíček a FKSPskoleniproucetni",
+                "type": "url_citation",
+                "url": "https://skoleniproucetni.cz/konsolidacni-balicek-a-fksp/?utm_source=openai"
+              },
+              {
+                "end_index": 21247,
+                "start_index": 21083,
+                "title": "Odbory chtějí vyjednat navýšení platů policistů, hasičů či vězeňské služby. Jinak hrozí protesty | Radiožurnál",
+                "type": "url_citation",
+                "url": "https://radiozurnal.rozhlas.cz/odbory-chteji-vyjednat-navyseni-platu-policistu-hasicu-ci-vezenske-sluzby-jinak-9297527?utm_source=openai"
+              }
+            ],
+            "text": "## Shrnutí tvrzení a jeho interpretace\n\nZ citované pasáže vyplývá tvrzení:\n\n> „V minulém období v roce 2024 vzala předchozí vláda z rozpočtu Ministerstva vnitra dvě miliardy a došlo k propadu (platu) minimálně o 150 korun u každého příslušníka (bezpečnostních sborů).“\n\nNejpravděpodobnější, fakticky ověřitelná interpretace:\n\n1. **Rozpočtová část tvrzení**  \n   – Mezi roky 2023 a 2024 došlo ke **snížení rozpočtu kapitoly 314 – Ministerstvo vnitra (MV ČR)** zhruba o 2 mld Kč v důsledku rozpočtu připraveného „předchozí vládou“ (vládou Petra Fialy).\n\n2. **Mzdová část tvrzení**  \n   – V důsledku těchto kroků došlo v roce 2024 u **každého příslušníka bezpečnostních sborů** (policisté, hasiči atd. v gesci MV) k **poklesu platu alespoň o 150 Kč**.\n\nNíže jsou obě části rozebrány zvlášť včetně důkazů, protidůkazů a možných alternativních interpretací.\n\n---\n\n## Dílčí tvrzení 1: „Předchozí vláda vzala z rozpočtu Ministerstva vnitra v roce 2024 dvě miliardy“\n\n### Důkazy o vývoji rozpočtu MV mezi 2023 a 2024\n\n**1. Ministerstvo financí – návrh státního rozpočtu 2024 (oficiální tabulka kapitol)**  \n\nTisková zpráva MF k návrhu státního rozpočtu na rok 2024 uvádí tabulku „Celkové výdaje státního rozpočtu podle kapitol“ (v Kč). U kapitoly 314 – Ministerstvo vnitra jsou uvedeny tyto částky:([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137))  \n\n- **Státní rozpočet 2023**: 99 733 224 285 Kč  \n- **Státní rozpočet 2024**: 97 446 613 586 Kč  \n\nRozdíl činí zhruba **2,29 miliardy Kč** (cca 2,3 mld). To znamená, že **rozpočet kapitoly MV je v roce 2024 zhruba o 2,3 mld nižší než v roce 2023**.\n\nStejná čísla shrnuje i přehled kapitol státního rozpočtu 2024 na serveru Fintag (Ministerstvo vnitra: 99,7 mld v roce 2023 vs. 97,4 mld v roce 2024).([fintag.cz](https://www.fintag.cz/2023/09/01/vydaje-jednotlivych-kapitol-statniho-rozpoctu-2024/?utm_source=openai))\n\n**2. ČT24 – shrnutí politické debaty o rozpočtu (6. ledna 2024)**  \n\nV televizní reportáži ČT24 „Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů“ se popisují dopady rozpočtu na bezpečnostní sbory. Reportáž mj. cituje opoziční poslankyni Janu Mračkovou Vildumetzovou (ANO):([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n\n- „… jestli si **ministerstvo obrany vybojuje 39 miliard navíc a ministerstvo vnitra si vybojuje minus 2,2 miliardy**, tak to svědčí o všem“.  \n\nFormulace „minus 2,2 miliardy“ jasně odkazuje na **meziroční pokles rozpočtu MV** v řádu zhruba 2,2 mld Kč – číslo odpovídá údajům Ministerstva financí výše.\n\n**3. Odborový svaz policie (NOS PČR) – krácení služebních příjmů v návrhu rozpočtu 2024**\n\nAnalýza NOS PČR „Může rozhodnutí o krácení ohrozit vnitřní bezpečnost?“ rozebírá vládní **návrh** rozpočtu na rok 2024. U kapitoly 314 (MV ČR) uvádí pro položku „služební příjmy příslušníků ve služebním poměru“ tyto částky:([nospcr.cz](https://www.nospcr.cz/muze-rozhodnuti-snemovny-ohrozit-vnitrni-bezpecnost/))  \n\n- 2023: 33 746 501 754 Kč  \n- návrh 2024: 33 049 019 271 Kč  \n\nPokles cca **697 mil. Kč (−2,1 %)** v samotné položce služebních příjmů (nikoli celé kapitoly). Zároveň text připomíná, že krácení se týká i platů civilních zaměstnanců a provozních výdajů.\n\n### Protiargumenty / upřesnění\n\n- **Pokles rozpočtu neznamená, že „během roku 2024 vláda sebrala dvě miliardy“**, ale že **schválený rozpočet 2024 byl o ~2,3 mld nižší než schválený rozpočet 2023**. Rozhodnutí padlo při přípravě a schvalování rozpočtu (zákon č. 433/2023 Sb. o státním rozpočtu na rok 2024), nikoli dodatečně v průběhu roku.\n- Část původně plánovaného krácení prostředků na **služební příjmy** byla podle pozdějších jednání MV a odborů pro bezpečnostní sbory zčásti korigována (viz další dílčí tvrzení).\n\n### Předběžné hodnocení dílčího tvrzení 1\n\n- Údaje Ministerstva financí a mediální i odborové zdroje **potvrzují**, že rozpočet kapitoly Ministerstva vnitra pro rok 2024 je **přibližně o 2,2–2,3 mld Kč nižší** než v roce 2023.([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137))  \n- Formulace „vzala z rozpočtu MV dvě miliardy“ tedy zhruba odpovídá realitě, pokud se chápe jako **meziroční pokles kapitoly 314** v důsledku rozpočtu prosazeného předchozí vládou.\n\n---\n\n## Dílčí tvrzení 2: „… a došlo k propadu (platu) minimálně o 150 korun u každého příslušníka“\n\nToto tvrzení vyvolává několik otázek:\n\n1. Mluví se o **hrubém služebním příjmu / tarifu**, nebo o **čistém příjmu po odvodech a daních**?  \n2. Vztahuje se „propad“ na **nominální částky** (tj. méně korun na výplatní pásce než v roce 2023), nebo na **reálné příjmy** (očištěné o inflaci)?  \n3. Je pokles přímo **následkem rozpočtového krácení MV o 2 mld**, nebo jiných opatření (konsolidační balíček, nemocenské pojištění, zrušení daňových slev a benefitů)?\n\n### 2a) Byly v roce 2024 nominálně sníženy platy (tarify) příslušníků bezpečnostních sborů?\n\n**1. ČT24 (6. 1. 2024) – platy neklesají, kráceny jsou benefity a provoz**\n\nVe stejné reportáži ČT24, která popisuje rozpočtové krácení, je explicitně uvedeno:([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n\n- „**Platy policistů, hasičů a vězeňských dozorců sice neklesají**, nyní ale příslušníci těchto sborů přijdou o některé benefity nebo investice.“  \n- Dále: „… po vyjednávání o státním rozpočtu **nemuseli plošně snižovat mzdy o dvě procenta**.“\n\nTo znamená, že:\n\n- Původní vládní záměr byl **snížit objem prostředků na platy bezpečnostních sborů o 2 %**,  \n- ale po vyjednávání se **plošné dvouprocentní snížení tarifů neuskutečnilo** a **nominální platy zůstaly na úrovni roku 2023**.  \n\n**2. NOS PČR – jednání s ministrem vnitra 6. 11. 2023**\n\nZápis z jednání odborů bezpečnostních sborů s ministrem vnitra Vítem Rakušanem popisuje dopady konsolidačního balíčku:([nospcr.cz](https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/))  \n\n- Vládní balíček „přinesl **dvouprocentní snížení objemu finančních prostředků na služební příjem příslušníků bezpečnostních sborů**“.  \n- Ministr však uvedl, že se podařilo „**prosadit vrácení tohoto dvouprocentního snížení služebních příjmů u příslušníků v rezortu ministerstva vnitra**, a tedy plní svůj slib, že oproti roku 2023 v roce 2024 služební příjmy nepoklesnou.“\n\nOdborový svaz tedy potvrzuje, že:\n\n- dvouprocentní škrty v objemu mzdových prostředků byly **vztaženy zpět**,  \n- **služební příjmy (tarifní platy) příslušníků MV se mezi roky 2023 a 2024 nominálně nesnížily**.\n\n**3. Ministerstvo vnitra / Ekonomický deník – shrnutí vyjednávání**\n\nTisková zpráva MV a její shrnutí v Ekonomickém deníku k pozdějšímu (2024) vyjednávání o růstu platů pro roky 2025+ uvádějí, že:([mv.gov.cz](https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx?utm_source=openai))  \n\n- „V roce **2024 se i v ekonomicky složité době podařilo prosadit návrh, který vracel 2 % na platech do rozpočtu**, a tak **zajistit, aby platy policistů a hasičů zůstaly na stejné úrovni**.“  \n\nToto tvrzení MV koresponduje s informacemi z NOS PČR a ČT24.\n\n**Závěr k 2a:**  \nPodle oficiálních vyjádření **nedošlo v roce 2024 k nominálnímu poklesu tarifních platů příslušníků bezpečnostních sborů v gesci MV oproti roku 2023**. Dvouprocentní škrty, které konsolidační balíček původně předpokládal, byly pro tyto sbory v rámci MV „vráceny“.\n\n### 2b) Dopady konsolidačního balíčku na **čistý příjem** příslušníků (nové odvody a daně)\n\nAčkoli tarify formálně neklesly, v roce 2024 vstoupila v platnost řada opatření, která **snižují čistý příjem zaměstnanců obecně**, tedy i příslušníků bezpečnostních sborů:\n\n#### a) Nemocenské pojištění zaměstnanců (0,6 % z hrubé mzdy)\n\nOd 1. 1. 2024 začali zaměstnanci poprvé platit **nemocenské pojištění ve výši 0,6 %** z vyměřovacího základu (dříve ho za ně platil jen zaměstnavatel).([mpsv.cz](https://www.mpsv.cz/socialni-pojisteni-v-roce-2024?utm_source=openai))  \n\nPodrobný výpočet Money.cz ukazuje, o kolik to sníží čistou mzdu:([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n\n- při hrubé mzdě 20 000 Kč je nová srážka **120 Kč/měsíc**,  \n- při 30 000 Kč je to **180 Kč/měsíc**,  \n- při 35 000 Kč **210 Kč/měsíc**,  \n- při 50 000 Kč **300 Kč/měsíc**.  \n\nServer Peníze.cz shrnuje dopad takto:([penize.cz](https://www.penize.cz/mzda-a-plat/442054-cista-mzda-2024-vladni-balicek-meni-nemocenske-pojisteni-a-progresivni-dan?utm_source=openai))  \n\n- „Kdo si vydělává **30 tisíc hrubého, dostane kvůli zvýšení nemocenského pojištění od roku 2024 měsíčně o 180 korun méně než dosud**.“  \n\nTypický policista nebo hasič s hrubým služebním příjmem okolo 30–40 tisíc Kč tak čistě z titulu zavedení nemocenského pojištění **přichází každý měsíc o cca 180–240 Kč**, tedy o částku **vyšší než 150 Kč**.\n\n#### b) Zrušení daňové slevy na školkovné a dalších slev\n\nKonsolidační balíček zároveň od roku 2024 **zrušil několik daňových slev**, mj.:([money.cz](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai))  \n\n- **„školkovné“** (sleva za umístění dítěte do MŠ), které v roce 2023 mohlo činit až 17 300 Kč ročně na jedno dítě,  \n- slevu na studenta,  \n- výrazně omezil slevu na manžela/manželku.\n\niDNES.cz k tomu uvádí, že zrušení školkovného znamená pro rodiny **„ztrátu tisíců korun ročně“**.([idnes.cz](https://www.idnes.cz/finance/dane/dane-slevy-2024-rodiny-skolkovne-student-novinky.A240122_093051_p_dane_sov?utm_source=openai))\n\nTyto slevy sice formálně nejsou součástí platu, ale **přímo snižují čistý roční příjem rodin** (včetně rodin policistů a hasičů). Pro příslušníka s malými dětmi mohl být dopad řádově v tisících korun ročně.\n\n#### c) Změny ve Fondu kulturních a sociálních potřeb (FKSP) a benefitech\n\nKonsolidační balíček také **snížil a změnil režim FKSP**, ze kterého jsou často hrazeny zaměstnanecké benefity (rekreace, příspěvek na stravování apod.):([nospcr.cz](https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/))  \n\n- **Základní příděl do FKSP klesl z 2 % na 1 %** objemu mzdových prostředků.  \n- Zároveň je povinnost **nejméně 50 % tohoto přídělu použít na produkty spoření na stáří**, což omezuje využitelnost fondu na „měkké“ benefity.  \n\nNOS PČR v zápisu z 6. 11. 2023 výslovně upozorňuje, že:([nospcr.cz](https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/))  \n\n- současné financování příspěvku na stravování bylo kombinací zaměstnavatele a FKSP,  \n- **FKSP je vládním úsporným balíčkem krácen** a část prostředků je vázána, což přímo ohrožuje rozsah poskytovaných benefitů.\n\nČT24 zase shrnuje, že **příslušníci přijdou o některé benefity** (např. stravování, další výhody), i když samotné tarify neklesají.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n\n#### d) Reálný (inflačně očištěný) propad příjmů\n\nOdbory dlouhodobě argumentují, že i přes formální zachování nominálních platů došlo u bezpečnostních sborů k výraznému **reálnému propadu příjmů**:  \n\n- Tomáš Machovič (NOS PČR) v rozhovoru pro Radiožurnál (22. 8. 2024) uvádí, že **propad reálných příjmů** příslušníků za předchozí tři roky se blíží **20 %**, u některých (např. dojíždějících do Prahy) až **23 %**.([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/odbory-chteji-vyjednat-navyseni-platu-policistu-hasicu-ci-vezenske-sluzby-jinak-9297527?utm_source=openai))  \n- Podobná čísla uvádí i další rozhovory a články (např. Novinky.cz, 29. 7. 2024 – „propad reálných příjmů přes dvacet procent, možná i pětadvacet“).([novinky.cz](https://www.novinky.cz/clanek/domaci-stovky-policistu-odejdou-cekejte-velke-protesty-hrozi-odbory-kvuli-platum-40482088?utm_source=openai))  \n\nTyto údaje se však týkají **reálné kupní síly** (mzdy vs. inflace), nikoli nominálního „150 Kč propadu“ mezi dvěma roky.\n\n### 2c) Existuje zdroj, který by přímo mluvil o „propadu minimálně o 150 Kč u každého příslušníka“?\n\n- V dostupných **oficiálních dokumentech (MF, MV, MPSV)** ani v **odborových materiálech** či v relevantních médiích **se nepodařilo dohledat tvrzení**, že by v roce 2024 došlo k **plošnému snížení platu každého příslušníka bezpečnostních sborů o minimálně 150 Kč** v důsledku krácení rozpočtu MV o 2 mld Kč.\n- Naopak, výše citované zdroje opakovaně zdůrazňují, že:  \n  - **tarify / služební příjmy nominálně neklesly** (zůstaly na úrovni roku 2023),([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n  - „propad“ se týká spíše **čisté mzdy** (nové odvody, zrušení slev) a **reálných příjmů** (inflace) i zhoršení benefitů.\n\nJediné číselné údaje blízké hodnotě **150 Kč měsíčně** jsou:\n\n- **nemocenské pojištění 0,6 %** – u nižších mezd (20–25 tis. Kč) je měsíční odvod **120–150 Kč**, u typických platů policistů (30–35 tis. Kč) spíše **180–210 Kč**;([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n- různé dílčí změny benefitů (např. příspěvek na stravování), kde ale částky nejsou centralizovaně stanovené a liší se podle zaměstnavatele; **žádný jednotný údaj „−150 Kč na osobu“ pro příslušníky bezpečnostních sborů se nepodařilo dohledat**.\n\n### Předběžné hodnocení dílčího tvrzení 2\n\n- **Nominální platy (služební tarify) příslušníků bezpečnostních sborů v gesci MV se v roce 2024 oproti roku 2023 nesnížily** – naopak se vláda chlubila, že se podařilo **zabránit plánovanému 2% snížení objemu prostředků na platy**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n- Na úrovni **čistého příjmu** ale konsolidační balíček zavedl:\n  - nový odvod nemocenského pojištění 0,6 % z hrubé mzdy (pro typické platy policistů jde o **180–300 Kč měsíčně méně**),([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n  - zrušení některých daňových slev (např. školkovné) a omezení slevy na manžela/manželku,([money.cz](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai))  \n  - snížení přídělu do FKSP z 2 % na 1 % a částečné povinné vázání prostředků na spoření na stáří, což omezilo rozsah benefitů.([skoleniproucetni.cz](https://skoleniproucetni.cz/konsolidacni-balicek-a-fksp/?utm_source=openai))  \n- Z těchto důvodů lze říci, že **čistý měsíční příjem typického příslušníka se v roce 2024 snížil alespoň o cca 150 Kč** (ve skutečnosti často spíše o 180–200 Kč jen kvůli nemocenskému), ale:  \n  - **nejde o snížení vyvolané konkrétně „sebráním dvou miliard z rozpočtu MV“**,  \n  - a už vůbec ne o snížení **tarifního platu** – to vyplývá z **celostátních daňových a odvodových změn**, které dopadly na všechny zaměstnance v ČR, nejen na bezpečnostní sbory.\n\n---\n\n## Alternativní interpretace a kontext\n\n1. **„Propad o 150 Kč“ jako zkratka pro dopad nemocenského pojištění**  \n   – Z ekonomických analýz vyplývá, že **zaměstnanec s hrubou mzdou kolem 25 tisíc Kč** přichází kvůli 0,6% nemocenskému přibližně o **150 Kč měsíčně**, u vyšších mezd dokonce více.([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n   – Je možné, že Metnar číslo „150 Kč“ převzal z tohoto obecného odhadu, ovšem pak:\n     - nejde o důsledek **snížení rozpočtu MV o 2 mld**,  \n     - a **nejde o „plat“ ve smyslu tarifního služebního příjmu**, ale o **čistý příjem po odvodech**.\n\n2. **„Propad“ jako reálný (inflačně očištěný) pokles**  \n   – Odbory dlouhodobě upozorňují na **20–25% propad reálných příjmů příslušníků bezpečnostních sborů za poslední dva–tři roky**, ale takový pokles se nijak nepřeklápí do jednoduchého lineárního „−150 Kč měsíčně“.([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/odbory-chteji-vyjednat-navyseni-platu-policistu-hasicu-ci-vezenske-sluzby-jinak-9297527?utm_source=openai))  \n   – Metnarovo spojení „dvě miliardy z rozpočtu MV“ a „−150 Kč každému příslušníkovi“ proto působí spíše jako politická zkratka než jako údaj opřený o konkrétní oficiální výpočty.\n\n---\n\n## Závěrečné shrnutí pro fact‑checkera\n\n1. **Rozpočtová část tvrzení („dvě miliardy z rozpočtu MV“)**  \n   - Oficiální údaje MF a nezávislé mediální/odborové analýzy **potvrzují**, že rozpočet kapitoly Ministerstvo vnitra byl v roce 2024 **zhruba o 2,2–2,3 mld Kč nižší** než v roce 2023.([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137))  \n   - Tato část výroku je tedy **věcně podložená** (při chápání jako meziroční pokles kapitoly).\n\n2. **Mzdová část tvrzení („propad platu minimálně o 150 Kč u každého příslušníka“)**\n   - **Nenašel se žádný oficiální ani odborový zdroj**, který by uváděl, že by **tarifní platy** příslušníků MV byly v roce 2024 sníženy o 150 Kč měsíčně vůči roku 2023.\n   - Naopak, vláda i odbory opakovaně potvrzují, že se v roce 2024 podařilo **zabránit plánovanému dvouprocentnímu snížení služebních příjmů** a že **tarify zůstaly nominálně na úrovni roku 2023**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n   - Čisté mzdy příslušníků se **snížily** kvůli **novému nemocenskému pojištění 0,6 %** (řádově 180–300 Kč/měsíc u typických platů) a kvůli **zrušení některých daňových slev a omezení benefitů**, což se bezpečnostních sborů týká stejně jako ostatních zaměstnanců.([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n   - Tvrzení, že **v důsledku „sebrání dvou miliard z rozpočtu MV“ došlo ke snížení platu každého příslušníka minimálně o 150 Kč**, proto **nemá přímou oporu v oficiálních datech o služebních příjmech** a směšuje různé dopady konsolidačního balíčku (centrální daňové a odvodové změny vs. rozpočet MV).\n\n---\n\n## Hlavní zdroje\n\n- Ministerstvo financí ČR – tabulka „Celkové výdaje státního rozpočtu podle kapitol“ pro rok 2023 a návrh 2024 (kapitola 314 – Ministerstvo vnitra).([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/statni-rozpocet-pro-rok-2024-miri-do-tretiho-cteni-53137))  \n- ČT24 (6. 1. 2024): „Policisté, hasiči i dozorci přijdou o benefity. Chybí i peníze na provoz sborů.“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/policiste-hasici-i-dozorci-prijdou-o-benefity-chybi-i-penize-na-provoz-sboru-344704))  \n- NOS PČR: „Může rozhodnutí o krácení ohrozit vnitřní bezpečnost?“ (analýza krácení služebních příjmů v návrhu rozpočtu 2024).([nospcr.cz](https://www.nospcr.cz/muze-rozhodnuti-snemovny-ohrozit-vnitrni-bezpecnost/))  \n- NOS PČR: „Jednání s ministrem vnitra dne 6. 11. 2023“ (vrácení 2% snížení služebních příjmů u příslušníků MV, příslib, že v roce 2024 služební příjmy nepoklesnou).([nospcr.cz](https://www.nospcr.cz/jednani-s-ministrem-vnitra-6-11-2023/))  \n- Ministerstvo vnitra / Ekonomický deník: zmínky o tom, že v roce 2024 se podařilo „vrátit 2 % na platech do rozpočtu“ tak, aby platy policistů a hasičů „zůstaly na stejné úrovni“.([mv.gov.cz](https://mv.gov.cz/clanek/vsem-policistum-i-hasicum-vzrostou-pristi-rok-platy-o-2500-kc.aspx?utm_source=openai))  \n- Money.cz: „Konsolidační balíček: nemocenské pojištění u zaměstnanců od 1. 1. 2024“ – tabulka měsíčních odvodů 0,6 % z různých hrubých mezd.([money.cz](https://money.cz/novinky-a-tipy/mzdy-a-personalistika/konsolidacni-balicek-nemocenske-pojisteni-u-zamestnancu-od-1-1-2024/?utm_source=openai))  \n- Penize.cz: „Čistá mzda 2024: vládní balíček mění nemocenské pojištění a progresivní daň“ – příklad zaměstnance s 30 000 Kč hrubého (−180 Kč měsíčně kvůli nemocenskému).([penize.cz](https://www.penize.cz/mzda-a-plat/442054-cista-mzda-2024-vladni-balicek-meni-nemocenske-pojisteni-a-progresivni-dan?utm_source=openai))  \n- Přehled daňových změn a zrušení slev (školkovné, sleva na studenta, omezení slevy na manžela/manželku) v rámci konsolidačního balíčku.([money.cz](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai))  \n- Analýzy FKSP a jeho krácení z 2 % na 1 % mzdových prostředků a povinné vázání části na spoření na stáří.([skoleniproucetni.cz](https://skoleniproucetni.cz/konsolidacni-balicek-a-fksp/?utm_source=openai))  \n- Vyjádření odborů (NOS PČR, rozhovory pro Radiožurnál a Novinky.cz) o reálném propadu příjmů příslušníků bezpečnostních sborů (cca 20–25 %).([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/odbory-chteji-vyjednat-navyseni-platu-policistu-hasicu-ci-vezenske-sluzby-jinak-9297527?utm_source=openai))",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 109886,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 21769,
+      "output_tokens_details": {
+        "reasoning_tokens": 15092
+      },
+      "total_tokens": 131655
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1771608440,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

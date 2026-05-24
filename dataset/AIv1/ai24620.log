@@ -1,0 +1,705 @@
+{
+  "claim_id": "24620",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24620.md",
+  "fact_check": "# Fact Check for Statement ID 24620\n\n## Statement\nOno to (převedení poplatků za POZE na stát, pozn. Demagog.cz) není do rozpočtu dopad 17 miliard, ale 7 miliard.\n\n---\n## AI Fact Check\n## 1. Identifikace tvrzení a možných interpretací\n\nSporné tvrzení Karla Havlíčka:\n\n> „ono to (převedení poplatků za POZE na stát) není do rozpočtu dopad 17 miliard, ale 7 miliard (…) čistý dopad do rozpočtu je 7 miliard korun.“\n\nMožné interpretace:\n\n1. **Hrubý dopad na výdajovou stranu státního rozpočtu**  \n   – kolik musí stát nově **navíc** vydat kvůli tomu, že místo odběratelů uhradí celý zbytek nákladů na POZE.\n\n2. **„Čistý dopad“ na saldo státního rozpočtu**  \n   – rozdíl mezi novými výdaji a případnými kompenzačními příjmy nebo škrty jinde (tedy efekt na deficit).\n\nVe veřejné debatě (včetně předchozích výroků vlády a samotného Havlíčka) je však číslo **17 mld Kč** používáno výslovně jako **„zatížení (státního) rozpočtu“** tohoto konkrétního kroku, nikoli jako kombinace různých balíčků opatření. Níže proto rozlišujeme:\n\n- (A) **Hrubý výdajový dopad převzetí plateb za POZE státem**  \n- (B) Případná existence jiné, vládou deklarované definice „čistého dopadu“ 7 mld Kč (hledání podpory pro tuto interpretaci).\n\n---\n\n## 2. Kontext: Co se rozhodlo ohledně POZE\n\n### 2.1 Rozhodnutí vlády 16. 12. 2025\n\nNa prvním zasedání nové vlády Andreje Babiše (ANO–SPD–Motoristé) dne 16. 12. 2025 bylo schváleno, že **stát v roce 2026 převezme veškeré financování POZE**:\n\n- ČTK/ČT24 shrnuje, že:\n  - „stát v příštím roce převezme veškeré financování podporovaných zdrojů energie (POZE)“  \n  - „státní rozpočet to nově zatíží dalšími zhruba 17 miliardami korun, celkově tak stát za poplatky dá více než 41 miliard korun“ ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/platby-za-obnovitelne-zdroje-se-zcela-presunou-na-stat-368357?utm_source=openai))  \n\n- Současně se uvádí, že podle původního usnesení vlády Petra Fialy měl v roce 2026 státní rozpočet přispět na POZE **24,6 mld Kč**, zbylých **více než 17 mld Kč** měli zaplatit odběratelé. Nyní stát uhradí **celý objem**, tedy přes 41 mld Kč. ([energyhub.eu](https://energyhub.eu/sk/articles/1162365/vlada-schvalila-presun-veskerych-plateb-za-poze-na-stat-elektrina-zlevni?utm_source=openai))  \n\n- Stejná informace je zopakována v samostatném článku ČT24 „Platby za obnovitelné zdroje se zcela přesunou na stát“ (veřejné rozpočty dodatečně zatíží „zhruba sedmnácti miliardami korun“). ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/platby-za-obnovitelne-zdroje-se-zcela-presunou-na-stat-368357?utm_source=openai))  \n\n### 2.2 Havlíček na oficiální tiskové konferenci vlády\n\nNa oficiální tiskové konferenci vlády 16. 12. 2025, zveřejněné na webu Vlády ČR, ministr Havlíček opatření detailně popisuje:\n\n- Vysvětluje, že se snižuje regulovaná složka elektřiny tím, že se z účtů zákazníků **odebere poplatek za obnovitelné zdroje energie (POZE)**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/))  \n- Uvádí, že tato změna znamená úsporu cca **10 % z ceny elektřiny** pro všechny zákazníky. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/))  \n- Zároveň výslovně říká, že **„je pravda, že to zatíží 17 miliardami korun rozpočet“** (parafráze – v originálu mluví o částce 17 mld Kč, která zatíží rozpočet). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/))  \n\nToto je **primární oficiální zdroj** přímo od vlády a od stejného ministra, který později v Partii tvrdí, že dopad není 17, ale 7 mld.\n\n---\n\n## 3. Důkazy o velikosti rozpočtového dopadu (varianta A – hrubý dopad)\n\nŘada nezávislých zdrojů – zpravodajství ČTK, média i finance–orientované servery – se shoduje na tom, že **převedení plateb za POZE na stát zatěžuje státní (popř. veřejné) rozpočty přibližně o 17 mld Kč ročně navíc**.\n\n### 3.1 Zpravodajství a komentáře (ČT, Ekonomický deník, Seznam Zprávy atd.)\n\n1. **ČT24 (zpravodajství)**  \n   - V článku „Elektřina řadě lidí zlevní. I díky převodu plateb za obnovitelné zdroje na stát“ ČT uvádí, že převod poplatků za POZE na stát má **veřejné rozpočty dodatečně zatížit o více než 17 mld Kč**. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/elektrina-rade-lidi-zlevni-i-diky-prevodu-plateb-za-obnovitelne-zdroje-na-stat-368698))  \n\n2. **ČT24 / ČTK – „Platby za obnovitelné zdroje se zcela přesunou na stát“**  \n   - Shrnuje rozhodnutí vlády: **státní rozpočet to nově zatíží dalšími zhruba 17 mld Kč**, celkově stát za POZE zaplatí přes 41 mld Kč. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/platby-za-obnovitelne-zdroje-se-zcela-presunou-na-stat-368357?utm_source=openai))  \n\n3. **Ekonomický deník (David Tramba, 29. 12. 2025)**  \n   - Popisuje původní nastavení: pro rok 2026 měl stát podle ERÚ přispět na POZE **24,6 mld Kč**, odběratelé měli doplatit **17 mld Kč**.  \n   - Po rozhodnutí vlády se dotace ze státního rozpočtu navyšuje tak, aby **pokryla celé financování POZE**, a autor výslovně konstatuje, že **„výdaje státního rozpočtu jen v příštím roce vzrostou o 17 miliard korun“**. ([ekonomickydenik.cz](https://ekonomickydenik.cz/vydaje-za-elektrinu-klesnou-stat-prebira-cast-plateb/))  \n\n4. **Seznam Zprávy – komentář Elišky Beranové (27. 2. 2026)**  \n   - Uvádí, že převedením plateb za POZE běžná domácnost ušetří cca 1 800 Kč ročně.  \n   - K fiskálnímu dopadu píše, že **„státní rozpočet to nově zatíží 17 miliardami korun, dalších 24 miliard stát platil už dříve“** – tedy opět 17 mld Kč navíc oproti dříve plánovaným 24 mld. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-zlevnit-proud-jde-i-pres-site-ne-jen-statni-uhradou-zelenych-zdroju-294846))  \n\n5. **Měšec.cz (16. 12. 2025)**  \n   - Stručně shrnuje, že vláda rozhodla o převedení poplatku na obnovitelné zdroje na stát a že „**státní kasu toto rozhodnutí přijde na 17 mld Kč**“. ([mesec.cz](https://www.mesec.cz/aktuality/domacnosti-nebudou-hradit-poplatek-za-obnovitelne-zdroje-rozhodla-vlada/))  \n\n6. **Publico.cz (16. 12. 2025)**  \n   - Článek „Vláda zlevní elektřinu. … Stát to vyjde na 17 miliard korun“ uvádí, že úplné převedení plateb za OZE na stát vyjde **státní rozpočet na 17 mld Kč ročně**. ([publico.cz](https://publico.cz/business/vlada-zlevni-elektrinu-tisice-rocne-usetri-firmy-i-domacnosti-pociti-rozpocet?utm_source=openai))  \n\n7. **Kurzy.cz – finanční portál (komentáře k POZE)**  \n   - V textu „Ceny elektřiny v ČR klesnou, a to i díky převedení POZE na stát“ autor píše, že opatření „zatíží státní rozpočet částkou zhruba **17 miliard korun ročně navíc** a celkové výdaje na podporované zdroje vzrostou na cca 41 mld Kč.“ ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/841632-ceny-elektriny-v-cr-klesnou-a-to-i-diky-prevedeni-poze-na-stat/?utm_source=openai))  \n\n8. **Kurzy.cz – „První velký finanční krok nové vlády se týká POZE“**  \n   - Analýza uvádí, že **výdaje státního rozpočtu v roce 2026 se v důsledku tohoto kroku zvýší o zhruba 17 mld Kč**. ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/841220-prvni-velky-financni-krok-nove-vlady-se-tyka-poze/?utm_source=openai))  \n\n9. **Energy-hub / ČTK – „Analytici: Přesun POZE na stát sníží výdaje domácností, zatíží ale rozpočet“**  \n   - Zpravodajský výstup shrnuje, že vláda převzala veškeré financování POZE a že **státní rozpočet to nově zatíží dalšími cca 17 mld Kč**, celková platba státu přesáhne 41 mld Kč. ([energy-hub.cz](https://energy-hub.cz/sk/articles/1162364/analytici-presun-poze-na-stat-snizi-vydaje-domacnosti-zatizi-ale-rozpocet?utm_source=openai))  \n\n10. **Novinky.cz (16. 12. 2025)**  \n    - V článku k rozhodnutí vlády se uvádí, že podle Karla Havlíčka **pokrytí plateb za obnovitelné zdroje vyjde na sedmnáct miliard korun ročně** a přinese přibližně 10% zlevnění elektřiny. ([novinky.cz](https://www.novinky.cz/clanek/40553650?utm_source=openai))  \n\n### 3.2 Shoda na číselné konstrukci\n\nZ výše uvedených zdrojů plyne velmi konzistentní obraz:\n\n- Celkové náklady na POZE v roce 2026: **přes 41 mld Kč** (přesněji cca 41–42 mld). ([energyhub.eu](https://energyhub.eu/sk/articles/1162365/vlada-schvalila-presun-veskerych-plateb-za-poze-na-stat-elektrina-zlevni?utm_source=openai))  \n- Původně (podle rozpočtu připraveného Fialovou vládou) měl stát přispět **24,6 mld Kč** a odběratelé **>17 mld Kč**. ([energyhub.eu](https://energyhub.eu/sk/articles/1162365/vlada-schvalila-presun-veskerych-plateb-za-poze-na-stat-elektrina-zlevni?utm_source=openai))  \n- Rozhodnutím nové vlády stát uhradí **celý objem**, tj. stát místo odběratelů platí **o ~17 mld Kč více**, než bylo v rozpočtu na rok 2026 původně plánováno.\n\nTo je přesně ten „dopad 17 miliard na státní rozpočet“, o němž mluví jak média, tak sám Havlíček na tiskové konferenci.\n\n---\n\n## 4. Lze najít „čistý dopad 7 mld Kč“? (varianta B)\n\n### 4.1 Hledání podpory pro číslo 7 mld Kč\n\nS pomocí vyhledávání byly prozkoumány:\n\n- oficiální dokumenty a tiskové zprávy **Ministerstva financí** a **Ministerstva průmyslu a obchodu** (včetně materiálů k OZE/POZE a státnímu rozpočtu), ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/mf-pripravilo-nastroje-diky-kterym-se-snizi-objem-57436))  \n- zpravodajství **ČTK**,  \n- hlavní ekonomická média (Ekonomický deník, Seznam Zprávy, Publico, Kurzy, iDNES, Novinky, E15, aj.),  \n- starší materiály k financování POZE (konstrukce podpory, reformy, snížení překompenzací). ([publico.cz](https://publico.cz/business/oze-miliardy-stat-skokove-vic?utm_source=openai))  \n\nAni v jednom z nalezených relevantních zdrojů se **číslo 7 mld Kč v souvislosti s tímto konkrétním opatřením (převzetí plateb za POZE na rok 2026 státem)** neobjevuje jako:\n\n- „čistý dopad do rozpočtu“,\n- „dopad na saldo státního rozpočtu“,\n- nebo jinak definovaný rozpočtový efekt.\n\n### 4.2 Další související informace\n\n1. **Navýšení výdajů na POZE v roce 2025**  \n   - V roce 2025 vláda ještě Petra Fialy navyšovala výdaje na podporované zdroje energie o cca 20 mld Kč (z 8,5 mld na 28,57 mld), přičemž ministr financí Stanjura tehdy tvrdil, že to **nezvýší plánovaný schodek** rozpočtu, protože peníze budou kryty z rezerv a nespotřebovaných výdajů. ([cz.energyhub.eu](https://cz.energyhub.eu/cs/articles/1131714/vlada-projedna-zvyseni-letosnich-vydaju-na-obnovitelne-zdroje-o-20-miliard-korun?utm_source=openai))  \n   - To ukazuje, že **v rozpočtové debatě se skutečně rozlišuje** mezi „navýšením výdajů“ a „dopadem na schodek“; nicméně jde o **jiný rok a jiné rozhodnutí**, nikoli o prosincové převzetí veškerých plateb za POZE na rok 2026.\n\n2. **Opatření MF ke snížení překompenzací OZE (2024)**  \n   - MF avizovalo nástroje, které by v letech 2025–2030 mohly **snížit výdaje na dotace OZE v řádu jednotek až nižších desítek miliard korun ročně**, ale **bez konkrétního vyčíslení pro rok 2026**. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/mf-pripravilo-nastroje-diky-kterym-se-snizi-objem-57436))  \n   - Ani zde se nikde neobjevuje, že by v důsledku těchto opatření **„čistý dopad“ převedení plateb za POZE v roce 2026 klesal z 17 na 7 mld Kč**.\n\n3. **Politická komunikace nové vlády před rozhodnutím**  \n   - Např. Newstream cituje Alenu Schillerovou (ještě před jmenováním vlády), která pro rok 2026 odhaduje **rozpočtový dopad převedení poplatků za OZE na stát na 17–18 mld Kč**, přičemž slibuje, že deficit navržený Fialovou vládou nechce navyšovat a prostředky chce najít přesuny v rámci kapitol. ([newstream.cz](https://www.newstream.cz/politika/zruseni-poplatku-za-obnovitelne-zdroje-bude-stat-miliardy-schillerova-slibuje-ze-schodek-neporoste?utm_source=openai))  \n   - I zde se jako **dopad opatření samotného** uvádí cca **17 mld Kč**, nikoli 7 mld. To, že vláda deklaruje snahu „nenavyšovat schodek“, je jiná otázka (přesuny, škrty jinde).\n\n### 4.3 Shrnutí varianty B\n\n- **Žádný dohledatelný oficiální dokument** (MF, MPO, vláda) **ani seriózní analytický text** nepracuje s číslem **7 mld Kč** jako s „čistým dopadem“ kroku, který spočívá v převedení všech plateb za POZE na stát od roku 2026.\n- Naopak, **všechny** nalezené materiály (včetně výroků Karla Havlíčka z 16. 12. 2025) uvádějí jako dopad tohoto kroku na státní/veřejné rozpočty **zhruba 17 mld Kč**.\n\nPokud by Havlíček v Partii měl na mysli nějakou **velmi specifickou vnitřní účetní konstrukci** (např. kombinaci více opatření, z nichž některá rozpočet naopak zlepšují), pro takové tvrzení **nenacházíme žádnou oporu ve veřejně dostupných zdrojích** a zejména **není doloženo, že by vláda či MF komunikovaly právě číslo 7 mld Kč** jako oficiální „čistý dopad“ převodu POZE.\n\n---\n\n## 5. Závěrečné zhodnocení dílčích tvrzení\n\n### 5.1 „Dopad do rozpočtu 17 miliard“\n\n- Vláda, energetický regulátor (ERÚ), média i sám Karel Havlíček v prosinci 2025 **opakovaně uvádějí**, že převzetí všech plateb za POZE státem:\n  - zvyšuje výdaje státního rozpočtu **cca o 17 mld Kč ročně** oproti původnímu plánu,  \n  - a že celkové platby státu na POZE dosáhnou přes **41 mld Kč**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/))  \n\nTato část (17 mld Kč jako rozpočtový dopad opatření) je tedy **velmi dobře doložená a interně konzistentní napříč zdroji**.\n\n### 5.2 „Není to 17 miliard, ale 7 miliard – čistý dopad“\n\n- **Nebyla nalezena žádná relevantní evidence**, která by potvrzovala, že by oficiální rozpočtové dokumenty či komunikace MF/MPO pracovaly s číslem **7 mld Kč** jako:\n  - čistým dopadem převodu POZE na stát,\n  - nebo dopadem na saldo rozpočtu v roce 2026 vázaným výhradně na toto opatření.\n\n- Jedinou konzistentně se vyskytující hodnotou rozpočtového dopadu tohoto kroku je **cca 17 mld Kč**.\n\n---\n\n## 6. Celkové shrnutí pro fact‑check\n\n- **Faktický stav:** Všechny dohledané oficiální i důvěryhodné mediální zdroje (včetně výroků Karla Havlíčka z prosince 2025) uvádějí, že převedení všech plateb za POZE na stát v roce 2026 **zatěžuje státní/veřejné rozpočty přibližně o 17 mld Kč ročně navíc**.  \n- **Číslo 7 mld Kč:**  \n  - V souvislosti s tímto opatřením nebyl nalezen žádný oficiální ani analytický zdroj, který by uváděl „čistý dopad na rozpočet“ ve výši 7 mld Kč.  \n  - Havlíčkův pozdější výrok v Partii je **v rozporu** s jeho vlastním dřívějším vyjádřením na tiskové konferenci vlády a s jednotnou interpretací ve veřejných zdrojích.  \n\nNa základě dostupných důkazů tedy Havlíčkem tvrzený „čistý dopad 7 miliard“ **nemá oporu v dohledatelných datech ani v oficiální komunikaci vlády či ministerstev**, zatímco číslo **17 miliard Kč** je pro dané opatření standardně uváděným rozpočtovým dopadem.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:05:47\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nTa zpráva je založena na číslech, tak ta se nedá ani rozporovat, ale co se týká toho, že se všem lidem určitě dobře nedaří a nedařilo, to jsem nikdy nezpochybňoval. Ta inflace byla velmi náročná, ceny energií rostly raketově. My jsme teda měli nejdražší energie už v době, kdy se o to staral pan Havlíček v Evropě. Ale ten problém tu je dlouhodobý, je strukturální. My jsme se s tím snažili něco dělat, snažili jsme se provést ty klíčové reformy a byli jsme v tom odvážní. Reforma důchodového systému, reforma vzdělávacího systému, reforma energií nebo struktury naší energetické soustavy, to všechno jsme dělali a myslím si, že to byly kroky, které jsou správné a je v nich potřeba pokračovat, abychom se už nedostali do těch problémů, do kterých jsme se dostali, protože třeba díky tomu, že tu vládl osm let Andrej Babiš v různých konstelacích před námi, tak se nic neudělalo s energetickou infrastrukturou. Zastavil se, nezastavila se dostavba Temelína, neposunuly se dál Dukovany, to jsme všechno museli udělat. A to, že jsme to udělali, se pozitivně projeví v budoucnosti.\\n00:06:53\\nTerezie Tománková,moderátorka\\nPojďme rozebrat ta jednotlivá subtémata, ať se už bavíme o konkrétních věcech. Pojďme k těm energiím, pane Havlíčku. Pouze 17 miliard navíc v rozpočtu, snižuje to inflaci, to říká statistický úřad i Česká národní banka, že to mělo přechodný, okamžitý dopad. Ty dotační závody s Německem ale nemůžeme vyhrát, nebo v tom bude Česko pokračovat, jak to bude dál?\\n00:07:14\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nNemůžeme, ani nebudeme soutěžit s Německem. To není možné. Jenom bych upravil, ono to není do rozpočtu dopad 17 miliard, ale 7 miliard, ale to je účetní pohled, že se tam započítávají některé věci, takže čistý dopad do rozpočtu je 7 miliard korun, ale za těch 7 miliard korun máme po dlouhé době srovnaný krok s cenou elektřiny s Evropou. Po dlouhé době mohou firmy říci, že mají přibližně podobné podmínky jako okolní země. A každý, kdo umí do 10 počítat, si dopočítá to, že se to tomu státu vrátí na té příjmové stránce. Proč? No, protože firmy budou zaměstnávat přirozeným způsobem, porostou příjmy těch zaměstnanců, bude se více investovat, budou se, světe, div se, odvádět vyšší daně, budou se odvádět vyšší sociální a zdravotní, to je jedna věc. A druhá věc je, naši lidé nebyli připraveni se dívat na to, že navzdory tomu, že zde energii poměrně levně vyrábíme a exportujeme, že ji budeme mít jednu z nejdražších, elektřinu v tomhle tom případě v celé Evropě. Byl to náš slib, byl to zásadní krok a budeme pokračovat zejména v energeticky náročných odvětvích, jako jsou výrobci cementu, výrobci vápna, výrobci keramiky, chemie a podobně, ocel. To jste úplně hodili přes palubu. A zeptejte se někdy těch firem. Já do nich jezdím dnes a denně. Ta situace u těch firem začíná být kritická a ten problém, který nastává, je v tom, že pochopitelně v Evropě neexistuje dnes jednotný energetický trh tedy pouze na papíře, ale různé země mají různé ceny a různé státy do toho různě zasahují. Akorát, že za vaší vlády jste se chovali tržně, nezasáhli jste do toho, výsledkem bylo to, že se vám to celé utrhlo a není pravda to, že jste to, co jste říkal, s ohledem nejvyšší ceny energií, že byly za nás. Na konci roku 2021, když jsme předávali vládu a podíval jste se do OECD, tak jste zjistil, že co se týká tzv. energetické inflace, tak víte, kde byla nejnižší ze všech zemí z OECD? Nejnižší byla v České republice. Ano, bylo to dáno tímto, uznávám, že jsme zatáhli za ruční brzdu a rychle jsme snížili DPH na nulu. Vy jste to mohli nechat potom třeba na 5 %. Neudělali jste vůbec nic, čekali jste na opatření Evropské unie. Nestalo se nic. Výsledek byl ten, že na konci roku 2021 jste měli nejvyšší energickou inflaci a ta inflace se stala, myslím, energická základem pro celkovou inflaci, proto jste odrbali lidi o 33 % v průběhu vaší vlády. Je třeba, pane poslanče, nedívat se jenom na aktuální čísla, protože logicky ten pokles či růst je ovlivněn tou základnou toho minulého roku. Jinými slovy, o co horší byl výsledek v minulém roce, o to je třeba lepší v tomto roce, ale součet...\\n00:09:43\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Ono to (převedení poplatků za POZE na stát, pozn. Demagog.cz) není do rozpočtu dopad 17 miliard, ale 7 miliard.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 299.64 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Dostupné zdroje shodně uvádějí, že převedení všech plateb za POZE na stát zvyšuje výdaje státního rozpočtu asi o 17 mld Kč ročně. Číslo 7 mld Kč se v oficiálních ani analytických materiálech neobjevuje. Výrok Karla Havlíčka je proto nepravdivý.</p>\n\n<p>Tvrzení Karla Havlíčka zaznělo v debatě o kroku nové vlády, která od roku 2026 převezme veškeré platby za podporované zdroje energie (POZE) ze stávajících regulovaných plateb odběratelů na státní rozpočet. Dosud část nákladů hradily domácnosti a firmy v cenách elektřiny, zatímco zbytek platil stát. Podle vládního rozhodnutí z 16. prosince 2025 má stát od roku 2026 financovat celý objem podpory POZE, tedy přes 41 miliard korun ročně. O tom informovala například <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/platby-za-obnovitelne-zdroje-se-zcela-presunou-na-stat-368357?utm_source=openai\">ČT24</a>, která uvádí, že rozpočet to „nově zatíží dalšími zhruba 17 miliardami korun“.</p>\n\n<p>Stejné rozdělení nákladů popisuje i server <a href=\"https://energyhub.eu/sk/articles/1162365/vlada-schvalila-presun-veskerych-plateb-za-poze-na-stat-elektrina-zlevni?utm_source=openai\">Energyhub</a>, který vychází z údajů Energetického regulačního úřadu. Podle něj měl stát podle původního plánu vlády Petra Fialy v roce 2026 zaplatit na podporu POZE 24,6 mld Kč, zatímco odběratelé měli doplatit více než 17 mld Kč. Nové rozhodnutí vlády znamená, že stát uhradí celý objem přes 41 mld Kč, tedy o zhruba 17 mld Kč více, než s čím státní rozpočet na rok 2026 původně počítal.</p>\n\n<p>Prvním dílčím tvrzením Karla Havlíčka je, že rozpočtový dopad převzetí plateb za POZE „není 17 miliard“. Zde je důležité, že částku 17 mld Kč jako dopad tohoto konkrétního opatření uvádějí jak média, tak sama vláda a dokonce i sám Karel Havlíček v jiném vystoupení. Zpravodajství <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/elektrina-rade-lidi-zlevni-i-diky-prevodu-plateb-za-obnovitelne-zdroje-na-stat-368698\">ČT24</a> píše, že převedení plateb za POZE na stát má „veřejné rozpočty dodatečně zatížit o více než 17 miliard korun“. Podobně finanční portál <a href=\"https://www.mesec.cz/aktuality/domacnosti-nebudou-hradit-poplatek-za-obnovitelne-zdroje-rozhodla-vlada/\">Měšec.cz</a> shrnuje, že rozhodnutí vlády „přijde státní kasu na 17 mld Kč“.</p>\n\n<p>Detailnější rozbor přináší <a href=\"https://ekonomickydenik.cz/vydaje-za-elektrinu-klesnou-stat-prebira-cast-plateb/\">Ekonomický deník</a>, který popisuje původní nastavení (stát 24,6 mld Kč, odběratelé 17 mld Kč) a konstatuje, že po rozhodnutí vlády „výdaje státního rozpočtu jen v příštím roce vzrostou o 17 miliard korun“. Stejný rozsah dopadu zmiňuje i komentář na <a href=\"https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-zlevnit-proud-jde-i-pres-site-ne-jen-statni-uhradou-zelenych-zdroju-294846\">Seznam Zprávách</a>, kde se píše, že „státní rozpočet to nově zatíží 17 miliardami korun, dalších 24 miliard stát platil už dříve“.</p>\n\n<p>Za klíčové považujeme, že částku 17 mld Kč jako dopad na státní rozpočet používá i vláda ve své oficiální komunikaci. Na tiskové konferenci po jednání vlády 16. prosince 2025 ministr průmyslu a obchodu Karel Havlíček vysvětluje, že se z účtů zákazníků odstraní poplatek za obnovitelné zdroje a že to pro domácnosti znamená zhruba desetiprocentní úsporu na ceně elektřiny. V téže prezentaci zároveň říká, že toto opatření <i>„zatíží rozpočet o 17 miliard korun“</i>, jak je zachyceno v záznamu na <a href=\"https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/\">webu Vlády ČR</a>. Stejnou částku uvádí i server <a href=\"https://www.novinky.cz/clanek/40553650?utm_source=openai\">Novinky.cz</a>, který cituje Karla Havlíčka s tím, že „pokrytí plateb za obnovitelné zdroje vyjde na sedmnáct miliard korun ročně“.</p>\n\n<p>Rovněž další ekonomicky zaměřené servery popisují rozpočtový dopad velmi podobně. Například portál <a href=\"https://zpravy.kurzy.cz/841632-ceny-elektriny-v-cr-klesnou-a-to-i-diky-prevedeni-poze-na-stat/?utm_source=openai\">Kurzy.cz</a> uvádí, že opatření „zatíží státní rozpočet částkou zhruba 17 miliard korun ročně navíc“ a celkové výdaje na podporované zdroje vzrostou na cca 41 mld Kč. Jiný text na stejném portálu k „prvnímu velkému finančnímu kroku nové vlády“ konstatuje, že výdaje rozpočtu v roce 2026 se v důsledku převzetí plateb za POZE zvýší o zhruba 17 mld Kč. Shodně píše o „dalších 17 miliardách“ zatížení rozpočtu také zpráva agentury ČTK na serveru <a href=\"https://energy-hub.cz/sk/articles/1162364/analytici-presun-poze-na-stat-snizi-vydaje-domacnosti-zatizi-ale-rozpocet?utm_source=openai\">Energy-hub</a>.</p>\n\n<p>Napříč těmito zdroji se tedy velmi konzistentně objevuje číslo 17 mld Kč jako částka, o kterou převzetí všech plateb za POZE zvyšuje výdaje státního rozpočtu oproti původnímu rozpočtovému plánu. Z hlediska běžného významu spojení „dopad do rozpočtu“ (tedy dodatečný výdaj, který musí rozpočet nést navíc) je proto tvrzení, že tento dopad „není 17 miliard“, v přímém rozporu s dostupnými daty i s původními výroky samotného ministra.</p>\n\n<p>Druhou částí Havlíčkova výroku je tvrzení, že „čistý dopad do rozpočtu je 7 miliard korun“. Toto měkčí, ale číselně konkrétní tvrzení by mohlo naznačovat, že ministr nemluví o hrubém navýšení výdajů, ale například o dopadu na saldo rozpočtu po započtení jiných úspor nebo dodatečných příjmů. Proto jsme se zaměřili na to, zda se v oficiálních nebo odborných dokumentech objevuje jakákoli opora pro číslo 7 mld Kč ve spojení právě s tímto krokem – převedením všech plateb za POZE na stát od roku 2026.</p>\n\n<p>Prohledali jsme tiskové zprávy a materiály <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/mf-pripravilo-nastroje-diky-kterym-se-snizi-objem-57436\">Ministerstva financí</a> a Ministerstva průmyslu a obchodu týkající se financování obnovitelných zdrojů a státního rozpočtu, zpravodajství ČTK i hlavní ekonomická média (Ekonomický deník, Seznam Zprávy, Publico, Kurzy.cz, iDNES, Novinky, E15 aj.). V žádném z těchto zdrojů jsme nenalezli, že by byl „čistý dopad“ převzetí plateb za POZE na rok 2026 vyčíslen na 7 mld Kč, a to ani jako dopad na saldo, ani v jiné účetní interpretaci.</p>\n\n<p>Některé materiály Ministerstva financí skutečně rozlišují mezi navýšením výdajů a dopadem na schodek rozpočtu v jiných souvislostech. Například při navyšování výdajů na POZE v roce 2025 o zhruba 20 mld Kč ministr financí Zbyněk Stanjura uváděl, že plánovaný schodek se nezvýší, protože výdaje budou kryty z rezerv a nespotřebovaných prostředků, jak shrnuje článek na serveru <a href=\"https://cz.energyhub.eu/cs/articles/1131714/vlada-projedna-zvyseni-letosnich-vydaju-na-obnovitelne-zdroje-o-20-miliard-korun?utm_source=openai\">Energyhub</a>. Podobně Ministerstvo financí prezentovalo nástroje ke snížení překompenzací u obnovitelných zdrojů, které by v budoucnu mohly výdaje na dotace OZE snižovat, jak uvádí jeho tisková zpráva dostupná na <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/mf-pripravilo-nastroje-diky-kterym-se-snizi-objem-57436\">webu ministerstva</a>. Ani v těchto materiálech se však číslo 7 mld Kč v souvislosti s prosincovým převzetím POZE nikde neobjevuje.</p>\n\n<p>Před jmenováním vlády odhadovala Alena Schillerová rozpočtový dopad převedení poplatků za obnovitelné zdroje na stát pro rok 2026 na 17–18 mld Kč s tím, že schodek rozpočtu nechce navyšovat a prostředky chce najít přesuny v rámci existujících kapitol, jak popsaly například <a href=\"https://www.newstream.cz/politika/zruseni-poplatku-za-obnovitelne-zdroje-bude-stat-miliardy-schillerova-slibuje-ze-schodek-neporoste?utm_source=openai\">Newstream</a>. Ani zde ale nejde o „čistý dopad 7 mld“, nýbrž o potvrzení toho, že samotné opatření má výdajový rozsah kolem 17 mld Kč a že případné nezvýšení schodku by bylo dosaženo škrty či přesuny jinde.</p>\n\n<p>Celkově tedy platí, že všechny dohledané seriózní zdroje – včetně oficiální tiskové konference po jednání vlády a vyjádření Karla Havlíčka z 16. prosince 2025 – přisuzují převodu plateb za POZE na stát rozpočtový dopad přibližně 17 mld Kč ročně. Částka 7 mld Kč se v dostupných oficiálních či analytických dokumentech vůbec nevyskytuje jako dopad tohoto konkrétního kroku, a už vůbec ne jako obecně používaná kategorie „čistý dopad“.</p>\n\n<p>Připouštíme, že ministr mohl mít na mysli nějakou vnitřní, nepublikovanou rozpočtovou konstrukci, v níž je 17 mld Kč hrubého výdajového navýšení částečně kompenzováno jinými opatřeními. Pro takovou interpretaci jsme však v dostupných zdrojích nenašli žádnou oporu a zároveň je v přímém rozporu s veřejně prezentovanými čísly vlády i ministerstev. Tvrdí-li Karel Havlíček, že dopad převodu plateb za POZE na stát „není 17 miliard, ale 7 miliard“, popírá konsistentní a opakovaně komunikovaná data a nahrazuje je číslem, které není nikde doloženo.</p>\n\n<p>Na základě shromážděných informací proto hodnotíme část tvrzení, že dopad na rozpočet „není 17 miliard“, jako nepravdivou, neboť dostupné údaje i oficiální komunikace vlády jasně ukazují na částku kolem 17 mld Kč. Stejně tak nemáme prokazatelnou oporu pro tvrzení, že „čistý dopad“ činí 7 mld Kč; to je v rozporu s veřejně známými údaji a nelze je doložit žádným relevantním zdrojem.</p>\n\n<p>Výrok Karla Havlíčka, že převedení poplatků za POZE na stát nemá rozpočtový dopad 17 miliard, ale jen 7 miliard korun, proto hodnotíme jako nepravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_069d8b29b8e396720069a6bdedfee081979a59de15a6848ed2",
+    "created_at": 1772535278.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_069d8b29b8e396720069a6bdf7dff48197811d322b3fb51638",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be05fc64819792ca168d9217806f",
+        "action": {
+          "query": "převedení poplatků za POZE na stát dopad 7 miliard 17 miliard",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "převedení poplatků za POZE na stát dopad 7 miliard 17 miliard",
+            "\"dopad 17 miliard\" POZE rozpočet",
+            "\"převedení poplatků za POZE\" rozpočet",
+            "\"převedení poplatků\" \"podpora obnovitelných zdrojů\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be088248819796da0ecfbbb8d67c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be123b788197b431a6310cc468e9",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be1456188197b4f8c093a6c6c58c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be14ab6c8197912c721912828d79",
+        "action": {
+          "query": "\"7 miliard\" POZE rozpočet",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"7 miliard\" POZE rozpočet",
+            "\"7 mld\" \"POZE\"",
+            "\"17 miliard\" \"POZE\" 2025 rozpočet",
+            "\"převedení plateb za POZE\" 7 miliard"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be16c7a08197b0ab42a4ceb5ecdd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be195c308197a1dc347b68899061",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be1c7b608197be9b39468e20d511",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be1cde5c81978c5ccf7b6ac9defd",
+        "action": {
+          "query": "16. prosince 2025 vláda přesun plateb za POZE na stát 17 miliard",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "16. prosince 2025 vláda přesun plateb za POZE na stát 17 miliard",
+            "\"veškeré financování podporovaných zdrojů energie\" 17 miliard",
+            "\"převod plateb za podporované zdroje energie\" státní rozpočet 17 mld",
+            "\"rozpočet pro rok 2026\" \"podpora obnovitelných zdrojů energie\" 24,6"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be20e9bc8197b52687e6fc8ef10b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be255af88197a08c5b83bd5d1459",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be27cf488197b252a37a38794b2e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be281d008197b2400f0915cb0e87",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be2a5fe48197b5857659b0ad3b0b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be3810188197889c390fd01cf90a",
+        "action": {
+          "query": "\"čistý dopad\" 7 miliard POZE",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"čistý dopad\" 7 miliard POZE",
+            "\"čistý dopad do rozpočtu\" 7 miliard",
+            "\"dopad do rozpočtu\" \"17 miliard\" \"obnovitelné zdroje\"",
+            "\"poplatky za obnovitelné zdroje\" 7 miliard"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be3b2cc48197acc6abb8de28b75c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be43b07081979c22657a040a4d7f",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be46d6c481978867fdfd6f6be18a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be47487081978c3a82154372f57f",
+        "action": {
+          "query": "dopad na statni rozpocet 7 miliard POZE",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "dopad na statni rozpocet 7 miliard POZE",
+            "cisty dopad na statni rozpocet poplatky za obnovitelne zdroje 7 miliard",
+            "rozpocet 2026 podpora obnovitelnych zdroju 41 miliard 17 miliard",
+            "navyseni vydaju na podporovane zdroje energie o 17 miliard dopad na deficit"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be4c95848197947777159b8ddbb3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be5a088c8197a3c01bba6d60390d",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be5db1c08197ac45ce2adb8e13ce",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be5f04c081978ad58da6e9f8f1e4",
+        "action": {
+          "query": "pdf \"Státní rozpočet České republiky na rok 2026\" tabulky",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "pdf \"Státní rozpočet České republiky na rok 2026\" tabulky",
+            "navrh statniho rozpoctu 2026 MPO podporovane zdroje energie",
+            "rozpocet MPO 2026 podporovane zdroje energie 24,6 mld",
+            "zakon c. 500 2025 statni rozpocet 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be643e08819785a179550a67ed69",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be67df808197b2c5c192747dc0f9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be69fd088197beee0ad24bc1b111",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be6a41788197afe87638606fdef2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be6da5648197b887722e3621b7f1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be6e7ab48197924fc0fd02bc2019",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be70dacc8197a7119d2bbe2ec6b9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be71a5408197b414018c95d8ae9b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be7403bc819788739acbe7e3128a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be75c2f48197b05ecb7a1f929755",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be781aa48197a747588f41974306",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be78c5908197946bc0a82fcb1ace",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be7cf1d08197895d492099dc29e8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be8278e0819792c2e0861bb280e7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be8519c48197bc4486084305688d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be873fb48197be0f39ecd9f66ca4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be8acc2481979a84aef24b2acec6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be8b9ab88197b989e1ae8c3a73b6",
+        "action": {
+          "query": "sedm miliard dopad na statni rozpocet prechod plateb za obnovitelne zdroje na stat",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "sedm miliard dopad na statni rozpocet prechod plateb za obnovitelne zdroje na stat",
+            "\"dopad\" \"7 miliard\" \"státní rozpočet\" energie",
+            "\"navíc 7 miliard\" \"státní rozpočet\" energie",
+            "\"čistý dopad\" \"7 miliard\" \"státní rozpočet\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be929bcc81979fe5c6c8afbdc29b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be97fc748197bdb43a98c87ad8af",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6be9e605081979994264e47bb48df",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_069d8b29b8e396720069a6be9f58ec8197a42862635d54ca31",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_069d8b29b8e396720069a6bea21600819785ac232155400d29",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_069d8b29b8e396720069a6bedf853c8197b971ca6e0dffb371",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1672,
+                "start_index": 1522,
+                "title": "Platby za obnovitelné zdroje se zcela přesunou na stát — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/platby-za-obnovitelne-zdroje-se-zcela-presunou-na-stat-368357?utm_source=openai"
+              },
+              {
+                "end_index": 2068,
+                "start_index": 1919,
+                "title": "ENERGY-HUB - Vláda schválila přesun veškerých plateb za POZE na stát, elektřina zlevní",
+                "type": "url_citation",
+                "url": "https://energyhub.eu/sk/articles/1162365/vlada-schvalila-presun-veskerych-plateb-za-poze-na-stat-elektrina-zlevni?utm_source=openai"
+              },
+              {
+                "end_index": 2411,
+                "start_index": 2261,
+                "title": "Platby za obnovitelné zdroje se zcela přesunou na stát — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/platby-za-obnovitelne-zdroje-se-zcela-presunou-na-stat-368357?utm_source=openai"
+              },
+              {
+                "end_index": 2878,
+                "start_index": 2741,
+                "title": "Tisková konference po jednání vlády, 16. prosince 2025 | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/"
+              },
+              {
+                "end_index": 3109,
+                "start_index": 2972,
+                "title": "Tisková konference po jednání vlády, 16. prosince 2025 | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/"
+              },
+              {
+                "end_index": 3411,
+                "start_index": 3274,
+                "title": "Tisková konference po jednání vlády, 16. prosince 2025 | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/"
+              },
+              {
+                "end_index": 4317,
+                "start_index": 4161,
+                "title": "▶ Elektřina řadě lidí zlevní. I díky převodu plateb za obnovitelné zdroje na stát — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/elektrina-rade-lidi-zlevni-i-diky-prevodu-plateb-za-obnovitelne-zdroje-na-stat-368698"
+              },
+              {
+                "end_index": 4687,
+                "start_index": 4537,
+                "title": "Platby za obnovitelné zdroje se zcela přesunou na stát — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/platby-za-obnovitelne-zdroje-se-zcela-presunou-na-stat-368357?utm_source=openai"
+              },
+              {
+                "end_index": 5210,
+                "start_index": 5106,
+                "title": "Výdaje za elektřinu klesnou o 6 až 10 procent. Stát přebírá část plateb - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/vydaje-za-elektrinu-klesnou-stat-prebira-cast-plateb/"
+              },
+              {
+                "end_index": 5719,
+                "start_index": 5556,
+                "title": "Komentář: Zlevnit proud jde i přes sítě, ne jen státní úhradou zelených zdrojů - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-zlevnit-proud-jde-i-pres-site-ne-jen-statni-uhradou-zelenych-zdroju-294846"
+              },
+              {
+                "end_index": 6024,
+                "start_index": 5907,
+                "title": "Domácnosti nebudou hradit poplatek za obnovitelné zdroje, rozhodla vláda - Měšec.cz",
+                "type": "url_citation",
+                "url": "https://www.mesec.cz/aktuality/domacnosti-nebudou-hradit-poplatek-za-obnovitelne-zdroje-rozhodla-vlada/"
+              },
+              {
+                "end_index": 6370,
+                "start_index": 6231,
+                "title": "Vláda zlevní elektřinu. Tisíce ročně ušetří firmy i domácnosti, pocítí to rozpočet | PUBLICO",
+                "type": "url_citation",
+                "url": "https://publico.cz/business/vlada-zlevni-elektrinu-tisice-rocne-usetri-firmy-i-domacnosti-pociti-rozpocet?utm_source=openai"
+              },
+              {
+                "end_index": 6804,
+                "start_index": 6671,
+                "title": "Ceny elektřiny v ČR klesnou, a to i díky převedení POZE na stát | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/841632-ceny-elektriny-v-cr-klesnou-a-to-i-diky-prevedeni-poze-na-stat/?utm_source=openai"
+              },
+              {
+                "end_index": 7117,
+                "start_index": 6997,
+                "title": "První velký finanční krok nové vlády se týká POZE | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/841220-prvni-velky-financni-krok-nove-vlady-se-tyka-poze/?utm_source=openai"
+              },
+              {
+                "end_index": 7560,
+                "start_index": 7408,
+                "title": "ENERGY-HUB - Analytici: Přesun POZE na stát sníží výdaje domácností, zatíží ale rozpočet",
+                "type": "url_citation",
+                "url": "https://energy-hub.cz/sk/articles/1162364/analytici-presun-poze-na-stat-snizi-vydaje-domacnosti-zatizi-ale-rozpocet?utm_source=openai"
+              },
+              {
+                "end_index": 7863,
+                "start_index": 7791,
+                "title": "Lidé u elektřiny ušetří tisíce ročně, platby za obnovitelné zdroje přebírá stát - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/40553650?utm_source=openai"
+              },
+              {
+                "end_index": 8194,
+                "start_index": 8045,
+                "title": "ENERGY-HUB - Vláda schválila přesun veškerých plateb za POZE na stát, elektřina zlevní",
+                "type": "url_citation",
+                "url": "https://energyhub.eu/sk/articles/1162365/vlada-schvalila-presun-veskerych-plateb-za-poze-na-stat-elektrina-zlevni?utm_source=openai"
+              },
+              {
+                "end_index": 8464,
+                "start_index": 8315,
+                "title": "ENERGY-HUB - Vláda schválila přesun veškerých plateb za POZE na stát, elektřina zlevní",
+                "type": "url_citation",
+                "url": "https://energyhub.eu/sk/articles/1162365/vlada-schvalila-presun-veskerych-plateb-za-poze-na-stat-elektrina-zlevni?utm_source=openai"
+              },
+              {
+                "end_index": 9174,
+                "start_index": 9044,
+                "title": "MF připravilo nástroje, díky kterým se sníží objem peněz na dotace OZE | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/mf-pripravilo-nastroje-diky-kterym-se-snizi-objem-57436"
+              },
+              {
+                "end_index": 9492,
+                "start_index": 9401,
+                "title": "Na obnovitelné zdroje energie šlo loni 35,1 miliardy. Skokově víc než o rok dřív | PUBLICO",
+                "type": "url_citation",
+                "url": "https://publico.cz/business/oze-miliardy-stat-skokove-vic?utm_source=openai"
+              },
+              {
+                "end_index": 10312,
+                "start_index": 10149,
+                "title": "ENERGY-HUB - Vláda projedná zvýšení letošních výdajů na obnovitelné zdroje o 20 miliard korun",
+                "type": "url_citation",
+                "url": "https://cz.energyhub.eu/cs/articles/1131714/vlada-projedna-zvyseni-letosnich-vydaju-na-obnovitelne-zdroje-o-20-miliard-korun?utm_source=openai"
+              },
+              {
+                "end_index": 10928,
+                "start_index": 10798,
+                "title": "MF připravilo nástroje, díky kterým se sníží objem peněz na dotace OZE | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/mf-pripravilo-nastroje-diky-kterym-se-snizi-objem-57436"
+              },
+              {
+                "end_index": 11602,
+                "start_index": 11434,
+                "title": "Vláda chce zrušit poplatky za obnovitelné zdroje | Newstream",
+                "type": "url_citation",
+                "url": "https://www.newstream.cz/politika/zruseni-poplatku-za-obnovitelne-zdroje-bude-stat-miliardy-schillerova-slibuje-ze-schodek-neporoste?utm_source=openai"
+              },
+              {
+                "end_index": 13109,
+                "start_index": 12972,
+                "title": "Tisková konference po jednání vlády, 16. prosince 2025 | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/"
+              }
+            ],
+            "text": "## 1. Identifikace tvrzení a možných interpretací\n\nSporné tvrzení Karla Havlíčka:\n\n> „ono to (převedení poplatků za POZE na stát) není do rozpočtu dopad 17 miliard, ale 7 miliard (…) čistý dopad do rozpočtu je 7 miliard korun.“\n\nMožné interpretace:\n\n1. **Hrubý dopad na výdajovou stranu státního rozpočtu**  \n   – kolik musí stát nově **navíc** vydat kvůli tomu, že místo odběratelů uhradí celý zbytek nákladů na POZE.\n\n2. **„Čistý dopad“ na saldo státního rozpočtu**  \n   – rozdíl mezi novými výdaji a případnými kompenzačními příjmy nebo škrty jinde (tedy efekt na deficit).\n\nVe veřejné debatě (včetně předchozích výroků vlády a samotného Havlíčka) je však číslo **17 mld Kč** používáno výslovně jako **„zatížení (státního) rozpočtu“** tohoto konkrétního kroku, nikoli jako kombinace různých balíčků opatření. Níže proto rozlišujeme:\n\n- (A) **Hrubý výdajový dopad převzetí plateb za POZE státem**  \n- (B) Případná existence jiné, vládou deklarované definice „čistého dopadu“ 7 mld Kč (hledání podpory pro tuto interpretaci).\n\n---\n\n## 2. Kontext: Co se rozhodlo ohledně POZE\n\n### 2.1 Rozhodnutí vlády 16. 12. 2025\n\nNa prvním zasedání nové vlády Andreje Babiše (ANO–SPD–Motoristé) dne 16. 12. 2025 bylo schváleno, že **stát v roce 2026 převezme veškeré financování POZE**:\n\n- ČTK/ČT24 shrnuje, že:\n  - „stát v příštím roce převezme veškeré financování podporovaných zdrojů energie (POZE)“  \n  - „státní rozpočet to nově zatíží dalšími zhruba 17 miliardami korun, celkově tak stát za poplatky dá více než 41 miliard korun“ ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/platby-za-obnovitelne-zdroje-se-zcela-presunou-na-stat-368357?utm_source=openai))  \n\n- Současně se uvádí, že podle původního usnesení vlády Petra Fialy měl v roce 2026 státní rozpočet přispět na POZE **24,6 mld Kč**, zbylých **více než 17 mld Kč** měli zaplatit odběratelé. Nyní stát uhradí **celý objem**, tedy přes 41 mld Kč. ([energyhub.eu](https://energyhub.eu/sk/articles/1162365/vlada-schvalila-presun-veskerych-plateb-za-poze-na-stat-elektrina-zlevni?utm_source=openai))  \n\n- Stejná informace je zopakována v samostatném článku ČT24 „Platby za obnovitelné zdroje se zcela přesunou na stát“ (veřejné rozpočty dodatečně zatíží „zhruba sedmnácti miliardami korun“). ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/platby-za-obnovitelne-zdroje-se-zcela-presunou-na-stat-368357?utm_source=openai))  \n\n### 2.2 Havlíček na oficiální tiskové konferenci vlády\n\nNa oficiální tiskové konferenci vlády 16. 12. 2025, zveřejněné na webu Vlády ČR, ministr Havlíček opatření detailně popisuje:\n\n- Vysvětluje, že se snižuje regulovaná složka elektřiny tím, že se z účtů zákazníků **odebere poplatek za obnovitelné zdroje energie (POZE)**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/))  \n- Uvádí, že tato změna znamená úsporu cca **10 % z ceny elektřiny** pro všechny zákazníky. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/))  \n- Zároveň výslovně říká, že **„je pravda, že to zatíží 17 miliardami korun rozpočet“** (parafráze – v originálu mluví o částce 17 mld Kč, která zatíží rozpočet). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/))  \n\nToto je **primární oficiální zdroj** přímo od vlády a od stejného ministra, který později v Partii tvrdí, že dopad není 17, ale 7 mld.\n\n---\n\n## 3. Důkazy o velikosti rozpočtového dopadu (varianta A – hrubý dopad)\n\nŘada nezávislých zdrojů – zpravodajství ČTK, média i finance–orientované servery – se shoduje na tom, že **převedení plateb za POZE na stát zatěžuje státní (popř. veřejné) rozpočty přibližně o 17 mld Kč ročně navíc**.\n\n### 3.1 Zpravodajství a komentáře (ČT, Ekonomický deník, Seznam Zprávy atd.)\n\n1. **ČT24 (zpravodajství)**  \n   - V článku „Elektřina řadě lidí zlevní. I díky převodu plateb za obnovitelné zdroje na stát“ ČT uvádí, že převod poplatků za POZE na stát má **veřejné rozpočty dodatečně zatížit o více než 17 mld Kč**. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/elektrina-rade-lidi-zlevni-i-diky-prevodu-plateb-za-obnovitelne-zdroje-na-stat-368698))  \n\n2. **ČT24 / ČTK – „Platby za obnovitelné zdroje se zcela přesunou na stát“**  \n   - Shrnuje rozhodnutí vlády: **státní rozpočet to nově zatíží dalšími zhruba 17 mld Kč**, celkově stát za POZE zaplatí přes 41 mld Kč. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/platby-za-obnovitelne-zdroje-se-zcela-presunou-na-stat-368357?utm_source=openai))  \n\n3. **Ekonomický deník (David Tramba, 29. 12. 2025)**  \n   - Popisuje původní nastavení: pro rok 2026 měl stát podle ERÚ přispět na POZE **24,6 mld Kč**, odběratelé měli doplatit **17 mld Kč**.  \n   - Po rozhodnutí vlády se dotace ze státního rozpočtu navyšuje tak, aby **pokryla celé financování POZE**, a autor výslovně konstatuje, že **„výdaje státního rozpočtu jen v příštím roce vzrostou o 17 miliard korun“**. ([ekonomickydenik.cz](https://ekonomickydenik.cz/vydaje-za-elektrinu-klesnou-stat-prebira-cast-plateb/))  \n\n4. **Seznam Zprávy – komentář Elišky Beranové (27. 2. 2026)**  \n   - Uvádí, že převedením plateb za POZE běžná domácnost ušetří cca 1 800 Kč ročně.  \n   - K fiskálnímu dopadu píše, že **„státní rozpočet to nově zatíží 17 miliardami korun, dalších 24 miliard stát platil už dříve“** – tedy opět 17 mld Kč navíc oproti dříve plánovaným 24 mld. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-zlevnit-proud-jde-i-pres-site-ne-jen-statni-uhradou-zelenych-zdroju-294846))  \n\n5. **Měšec.cz (16. 12. 2025)**  \n   - Stručně shrnuje, že vláda rozhodla o převedení poplatku na obnovitelné zdroje na stát a že „**státní kasu toto rozhodnutí přijde na 17 mld Kč**“. ([mesec.cz](https://www.mesec.cz/aktuality/domacnosti-nebudou-hradit-poplatek-za-obnovitelne-zdroje-rozhodla-vlada/))  \n\n6. **Publico.cz (16. 12. 2025)**  \n   - Článek „Vláda zlevní elektřinu. … Stát to vyjde na 17 miliard korun“ uvádí, že úplné převedení plateb za OZE na stát vyjde **státní rozpočet na 17 mld Kč ročně**. ([publico.cz](https://publico.cz/business/vlada-zlevni-elektrinu-tisice-rocne-usetri-firmy-i-domacnosti-pociti-rozpocet?utm_source=openai))  \n\n7. **Kurzy.cz – finanční portál (komentáře k POZE)**  \n   - V textu „Ceny elektřiny v ČR klesnou, a to i díky převedení POZE na stát“ autor píše, že opatření „zatíží státní rozpočet částkou zhruba **17 miliard korun ročně navíc** a celkové výdaje na podporované zdroje vzrostou na cca 41 mld Kč.“ ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/841632-ceny-elektriny-v-cr-klesnou-a-to-i-diky-prevedeni-poze-na-stat/?utm_source=openai))  \n\n8. **Kurzy.cz – „První velký finanční krok nové vlády se týká POZE“**  \n   - Analýza uvádí, že **výdaje státního rozpočtu v roce 2026 se v důsledku tohoto kroku zvýší o zhruba 17 mld Kč**. ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/841220-prvni-velky-financni-krok-nove-vlady-se-tyka-poze/?utm_source=openai))  \n\n9. **Energy-hub / ČTK – „Analytici: Přesun POZE na stát sníží výdaje domácností, zatíží ale rozpočet“**  \n   - Zpravodajský výstup shrnuje, že vláda převzala veškeré financování POZE a že **státní rozpočet to nově zatíží dalšími cca 17 mld Kč**, celková platba státu přesáhne 41 mld Kč. ([energy-hub.cz](https://energy-hub.cz/sk/articles/1162364/analytici-presun-poze-na-stat-snizi-vydaje-domacnosti-zatizi-ale-rozpocet?utm_source=openai))  \n\n10. **Novinky.cz (16. 12. 2025)**  \n    - V článku k rozhodnutí vlády se uvádí, že podle Karla Havlíčka **pokrytí plateb za obnovitelné zdroje vyjde na sedmnáct miliard korun ročně** a přinese přibližně 10% zlevnění elektřiny. ([novinky.cz](https://www.novinky.cz/clanek/40553650?utm_source=openai))  \n\n### 3.2 Shoda na číselné konstrukci\n\nZ výše uvedených zdrojů plyne velmi konzistentní obraz:\n\n- Celkové náklady na POZE v roce 2026: **přes 41 mld Kč** (přesněji cca 41–42 mld). ([energyhub.eu](https://energyhub.eu/sk/articles/1162365/vlada-schvalila-presun-veskerych-plateb-za-poze-na-stat-elektrina-zlevni?utm_source=openai))  \n- Původně (podle rozpočtu připraveného Fialovou vládou) měl stát přispět **24,6 mld Kč** a odběratelé **>17 mld Kč**. ([energyhub.eu](https://energyhub.eu/sk/articles/1162365/vlada-schvalila-presun-veskerych-plateb-za-poze-na-stat-elektrina-zlevni?utm_source=openai))  \n- Rozhodnutím nové vlády stát uhradí **celý objem**, tj. stát místo odběratelů platí **o ~17 mld Kč více**, než bylo v rozpočtu na rok 2026 původně plánováno.\n\nTo je přesně ten „dopad 17 miliard na státní rozpočet“, o němž mluví jak média, tak sám Havlíček na tiskové konferenci.\n\n---\n\n## 4. Lze najít „čistý dopad 7 mld Kč“? (varianta B)\n\n### 4.1 Hledání podpory pro číslo 7 mld Kč\n\nS pomocí vyhledávání byly prozkoumány:\n\n- oficiální dokumenty a tiskové zprávy **Ministerstva financí** a **Ministerstva průmyslu a obchodu** (včetně materiálů k OZE/POZE a státnímu rozpočtu), ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/mf-pripravilo-nastroje-diky-kterym-se-snizi-objem-57436))  \n- zpravodajství **ČTK**,  \n- hlavní ekonomická média (Ekonomický deník, Seznam Zprávy, Publico, Kurzy, iDNES, Novinky, E15, aj.),  \n- starší materiály k financování POZE (konstrukce podpory, reformy, snížení překompenzací). ([publico.cz](https://publico.cz/business/oze-miliardy-stat-skokove-vic?utm_source=openai))  \n\nAni v jednom z nalezených relevantních zdrojů se **číslo 7 mld Kč v souvislosti s tímto konkrétním opatřením (převzetí plateb za POZE na rok 2026 státem)** neobjevuje jako:\n\n- „čistý dopad do rozpočtu“,\n- „dopad na saldo státního rozpočtu“,\n- nebo jinak definovaný rozpočtový efekt.\n\n### 4.2 Další související informace\n\n1. **Navýšení výdajů na POZE v roce 2025**  \n   - V roce 2025 vláda ještě Petra Fialy navyšovala výdaje na podporované zdroje energie o cca 20 mld Kč (z 8,5 mld na 28,57 mld), přičemž ministr financí Stanjura tehdy tvrdil, že to **nezvýší plánovaný schodek** rozpočtu, protože peníze budou kryty z rezerv a nespotřebovaných výdajů. ([cz.energyhub.eu](https://cz.energyhub.eu/cs/articles/1131714/vlada-projedna-zvyseni-letosnich-vydaju-na-obnovitelne-zdroje-o-20-miliard-korun?utm_source=openai))  \n   - To ukazuje, že **v rozpočtové debatě se skutečně rozlišuje** mezi „navýšením výdajů“ a „dopadem na schodek“; nicméně jde o **jiný rok a jiné rozhodnutí**, nikoli o prosincové převzetí veškerých plateb za POZE na rok 2026.\n\n2. **Opatření MF ke snížení překompenzací OZE (2024)**  \n   - MF avizovalo nástroje, které by v letech 2025–2030 mohly **snížit výdaje na dotace OZE v řádu jednotek až nižších desítek miliard korun ročně**, ale **bez konkrétního vyčíslení pro rok 2026**. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/mf-pripravilo-nastroje-diky-kterym-se-snizi-objem-57436))  \n   - Ani zde se nikde neobjevuje, že by v důsledku těchto opatření **„čistý dopad“ převedení plateb za POZE v roce 2026 klesal z 17 na 7 mld Kč**.\n\n3. **Politická komunikace nové vlády před rozhodnutím**  \n   - Např. Newstream cituje Alenu Schillerovou (ještě před jmenováním vlády), která pro rok 2026 odhaduje **rozpočtový dopad převedení poplatků za OZE na stát na 17–18 mld Kč**, přičemž slibuje, že deficit navržený Fialovou vládou nechce navyšovat a prostředky chce najít přesuny v rámci kapitol. ([newstream.cz](https://www.newstream.cz/politika/zruseni-poplatku-za-obnovitelne-zdroje-bude-stat-miliardy-schillerova-slibuje-ze-schodek-neporoste?utm_source=openai))  \n   - I zde se jako **dopad opatření samotného** uvádí cca **17 mld Kč**, nikoli 7 mld. To, že vláda deklaruje snahu „nenavyšovat schodek“, je jiná otázka (přesuny, škrty jinde).\n\n### 4.3 Shrnutí varianty B\n\n- **Žádný dohledatelný oficiální dokument** (MF, MPO, vláda) **ani seriózní analytický text** nepracuje s číslem **7 mld Kč** jako s „čistým dopadem“ kroku, který spočívá v převedení všech plateb za POZE na stát od roku 2026.\n- Naopak, **všechny** nalezené materiály (včetně výroků Karla Havlíčka z 16. 12. 2025) uvádějí jako dopad tohoto kroku na státní/veřejné rozpočty **zhruba 17 mld Kč**.\n\nPokud by Havlíček v Partii měl na mysli nějakou **velmi specifickou vnitřní účetní konstrukci** (např. kombinaci více opatření, z nichž některá rozpočet naopak zlepšují), pro takové tvrzení **nenacházíme žádnou oporu ve veřejně dostupných zdrojích** a zejména **není doloženo, že by vláda či MF komunikovaly právě číslo 7 mld Kč** jako oficiální „čistý dopad“ převodu POZE.\n\n---\n\n## 5. Závěrečné zhodnocení dílčích tvrzení\n\n### 5.1 „Dopad do rozpočtu 17 miliard“\n\n- Vláda, energetický regulátor (ERÚ), média i sám Karel Havlíček v prosinci 2025 **opakovaně uvádějí**, že převzetí všech plateb za POZE státem:\n  - zvyšuje výdaje státního rozpočtu **cca o 17 mld Kč ročně** oproti původnímu plánu,  \n  - a že celkové platby státu na POZE dosáhnou přes **41 mld Kč**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/tiskova-konference-po-jednani-vlady--16--prosince-2025-224299/))  \n\nTato část (17 mld Kč jako rozpočtový dopad opatření) je tedy **velmi dobře doložená a interně konzistentní napříč zdroji**.\n\n### 5.2 „Není to 17 miliard, ale 7 miliard – čistý dopad“\n\n- **Nebyla nalezena žádná relevantní evidence**, která by potvrzovala, že by oficiální rozpočtové dokumenty či komunikace MF/MPO pracovaly s číslem **7 mld Kč** jako:\n  - čistým dopadem převodu POZE na stát,\n  - nebo dopadem na saldo rozpočtu v roce 2026 vázaným výhradně na toto opatření.\n\n- Jedinou konzistentně se vyskytující hodnotou rozpočtového dopadu tohoto kroku je **cca 17 mld Kč**.\n\n---\n\n## 6. Celkové shrnutí pro fact‑check\n\n- **Faktický stav:** Všechny dohledané oficiální i důvěryhodné mediální zdroje (včetně výroků Karla Havlíčka z prosince 2025) uvádějí, že převedení všech plateb za POZE na stát v roce 2026 **zatěžuje státní/veřejné rozpočty přibližně o 17 mld Kč ročně navíc**.  \n- **Číslo 7 mld Kč:**  \n  - V souvislosti s tímto opatřením nebyl nalezen žádný oficiální ani analytický zdroj, který by uváděl „čistý dopad na rozpočet“ ve výši 7 mld Kč.  \n  - Havlíčkův pozdější výrok v Partii je **v rozporu** s jeho vlastním dřívějším vyjádřením na tiskové konferenci vlády a s jednotnou interpretací ve veřejných zdrojích.  \n\nNa základě dostupných důkazů tedy Havlíčkem tvrzený „čistý dopad 7 miliard“ **nemá oporu v dohledatelných datech ani v oficiální komunikaci vlády či ministerstev**, zatímco číslo **17 miliard Kč** je pro dané opatření standardně uváděným rozpočtovým dopadem.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 80615,
+      "input_tokens_details": {
+        "cached_tokens": 5376
+      },
+      "output_tokens": 16148,
+      "output_tokens_details": {
+        "reasoning_tokens": 11655
+      },
+      "total_tokens": 96763
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772535572,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

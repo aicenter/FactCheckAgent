@@ -1,0 +1,728 @@
+{
+  "claim_id": "24643",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260304_092626",
+  "source_md": "experiments/gpt5.1_h_20260304_092626/brief_fact_check_id24643.md",
+  "fact_check": "# Fact Check for Statement ID 24643\n\n## Statement\nMáme dnes jednu z nejvyšších regulovaných cen energie.\n\n---\n## AI Fact Check\n### 1. Základní rámec výroku\n\n- **Ověřovaný výrok (zkráceně):** „Máme dnes jednu z nejvyšších regulovaných cen energie.“\n- **Čas:** 1. 3. 2026 (po změně regulovaných cen od 1. 1. 2026).\n- **Kontext debaty:** diskuse o tzv. „zelené dani“ (poplatku na podporu obnovitelných zdrojů – POZE) a o rozdělení ceny elektřiny na regulovanou a neregulovanou složku.\n\nV českém prostředí je **„regulovaná složka ceny“** chápána jako část ceny, kterou každoročně stanovuje Energetický regulační úřad (ERÚ) – poplatky za distribuci a přenos elektřiny, systémové služby, poplatky na podporu OZE (POZE), provoz trhu (OTE) atd. ([eru.gov.cz](https://eru.gov.cz/co-je-regulovana-slozka-energii-za-co-v-ni-platime?utm_source=openai))  \n„Energie“ v daném kontextu prakticky míří hlavně na **elektřinu** (u plynu je obdobná regulovaná složka, ale v debatě jde primárně o „zelenou daň“ v elektřině).\n\nPro ověřování je užitečné rozložit výrok na dílčí tvrzení:\n\n1. **A1 – Celková cena elektřiny v ČR patří v EU k nejvyšším.**  \n2. **A2 – Regulovaná složka tvoří v ČR velkou a rostoucí část konečné ceny.**  \n3. **A3 – V mezinárodním srovnání patří regulovaná složka (zejména u elektřiny) k nejvyšším v EU.**  \n4. **A4 – „Energie“ obecně (včetně plynu): vztah tvrzení k plynu.**\n\nNásleduje evidence ke každému bodu.\n\n---\n\n## 2. A1 – Celková cena elektřiny v ČR v evropském srovnání\n\n### 2.1 Oficiální statistiky (Eurostat, ACER)\n\n- **Eurostat – ceny elektřiny pro domácnosti, 2. pololetí 2024**  \n  - Průměrná cena elektřiny pro domácnosti v EU: 28,72 €/100 kWh.  \n  - V přepočtu na standard kupní síly (PPS) měla **Czechia nejvyšší cenu v celé EU – 41,0 PPS/100 kWh**, před Kyprem (35,7) a Německem (35,2). ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n  - Eurostat výslovně uvádí, že **po přepočtu na PPS jsou domácnosti v ČR nejvíce zatíženy cenou elektřiny v EU**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\n- **ACER / Statista – nominální ceny 2H 2024**  \n  - Statista na základě Eurostatu uvádí, že v roce 2024 mělo Německo nejvyšší koncovou cenu elektřiny pro domácnosti (44,11 ct/kWh), následované Irskem; **Česko je mezi zeměmi s nejvyšší cenou, v řádu horní části žebříčku (cca 6.–7. místo).** ([statista.com](https://www.statista.com/statistics/273990/residential-electricity-prices-in-selected-eu-countries/?utm_source=openai))  \n\n### 2.2 Sekundární analýzy a české zdroje\n\n- **Prague Morning (na základě Eurostatu):** Pro 2H 2023 uvádí, že **české domácnosti platily nejvíce za elektřinu v celé EU po přepočtu na kupní sílu (41 PPS/100 kWh)**. ([praguemorning.cz](https://praguemorning.cz/czech-republic-eu-highest-electricity-prices-2024/?utm_source=openai))  \n- **ČTK/biom.cz:** Shrnuje data Eurostatu s tím, že **ceny elektřiny pro domácnosti v ČR byly ve 2H 2023 podle PPS nejvyšší v EU** a upozorňuje na rychlý růst cen v ČR. ([biom.cz](https://biom.cz/cz/zpravy-z-tisku/analytici-cr-v-energiich-doplaci-na-slabsi-ekonomiku-a-vyssi-regulovanou-slozku?utm_source=openai))  \n- **HEPI / Euronews (leden 2025):**  \n  - V nominálních cenách je Praha 7. nejdražším hlavním městem z 33 sledovaných.  \n  - Po přepočtu na PPS **má Praha (ČR) nejvyšší ceny elektřiny mezi sledovanými městy**, což ilustruje vysokou zátěž vzhledem k příjmům. ([euronews.com](https://www.euronews.com/business/2025/02/14/electricity-and-gas-prices-across-europe-how-does-your-country-compare?utm_source=openai))  \n- **MPO (16. 12. 2025):** Ministerstvo průmyslu a obchodu oficiálně uvádí, že **ČR má „po přepočtu na kupní sílu obyvatel suverénně nejvyšší ceny elektřiny v celé EU“** a že ceny elektřiny v ČR „patří k nejvyšším v Evropské unii“. ([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/vlada-rozhodla-o-snizeni-regulovane-slozky-ceny-elektriny--od-ledna-ulevi-domacnostem-i-firmam--290928/?utm_source=openai))  \n- **Energie.cz (2025, shrnutí za 2024):** Uvádí, že **v roce 2024 měla ČR 6. nejvyšší koncovou cenu elektřiny v EU** (0,2511 €/kWh vs. průměr EU 0,2151 €/kWh). Vysoké ceny jsou přisuzovány **vysokému podílu daní a regulovaných složek**. ([energie.cz](https://www.energie.cz/regulovane-ceny-pro-rok-2026/?utm_source=openai))  \n\n**Závěr k A1:**  \nData Eurostatu a dalších zdrojů jednoznačně ukazují, že **celková cena elektřiny pro domácnosti v ČR patří v letech 2023–2024 k nejvyšším v EU a po přepočtu na kupní sílu je dokonce nejvyšší**. Tato část rámce výroku (že energie v ČR jsou velmi drahé) je silně podložena.\n\n---\n\n## 3. A2 – Velikost regulované složky v ČR (bez mezinárodního srovnání)\n\n### 3.1 Co tvoří regulovanou složku\n\nERÚ vysvětluje, že **regulovaná složka** zahrnuje zejména:  \n- cenu za distribuci a přenos,  \n- systémové služby,  \n- poplatek na podporu elektřiny z podporovaných zdrojů (POZE),  \n- poplatky za nesíťovou infrastrukturu (OTE, ERÚ apod.). ([eru.gov.cz](https://eru.gov.cz/co-je-regulovana-slozka-energii-za-co-v-ni-platime?utm_source=openai))  \n\nTyto položky jsou stanoveny cenovými rozhodnutími ERÚ a tvoří „provozní“ část účtu za elektřinu.\n\n### 3.2 Podíl regulované složky na konečné ceně v ČR\n\n- **ERÚ – cenové rozhodnutí pro rok 2024:**  \n  - U domácností a malých podnikatelů (nízké napětí) má v roce 2024 regulovaná složka tvořit v průměru **39,2 % konečné ceny elektřiny**.  \n  - ERÚ uvádí, že **očekávaný průměrný nárůst regulované složky pro tuto skupinu dosáhne 65,7 % meziročně** (oproti 2023), zejména kvůli návratu plného poplatku na POZE a růstu nákladů na sítě. ([eru.gov.cz](https://eru.gov.cz/eru-zverejnil-regulovane-ceny-elektriny-plynu-na-rok-2024?utm_source=openai))  \n\n- **Energie.cz – vývoj podílu regulované složky:**  \n  - Elektřina – podíl regulované složky na konečné ceně:\n    - 2001: cca 30 %  \n    - 2010: 35 %  \n    - 2020: 45 %  \n    - **2024–2025: cca 50 %**  \n  - Plyn – podíl regulované složky:\n    - 2001: 15 %,  \n    - 2024–2025: 25 %.  \n  - U elektřiny proběhl **největší skok v roce 2024, kdy regulovaná složka vzrostla meziročně o 60–66 %**, zejména vlivem návratu POZE a vyšších nákladů na sítě. ([energie.cz](https://www.energie.cz/regulovane-ceny-pro-rok-2026/?utm_source=openai))  \n\n- **Český regionální tisk / Ušetřeno.cz (2024):**  \n  - Analýzy pro domácnosti ukazují, že **regulovaná složka (distribuce, systémové služby, poplatek za jistič, POZE atd.) tvoří více než 45 % koncové ceny elektřiny** u běžné domácnosti, a u některých tarifů může přesáhnout i 50 %, pokud je silová elektřina nakoupena levně. ([ceskolipsky.denik.cz](https://ceskolipsky.denik.cz/zpravy-z-ceska/ceny-energii-podzim-2024-2025.html?utm_source=openai))  \n\n- **ERÚ a média (iDNES 2024):**  \n  - ERÚ popisuje, že v roce 2024 **regulovaná složka elektřiny pro domácnosti meziročně stoupla o cca 65 %**, což znamenalo nárůst o více než 1000 Kč/MWh; u plynu pro domácnosti vzrostla regulovaná složka téměř o 39 %. ([idnes.cz](https://www.idnes.cz/ekonomika/domaci/eru-regulovane-ceny-elektrina-plyn.A241129_092653_ekonomika_ven?utm_source=openai))  \n\n**Závěr k A2:**  \nVnitrostátní data ukazují, že **regulovaná složka v ČR je u elektřiny velká (cca 40–50 % konečné ceny) a v roce 2024 prudce vzrostla**. Není to však ještě mezinárodní srovnání – pouze potvrzení, že regulovaná část v ČR je výrazná.\n\n---\n\n## 4. A3 – Mezinárodní srovnání regulované složky\n\n### 4.1 Domácnosti – elektřina (ACER / Eurostat)\n\n**ACER – „Breakdown of the final electricity price for households in 2023“ (Figure 27)** – na základě dat Eurostat nrg_pc_204_c poskytuje rozklad konečné ceny pro domácnosti (průměrná spotřeba, pásmo DC). ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n\nPro **Českou republiku**:\n\n- Energy and supply (silová elektřina): **0,18 €/kWh**  \n- **Network costs (přenos + distribuce): 0,07 €/kWh**  \n- VAT: 0,06 €/kWh  \n- Ostatní daně a poplatky (environmentální, obnovitelné atd.): podle tabulky nulové či zanedbatelné.\n\nSrovnání network costs (regulované síťové poplatky) v EU (2023):\n\n- Vyšší než ČR (0,07 €/kWh) mají např.:  \n  - **Lucembursko**: 0,12 €/kWh  \n  - **Belgie, Německo**: 0,09 €/kWh  \n  - **Rakousko, Dánsko, Finsko, Irsko, Nizozemsko, Španělsko, Švédsko**: 0,08 €/kWh ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n- Stejnou úroveň jako ČR (0,07 €/kWh) mají: **Francie, Lotyšsko**.  \n- Nižší hodnoty (0,03–0,06 €/kWh) mají např. Bulharsko, Chorvatsko, Kypr, Malta, Polsko, Portugalsko, Rumunsko, Slovensko, Slovinsko aj. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n\n**Interpretace:**\n\n- V žebříčku podle výše **síťových poplatků pro domácnosti** je ČR v **horní části (cca horní třetina), ale není v TOP 3–5 zemí**.  \n- Čistě podle network costs tedy **nelze říci, že ČR má „nejvyšší“ regulované síťové náklady**, ale lze konstatovat, že **patří k dražší části EU**.  \n\n### 4.2 Domácnosti – plyn (ACER / Eurostat)\n\n**ACER – „Breakdown of the final gas price for households by Member States in 2023“ (Figure 44)** ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/626/view))  \n\nPro **ČR (domácnosti)**:\n\n- Energy and supply: 0,08 €/kWh  \n- **Network costs: 0,01 €/kWh**  \n- VAT: 0,02 €/kWh  \n- Další daně a poplatky: 0.\n\nSrovnání network costs pro plyn:\n\n- Mnoho zemí má **vyšší síťové náklady** (0,02–0,04 €/kWh), např. Rakousko, Belgie, Dánsko, Francie, Německo, Irsko, Itálie, Lucembursko, Portugalsko, Slovensko, Španělsko, Švédsko. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/626/view))  \n- ČR je tedy u **regulovaných síťových poplatků za plyn spíše pod průměrem či v nižší části rozmezí EU**, nikoli mezi nejvyššími.\n\n### 4.3 Podíl distribuce na účtu (HEPI / Euronews)\n\n- **Euronews na základě HEPI (duben 2024):**  \n  - Podíl **distribuce** na ceně elektřiny v hlavních městech se pohybuje od 11 % (Nikosie) po 65 % (Budapešť), 60 % (Amsterdam); průměr EU‑27 činí 28 %.  \n  - Mezi městy s nejvyšším podílem distribuce uvádí zejména **Budapešť, Amsterdam, Lucemburk, Podgoricu, Bukurešť**; Praha není mezi nejvyzdvihovanějšími extrémy. ([euronews.com](https://www.euronews.com/business/2025/05/15/where-the-grid-hits-hardest-energy-distribution-costs-across-europe-compared?utm_source=openai))  \n\nTo naznačuje, že **podíl distribučních poplatků na konečné ceně elektřiny v Praze není úplně na samotném vrcholu evropského žebříčku**, i když může být nad průměrem.\n\n### 4.4 Analýzy pro průmysl / energeticky náročná odvětví\n\nZde se výrok „jedny z nejvyšších regulovaných cen“ objevuje v odborných a oborových studiích:\n\n- **Studie EGU (20. 11. 2025) pro energeticky náročná odvětví:**  \n  - Shrnutí Svazu chemického průmyslu ČR (SCHP) uvádí, že ve srovnání s jinými průmyslovými zeměmi EU jsou **spotové ceny elektřiny v ČR vyšší** a že **„v ČR jsou jedny z nejvyšších nákladů v rámci EU u regulované složky nákladů na elektřinu“**. ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n  - Studie zdůrazňuje, že náklady na připojování nových zdrojů a investice do přenosové a distribuční soustavy jsou výrazně přeneseny na velké odběratele. ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n\n- **Energy‑Hub / ČTK (20. 11. 2025):**  \n  - Zpráva o téže studii EGU uvádí, že **„spotové ceny elektřiny i regulovaná část ceny energií [v ČR] patří k nejvyšším v Evropě“**, a že energeticky náročným firmám v ČR hrozí ztráta konkurenceschopnosti právě kvůli těmto nákladům. ([portfolio.energy-hub.cz](https://www.portfolio.energy-hub.cz/sk/articles/1161646/studie-energeticky-narocnym-firmam-v-cr-hrozi-kolaps-pricinou-drahe-energie?utm_source=openai))  \n\n- **ČTK / ČeskéNoviny (30. 10. 2025) – analýza návrhu ERÚ na rok 2026:**  \n  - ERÚ odhaduje pro rok 2026 podíl regulované složky na konečné ceně elektřiny pro domácnosti **více než 45 %**, pro plyn cca 25 %. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/regulovana-slozka-ceny-energii-pro-domacnosti-ma-stoupnout-v-prumeru-o-stovky-kc/2740909))  \n  - Analytik **Jiří Tyleček (XTB)** v článku uvádí, že **„už nyní patří regulovaná složka ceny elektřiny v Česku mezi nejvyšší v Evropě“** a že případné převzetí POZE státem by snížilo regulované ceny asi o 15 %. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/regulovana-slozka-ceny-energii-pro-domacnosti-ma-stoupnout-v-prumeru-o-stovky-kc/2740909))  \n\n- **Analýzy pro průmysl (SCHP):** zdůrazňují, že **ČR kompenzuje energeticky náročným odvětvím regulované náklady méně než např. Německo nebo Francie**, kde existují rozsáhlé slevy či kompenzace na distribučních tarifech. ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n\n**Závěr k A3 (shrnutí důkazů):**\n\n- **Domácnosti – elektřina:**  \n  - Oficiální data (ACER/Eurostat) ukazují, že **síťové (regulované) náklady 0,07 €/kWh jsou v horní třetině EU, ale nikoli úplně nejvyšší** – řada zemí má vyšší network costs. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n  - Celková koncová cena elektřiny je ovšem v ČR **jedna z nejvyšších v EU**, zejména po přepočtu na kupní sílu. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\n- **Domácnosti – plyn:**  \n  - Síťové náklady 0,01 €/kWh jsou spíše **pod průměrem EU**, rozhodně ne mezi nejvyššími. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/626/view))  \n\n- **Průmysl / velcí odběratelé:**  \n  - Odborná studie EGU (citovaná SCHP a Energy‑Hub) a komentáře analytiků (Tyleček) tvrdí, že **regulovaná část nákladů na elektřinu v ČR patří u energeticky náročných odvětví k nejvyšším v EU**. Tyto závěry se opírají o interní analýzy, které však nejsou v plně strukturované podobě veřejně (snad jen v přiložených prezentacích). ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n\n---\n\n## 5. A4 – Vztah výroku k plynu (energie obecně)\n\nVýrok mluví o „regulovaných cenách energie“ obecně, nicméně:\n\n- U **plynu pro domácnosti** data ACER ukazují, že **síťové (regulované) náklady v ČR jsou relativně nízké (0,01 €/kWh) a nejsou mezi nejvyššími v EU**. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/626/view))  \n- ERÚ a média uvádějí, že **regulovaná složka tvoří u plynu pro domácnosti kolem 23–25 % ceny**, méně než u elektřiny, ačkoli v roce 2024 výrazně vzrostla. ([idnes.cz](https://www.idnes.cz/ekonomika/domaci/eru-regulovane-ceny-elektrina-plyn.A241129_092653_ekonomika_ven?utm_source=openai))  \n\nVzhledem ke kontextu Havlíčkova výroku (zelená daň, POZE, ceny elektřiny) je pravděpodobné, že „energie“ je myšleno primárně **elektřina**, nikoli plyn obecně. Pokud by se však výrok vztahoval i na **plyn**, oficiální data by tuto část tvrzení **nepodporovala**.\n\n---\n\n## 6. Kontext vládních zásahů před výrokem (konec 2025 – začátek 2026)\n\n- **16. 12. 2025 – rozhodnutí vlády:**  \n  - Vláda rozhodla o **snížení regulované složky ceny elektřiny** tím, že **stát převezme celý poplatek na podporu OZE (POZE)**.  \n  - Opatření má od 1. 1. 2026 snížit konečnou cenu elektřiny pro všechny odběratele zhruba o 10 %. Přitom ostatní regulované poplatky (distribuce, přenos, systémové služby atd.) v objemu cca 70 mld. Kč zůstávají na straně zákazníků. ([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/vlada-rozhodla-o-snizeni-regulovane-slozky-ceny-elektriny--od-ledna-ulevi-domacnostem-i-firmam--290928/?utm_source=openai))  \n\n- **ERÚ (29. 12. 2025):**  \n  - Zveřejňuje změnový cenový výměr, který ruší platby na POZE pro koncové zákazníky od 1. 1. 2026 a potvrzuje zhruba 10% snížení konečné ceny elektřiny. ([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/uz-od-ledna-nizsi-ceny-elektriny-pro-domacnosti-a-firmy--eru-vydal-zmenovy-cenovy-vymer--291033/?utm_source=openai))  \n\nTato změna snižuje úroveň regulované složky od roku 2026, ale:\n\n- **Neeliminuje vysoké distribuční a síťové náklady**, které podle EGU a analytiků zůstávají pro průmysl i domácnosti problémem. ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n- Pořád platí, že **podle dat za 2H 2024 (poslední dostupná mezinárodní data) má ČR nejvyšší ceny elektřiny v EU po přepočtu na PPS**; efekt lednového snížení v mezinárodním srovnání zatím není statisticky zachycen. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\n---\n\n## 7. Shrnutí důkazů ve vztahu k výroku\n\n**Co je silně podloženo:**\n\n1. **Celkové ceny elektřiny:**  \n   - ČR má v letech 2023–2024 **jedny z nejvyšších koncových cen elektřiny v EU**, po přepočtu na kupní sílu dokonce **nejvyšší**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\n2. **Velký a rostoucí význam regulované složky v ČR:**  \n   - Regulovaná složka (hlavně distribuce + POZE) tvoří u elektřiny **cca 40–50 % konečné ceny** a v roce 2024 skokově vzrostla o desítky procent. ([eru.gov.cz](https://eru.gov.cz/eru-zverejnil-regulovane-ceny-elektriny-plynu-na-rok-2024?utm_source=openai))  \n\n3. **Odborné a oborové analýzy pro průmysl:**  \n   - Studie EGU a analytici (Macenauer, Tyleček) výslovně uvádějí, že **regulovaná složka ceny elektřiny v ČR patří (zejména pro energeticky náročné podniky) k nejvyšším v Evropě**. ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n\n**Co je spíše nuance / částečný rozpor:**\n\n1. **Domácnosti – síťové poplatky (network costs) dle ACER:**  \n   - Network costs 0,07 €/kWh řadí ČR **spíše do horní třetiny EU**, ale existuje zhruba 10 zemí s vyššími síťovými náklady (Lucembursko, Německo, Belgie, část západní a severské Evropy). ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n   - Čistě podle síťových nákladů pro domácnosti tedy nejsou české regulované poplatky **na absolutním vrcholu** EU; lze je však charakterizovat jako **nadprůměrně vysoké**.\n\n2. **Plyn pro domácnosti:**  \n   - U plynu jsou **síťové poplatky v ČR nízké (0,01 €/kWh) a zjevně nepatří mezi nejvyšší v EU**. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/626/view))  \n   - Pokud by výrok platil doslova pro „energii“ obecně (elektřina i plyn), **část týkající se plynu není oficiálními daty podložena**.\n\n**Celkové hodnocení podkladů:**\n\n- **Pro elektřinu** (zvláště po přepočtu na kupní sílu a včetně regulovaných složek) mají české domácnosti i firmy *jedny z nejvyšších účtů v EU*. Významnou část těchto účtů tvoří regulovaná složka, která v posledních letech v ČR výrazně vzrostla a odborné analýzy pro energeticky náročný průmysl ji explicitně označují za „jednu z nejvyšších v EU“. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\n- **Oficiální, detailní evropské statistiky pro domácnosti** (ACER/Eurostat) ale ukazují, že pokud se díváme izolovaně **jen na síťové (regulované) poplatky za elektřinu na kWh**, je ČR spíš v **horní části žebříčku**, ne absolutní špičce. U **plynu** je regulovaná složka v ČR spíše podprůměrná. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n\nTato zpráva tedy poskytuje podklady jak pro interpretaci výroku jako **politicky zjednodušeného, ale reálně podloženého pro elektřinu**, tak pro upozornění na **omezení a nepřesnosti**, zejména pokud by se výrok vztahoval na energii obecně nebo čistě na síťové poplatky domácností.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:12:38\\nTerezie Tománková,moderátorka\\nJsou to dotace, ti dotovaní o nic nepřijdou, jenom to buď se platí přímo ve fakturách, nebo to platí stát a stát žádné peníze nemá. Jsou to peníze lidí, oni to stejně platí.\\n00:12:47\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nPřesně.\\n00:12:47\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nJe to zelená daň, zelená daň, která vznikla v letech 2006–2010, v době, kdy zde vládly vaše vlády, čímž neříkám, že za to osobně můžete vy, ale v každém případě nás tenhle ten špás bude stát 600 miliard korun. Po dobu 15 let to bylo s výjimkou jednoho roku, to uznávám, v rukou státu, který platil částečně, částečně spotřebitelé a částečně firmy. My jsme tu zelenou daň utli nejenom proto, že tak učinili v okolních zemích, nejenom proto, že máme dnes jednu z nejvyšších regulovaných cen energie, mimo jiné i díky tomuto skoro 60 %. Nejenom proto, že zatímco ostatní země vstoupily nějakým způsobem třeba i do té složky neregulované, do té složky silové, což vy jste neudělali, ale hlavně proto, že jsme tady měli skutečně jedny z nejvyšších cen energií a v zásadě nebyla jiná možnost, chceme-li něco udělat rychle, ale ta podstata, kterou stále vy se snažíte, nevěřím tomu, že to nechápete, ale snažíte se to stále jaksi zamlouvat, je to, že přece vycházíme-li z toho, že jsme tržně orientovanou ekonomikou, což jsme, a že vyšší výkonnost firem přinese vyšší daně, vyšší odvody a vyšší investice, což se nám vrátí do toho rozpočtu na té příjmové stránce, tak v tu chvíli já tvrdím, že to bude těch posledních sedm miliard korun, které budeme počítat. A ano, vy byste měl pravdu, že se to dotkne kapes daňových poplatníků, kdybychom zvyšovali daně, ale, pane poslanče, daně jste zvyšovali vy navzdory tomu, že jste tvrdili, že žádné daně zvyšovat nebudete, ještě jste zatím udělal slovo tečka. Vy jste zvýšili prakticky všem a my tvrdíme kategoricky, že nikomu daně zvyšovat nebudeme. Z čeho by to tedy zaplatili ti lidé?\\n00:14:22\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Máme dnes jednu z nejvyšších regulovaných cen energie.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 372.07 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Elektřina je v Česku v rámci EU opravdu velmi drahá a regulovaná složka účtů je nadprůměrně vysoká, ne však úplně nejvyšší a už vůbec ne u plynu. Výrok „máme dnes jednu z nejvyšších regulovaných cen energie“ proto celkově hodnotíme jako zavádějící.</p>\n\n<p>Výrok zazněl začátkem března 2026 v debatě o tzv. „zelené dani“, tedy poplatku na podporu obnovitelných zdrojů (POZE), a o rozdělení účtu za elektřinu na regulovanou a neregulovanou část. V českém prostředí se pod regulovanou složkou rozumí zejména platby za distribuci a přenos, systémové služby, poplatky na podporu obnovitelných zdrojů, činnost operátora trhu a Energetického regulačního úřadu, které každoročně stanovuje ERÚ ve svých cenových rozhodnutích, jak popisuje samotný <a href=\"https://eru.gov.cz/co-je-regulovana-slozka-energii-za-co-v-ni-platime?utm_source=openai\">ERÚ</a>. V dané debatě se pod pojmem „energie“ fakticky míní hlavně elektřina, ale jazyk výroku zní obecně.</p>\n\n<p>Výrok podle nás obsahuje tři ověřitelná tvrzení. Zaprvé, že celková cena elektřiny v Česku patří v EU k vůbec nejvyšším. Zadruhé, že samotná regulovaná složka ceny elektřiny je v mezinárodním srovnání jednou z nejvyšších. Zatřetí, že totéž platí obecně pro „energii“, tedy i pro plyn. Každou z těchto částí jsme ověřovali zvlášť.</p>\n\n<p>U prvního tvrzení, tedy celkové ceny elektřiny pro domácnosti, jsou mezinárodní data velmi jednoznačná. Statistika <a href=\"https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai\">Eurostatu</a> pro druhé pololetí 2024 ukazuje, že průměrná cena elektřiny v EU byla 28,72 eura za 100 kWh. Po přepočtu na standard kupní síly, který zohledňuje nižší mzdy v ČR, vychází českým domácnostem cena 41 jednotek PPS na 100 kWh a Eurostat výslovně uvádí, že po tomto přepočtu mají domácnosti v Česku nejvyšší zátěž z celé EU. Podobně Ministerstvo průmyslu a obchodu ve své tiskové zprávě z prosince 2025 píše, že ČR má po přepočtu na kupní sílu obyvatel <i>„suverénně nejvyšší ceny elektřiny v celé EU“</i> a že naše ceny elektřiny <a href=\"https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/vlada-rozhodla-o-snizeni-regulovane-slozky-ceny-elektriny--od-ledna-ulevi-domacnostem-i-firmam--290928/?utm_source=openai\">patří k nejvyšším v Unii</a>. Tento dílčí závěr je tedy pravdivý – elektřina v Česku opravdu patří k nejdražším v Evropě, zejména když zohledníme české příjmy.</p>\n\n<p>Druhé tvrzení se týká samotné regulované složky ceny elektřiny. Podle cenového rozhodnutí ERÚ pro rok 2024 měla regulovaná část u domácností a malých podnikatelů v nízkém napětí tvořit v průměru přibližně 39 % celkové ceny, přičemž ERÚ odhadoval meziroční nárůst této regulované složky kolem 65 %, zejména kvůli návratu plného poplatku na obnovitelné zdroje a vyšším nákladům na sítě, jak úřad shrnul ve zprávě o <a href=\"https://eru.gov.cz/eru-zverejnil-regulovane-ceny-elektriny-plynu-na-rok-2024?utm_source=openai\">regulovaných cenách na rok 2024</a>. Soukromé analytické weby, například energetický portál <a href=\"https://www.energie.cz/regulovane-ceny-pro-rok-2026/?utm_source=openai\">Energie.cz</a>, dlouhodobě ukazují, že podíl regulované složky na účtu za elektřinu vzrostl od zhruba 30 % na začátku tisíciletí k hodnotám okolo 45–50 % v posledních letech, přičemž největší skok přišel právě v roce 2024 po obnovení poplatku na podporu obnovitelných zdrojů.</p>\n\n<p>Z evropského pohledu ale existují přesnější srovnávací statistiky. Databáze agentury ACER, vycházející z údajů Eurostatu, rozkládá koncovou cenu elektřiny pro domácnosti na silovou elektřinu, síťové poplatky a daně. Pro Českou republiku udává za rok 2023 síťové (tedy převážně regulované) náklady přibližně 0,07 eura za kWh, zatímco v některých zemích, jako jsou Lucembursko, Belgie nebo Německo, činí síťové náklady 0,09–0,12 eura za kWh, jak je vidět v přehledu ACER pro <a href=\"https://aegis.acer.europa.eu/chest/dataitems/608/view\">domácnosti</a>. Podobně vyšší síťové poplatky než v Česku mají i další západoevropské a severské státy. Z hlediska samotných distribučních a přenosových poplatků pro domácnosti tedy ČR patří spíše do horní třetiny zemí EU, ale nikoliv do absolutní špičky, kde se nachází několik jiných států.</p>\n\n<p>Na druhou stranu odborné a oborové analýzy zaměřené na velké průmyslové odběratele docházejí k přísnějším závěrům. Studie společnosti EGU, kterou cituje Svaz chemického průmyslu, zdůrazňuje, že energeticky náročná odvětví v ČR čelí nejen vyšším tržním cenám elektřiny, ale i tomu, že <i>„v ČR jsou jedny z nejvyšších nákladů v rámci EU u regulované složky nákladů na elektřinu“</i>, přičemž velká část investic do sítí se přenáší právě na tyto firmy, jak shrnuje Svaz chemického průmyslu na svém webu <a href=\"https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni\">schp.cz</a>. Zpráva ČTK, kterou přebírá server ČeskéNoviny, navíc cituje analytika Jiřího Tylečka z XTB, podle něhož už před úpravou na rok 2026 <i>„patří regulovaná složka ceny elektřiny v Česku mezi nejvyšší v Evropě“</i>, a upozorňuje, že převzetí poplatků na obnovitelné zdroje státem by snížilo regulovanou část účtu o zhruba 15 %, jak uvádí článek o návrhu ERÚ na rok 2026 na <a href=\"https://www.ceskenoviny.cz/zpravy/regulovana-slozka-ceny-energii-pro-domacnosti-ma-stoupnout-v-prumeru-o-stovky-kc/2740909\">ceskenoviny.cz</a>.</p>\n\n<p>K 1. lednu 2026 vláda skutečně zareagovala a rozhodla, že celý poplatek na podporu obnovitelných zdrojů přejde ze spotřebitelů na státní rozpočet. Ministerstvo průmyslu a obchodu v tiskové zprávě uvádí, že tím dojde k přibližně desetiprocentnímu poklesu účtů za elektřinu pro všechny odběratele, zatímco ostatní regulované položky (distribuce, přenos, systémové služby) v objemu kolem 70 miliard korun zůstávají na straně zákazníků, jak vláda popsala ve sdělení o <a href=\"https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/uz-od-ledna-nizsi-ceny-elektriny-pro-domacnosti-a-firmy--eru-vydal-zmenovy-cenovy-vymer--291033/?utm_source=openai\">snížení regulované složky</a>. Z pohledu českých domácností tedy regulovaná složka zůstává i po této úpravě významná, ale mezinárodní statistiky za období po lednu 2026 zatím k dispozici nejsou. Z dostupných dat lze nicméně říci, že regulovaná složka elektřiny je v ČR nadprůměrná a u průmyslu odborné analýzy mluví skutečně o „jedněch z nejvyšších“ nákladů v EU, zatímco u domácností jsou čisté síťové poplatky spíše v horní části než úplně na vrcholu evropského žebříčku.</p>\n\n<p>Třetí tvrzení ve výroku, tedy že „jedny z nejvyšších regulovaných cen“ se týkají energie obecně, tedy i plynu, už dostupná data nepodporují. ACER ve svém přehledu pro domácnosti rozkládá koncovou cenu plynu podobně jako u elektřiny. U České republiky vychází síťové (regulované) náklady pouze kolem 0,01 eura za kWh, zatímco v řadě států, například v Rakousku, Belgii, Německu nebo Španělsku, jsou síťové poplatky 0,02–0,04 eura za kWh, jak ukazuje datový přehled ACER pro <a href=\"https://aegis.acer.europa.eu/chest/dataitems/626/view\">ceny plynu</a>. České zdroje potvrzují, že regulovaná složka u plynu pro domácnosti tvoří zhruba čtvrtinu účtu a v roce 2024 sice výrazně vzrostla, ale její absolutní výše je v evropském kontextu spíše nižší, jak shrnuje například článek o regulovaných cenách ERÚ na <a href=\"https://www.idnes.cz/ekonomika/domaci/eru-regulovane-ceny-elektrina-plyn.A241129_092653_ekonomika_ven?utm_source=openai\">iDNES.cz</a>. U plynu tedy rozhodně nelze mluvit o tom, že by ČR měla jedny z nejvyšších regulovaných cen v Evropě.</p>\n\n<p>Souhrnně proto hodnotíme jednotlivé části výroku následovně. Tvrzení, že elektřina v Česku patří v EU k nejdražším, je podloženo oficiálními evropskými statistikami i národními analýzami a je pravdivé. Tvrzení, že regulovaná složka účtů za elektřinu je výjimečně vysoká, je u velkých průmyslových odběratelů silně podpořeno odbornými studiemi, zatímco u domácností ukazují mezinárodní data spíše nadprůměrné než úplně nejvyšší síťové poplatky. Tvrzení, že totéž platí obecně pro „energii“, tedy i pro plyn, je ovšem v rozporu s daty – regulovaná složka u plynu je v evropském srovnání spíše nízká.</p>\n\n<p>Celkově tak výrok stojí na reálném problému vysokých cen elektřiny a významné regulované složky, ale zobecňuje tuto situaci na energii jako celek a naznačuje, že české regulované ceny jsou v evropském žebříčku úplně na vrcholu, což z dostupných statistických dat jednoznačně nevyplývá. Výrok proto hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0a62175353cea50b0069a7ee5c1ca48192b8510d7a2322dfb9",
+    "created_at": 1772613212.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0a62175353cea50b0069a7ee63fa6481928624b8feffa9c40a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7ee6dd4ec81929645d0efd1367cfb",
+        "action": {
+          "query": "\"regulovaná složka\" ceny elektřiny patří k nejvyšším v Evropě",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"regulovaná složka\" ceny elektřiny patří k nejvyšším v Evropě",
+            "ERU srovnání regulovaných cen elektřiny s Evropou 2024",
+            "Czech Republic regulated component electricity price households comparison EU",
+            "\"regulovaná složka ceny\" mezinárodní srovnání"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7ee700bb48192accb9f85bbca1e94",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7ee74d7748192aa30aa47a573fe6a",
+        "action": {
+          "query": "\"regulovaná složka\" 60 % ceny elektřiny",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"regulovaná složka\" 60 % ceny elektřiny",
+            "\"skoro 60 %\" \"regulovaná složka\" elektřiny",
+            "podíl regulované složky ceny elektřiny 60 % 2024",
+            "Czech regulated component share of electricity price 60%"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7ee76d3688192a81e470bf1825fb8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7ee77a1d08192a496509430ae0e31",
+        "action": {
+          "query": "\"regulated component\" electricity price Czech Republic network tariffs highest in EU",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"regulated component\" electricity price Czech Republic network tariffs highest in EU",
+            "\"network charges\" component of electricity price comparison Europe 2024",
+            "distribution tariffs household electricity comparison EU 2023",
+            "\"Household Energy Price Index\" breakdown taxes levies network charges"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7ee79d958819284a2275d8a007cb0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7ee8044e48192b4c7811f4c020bc5",
+        "action": {
+          "query": "\"Household Energy Price Index\" Prague distribution share",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Household Energy Price Index\" Prague distribution share",
+            "HEPI distribution component Prague 2024 network charges",
+            "\"Prague\" \"Household Energy Price Index\" distribution",
+            "\"Czechia\" \"network costs\" \"electricity\" Eurostat 2024 rising"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7ee8262988192b8c4d6ea5b7cfacc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7ee86b67c819285e39115da3197ef",
+        "action": {
+          "query": "Eurostat electricity prices components households network costs taxes levies nrg_pc_204 Czechia",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Eurostat electricity prices components households network costs taxes levies nrg_pc_204 Czechia",
+            "\"nrg_pc_204\" \"network costs\" Czechia",
+            "\"electricity price components for household consumers\" Eurostat network Czechia",
+            "\"distribution\" \"Household Energy Price Index\" network charges share April 2024 Prague"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7ee8a7f908192b5949fd379bdcbdb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7eea343c88192a805fcd2eb0215dc",
+        "action": {
+          "query": "\"nejvyšší regulované složky\" elektřiny",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nejvyšší regulované složky\" elektřiny",
+            "\"nejvyšší regulovanou složku\" elektřiny",
+            "\"regulovaná složka\" \"patří k nejvyšším\"",
+            "\"regulované ceny\" elektřiny patří k nejvyšším"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7eea77ed081928bf4db38851c00a0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7eeb19aa88192af25c46873960c4d",
+        "action": {
+          "query": "\"podil regulovanych slozek\" ceny elektřiny v Evropě",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"podil regulovanych slozek\" ceny elektřiny v Evropě",
+            "\"regulovaná část\" ceny elektřiny \"patří k nejvyšším v Evropě\"",
+            "\"jedny z nejvyšších\" \"regulovaných cen energií\"",
+            "\"regulovaná složka\" \"Evropské unie\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7eeb938348192a8de2deab8ccd31d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7eeba87f48192bfd60e6016cd3844",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7eec12fa88192a1149fbcecb6a49d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7eeca766c8192a900ecf56e927c71",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7eecbbbb08192b1c70fed877559a0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7eecd5af08192bb7d4b830a499a77",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7eecfb5dc8192853477803369ca90",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7eed427388192937c12cb8a955b39",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7eed512e881928724bbd5e7c31915",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7eee01e548192a8a2c5c5e3d18289",
+        "action": {
+          "query": "\"regulované složky nákladů na elektřinu\" energeticky náročná odvětví EGU",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"regulované složky nákladů na elektřinu\" energeticky náročná odvětví EGU",
+            "\"jedny z nejvyšších nákladů\" \"regulované složky\" elektřiny",
+            "EGU studie regulovaná složka nákladů na elektřinu v EU",
+            "\"Breakdown of the final electricity price for households in 2023\" ACER Czech network highest industrial"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7eee6145c8192868f2b33e5818503",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7ef143d5081929ef7266e50063241",
+        "action": {
+          "query": "\"network costs\" gas prices households EU 2023 Eurostat",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"network costs\" gas prices households EU 2023 Eurostat",
+            "\"Breakdown of the final gas price for households in 2023\" ACER",
+            "\"regulated component\" gas price Czechia Europe",
+            "\"regulovaná složka\" ceny plynu patří k nejvyšším"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7ef188f548192af1fe9730baa3eaa",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7ef1a1aec8192b48a06b97ab8db36",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7ef1b7c208192ae0b93557199f6dc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a62175353cea50b0069a7ef276efc8192ba792b03244524a4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a62175353cea50b0069a7ef288a948192a326be7ec19f3f3e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0a62175353cea50b0069a7ef60ebe881929a84906807f340d9",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 713,
+                "start_index": 610,
+                "title": "Co je regulovaná složka energií a za co v ní platíme | eru.gov.cz",
+                "type": "url_citation",
+                "url": "https://eru.gov.cz/co-je-regulovana-slozka-energii-za-co-v-ni-platime?utm_source=openai"
+              },
+              {
+                "end_index": 1792,
+                "start_index": 1683,
+                "title": "Household electricity prices in the EU stable in 2024 - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai"
+              },
+              {
+                "end_index": 2019,
+                "start_index": 1910,
+                "title": "Household electricity prices in the EU stable in 2024 - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai"
+              },
+              {
+                "end_index": 2450,
+                "start_index": 2315,
+                "title": "Europe: household electricity prices by country 2024| Statista",
+                "type": "url_citation",
+                "url": "https://www.statista.com/statistics/273990/residential-electricity-prices-in-selected-eu-countries/?utm_source=openai"
+              },
+              {
+                "end_index": 2783,
+                "start_index": 2668,
+                "title": "Czechia Had the EU’s Highest Electricity Prices in 2024",
+                "type": "url_citation",
+                "url": "https://praguemorning.cz/czech-republic-eu-highest-electricity-prices-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 3099,
+                "start_index": 2955,
+                "title": "Biom :: Analytici: ČR v energiích doplácí na slabší ekonomiku a vyšší regulovanou složku : Biom.cz",
+                "type": "url_citation",
+                "url": "https://biom.cz/cz/zpravy-z-tisku/analytici-cr-v-energiich-doplaci-na-slabsi-ekonomiku-a-vyssi-regulovanou-slozku?utm_source=openai"
+              },
+              {
+                "end_index": 3511,
+                "start_index": 3360,
+                "title": "Electricity and gas prices across Europe: How does your country compare? | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/business/2025/02/14/electricity-and-gas-prices-across-europe-how-does-your-country-compare?utm_source=openai"
+              },
+              {
+                "end_index": 3940,
+                "start_index": 3745,
+                "title": "Vláda rozhodla o snížení regulované složky ceny elektřiny. Od ledna uleví domácnostem i firmám | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/vlada-rozhodla-o-snizeni-regulovane-slozky-ceny-elektriny--od-ledna-ulevi-domacnostem-i-firmam--290928/?utm_source=openai"
+              },
+              {
+                "end_index": 4266,
+                "start_index": 4180,
+                "title": "Regulované ceny pro rok 2026 | Energie.cz",
+                "type": "url_citation",
+                "url": "https://www.energie.cz/regulovane-ceny-pro-rok-2026/?utm_source=openai"
+              },
+              {
+                "end_index": 5017,
+                "start_index": 4914,
+                "title": "Co je regulovaná složka energií a za co v ní platíme | eru.gov.cz",
+                "type": "url_citation",
+                "url": "https://eru.gov.cz/co-je-regulovana-slozka-energii-za-co-v-ni-platime?utm_source=openai"
+              },
+              {
+                "end_index": 5663,
+                "start_index": 5553,
+                "title": "ERÚ zveřejnil regulované ceny elektřiny a plynu na rok 2024 | eru.gov.cz",
+                "type": "url_citation",
+                "url": "https://eru.gov.cz/eru-zverejnil-regulovane-ceny-elektriny-plynu-na-rok-2024?utm_source=openai"
+              },
+              {
+                "end_index": 6199,
+                "start_index": 6113,
+                "title": "Regulované ceny pro rok 2026 | Energie.cz",
+                "type": "url_citation",
+                "url": "https://www.energie.cz/regulovane-ceny-pro-rok-2026/?utm_source=openai"
+              },
+              {
+                "end_index": 6651,
+                "start_index": 6529,
+                "title": "Jak to bude s cenami energií? Před podzimem rostou. Experti radí fixaci či změnu - Českolipský deník",
+                "type": "url_citation",
+                "url": "https://ceskolipsky.denik.cz/zpravy-z-ceska/ceny-energii-podzim-2024-2025.html?utm_source=openai"
+              },
+              {
+                "end_index": 7041,
+                "start_index": 6908,
+                "title": "ERÚ zvýšil regulovanou složku cen, domácnosti na energiích přesto ušetří - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/ekonomika/domaci/eru-regulovane-ceny-elektrina-plyn.A241129_092653_ekonomika_ven?utm_source=openai"
+              },
+              {
+                "end_index": 7685,
+                "start_index": 7606,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/608/view"
+              },
+              {
+                "end_index": 8294,
+                "start_index": 8215,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/608/view"
+              },
+              {
+                "end_index": 8582,
+                "start_index": 8503,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/608/view"
+              },
+              {
+                "end_index": 9112,
+                "start_index": 9033,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/626/view"
+              },
+              {
+                "end_index": 9554,
+                "start_index": 9475,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/626/view"
+              },
+              {
+                "end_index": 10263,
+                "start_index": 10106,
+                "title": "Where the grid hits hardest: Energy distribution costs across Europe compared | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/business/2025/05/15/where-the-grid-hits-hardest-energy-distribution-costs-across-europe-compared?utm_source=openai"
+              },
+              {
+                "end_index": 11114,
+                "start_index": 10901,
+                "title": "Energeticky náročná odvětví v ČR jsou dlouhodobě znevýhodněna vysokými cenami elektřiny, jejich význam pro zaměstnanost, hospodářský růst i zajištění bezpečnosti je však zásadní",
+                "type": "url_citation",
+                "url": "https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni"
+              },
+              {
+                "end_index": 11485,
+                "start_index": 11272,
+                "title": "Energeticky náročná odvětví v ČR jsou dlouhodobě znevýhodněna vysokými cenami elektřiny, jejich význam pro zaměstnanost, hospodářský růst i zajištění bezpečnosti je však zásadní",
+                "type": "url_citation",
+                "url": "https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni"
+              },
+              {
+                "end_index": 11942,
+                "start_index": 11764,
+                "title": "ENERGY-HUB - Studie: Energeticky náročným firmám v ČR hrozí kolaps, příčinou drahé energie",
+                "type": "url_citation",
+                "url": "https://www.portfolio.energy-hub.cz/sk/articles/1161646/studie-energeticky-narocnym-firmam-v-cr-hrozi-kolaps-pricinou-drahe-energie?utm_source=openai"
+              },
+              {
+                "end_index": 12296,
+                "start_index": 12154,
+                "title": "Regulovaná složka ceny energií pro domácnosti má stoupnout v průměru o stovky Kč | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/regulovana-slozka-ceny-energii-pro-domacnosti-ma-stoupnout-v-prumeru-o-stovky-kc/2740909"
+              },
+              {
+                "end_index": 12654,
+                "start_index": 12512,
+                "title": "Regulovaná složka ceny energií pro domácnosti má stoupnout v průměru o stovky Kč | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/regulovana-slozka-ceny-energii-pro-domacnosti-ma-stoupnout-v-prumeru-o-stovky-kc/2740909"
+              },
+              {
+                "end_index": 13093,
+                "start_index": 12880,
+                "title": "Energeticky náročná odvětví v ČR jsou dlouhodobě znevýhodněna vysokými cenami elektřiny, jejich význam pro zaměstnanost, hospodářský růst i zajištění bezpečnosti je však zásadní",
+                "type": "url_citation",
+                "url": "https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni"
+              },
+              {
+                "end_index": 13419,
+                "start_index": 13340,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/608/view"
+              },
+              {
+                "end_index": 13644,
+                "start_index": 13535,
+                "title": "Household electricity prices in the EU stable in 2024 - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai"
+              },
+              {
+                "end_index": 13845,
+                "start_index": 13766,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/626/view"
+              },
+              {
+                "end_index": 14429,
+                "start_index": 14216,
+                "title": "Energeticky náročná odvětví v ČR jsou dlouhodobě znevýhodněna vysokými cenami elektřiny, jejich význam pro zaměstnanost, hospodářský růst i zajištění bezpečnosti je však zásadní",
+                "type": "url_citation",
+                "url": "https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni"
+              },
+              {
+                "end_index": 14782,
+                "start_index": 14703,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/626/view"
+              },
+              {
+                "end_index": 15074,
+                "start_index": 14941,
+                "title": "ERÚ zvýšil regulovanou složku cen, domácnosti na energiích přesto ušetří - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/ekonomika/domaci/eru-regulovane-ceny-elektrina-plyn.A241129_092653_ekonomika_ven?utm_source=openai"
+              },
+              {
+                "end_index": 16019,
+                "start_index": 15824,
+                "title": "Vláda rozhodla o snížení regulované složky ceny elektřiny. Od ledna uleví domácnostem i firmám | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/vlada-rozhodla-o-snizeni-regulovane-slozky-ceny-elektriny--od-ledna-ulevi-domacnostem-i-firmam--290928/?utm_source=openai"
+              },
+              {
+                "end_index": 16393,
+                "start_index": 16205,
+                "title": "Už od ledna nižší ceny elektřiny pro domácnosti a firmy. ERÚ vydal změnový cenový výměr | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/uz-od-ledna-nizsi-ceny-elektriny-pro-domacnosti-a-firmy--eru-vydal-zmenovy-cenovy-vymer--291033/?utm_source=openai"
+              },
+              {
+                "end_index": 16803,
+                "start_index": 16590,
+                "title": "Energeticky náročná odvětví v ČR jsou dlouhodobě znevýhodněna vysokými cenami elektřiny, jejich význam pro zaměstnanost, hospodářský růst i zajištění bezpečnosti je však zásadní",
+                "type": "url_citation",
+                "url": "https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni"
+              },
+              {
+                "end_index": 17131,
+                "start_index": 17022,
+                "title": "Household electricity prices in the EU stable in 2024 - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai"
+              },
+              {
+                "end_index": 17482,
+                "start_index": 17373,
+                "title": "Household electricity prices in the EU stable in 2024 - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai"
+              },
+              {
+                "end_index": 17800,
+                "start_index": 17690,
+                "title": "ERÚ zveřejnil regulované ceny elektřiny a plynu na rok 2024 | eru.gov.cz",
+                "type": "url_citation",
+                "url": "https://eru.gov.cz/eru-zverejnil-regulovane-ceny-elektriny-plynu-na-rok-2024?utm_source=openai"
+              },
+              {
+                "end_index": 18247,
+                "start_index": 18034,
+                "title": "Energeticky náročná odvětví v ČR jsou dlouhodobě znevýhodněna vysokými cenami elektřiny, jejich význam pro zaměstnanost, hospodářský růst i zajištění bezpečnosti je však zásadní",
+                "type": "url_citation",
+                "url": "https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni"
+              },
+              {
+                "end_index": 18625,
+                "start_index": 18546,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/608/view"
+              },
+              {
+                "end_index": 19011,
+                "start_index": 18932,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/626/view"
+              },
+              {
+                "end_index": 19643,
+                "start_index": 19534,
+                "title": "Household electricity prices in the EU stable in 2024 - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai"
+              },
+              {
+                "end_index": 20023,
+                "start_index": 19944,
+                "title": "Data item details",
+                "type": "url_citation",
+                "url": "https://aegis.acer.europa.eu/chest/dataitems/608/view"
+              }
+            ],
+            "text": "### 1. Základní rámec výroku\n\n- **Ověřovaný výrok (zkráceně):** „Máme dnes jednu z nejvyšších regulovaných cen energie.“\n- **Čas:** 1. 3. 2026 (po změně regulovaných cen od 1. 1. 2026).\n- **Kontext debaty:** diskuse o tzv. „zelené dani“ (poplatku na podporu obnovitelných zdrojů – POZE) a o rozdělení ceny elektřiny na regulovanou a neregulovanou složku.\n\nV českém prostředí je **„regulovaná složka ceny“** chápána jako část ceny, kterou každoročně stanovuje Energetický regulační úřad (ERÚ) – poplatky za distribuci a přenos elektřiny, systémové služby, poplatky na podporu OZE (POZE), provoz trhu (OTE) atd. ([eru.gov.cz](https://eru.gov.cz/co-je-regulovana-slozka-energii-za-co-v-ni-platime?utm_source=openai))  \n„Energie“ v daném kontextu prakticky míří hlavně na **elektřinu** (u plynu je obdobná regulovaná složka, ale v debatě jde primárně o „zelenou daň“ v elektřině).\n\nPro ověřování je užitečné rozložit výrok na dílčí tvrzení:\n\n1. **A1 – Celková cena elektřiny v ČR patří v EU k nejvyšším.**  \n2. **A2 – Regulovaná složka tvoří v ČR velkou a rostoucí část konečné ceny.**  \n3. **A3 – V mezinárodním srovnání patří regulovaná složka (zejména u elektřiny) k nejvyšším v EU.**  \n4. **A4 – „Energie“ obecně (včetně plynu): vztah tvrzení k plynu.**\n\nNásleduje evidence ke každému bodu.\n\n---\n\n## 2. A1 – Celková cena elektřiny v ČR v evropském srovnání\n\n### 2.1 Oficiální statistiky (Eurostat, ACER)\n\n- **Eurostat – ceny elektřiny pro domácnosti, 2. pololetí 2024**  \n  - Průměrná cena elektřiny pro domácnosti v EU: 28,72 €/100 kWh.  \n  - V přepočtu na standard kupní síly (PPS) měla **Czechia nejvyšší cenu v celé EU – 41,0 PPS/100 kWh**, před Kyprem (35,7) a Německem (35,2). ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n  - Eurostat výslovně uvádí, že **po přepočtu na PPS jsou domácnosti v ČR nejvíce zatíženy cenou elektřiny v EU**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\n- **ACER / Statista – nominální ceny 2H 2024**  \n  - Statista na základě Eurostatu uvádí, že v roce 2024 mělo Německo nejvyšší koncovou cenu elektřiny pro domácnosti (44,11 ct/kWh), následované Irskem; **Česko je mezi zeměmi s nejvyšší cenou, v řádu horní části žebříčku (cca 6.–7. místo).** ([statista.com](https://www.statista.com/statistics/273990/residential-electricity-prices-in-selected-eu-countries/?utm_source=openai))  \n\n### 2.2 Sekundární analýzy a české zdroje\n\n- **Prague Morning (na základě Eurostatu):** Pro 2H 2023 uvádí, že **české domácnosti platily nejvíce za elektřinu v celé EU po přepočtu na kupní sílu (41 PPS/100 kWh)**. ([praguemorning.cz](https://praguemorning.cz/czech-republic-eu-highest-electricity-prices-2024/?utm_source=openai))  \n- **ČTK/biom.cz:** Shrnuje data Eurostatu s tím, že **ceny elektřiny pro domácnosti v ČR byly ve 2H 2023 podle PPS nejvyšší v EU** a upozorňuje na rychlý růst cen v ČR. ([biom.cz](https://biom.cz/cz/zpravy-z-tisku/analytici-cr-v-energiich-doplaci-na-slabsi-ekonomiku-a-vyssi-regulovanou-slozku?utm_source=openai))  \n- **HEPI / Euronews (leden 2025):**  \n  - V nominálních cenách je Praha 7. nejdražším hlavním městem z 33 sledovaných.  \n  - Po přepočtu na PPS **má Praha (ČR) nejvyšší ceny elektřiny mezi sledovanými městy**, což ilustruje vysokou zátěž vzhledem k příjmům. ([euronews.com](https://www.euronews.com/business/2025/02/14/electricity-and-gas-prices-across-europe-how-does-your-country-compare?utm_source=openai))  \n- **MPO (16. 12. 2025):** Ministerstvo průmyslu a obchodu oficiálně uvádí, že **ČR má „po přepočtu na kupní sílu obyvatel suverénně nejvyšší ceny elektřiny v celé EU“** a že ceny elektřiny v ČR „patří k nejvyšším v Evropské unii“. ([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/vlada-rozhodla-o-snizeni-regulovane-slozky-ceny-elektriny--od-ledna-ulevi-domacnostem-i-firmam--290928/?utm_source=openai))  \n- **Energie.cz (2025, shrnutí za 2024):** Uvádí, že **v roce 2024 měla ČR 6. nejvyšší koncovou cenu elektřiny v EU** (0,2511 €/kWh vs. průměr EU 0,2151 €/kWh). Vysoké ceny jsou přisuzovány **vysokému podílu daní a regulovaných složek**. ([energie.cz](https://www.energie.cz/regulovane-ceny-pro-rok-2026/?utm_source=openai))  \n\n**Závěr k A1:**  \nData Eurostatu a dalších zdrojů jednoznačně ukazují, že **celková cena elektřiny pro domácnosti v ČR patří v letech 2023–2024 k nejvyšším v EU a po přepočtu na kupní sílu je dokonce nejvyšší**. Tato část rámce výroku (že energie v ČR jsou velmi drahé) je silně podložena.\n\n---\n\n## 3. A2 – Velikost regulované složky v ČR (bez mezinárodního srovnání)\n\n### 3.1 Co tvoří regulovanou složku\n\nERÚ vysvětluje, že **regulovaná složka** zahrnuje zejména:  \n- cenu za distribuci a přenos,  \n- systémové služby,  \n- poplatek na podporu elektřiny z podporovaných zdrojů (POZE),  \n- poplatky za nesíťovou infrastrukturu (OTE, ERÚ apod.). ([eru.gov.cz](https://eru.gov.cz/co-je-regulovana-slozka-energii-za-co-v-ni-platime?utm_source=openai))  \n\nTyto položky jsou stanoveny cenovými rozhodnutími ERÚ a tvoří „provozní“ část účtu za elektřinu.\n\n### 3.2 Podíl regulované složky na konečné ceně v ČR\n\n- **ERÚ – cenové rozhodnutí pro rok 2024:**  \n  - U domácností a malých podnikatelů (nízké napětí) má v roce 2024 regulovaná složka tvořit v průměru **39,2 % konečné ceny elektřiny**.  \n  - ERÚ uvádí, že **očekávaný průměrný nárůst regulované složky pro tuto skupinu dosáhne 65,7 % meziročně** (oproti 2023), zejména kvůli návratu plného poplatku na POZE a růstu nákladů na sítě. ([eru.gov.cz](https://eru.gov.cz/eru-zverejnil-regulovane-ceny-elektriny-plynu-na-rok-2024?utm_source=openai))  \n\n- **Energie.cz – vývoj podílu regulované složky:**  \n  - Elektřina – podíl regulované složky na konečné ceně:\n    - 2001: cca 30 %  \n    - 2010: 35 %  \n    - 2020: 45 %  \n    - **2024–2025: cca 50 %**  \n  - Plyn – podíl regulované složky:\n    - 2001: 15 %,  \n    - 2024–2025: 25 %.  \n  - U elektřiny proběhl **největší skok v roce 2024, kdy regulovaná složka vzrostla meziročně o 60–66 %**, zejména vlivem návratu POZE a vyšších nákladů na sítě. ([energie.cz](https://www.energie.cz/regulovane-ceny-pro-rok-2026/?utm_source=openai))  \n\n- **Český regionální tisk / Ušetřeno.cz (2024):**  \n  - Analýzy pro domácnosti ukazují, že **regulovaná složka (distribuce, systémové služby, poplatek za jistič, POZE atd.) tvoří více než 45 % koncové ceny elektřiny** u běžné domácnosti, a u některých tarifů může přesáhnout i 50 %, pokud je silová elektřina nakoupena levně. ([ceskolipsky.denik.cz](https://ceskolipsky.denik.cz/zpravy-z-ceska/ceny-energii-podzim-2024-2025.html?utm_source=openai))  \n\n- **ERÚ a média (iDNES 2024):**  \n  - ERÚ popisuje, že v roce 2024 **regulovaná složka elektřiny pro domácnosti meziročně stoupla o cca 65 %**, což znamenalo nárůst o více než 1000 Kč/MWh; u plynu pro domácnosti vzrostla regulovaná složka téměř o 39 %. ([idnes.cz](https://www.idnes.cz/ekonomika/domaci/eru-regulovane-ceny-elektrina-plyn.A241129_092653_ekonomika_ven?utm_source=openai))  \n\n**Závěr k A2:**  \nVnitrostátní data ukazují, že **regulovaná složka v ČR je u elektřiny velká (cca 40–50 % konečné ceny) a v roce 2024 prudce vzrostla**. Není to však ještě mezinárodní srovnání – pouze potvrzení, že regulovaná část v ČR je výrazná.\n\n---\n\n## 4. A3 – Mezinárodní srovnání regulované složky\n\n### 4.1 Domácnosti – elektřina (ACER / Eurostat)\n\n**ACER – „Breakdown of the final electricity price for households in 2023“ (Figure 27)** – na základě dat Eurostat nrg_pc_204_c poskytuje rozklad konečné ceny pro domácnosti (průměrná spotřeba, pásmo DC). ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n\nPro **Českou republiku**:\n\n- Energy and supply (silová elektřina): **0,18 €/kWh**  \n- **Network costs (přenos + distribuce): 0,07 €/kWh**  \n- VAT: 0,06 €/kWh  \n- Ostatní daně a poplatky (environmentální, obnovitelné atd.): podle tabulky nulové či zanedbatelné.\n\nSrovnání network costs (regulované síťové poplatky) v EU (2023):\n\n- Vyšší než ČR (0,07 €/kWh) mají např.:  \n  - **Lucembursko**: 0,12 €/kWh  \n  - **Belgie, Německo**: 0,09 €/kWh  \n  - **Rakousko, Dánsko, Finsko, Irsko, Nizozemsko, Španělsko, Švédsko**: 0,08 €/kWh ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n- Stejnou úroveň jako ČR (0,07 €/kWh) mají: **Francie, Lotyšsko**.  \n- Nižší hodnoty (0,03–0,06 €/kWh) mají např. Bulharsko, Chorvatsko, Kypr, Malta, Polsko, Portugalsko, Rumunsko, Slovensko, Slovinsko aj. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n\n**Interpretace:**\n\n- V žebříčku podle výše **síťových poplatků pro domácnosti** je ČR v **horní části (cca horní třetina), ale není v TOP 3–5 zemí**.  \n- Čistě podle network costs tedy **nelze říci, že ČR má „nejvyšší“ regulované síťové náklady**, ale lze konstatovat, že **patří k dražší části EU**.  \n\n### 4.2 Domácnosti – plyn (ACER / Eurostat)\n\n**ACER – „Breakdown of the final gas price for households by Member States in 2023“ (Figure 44)** ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/626/view))  \n\nPro **ČR (domácnosti)**:\n\n- Energy and supply: 0,08 €/kWh  \n- **Network costs: 0,01 €/kWh**  \n- VAT: 0,02 €/kWh  \n- Další daně a poplatky: 0.\n\nSrovnání network costs pro plyn:\n\n- Mnoho zemí má **vyšší síťové náklady** (0,02–0,04 €/kWh), např. Rakousko, Belgie, Dánsko, Francie, Německo, Irsko, Itálie, Lucembursko, Portugalsko, Slovensko, Španělsko, Švédsko. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/626/view))  \n- ČR je tedy u **regulovaných síťových poplatků za plyn spíše pod průměrem či v nižší části rozmezí EU**, nikoli mezi nejvyššími.\n\n### 4.3 Podíl distribuce na účtu (HEPI / Euronews)\n\n- **Euronews na základě HEPI (duben 2024):**  \n  - Podíl **distribuce** na ceně elektřiny v hlavních městech se pohybuje od 11 % (Nikosie) po 65 % (Budapešť), 60 % (Amsterdam); průměr EU‑27 činí 28 %.  \n  - Mezi městy s nejvyšším podílem distribuce uvádí zejména **Budapešť, Amsterdam, Lucemburk, Podgoricu, Bukurešť**; Praha není mezi nejvyzdvihovanějšími extrémy. ([euronews.com](https://www.euronews.com/business/2025/05/15/where-the-grid-hits-hardest-energy-distribution-costs-across-europe-compared?utm_source=openai))  \n\nTo naznačuje, že **podíl distribučních poplatků na konečné ceně elektřiny v Praze není úplně na samotném vrcholu evropského žebříčku**, i když může být nad průměrem.\n\n### 4.4 Analýzy pro průmysl / energeticky náročná odvětví\n\nZde se výrok „jedny z nejvyšších regulovaných cen“ objevuje v odborných a oborových studiích:\n\n- **Studie EGU (20. 11. 2025) pro energeticky náročná odvětví:**  \n  - Shrnutí Svazu chemického průmyslu ČR (SCHP) uvádí, že ve srovnání s jinými průmyslovými zeměmi EU jsou **spotové ceny elektřiny v ČR vyšší** a že **„v ČR jsou jedny z nejvyšších nákladů v rámci EU u regulované složky nákladů na elektřinu“**. ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n  - Studie zdůrazňuje, že náklady na připojování nových zdrojů a investice do přenosové a distribuční soustavy jsou výrazně přeneseny na velké odběratele. ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n\n- **Energy‑Hub / ČTK (20. 11. 2025):**  \n  - Zpráva o téže studii EGU uvádí, že **„spotové ceny elektřiny i regulovaná část ceny energií [v ČR] patří k nejvyšším v Evropě“**, a že energeticky náročným firmám v ČR hrozí ztráta konkurenceschopnosti právě kvůli těmto nákladům. ([portfolio.energy-hub.cz](https://www.portfolio.energy-hub.cz/sk/articles/1161646/studie-energeticky-narocnym-firmam-v-cr-hrozi-kolaps-pricinou-drahe-energie?utm_source=openai))  \n\n- **ČTK / ČeskéNoviny (30. 10. 2025) – analýza návrhu ERÚ na rok 2026:**  \n  - ERÚ odhaduje pro rok 2026 podíl regulované složky na konečné ceně elektřiny pro domácnosti **více než 45 %**, pro plyn cca 25 %. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/regulovana-slozka-ceny-energii-pro-domacnosti-ma-stoupnout-v-prumeru-o-stovky-kc/2740909))  \n  - Analytik **Jiří Tyleček (XTB)** v článku uvádí, že **„už nyní patří regulovaná složka ceny elektřiny v Česku mezi nejvyšší v Evropě“** a že případné převzetí POZE státem by snížilo regulované ceny asi o 15 %. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/regulovana-slozka-ceny-energii-pro-domacnosti-ma-stoupnout-v-prumeru-o-stovky-kc/2740909))  \n\n- **Analýzy pro průmysl (SCHP):** zdůrazňují, že **ČR kompenzuje energeticky náročným odvětvím regulované náklady méně než např. Německo nebo Francie**, kde existují rozsáhlé slevy či kompenzace na distribučních tarifech. ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n\n**Závěr k A3 (shrnutí důkazů):**\n\n- **Domácnosti – elektřina:**  \n  - Oficiální data (ACER/Eurostat) ukazují, že **síťové (regulované) náklady 0,07 €/kWh jsou v horní třetině EU, ale nikoli úplně nejvyšší** – řada zemí má vyšší network costs. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n  - Celková koncová cena elektřiny je ovšem v ČR **jedna z nejvyšších v EU**, zejména po přepočtu na kupní sílu. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\n- **Domácnosti – plyn:**  \n  - Síťové náklady 0,01 €/kWh jsou spíše **pod průměrem EU**, rozhodně ne mezi nejvyššími. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/626/view))  \n\n- **Průmysl / velcí odběratelé:**  \n  - Odborná studie EGU (citovaná SCHP a Energy‑Hub) a komentáře analytiků (Tyleček) tvrdí, že **regulovaná část nákladů na elektřinu v ČR patří u energeticky náročných odvětví k nejvyšším v EU**. Tyto závěry se opírají o interní analýzy, které však nejsou v plně strukturované podobě veřejně (snad jen v přiložených prezentacích). ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n\n---\n\n## 5. A4 – Vztah výroku k plynu (energie obecně)\n\nVýrok mluví o „regulovaných cenách energie“ obecně, nicméně:\n\n- U **plynu pro domácnosti** data ACER ukazují, že **síťové (regulované) náklady v ČR jsou relativně nízké (0,01 €/kWh) a nejsou mezi nejvyššími v EU**. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/626/view))  \n- ERÚ a média uvádějí, že **regulovaná složka tvoří u plynu pro domácnosti kolem 23–25 % ceny**, méně než u elektřiny, ačkoli v roce 2024 výrazně vzrostla. ([idnes.cz](https://www.idnes.cz/ekonomika/domaci/eru-regulovane-ceny-elektrina-plyn.A241129_092653_ekonomika_ven?utm_source=openai))  \n\nVzhledem ke kontextu Havlíčkova výroku (zelená daň, POZE, ceny elektřiny) je pravděpodobné, že „energie“ je myšleno primárně **elektřina**, nikoli plyn obecně. Pokud by se však výrok vztahoval i na **plyn**, oficiální data by tuto část tvrzení **nepodporovala**.\n\n---\n\n## 6. Kontext vládních zásahů před výrokem (konec 2025 – začátek 2026)\n\n- **16. 12. 2025 – rozhodnutí vlády:**  \n  - Vláda rozhodla o **snížení regulované složky ceny elektřiny** tím, že **stát převezme celý poplatek na podporu OZE (POZE)**.  \n  - Opatření má od 1. 1. 2026 snížit konečnou cenu elektřiny pro všechny odběratele zhruba o 10 %. Přitom ostatní regulované poplatky (distribuce, přenos, systémové služby atd.) v objemu cca 70 mld. Kč zůstávají na straně zákazníků. ([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/vlada-rozhodla-o-snizeni-regulovane-slozky-ceny-elektriny--od-ledna-ulevi-domacnostem-i-firmam--290928/?utm_source=openai))  \n\n- **ERÚ (29. 12. 2025):**  \n  - Zveřejňuje změnový cenový výměr, který ruší platby na POZE pro koncové zákazníky od 1. 1. 2026 a potvrzuje zhruba 10% snížení konečné ceny elektřiny. ([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/uz-od-ledna-nizsi-ceny-elektriny-pro-domacnosti-a-firmy--eru-vydal-zmenovy-cenovy-vymer--291033/?utm_source=openai))  \n\nTato změna snižuje úroveň regulované složky od roku 2026, ale:\n\n- **Neeliminuje vysoké distribuční a síťové náklady**, které podle EGU a analytiků zůstávají pro průmysl i domácnosti problémem. ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n- Pořád platí, že **podle dat za 2H 2024 (poslední dostupná mezinárodní data) má ČR nejvyšší ceny elektřiny v EU po přepočtu na PPS**; efekt lednového snížení v mezinárodním srovnání zatím není statisticky zachycen. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\n---\n\n## 7. Shrnutí důkazů ve vztahu k výroku\n\n**Co je silně podloženo:**\n\n1. **Celkové ceny elektřiny:**  \n   - ČR má v letech 2023–2024 **jedny z nejvyšších koncových cen elektřiny v EU**, po přepočtu na kupní sílu dokonce **nejvyšší**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\n2. **Velký a rostoucí význam regulované složky v ČR:**  \n   - Regulovaná složka (hlavně distribuce + POZE) tvoří u elektřiny **cca 40–50 % konečné ceny** a v roce 2024 skokově vzrostla o desítky procent. ([eru.gov.cz](https://eru.gov.cz/eru-zverejnil-regulovane-ceny-elektriny-plynu-na-rok-2024?utm_source=openai))  \n\n3. **Odborné a oborové analýzy pro průmysl:**  \n   - Studie EGU a analytici (Macenauer, Tyleček) výslovně uvádějí, že **regulovaná složka ceny elektřiny v ČR patří (zejména pro energeticky náročné podniky) k nejvyšším v Evropě**. ([schp.cz](https://www.schp.cz/info/energeticky-narocna-odvetvi-v-cr-jsou-dlouhodobe-znevyhodnena-vysokymi-cenami-elektriny-jejich-vyznam-pro-zamestnanost-hospodarsky-rust-i-zajisteni-bezpecnosti-je-vsak-zasadni))  \n\n**Co je spíše nuance / částečný rozpor:**\n\n1. **Domácnosti – síťové poplatky (network costs) dle ACER:**  \n   - Network costs 0,07 €/kWh řadí ČR **spíše do horní třetiny EU**, ale existuje zhruba 10 zemí s vyššími síťovými náklady (Lucembursko, Německo, Belgie, část západní a severské Evropy). ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n   - Čistě podle síťových nákladů pro domácnosti tedy nejsou české regulované poplatky **na absolutním vrcholu** EU; lze je však charakterizovat jako **nadprůměrně vysoké**.\n\n2. **Plyn pro domácnosti:**  \n   - U plynu jsou **síťové poplatky v ČR nízké (0,01 €/kWh) a zjevně nepatří mezi nejvyšší v EU**. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/626/view))  \n   - Pokud by výrok platil doslova pro „energii“ obecně (elektřina i plyn), **část týkající se plynu není oficiálními daty podložena**.\n\n**Celkové hodnocení podkladů:**\n\n- **Pro elektřinu** (zvláště po přepočtu na kupní sílu a včetně regulovaných složek) mají české domácnosti i firmy *jedny z nejvyšších účtů v EU*. Významnou část těchto účtů tvoří regulovaná složka, která v posledních letech v ČR výrazně vzrostla a odborné analýzy pro energeticky náročný průmysl ji explicitně označují za „jednu z nejvyšších v EU“. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\n- **Oficiální, detailní evropské statistiky pro domácnosti** (ACER/Eurostat) ale ukazují, že pokud se díváme izolovaně **jen na síťové (regulované) poplatky za elektřinu na kWh**, je ČR spíš v **horní části žebříčku**, ne absolutní špičce. U **plynu** je regulovaná složka v ČR spíše podprůměrná. ([aegis.acer.europa.eu](https://aegis.acer.europa.eu/chest/dataitems/608/view))  \n\nTato zpráva tedy poskytuje podklady jak pro interpretaci výroku jako **politicky zjednodušeného, ale reálně podloženého pro elektřinu**, tak pro upozornění na **omezení a nepřesnosti**, zejména pokud by se výrok vztahoval na energii obecně nebo čistě na síťové poplatky domácností.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 61946,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 20820,
+      "output_tokens_details": {
+        "reasoning_tokens": 14675
+      },
+      "total_tokens": 82766
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772613567,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

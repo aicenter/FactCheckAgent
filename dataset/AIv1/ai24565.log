@@ -1,0 +1,890 @@
+{
+  "claim_id": "24565",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260127_092648",
+  "source_md": "experiments/gpt5.1_h_20260127_092648/brief_fact_check_id24565.md",
+  "fact_check": "# Fact Check for Statement ID 24565\n\n## Statement\nA jsou to letouny (F-35, pozn. Demagog.cz), které si objednalo 18 členských zemí NATO.\n\n---\n## AI Fact Check\n## Shrnutí\n\n- **F‑35 si skutečně objednala řada členských států NATO.**\n- **Dle dostupných oficiálních a odborných zdrojů je však počet těchto států cca 14, nikoli 18.**  \n- Číslo 18 velmi pravděpodobně pochází z toho, že **ČR byla 18. státem na světě, který se do programu F‑35 zapojil**, nikoli 18. státem NATO.\n\n---\n\n## 1. Výklad tvrzení a možné interpretace\n\n**Tvrzení:** „… jsou to letouny, které si objednalo 18 členských zemí NATO.“\n\nMožné interpretace:\n\n1. **Hlavní (nejpřirozenější) výklad:**  \n   K datu výroku (24. 1. 2026) **existuje 18 členských států NATO**, které mají **závaznou objednávku letounů F‑35** (tj. podepsanou smlouvu / LOA na dodávky).\n\n2. **Alternativní vysvětlení omylu:**  \n   - Lockheed Martin při podpisu české smlouvy v lednu 2024 uvedl, že **Česká republika je „18th nation to join the global F‑35 program“**, tedy 18. stát na světě v programu F‑35. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai))  \n   - Prezident mohl toto číslo **chybně převzít** a **zaměnit „18 zemí v programu“ za „18 členských zemí NATO“**.\n\nV dalším posuzujeme **hlavní výklad** – počet členských států NATO s prokazatelnou objednávkou F‑35.\n\n---\n\n## 2. Které státy NATO mají prokazatelně objednané F‑35?\n\nNATO má dnes 32 členů (včetně Finska a Švédska). ([en.wikipedia.org](https://en.wikipedia.org/wiki/NATO?utm_source=openai))  \nZ dostupných primárních a respektovaných sekundárních zdrojů se dá doložit **objednávka F‑35 u těchto 14 členských států NATO**:\n\n### Přehled v tabulce\n\n| Stát (NATO) | Důkaz objednávky F‑35 | Klíčový citát (zkráceně) |\n|-------------|-----------------------|--------------------------|\n| **USA** | Primární zákazník a finanční tahoun programu; plán nákupu 1763 F‑35A pro USAF + stovky F‑35B/C pro USMC a USN. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II?utm_source=openai)) | „The United States is the primary customer and financial backer, with planned procurement of 1,763 F‑35As for the USAF…“ ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II?utm_source=openai)) |\n| **Velká Británie** | Britská vláda (MoD) potvrdila nákup F‑35B (a nově i F‑35A). Vládní zpráva z r. 2018: **objednávka 17 kusů navíc, celkový závazek 138 ks.** ([gov.uk](https://www.gov.uk/government/news/uk-to-double-f-35-fleet-with-17-jet-order-defence-secretary-announces?utm_source=openai)) | „The UK is set to double its number of… F‑35 stealth jets after ordering 17 more aircraft… Overall, the UK has committed to procure 138 aircraft over the life of the programme.“ ([gov.uk](https://www.gov.uk/government/news/uk-to-double-f-35-fleet-with-17-jet-order-defence-secretary-announces?utm_source=openai)) |\n| **Itálie** | Italská vláda potvrdila závazek **90 F‑35** (po snížení z původních 131). ([ansa.it](https://www.ansa.it/sito/notizie/politica/2015/02/17/f35-litalia-mantiene-impegno-per-acquisto-90-aerei-caccia-ma-taglia-costi_ad868a33-f863-4d0e-85dd-527a6e947dcf.html?utm_source=openai)) | „Il programma F35 prevede l'acquisto da parte dell'Italia di 90 di questi caccia di quinta generazione…“ ([ansa.it](https://www.ansa.it/sito/notizie/politica/2015/02/17/f35-litalia-mantiene-impegno-per-acquisto-90-aerei-caccia-ma-taglia-costi_ad868a33-f863-4d0e-85dd-527a6e947dcf.html?utm_source=openai)) |\n| **Nizozemsko** | Nizozemská vláda v roce 2013–2014 schválila postupný nákup F‑35A; postupně navýšeno na **52 kusů**. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Royal_Netherlands_Air_and_Space_Force?utm_source=openai)) | „In February 2014 Parliament approved the purchase of the first batch of eight F‑35A aircraft… The purchase of fifteen additional aircraft was announced… totalling 52 jets.“ ([en.wikipedia.org](https://en.wikipedia.org/wiki/Royal_Netherlands_Air_and_Space_Force?utm_source=openai)) |\n| **Norsko** | Norsko vybralo F‑35A již v roce 2008, objednáno **52 letounů**; v r. 2025 Lockheed Martin oznámil dokončení dodávky všech 52 ks. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2025-04-01-Norway-Becomes-First-F-35-Partner-Nation-to-Fulfill-its-Program-of-Record?utm_source=openai)) | „…delivery of the 51st and 52nd F‑35As to the Royal Norwegian Air Force, making Norway the first F‑35 partner nation to fulfill its program of record… the last of the 52 fighter jets … that Norway has ordered.“ ([news.lockheedmartin.com](https://news.lockheedmartin.com/2025-04-01-Norway-Becomes-First-F-35-Partner-Nation-to-Fulfill-its-Program-of-Record?utm_source=openai)) |\n| **Dánsko** | Dánsko v r. 2016 schválilo nákup **27 F‑35A**; v r. 2023 dorazily první stroje. AP k první dodávce: „first delivery of 27 aircraft the country has ordered“. ([apnews.com](https://apnews.com/article/2470e553fd7211a02e5f50f8e787d213?utm_source=openai)) | „…four U.S.-made F‑35 fighter jets arrived… marking the first delivery of 27 aircraft the country has ordered…“ ([apnews.com](https://apnews.com/article/2470e553fd7211a02e5f50f8e787d213?utm_source=openai)) |\n| **Belgie** | Belgická vláda 25. 10. 2018 potvrdila nákup **34 F‑35A** (dále rozšířený, ale to už nemění počet států). ([aviation24.be](https://www.aviation24.be/military-aircraft/belgian-air-component/belgium-buys-34-lockheed-martin-f-35a-lightning-ii-fighter-jets/?utm_source=openai)) | „Belgium will buy 34 new F‑35A Lightning II fighter jets from Lockheed Martin. This was confirmed by the Belgian Government on Thursday 25 October 2018.“ ([aviation24.be](https://www.aviation24.be/military-aircraft/belgian-air-component/belgium-buys-34-lockheed-martin-f-35a-lightning-ii-fighter-jets/?utm_source=openai)) |\n| **Polsko** | 31. 1. 2020 Polsko podepsalo kontrakt na **32 F‑35A** v hodnotě 4,6 mld. USD. ([defensenews.com](https://www.defensenews.com/global/europe/2020/01/31/poland-inks-46-billion-contract-for-f-35-fighter-jets/?utm_source=openai)) | „…signed a contract worth $4.6 billion under which the country will acquire 32 F‑35A Lightning II fighter jets from the United States.“ ([defensenews.com](https://www.defensenews.com/global/europe/2020/01/31/poland-inks-46-billion-contract-for-f-35-fighter-jets/?utm_source=openai)) |\n| **Německo** | Německé ministerstvo obrany 14. 12. 2022 oznámilo nákup **35 F‑35A**. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2022-12-14-Germany-Becomes-Latest-Country-to-Join-the-F-35-Lightning-II-Global-Team?utm_source=openai)) | „The German Ministry of Defense announced today it is procuring 35 Lockheed Martin 5th Generation F‑35 Lightning II aircraft.“ ([news.lockheedmartin.com](https://news.lockheedmartin.com/2022-12-14-Germany-Becomes-Latest-Country-to-Join-the-F-35-Lightning-II-Global-Team?utm_source=openai)) |\n| **Kanada** | Kanada 9. 1. 2023 oficiálně oznámila, že **pořídí flotilu 88 F‑35A** pro RCAF; vláda podepsala dohodu s USA a Lockheed Martin. ([canada.ca](https://www.canada.ca/en/public-services-procurement/news/2023/01/canada-finalizes-agreement-to-purchase-new-fighter-jets-for-royal-canadian-air-force.html?utm_source=openai)) | „Canada has finalized an agreement… for the acquisition of F‑35 fighter jets… Canada has committed to purchase a new fleet of 88 advanced fighter jets for the RCAF… this new fleet will be comprised of F‑35 jets.“ ([canada.ca](https://www.canada.ca/en/public-services-procurement/news/2023/01/canada-finalizes-agreement-to-purchase-new-fighter-jets-for-royal-canadian-air-force.html?utm_source=openai)) |\n| **Finsko** | V rámci programu HX vláda Finska v prosinci 2021 vybrala F‑35A a 11. 2. 2022 finské velení podepsalo LOA na **64 F‑35A**. ([armyrecognition.com](https://www.armyrecognition.com/archives/archives-aerospace-defense/aerospace-defense-2022/finland-inks-deal-for-its-64-f-35a-fighter-jets-and-agreement-on-industrial-participation?utm_source=openai)) | „On 10 December 2021, the Finnish Government decided on the procurement of Lockheed Martin F‑35A… On Friday 11 February 2022… signed… the LOA documents on F‑35A aircraft…“ ([armyrecognition.com](https://www.armyrecognition.com/archives/archives-aerospace-defense/aerospace-defense-2022/finland-inks-deal-for-its-64-f-35a-fighter-jets-and-agreement-on-industrial-participation?utm_source=openai)) |\n| **Česká republika** | Vláda v září 2023 schválila nákup **24 F‑35A**, 29. 1. 2024 ministryně Černochová podepsala memorandum a LOA s USA. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai)) | „The Czech Republic government signed a Letter of Offer and Acceptance… to procure 24… F‑35…“ ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai)); „Česko pořídí pro armádu 24 letounů páté generace F‑35… pořízení 24 letounů F‑35A Lightning II schválila vláda…“ ([e15.cz](https://www.e15.cz/domaci/nejdrazsi-armadni-nakup-pro-cesko-uzavren-cernochova-dohodla-24-letounu-pate-generace-f-35-1413246?utm_source=openai)) |\n| **Řecko** | 25. 7. 2024 řecká vláda podepsala LOA na **20 F‑35A** s opcí na dalších 20; Lockheed Martin uvádí, že Řecko je „19th nation to join the F‑35 program“. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai)) | „Today, the Greece government finalized its intention to procure 20 Lockheed Martin F‑35 Lightning II aircraft by signing a Letter of Offer and Acceptance (LOA)…“ ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai)) |\n| **Rumunsko** | 21. 11. 2024 Rumunsko podepsalo LOA na **32 F‑35A**; Lockheed Martin uvádí, že Rumunsko je „20th member of the F‑35 global alliance“. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai)) | „The Government of Romania confirmed today its intent to procure 32… F‑35… by signing a Letter of Offer and Acceptance (LOA)… Romania is the 20th country to join the F‑35 program.“ ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai)) |\n\n**Shrnutí:** Prokazatelně **14 členských států NATO** má závazné objednávky letounů F‑35 (partnerství v programu + podepsané smlouvy / LOA).\n\n---\n\n## 3. Globální počet zákazníků F‑35 vs. počet členů NATO\n\n### 3.1 Kolik států F‑35 objednalo celkově?\n\nLockheed Martin a související zdroje uvádějí:\n\n- Když se 29. 1. 2024 připojila Česká republika, stala se **„18th nation to join the global F‑35 program“**. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai))  \n- Když 21. 11. 2024 podepsalo LOA Rumunsko, uvádí se, že **„Romania is the 20th member of the F‑35 global alliance“** a že **„20 global customers have chosen the F‑35“**. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai))  \n\nNezávisle to potvrzuje přehled objednávek na stránce *Lockheed Martin F‑35 Lightning II procurement*, kde je v tabulce **20 „confirmed purchases“** (USA, UK, Itálie, Nizozemsko, Norsko, Dánsko, Belgie, Polsko, Finsko, Kanada, Švýcarsko, Německo, ČR, Řecko, Rumunsko, Austrálie, Izrael, Japonsko, Jižní Korea, Singapur). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n\n### 3.2 Kolik z těchto zákazníků jsou státy NATO?\n\nZe stejné tabulky i z obecného přehledu NATO plyne, že z těchto **20 potvrzených zákazníků F‑35** jsou **nečleny NATO**:\n\n- **Austrálie**\n- **Izrael**\n- **Japonsko**\n- **Jižní Korea**\n- **Singapur**\n- **Švýcarsko** ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n\nTyto státy jsou sice součástí programu F‑35, ale **nejsou členy NATO**.\n\nZbývajících **14 zákazníků** jsou právě státy NATO uvedené v tabulce výše (USA, UK, Itálie, Nizozemsko, Norsko, Dánsko, Belgie, Polsko, Finsko, Kanada, Německo, ČR, Řecko, Rumunsko). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n\n**Z toho vyplývá:**\n\n> **Globálně** mělo ke konci roku 2024 F‑35 objednáno **20 států**,  \n> z toho **pouze 14** jsou **členské země NATO**.\n\n---\n\n## 4. Státy NATO, které F‑35 nezakoupily (ale někdy se zmiňují)\n\nNěkteré jiné státy NATO se v debatách o F‑35 často objevují, ale:\n\n### 4.1 Španělsko\n\n- Španělsko zvažovalo F‑35A/B jako náhradu za F/A‑18 a AV‑8B Harrier, ale v srpnu 2025 podle deníku *El País* a analýzy Army Recognition **ukončilo jednání o F‑35 a rozhodlo se pro evropské alternativy (Eurofighter, budoucí FCAS).** ([armyrecognition.com](https://www.armyrecognition.com/news/aerospace-news/2025/spain-ends-talks-with-us-for-f-35-fighter-jets-and-renews-interest-in-european-alternatives?utm_source=openai))  \n- Neexistuje žádná zmínka o podepsaném kontraktu či LOA na F‑35.\n\n### 4.2 Portugalsko\n\n- Portugalsko v roce 2024–2025 deklarovalo, že F‑35 je „preferovaným“ či jediným skutečně 5. generačním kandidátem, ale **opakovaně bylo potvrzeno, že žádná smlouva zatím podepsána nebyla** – uvažuje se pouze o zaslání Letter of Request, případně jsou zvažovány evropské alternativy. ([armyrecognition.com](https://www.armyrecognition.com/news/aerospace-news/2025/portugal-confirms-u-s-f-35-as-preferred-fighter-jet-to-replace-aging-f-16-fleet?utm_source=openai))  \n\n### 4.3 Turecko\n\n- Turecko sice bylo původně partnerem programu a chystalo se odebrat 100 F‑35A, ale po nákupu ruského systému S‑400 bylo v roce 2019 **z programu F‑35 oficiálně vyloučeno**. ([defensenews.com](https://www.defensenews.com/air/2019/07/17/turkey-officially-kicked-out-of-f-35-program/?utm_source=openai))  \n- Objednávka byla zrušena; v přehledu objednávek je u Turecka uvedeno **„0 (Order for 100 F‑35As canceled)“.** ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n- Turecko tedy **aktuálně nemá platnou objednávku F‑35**.\n\nTyto státy tedy **nemohou** být započítány do „členských zemí NATO, které si F‑35 objednaly“.\n\n---\n\n## 5. Dílčí hodnocení tvrzení\n\n### 5.1 Dílčí tvrzení: „Letouny F‑35 si objednalo více členských zemí NATO“\n\nToto je podloženo:\n\n- Více než deset evropských a severoamerických spojenců v NATO skutečně uzavřelo závazné kontrakty na F‑35 (viz tabulka 14 států). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n- Lockheed Martin opakovaně popisuje F‑35 jako **„NATO standard fighter of choice“** a zdůrazňuje, že v Evropě je či bude provozován „z více než 10 evropských zemí“ – to odpovídá tomu, že značná část evropských členů NATO F‑35 objednala. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai))  \n\n**Tento dílčí aspekt tvrzení je tedy pravdivý.**\n\n### 5.2 Dílčí tvrzení: „… které si objednalo 18 členských zemí NATO“\n\nZ výše uvedených údajů:\n\n- **Potvrzených zákazníků F‑35 je 20**, z toho **šest není v NATO** (Austrálie, Izrael, Japonsko, Jižní Korea, Singapur, Švýcarsko). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n- **Států NATO s potvrzenou objednávkou F‑35 je 14** (USA, UK, Itálie, Nizozemsko, Norsko, Dánsko, Belgie, Polsko, Finsko, Kanada, Německo, ČR, Řecko, Rumunsko). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n- Ze států, které by mohly „dopočítat“ číslo 18, **Španělsko, Portugalsko ani Turecko F‑35 aktuálně objednané nemají** (Španělsko jednání ukončilo, Portugalsko zatím jedná bez kontraktu, Turecko bylo z programu vyloučeno). ([armyrecognition.com](https://www.armyrecognition.com/news/aerospace-news/2025/spain-ends-talks-with-us-for-f-35-fighter-jets-and-renews-interest-in-european-alternatives?utm_source=openai))  \n\nTvrzení, že **„F‑35 si objednalo 18 členských zemí NATO“**, proto **neodpovídá dostupným primárním údajům** – nadhodnocuje skutečný počet minimálně o **čtyři státy**.\n\n### 5.3 Pravděpodobný původ čísla 18\n\n- Při podpisu českého LOA 29. 1. 2024 uvádí Lockheed Martin, že **„the Czech Republic becomes the 18th nation to join the global F‑35 program“**. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai))  \n- Následně Řecko je prezentováno jako 19. účastník a Rumunsko jako 20. člen „F‑35 global alliance“. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai))  \n\nJe tedy velmi pravděpodobné, že prezident **převzal správné číslo pro „počet států v programu F‑35“**, ale **chybně jej vztáhl jen na členské země NATO**, ač několik zákazníků (Austrálie, Izrael, Japonsko, Jižní Korea, Singapur, Švýcarsko) v NATO není.\n\n---\n\n## 6. Závěrečné hodnocení\n\n- **Ano, F‑35 jsou široce rozšířené mezi členskými státy NATO; jde o letoun, který si objednala řada aliančních zemí.**  \n- **Počet 18 členských států NATO s objednávkou F‑35 ale neodpovídá zjištěným datům.**  \n  - Konec roku 2024: **20 globálních zákazníků**, z toho **14 v NATO**, 6 mimo NATO. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n\n> **Celkově je tvrzení „… které si objednalo 18 členských zemí NATO“ nepravdivé (výrazně nadsazené).**\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-01-24 available from https://www.youtube.com/watch?v=LLdTdaQK-Y4.\\n\\n\\nThe claim was made by: Petr Pavel, Prezident České republiky\\n\\n\\nThe claim appears in the following immediate context in the source:\\nTeď už na současnou vládu. S jakými pocity jste sledoval názorovou otočku ministra obrany, pana Zůny, která očividně, nebo vypadalo to tak, že je to pod nátlakem vedení SPD.\\nPetr Pavel, prezident republiky\\nMě to trochu zamrzelo, protože v době, kdy jsme spolu mluvili ještě před jmenováním vlády, tak jsme se naprosto shodli v těch základních principech, které on potom na tiskové konferenci tady na druhém nádvoří Hradu oznámil, následně za to byl kritizován vedením SPD. Já jsem se ho ještě zastal, protože jsem řekl, že vlastně neřekl nic jiného, než to, co sama SPD v parlamentu odhlasovala po zahájení ruské agrese proti Ukrajině. A následně potom byla zveřejněna ta videa, ve kterých do značné míry pan ministr popřel to, co předtím řekl. Je to bohužel znakem určité nedůvěryhodnosti, kterou asi občané očekávají od svých ministrů a od vysokých politiků, především od ministra obrany, v době, kdy jsme v prostředí bezpečnostním, které se rozhodně nevyvíjí dobře, ale to je určitě na ministru Zůnovi, jak si to vyhodnotí. Každopádně bude dobře, když v některých věcech bude konzistentnější, tak, aby i veřejnost se mohla spolehnout, že to, co se říká, tak také platí.\\nMartin Čermák, moderátor\\nKdybych chtěl tématicky skloubit poslední dvě otázky, tedy obranu a rozpočet, podle vyjádření ministryně financí Aleny Schillerové to vypadá, že vláda zatím neplánuje cílit na ten nový cíl, na těch 5 % do roku 2035. Je to něco, co jste buď s ní nebo s Andrejem Babišem na těch konzultacích řešili?\\nPetr Pavel, prezident republiky\\nBavili jsme se o tom, bavíme se o tom, budeme se o tom bavit i nadále. Předpokládám, že to bude jedním z témat 26. 1., až se sejdeme s nejvyššími ústavními činiteli, protože je to jedna ze zásadních věcí pro zajištění naší obranyschopnosti. My nevydáváme peníze na obranu proto, abychom udělali radost někomu v Bruselu na velitelství NATO. My vydáváme peníze na obranu proto, že cítíme potřebu zajistit obranyschopnost země v bezpečnostní situaci, ve které jsme. A už v minulosti jsme si vyhodnotili, a zatím žádná vláda to nezpochybnila, že tím nejlepším a nejlevnějším způsobem zajištění obrany je účast v kolektivním systému, tedy v NATO. A za ty peníze, které my dáváme na obranu, financujeme ten náš díl. A celková kolektivní obrana bude tak efektivní, jak jednotlivé členské státy k tomu přistoupí, když nebudeme naplňovat svůj závazek, pak celá kolektivní obrana bude děravá jako ementál a moc velké garance nám asi neposkytne, takže je to investice do naší bezpečnosti, do naší budoucnosti a měli bychom si jasně říci, že buďto budeme tyto závazky naplňovat a v tom případě očekávat garance bezpečnosti, nebo na to budeme rezignovat a pak bychom měli občanům zodpovědně říci, jakým jiným efektivnějším způsobem zajistíme jejich bezpečnost.\\nMartin Čermák, moderátor\\nJak v tomto světle vnímáte vyjádření koaličního hnutí SPD a zpochybňování nákupu stíhaček F-35?\\nPetr Pavel, prezident republiky\\nJe snadné zpochybňovat něco, o čem máme kusé informace. Ty letouny jsou v procesu už několik let, my už jsme i na zálohách zaplatili poměrně značné sumy. A jsou to letouny, které si objednalo 18 členských zemí NATO, to znamená, budou do značné míry tvořit páteř nejenom protivzdušné obrany, ale i průzkumů, spojení, protože letoun F-35 není pouze stíhačka, ale je to multifunkční letoun, který zajišťuje mnoho funkcí a tím vlastně do určité míry nahrazuje i řadu jiných prostředků. Pokud chceme hovořit o nějakém jiném efektivním zajištění protivzdušné obrany, pak bychom celý ten dosavadní proces měli přehodnotit, smířit se s tím, že přijdeme o již vložené prostředky a uvažovat o náhradě, která plnohodnotně nahradí ty F-35, nejsou to levné prostředky, to rozhodně nejsou, ale musíme, znovu říkám, uvažovat o tom, že si nekupujeme pouze letadlo, ale kupujeme si v podstatě létající průzkumný prostředek, létající místo řízení, kupujeme si prostředek, který je schopen i řídit celou řadu prvků na bojišti, takže je to opravdu multifunkční stroj a tomu samozřejmě i té kvalitě technologické odpovídá cena.\\nMartin Čermák, moderátor\\nLetounů má být v Evropě asi 500. Když se bavíme o domácí obraně nebo obranyschopnosti, tak byla by za vás teď, my jsme se o tom bavili asi před 2 lety, ale teď aktuálně již přijatelná nějaká forma vojenské služby, ať už od nějakých administrativních odvodů, nějakého dobrovolného předurčení, co je za vás teď relevantní forma tohoto řešení?\\n\\nProvide a structured, citation-backed verification of the claim: 'A jsou to letouny (F-35, pozn. Demagog.cz), které si objednalo 18 členských zemí NATO.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 440.56 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Letouny F‑35 si skutečně objednala řada zemí NATO, podle dostupných údajů jich je ale kolem 14, nikoli 18. Číslo 18 se vztahuje k počtu států v globálním programu F‑35, ne k členům NATO. Výrok hodnotíme jako nepravdivý.</p>\n\n<p>Výrok zazněl v kontextu obhajoby nákupu letounů F‑35 pro Armádu České republiky. Řečník chtěl ukázat, že jde o běžný alianční typ a dodal, že F‑35 jsou letouny, které si objednalo 18 členských zemí NATO. Tím současně zdůraznil, že Česká republika podle něj následuje převládající trend v Alianci.</p>\n\n<p>Výrok obsahuje dvě ověřitelné části: zaprvé tvrzení, že F‑35 si objednala řada členských zemí NATO, zadruhé konkrétní údaj, že těchto členských zemí je 18. Každou z těchto částí posuzujeme samostatně.</p>\n\n<p>Nejprve část o rozšíření F‑35 v NATO. Podle souhrnného <a href=\"https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai\">přehledu objednávek letounů F‑35</a>, který uvádí potvrzené kontrakty jednotlivých států, patří mezi zákazníky Spojené státy, Spojené království, Itálie, Nizozemsko, Norsko, Dánsko, Belgie, Polsko, Finsko, Kanada, Německo, Česká republika, Řecko a Rumunsko. Z těchto zemí jsou všechny členy NATO, což potvrzují také oficiální či vládní dokumenty o nákupech. Například britské ministerstvo obrany v tiskové zprávě o rozšíření flotily F‑35 uvádí, že *„celkově se Spojené království zavázalo pořídit 138 letounů F‑35“* (<a href=\"https://www.gov.uk/government/news/uk-to-double-f-35-fleet-with-17-jet-order-defence-secretary-announces?utm_source=openai\">britské ministerstvo obrany</a>). Italská vláda podle agentury ANSA potvrdila záměr nakoupit 90 letounů F‑35, když píše, že program *„předpokládá nákup 90 těchto stíhacích letounů páté generace“* (<a href=\"https://www.ansa.it/sito/notizie/politica/2015/02/17/f35-litalia-mantiene-impegno-per-acquisto-90-aerei-caccia-ma-taglia-costi_ad868a33-f863-4d0e-85dd-527a6e947dcf.html?utm_source=openai\">ANSA</a>). Polsko podle odborného serveru Defense News podepsalo v lednu 2020 kontrakt za 4,6 miliardy dolarů na 32 F‑35A, kdy smlouva je popsána jako nákup *„32 stíhacích letounů F‑35A Lightning II“* (<a href=\"https://www.defensenews.com/global/europe/2020/01/31/poland-inks-46-billion-contract-for-f-35-fighter-jets/?utm_source=openai\">Defense News</a>). Finská vláda v rámci programu HX vybrala F‑35A a finské velení v únoru 2022 podle specializovaného časopisu Army Recognition podepsalo dokumenty LOA na 64 strojů F‑35A (<a href=\"https://www.armyrecognition.com/archives/archives-aerospace-defense/aerospace-defense-2022/finland-inks-deal-for-its-64-f-35a-fighter-jets-and-agreement-on-industrial-participation?utm_source=openai\">Army Recognition</a>). Česká republika podle oznámení společnosti Lockheed Martin podepsala v lednu 2024 Letter of Offer and Acceptance na pořízení 24 letounů F‑35A, když firma uvádí, že vláda *„podepsala dokument LOA k pořízení 24 letounů F‑35“* (<a href=\"https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai\">Lockheed Martin</a>). Řecko a Rumunsko se k programu přidaly v roce 2024, kdy řecká vláda podle tiskové zprávy Lockheed Martin podepsala LOA na 20 F‑35A s opcí na dalších 20 (<a href=\"https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai\">Lockheed Martin – Řecko</a>) a rumunská vláda podle stejné společnosti potvrdila nákup 32 F‑35A podpisem LOA, přičemž Rumunsko je označeno jako dvacátý člen globální aliance F‑35 (<a href=\"https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai\">Lockheed Martin – Rumunsko</a>). Na základě těchto zdrojů lze říci, že F‑35 si skutečně objednala značná část členských států NATO, zejména v Evropě, a tento obecný motiv výroku odpovídá realitě.</p>\n\n<p>Klíčovým a sporným bodem je ale číselné tvrzení, že F‑35 si objednalo „18 členských zemí NATO“. Podle již zmíněného souhrnného <a href=\"https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai\">přehledu objednávek F‑35</a> existuje celkově 20 států, které mají potvrzené nákupy těchto letounů. Přehled zároveň jasně ukazuje, že mezi těmito 20 zákazníky jsou i země, které členy NATO nejsou – konkrétně Austrálie, Izrael, Japonsko, Jižní Korea, Singapur a Švýcarsko. Stejný závěr podporuje i tisková zpráva Lockheed Martin k rumunskému nákupu, kde se uvádí, že Rumunsko je dvacátým členem „F‑35 Global Alliance“ a že *„20 globálních zákazníků si zvolilo F‑35“* (<a href=\"https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai\">Lockheed Martin – Rumunsko</a>). Z kombinace těchto zdrojů vyplývá, že globálně F‑35 objednalo 20 států, z toho šest mimo NATO, takže počet členských zemí NATO s platnou objednávkou F‑35 je 14, nikoli 18.</p>\n\n<p>Další státy NATO, které se někdy v debatách o F‑35 zmiňují, přitom platnou objednávku nemají. Španělsko podle analýzy serveru Army Recognition v roce 2025 ukončilo jednání o možném nákupu F‑35 a obnovilo zájem o evropské alternativy, jako je Eurofighter a budoucí systém FCAS (<a href=\"https://www.armyrecognition.com/news/aerospace-news/2025/spain-ends-talks-with-us-for-f-35-fighter-jets-and-renews-interest-in-european-alternatives?utm_source=openai\">Army Recognition – Španělsko</a>). Portugalsko podle stejného média vnímá F‑35 jako preferovanou variantu pro budoucí náhradu F‑16, ale jde zatím jen o politické prohlášení a úvahy o zaslání Letter of Request, nikoli o podepsaný kontrakt (<a href=\"https://www.armyrecognition.com/news/aerospace-news/2025/portugal-confirms-u-s-f-35-as-preferred-fighter-jet-to-replace-aging-f-16-fleet?utm_source=openai\">Army Recognition – Portugalsko</a>). Turecko bylo z programu F‑35 v roce 2019 po pořízení ruského protiraketového systému S‑400 oficiálně vyloučeno; americký server Defense News tehdy informoval, že Turecko je z programu „oficiálně vyřazeno“ a plánovaná objednávka 100 kusů byla zrušena (<a href=\"https://www.defensenews.com/air/2019/07/17/turkey-officially-kicked-out-of-f-35-program/?utm_source=openai\">Defense News – Turecko</a>). Tyto země tedy do počtu členských států NATO, které si F‑35 skutečně objednaly, započítat nelze.</p>\n\n<p>Z ověřených dat tedy vyplývá, že F‑35 mají objednané Spojené státy, Spojené království, Itálie, Nizozemsko, Norsko, Dánsko, Belgie, Polsko, Finsko, Kanada, Německo, Česká republika, Řecko a Rumunsko. Souhrnně jde o 14 členských států NATO, což odpovídá jak přehledu objednávek, tak jednotlivým oznámením vlád a výrobce. Tvrzení, že těchto zemí je 18, tedy neodpovídá dostupným údajům a je číselně nadsazené.</p>\n\n<p>Lze dodat možné vysvětlení, odkud číslo 18 pochází. Při podpisu české smlouvy v lednu 2024 označila společnost Lockheed Martin Českou republiku jako *„18th nation to join the global F‑35 program“*, tedy osmnáctý stát na světě, který se do programu F‑35 zapojil (<a href=\"https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai\">Lockheed Martin – Česká republika</a>). Následně bylo Řecko prezentováno jako devatenáctý a Rumunsko jako dvacátý člen globální aliance F‑35 (<a href=\"https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai\">Lockheed Martin – Řecko</a>; <a href=\"https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai\">Lockheed Martin – Rumunsko</a>). Podle našeho výkladu je pravděpodobné, že řečník správně převzal údaj o tom, že Česko bylo v době podpisu osmnáctým státem v celosvětovém programu F‑35, ale chybně jej vztáhl na počet členských zemí NATO, a přehlédl přitom nealianční zákazníky, jako jsou Austrálie nebo Japonsko. Jde však o interpretaci motivů řečníka, nikoli o ověřitelné faktické tvrzení.</p>\n\n<p>Po vyhodnocení dostupných zdrojů konstatujeme, že obecná část výroku – že F‑35 jsou rozšířené mezi členskými zeměmi NATO – je v zásadě pravdivá, neboť tento typ si skutečně objednala řada aliančních států. Klíčový číselný údaj, že jde konkrétně o 18 členských zemí NATO, však neodpovídá doloženému stavu, kdy F‑35 mají objednané zhruba čtrnácti spojenci v NATO. Výrok jako celek proto hodnotíme jako <b>nepravda</b>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0960c1c9f05074f5006979e87b74c48195a0cabc0591fea8c7",
+    "created_at": 1769597051.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0960c1c9f05074f5006979e886b36c81958d121e768db2a935",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e88f7908819581eeac59e4ab388d",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e89055748195baafa9c86dbf4648",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e890c7d0819589dcdefaa7001386",
+        "action": {
+          "query": "\"18 NATO\" F-35 customers",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"18 NATO\" F-35 customers",
+            "number of NATO countries that have ordered the F-35",
+            "Lockheed Martin F-35 customers NATO countries",
+            "\"ordered the F-35\" \"NATO\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e893439c8195b05e93e4c9034a39",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e897c13c8195877b92c9bb52da44",
+        "action": {
+          "query": "\"F-35 Lightning II Global Alliance\" list of nations",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"F-35 Lightning II Global Alliance\" list of nations",
+            "\"20th member of the F-35\" global alliance countries",
+            "\"nations to join the F-35 program\" list",
+            "\"F-35\" \"global program\" \"partner\" \"foreign military sales\" countries"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e89b055481958e90391cca58aece",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e8bc4ed08195bf1e4270341bf36b",
+        "action": {
+          "query": "Germany signs contract for 35 F-35A",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Germany signs contract for 35 F-35A",
+            "\"Germany\" \"35 F-35\" order",
+            "Bundestag approves procurement of F-35 2022",
+            "Lockheed Martin welcomes Germany to F-35"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e8bf1bb48195b55bc1aad2709b6e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e8c0d2b48195a8b56284474fe357",
+        "action": {
+          "query": "\"United Kingdom\" \"F-35B\" order 138 planned",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"United Kingdom\" \"F-35B\" order 138 planned",
+            "\"Royal Air Force\" F-35B order 48",
+            "UK has ordered F-35B jets",
+            "\"United Kingdom\" F-35 Lightning II program of record 48"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e8c57bb8819597c8e1664f45d687",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e8caa94c8195835744eafe13b7b7",
+        "action": {
+          "query": "Belgium to buy 34 F-35A 2018",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Belgium to buy 34 F-35A 2018",
+            "\"Belgium\" \"34 F-35A\"",
+            "\"Belgian government\" \"F-35\" decision 2018",
+            "\"Norway\" \"F-35A\" order 52 aircraft"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e8ce7538819599264c60bc9f08fa",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e8d7c03c8195bb4f7049ed56802f",
+        "action": {
+          "query": "\"Spain\" \"F-35\" order",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Spain\" \"F-35\" order",
+            "\"Portugal\" \"F-35\" purchase",
+            "\"Turkey\" F-35 program removal S-400 2019",
+            "\"Bulgaria\" F-35 interest"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e8dd0a908195a62c55faf20dea7c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e8e6d5f081958c951add355a21ce",
+        "action": {
+          "query": "Italy F-35A F-35B order 90 aircraft",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Italy F-35A F-35B order 90 aircraft",
+            "\"Italian Air Force\" F-35A order",
+            "\"Italian Ministry of Defence\" F-35 Lightning II",
+            "\"Lockheed Martin\" \"Italy\" F-35"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e8ed21bc8195b7ce77f25a1c290c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e8f11f9081959b7ed596035245e8",
+        "action": {
+          "query": "\"F-35\" \"NATO\" \"standard fighter\" number of NATO countries operating or procuring",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"F-35\" \"NATO\" \"standard fighter\" number of NATO countries operating or procuring",
+            "\"NATO\" \"F-35\" \"standard\" fighter multi-role",
+            "\"selected by\" \"F-35\" \"NATO\"",
+            "\"F-35\" \"NATO's standard\" fighter \"number of\" nations"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e8f5f13c8195b769f2817c69c644",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e8f721a88195a27ed0fee043b64d",
+        "action": {
+          "query": "\"F-35\" \"NATO allies\" \"have selected the F-35\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"F-35\" \"NATO allies\" \"have selected the F-35\"",
+            "\"selected by\" \"17\" \"countries\" \"F-35\"",
+            "\"16 NATO countries\" \"F-35\"",
+            "\"13 NATO countries\" \"F-35\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e8ffff8c8195a26ac14659ab8244",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e910fb6481958125f833108c2a73",
+        "action": {
+          "query": "\"joins the F-35\" \"NATO\" 2025",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"joins the F-35\" \"NATO\" 2025",
+            "\"Becomes the\" \"member of the F-35\" 2025",
+            "\"Becomes the\" \"F-35 global\" \"21st\" \"nation\"",
+            "\"21st member\" \"F-35 global alliance\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e917138481959ce1ad986aef95e3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e91d4be88195bfa3a69076103dc9",
+        "action": {
+          "query": "\"programma F-35\" Ministero della Difesa 90 velivoli",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"programma F-35\" Ministero della Difesa 90 velivoli",
+            "\"programma F-35\" sito difesa italiana 90",
+            "\"programma Joint Strike Fighter\" Italia 90 velivoli",
+            "\"Lockheed Martin\" \"Italy\" \"F-35\" \"partner\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e922b9e0819589488207eb56b965",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e9239848819596d9cfe923b5f579",
+        "action": {
+          "query": "Netherlands orders F-35A 37 or 52 jets",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Netherlands orders F-35A 37 or 52 jets",
+            "\"RNLAF\" \"F-35A\" order 37",
+            "\"Dutch government\" \"Joint Strike Fighter\" 2013 decision",
+            "\"Netherlands\" \"F-35\" \"programma vervanging F-16\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e92b01f4819597bf68ba69515d0c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e92b9700819596771e891c33c3ef",
+        "action": {
+          "query": "Denmark selects F-35A 27 aircraft",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Denmark selects F-35A 27 aircraft",
+            "\"Danish Ministry of Defence\" \"F-35\"",
+            "\"Royal Danish Air Force\" \"27 F-35A\"",
+            "\"Denmark\" \"F-35\" \"9th partner\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e935a12c81958d56428f8f5f6726",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e937d89c81958fa04d6eb02a9f9f",
+        "action": {
+          "query": "Poland inks $4.6 billion contract for F-35 fighter jets 32",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Poland inks $4.6 billion contract for F-35 fighter jets 32",
+            "\"Poland\" \"32 F-35A\" contract",
+            "DSCA Poland F-35 notification 32",
+            "\"10th NATO nation\" to join the F-35 enterprise Poland"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e93f3c6481958a44ceedb0683958",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e94034908195a451923230d8e09a",
+        "action": {
+          "query": "Canada announces it will procure 88 F-35A 9 January 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Canada announces it will procure 88 F-35A 9 January 2023",
+            "Government of Canada announces acquisition of F-35 fighter jets 88",
+            "\"Canada\" \"88 F-35\" contract",
+            "\"Government of Canada\" F-35 announcement January 9 2023"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e946779c8195b2379fcfa51f9cd5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e9476cb08195b8ee35f25fc93e6e",
+        "action": {
+          "query": "Finland signs F-35 deal February 11 2022",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Finland signs F-35 deal February 11 2022",
+            "\"Finland\" \"64 F-35A\" \"HX Fighter Programme\"",
+            "\"HX Fighter\" F-35 selection 2021",
+            "\"Suomen\" \"F-35\" \"hankinta\" 2022 sopimus"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e951dd608195948cbeaf048c1728",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0960c1c9f05074f5006979e954e9dc8195b56bf35fb4144ce3",
+        "action": {
+          "query": "\"Ceská republika\" \"F-35\" \"memorandum\" leden 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Ceská republika\" \"F-35\" \"memorandum\" leden 2024",
+            "\"Cernochová\" \"F-35\" 24 letounů",
+            "\"Ministerstvo obrany\" \"F-35\" \"dohoda\"",
+            "site:mocr.army.cz F-35"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e95d3b3081959b1a26369aba9708",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_0960c1c9f05074f5006979e962ef4c81959693b99c4da272cb",
+        "code": "countries = [\"United States\",\"United Kingdom\",\"Italy\",\"Netherlands\",\"Norway\",\"Denmark\",\"Belgium\",\"Poland\",\"Finland\",\"Canada\",\"Germany\",\"Czech Republic\",\"Greece\",\"Romania\"]\nlen(countries)",
+        "container_id": "cntr_6979e885249c8190883c7a6ffc6ba2f8063ceae00e838eda",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_0960c1c9f05074f5006979e96dea6c8195a1afaf9fcceef057",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0960c1c9f05074f5006979e9d5cac081959d3bcc2a81166d19",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1033,
+                "start_index": 885,
+                "title": "The Czech Republic Joins the F-35 Lightning II Global Team - Jan 29, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai"
+              },
+              {
+                "end_index": 1439,
+                "start_index": 1365,
+                "title": "NATO",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/NATO?utm_source=openai"
+              },
+              {
+                "end_index": 1955,
+                "start_index": 1852,
+                "title": "Lockheed Martin F-35 Lightning II",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II?utm_source=openai"
+              },
+              {
+                "end_index": 2182,
+                "start_index": 2079,
+                "title": "Lockheed Martin F-35 Lightning II",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II?utm_source=openai"
+              },
+              {
+                "end_index": 2481,
+                "start_index": 2347,
+                "title": "UK to double F-35 fleet with 17-jet order - GOV.UK",
+                "type": "url_citation",
+                "url": "https://www.gov.uk/government/news/uk-to-double-f-35-fleet-with-17-jet-order-defence-secretary-announces?utm_source=openai"
+              },
+              {
+                "end_index": 2796,
+                "start_index": 2662,
+                "title": "UK to double F-35 fleet with 17-jet order - GOV.UK",
+                "type": "url_citation",
+                "url": "https://www.gov.uk/government/news/uk-to-double-f-35-fleet-with-17-jet-order-defence-secretary-announces?utm_source=openai"
+              },
+              {
+                "end_index": 3087,
+                "start_index": 2888,
+                "title": "F35, l'Italia mantiene impegno per acquisto 90 aerei caccia, ma taglia costi - Notizie - Ansa.it",
+                "type": "url_citation",
+                "url": "https://www.ansa.it/sito/notizie/politica/2015/02/17/f35-litalia-mantiene-impegno-per-acquisto-90-aerei-caccia-ma-taglia-costi_ad868a33-f863-4d0e-85dd-527a6e947dcf.html?utm_source=openai"
+              },
+              {
+                "end_index": 3394,
+                "start_index": 3195,
+                "title": "F35, l'Italia mantiene impegno per acquisto 90 aerei caccia, ma taglia costi - Notizie - Ansa.it",
+                "type": "url_citation",
+                "url": "https://www.ansa.it/sito/notizie/politica/2015/02/17/f35-litalia-mantiene-impegno-per-acquisto-90-aerei-caccia-ma-taglia-costi_ad868a33-f863-4d0e-85dd-527a6e947dcf.html?utm_source=openai"
+              },
+              {
+                "end_index": 3623,
+                "start_index": 3516,
+                "title": "Royal Netherlands Air and Space Force",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Royal_Netherlands_Air_and_Space_Force?utm_source=openai"
+              },
+              {
+                "end_index": 3907,
+                "start_index": 3800,
+                "title": "Royal Netherlands Air and Space Force",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Royal_Netherlands_Air_and_Space_Force?utm_source=openai"
+              },
+              {
+                "end_index": 4217,
+                "start_index": 4054,
+                "title": "Norway Becomes First F-35 Partner Nation to Fulfill its Program of Record - Apr 1, 2025",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2025-04-01-Norway-Becomes-First-F-35-Partner-Nation-to-Fulfill-its-Program-of-Record?utm_source=openai"
+              },
+              {
+                "end_index": 4594,
+                "start_index": 4431,
+                "title": "Norway Becomes First F-35 Partner Nation to Fulfill its Program of Record - Apr 1, 2025",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2025-04-01-Norway-Becomes-First-F-35-Partner-Nation-to-Fulfill-its-Program-of-Record?utm_source=openai"
+              },
+              {
+                "end_index": 4862,
+                "start_index": 4769,
+                "title": "F-35 fighter jets land in NATO-member Denmark to replace F-16s, some of which will go to Ukraine",
+                "type": "url_citation",
+                "url": "https://apnews.com/article/2470e553fd7211a02e5f50f8e787d213?utm_source=openai"
+              },
+              {
+                "end_index": 5070,
+                "start_index": 4977,
+                "title": "F-35 fighter jets land in NATO-member Denmark to replace F-16s, some of which will go to Ukraine",
+                "type": "url_citation",
+                "url": "https://apnews.com/article/2470e553fd7211a02e5f50f8e787d213?utm_source=openai"
+              },
+              {
+                "end_index": 5360,
+                "start_index": 5193,
+                "title": "Belgium buys 34 Lockheed Martin F-35A Lightning II fighter jets - Aviation24.be",
+                "type": "url_citation",
+                "url": "https://www.aviation24.be/military-aircraft/belgian-air-component/belgium-buys-34-lockheed-martin-f-35a-lightning-ii-fighter-jets/?utm_source=openai"
+              },
+              {
+                "end_index": 5684,
+                "start_index": 5517,
+                "title": "Belgium buys 34 Lockheed Martin F-35A Lightning II fighter jets - Aviation24.be",
+                "type": "url_citation",
+                "url": "https://www.aviation24.be/military-aircraft/belgian-air-component/belgium-buys-34-lockheed-martin-f-35a-lightning-ii-fighter-jets/?utm_source=openai"
+              },
+              {
+                "end_index": 5926,
+                "start_index": 5780,
+                "title": "Poland inks $4.6 billion contract for F-35 fighter jets",
+                "type": "url_citation",
+                "url": "https://www.defensenews.com/global/europe/2020/01/31/poland-inks-46-billion-contract-for-f-35-fighter-jets/?utm_source=openai"
+              },
+              {
+                "end_index": 6211,
+                "start_index": 6065,
+                "title": "Poland inks $4.6 billion contract for F-35 fighter jets",
+                "type": "url_citation",
+                "url": "https://www.defensenews.com/global/europe/2020/01/31/poland-inks-46-billion-contract-for-f-35-fighter-jets/?utm_source=openai"
+              },
+              {
+                "end_index": 6462,
+                "start_index": 6300,
+                "title": "Germany Becomes Latest Country to Join the F-35 Lightning II Global Team - Dec 14, 2022",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2022-12-14-Germany-Becomes-Latest-Country-to-Join-the-F-35-Lightning-II-Global-Team?utm_source=openai"
+              },
+              {
+                "end_index": 6754,
+                "start_index": 6592,
+                "title": "Germany Becomes Latest Country to Join the F-35 Lightning II Global Team - Dec 14, 2022",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2022-12-14-Germany-Becomes-Latest-Country-to-Join-the-F-35-Lightning-II-Global-Team?utm_source=openai"
+              },
+              {
+                "end_index": 7087,
+                "start_index": 6899,
+                "title": "Canada finalizes agreement to purchase new fighter jets for Royal Canadian Air Force - Canada.ca",
+                "type": "url_citation",
+                "url": "https://www.canada.ca/en/public-services-procurement/news/2023/01/canada-finalizes-agreement-to-purchase-new-fighter-jets-for-royal-canadian-air-force.html?utm_source=openai"
+              },
+              {
+                "end_index": 7491,
+                "start_index": 7303,
+                "title": "Canada finalizes agreement to purchase new fighter jets for Royal Canadian Air Force - Canada.ca",
+                "type": "url_citation",
+                "url": "https://www.canada.ca/en/public-services-procurement/news/2023/01/canada-finalizes-agreement-to-purchase-new-fighter-jets-for-royal-canadian-air-force.html?utm_source=openai"
+              },
+              {
+                "end_index": 7854,
+                "start_index": 7631,
+                "title": "Finland inks deal for its 64 F-35A fighter jets and agreement on industrial participation",
+                "type": "url_citation",
+                "url": "https://www.armyrecognition.com/archives/archives-aerospace-defense/aerospace-defense-2022/finland-inks-deal-for-its-64-f-35a-fighter-jets-and-agreement-on-industrial-participation?utm_source=openai"
+              },
+              {
+                "end_index": 8252,
+                "start_index": 8029,
+                "title": "Finland inks deal for its 64 F-35A fighter jets and agreement on industrial participation",
+                "type": "url_citation",
+                "url": "https://www.armyrecognition.com/archives/archives-aerospace-defense/aerospace-defense-2022/finland-inks-deal-for-its-64-f-35a-fighter-jets-and-agreement-on-industrial-participation?utm_source=openai"
+              },
+              {
+                "end_index": 8543,
+                "start_index": 8395,
+                "title": "The Czech Republic Joins the F-35 Lightning II Global Team - Jan 29, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai"
+              },
+              {
+                "end_index": 8788,
+                "start_index": 8640,
+                "title": "The Czech Republic Joins the F-35 Lightning II Global Team - Jan 29, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai"
+              },
+              {
+                "end_index": 9057,
+                "start_index": 8903,
+                "title": "Nejdražší armádní nákup uzavřen. Česko pořídí 24 letounů F-35 | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/domaci/nejdrazsi-armadni-nakup-pro-cesko-uzavren-cernochova-dohodla-24-letounu-pate-generace-f-35-1413246?utm_source=openai"
+              },
+              {
+                "end_index": 9384,
+                "start_index": 9225,
+                "title": "Greece Becomes Newest Member of the F-35 Lightning II Global Alliance - Jul 25, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai"
+              },
+              {
+                "end_index": 9709,
+                "start_index": 9550,
+                "title": "Greece Becomes Newest Member of the F-35 Lightning II Global Alliance - Jul 25, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai"
+              },
+              {
+                "end_index": 10012,
+                "start_index": 9863,
+                "title": "Romania Becomes the 20th Member of the F-35 Global Alliance - Nov 21, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai"
+              },
+              {
+                "end_index": 10345,
+                "start_index": 10196,
+                "title": "Romania Becomes the 20th Member of the F-35 Global Alliance - Nov 21, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai"
+              },
+              {
+                "end_index": 10903,
+                "start_index": 10755,
+                "title": "The Czech Republic Joins the F-35 Lightning II Global Team - Jan 29, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai"
+              },
+              {
+                "end_index": 11226,
+                "start_index": 11077,
+                "title": "Romania Becomes the 20th Member of the F-35 Global Alliance - Nov 21, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai"
+              },
+              {
+                "end_index": 11665,
+                "start_index": 11550,
+                "title": "Lockheed Martin F-35 Lightning II procurement",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai"
+              },
+              {
+                "end_index": 12050,
+                "start_index": 11935,
+                "title": "Lockheed Martin F-35 Lightning II procurement",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai"
+              },
+              {
+                "end_index": 12425,
+                "start_index": 12310,
+                "title": "Lockheed Martin F-35 Lightning II procurement",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai"
+              },
+              {
+                "end_index": 13151,
+                "start_index": 12960,
+                "title": "Spain ends talks with US for F-35 fighter jets and renews interest in European alternatives",
+                "type": "url_citation",
+                "url": "https://www.armyrecognition.com/news/aerospace-news/2025/spain-ends-talks-with-us-for-f-35-fighter-jets-and-renews-interest-in-european-alternatives?utm_source=openai"
+              },
+              {
+                "end_index": 13704,
+                "start_index": 13525,
+                "title": "Portugal Confirms U.S. F-35 as Preferred Fighter Jet to Replace Aging F-16 Fleet",
+                "type": "url_citation",
+                "url": "https://www.armyrecognition.com/news/aerospace-news/2025/portugal-confirms-u-s-f-35-as-preferred-fighter-jet-to-replace-aging-f-16-fleet?utm_source=openai"
+              },
+              {
+                "end_index": 14026,
+                "start_index": 13899,
+                "title": "Turkey officially kicked out of F-35 program, costing US half a billion dollars",
+                "type": "url_citation",
+                "url": "https://www.defensenews.com/air/2019/07/17/turkey-officially-kicked-out-of-f-35-program/?utm_source=openai"
+              },
+              {
+                "end_index": 14255,
+                "start_index": 14140,
+                "title": "Lockheed Martin F-35 Lightning II procurement",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai"
+              },
+              {
+                "end_index": 14791,
+                "start_index": 14676,
+                "title": "Lockheed Martin F-35 Lightning II procurement",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai"
+              },
+              {
+                "end_index": 15191,
+                "start_index": 15032,
+                "title": "Greece Becomes Newest Member of the F-35 Lightning II Global Alliance - Jul 25, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai"
+              },
+              {
+                "end_index": 15588,
+                "start_index": 15473,
+                "title": "Lockheed Martin F-35 Lightning II procurement",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai"
+              },
+              {
+                "end_index": 15868,
+                "start_index": 15753,
+                "title": "Lockheed Martin F-35 Lightning II procurement",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai"
+              },
+              {
+                "end_index": 16285,
+                "start_index": 16094,
+                "title": "Spain ends talks with US for F-35 fighter jets and renews interest in European alternatives",
+                "type": "url_citation",
+                "url": "https://www.armyrecognition.com/news/aerospace-news/2025/spain-ends-talks-with-us-for-f-35-fighter-jets-and-renews-interest-in-european-alternatives?utm_source=openai"
+              },
+              {
+                "end_index": 16789,
+                "start_index": 16641,
+                "title": "The Czech Republic Joins the F-35 Lightning II Global Team - Jan 29, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai"
+              },
+              {
+                "end_index": 17051,
+                "start_index": 16892,
+                "title": "Greece Becomes Newest Member of the F-35 Lightning II Global Alliance - Jul 25, 2024",
+                "type": "url_citation",
+                "url": "https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai"
+              },
+              {
+                "end_index": 17752,
+                "start_index": 17637,
+                "title": "Lockheed Martin F-35 Lightning II procurement",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai"
+              }
+            ],
+            "text": "## Shrnutí\n\n- **F‑35 si skutečně objednala řada členských států NATO.**\n- **Dle dostupných oficiálních a odborných zdrojů je však počet těchto států cca 14, nikoli 18.**  \n- Číslo 18 velmi pravděpodobně pochází z toho, že **ČR byla 18. státem na světě, který se do programu F‑35 zapojil**, nikoli 18. státem NATO.\n\n---\n\n## 1. Výklad tvrzení a možné interpretace\n\n**Tvrzení:** „… jsou to letouny, které si objednalo 18 členských zemí NATO.“\n\nMožné interpretace:\n\n1. **Hlavní (nejpřirozenější) výklad:**  \n   K datu výroku (24. 1. 2026) **existuje 18 členských států NATO**, které mají **závaznou objednávku letounů F‑35** (tj. podepsanou smlouvu / LOA na dodávky).\n\n2. **Alternativní vysvětlení omylu:**  \n   - Lockheed Martin při podpisu české smlouvy v lednu 2024 uvedl, že **Česká republika je „18th nation to join the global F‑35 program“**, tedy 18. stát na světě v programu F‑35. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai))  \n   - Prezident mohl toto číslo **chybně převzít** a **zaměnit „18 zemí v programu“ za „18 členských zemí NATO“**.\n\nV dalším posuzujeme **hlavní výklad** – počet členských států NATO s prokazatelnou objednávkou F‑35.\n\n---\n\n## 2. Které státy NATO mají prokazatelně objednané F‑35?\n\nNATO má dnes 32 členů (včetně Finska a Švédska). ([en.wikipedia.org](https://en.wikipedia.org/wiki/NATO?utm_source=openai))  \nZ dostupných primárních a respektovaných sekundárních zdrojů se dá doložit **objednávka F‑35 u těchto 14 členských států NATO**:\n\n### Přehled v tabulce\n\n| Stát (NATO) | Důkaz objednávky F‑35 | Klíčový citát (zkráceně) |\n|-------------|-----------------------|--------------------------|\n| **USA** | Primární zákazník a finanční tahoun programu; plán nákupu 1763 F‑35A pro USAF + stovky F‑35B/C pro USMC a USN. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II?utm_source=openai)) | „The United States is the primary customer and financial backer, with planned procurement of 1,763 F‑35As for the USAF…“ ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II?utm_source=openai)) |\n| **Velká Británie** | Britská vláda (MoD) potvrdila nákup F‑35B (a nově i F‑35A). Vládní zpráva z r. 2018: **objednávka 17 kusů navíc, celkový závazek 138 ks.** ([gov.uk](https://www.gov.uk/government/news/uk-to-double-f-35-fleet-with-17-jet-order-defence-secretary-announces?utm_source=openai)) | „The UK is set to double its number of… F‑35 stealth jets after ordering 17 more aircraft… Overall, the UK has committed to procure 138 aircraft over the life of the programme.“ ([gov.uk](https://www.gov.uk/government/news/uk-to-double-f-35-fleet-with-17-jet-order-defence-secretary-announces?utm_source=openai)) |\n| **Itálie** | Italská vláda potvrdila závazek **90 F‑35** (po snížení z původních 131). ([ansa.it](https://www.ansa.it/sito/notizie/politica/2015/02/17/f35-litalia-mantiene-impegno-per-acquisto-90-aerei-caccia-ma-taglia-costi_ad868a33-f863-4d0e-85dd-527a6e947dcf.html?utm_source=openai)) | „Il programma F35 prevede l'acquisto da parte dell'Italia di 90 di questi caccia di quinta generazione…“ ([ansa.it](https://www.ansa.it/sito/notizie/politica/2015/02/17/f35-litalia-mantiene-impegno-per-acquisto-90-aerei-caccia-ma-taglia-costi_ad868a33-f863-4d0e-85dd-527a6e947dcf.html?utm_source=openai)) |\n| **Nizozemsko** | Nizozemská vláda v roce 2013–2014 schválila postupný nákup F‑35A; postupně navýšeno na **52 kusů**. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Royal_Netherlands_Air_and_Space_Force?utm_source=openai)) | „In February 2014 Parliament approved the purchase of the first batch of eight F‑35A aircraft… The purchase of fifteen additional aircraft was announced… totalling 52 jets.“ ([en.wikipedia.org](https://en.wikipedia.org/wiki/Royal_Netherlands_Air_and_Space_Force?utm_source=openai)) |\n| **Norsko** | Norsko vybralo F‑35A již v roce 2008, objednáno **52 letounů**; v r. 2025 Lockheed Martin oznámil dokončení dodávky všech 52 ks. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2025-04-01-Norway-Becomes-First-F-35-Partner-Nation-to-Fulfill-its-Program-of-Record?utm_source=openai)) | „…delivery of the 51st and 52nd F‑35As to the Royal Norwegian Air Force, making Norway the first F‑35 partner nation to fulfill its program of record… the last of the 52 fighter jets … that Norway has ordered.“ ([news.lockheedmartin.com](https://news.lockheedmartin.com/2025-04-01-Norway-Becomes-First-F-35-Partner-Nation-to-Fulfill-its-Program-of-Record?utm_source=openai)) |\n| **Dánsko** | Dánsko v r. 2016 schválilo nákup **27 F‑35A**; v r. 2023 dorazily první stroje. AP k první dodávce: „first delivery of 27 aircraft the country has ordered“. ([apnews.com](https://apnews.com/article/2470e553fd7211a02e5f50f8e787d213?utm_source=openai)) | „…four U.S.-made F‑35 fighter jets arrived… marking the first delivery of 27 aircraft the country has ordered…“ ([apnews.com](https://apnews.com/article/2470e553fd7211a02e5f50f8e787d213?utm_source=openai)) |\n| **Belgie** | Belgická vláda 25. 10. 2018 potvrdila nákup **34 F‑35A** (dále rozšířený, ale to už nemění počet států). ([aviation24.be](https://www.aviation24.be/military-aircraft/belgian-air-component/belgium-buys-34-lockheed-martin-f-35a-lightning-ii-fighter-jets/?utm_source=openai)) | „Belgium will buy 34 new F‑35A Lightning II fighter jets from Lockheed Martin. This was confirmed by the Belgian Government on Thursday 25 October 2018.“ ([aviation24.be](https://www.aviation24.be/military-aircraft/belgian-air-component/belgium-buys-34-lockheed-martin-f-35a-lightning-ii-fighter-jets/?utm_source=openai)) |\n| **Polsko** | 31. 1. 2020 Polsko podepsalo kontrakt na **32 F‑35A** v hodnotě 4,6 mld. USD. ([defensenews.com](https://www.defensenews.com/global/europe/2020/01/31/poland-inks-46-billion-contract-for-f-35-fighter-jets/?utm_source=openai)) | „…signed a contract worth $4.6 billion under which the country will acquire 32 F‑35A Lightning II fighter jets from the United States.“ ([defensenews.com](https://www.defensenews.com/global/europe/2020/01/31/poland-inks-46-billion-contract-for-f-35-fighter-jets/?utm_source=openai)) |\n| **Německo** | Německé ministerstvo obrany 14. 12. 2022 oznámilo nákup **35 F‑35A**. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2022-12-14-Germany-Becomes-Latest-Country-to-Join-the-F-35-Lightning-II-Global-Team?utm_source=openai)) | „The German Ministry of Defense announced today it is procuring 35 Lockheed Martin 5th Generation F‑35 Lightning II aircraft.“ ([news.lockheedmartin.com](https://news.lockheedmartin.com/2022-12-14-Germany-Becomes-Latest-Country-to-Join-the-F-35-Lightning-II-Global-Team?utm_source=openai)) |\n| **Kanada** | Kanada 9. 1. 2023 oficiálně oznámila, že **pořídí flotilu 88 F‑35A** pro RCAF; vláda podepsala dohodu s USA a Lockheed Martin. ([canada.ca](https://www.canada.ca/en/public-services-procurement/news/2023/01/canada-finalizes-agreement-to-purchase-new-fighter-jets-for-royal-canadian-air-force.html?utm_source=openai)) | „Canada has finalized an agreement… for the acquisition of F‑35 fighter jets… Canada has committed to purchase a new fleet of 88 advanced fighter jets for the RCAF… this new fleet will be comprised of F‑35 jets.“ ([canada.ca](https://www.canada.ca/en/public-services-procurement/news/2023/01/canada-finalizes-agreement-to-purchase-new-fighter-jets-for-royal-canadian-air-force.html?utm_source=openai)) |\n| **Finsko** | V rámci programu HX vláda Finska v prosinci 2021 vybrala F‑35A a 11. 2. 2022 finské velení podepsalo LOA na **64 F‑35A**. ([armyrecognition.com](https://www.armyrecognition.com/archives/archives-aerospace-defense/aerospace-defense-2022/finland-inks-deal-for-its-64-f-35a-fighter-jets-and-agreement-on-industrial-participation?utm_source=openai)) | „On 10 December 2021, the Finnish Government decided on the procurement of Lockheed Martin F‑35A… On Friday 11 February 2022… signed… the LOA documents on F‑35A aircraft…“ ([armyrecognition.com](https://www.armyrecognition.com/archives/archives-aerospace-defense/aerospace-defense-2022/finland-inks-deal-for-its-64-f-35a-fighter-jets-and-agreement-on-industrial-participation?utm_source=openai)) |\n| **Česká republika** | Vláda v září 2023 schválila nákup **24 F‑35A**, 29. 1. 2024 ministryně Černochová podepsala memorandum a LOA s USA. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai)) | „The Czech Republic government signed a Letter of Offer and Acceptance… to procure 24… F‑35…“ ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai)); „Česko pořídí pro armádu 24 letounů páté generace F‑35… pořízení 24 letounů F‑35A Lightning II schválila vláda…“ ([e15.cz](https://www.e15.cz/domaci/nejdrazsi-armadni-nakup-pro-cesko-uzavren-cernochova-dohodla-24-letounu-pate-generace-f-35-1413246?utm_source=openai)) |\n| **Řecko** | 25. 7. 2024 řecká vláda podepsala LOA na **20 F‑35A** s opcí na dalších 20; Lockheed Martin uvádí, že Řecko je „19th nation to join the F‑35 program“. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai)) | „Today, the Greece government finalized its intention to procure 20 Lockheed Martin F‑35 Lightning II aircraft by signing a Letter of Offer and Acceptance (LOA)…“ ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai)) |\n| **Rumunsko** | 21. 11. 2024 Rumunsko podepsalo LOA na **32 F‑35A**; Lockheed Martin uvádí, že Rumunsko je „20th member of the F‑35 global alliance“. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai)) | „The Government of Romania confirmed today its intent to procure 32… F‑35… by signing a Letter of Offer and Acceptance (LOA)… Romania is the 20th country to join the F‑35 program.“ ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai)) |\n\n**Shrnutí:** Prokazatelně **14 členských států NATO** má závazné objednávky letounů F‑35 (partnerství v programu + podepsané smlouvy / LOA).\n\n---\n\n## 3. Globální počet zákazníků F‑35 vs. počet členů NATO\n\n### 3.1 Kolik států F‑35 objednalo celkově?\n\nLockheed Martin a související zdroje uvádějí:\n\n- Když se 29. 1. 2024 připojila Česká republika, stala se **„18th nation to join the global F‑35 program“**. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai))  \n- Když 21. 11. 2024 podepsalo LOA Rumunsko, uvádí se, že **„Romania is the 20th member of the F‑35 global alliance“** a že **„20 global customers have chosen the F‑35“**. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-11-21-Romania-Becomes-the-20th-Member-of-the-F-35-Global-Alliance?utm_source=openai))  \n\nNezávisle to potvrzuje přehled objednávek na stránce *Lockheed Martin F‑35 Lightning II procurement*, kde je v tabulce **20 „confirmed purchases“** (USA, UK, Itálie, Nizozemsko, Norsko, Dánsko, Belgie, Polsko, Finsko, Kanada, Švýcarsko, Německo, ČR, Řecko, Rumunsko, Austrálie, Izrael, Japonsko, Jižní Korea, Singapur). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n\n### 3.2 Kolik z těchto zákazníků jsou státy NATO?\n\nZe stejné tabulky i z obecného přehledu NATO plyne, že z těchto **20 potvrzených zákazníků F‑35** jsou **nečleny NATO**:\n\n- **Austrálie**\n- **Izrael**\n- **Japonsko**\n- **Jižní Korea**\n- **Singapur**\n- **Švýcarsko** ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n\nTyto státy jsou sice součástí programu F‑35, ale **nejsou členy NATO**.\n\nZbývajících **14 zákazníků** jsou právě státy NATO uvedené v tabulce výše (USA, UK, Itálie, Nizozemsko, Norsko, Dánsko, Belgie, Polsko, Finsko, Kanada, Německo, ČR, Řecko, Rumunsko). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n\n**Z toho vyplývá:**\n\n> **Globálně** mělo ke konci roku 2024 F‑35 objednáno **20 států**,  \n> z toho **pouze 14** jsou **členské země NATO**.\n\n---\n\n## 4. Státy NATO, které F‑35 nezakoupily (ale někdy se zmiňují)\n\nNěkteré jiné státy NATO se v debatách o F‑35 často objevují, ale:\n\n### 4.1 Španělsko\n\n- Španělsko zvažovalo F‑35A/B jako náhradu za F/A‑18 a AV‑8B Harrier, ale v srpnu 2025 podle deníku *El País* a analýzy Army Recognition **ukončilo jednání o F‑35 a rozhodlo se pro evropské alternativy (Eurofighter, budoucí FCAS).** ([armyrecognition.com](https://www.armyrecognition.com/news/aerospace-news/2025/spain-ends-talks-with-us-for-f-35-fighter-jets-and-renews-interest-in-european-alternatives?utm_source=openai))  \n- Neexistuje žádná zmínka o podepsaném kontraktu či LOA na F‑35.\n\n### 4.2 Portugalsko\n\n- Portugalsko v roce 2024–2025 deklarovalo, že F‑35 je „preferovaným“ či jediným skutečně 5. generačním kandidátem, ale **opakovaně bylo potvrzeno, že žádná smlouva zatím podepsána nebyla** – uvažuje se pouze o zaslání Letter of Request, případně jsou zvažovány evropské alternativy. ([armyrecognition.com](https://www.armyrecognition.com/news/aerospace-news/2025/portugal-confirms-u-s-f-35-as-preferred-fighter-jet-to-replace-aging-f-16-fleet?utm_source=openai))  \n\n### 4.3 Turecko\n\n- Turecko sice bylo původně partnerem programu a chystalo se odebrat 100 F‑35A, ale po nákupu ruského systému S‑400 bylo v roce 2019 **z programu F‑35 oficiálně vyloučeno**. ([defensenews.com](https://www.defensenews.com/air/2019/07/17/turkey-officially-kicked-out-of-f-35-program/?utm_source=openai))  \n- Objednávka byla zrušena; v přehledu objednávek je u Turecka uvedeno **„0 (Order for 100 F‑35As canceled)“.** ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n- Turecko tedy **aktuálně nemá platnou objednávku F‑35**.\n\nTyto státy tedy **nemohou** být započítány do „členských zemí NATO, které si F‑35 objednaly“.\n\n---\n\n## 5. Dílčí hodnocení tvrzení\n\n### 5.1 Dílčí tvrzení: „Letouny F‑35 si objednalo více členských zemí NATO“\n\nToto je podloženo:\n\n- Více než deset evropských a severoamerických spojenců v NATO skutečně uzavřelo závazné kontrakty na F‑35 (viz tabulka 14 států). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n- Lockheed Martin opakovaně popisuje F‑35 jako **„NATO standard fighter of choice“** a zdůrazňuje, že v Evropě je či bude provozován „z více než 10 evropských zemí“ – to odpovídá tomu, že značná část evropských členů NATO F‑35 objednala. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai))  \n\n**Tento dílčí aspekt tvrzení je tedy pravdivý.**\n\n### 5.2 Dílčí tvrzení: „… které si objednalo 18 členských zemí NATO“\n\nZ výše uvedených údajů:\n\n- **Potvrzených zákazníků F‑35 je 20**, z toho **šest není v NATO** (Austrálie, Izrael, Japonsko, Jižní Korea, Singapur, Švýcarsko). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n- **Států NATO s potvrzenou objednávkou F‑35 je 14** (USA, UK, Itálie, Nizozemsko, Norsko, Dánsko, Belgie, Polsko, Finsko, Kanada, Německo, ČR, Řecko, Rumunsko). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n- Ze států, které by mohly „dopočítat“ číslo 18, **Španělsko, Portugalsko ani Turecko F‑35 aktuálně objednané nemají** (Španělsko jednání ukončilo, Portugalsko zatím jedná bez kontraktu, Turecko bylo z programu vyloučeno). ([armyrecognition.com](https://www.armyrecognition.com/news/aerospace-news/2025/spain-ends-talks-with-us-for-f-35-fighter-jets-and-renews-interest-in-european-alternatives?utm_source=openai))  \n\nTvrzení, že **„F‑35 si objednalo 18 členských zemí NATO“**, proto **neodpovídá dostupným primárním údajům** – nadhodnocuje skutečný počet minimálně o **čtyři státy**.\n\n### 5.3 Pravděpodobný původ čísla 18\n\n- Při podpisu českého LOA 29. 1. 2024 uvádí Lockheed Martin, že **„the Czech Republic becomes the 18th nation to join the global F‑35 program“**. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-01-29-The-Czech-Republic-Joins-the-F-35-Lightning-II-Global-Team?utm_source=openai))  \n- Následně Řecko je prezentováno jako 19. účastník a Rumunsko jako 20. člen „F‑35 global alliance“. ([news.lockheedmartin.com](https://news.lockheedmartin.com/2024-07-25-Greece-Becomes-Newest-Member-of-the-F-35-Lightning-II-Global-Alliance?utm_source=openai))  \n\nJe tedy velmi pravděpodobné, že prezident **převzal správné číslo pro „počet států v programu F‑35“**, ale **chybně jej vztáhl jen na členské země NATO**, ač několik zákazníků (Austrálie, Izrael, Japonsko, Jižní Korea, Singapur, Švýcarsko) v NATO není.\n\n---\n\n## 6. Závěrečné hodnocení\n\n- **Ano, F‑35 jsou široce rozšířené mezi členskými státy NATO; jde o letoun, který si objednala řada aliančních zemí.**  \n- **Počet 18 členských států NATO s objednávkou F‑35 ale neodpovídá zjištěným datům.**  \n  - Konec roku 2024: **20 globálních zákazníků**, z toho **14 v NATO**, 6 mimo NATO. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement?utm_source=openai))  \n\n> **Celkově je tvrzení „… které si objednalo 18 členských zemí NATO“ nepravdivé (výrazně nadsazené).**",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 114902,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 18443,
+      "output_tokens_details": {
+        "reasoning_tokens": 13764
+      },
+      "total_tokens": 133345
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1769597489,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

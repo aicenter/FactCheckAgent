@@ -1,0 +1,718 @@
+{
+  "claim_id": "24521",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20260106_103748",
+  "source_md": "experiments/gpt-5.1h_20260106_103748/brief_fact_check_id24521.md",
+  "fact_check": "# Fact Check for Statement ID 24521\n\n## Statement\nČeská republika na rozdíl od okolních zemí vždy měla a má přebytek levně vyrobené elektrické energie.\n\n---\n## OpenAI Deep Research Fact Check\n## Shrnutí hodnocení\n\nVýrok **„Česká republika na rozdíl od okolních zemí vždy měla a má přebytek levně vyrobené elektrické energie“** je:\n\n- **částečně pravdivý**, pokud jde o to, že ČR dlouhodobě vyrábí více elektřiny, než sama spotřebuje, a že významná část této výroby má **relativně nízké výrobní náklady** (hlavně jádro + uhlí);\n- **nepodložený/slabě podložený**, pokud jde o doslovné „vždy“ (nemáme úplná historická data, ale pro poslední cca čtvrtstoletí je čistý vývoz doložen);\n- **nepravdivý**, pokud jde o část **„na rozdíl od okolních zemí“** – minimálně **Slovensko** i **Rakousko** jsou v posledních letech čistými vývozci, a **Německo** bylo čistým vývozcem elektřiny zhruba dvě desetiletí. Tyto země navíc také používají relativně levné zdroje (jádro, vodní elektrárny).\n\nCelkově je tedy výrok **zavádějící**: zjednodušuje a přehání skutečnost, a zvláště srovnání s „okolními zeměmi“ faktům neodpovídá.\n\n---\n\n## 1. Rozklad výroku na dílčí tvrzení\n\n1. **Současný přebytek elektřiny v ČR**  \n   a) ČR dnes vyrábí více elektřiny, než spotřebovává (je čistým vývozcem).  \n   b) Tento přebytek trvá „vždy“ – tedy traduje se, že ČR nikdy neměla zápornou roční bilanci.\n\n2. **„Levně vyrobená“ elektřina**  \n   c) Elektřina vyráběná v ČR má nízké výrobní náklady (zejména díky jádru a uhlí).\n\n3. **Srovnání s „okolními zeměmi“**  \n   d) Na rozdíl od sousedů (Německo, Slovensko, Rakousko, Polsko) nemají tyto země přebytek elektřiny.  \n   e) Na rozdíl od sousedů nemají tyto země k dispozici „levně vyrobenou“ elektřinu v podobném smyslu jako ČR.\n\nNíže jsou pro každé dílčí tvrzení shromážděny důkazy.\n\n---\n\n## 2. Přebytek elektřiny v ČR dnes a v posledních letech\n\n### 2.1 Současný stav (cca 2021–2024)\n\n- Analýza poradenské společnosti **EGÚ Brno (EGU)** shrnutá na Novinkách.cz uvádí, že:\n  - v roce **2023** ČR vyvezla **9 TWh** elektřiny, přičemž zůstala **4. největším exportérem elektřiny v EU**,  \n  - výroba v ČR byla 72 TWh, zatímco „čistá spotřeba“ se **už 17 let pohybuje kolem 60 TWh**. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n- Další analýza EGU pro rok **2024** (publikovaná např. na EnviWeb / TZB-info / EGU‑citovaných médiích) uvádí, že:\n  - **obchodní toky** z ČR v roce 2024 byly 13,7 TWh,  \n  - **dovoz** 7,3 TWh,  \n  - takže **saldo +6,4 TWh „potvrdilo exportní bilanci“ ČR**,  \n  - export byl ale **nejnižší od roku 1999**. ([energyhub.eu](https://energyhub.eu/cs/articles/1107084/analyza-cr-loni-vyvazela-elektrinu-za-nadprumerne-ceny-dovazela-naopak-levneji?utm_source=openai))  \n\n- Podobný závěr (Česko jako významný čistý exportér elektřiny) přináší i ekonom Lukáš Kovanda na základě dat firmy Montel/EnAppSys: v letech **2021–2023** ČR v čistém vyvezla **33,4 TWh** elektřiny (více než roční výroba dvou Temelínů). ([svobodny-svet.cz](https://svobodny-svet.cz/cesko-za-tri-roky-vyvezlo-tolik-elektriny-kolik-ji-za-rok-vyrobi-dva-temeliny/?utm_source=openai))  \n\n- Podle Eurostatu (přes přehled zpracovaný LSM Latvia) bylo v roce **2023** mezi zeměmi s **nejvyššími čistými exporty elektřiny** i **Česko**, u nějž čistý export činil **16 %** domácí spotřeby. ([eng.lsm.lv](https://eng.lsm.lv/article/economy/economy/20.08.2024-latvia-slashed-its-electricity-imports-in-2023.a565672/))  \n\n**Závěr k 2.1:**  \nPro roky **2021–2024** je z více nezávislých zdrojů dobře doloženo, že Česká republika je **čistým vývozcem elektřiny** (má přebytek výroby nad spotřebou).\n\n### 2.2 „Vždy měla“ – dlouhodobý historický vývoj\n\n- EGU ve výše uvedených analýzách opakovaně uvádí, že export v roce 2024 byl **„nejnižší od roku 1999, tedy posledního roku před spuštěním Temelína“**, přičemž i tento nízký export znamenal stále **kladné saldo** (6,4 TWh). ([energyhub.eu](https://energyhub.eu/cs/articles/1107084/analyza-cr-loni-vyvazela-elektrinu-za-nadprumerne-ceny-dovazela-naopak-levneji?utm_source=openai))  \n  - To implikuje, že **od roku 1999** (včetně) má ČR **ve všech letech kladné saldo** obchodu s elektřinou – tj. je **čistým vývozcem**.\n\n- Novinky.cz na základě analýzy EGÚ Brno připomínají, že **čistá spotřeba** ČR se „už 17 let pohybuje okolo 60 TWh“, zatímco výroba v roce 2023 byla 72 TWh. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n  - To je další indikace, že minimálně za posledních cca 15–20 let je ČR **přebytková**.\n\n- Analytické portály (např. Peak.cz) shrnují, že Česko je v rámci Visegrádu **„dlouhodobě zdaleka největším čistým vývozcem elektřiny“**. ([peak.cz](https://www.peak.cz/cesi-maji-druhou-nejdrazsi-elektrinu-v-eu-navic-nejvice-zdrazuje-v-ramci-visegradu-proc/43553/?utm_source=openai))  \n\n**Co ale nemáme:**\n\n- Přímou, snadno citovatelnou oficiální časovou řadu (např. z ERÚ/ČEPS nebo Eurostatu) od počátku 90. let, která by **výslovně** řekla, že ČR **nikdy** (ani v 90. letech) neměla zápornou roční bilanci.\n\n**Závěr k 2.2 („vždy“):**\n\n- Data a analýzy EGU a dalších zdrojů **silně podporují**, že **od konce 90. let (minimálně 1999–2024)** je ČR **trvale čistým vývozcem elektřiny**.  \n- Neexistuje ale v citovaných zdrojích jasný primární důkaz, že by to platilo **doslova „vždy“ od vzniku ČR** (1993).  \n- Formulace „vždy měla přebytek“ je tedy spíše **nadsázka**, ale pro poslední zhruba čtvrtstoletí odpovídá realitě.\n\n---\n\n## 3. „Levně vyrobená“ elektřina v ČR\n\n### 3.1 Struktura české výroby – jádro a uhlí\n\n- Eurostat v publikacích „Shedding light on energy in Europe“ uvádí, že mezi hlavní producenty energie z **uhlí** patří mj. **Česko** – podíl pevných paliv na domácí produkci energie je dlouhodobě přes 40 %. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/interactive-publications/energy-2024?utm_source=openai))  \n\n- Skupina **ČEZ** pokrývá přibližně **tři čtvrtiny celkové domácí produkce elektřiny** a klíčovou roli hrají jaderné elektrárny **Dukovany a Temelín**. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-vlada-ma-na-stole-razne-reseni-cen-energii-oprasila-zestatneni-elektraren-202643))  \n\n### 3.2 Výrobní náklady jaderných elektráren\n\n- Ředitel JE Temelín Miloš Štěpanovský v rozhovoru pro PrůmyslDnes uvádí, že **jaderné elektrárny „z hlediska provozních nákladů patří k nejlevnějším zdrojům výroby elektřiny“**, i přes vysokou vstupní investici. ([prumysldnes.cz](https://www.prumysldnes.cz/exkluzivni-rozhovory/cez-as-jaderna-elektrarna-temelin-141012?utm_source=openai))  \n\n- Podobně Novinky/Deník citují člena představenstva ČEZ Vladimíra Hlavinku, podle něhož **„proud z atomových elektráren patří k nejlevnějším zdrojům výroby elektřiny“**. ([denik.cz](https://www.denik.cz/ekonomika/vyroba-proudu-z-jadra-bude-letos-v-cesku-rekordni-20121204.html?utm_source=openai))  \n\n- Přehled o nákladech na různé zdroje, zveřejněný ve vládním materiálu k dostavbě Temelína, uvádí u jádra (JETE) **výrobní náklady na MWh nižší než u černouhelných a plynových elektráren** (ve srovnání proměnných nákladů). ([vlada.gov.cz](https://vlada.gov.cz/cz/clenovevlady/historie-minulych-vlad/%21-zaverecna-zprava-dostavby-jaderne-elektrarnytemelin-2119/?utm_source=openai))  \n\n- Seznam Zprávy shrnují, že **„hlavně díky jaderkám v Dukovanech a Temelíně jsou výrobní náklady [ČEZ] relativně nízké“**, ale elektřina se prodává za cenu utvářenou na evropském trhu, kde se promítají vyšší německé náklady (např. z plynových zdrojů). ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-vlada-ma-na-stole-razne-reseni-cen-energii-oprasila-zestatneni-elektraren-202643))  \n\n### 3.3 Kontrast s konečnými cenami pro domácnosti\n\n- Řada analýz (Kovanda, Peak.cz, aj.) upozorňuje na paradox, že **Česko patří k největším čistým vývozcům elektřiny**, ale **domácnosti mají (v paritě kupní síly) jednu z nejdražších elektřin v EU**. ([peak.cz](https://www.peak.cz/cesi-maji-druhou-nejdrazsi-elektrinu-v-eu-navic-nejvice-zdrazuje-v-ramci-visegradu-proc/43553/?utm_source=openai))  \n\n- Studie EGU pro rok 2024 konstatuje, že ČR **vyváží elektřinu za nadprůměrné ceny**, zatímco **importovaná elektřina je v průměru o 26 % levnější než domácí spotový průměr** – což ukazuje, že „levně vyrobená“ neznamená automaticky levnou pro konečné odběratele. ([energyhub.eu](https://energyhub.eu/cs/articles/1107084/analyza-cr-loni-vyvazela-elektrinu-za-nadprumerne-ceny-dovazela-naopak-levneji?utm_source=openai))  \n\n**Závěr k 3.:**\n\n- Existuje **silný odborný konsenzus**, že **jaderné elektrárny (a v minulosti i domácí uhlí)** v ČR patří co do provozních nákladů k **levným zdrojům elektřiny**.  \n- Tvrzení, že Česko má **„levně vyrobenou“ elektřinu**, má tedy **reálný základ**, pokud se mluví o **výrobních nákladech**, nikoli o koncových cenách pro domácnosti.\n\n---\n\n## 4. Situace v „okolních zemích“ (sousedé ČR)\n\nZa „okolní země“ lze rozumně považovat **Německo, Slovensko, Rakousko a Polsko**. Níže je stručný přehled jejich situace.\n\n### 4.1 Čistý export / import elektřiny\n\n#### Slovensko\n\n- Novinky.cz (analýza EGÚ Brno) uvádějí, že se **Slovensko v roce 2023 „poprvé od roku 2007“ stalo opět vývozcem elektřiny** s čistým exportem **3,5 TWh**, zejména díky spuštění jaderné elektrárny Mochovce. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n- Eurostat (přes článek LSM Latvia) řadí v roce 2023 Slovensko mezi země s nejvyššími **čistými exporty** elektřiny – čistý export činil **15,3 %** jeho spotřeby, téměř stejně jako u Česka (16 %). ([eng.lsm.lv](https://eng.lsm.lv/article/economy/economy/20.08.2024-latvia-slashed-its-electricity-imports-in-2023.a565672/))  \n\n**=> Slovensko je v době tvrzení i posledních let rovněž významným čistým vývozcem elektřiny – tvrzení „na rozdíl od okolních zemí“ zde zjevně neplatí.**\n\n#### Rakousko\n\n- Analýza EGÚ Brno (přes Novinky.cz) říká, že **Rakousko je dlouhodobě dovozcem elektřiny**, ale v roce 2023 se díky vysoké výrobě z **vodních elektráren** a nižší spotřebě jeho deficit výrazně snížil (na cca 2 TWh). ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n- Eurostat/Euronews pro rok 2024 ukazuje, že **Rakousko mělo čistý export -10 % spotřeby** (záporné číslo znamená, že export převyšuje import), tj. bylo mezi „silnými exportéry“ společně se Slovenskem a Českem. ([euronews.com](https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most))  \n\n**=> Rakousko je dlouhodobě spíše dovozcem, ale v některých letech (např. 2023–2024) vykazuje kladné saldo a patří mezi významné exportéry. Nelze tedy tvrdit, že „na rozdíl od ČR“ nemá přebytek.**\n\n#### Německo\n\n- Německo bylo po mnoho let **významným čistým vývozcem elektřiny** – Euronews s odkazem na odborníky z Agora Energiewende připomíná, že **„Německo bylo čistým exportérem dvě desetiletí, než se v roce 2023 stalo importérem“**. ([euronews.com](https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most))  \n\n- Podrobnější analýza Renewable Energy Institute na základě dat Fraunhofer ISE uvádí, že **v roce 2023 se Německo poprvé od roku 2002 stalo čistým dovozcem elektřiny** (9,2 TWh, asi 2 % spotřeby). ([renewable-ei.org](https://www.renewable-ei.org/en/activities/column/REupdate/20240719.php))  \n\n- Ještě v roce 2018 však Německo vyvezlo do okolních zemí téměř **50 TWh** elektřiny a i v roce 2022 bylo čistým vývozcem. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n**=> Německo sice v posledních letech přešlo do mírného deficitu, ale po **dvě desetiletí mělo velký přebytek elektřiny**. Tvrzení, že ČR má přebytek „na rozdíl od Německa“, je tedy historicky i fakticky zavádějící.**\n\n#### Polsko\n\n- Podle analýzy EGÚ Brno (Novinky.cz) bylo **Polsko v roce 2023 deficitní**, čistý dovoz činil **4 TWh**, a Polsko je dlouhodobě zmiňováno jako země s **dovozním charakterem bilance**, byť v některých letech s menším deficitem. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n- Peak.cz popisuje Polsko a zejména Maďarsko jako země, které **„prakticky trvale představují čisté dovozce elektřiny“**, zatímco Česko je největším čistým vývozcem ve V4. ([peak.cz](https://www.peak.cz/cesi-maji-druhou-nejdrazsi-elektrinu-v-eu-navic-nejvice-zdrazuje-v-ramci-visegradu-proc/43553/?utm_source=openai))  \n\n**=> U Polska tvrzení „na rozdíl od ČR“ (co do přebytku) v zásadě platí; Polsko je většinou čistým dovozcem.**\n\n### 4.2 „Levně vyrobená“ elektřina v okolních zemích\n\n- Euronews uvádí, že **silnými exportéry** jsou v roce 2024 vedle Česka (-12 %) a Slovenska (-13 %) také **Švédsko, Francie, Slovinsko a Rakousko (-10 %)**. Tyto země mají buď **významný podíl vodních elektráren (Švédsko, Norsko, Rakousko)** nebo **velký jaderný park (Francie, částečně Slovensko)** – tj. také využívají **relativně levné zdroje** (jádro, voda). ([euronews.com](https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most))  \n\n- LSM/Eurostat zmiňuje mezi největšími **čistými exportéry v roce 2023** i **Francii, Švédsko, Španělsko, Česko a Slovensko**, což opět ukazuje, že **levné zdroje a přebytky elektřiny nejsou specificky „český“ fenomén**. ([eng.lsm.lv](https://eng.lsm.lv/article/economy/economy/20.08.2024-latvia-slashed-its-electricity-imports-in-2023.a565672/))  \n\n- I v okolních zemích tedy existují **levné výrobní zdroje**:\n  - **Slovensko:** výrazný podíl jádra (Mochovce, Jaslovské Bohunice) – srovnatelný charakter „levné“ výroby jako v ČR.  \n  - **Rakousko:** vysoký podíl vodních elektráren s nízkými provozními náklady; právě jejich vysoká výroba v roce 2023 umožnila snížit deficit. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n**Závěr k 4.:**\n\n- V rámci sousedních zemí:\n  - **Slovensko** a v některých letech i **Rakousko** mají **čistý přebytek elektřiny** a využívají **levné výrobní zdroje** (jádro, voda) – situace **velmi podobná ČR**.  \n  - **Německo** mělo dvacet let velký přebytek a až nedávno se stalo čistým dovozcem; používá směs jádra (dříve), uhlí a nyní hlavně obnovitelných zdrojů, přičemž cenovou hladinu zvyšoval zejména plyn. ([euronews.com](https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most))  \n  - **Polsko** je většinou dovozce, ale ani zde nejde říci, že by nemělo vůbec žádné levné zdroje – podstatnou část výroby tvoří domácí uhlí.  \n\n- **Tvrzení, že pouze ČR, „na rozdíl od okolních zemí“, má přebytek levně vyrobené elektřiny, neodpovídá realitě.** Nejméně u Slovenska je protipříklad zcela zřejmý a doložený.\n\n---\n\n## 5. Celkové zhodnocení výroku\n\n1. **„Česká republika … měla a má přebytek elektrické energie“**  \n   - Pro **posledních cca 20–25 let** (minimálně od roku 1999) je to **velmi dobře podloženo** oficiálními statistikami a analýzami (EGU, Eurostat).  \n   - Doslovné „vždy“ (od vzniku ČR) ale nemáme z primárních dat plně doloženo.  \n   - **Hodnocení:** *v podstatě pravdivé pro poslední čtvrtstoletí, „vždy“ je rétorické zveličení.*\n\n2. **„… přebytek levně vyrobené elektrické energie“**  \n   - Dominantní jádro (Dukovany, Temelín) a domácí uhlí dávají ČR **nízké výrobní náklady** ve srovnání s plynovými či dováženými palivy; to potvrzují jak ČEZ, tak odborné analýzy.  \n   - Pro konečné ceny pro domácnosti to ale **neplatí** – ty jsou naopak v EU nadprůměrné.  \n   - **Hodnocení:** *z hlediska výrobních nákladů v zásadě pravdivé, ale snadno zaměnitelné s mylným dojmem „levné elektřiny pro spotřebitele“.*\n\n3. **„… na rozdíl od okolních zemí“**  \n   - **Nepravdivé.**  \n   - **Slovensko** je v roce 2023–2024 čistým vývozcem srovnatelným s ČR, **Rakousko** má v některých letech také přebytek, a **Německo** bylo velkým čistým vývozcem elektrické energie zhruba dvě desetiletí, než přešlo do mírného dovozu v roce 2023. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n**Celkový verdikt:**  \nVýrok stojí na reálném jádru (dlouhodobý přebytek české výroby a relativně levné domácí zdroje), ale **použití slov „vždy“ a zejména „na rozdíl od okolních zemí“ výrazně překrucuje skutečný stav**. Proto je výrok jako celek nejvýstižněji označit jako **zavádějící / přehnaný**, nikoli fakticky přesný popis situace.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Novoroční projev released on 2026-01-01 available from https://www.youtube.com/watch?v=Qs8whrFfhtU.\\n\\n\\nThe claim was made by: Tomio Okamura, Předseda PSP ČR, předseda SPD\\n\\n\\nThe claim appears in the following immediate context in the source:\\nVěřím, že letošní rok bude lepší právě proto, že nová česká vláda bude vládou zdravého rozumu, bude pragmatická a bude jednat pouze tak, aby to přinášelo prospěch naší republice, našim občanům a našim firmám.\\nTo by mělo být základní a hlavní hledisko veškerého konání naší nové vlády.\\nNemůžeme spasit celou planetu, ale můžeme a dokonce je to naše povinnost zachraňovat české občany v nouzi a dělat vše, aby se do té nouze nikdo nedostal.\\nNelze za peníze, které patří českým důchodcům nebo zdravotně postiženým občanům a rodinám s dětmi nakupovat zbraně a posílat je k udržování naprosto nesmyslné války.\\nNelze peníze našich občanů rozdávat cizím občanům jen proto, že to chce proválečná propaganda.\\nJe přece absurdní nadstandardně pomáhat a rozdávat cizím, když zcela evidentně se neumíme postarat ani o své vlastní lidi.\\nZažili jsme doložitelně nejhorší vládu v dějinách naší země.\\nZa působení Fialovy vlády se celkové ratingové hodnocení Česka vyvíjelo hůře než za všech předchozích kabinetů nastoupivších v České republice v tomto milenniu.\\nRatingové hodnocení je přitom daleko objektivnější ukazatel stavu veřejných financí a zprostředkovaně tedy i výkonnosti celé ekonomiky.\\nZažili jsme rekordní inflaci, kterou v našem případě opět prokazatelně způsobila předchozí vláda udržováním naprosto zbytečně extrémně vysokých cen energií.\\nProto neexistuje výmluva ani omluva, protože Česká republika na rozdíl od okolních zemí vždy měla a má přebytek levně vyrobené elektrické energie.\\nMinulá Fialova vláda samozřejmě měla možnost nakupovat levné energie, ale zcela úmyslně tuhle cestu odmítala.\\nVážení občané, přeji nám všem hlavně zdraví a mír.\\n\\nProvide a structured, citation-backed verification of the claim: 'Česká republika na rozdíl od okolních zemí vždy měla a má přebytek levně vyrobené elektrické energie.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 368.41 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Česko je už desítky let čistým vývozcem elektřiny z levných jaderných a uhelných zdrojů. Stejné ale platí i pro řadu sousedů a část „vždy“ nelze doložit. Celkově je proto výrok o českém „jedinečném“ přebytku levné elektřiny zavádějící.</p>\n\n<p>Výrok <i>„Česká republika na rozdíl od okolních zemí vždy měla a má přebytek levně vyrobené elektrické energie“</i> se objevuje v debatách o cenách elektřiny, vývozu proudu a energetické politice. Mívá naznačovat, že Česko je v regionu výjimečné a „mělo by“ mít doma trvale levnou elektřinu. Výrok ale obsahuje několik samostatných tvrzení, která je potřeba posoudit zvlášť: (1) že ČR „vždy měla“ přebytek elektřiny, (2) že tento přebytek je „levně vyrobený“ a (3) že to neplatí pro okolní státy.</p>\n\n<p>K první části, tedy že Česko dlouhodobě vyrábí více elektřiny, než spotřebuje: encyklopedický přehled o české elektroenergetice uvádí, že Česká republika je *„long‑term net‑exporter of electricity“* a odkazuje na statistiky ukazující trvalý vývoz elektřiny od 90. let minulého století dál, zejména podle dat ČT24 a dalších zdrojů <a href=\"https://en.wikipedia.org/wiki/Electricity_sector_in_the_Czech_Republic\">zde</a>. Profil ČR na stránkách Světové jaderné asociace popisuje, že v roce 2024 vyrobily české elektrárny asi 73,9 TWh elektřiny, přičemž export činil kolem 22 TWh a import zhruba 15 TWh, tedy čistý vývoz přibližně 6,7 TWh <a href=\"https://world-nuclear.org/Information-Library/Country-Profiles/countries-A-F/Czech-Republic\">zde</a>. Roční report serveru oEnergetice.cz sestavený z dat společnosti ČEPS potom ukazuje, že i v roce 2025 byla čistá obchodní bilance kladná: export 8,89 TWh, import 1,34 TWh, tedy čistý vývoz 7,56 TWh a převaha exportu v přibližně 77 % hodin roku <a href=\"https://oenergetice.cz/energostat/report/rocni/2025\">zde</a>. Pro poslední zhruba čtvrtstoletí je tedy přebytek domácí výroby nad spotřebou dobře doložen.</p>\n\n<p>Zároveň ale dostupná data ukazují, že tento přebytek se snižuje. Stejný report oEnergetice.cz uvádí, že v roce 2024 klesla čistá exportní bilance na zhruba 6,3 TWh, což byla nejnižší hodnota za posledních deset let, a že růst vývozu v roce 2025 znamenal jen částečný návrat k vyšším přebytkům <a href=\"https://oenergetice.cz/energostat/report/rocni/2025\">zde</a>. Mezinárodní agentura pro energii (IEA) ve své nejnovější zprávě o Česku upozorňuje, že při rychlém útlumu uhlí a pomalé výstavbě nových zdrojů se země může stát čistým dovozcem elektřiny už před rokem 2030 <a href=\"https://www.iea.org/reports/czechia-2025/executive-summary\">zde</a>. Můžeme tedy říci, že Česko mělo po mnoho let přebytek výroby, ale formulaci, že tomu tak bylo <i>„vždy“</i> v celých dějinách státu, z dostupných veřejných statistik doložit nelze – starší ucelené časové řady prostě chybí.</p>\n\n<p>Výraz <i>„levně vyrobené“</i> je sám o sobě hodnotící, nikoli přesně definovaný ekonomický pojem, a jako takový není přímo fakticky ověřitelný. Lze ale ověřit, z jakých zdrojů česká elektřina pochází a jaké mají tyto zdroje obvyklé výrobní náklady. Tabulka v publikaci OECD o přechodu Česka k bezemisní ekonomice uvádí, že v roce 2022 pocházelo 36,6 % výroby elektřiny z jádra a 44,1 % z uhlí, zatímco plyn tvořil jen kolem 5 % a obnovitelné zdroje necelých 14 % <a href=\"https://www.oecd.org/en/publications/oecd-economic-surveys-czechia-2025_7a70af5c-en/full-report/transitioning-to-net-zero_a2c1b156.html\">zde</a>. Datový přehled think‑tanku Ember shrnutý na webu Ideas.energy ukazuje, že v roce 2024 dodalo jádro asi 40,7 % české elektřiny a fosilní paliva (především hnědé uhlí) 42,2 %, zatímco obnovitelné zdroje dohromady 17,1 % <a href=\"https://ideas.energy/czech-republic-2024\">zde</a>. Podíl jádra a uhlí na výrobě je tedy stále velmi vysoký.</p>\n\n<p>Ekonomické analýzy nákladů na výrobu elektřiny ukazují, že stávající jaderné a uhelné elektrárny mají obvykle nízké variabilní (palivové) náklady ve srovnání s novými plynovými zdroji. Studie poradenské společnosti Lazard shrnutá Americkou asociací veřejné energetiky uvádí, že nízká hranice marginálních nákladů stávajících jaderných a uhelných elektráren se pohybuje kolem 29 USD/MWh, zatímco u plynových kombinovaných cyklů je to přibližně 51 USD/MWh <a href=\"https://www.publicpower.org/periodical/article/lazard-report-finds-continued-declines-renewable-generation-costs\">zde</a>. V českém kontextu navíc převažují již splacené, starší bloky. Je ale potřeba dodat, že uhelná výroba je v Evropské unii výrazně zdražována emisními povolenkami a že konečná cena elektřiny pro domácnosti a firmy se odvíjí od velkoobchodní tržní ceny v regionu, daní a regulovaných poplatků – nikoli jen od „vlastních“ výrobních nákladů ČR. Fakticky však platí, že český přebytek elektřiny vzniká převážně v technologiích s relativně nízkými variabilními náklady, takže tvrzení o „levně vyrobené“ elektřině má reálný základ, i když je formulováno hodnotově.</p>\n\n<p>Nejproblematičtější částí výroku je tvrzení, že tato situace je výjimečná <i>„na rozdíl od okolních zemí“</i>. Analýza obchodu s elektřinou v Evropě, kterou na základě dat Eurostatu zveřejnila televize Euronews, řadí pro rok 2024 mezi výrazné čisté vývozce elektřiny nejen Česko (čistý export přibližně 12 % domácí spotřeby), ale také Slovensko (asi 13 %) a Rakousko (asi 10 %) <a href=\"https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most\">zde</a>. Podle encyklopedického hesla o Slovensku se tato země po spuštění třetího bloku jaderné elektrárny Mochovce stala v oblasti elektřiny soběstačnou a nové reaktory ji „vrátily“ do pozice čistého vývozce; v roce 2020 tvořila jaderná energetika 54 % výroby elektřiny a vodní elektrárny dalších 16 % <a href=\"https://en.wikipedia.org/wiki/Slovakia\">zde</a>, <a href=\"https://en.wikipedia.org/wiki/Nuclear_power_in_Slovakia\">zde</a>. Také Slovensko tedy dováží relativně málo a spíše vyváží elektřinu z levných jaderných a vodních zdrojů.</p>\n\n<p>Rakousko je v evropském měřítku významným vývozcem elektřiny založené především na vodních elektrárnách. Databáze TheGlobalEconomy.com založená na údajích americké energetické agentury EIA ukazuje, že v roce 2023 vyvezlo Rakousko přibližně 21,6 miliardy kWh elektřiny, což je podstatně více než světový průměr a dlouhodobý rakouský průměr od roku 1980 <a href=\"https://www.theglobaleconomy.com/austria/electricity_exports/\">zde</a>. Provozovatel přenosové soustavy APG navíc ve své tiskové zprávě uvádí, že i když bylo Rakousko v listopadu a prosinci 2024 čistým dovozcem, za celý rok dosáhla roční bilance „bezprecedentního rekordního exportu“ kolem 4,7 TWh <a href=\"https://www.apg.at/en/news-press/apg-austria-is-once-again-an-electricity-importing-country-in-december/\">zde</a>. Ani Rakousko tedy není typickým čistým dovozcem, ale v součtu spíše vyváží elektřinu z domácích, relativně levných vodních zdrojů.</p>\n\n<p>Německo je dnes po odstavení jaderných elektráren v roce 2023 celkově čistým dovozcem elektřiny, ale z historického hlediska to opět neznamená, že by na rozdíl od Česka nemělo přebytek. Přehled o německém elektroenergetickém sektoru uvádí, že ještě v roce 2021 exportovalo Německo zhruba 70 TWh a importovalo přibližně 51 TWh elektřiny, a že patřilo mezi největší vývozce elektřiny na světě <a href=\"https://en.wikipedia.org/wiki/Electricity_sector_in_Germany\">zde</a>. Analýza portálu Net‑zero.vision na základě dat Fraunhoferova institutu dodává, že Německo se stalo čistým dovozcem teprve v roce 2023 – poprvé od roku 2002 <a href=\"https://www.net-zero.vision/post/dependent-country-electricity-imports\">zde</a>. Fraunhofer ISE ve své tiskové zprávě o výrobě elektřiny v roce 2024 uvádí, že čistý dovoz dosáhl asi 24,9 TWh, ale zároveň Německo na čisté bázi dále vyváželo elektřinu do Rakouska, Polska, Lucemburska a České republiky (do ČR zhruba 2,8 TWh) <a href=\"https://www.ise.fraunhofer.de/en/press-media/press-releases/2025/public-electricity-generation-2024-renewable-energies-cover-more-than-60-percent-of-german-electricity-consumption-for-the-first-time.html\">zde</a>. I Německo tedy po většinu posledních dvou dekád spíše přebytek výroby mělo a dodnes elektřinu do regionu významně exportuje, byť v čisté roční bilanci je nyní dovozcem.</p>\n\n<p>Minimálně tři ze čtyř českých sousedů (Slovensko, Rakousko, Německo) tak v posledních letech také dosahovaly exportních přebytků elektřiny a jejich výrobní mix zahrnuje významný podíl zdrojů s relativně nízkými výrobními náklady (jádro nebo vodní elektrárny). Tvrzení, že český přebytek „levně vyrobené“ elektřiny je oproti okolním zemím výjimečný, proto neodpovídá skutečnosti.</p>\n\n<p>Shrneme‑li naše zjištění: pro novodobé období máme doloženo, že Česko dlouhodobě vyrábí více elektřiny, než samo spotřebuje, a že velká část této výroby pochází z jaderných a uhelných elektráren s relativně nízkými variabilními náklady. Hodnotící výraz „levně vyrobené“ je ale zčásti věcí interpretace a nic neříká o konečných cenách pro spotřebitele. Doslovnou formulaci, že ČR měla přebytek <i>„vždy“</i>, z dostupných dat nelze přesně ověřit, a srovnání s „okolními zeměmi“ je zjevně nesprávné, protože řada sousedů má či měla podobné nebo vyšší exportní přebytky z rovněž relativně levných zdrojů.</p>\n\n<p><strong>Závěr:</strong> Výrok „Česká republika na rozdíl od okolních zemí vždy měla a má přebytek levně vyrobené elektrické energie“ hodnotíme jako <strong>zavádějící</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_023d98adc8dc299f00695e817cf3ac8190a4a9dd02ff122a8c",
+    "created_at": 1767801213.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_023d98adc8dc299f00695e818a0b488190a85d4e9359e80561",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e819de9688190b331c9d3bf27be50",
+        "action": {
+          "query": "\"bilance\" \"elektriny\" \"Ceská republika\" vyvoz dovoz 2010 2020 ERU",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81a69b788190aff20938d0ff4356",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81a789fc81908b7d5b7a7acb2f6f",
+        "action": {
+          "query": "\"Česká republika\" \"čistým vývozcem elektřiny\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81aa8c348190a795d139f62f0507",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81ac12708190b71345104980f284",
+        "action": {
+          "query": "\"ČEPS\" \"čistým vývozcem elektřiny\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81ae9e948190a273f41472417ef3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81b01a94819088a1c449982615d2",
+        "action": {
+          "query": "\"Zpráva o provozu ES ČR\" 2022 elektrizační soustava",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81b3da308190b770925730d906ac",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81b5c3508190b6ad57bb186ade12",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81b68e8081908f6b0ae23f249837",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81b8464881908a48575fb9f14f90",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81ba5d648190afc5d15226c824e0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81bcfc448190a28086025df3e859",
+        "action": {
+          "query": "\"Bilance elektřiny\" \"Český statistický úřad\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81c1bce88190a0d56046c10046c6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81c2ad58819082feff08ff15c0ae",
+        "action": {
+          "query": "\"Český statistický úřad\" \"elektřina\" vývoz dovoz",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81c5f24c8190a34095d757b28040",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81c83a44819088023227b226ab7a",
+        "action": {
+          "query": "\"levně vyrábíme\" elektřinu \"draze prodáváme\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81cbbbe881908b540f5be83e8b79",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81d4a11c8190a1bb9a622ba0fc8b",
+        "action": {
+          "query": "Eurostat \"Net imports of electricity\" 2022 \"Czechia\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81d8257881909dbfabc1afd15924",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81e1793c8190835b60261e3bb6b3",
+        "action": {
+          "query": "\"od roku\" \"Česko\" \"čistým vývozcem\" elektřiny",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81e690688190aa5ceac95a34c5f1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81e82cb08190850c11c67e85b5f1",
+        "action": {
+          "query": "\"dlouhodobě\" \"významným exportérem\" elektřiny \"Česko\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81eb90648190824bd99e0857646e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81ede82c819097d140ea72aaec65",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81f123e48190bf4410cdf4fed82a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e81f88f008190a0b65b5570f05bcd",
+        "action": {
+          "query": "\"Česká republika\" \"čistým dovozcem\" elektřiny",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e81ff6a50819080c220fdb52cd235",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e820063988190af9b9012b0e97ec8",
+        "action": {
+          "query": "\"Česko\" \"čistým vývozcem elektřiny\" \"od roku\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e82073af8819084b921b81223ded8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e820fefc48190aefcd278d6ae7d15",
+        "action": {
+          "query": "\"Dukovany\" \"Temelín\" \"nízké výrobní náklady\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e8215bb308190a260265b525e85ab",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e8217ada88190822bc46fb8299d66",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e8218e63081908daf0a9bca1d8fdb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e8228aba08190b27d49551a16e50c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e8229ce308190bce4b7ad8194f7dc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e82419b84819091f9d90d97397ed2",
+        "action": {
+          "query": "\"čistý vývoz\" \"elektřiny\" \"České republiky\" 2000",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e8248975481909564f2506763c8a7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e82677ad88190b9aaf0dc1dad5d52",
+        "action": {
+          "query": "\"EGÚ Brno\" \"čistý vývoz\" elektřiny Česko 2023 9,1 TWh",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e826ebd888190bf0de94c9b6dfecc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e82757c148190b54587edc0846315",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e827754fc8190b13b7510b5e74253",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e827bc0848190a9457cc914552424",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e827ee8fc8190a46ad36dafb94b1d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_023d98adc8dc299f00695e827f8bc48190a9675b242b5441dd",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Sweden holds the strongest position"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_023d98adc8dc299f00695e8282fbac8190bac8f677b6f28eb3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_023d98adc8dc299f00695e8294bcd8819082921c8750e047c1",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 2152,
+                "start_index": 2009,
+                "title": "ČR byla loni čtvrtým největším vývozcem elektřiny v EU, podíl exportu ale klesá - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219"
+              },
+              {
+                "end_index": 2617,
+                "start_index": 2462,
+                "title": "ENERGY-HUB - Analýza: ČR loni vyvážela elektřinu za nadprůměrné ceny, dovážela naopak levněji",
+                "type": "url_citation",
+                "url": "https://energyhub.eu/cs/articles/1107084/analyza-cr-loni-vyvazela-elektrinu-za-nadprumerne-ceny-dovazela-naopak-levneji?utm_source=openai"
+              },
+              {
+                "end_index": 3001,
+                "start_index": 2858,
+                "title": "Česko za tři roky vyvezlo tolik elektřiny, kolik jí za rok vyrobí dva Temelíny |",
+                "type": "url_citation",
+                "url": "https://svobodny-svet.cz/cesko-za-tri-roky-vyvezlo-tolik-elektriny-kolik-ji-za-rok-vyrobi-dva-temeliny/?utm_source=openai"
+              },
+              {
+                "end_index": 3326,
+                "start_index": 3201,
+                "title": "Latvia slashed its electricity imports in 2023 / Article",
+                "type": "url_citation",
+                "url": "https://eng.lsm.lv/article/economy/economy/20.08.2024-latvia-slashed-its-electricity-imports-in-2023.a565672/"
+              },
+              {
+                "end_index": 3936,
+                "start_index": 3781,
+                "title": "ENERGY-HUB - Analýza: ČR loni vyvážela elektřinu za nadprůměrné ceny, dovážela naopak levněji",
+                "type": "url_citation",
+                "url": "https://energyhub.eu/cs/articles/1107084/analyza-cr-loni-vyvazela-elektrinu-za-nadprumerne-ceny-dovazela-naopak-levneji?utm_source=openai"
+              },
+              {
+                "end_index": 4377,
+                "start_index": 4234,
+                "title": "ČR byla loni čtvrtým největším vývozcem elektřiny v EU, podíl exportu ale klesá - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219"
+              },
+              {
+                "end_index": 4753,
+                "start_index": 4608,
+                "title": "Češi mají druhou nejdražší elektřinu v EU, navíc nejvíce zdražuje v rámci Visegrádu. Proč? - Peak.cz",
+                "type": "url_citation",
+                "url": "https://www.peak.cz/cesi-maji-druhou-nejdrazsi-elektrinu-v-eu-navic-nejvice-zdrazuje-v-ramci-visegradu-proc/43553/?utm_source=openai"
+              },
+              {
+                "end_index": 5800,
+                "start_index": 5694,
+                "title": "Shedding light on energy in Europe – 2024 edition - Interactive publications - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/interactive-publications/energy-2024?utm_source=openai"
+              },
+              {
+                "end_index": 6124,
+                "start_index": 5956,
+                "title": "Zestátníme elektrárny ČEZ, zvažuje vláda kvůli cenám energií - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-vlada-ma-na-stole-razne-reseni-cen-energii-oprasila-zestatneni-elektraren-202643"
+              },
+              {
+                "end_index": 6513,
+                "start_index": 6387,
+                "title": "ČEZ, a.s. - Jaderná elektrárna Temelín - Exkluzivní rozhovory - www.prumysldnes.cz",
+                "type": "url_citation",
+                "url": "https://www.prumysldnes.cz/exkluzivni-rozhovory/cez-as-jaderna-elektrarna-temelin-141012?utm_source=openai"
+              },
+              {
+                "end_index": 6813,
+                "start_index": 6687,
+                "title": "Výroba proudu z jádra bude letos v Česku rekordní - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/vyroba-proudu-z-jadra-bude-letos-v-cesku-rekordni-20121204.html?utm_source=openai"
+              },
+              {
+                "end_index": 7197,
+                "start_index": 7040,
+                "title": "! Závěrečná zpráva dostavby Jaderné elektrárny Temelín | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenovevlady/historie-minulych-vlad/%21-zaverecna-zprava-dostavby-jaderne-elektrarnytemelin-2119/?utm_source=openai"
+              },
+              {
+                "end_index": 7621,
+                "start_index": 7453,
+                "title": "Zestátníme elektrárny ČEZ, zvažuje vláda kvůli cenám energií - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-vlada-ma-na-stole-razne-reseni-cen-energii-oprasila-zestatneni-elektraren-202643"
+              },
+              {
+                "end_index": 8022,
+                "start_index": 7877,
+                "title": "Češi mají druhou nejdražší elektřinu v EU, navíc nejvíce zdražuje v rámci Visegrádu. Proč? - Peak.cz",
+                "type": "url_citation",
+                "url": "https://www.peak.cz/cesi-maji-druhou-nejdrazsi-elektrinu-v-eu-navic-nejvice-zdrazuje-v-ramci-visegradu-proc/43553/?utm_source=openai"
+              },
+              {
+                "end_index": 8444,
+                "start_index": 8289,
+                "title": "ENERGY-HUB - Analýza: ČR loni vyvážela elektřinu za nadprůměrné ceny, dovážela naopak levněji",
+                "type": "url_citation",
+                "url": "https://energyhub.eu/cs/articles/1107084/analyza-cr-loni-vyvazela-elektrinu-za-nadprumerne-ceny-dovazela-naopak-levneji?utm_source=openai"
+              },
+              {
+                "end_index": 9382,
+                "start_index": 9239,
+                "title": "ČR byla loni čtvrtým největším vývozcem elektřiny v EU, podíl exportu ale klesá - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219"
+              },
+              {
+                "end_index": 9708,
+                "start_index": 9583,
+                "title": "Latvia slashed its electricity imports in 2023 / Article",
+                "type": "url_citation",
+                "url": "https://eng.lsm.lv/article/economy/economy/20.08.2024-latvia-slashed-its-electricity-imports-in-2023.a565672/"
+              },
+              {
+                "end_index": 10242,
+                "start_index": 10099,
+                "title": "ČR byla loni čtvrtým největším vývozcem elektřiny v EU, podíl exportu ale klesá - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219"
+              },
+              {
+                "end_index": 10584,
+                "start_index": 10457,
+                "title": "Electricity trade in Europe: Who imports and who exports the most? | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most"
+              },
+              {
+                "end_index": 11154,
+                "start_index": 11027,
+                "title": "Electricity trade in Europe: Who imports and who exports the most? | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most"
+              },
+              {
+                "end_index": 11448,
+                "start_index": 11355,
+                "title": "Disinformation about German Electricity Tariffs and Power Imports | Column | Renewable Energy Institute",
+                "type": "url_citation",
+                "url": "https://www.renewable-ei.org/en/activities/column/REupdate/20240719.php"
+              },
+              {
+                "end_index": 11718,
+                "start_index": 11575,
+                "title": "ČR byla loni čtvrtým největším vývozcem elektřiny v EU, podíl exportu ale klesá - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219"
+              },
+              {
+                "end_index": 12325,
+                "start_index": 12182,
+                "title": "ČR byla loni čtvrtým největším vývozcem elektřiny v EU, podíl exportu ale klesá - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219"
+              },
+              {
+                "end_index": 12646,
+                "start_index": 12501,
+                "title": "Češi mají druhou nejdražší elektřinu v EU, navíc nejvíce zdražuje v rámci Visegrádu. Proč? - Peak.cz",
+                "type": "url_citation",
+                "url": "https://www.peak.cz/cesi-maji-druhou-nejdrazsi-elektrinu-v-eu-navic-nejvice-zdrazuje-v-ramci-visegradu-proc/43553/?utm_source=openai"
+              },
+              {
+                "end_index": 13306,
+                "start_index": 13179,
+                "title": "Electricity trade in Europe: Who imports and who exports the most? | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most"
+              },
+              {
+                "end_index": 13656,
+                "start_index": 13531,
+                "title": "Latvia slashed its electricity imports in 2023 / Article",
+                "type": "url_citation",
+                "url": "https://eng.lsm.lv/article/economy/economy/20.08.2024-latvia-slashed-its-electricity-imports-in-2023.a565672/"
+              },
+              {
+                "end_index": 14131,
+                "start_index": 13988,
+                "title": "ČR byla loni čtvrtým největším vývozcem elektřiny v EU, podíl exportu ale klesá - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219"
+              },
+              {
+                "end_index": 14681,
+                "start_index": 14554,
+                "title": "Electricity trade in Europe: Who imports and who exports the most? | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most"
+              },
+              {
+                "end_index": 16379,
+                "start_index": 16236,
+                "title": "ČR byla loni čtvrtým největším vývozcem elektřiny v EU, podíl exportu ale klesá - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219"
+              }
+            ],
+            "text": "## Shrnutí hodnocení\n\nVýrok **„Česká republika na rozdíl od okolních zemí vždy měla a má přebytek levně vyrobené elektrické energie“** je:\n\n- **částečně pravdivý**, pokud jde o to, že ČR dlouhodobě vyrábí více elektřiny, než sama spotřebuje, a že významná část této výroby má **relativně nízké výrobní náklady** (hlavně jádro + uhlí);\n- **nepodložený/slabě podložený**, pokud jde o doslovné „vždy“ (nemáme úplná historická data, ale pro poslední cca čtvrtstoletí je čistý vývoz doložen);\n- **nepravdivý**, pokud jde o část **„na rozdíl od okolních zemí“** – minimálně **Slovensko** i **Rakousko** jsou v posledních letech čistými vývozci, a **Německo** bylo čistým vývozcem elektřiny zhruba dvě desetiletí. Tyto země navíc také používají relativně levné zdroje (jádro, vodní elektrárny).\n\nCelkově je tedy výrok **zavádějící**: zjednodušuje a přehání skutečnost, a zvláště srovnání s „okolními zeměmi“ faktům neodpovídá.\n\n---\n\n## 1. Rozklad výroku na dílčí tvrzení\n\n1. **Současný přebytek elektřiny v ČR**  \n   a) ČR dnes vyrábí více elektřiny, než spotřebovává (je čistým vývozcem).  \n   b) Tento přebytek trvá „vždy“ – tedy traduje se, že ČR nikdy neměla zápornou roční bilanci.\n\n2. **„Levně vyrobená“ elektřina**  \n   c) Elektřina vyráběná v ČR má nízké výrobní náklady (zejména díky jádru a uhlí).\n\n3. **Srovnání s „okolními zeměmi“**  \n   d) Na rozdíl od sousedů (Německo, Slovensko, Rakousko, Polsko) nemají tyto země přebytek elektřiny.  \n   e) Na rozdíl od sousedů nemají tyto země k dispozici „levně vyrobenou“ elektřinu v podobném smyslu jako ČR.\n\nNíže jsou pro každé dílčí tvrzení shromážděny důkazy.\n\n---\n\n## 2. Přebytek elektřiny v ČR dnes a v posledních letech\n\n### 2.1 Současný stav (cca 2021–2024)\n\n- Analýza poradenské společnosti **EGÚ Brno (EGU)** shrnutá na Novinkách.cz uvádí, že:\n  - v roce **2023** ČR vyvezla **9 TWh** elektřiny, přičemž zůstala **4. největším exportérem elektřiny v EU**,  \n  - výroba v ČR byla 72 TWh, zatímco „čistá spotřeba“ se **už 17 let pohybuje kolem 60 TWh**. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n- Další analýza EGU pro rok **2024** (publikovaná např. na EnviWeb / TZB-info / EGU‑citovaných médiích) uvádí, že:\n  - **obchodní toky** z ČR v roce 2024 byly 13,7 TWh,  \n  - **dovoz** 7,3 TWh,  \n  - takže **saldo +6,4 TWh „potvrdilo exportní bilanci“ ČR**,  \n  - export byl ale **nejnižší od roku 1999**. ([energyhub.eu](https://energyhub.eu/cs/articles/1107084/analyza-cr-loni-vyvazela-elektrinu-za-nadprumerne-ceny-dovazela-naopak-levneji?utm_source=openai))  \n\n- Podobný závěr (Česko jako významný čistý exportér elektřiny) přináší i ekonom Lukáš Kovanda na základě dat firmy Montel/EnAppSys: v letech **2021–2023** ČR v čistém vyvezla **33,4 TWh** elektřiny (více než roční výroba dvou Temelínů). ([svobodny-svet.cz](https://svobodny-svet.cz/cesko-za-tri-roky-vyvezlo-tolik-elektriny-kolik-ji-za-rok-vyrobi-dva-temeliny/?utm_source=openai))  \n\n- Podle Eurostatu (přes přehled zpracovaný LSM Latvia) bylo v roce **2023** mezi zeměmi s **nejvyššími čistými exporty elektřiny** i **Česko**, u nějž čistý export činil **16 %** domácí spotřeby. ([eng.lsm.lv](https://eng.lsm.lv/article/economy/economy/20.08.2024-latvia-slashed-its-electricity-imports-in-2023.a565672/))  \n\n**Závěr k 2.1:**  \nPro roky **2021–2024** je z více nezávislých zdrojů dobře doloženo, že Česká republika je **čistým vývozcem elektřiny** (má přebytek výroby nad spotřebou).\n\n### 2.2 „Vždy měla“ – dlouhodobý historický vývoj\n\n- EGU ve výše uvedených analýzách opakovaně uvádí, že export v roce 2024 byl **„nejnižší od roku 1999, tedy posledního roku před spuštěním Temelína“**, přičemž i tento nízký export znamenal stále **kladné saldo** (6,4 TWh). ([energyhub.eu](https://energyhub.eu/cs/articles/1107084/analyza-cr-loni-vyvazela-elektrinu-za-nadprumerne-ceny-dovazela-naopak-levneji?utm_source=openai))  \n  - To implikuje, že **od roku 1999** (včetně) má ČR **ve všech letech kladné saldo** obchodu s elektřinou – tj. je **čistým vývozcem**.\n\n- Novinky.cz na základě analýzy EGÚ Brno připomínají, že **čistá spotřeba** ČR se „už 17 let pohybuje okolo 60 TWh“, zatímco výroba v roce 2023 byla 72 TWh. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n  - To je další indikace, že minimálně za posledních cca 15–20 let je ČR **přebytková**.\n\n- Analytické portály (např. Peak.cz) shrnují, že Česko je v rámci Visegrádu **„dlouhodobě zdaleka největším čistým vývozcem elektřiny“**. ([peak.cz](https://www.peak.cz/cesi-maji-druhou-nejdrazsi-elektrinu-v-eu-navic-nejvice-zdrazuje-v-ramci-visegradu-proc/43553/?utm_source=openai))  \n\n**Co ale nemáme:**\n\n- Přímou, snadno citovatelnou oficiální časovou řadu (např. z ERÚ/ČEPS nebo Eurostatu) od počátku 90. let, která by **výslovně** řekla, že ČR **nikdy** (ani v 90. letech) neměla zápornou roční bilanci.\n\n**Závěr k 2.2 („vždy“):**\n\n- Data a analýzy EGU a dalších zdrojů **silně podporují**, že **od konce 90. let (minimálně 1999–2024)** je ČR **trvale čistým vývozcem elektřiny**.  \n- Neexistuje ale v citovaných zdrojích jasný primární důkaz, že by to platilo **doslova „vždy“ od vzniku ČR** (1993).  \n- Formulace „vždy měla přebytek“ je tedy spíše **nadsázka**, ale pro poslední zhruba čtvrtstoletí odpovídá realitě.\n\n---\n\n## 3. „Levně vyrobená“ elektřina v ČR\n\n### 3.1 Struktura české výroby – jádro a uhlí\n\n- Eurostat v publikacích „Shedding light on energy in Europe“ uvádí, že mezi hlavní producenty energie z **uhlí** patří mj. **Česko** – podíl pevných paliv na domácí produkci energie je dlouhodobě přes 40 %. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/interactive-publications/energy-2024?utm_source=openai))  \n\n- Skupina **ČEZ** pokrývá přibližně **tři čtvrtiny celkové domácí produkce elektřiny** a klíčovou roli hrají jaderné elektrárny **Dukovany a Temelín**. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-vlada-ma-na-stole-razne-reseni-cen-energii-oprasila-zestatneni-elektraren-202643))  \n\n### 3.2 Výrobní náklady jaderných elektráren\n\n- Ředitel JE Temelín Miloš Štěpanovský v rozhovoru pro PrůmyslDnes uvádí, že **jaderné elektrárny „z hlediska provozních nákladů patří k nejlevnějším zdrojům výroby elektřiny“**, i přes vysokou vstupní investici. ([prumysldnes.cz](https://www.prumysldnes.cz/exkluzivni-rozhovory/cez-as-jaderna-elektrarna-temelin-141012?utm_source=openai))  \n\n- Podobně Novinky/Deník citují člena představenstva ČEZ Vladimíra Hlavinku, podle něhož **„proud z atomových elektráren patří k nejlevnějším zdrojům výroby elektřiny“**. ([denik.cz](https://www.denik.cz/ekonomika/vyroba-proudu-z-jadra-bude-letos-v-cesku-rekordni-20121204.html?utm_source=openai))  \n\n- Přehled o nákladech na různé zdroje, zveřejněný ve vládním materiálu k dostavbě Temelína, uvádí u jádra (JETE) **výrobní náklady na MWh nižší než u černouhelných a plynových elektráren** (ve srovnání proměnných nákladů). ([vlada.gov.cz](https://vlada.gov.cz/cz/clenovevlady/historie-minulych-vlad/%21-zaverecna-zprava-dostavby-jaderne-elektrarnytemelin-2119/?utm_source=openai))  \n\n- Seznam Zprávy shrnují, že **„hlavně díky jaderkám v Dukovanech a Temelíně jsou výrobní náklady [ČEZ] relativně nízké“**, ale elektřina se prodává za cenu utvářenou na evropském trhu, kde se promítají vyšší německé náklady (např. z plynových zdrojů). ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-vlada-ma-na-stole-razne-reseni-cen-energii-oprasila-zestatneni-elektraren-202643))  \n\n### 3.3 Kontrast s konečnými cenami pro domácnosti\n\n- Řada analýz (Kovanda, Peak.cz, aj.) upozorňuje na paradox, že **Česko patří k největším čistým vývozcům elektřiny**, ale **domácnosti mají (v paritě kupní síly) jednu z nejdražších elektřin v EU**. ([peak.cz](https://www.peak.cz/cesi-maji-druhou-nejdrazsi-elektrinu-v-eu-navic-nejvice-zdrazuje-v-ramci-visegradu-proc/43553/?utm_source=openai))  \n\n- Studie EGU pro rok 2024 konstatuje, že ČR **vyváží elektřinu za nadprůměrné ceny**, zatímco **importovaná elektřina je v průměru o 26 % levnější než domácí spotový průměr** – což ukazuje, že „levně vyrobená“ neznamená automaticky levnou pro konečné odběratele. ([energyhub.eu](https://energyhub.eu/cs/articles/1107084/analyza-cr-loni-vyvazela-elektrinu-za-nadprumerne-ceny-dovazela-naopak-levneji?utm_source=openai))  \n\n**Závěr k 3.:**\n\n- Existuje **silný odborný konsenzus**, že **jaderné elektrárny (a v minulosti i domácí uhlí)** v ČR patří co do provozních nákladů k **levným zdrojům elektřiny**.  \n- Tvrzení, že Česko má **„levně vyrobenou“ elektřinu**, má tedy **reálný základ**, pokud se mluví o **výrobních nákladech**, nikoli o koncových cenách pro domácnosti.\n\n---\n\n## 4. Situace v „okolních zemích“ (sousedé ČR)\n\nZa „okolní země“ lze rozumně považovat **Německo, Slovensko, Rakousko a Polsko**. Níže je stručný přehled jejich situace.\n\n### 4.1 Čistý export / import elektřiny\n\n#### Slovensko\n\n- Novinky.cz (analýza EGÚ Brno) uvádějí, že se **Slovensko v roce 2023 „poprvé od roku 2007“ stalo opět vývozcem elektřiny** s čistým exportem **3,5 TWh**, zejména díky spuštění jaderné elektrárny Mochovce. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n- Eurostat (přes článek LSM Latvia) řadí v roce 2023 Slovensko mezi země s nejvyššími **čistými exporty** elektřiny – čistý export činil **15,3 %** jeho spotřeby, téměř stejně jako u Česka (16 %). ([eng.lsm.lv](https://eng.lsm.lv/article/economy/economy/20.08.2024-latvia-slashed-its-electricity-imports-in-2023.a565672/))  \n\n**=> Slovensko je v době tvrzení i posledních let rovněž významným čistým vývozcem elektřiny – tvrzení „na rozdíl od okolních zemí“ zde zjevně neplatí.**\n\n#### Rakousko\n\n- Analýza EGÚ Brno (přes Novinky.cz) říká, že **Rakousko je dlouhodobě dovozcem elektřiny**, ale v roce 2023 se díky vysoké výrobě z **vodních elektráren** a nižší spotřebě jeho deficit výrazně snížil (na cca 2 TWh). ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n- Eurostat/Euronews pro rok 2024 ukazuje, že **Rakousko mělo čistý export -10 % spotřeby** (záporné číslo znamená, že export převyšuje import), tj. bylo mezi „silnými exportéry“ společně se Slovenskem a Českem. ([euronews.com](https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most))  \n\n**=> Rakousko je dlouhodobě spíše dovozcem, ale v některých letech (např. 2023–2024) vykazuje kladné saldo a patří mezi významné exportéry. Nelze tedy tvrdit, že „na rozdíl od ČR“ nemá přebytek.**\n\n#### Německo\n\n- Německo bylo po mnoho let **významným čistým vývozcem elektřiny** – Euronews s odkazem na odborníky z Agora Energiewende připomíná, že **„Německo bylo čistým exportérem dvě desetiletí, než se v roce 2023 stalo importérem“**. ([euronews.com](https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most))  \n\n- Podrobnější analýza Renewable Energy Institute na základě dat Fraunhofer ISE uvádí, že **v roce 2023 se Německo poprvé od roku 2002 stalo čistým dovozcem elektřiny** (9,2 TWh, asi 2 % spotřeby). ([renewable-ei.org](https://www.renewable-ei.org/en/activities/column/REupdate/20240719.php))  \n\n- Ještě v roce 2018 však Německo vyvezlo do okolních zemí téměř **50 TWh** elektřiny a i v roce 2022 bylo čistým vývozcem. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n**=> Německo sice v posledních letech přešlo do mírného deficitu, ale po **dvě desetiletí mělo velký přebytek elektřiny**. Tvrzení, že ČR má přebytek „na rozdíl od Německa“, je tedy historicky i fakticky zavádějící.**\n\n#### Polsko\n\n- Podle analýzy EGÚ Brno (Novinky.cz) bylo **Polsko v roce 2023 deficitní**, čistý dovoz činil **4 TWh**, a Polsko je dlouhodobě zmiňováno jako země s **dovozním charakterem bilance**, byť v některých letech s menším deficitem. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n- Peak.cz popisuje Polsko a zejména Maďarsko jako země, které **„prakticky trvale představují čisté dovozce elektřiny“**, zatímco Česko je největším čistým vývozcem ve V4. ([peak.cz](https://www.peak.cz/cesi-maji-druhou-nejdrazsi-elektrinu-v-eu-navic-nejvice-zdrazuje-v-ramci-visegradu-proc/43553/?utm_source=openai))  \n\n**=> U Polska tvrzení „na rozdíl od ČR“ (co do přebytku) v zásadě platí; Polsko je většinou čistým dovozcem.**\n\n### 4.2 „Levně vyrobená“ elektřina v okolních zemích\n\n- Euronews uvádí, že **silnými exportéry** jsou v roce 2024 vedle Česka (-12 %) a Slovenska (-13 %) také **Švédsko, Francie, Slovinsko a Rakousko (-10 %)**. Tyto země mají buď **významný podíl vodních elektráren (Švédsko, Norsko, Rakousko)** nebo **velký jaderný park (Francie, částečně Slovensko)** – tj. také využívají **relativně levné zdroje** (jádro, voda). ([euronews.com](https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most))  \n\n- LSM/Eurostat zmiňuje mezi největšími **čistými exportéry v roce 2023** i **Francii, Švédsko, Španělsko, Česko a Slovensko**, což opět ukazuje, že **levné zdroje a přebytky elektřiny nejsou specificky „český“ fenomén**. ([eng.lsm.lv](https://eng.lsm.lv/article/economy/economy/20.08.2024-latvia-slashed-its-electricity-imports-in-2023.a565672/))  \n\n- I v okolních zemích tedy existují **levné výrobní zdroje**:\n  - **Slovensko:** výrazný podíl jádra (Mochovce, Jaslovské Bohunice) – srovnatelný charakter „levné“ výroby jako v ČR.  \n  - **Rakousko:** vysoký podíl vodních elektráren s nízkými provozními náklady; právě jejich vysoká výroba v roce 2023 umožnila snížit deficit. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n**Závěr k 4.:**\n\n- V rámci sousedních zemí:\n  - **Slovensko** a v některých letech i **Rakousko** mají **čistý přebytek elektřiny** a využívají **levné výrobní zdroje** (jádro, voda) – situace **velmi podobná ČR**.  \n  - **Německo** mělo dvacet let velký přebytek a až nedávno se stalo čistým dovozcem; používá směs jádra (dříve), uhlí a nyní hlavně obnovitelných zdrojů, přičemž cenovou hladinu zvyšoval zejména plyn. ([euronews.com](https://www.euronews.com/business/2025/10/17/electricity-trade-in-europe-who-imports-and-who-exports-the-most))  \n  - **Polsko** je většinou dovozce, ale ani zde nejde říci, že by nemělo vůbec žádné levné zdroje – podstatnou část výroby tvoří domácí uhlí.  \n\n- **Tvrzení, že pouze ČR, „na rozdíl od okolních zemí“, má přebytek levně vyrobené elektřiny, neodpovídá realitě.** Nejméně u Slovenska je protipříklad zcela zřejmý a doložený.\n\n---\n\n## 5. Celkové zhodnocení výroku\n\n1. **„Česká republika … měla a má přebytek elektrické energie“**  \n   - Pro **posledních cca 20–25 let** (minimálně od roku 1999) je to **velmi dobře podloženo** oficiálními statistikami a analýzami (EGU, Eurostat).  \n   - Doslovné „vždy“ (od vzniku ČR) ale nemáme z primárních dat plně doloženo.  \n   - **Hodnocení:** *v podstatě pravdivé pro poslední čtvrtstoletí, „vždy“ je rétorické zveličení.*\n\n2. **„… přebytek levně vyrobené elektrické energie“**  \n   - Dominantní jádro (Dukovany, Temelín) a domácí uhlí dávají ČR **nízké výrobní náklady** ve srovnání s plynovými či dováženými palivy; to potvrzují jak ČEZ, tak odborné analýzy.  \n   - Pro konečné ceny pro domácnosti to ale **neplatí** – ty jsou naopak v EU nadprůměrné.  \n   - **Hodnocení:** *z hlediska výrobních nákladů v zásadě pravdivé, ale snadno zaměnitelné s mylným dojmem „levné elektřiny pro spotřebitele“.*\n\n3. **„… na rozdíl od okolních zemí“**  \n   - **Nepravdivé.**  \n   - **Slovensko** je v roce 2023–2024 čistým vývozcem srovnatelným s ČR, **Rakousko** má v některých letech také přebytek, a **Německo** bylo velkým čistým vývozcem elektrické energie zhruba dvě desetiletí, než přešlo do mírného dovozu v roce 2023. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-cr-byla-loni-ctvrtym-nejvetsim-vyvozcem-elektriny-v-eu-podil-exportu-ale-klesa-40457219))  \n\n**Celkový verdikt:**  \nVýrok stojí na reálném jádru (dlouhodobý přebytek české výroby a relativně levné domácí zdroje), ale **použití slov „vždy“ a zejména „na rozdíl od okolních zemí“ výrazně překrucuje skutečný stav**. Proto je výrok jako celek nejvýstižněji označit jako **zavádějící / přehnaný**, nikoli fakticky přesný popis situace.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 101338,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 17082,
+      "output_tokens_details": {
+        "reasoning_tokens": 12026
+      },
+      "total_tokens": 118420
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1767801573,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

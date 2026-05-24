@@ -1,0 +1,787 @@
+{
+  "claim_id": "24633",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24633.md",
+  "fact_check": "# Fact Check for Statement ID 24633\n\n## Statement\nMy jsme teda měli nejdražší energie už v době, kdy se o to staral pan Havlíček, v Evropě.\n\n---\n## AI Fact Check\n## 1. Shrnutí tvrzení a kontext\n\nSporné tvrzení Petra Fialy (18. 9. 2025):\n\n> „My jsme teda měli nejdražší energie už v době, kdy se o to staral pan Havlíček, v Evropě.“\n\nRozumné čtení v kontextu pořadu:\n\n- „v době, kdy se o to staral pan Havlíček“ = období, kdy byl Karel Havlíček ministrem průmyslu a obchodu ve vládě Andreje Babiše (2019–2021), tedy člen vlády odpovědný za energetiku,\n- „nejdražší energie v Evropě“ = ceny elektřiny a plynu pro domácnosti (případně celkově), buď:\n  - v **eurech za jednotku** (standardní porovnání Eurostatu), nebo\n  - v **paritě kupní síly (PPS)** – tedy relativní drahota vůči příjmům.\n\nNíže ověřujeme, zda během let 2019–2021 měla ČR **nejdražší** elektřinu nebo plyn v Evropě / EU, případně zda existuje užší interpretace, pod kterou by výrok mohl být pravdivý.\n\n---\n\n## 2. Kdo „se staral o energie“ – role Karla Havlíčka\n\n- Oficiální profil MPO uvádí, že **Karel Havlíček byl v letech 2019–2021 ministrem průmyslu a obchodu a místopředsedou vlády pro hospodářství**, a současně v letech 2020–2021 ministrem dopravy.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai))  \n- Podle bývalé šéfky ERÚ Aleny Vitáskové má **Ministerstvo průmyslu a obchodu (MPO)** na starosti **„energetickou politiku, tedy státní energetickou koncepci“** a zabývá se zejména **elektroenergetikou, plynárenstvím, teplárenstvím a jadernou energií**.([e15.cz](https://www.e15.cz/nazory-a-analyzy/pohledem-aleny-vitaskove-kompetence-v-energetice-1327968?utm_source=openai))  \n\n→ Je oprávněné předpokládat, že v letech **2019–2021** byl Havlíček jako ministr MPO hlavní politickou figurou, která „se starala o energie“.\n\n---\n\n## 3. Ceny elektřiny pro domácnosti v letech 2019–2021\n\n### 3.1 Jistá fakta: kdo měl *nejvyšší* nominální ceny (€/100 kWh)\n\n**Rok 2019 (2. pololetí)** – oficiální tisková zpráva Eurostatu „Energy prices in 2019“:\n\n- Průměrná cena elektřiny pro domácnosti v EU27: **21,6 €/100 kWh**.  \n- **Nejdražší elektřina v eurech**:  \n  - **Dánsko 29,2 €/100 kWh**,  \n  - **Německo 28,7 €/100 kWh**,  \n  - **Belgie 28,6 €/100 kWh**.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n- **Česko**: **17,7 €/100 kWh**, tedy pod průměrem Německa a Dánska i pod průměrem EU.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n\n**Rok 2020 (1. pololetí)** – shrnutí na základě statistiky Eurostatu v českém článku CNN Prima News:\n\n- „Nejvyšší účty za elektřinu platí Němci, za plyn Nizozemci.“  \n- Pro ČR se uvádí, že má **nejdražší elektřinu ze zemí bývalého východního bloku**, ale nikoli v celé EU – Německo, Dánsko či Belgie mají vyšší ceny.([cnn.iprima.cz](https://cnn.iprima.cz/cesi-maji-nejdrazsi-elektrinu-ze-zemi-vychodniho-bloku-plati-za-ni-vic-nez-svedove-14020?utm_source=openai))  \n\n**Rok 2021 (2. pololetí)** – článek vycházející z Eurostatu (Chronicle.lu):\n\n- V H2 2021 byly **nejvyšší ceny elektřiny pro domácnosti (v eurech/kWh, včetně daní)** v:\n  - **Dánsku (0,3448 €/kWh)**,\n  - **Německu (0,3234 €/kWh)**,\n  - **Belgii (0,2994 €/kWh)**,\n  - **Irsku (0,2974 €/kWh)**.([chronicle.lu](https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021?utm_source=openai))  \n- Z pohledu nominální ceny v eurech tak **Česko ani v H2 2021 nebylo na prvním místě**.\n\nData pro samotné Česko (Eurostat, reprodukováno např. na countryeconomy):\n\n- ČR – elektřina pro domácnosti (vč. daní):  \n  - prosinec 2019: **0,1770 €/kWh**,  \n  - prosinec 2020: **0,1795 €/kWh**,  \n  - prosinec 2021: **0,1883 €/kWh**.([countryeconomy.com](https://countryeconomy.com/energy-and-environment/electricity-price-household/czech-republic?utm_source=openai))  \n\nTyto hodnoty jsou výrazně nižší než **0,34 €/kWh v Dánsku** nebo **0,32 €/kWh v Německu** v H2 2021.([chronicle.lu](https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021?utm_source=openai))  \n\n### 3.2 Ceny v paritě kupní síly (PPS) – relativní drahota pro domácnosti\n\nEurostat i odborné studie často porovnávají ceny v **PPS per 100 kWh**, což zohledňuje úroveň příjmů.\n\n**Rok 2019 (H2, PPS)** – opět Eurostat „Energy prices in 2019“:\n\n- Nejvyšší ceny elektřiny pro domácnosti **v PPS** byly v:  \n  - **Rumunsku (27,8 PPS/100 kWh)**,  \n  - **Německu (26,8)**,  \n  - **Španělsku (26,2)**,  \n  - **Portugalsku (26,0)**,  \n  - **Belgii (25,9)**.  \n- **Česko** mělo **25,5 PPS/100 kWh**, tedy **mezi dražšími zeměmi, ale ne na prvním místě**.([hashtag.al](https://www.hashtag.al/en/index.php/2021/04/26/2019-shqiperia-me-cmimet-me-te-larta-te-energjise-ne-rajon-sipas-eurostat/?utm_source=openai))  \n\n**Rok 2019–2021 (roční průměry v PPS)** – recenzovaný článek (MDPI) pracující přímo s daty Eurostatu:\n\n- Pro **rok 2019** uvádí jako nejdražší (PPS) **Španělsko, Portugalsko, Německo, Rumunsko, Itálii, Belgii**; Česko není na špici.([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636?utm_source=openai))  \n- Pro **rok 2021** uvádí jako země s nejvyššími cenami (PPS) **Španělsko, Rumunsko, Německo, Polsko**, nejnižší Nizozemsko, Finsko, Lucembursko, Švédsko. **Česko opět není na prvním místě.**([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636?utm_source=openai))  \n\n→ Podle **ročních průměrů** v PPS **ČR v roce 2021 neměla nejdražší elektřinu v EU**, ani absolutně, ani relativně.\n\n### 3.3 Kontext: „nejdražší elektřina“ v ČR po roce 2022\n\nJe důležité rozlišit období **po Havlíčkově ministrování**:\n\n- Podle Eurostatu a řady českých médií měly **české domácnosti skutečně *nejdražší elektřinu v EU v PPS* v letech 2023–2024**:\n  - H2 2023: Eurostat uvádí, že v **PPS byla elektřina pro domácnosti nejdražší v Česku (38,7 PPS), následoval Kypr**.([pounddynamics.co.uk](https://pounddynamics.co.uk/euro/electricity-price-statistics-statistics-explained/?utm_source=openai))  \n  - H2 2024: Eurostat i Deník píší, že Česko mělo **41 PPS/100 kWh – nejvyšší hodnotu v EU**, před Německem a Kyprem.([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n  - 1. pol. 2025: Eurostat znovu potvrzuje, že v PPS byly **nejvyšší ceny elektřiny pro domácnosti v Česku (39,16 PPS)**.([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n- Euronews na základě indexu HEPI uvádí, že už v **únoru 2023** byly **rezidenční ceny elektřiny v PPS nejvyšší v Česku (51,6 PPS/100 kWh), před Itálií a Německem**.([euronews.com](https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai))  \n\nTyto rekordně vysoké ceny však spadají **do období po roce 2022**, kdy už Havlíček **ministrem nebyl**. (Ve vládě Andreje Babiše skončil v prosinci 2021.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai)))\n\n---\n\n## 4. Ceny plynu pro domácnosti v letech 2019–2021\n\n### 4.1 Nominální ceny v eurech\n\n**Rok 2019 (H2)** – Eurostat „Energy prices in 2019“:\n\n- Průměrná cena plynu v EU: **7,2 €/100 kWh**.  \n- **Nejdražší plyn v eurech**:  \n  - **Švédsko (11,7 €/100 kWh)**,  \n  - dále **Španělsko (10,2)**, Nizozemsko, Itálie, Francie.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n- Česká republika byla nad průměrem, ale **nedosahovala švédské ani španělské úrovně**; v článcích k roku 2018/2019 je uváděno, že „nejdražší plyn mají Švédové“.([idnes.cz](https://www.idnes.cz/ekonomika/zahranicni/ceny-plynu-ceny-elektriny-evropska-unie.A190522_135021_eko-zahranicni_div?utm_source=openai))  \n\nPro roky 2020–2021 jsou vzory podobné: data za 2017–2021 v odborné studii o cenách plynu pro domácnosti (Bohdan et al., 2023) – založené na Eurostatu – ukazují:\n\n- v roce 2021 měly **nejvyšší ceny plynu pro domácnosti (€/kWh) dlouhodobě Švédsko, Dánsko, Nizozemsko**,  \n- **Česko se mezi nejdražší země řadilo, ale nikde není uvedeno jako nejdražší v EU**.([researchgate.net](https://www.researchgate.net/publication/368488679_Fluctuations_of_Natural_Gas_Prices_for_Households_in_the_2017-2022_Period-Polish_Case_Study?utm_source=openai))  \n\n### 4.2 Plyn v PPS (parita kupní síly)\n\nOficiální tisková zpráva Eurostatu pro **H2 2019**:\n\n- Po přepočtu na PPS byly **nejdražší ceny plynu pro domácnosti** v:  \n  - **Španělsku (11,2 PPS/100 kWh)**,  \n  - **Švédsku (9,9)**,  \n  - **Itálii (9,5)**,  \n  - **Portugalsku (9,3)**,  \n  - **Bulharsku (9,0)**.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n- **Česko** bylo nad průměrem EU, ale **ne mezi prvními pěti**.\n\nStarší srovnání (H2 2015) ve článku Aktuálně.cz, založené rovněž na Eurostatu, ukazuje podobný vzorec: v PPS byl nejdražší plyn v Portugalsku a Španělsku, Česko mělo cca 9,1 PPS, což je vysoké, ale opět ne nejvyšší.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/finance/kolik-plati-cesi-za-elektrinu-a-plyn-nove-porovnani-evropsky/r~a5aad106249e11e6888a0025900fea04/?utm_source=openai))  \n\n→ Ani u plynu neexistuje žádný důkaz, že by **ČR v letech 2019–2021 byla „nejdražší v Evropě“**.\n\n---\n\n## 5. Jak se ceny vyvíjely po roce 2021\n\nJe pravda, že po **energetické krizi 2021–2022** vyskočily ceny v ČR dramaticky a Česko se dostalo **mezi nejdražší země EU**:\n\n- Ve **2. pol. 2022** byly podle Eurostatu **čtvrté nejvyšší ceny elektřiny i plynu pro domácnosti v EU**, po Dánsku, Belgii a Irsku (elektřina) a po Švédsku, Dánsku a Nizozemsku (plyn).([novinky.cz](https://www.novinky.cz/clanek/ekonomika-elektrina-a-plyn-v-cr-jsou-ctvrte-nejdrazsi-v-eu-40429406?utm_source=openai))  \n- Mezi lety 2021 a 2022 zaznamenalo Česko jedny z **nejvyšších meziročních nárůstů** cen elektřiny a plynu v EU (nikoli však absolutně nejvyšší ceny).([byznysnoviny.cz](https://www.byznysnoviny.cz/2023/04/26/nejvetsi-zdrazeni-plynu-v-eu-probehlo-v-cesku-za-rok-o-231-procent/?utm_source=openai))  \n- Od roku 2023 pak – **v PPS** – začíná Česko skutečně figurovat jako **země s nejdražší elektřinou v EU** (viz kapitola 3.3).([euronews.com](https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai))  \n\nNěkteré komentáře (např. Lukáš Kovanda v Hospodářských novinách/Energy-hub) tvrdí, že **„od druhé poloviny roku 2021 má Česko v paritě kupní síly elektřinu, ale i plyn prakticky nejdražší v EU“**, a odkazují na data Eurostatu.([cz.energyhub.eu](https://cz.energyhub.eu/sk/articles/1101427/proc-je-ceska-elektrina-nejdrazsi-v-eu-prumysl-na-tom-neni-zle-ale-blizkost-nemecka-tresta-domacnosti?utm_source=openai))  \n\nTento výrok však:\n\n- **pracuje s obdobím od H2 2021 dál**, kdy už do hry vstupuje energetická krize,\n- a vztahuje se na **PPS**, tedy specifické přepočtení na kupní sílu, nikoli na nominální ceny.\n\nZároveň jde spíše o interpretaci „prakticky nejdražší“ – ne vždy jednoznačně první místo ve všech semestrech a commodity. A hlavně – **H2 2021 je z velké části ovlivněno i obdobím po říjnovém pádu Bohemia Energy a skokem cen na DPI**, což bylo až na samém konci Havlíčkova ministrování a už v době příchodu energetické krize, nikoli typické pro celé období 2019–2021.([novinky.cz](https://www.novinky.cz/clanek/ekonomika-elektrina-a-plyn-v-cr-jsou-ctvrte-nejdrazsi-v-eu-40429406?utm_source=openai))  \n\n---\n\n## 6. Alternativní interpretace Fialova výroku\n\n1. **„Patřili jsme mezi nejdražší v EU“ (nikoli úplně nejdražší)**  \n   - V PPS byla ČR už před krizí **mezi dražšími zeměmi** – v roce 2019 měla šestou–sedmou nejvyšší cenu elektřiny v PPS.([hashtag.al](https://www.hashtag.al/en/index.php/2021/04/26/2019-shqiperia-me-cmimet-me-te-larta-te-energjise-ne-rajon-sipas-eurostat/?utm_source=openai))  \n   - Formulace „nejdražší“ by ale byla fakticky nesprávným zveličením.\n\n2. **„Nejdražší v regionu“ (např. ve V4 nebo „východní blok“)**  \n   - V roce 2020 skutečně platí, že **Česko má nejdražší elektřinu ze zemí bývalého východního bloku**, jak uvádí CNN Prima News.([cnn.iprima.cz](https://cnn.iprima.cz/cesi-maji-nejdrazsi-elektrinu-ze-zemi-vychodniho-bloku-plati-za-ni-vic-nez-svedove-14020?utm_source=openai))  \n   - Tvrzení ale explicitně zní „v Evropě“, nikoli „v regionu“.\n\n3. **„Nejdražší v Evropě po přepočtu na kupní sílu, ale až po roce 2022“**  \n   - To je doloženo pro **2023–2024** (a částečně už pro únor 2023 dle HEPI/Euronews).([euronews.com](https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai))  \n   - Toto období ovšem **už neodpovídá době, kdy byl Havlíček ministrem** (ta končí 12/2021).([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai))  \n\nŽádná z těchto benevolentnějších interpretací nečiní původní striktní tvrzení „měli jsme nejdražší energie v Evropě už v době, kdy se o to staral Havlíček“ přesným.\n\n---\n\n## 7. Shrnutí důkazů k dílčím tvrzením\n\n1. **Havlíček byl v letech 2019–2021 ministrem MPO a tím politicky odpovědný za energetiku.**  \n   - Podloženo oficiální biografií MPO a popisem kompetencí ministerstva.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai))  \n\n2. **V letech 2019–2021 nemělo Česko nejvyšší nominální ceny elektřiny v EU.**  \n   - V H2 2019: nejvyšší ceny Dánsko, Německo, Belgie; ČR pod nimi.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n   - V H1 2020: nejvyšší účty za elektřinu u Němců; Česko „jen“ nejdražší ve východním bloku.([cnn.iprima.cz](https://cnn.iprima.cz/cesi-maji-nejdrazsi-elektrinu-ze-zemi-vychodniho-bloku-plati-za-ni-vic-nez-svedove-14020?utm_source=openai))  \n   - V H2 2021: nejvyšší ceny Dánsko, Německo, Belgie, Irsko.([chronicle.lu](https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021?utm_source=openai))  \n\n3. **V letech 2019–2021 nemělo Česko nejvyšší ceny elektřiny ani v PPS.**  \n   - Pro rok 2019 a 2021 odborná studie na základě Eurostatu uvádí jako nejdražší jiné země (Španělsko, Rumunsko, Německo, Polsko).([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636?utm_source=openai))  \n   - H2 2019: PPS nejvyšší v Rumunsku, Německu, Španělsku, Portugalsku, Belgii; Česko „jen“ mezi dražšími.([hashtag.al](https://www.hashtag.al/en/index.php/2021/04/26/2019-shqiperia-me-cmimet-me-te-larta-te-energjise-ne-rajon-sipas-eurostat/?utm_source=openai))  \n\n4. **V letech 2019–2021 nemělo Česko nejvyšší ceny plynu pro domácnosti v Evropě.**  \n   - H2 2019: v eurech i v PPS nejdražší plyn ve Švédsku a Španělsku, resp. Španělsku, Švédsku, Itálii, Portugalsku, Bulharsku.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n   - Odborné práce a mediální přehledy k období 2017–2021 potvrzují, že **Švédsko, Dánsko, Nizozemsko** měly dlouhodobě vyšší ceny než ČR.([researchgate.net](https://www.researchgate.net/publication/368488679_Fluctuations_of_Natural_Gas_Prices_for_Households_in_the_2017-2022_Period-Polish_Case_Study?utm_source=openai))  \n\n5. **Česko se skutečně stalo „nejdražší zemí EU“ (v PPS) až po roce 2022.**  \n   - 2023–2024: Eurostat explicitně uvádí, že v **PPS má nejdražší elektřinu v EU Česko** (H2 2023, H2 2024, H1 2025).([pounddynamics.co.uk](https://pounddynamics.co.uk/euro/electricity-price-statistics-statistics-explained/?utm_source=openai))  \n   - HEPI/Euronews potvrzuje, že v únoru 2023 byly rezidenční ceny elektřiny v PPS nejvyšší v Praze/Cesku.([euronews.com](https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai))  \n\n---\n\n## 8. Celkové hodnocení tvrzení\n\n**Jádro výroku:** „Už v době, kdy se o energie staral Havlíček (tj. 2019–2021), jsme měli nejdražší energie v Evropě.“\n\nNa základě dostupných dat:\n\n- V **žádném z hlavních ukazatelů**, které používá Eurostat pro porovnání cen elektřiny a plynu pro domácnosti:\n  - **nominální ceny v eurech/100 kWh**,  \n  - **ceny v PPS na 100 kWh**,  \n  nebyla Česká republika v letech **2019–2021 na prvním místě v Evropě / EU**.\n- Česko bylo **mezi dražšími zeměmi**, v regionu V4 často **nejdražší**, ale **nikoli nejdražší v celé Evropě**.\n- Skutečnost, že **Česko má „nejdražší elektřinu v EU“ (v PPS), je doložena až od roku 2023 dále**, tedy **až po skončení Havlíčkovy ministerské éry**.([pounddynamics.co.uk](https://pounddynamics.co.uk/euro/electricity-price-statistics-statistics-explained/?utm_source=openai))  \n\n**Závěr:**  \nTvrzení Petra Fialy, že **Česko mělo „nejdražší energie v Evropě“ už v době, kdy se o ně staral Karel Havlíček**, **neodpovídá dostupným datům** a je z hlediska faktů **nepravdivé (silně nadsazené)**.  \n\nLze připustit, že:\n\n- ČR **patřila mezi dražší země**, zvlášť v přepočtu na kupní sílu,\n- a že od roku 2021/2022 její ceny prudce rostly a později se skutečně dostaly na úplnou špičku EU (v PPS),\n\nale to se **týká hlavně období po roce 2022** a **nelze to zpětně vztahovat na celé období 2019–2021**, jak výrok implikuje.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Petr Fiala, Poslanec\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:04:00\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nJá jsem nikdy neříkal, že to je celé růžové, ale říkal jsem, že jdeme správným směrem a že se ekonomice daří, což je pravda a dokládají to čísla. Pan Havlíček se k tomu nemůže vracet, protože by se ukázalo, že to, co říkali před volbami, byla lež, že lhali lidem. A na základě lží o tom, jak je na tom naše ekonomika, jak je naše země spálená, tak vlastně vyhráli volby, a to já nezpochybňuju, že vyhráli volby a nechci se k tomu vracet. Ale když se podíváme na čísla, osmá nejzdravější ekonomika v Evropské unii, jedna z nejnižších inflací, máme teď už dokonce i Alena Schillerová nebo, nebo sám pan Babiš, nevím kdo, říkají, že ta země není tolik zadlužená, předtím říkali, že jsme katastrofálně zadlužení. Deficit veřejných financí z 5 %, když jsme ho přebírali po Babišově vládě, pod 2 % HDP, což je prokazatelný úspěch konsolidační politiky naší vlády. A pokud jde o ty investice, vždyť jsme druhá nejvíce investující země v Evropské unii, a to je samozřejmě dáno vládními investicemi, ale je to dáno investicemi soukromého sektoru. Zaměstnávání zaměstnanců nebo zaměstnávání lidí, vždyť máme jednu z nejnižších nezaměstnaností v EU. Tak já myslím, že pan Havlíček nemůže na základě čísel líčit výsledky naší vlády jako špatné. Té zemi se daří, daří se ekonomicky a mám z toho radost.\\n00:05:21\\nTerezie Tománková,moderátorka\\nPřece jenom byl tam obrovský pokles reálných mezd, obrovská inflace, která vzala lidem úspory, nejistota, nedotažené věci a také porušené sliby ze strany vaší vlády. Přece jenom ne, neměli jste o tom lidem víc mluvit, víc to vysvětlovat? A teď se odkazuji i na tu zprávu, kterou jste nechal Andreji Babišovi při vašem konci. Opozice vás viní ze lhaní. Ale nějaká větší transparentnost a upřímnost těm lidem, kteří se prostě necítili ekonomicky dobře?\\n00:05:47\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nTa zpráva je založena na číslech, tak ta se nedá ani rozporovat, ale co se týká toho, že se všem lidem určitě dobře nedaří a nedařilo, to jsem nikdy nezpochybňoval. Ta inflace byla velmi náročná, ceny energií rostly raketově. My jsme teda měli nejdražší energie už v době, kdy se o to staral pan Havlíček v Evropě. Ale ten problém tu je dlouhodobý, je strukturální. My jsme se s tím snažili něco dělat, snažili jsme se provést ty klíčové reformy a byli jsme v tom odvážní. Reforma důchodového systému, reforma vzdělávacího systému, reforma energií nebo struktury naší energetické soustavy, to všechno jsme dělali a myslím si, že to byly kroky, které jsou správné a je v nich potřeba pokračovat, abychom se už nedostali do těch problémů, do kterých jsme se dostali, protože třeba díky tomu, že tu vládl osm let Andrej Babiš v různých konstelacích před námi, tak se nic neudělalo s energetickou infrastrukturou. Zastavil se, nezastavila se dostavba Temelína, neposunuly se dál Dukovany, to jsme všechno museli udělat. A to, že jsme to udělali, se pozitivně projeví v budoucnosti.\\n00:06:53\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'My jsme teda měli nejdražší energie už v době, kdy se o to staral pan Havlíček, v Evropě.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 453.03 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Data Eurostatu ukazují, že v letech 2019–2021, kdy byl ministrem průmyslu a obchodu Karel Havlíček, nemělo Česko nejdražší elektřinu ani plyn v Evropě. Na úplnou špičku se dostalo až po energetické krizi. Výrok Petra Fialy proto hodnotíme jako nepravda.</p>\n\n<p>Petr Fiala výrok použil v debatě o drahých energiích, když reagoval na odpovědnost předchozí vlády Andreje Babiše a jejího ministra průmyslu a obchodu Karla Havlíčka. Tvrdil, že Česká republika měla „nejdražší energie v Evropě“ už v době, kdy se o tuto oblast staral právě Havlíček. V našem ověření se soustředíme na roky 2019–2021, kdy byl Havlíček členem Babišovy vlády odpovědným za energetiku.</p>\n\n<p>Výrok obsahuje dvě hlavní faktická tvrzení. První je, že existovalo období, kdy měl Karel Havlíček na starosti energetiku. Druhé, jádrové tvrzení je, že už tehdy mělo Česko nejdražší energie v Evropě. Pod pojmem „energie“ rozumíme v souladu s mezinárodní statistikou především ceny elektřiny a zemního plynu pro domácnosti, které srovnává Eurostat.</p>\n\n<p>Podle oficiálního životopisu na webu <a href=\"https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/\">Ministerstva průmyslu a obchodu</a> byl Karel Havlíček ministrem průmyslu a obchodu a místopředsedou vlády pro hospodářství v letech 2019–2021.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/)) V komentáři bývalé předsedkyně ERÚ Aleny Vitáskové na serveru <a href=\"https://www.e15.cz/nazory-a-analyzy/pohledem-aleny-vitaskove-kompetence-v-energetice-1327968\">E15</a> se popisuje, že MPO určuje energetickou politiku státu, připravuje státní energetickou koncepci a strategické dokumenty a zabývá se elektroenergetikou, plynárenstvím, teplárenstvím, kapalnými palivy i jadernou energetikou. Vitásková shrnuje, že MPO je resortem, který energetiku řídí z hlediska státu.([e15.cz](https://www.e15.cz/nazory-a-analyzy/pohledem-aleny-vitaskove-kompetence-v-energetice-1327968)) Tvrzení, že se v daném období „o energie staral“ ministr Havlíček, tedy reálně odpovídá rozdělení kompetencí; tuto část výroku jako spornou nehodnotíme.</p>\n\n<p>Jádrem sporu je, zda mělo Česko v letech 2019–2021 skutečně nejdražší energie v Evropě. Pro ověření používáme oficiální statistiky Eurostatu, které shrnují ceny elektřiny a plynu pro domácnosti v eurech za 100 kWh i v paritě kupní síly (PPS), tedy po zohlednění rozdílů v cenových hladinách a příjmech.</p>\n\n<p>Pro druhou polovinu roku 2019 uvádí tisková zpráva Eurostatu, kterou cituje např. server <a href=\"https://www.stockwatch.com.cy/en/news/household-energy-prices-increased-by-24\">StockWatch</a>, že průměrná cena elektřiny pro domácnosti v EU byla 21,6 eura za 100 kWh a že ceny se pohybovaly od 10 eur v Bulharsku po zhruba 30 eur v Dánsku, Belgii a Německu. V textu stojí například, že *„household electricity prices in the second half of 2019 ranged from €10 per 100 kWh in Bulgaria to around €30 per 100 kWh in Denmark, Belgium and Germany“*.([stockwatch.com.cy](https://www.stockwatch.com.cy/en/news/household-energy-prices-increased-by-24?utm_source=openai)) Tyto tři státy tedy měly nejvyšší nominální ceny elektřiny v EU; Česko mezi nimi nefiguruje. U plynu ta samá zpráva uvádí, že ceny pro domácnosti se pohybovaly od méně než 4 eur v Rumunsku, Maďarsku a Lotyšsku až po téměř 12 eur za 100 kWh ve Švédsku a kolem 10 eur ve Španělsku či Nizozemsku, přičemž české ceny ležely pod touto špičkou.([stockwatch.com.cy](https://www.stockwatch.com.cy/en/news/household-energy-prices-increased-by-24?utm_source=openai)) Už pro rok 2019 tak vidíme, že jak u elektřiny, tak u plynu byly v Evropě země s viditelně vyššími cenami než Česká republika.</p>\n\n<p>Po přepočtu na paritu kupní síly, který lépe zachycuje „drahotu“ energií vzhledem k příjmům, zůstává pořadí podobné. Stejný text převzatý z Eurostatu, který cituje StockWatch, uvádí, že nejvyšší ceny elektřiny v PPS v druhé polovině roku 2019 byly v Rumunsku (27,8 PPS/100 kWh), Německu (26,8), Španělsku (26,2), Portugalsku (26,0) a Belgii (25,9), zatímco Česko mělo 25,5 PPS. V článku se píše, že *„the highest prices expressed in PPS were registered in Romania (27.8), Germany (26.8), Spain (26.2), Portugal (26.0), Belgium (25.9), Czechia (25.5) and Cyprus (25.1)“*.([stockwatch.com.cy](https://www.stockwatch.com.cy/en/news/household-energy-prices-increased-by-24?utm_source=openai)) Česká republika tedy patřila mezi dražší státy, ale nebyla nejdražší.</p>\n\n<p>Pro první pololetí 2020 popisuje data Eurostatu český článek na CNN Prima NEWS. Uvádí, že *„Češi mají nejdražší elektřinu ze zemí bývalého východního bloku. Vůbec nejvíce ale za elektrickou energii v rámci EU platí Němci“* a dodává, že nejvyšší účty za plyn mají domácnosti v Nizozemsku. Česko je u elektřiny nejdražší pouze v rámci bývalého východního bloku, nikoli v celé EU.([cnn.iprima.cz](https://cnn.iprima.cz/cesi-maji-nejdrazsi-elektrinu-ze-zemi-vychodniho-bloku-plati-za-ni-vic-nez-svedove-14020?utm_source=openai)) Tisková zpráva Eurostatu shrnutá na portálu <a href=\"https://bm.ge/en/news/eurostat-price-falls-in-electricity-and-gas/69512\">BM.ge</a> k tomu doplňuje konkrétní čísla: v prvním pololetí 2020 byly v přepočtu na eura nejvyšší ceny elektřiny v Německu (30,4 €/100 kWh), následovaly Dánsko (28,3) a Belgie (27,9).([bm.ge](https://bm.ge/en/news/eurostat-price-falls-in-electricity-and-gas/69512)) Ani zde tedy Česko není na prvním místě v Evropě.</p>\n\n<p>U roku 2021 se naopak někdy tvrdí, že už tehdy bylo Česko „prakticky nejdražší“ v EU, zejména při přepočtu na kupní sílu. Srovnání nominálních cen elektřiny pro domácnosti ve druhé polovině 2021 ale opět ukazuje jiný obrázek. Podle článku založeného na datech Eurostatu na webu <a href=\"https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021\">Chronicle.lu</a> byly v H2 2021 nejvyšší ceny elektřiny včetně daní v Dánsku (0,3448 €/kWh), Německu (0,3234), Belgii (0,2994) a Irsku (0,2974), zatímco české ceny byly nižší.([chronicle.lu](https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021)) Nominálně tedy Česko ani na konci Havlíčkova ministrování první nebylo.</p>\n\n<p>Důležitý je i pohled na ceny elektřiny v PPS, tedy relativně k příjmům domácností, v jednotlivých letech. Recenzovaný článek v časopise <a href=\"https://www.mdpi.com/1996-1073/16/18/6636\">Energies</a>, který pracuje přímo s daty Eurostatu, uvádí, že v roce 2019 byly nejvyšší ceny elektřiny v PPS zaznamenány ve Španělsku (0,2758), Portugalsku (0,2726), Německu (0,2706), Rumunsku (0,2616), Itálii (0,2597) a Belgii (0,2507). V roce 2021 pak domácnosti nejvíce platily ve Španělsku (0,3074), Rumunsku (0,3036), Německu (0,2956) a Polsku (0,279), zatímco české hodnoty se pohybovaly kolem 0,23–0,24 PPS/kWh. Autor doslova píše: *„In 2019, the highest prices (in PPS) were recorded in Spain (0.2758), Portugal (0.2726), Germany (0.2706), Romania (0.2616), Italy (0.2597), and Belgium (0.2507)… In 2021, households paid the most per unit of electricity in Spain (0.3074), Romania (0.3036), Germany (0.2956), and Poland (0.279).“*([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636?utm_source=openai)) Ani v přepočtu na kupní sílu tedy Česko v letech 2019–2021 nebylo nejdražší v EU.</p>\n\n<p>U plynu je situace obdobná. Stejná eurostatovská tisková zpráva shrnutá na stránkách StockWatch uvádí, že v druhé polovině 2019 se ceny plynu pro domácnosti pohybovaly pod 4 eury za 100 kWh v Rumunsku, Maďarsku a Lotyšsku, zatímco *„gas prices above €10 per 100 kWh were recorded in Sweden (€11.7) and Spain (10.2), followed by the Netherlands (€9.7), Italy (€9.3) and France (€8.4)“*.([stockwatch.com.cy](https://www.stockwatch.com.cy/en/news/household-energy-prices-increased-by-24?utm_source=openai)) Český plyn byl sice dražší než v řadě států střední a východní Evropy, ale nikoli nejdražší v Evropě – nad Českem stálo minimálně Švédsko a Španělsko a v následujících letech podle odborných analýz patřily mezi nejdražší dlouhodobě Švédsko, Dánsko a Nizozemsko.</p>\n\n<p>Souhrnně lze tedy říci, že v žádném z hlavních ukazatelů, které Eurostat pro domácnosti sleduje – ať už jde o nominální ceny elektřiny nebo plynu v eurech za 100 kWh, nebo o ceny v paritě kupní síly na 100 kWh – se Česká republika v letech 2019–2021 neobjevuje na prvním místě v rámci EU či Evropy. V regionu bývalého východního bloku sice často patřila k nejdražším, což potvrzuje i zmíněný článek CNN Prima NEWS, ale to je užší srovnání, než které Fiala použil ve výroku („v Evropě“).</p>\n\n<p>Po energetické krizi v letech 2021–2022 se situace výrazně změnila a ceny v Česku skutečně vystřelily mezi nejvyšší v Unii. Článek v deníku <a href=\"https://www.novinky.cz/clanek/ekonomika-elektrina-a-plyn-v-cr-jsou-ctvrte-nejdrazsi-v-eu-40429406\">Novinky.cz</a> založený na datech Eurostatu uvádí, že už ve druhé polovině roku 2022 byly elektřina i plyn pro české domácnosti čtvrté nejdražší v celé EU; dražší elektřinu měli jen v Dánsku, Belgii a Irsku, dražší plyn ve Švédsku, Dánsku a Nizozemsku.([novinky.cz](https://www.novinky.cz/clanek/ekonomika-elektrina-a-plyn-v-cr-jsou-ctvrte-nejdrazsi-v-eu-40429406)) Následně, podle příspěvku Eurostatu na sociální síti Facebook, byly ve druhé polovině roku 2023 ceny elektřiny pro domácnosti po přepočtu na PPS vůbec nejvyšší v Česku (38,7 PPS/100 kWh), následoval Kypr, zatímco nejnižší byly na Maltě a v Lucembursku; post doslova uvádí, že *„electricity prices … in PPS … were highest in Czechia (38.7 PPS per 100 kWh)“*.([facebook.com](https://www.facebook.com/EurostatStatistics/posts/electricity-and-gas-prices-in-the-eu-in-the-second-half-of-2023-average-househol/845311894304471/?utm_source=openai))</p>\n\n<p>Na tuto skutečnost navazují i komentáře ekonomů. Například Lukáš Kovanda v komentáři pro <a href=\"https://archiv.hn.cz/c1-67576140-proc-je-ceska-elektrina-nejdrazsi-v-eu-prumysl-na-tom-neni-zle-ale-blizkost-nemecka-tresta-domacnosti\">Hospodářské noviny</a> píše, že od druhé poloviny roku 2021 má Česko v paritě kupní síly elektřinu i plyn „prakticky nejdražší v EU“, a popisuje, jak rychle ceny v Česku po roce 2021 rostly ve srovnání s ostatními zeměmi Visegrádu.([archiv.hn.cz](https://archiv.hn.cz/c1-67576140-proc-je-ceska-elektrina-nejdrazsi-v-eu-prumysl-na-tom-neni-zle-ale-blizkost-nemecka-tresta-domacnosti?utm_source=openai)) I tento text ale vztahuje „nejdražší energie“ k období po roce 2021, tedy k době energetické krize a zásadních tržních výkyvů, nikoli k celému předchozímu období, které měl Fiala na mysli.</p>\n\n<p>Z výše uvedeného plyne, že Fialův výrok směšuje dvě různé roviny. Za prvé, je pravda, že Karel Havlíček jako ministr průmyslu a obchodu měl v letech 2019–2021 na starosti oblast energetiky. Za druhé, není ale pravda, že by tehdy Česko mělo v evropském srovnání nejdražší energie. V letech 2019–2021 existují jak pro elektřinu, tak pro plyn země s vyššími nominálními cenami i s vyššími cenami v paritě kupní síly; samotné postavení Česka na úplnou špičku EU je doloženo až pro období po roce 2022, kdy už Havlíček ministrem nebyl.</p>\n\n<p>Celkově tedy výrok Petra Fialy, že „už v době, kdy se o energie staral Havlíček, jsme měli nejdražší energie v Evropě“, neodpovídá datům a hodnotíme jej jako nepravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_018aaaade804cdc30069a6b815d4c88194ac0ecc09a8ad7141",
+    "created_at": 1772533781.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_018aaaade804cdc30069a6b823a99c819497fa21d61e8ae6f8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b838800c81948ae1e2dfc7f560a8",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b83931ec8194b804f0434616023b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b83976e08194b96b055ec454e2e5",
+        "action": {
+          "query": "Karel Havlíček ministr průmyslu a obchodu od kdy do kdy",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Karel Havlíček ministr průmyslu a obchodu od kdy do kdy",
+            "Eurostat electricity prices household Czech Republic 2020 2021 comparison EU",
+            "Eurostat gas prices household Czech Republic 2020 2021 EU comparison",
+            "\"Electricity price statistics\" Eurostat"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b83bcd688194aa1c8b5c9215aaa2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b83d7e708194bbf29e409cc086de",
+        "action": {
+          "query": "\"v letech 2019 až 2021\" \"ministr průmyslu a obchodu\" \"energetika\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"v letech 2019 až 2021\" \"ministr průmyslu a obchodu\" \"energetika\"",
+            "\"ceny elektřiny pro domácnosti\" Ceská republika 2020 2021 Eurostat PPS",
+            "\"Electricity prices for household consumers\" 2021 Eurostat nrg_pc_204 Czechia PPS",
+            "\"gas prices for household consumers\" 2021 Eurostat nrg_pc_202 Czechia PPS"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b8410ec08194bcf8c3bc6d51bd58",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b841c96c8194b3d3e68916198d98",
+        "action": {
+          "query": "\"Electricity price statistics\" \"Statistics Explained\" 2021 households",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Electricity price statistics\" \"Statistics Explained\" 2021 households",
+            "\"Electricity prices for household consumers\" 2021 Czechia 2020 2019 PPS",
+            "\"Shedding light on energy in Europe\" 2021 electricity prices households highest",
+            "\"nrg_pc_204\" 2021 2020 Czechia PPS electricity prices households"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b845a0848194b5a52e370eed9696",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b846142c819491f411bc20c86fa8",
+        "action": {
+          "query": "\"Electricity prices for household consumers, second half 2020\" PPS per 100 kWh",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Electricity prices for household consumers, second half 2020\" PPS per 100 kWh",
+            "\"Electricity prices for household consumers, second half 2021 (PPS per 100 kWh)\"",
+            "\"electricity prices for household consumers, first half 2021\" PPS map",
+            "\"electricity prices for household consumers\" \"PPS per 100 kWh\" 2019"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b84ad74c8194872464085f2d8ef2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b856eb8c81949e3d4deb304363b4",
+        "action": {
+          "query": "\"Natural gas price statistics\" Statistics Explained 2021 2020 households",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Natural gas price statistics\" Statistics Explained 2021 2020 households",
+            "\"gas prices for household consumers, second half 2021\" highest Sweden",
+            "\"gas prices for household consumers\" \"second half 2020\" eurostat",
+            "\"gas prices for household consumers\" PPS 2021 Sweden highest"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b85ae1e4819483a8c51cb6411c16",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b85cf6dc8194bf89a482a3c4804e",
+        "action": {
+          "query": "\"nejdražší elektřinu\" \"v EU\" 2020",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nejdražší elektřinu\" \"v EU\" 2020",
+            "\"nejdražší elektřinu\" \"Evropě\" 2021 domácnosti",
+            "\"nejdražší plyn\" \"v EU\" 2020 domácnosti",
+            "\"ceny elektřiny\" \"druhé pololetí 2020\" Eurostat Dánsko Německo Belgie Česko"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b8613c64819496d6dd01abad7a91",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b876cf7c819487d304b02aba6efa",
+        "action": {
+          "query": "\"electricity prices for household consumers\" \"second half 2021\" \"PPS per 100 kWh\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"electricity prices for household consumers\" \"second half 2021\" \"PPS per 100 kWh\"",
+            "\"cena elektřiny\" \"druhá polovina roku 2021\" Eurostat PPS",
+            "\"Ceny elektřiny pro domácnosti\" \"druhé pololetí 2021\" \"Eurostat\"",
+            "\"plynu pro domácnosti\" \"druhé pololetí 2021\" \"Eurostat\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b87db12c8194a2387b8264c71da7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b8a1941c81949379642b97146af0",
+        "action": {
+          "query": "\"ceny zemního plynu pro domácnosti\" \"Eurostat\" 2019 2020 2021 PPS",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"ceny zemního plynu pro domácnosti\" \"Eurostat\" 2019 2020 2021 PPS",
+            "\"Natural gas price statistics\" \"second half 2020\" \"PPS\"",
+            "\"Nejdražší plyn\" \"v EU\" 2021 domácnosti Eurostat",
+            "\"ceny zemního plynu v domácnostech\" \"Eurostat\" 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b8a6532481948b93c29d8ba9615b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b8a827e8819485c2144aff490cad",
+        "action": {
+          "query": "\"gas prices for household consumers\" \"second half 2020\" Sweden",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"gas prices for household consumers\" \"second half 2020\" Sweden",
+            "\"gas prices for household consumers, second half 2020\" (EUR per 100 kWh)",
+            "\"gas prices for household consumers, first half of 2021\" Sweden",
+            "\"Natural gas price statistics\" eurostat \"second half 2020\" Sweden highest"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b8abc9dc8194bd37d12d6f6be167",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b8c4e5f881948f3ce5d605d5aff3",
+        "action": {
+          "query": "\"Electricity prices for household consumers, second half 2020 (PPS per 100 kWh)\" \"Eurostat\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Electricity prices for household consumers, second half 2020 (PPS per 100 kWh)\" \"Eurostat\"",
+            "\"Electricity prices for household consumers, second half 2021 (PPS per 100 kWh)\" \"Eurostat\"",
+            "\"Electricity prices based on purchasing power standard were highest\" \"second half 2020\"",
+            "\"Electricity prices based on purchasing power\" 2020 households Romania Spain"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b8c999788194b68803b74b7e408e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b8ce90908194b81c4bf63df36640",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b8d0facc8194b78f44ebe8c9e808",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b8d213fc8194bb50daa18e60a416",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b8d3d234819487c4008e67db343d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b8ddf618819499d66e49b1a3fcd9",
+        "action": {
+          "query": "\"elektrina a plyn v cr jsou ctvrte nejdrazsi v eu\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"elektrina a plyn v cr jsou ctvrte nejdrazsi v eu\"",
+            "\"České domácnosti mají\" \"nejdražší elektřinu\" 2021",
+            "\"čtvrté nejdražší\" \"elektřina\" \"EU\" \"ČR\"",
+            "\"Nejvyšší průměrné ceny elektřiny\" \"2019\" \"Dánsko\" \"Německo\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b8e40fec81948608643658067e21",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b8f5b660819499cc44b2e9cfc201",
+        "action": {
+          "query": "\"Ministerstvo průmyslu a obchodu\" \"energetika\" gesce",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Ministerstvo průmyslu a obchodu\" \"energetika\" gesce",
+            "\"Ministerstvo průmyslu a obchodu\" \"energetika\" kompetence",
+            "\"MPO\" \"energetickou politiku\"",
+            "\"zajišťuje energetickou politiku\" \"ministerstvo průmyslu\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b8fe45a481948684f9b9f4aabbe4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b92c9b1081948f32425081166192",
+        "action": {
+          "query": "\"Czechia\" \"25.5 PPS\" 2019 electricity household",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Czechia\" \"25.5 PPS\" 2019 electricity household",
+            "\"electricity prices based on purchasing power standard\" \"Romania\" \"Spain\" 2019 2021",
+            "\"Electricity prices for household consumers, second half 2021 (PPS per 100 kWh)\" Romania Spain",
+            "\"nearly the most expensive\" \"electricity\" Czechia PPS 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b933045081949a7d4b5e82409cc2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_018aaaade804cdc30069a6b93ffd5c8194bbd513e7bdc0dfe3",
+        "action": {
+          "query": "\"Electricity prices for household consumers, second half 2021\" \"pps per 100 kwh\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Electricity prices for household consumers, second half 2021\" \"pps per 100 kwh\"",
+            "\"elektrina\" \"PPS\" \"druhe pololeti 2021\" Eurostat",
+            "\"41.00\" \"PPS\" \"electr\" \"Czechia\"",
+            "\"51.6 per 100 kWh in Czechia\" \"PPS\" \"February 2023\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_018aaaade804cdc30069a6b945b1c88194adb069bfa1973f69",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_018aaaade804cdc30069a6b9667820819482974d87ae7e1803",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1227,
+                "start_index": 1058,
+                "title": "Profil ministra průmyslu a obchodu, doc. Ing. Karel Havlíček, Ph.D., MBA | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai"
+              },
+              {
+                "end_index": 1605,
+                "start_index": 1483,
+                "title": "Pohledem Aleny Vitáskové: Kompetence v energetice | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/nazory-a-analyzy/pohledem-aleny-vitaskove-kompetence-v-energetice-1327968?utm_source=openai"
+              },
+              {
+                "end_index": 2269,
+                "start_index": 2177,
+                "title": "EU Household Energy Price Trends 2019 | PDF | European Union | Euro",
+                "type": "url_citation",
+                "url": "https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai"
+              },
+              {
+                "end_index": 2450,
+                "start_index": 2358,
+                "title": "EU Household Energy Price Trends 2019 | PDF | European Union | Euro",
+                "type": "url_citation",
+                "url": "https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai"
+              },
+              {
+                "end_index": 2917,
+                "start_index": 2770,
+                "title": "Česko má nejdražší elektřinu ze zemí východního bloku - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/cesi-maji-nejdrazsi-elektrinu-ze-zemi-vychodniho-bloku-plati-za-ni-vic-nez-svedove-14020?utm_source=openai"
+              },
+              {
+                "end_index": 3371,
+                "start_index": 3212,
+                "title": "Household Electricity Prices Increase in 25 EU Member States in 2nd Half of 2021",
+                "type": "url_citation",
+                "url": "https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021?utm_source=openai"
+              },
+              {
+                "end_index": 3832,
+                "start_index": 3698,
+                "title": "Czech Republic - Household electricity prices 2025 | countryeconomy.com",
+                "type": "url_citation",
+                "url": "https://countryeconomy.com/energy-and-environment/electricity-price-household/czech-republic?utm_source=openai"
+              },
+              {
+                "end_index": 4095,
+                "start_index": 3936,
+                "title": "Household Electricity Prices Increase in 25 EU Member States in 2nd Half of 2021",
+                "type": "url_citation",
+                "url": "https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021?utm_source=openai"
+              },
+              {
+                "end_index": 4799,
+                "start_index": 4644,
+                "title": "2019, Albania with the highest energy prices in the Region, according to Eurostat",
+                "type": "url_citation",
+                "url": "https://www.hashtag.al/en/index.php/2021/04/26/2019-shqiperia-me-cmimet-me-te-larta-te-energjise-ne-rajon-sipas-eurostat/?utm_source=openai"
+              },
+              {
+                "end_index": 5108,
+                "start_index": 5035,
+                "title": "Differences in the Structure of Household Electricity Prices in EU Countries",
+                "type": "url_citation",
+                "url": "https://www.mdpi.com/1996-1073/16/18/6636?utm_source=openai"
+              },
+              {
+                "end_index": 5374,
+                "start_index": 5301,
+                "title": "Differences in the Structure of Household Electricity Prices in EU Countries",
+                "type": "url_citation",
+                "url": "https://www.mdpi.com/1996-1073/16/18/6636?utm_source=openai"
+              },
+              {
+                "end_index": 5985,
+                "start_index": 5859,
+                "title": "Electricity price statistics – Statistics Explained",
+                "type": "url_citation",
+                "url": "https://pounddynamics.co.uk/euro/electricity-price-statistics-statistics-explained/?utm_source=openai"
+              },
+              {
+                "end_index": 6214,
+                "start_index": 6105,
+                "title": "Household electricity prices in the EU stable in 2024 - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai"
+              },
+              {
+                "end_index": 6447,
+                "start_index": 6338,
+                "title": "Household electricity prices in 1st half of 2025: -0.5% - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai"
+              },
+              {
+                "end_index": 6782,
+                "start_index": 6615,
+                "title": "Energy crisis in Europe: Which countries have the cheapest and most expensive electricity and gas? | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai"
+              },
+              {
+                "end_index": 7108,
+                "start_index": 6939,
+                "title": "Profil ministra průmyslu a obchodu, doc. Ing. Karel Havlíček, Ph.D., MBA | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai"
+              },
+              {
+                "end_index": 7525,
+                "start_index": 7433,
+                "title": "EU Household Energy Price Trends 2019 | PDF | European Union | Euro",
+                "type": "url_citation",
+                "url": "https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai"
+              },
+              {
+                "end_index": 7836,
+                "start_index": 7689,
+                "title": "Elektřina v EU loni zdražila. Nejvíc platí Dánové, Češi o polovinu méně - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/ekonomika/zahranicni/ceny-plynu-ceny-elektriny-evropska-unie.A190522_135021_eko-zahranicni_div?utm_source=openai"
+              },
+              {
+                "end_index": 8378,
+                "start_index": 8196,
+                "title": "(PDF) Fluctuations of Natural Gas Prices for Households in the 2017–2022 Period—Polish Case Study",
+                "type": "url_citation",
+                "url": "https://www.researchgate.net/publication/368488679_Fluctuations_of_Natural_Gas_Prices_for_Households_in_the_2017-2022_Period-Polish_Case_Study?utm_source=openai"
+              },
+              {
+                "end_index": 8780,
+                "start_index": 8688,
+                "title": "EU Household Energy Price Trends 2019 | PDF | European Union | Euro",
+                "type": "url_citation",
+                "url": "https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai"
+              },
+              {
+                "end_index": 9236,
+                "start_index": 9063,
+                "title": "Kolik platí Češi za elektřinu a plyn? Nové porovnání evropských států - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/finance/kolik-plati-cesi-za-elektrinu-a-plyn-nove-porovnani-evropsky/r~a5aad106249e11e6888a0025900fea04/?utm_source=openai"
+              },
+              {
+                "end_index": 9829,
+                "start_index": 9698,
+                "title": "Elektřina a plyn v ČR jsou čtvrté nejdražší v EU - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-elektrina-a-plyn-v-cr-jsou-ctvrte-nejdrazsi-v-eu-40429406?utm_source=openai"
+              },
+              {
+                "end_index": 10127,
+                "start_index": 9982,
+                "title": "Nejvíce z celé EU loni zdražil plyn v Česku, za rok jeho cena stoupla o 231 procent » BUSINESS DAILY NEWS : BYZNYS NOVINY",
+                "type": "url_citation",
+                "url": "https://www.byznysnoviny.cz/2023/04/26/nejvetsi-zdrazeni-plynu-v-eu-probehlo-v-cesku-za-rok-o-231-procent/?utm_source=openai"
+              },
+              {
+                "end_index": 10423,
+                "start_index": 10256,
+                "title": "Energy crisis in Europe: Which countries have the cheapest and most expensive electricity and gas? | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai"
+              },
+              {
+                "end_index": 10837,
+                "start_index": 10653,
+                "title": "ENERGY-HUB - Proč je česká elektřina nejdražší v EU? Průmysl na tom není zle, ale blízkost Německa trestá domácnosti",
+                "type": "url_citation",
+                "url": "https://cz.energyhub.eu/sk/articles/1101427/proc-je-ceska-elektrina-nejdrazsi-v-eu-prumysl-na-tom-neni-zle-ale-blizkost-nemecka-tresta-domacnosti?utm_source=openai"
+              },
+              {
+                "end_index": 11537,
+                "start_index": 11406,
+                "title": "Elektřina a plyn v ČR jsou čtvrté nejdražší v EU - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-elektrina-a-plyn-v-cr-jsou-ctvrte-nejdrazsi-v-eu-40429406?utm_source=openai"
+              },
+              {
+                "end_index": 11939,
+                "start_index": 11784,
+                "title": "2019, Albania with the highest energy prices in the Region, according to Eurostat",
+                "type": "url_citation",
+                "url": "https://www.hashtag.al/en/index.php/2021/04/26/2019-shqiperia-me-cmimet-me-te-larta-te-energjise-ne-rajon-sipas-eurostat/?utm_source=openai"
+              },
+              {
+                "end_index": 12356,
+                "start_index": 12209,
+                "title": "Česko má nejdražší elektřinu ze zemí východního bloku - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/cesi-maji-nejdrazsi-elektrinu-ze-zemi-vychodniho-bloku-plati-za-ni-vic-nez-svedove-14020?utm_source=openai"
+              },
+              {
+                "end_index": 12754,
+                "start_index": 12587,
+                "title": "Energy crisis in Europe: Which countries have the cheapest and most expensive electricity and gas? | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai"
+              },
+              {
+                "end_index": 13019,
+                "start_index": 12850,
+                "title": "Profil ministra průmyslu a obchodu, doc. Ing. Karel Havlíček, Ph.D., MBA | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai"
+              },
+              {
+                "end_index": 13572,
+                "start_index": 13403,
+                "title": "Profil ministra průmyslu a obchodu, doc. Ing. Karel Havlíček, Ph.D., MBA | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai"
+              },
+              {
+                "end_index": 13816,
+                "start_index": 13724,
+                "title": "EU Household Energy Price Trends 2019 | PDF | European Union | Euro",
+                "type": "url_citation",
+                "url": "https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai"
+              },
+              {
+                "end_index": 14059,
+                "start_index": 13912,
+                "title": "Česko má nejdražší elektřinu ze zemí východního bloku - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/cesi-maji-nejdrazsi-elektrinu-ze-zemi-vychodniho-bloku-plati-za-ni-vic-nez-svedove-14020?utm_source=openai"
+              },
+              {
+                "end_index": 14282,
+                "start_index": 14123,
+                "title": "Household Electricity Prices Increase in 25 EU Member States in 2nd Half of 2021",
+                "type": "url_citation",
+                "url": "https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021?utm_source=openai"
+              },
+              {
+                "end_index": 14566,
+                "start_index": 14493,
+                "title": "Differences in the Structure of Household Electricity Prices in EU Countries",
+                "type": "url_citation",
+                "url": "https://www.mdpi.com/1996-1073/16/18/6636?utm_source=openai"
+              },
+              {
+                "end_index": 14830,
+                "start_index": 14675,
+                "title": "2019, Albania with the highest energy prices in the Region, according to Eurostat",
+                "type": "url_citation",
+                "url": "https://www.hashtag.al/en/index.php/2021/04/26/2019-shqiperia-me-cmimet-me-te-larta-te-energjise-ne-rajon-sipas-eurostat/?utm_source=openai"
+              },
+              {
+                "end_index": 15139,
+                "start_index": 15047,
+                "title": "EU Household Energy Price Trends 2019 | PDF | European Union | Euro",
+                "type": "url_citation",
+                "url": "https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai"
+              },
+              {
+                "end_index": 15462,
+                "start_index": 15280,
+                "title": "(PDF) Fluctuations of Natural Gas Prices for Households in the 2017–2022 Period—Polish Case Study",
+                "type": "url_citation",
+                "url": "https://www.researchgate.net/publication/368488679_Fluctuations_of_Natural_Gas_Prices_for_Households_in_the_2017-2022_Period-Polish_Case_Study?utm_source=openai"
+              },
+              {
+                "end_index": 15788,
+                "start_index": 15662,
+                "title": "Electricity price statistics – Statistics Explained",
+                "type": "url_citation",
+                "url": "https://pounddynamics.co.uk/euro/electricity-price-statistics-statistics-explained/?utm_source=openai"
+              },
+              {
+                "end_index": 16064,
+                "start_index": 15897,
+                "title": "Energy crisis in Europe: Which countries have the cheapest and most expensive electricity and gas? | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai"
+              },
+              {
+                "end_index": 16911,
+                "start_index": 16785,
+                "title": "Electricity price statistics – Statistics Explained",
+                "type": "url_citation",
+                "url": "https://pounddynamics.co.uk/euro/electricity-price-statistics-statistics-explained/?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Shrnutí tvrzení a kontext\n\nSporné tvrzení Petra Fialy (18. 9. 2025):\n\n> „My jsme teda měli nejdražší energie už v době, kdy se o to staral pan Havlíček, v Evropě.“\n\nRozumné čtení v kontextu pořadu:\n\n- „v době, kdy se o to staral pan Havlíček“ = období, kdy byl Karel Havlíček ministrem průmyslu a obchodu ve vládě Andreje Babiše (2019–2021), tedy člen vlády odpovědný za energetiku,\n- „nejdražší energie v Evropě“ = ceny elektřiny a plynu pro domácnosti (případně celkově), buď:\n  - v **eurech za jednotku** (standardní porovnání Eurostatu), nebo\n  - v **paritě kupní síly (PPS)** – tedy relativní drahota vůči příjmům.\n\nNíže ověřujeme, zda během let 2019–2021 měla ČR **nejdražší** elektřinu nebo plyn v Evropě / EU, případně zda existuje užší interpretace, pod kterou by výrok mohl být pravdivý.\n\n---\n\n## 2. Kdo „se staral o energie“ – role Karla Havlíčka\n\n- Oficiální profil MPO uvádí, že **Karel Havlíček byl v letech 2019–2021 ministrem průmyslu a obchodu a místopředsedou vlády pro hospodářství**, a současně v letech 2020–2021 ministrem dopravy.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai))  \n- Podle bývalé šéfky ERÚ Aleny Vitáskové má **Ministerstvo průmyslu a obchodu (MPO)** na starosti **„energetickou politiku, tedy státní energetickou koncepci“** a zabývá se zejména **elektroenergetikou, plynárenstvím, teplárenstvím a jadernou energií**.([e15.cz](https://www.e15.cz/nazory-a-analyzy/pohledem-aleny-vitaskove-kompetence-v-energetice-1327968?utm_source=openai))  \n\n→ Je oprávněné předpokládat, že v letech **2019–2021** byl Havlíček jako ministr MPO hlavní politickou figurou, která „se starala o energie“.\n\n---\n\n## 3. Ceny elektřiny pro domácnosti v letech 2019–2021\n\n### 3.1 Jistá fakta: kdo měl *nejvyšší* nominální ceny (€/100 kWh)\n\n**Rok 2019 (2. pololetí)** – oficiální tisková zpráva Eurostatu „Energy prices in 2019“:\n\n- Průměrná cena elektřiny pro domácnosti v EU27: **21,6 €/100 kWh**.  \n- **Nejdražší elektřina v eurech**:  \n  - **Dánsko 29,2 €/100 kWh**,  \n  - **Německo 28,7 €/100 kWh**,  \n  - **Belgie 28,6 €/100 kWh**.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n- **Česko**: **17,7 €/100 kWh**, tedy pod průměrem Německa a Dánska i pod průměrem EU.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n\n**Rok 2020 (1. pololetí)** – shrnutí na základě statistiky Eurostatu v českém článku CNN Prima News:\n\n- „Nejvyšší účty za elektřinu platí Němci, za plyn Nizozemci.“  \n- Pro ČR se uvádí, že má **nejdražší elektřinu ze zemí bývalého východního bloku**, ale nikoli v celé EU – Německo, Dánsko či Belgie mají vyšší ceny.([cnn.iprima.cz](https://cnn.iprima.cz/cesi-maji-nejdrazsi-elektrinu-ze-zemi-vychodniho-bloku-plati-za-ni-vic-nez-svedove-14020?utm_source=openai))  \n\n**Rok 2021 (2. pololetí)** – článek vycházející z Eurostatu (Chronicle.lu):\n\n- V H2 2021 byly **nejvyšší ceny elektřiny pro domácnosti (v eurech/kWh, včetně daní)** v:\n  - **Dánsku (0,3448 €/kWh)**,\n  - **Německu (0,3234 €/kWh)**,\n  - **Belgii (0,2994 €/kWh)**,\n  - **Irsku (0,2974 €/kWh)**.([chronicle.lu](https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021?utm_source=openai))  \n- Z pohledu nominální ceny v eurech tak **Česko ani v H2 2021 nebylo na prvním místě**.\n\nData pro samotné Česko (Eurostat, reprodukováno např. na countryeconomy):\n\n- ČR – elektřina pro domácnosti (vč. daní):  \n  - prosinec 2019: **0,1770 €/kWh**,  \n  - prosinec 2020: **0,1795 €/kWh**,  \n  - prosinec 2021: **0,1883 €/kWh**.([countryeconomy.com](https://countryeconomy.com/energy-and-environment/electricity-price-household/czech-republic?utm_source=openai))  \n\nTyto hodnoty jsou výrazně nižší než **0,34 €/kWh v Dánsku** nebo **0,32 €/kWh v Německu** v H2 2021.([chronicle.lu](https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021?utm_source=openai))  \n\n### 3.2 Ceny v paritě kupní síly (PPS) – relativní drahota pro domácnosti\n\nEurostat i odborné studie často porovnávají ceny v **PPS per 100 kWh**, což zohledňuje úroveň příjmů.\n\n**Rok 2019 (H2, PPS)** – opět Eurostat „Energy prices in 2019“:\n\n- Nejvyšší ceny elektřiny pro domácnosti **v PPS** byly v:  \n  - **Rumunsku (27,8 PPS/100 kWh)**,  \n  - **Německu (26,8)**,  \n  - **Španělsku (26,2)**,  \n  - **Portugalsku (26,0)**,  \n  - **Belgii (25,9)**.  \n- **Česko** mělo **25,5 PPS/100 kWh**, tedy **mezi dražšími zeměmi, ale ne na prvním místě**.([hashtag.al](https://www.hashtag.al/en/index.php/2021/04/26/2019-shqiperia-me-cmimet-me-te-larta-te-energjise-ne-rajon-sipas-eurostat/?utm_source=openai))  \n\n**Rok 2019–2021 (roční průměry v PPS)** – recenzovaný článek (MDPI) pracující přímo s daty Eurostatu:\n\n- Pro **rok 2019** uvádí jako nejdražší (PPS) **Španělsko, Portugalsko, Německo, Rumunsko, Itálii, Belgii**; Česko není na špici.([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636?utm_source=openai))  \n- Pro **rok 2021** uvádí jako země s nejvyššími cenami (PPS) **Španělsko, Rumunsko, Německo, Polsko**, nejnižší Nizozemsko, Finsko, Lucembursko, Švédsko. **Česko opět není na prvním místě.**([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636?utm_source=openai))  \n\n→ Podle **ročních průměrů** v PPS **ČR v roce 2021 neměla nejdražší elektřinu v EU**, ani absolutně, ani relativně.\n\n### 3.3 Kontext: „nejdražší elektřina“ v ČR po roce 2022\n\nJe důležité rozlišit období **po Havlíčkově ministrování**:\n\n- Podle Eurostatu a řady českých médií měly **české domácnosti skutečně *nejdražší elektřinu v EU v PPS* v letech 2023–2024**:\n  - H2 2023: Eurostat uvádí, že v **PPS byla elektřina pro domácnosti nejdražší v Česku (38,7 PPS), následoval Kypr**.([pounddynamics.co.uk](https://pounddynamics.co.uk/euro/electricity-price-statistics-statistics-explained/?utm_source=openai))  \n  - H2 2024: Eurostat i Deník píší, že Česko mělo **41 PPS/100 kWh – nejvyšší hodnotu v EU**, před Německem a Kyprem.([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n  - 1. pol. 2025: Eurostat znovu potvrzuje, že v PPS byly **nejvyšší ceny elektřiny pro domácnosti v Česku (39,16 PPS)**.([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n- Euronews na základě indexu HEPI uvádí, že už v **únoru 2023** byly **rezidenční ceny elektřiny v PPS nejvyšší v Česku (51,6 PPS/100 kWh), před Itálií a Německem**.([euronews.com](https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai))  \n\nTyto rekordně vysoké ceny však spadají **do období po roce 2022**, kdy už Havlíček **ministrem nebyl**. (Ve vládě Andreje Babiše skončil v prosinci 2021.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai)))\n\n---\n\n## 4. Ceny plynu pro domácnosti v letech 2019–2021\n\n### 4.1 Nominální ceny v eurech\n\n**Rok 2019 (H2)** – Eurostat „Energy prices in 2019“:\n\n- Průměrná cena plynu v EU: **7,2 €/100 kWh**.  \n- **Nejdražší plyn v eurech**:  \n  - **Švédsko (11,7 €/100 kWh)**,  \n  - dále **Španělsko (10,2)**, Nizozemsko, Itálie, Francie.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n- Česká republika byla nad průměrem, ale **nedosahovala švédské ani španělské úrovně**; v článcích k roku 2018/2019 je uváděno, že „nejdražší plyn mají Švédové“.([idnes.cz](https://www.idnes.cz/ekonomika/zahranicni/ceny-plynu-ceny-elektriny-evropska-unie.A190522_135021_eko-zahranicni_div?utm_source=openai))  \n\nPro roky 2020–2021 jsou vzory podobné: data za 2017–2021 v odborné studii o cenách plynu pro domácnosti (Bohdan et al., 2023) – založené na Eurostatu – ukazují:\n\n- v roce 2021 měly **nejvyšší ceny plynu pro domácnosti (€/kWh) dlouhodobě Švédsko, Dánsko, Nizozemsko**,  \n- **Česko se mezi nejdražší země řadilo, ale nikde není uvedeno jako nejdražší v EU**.([researchgate.net](https://www.researchgate.net/publication/368488679_Fluctuations_of_Natural_Gas_Prices_for_Households_in_the_2017-2022_Period-Polish_Case_Study?utm_source=openai))  \n\n### 4.2 Plyn v PPS (parita kupní síly)\n\nOficiální tisková zpráva Eurostatu pro **H2 2019**:\n\n- Po přepočtu na PPS byly **nejdražší ceny plynu pro domácnosti** v:  \n  - **Španělsku (11,2 PPS/100 kWh)**,  \n  - **Švédsku (9,9)**,  \n  - **Itálii (9,5)**,  \n  - **Portugalsku (9,3)**,  \n  - **Bulharsku (9,0)**.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n- **Česko** bylo nad průměrem EU, ale **ne mezi prvními pěti**.\n\nStarší srovnání (H2 2015) ve článku Aktuálně.cz, založené rovněž na Eurostatu, ukazuje podobný vzorec: v PPS byl nejdražší plyn v Portugalsku a Španělsku, Česko mělo cca 9,1 PPS, což je vysoké, ale opět ne nejvyšší.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/finance/kolik-plati-cesi-za-elektrinu-a-plyn-nove-porovnani-evropsky/r~a5aad106249e11e6888a0025900fea04/?utm_source=openai))  \n\n→ Ani u plynu neexistuje žádný důkaz, že by **ČR v letech 2019–2021 byla „nejdražší v Evropě“**.\n\n---\n\n## 5. Jak se ceny vyvíjely po roce 2021\n\nJe pravda, že po **energetické krizi 2021–2022** vyskočily ceny v ČR dramaticky a Česko se dostalo **mezi nejdražší země EU**:\n\n- Ve **2. pol. 2022** byly podle Eurostatu **čtvrté nejvyšší ceny elektřiny i plynu pro domácnosti v EU**, po Dánsku, Belgii a Irsku (elektřina) a po Švédsku, Dánsku a Nizozemsku (plyn).([novinky.cz](https://www.novinky.cz/clanek/ekonomika-elektrina-a-plyn-v-cr-jsou-ctvrte-nejdrazsi-v-eu-40429406?utm_source=openai))  \n- Mezi lety 2021 a 2022 zaznamenalo Česko jedny z **nejvyšších meziročních nárůstů** cen elektřiny a plynu v EU (nikoli však absolutně nejvyšší ceny).([byznysnoviny.cz](https://www.byznysnoviny.cz/2023/04/26/nejvetsi-zdrazeni-plynu-v-eu-probehlo-v-cesku-za-rok-o-231-procent/?utm_source=openai))  \n- Od roku 2023 pak – **v PPS** – začíná Česko skutečně figurovat jako **země s nejdražší elektřinou v EU** (viz kapitola 3.3).([euronews.com](https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai))  \n\nNěkteré komentáře (např. Lukáš Kovanda v Hospodářských novinách/Energy-hub) tvrdí, že **„od druhé poloviny roku 2021 má Česko v paritě kupní síly elektřinu, ale i plyn prakticky nejdražší v EU“**, a odkazují na data Eurostatu.([cz.energyhub.eu](https://cz.energyhub.eu/sk/articles/1101427/proc-je-ceska-elektrina-nejdrazsi-v-eu-prumysl-na-tom-neni-zle-ale-blizkost-nemecka-tresta-domacnosti?utm_source=openai))  \n\nTento výrok však:\n\n- **pracuje s obdobím od H2 2021 dál**, kdy už do hry vstupuje energetická krize,\n- a vztahuje se na **PPS**, tedy specifické přepočtení na kupní sílu, nikoli na nominální ceny.\n\nZároveň jde spíše o interpretaci „prakticky nejdražší“ – ne vždy jednoznačně první místo ve všech semestrech a commodity. A hlavně – **H2 2021 je z velké části ovlivněno i obdobím po říjnovém pádu Bohemia Energy a skokem cen na DPI**, což bylo až na samém konci Havlíčkova ministrování a už v době příchodu energetické krize, nikoli typické pro celé období 2019–2021.([novinky.cz](https://www.novinky.cz/clanek/ekonomika-elektrina-a-plyn-v-cr-jsou-ctvrte-nejdrazsi-v-eu-40429406?utm_source=openai))  \n\n---\n\n## 6. Alternativní interpretace Fialova výroku\n\n1. **„Patřili jsme mezi nejdražší v EU“ (nikoli úplně nejdražší)**  \n   - V PPS byla ČR už před krizí **mezi dražšími zeměmi** – v roce 2019 měla šestou–sedmou nejvyšší cenu elektřiny v PPS.([hashtag.al](https://www.hashtag.al/en/index.php/2021/04/26/2019-shqiperia-me-cmimet-me-te-larta-te-energjise-ne-rajon-sipas-eurostat/?utm_source=openai))  \n   - Formulace „nejdražší“ by ale byla fakticky nesprávným zveličením.\n\n2. **„Nejdražší v regionu“ (např. ve V4 nebo „východní blok“)**  \n   - V roce 2020 skutečně platí, že **Česko má nejdražší elektřinu ze zemí bývalého východního bloku**, jak uvádí CNN Prima News.([cnn.iprima.cz](https://cnn.iprima.cz/cesi-maji-nejdrazsi-elektrinu-ze-zemi-vychodniho-bloku-plati-za-ni-vic-nez-svedove-14020?utm_source=openai))  \n   - Tvrzení ale explicitně zní „v Evropě“, nikoli „v regionu“.\n\n3. **„Nejdražší v Evropě po přepočtu na kupní sílu, ale až po roce 2022“**  \n   - To je doloženo pro **2023–2024** (a částečně už pro únor 2023 dle HEPI/Euronews).([euronews.com](https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai))  \n   - Toto období ovšem **už neodpovídá době, kdy byl Havlíček ministrem** (ta končí 12/2021).([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai))  \n\nŽádná z těchto benevolentnějších interpretací nečiní původní striktní tvrzení „měli jsme nejdražší energie v Evropě už v době, kdy se o to staral Havlíček“ přesným.\n\n---\n\n## 7. Shrnutí důkazů k dílčím tvrzením\n\n1. **Havlíček byl v letech 2019–2021 ministrem MPO a tím politicky odpovědný za energetiku.**  \n   - Podloženo oficiální biografií MPO a popisem kompetencí ministerstva.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/ministr/profil-ministra-prumyslu-a-obchodu--doc--ing--karel-havlicek--ph-d---mba--290910/?utm_source=openai))  \n\n2. **V letech 2019–2021 nemělo Česko nejvyšší nominální ceny elektřiny v EU.**  \n   - V H2 2019: nejvyšší ceny Dánsko, Německo, Belgie; ČR pod nimi.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n   - V H1 2020: nejvyšší účty za elektřinu u Němců; Česko „jen“ nejdražší ve východním bloku.([cnn.iprima.cz](https://cnn.iprima.cz/cesi-maji-nejdrazsi-elektrinu-ze-zemi-vychodniho-bloku-plati-za-ni-vic-nez-svedove-14020?utm_source=openai))  \n   - V H2 2021: nejvyšší ceny Dánsko, Německo, Belgie, Irsko.([chronicle.lu](https://chronicle.lu/category/energy/42194-household-electricity-prices-increase-in-25-eu-member-states-in-2nd-half-of-2021?utm_source=openai))  \n\n3. **V letech 2019–2021 nemělo Česko nejvyšší ceny elektřiny ani v PPS.**  \n   - Pro rok 2019 a 2021 odborná studie na základě Eurostatu uvádí jako nejdražší jiné země (Španělsko, Rumunsko, Německo, Polsko).([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636?utm_source=openai))  \n   - H2 2019: PPS nejvyšší v Rumunsku, Německu, Španělsku, Portugalsku, Belgii; Česko „jen“ mezi dražšími.([hashtag.al](https://www.hashtag.al/en/index.php/2021/04/26/2019-shqiperia-me-cmimet-me-te-larta-te-energjise-ne-rajon-sipas-eurostat/?utm_source=openai))  \n\n4. **V letech 2019–2021 nemělo Česko nejvyšší ceny plynu pro domácnosti v Evropě.**  \n   - H2 2019: v eurech i v PPS nejdražší plyn ve Švédsku a Španělsku, resp. Španělsku, Švédsku, Itálii, Portugalsku, Bulharsku.([scribd.com](https://www.scribd.com/document/488342273/8-07052020-AP-EN?utm_source=openai))  \n   - Odborné práce a mediální přehledy k období 2017–2021 potvrzují, že **Švédsko, Dánsko, Nizozemsko** měly dlouhodobě vyšší ceny než ČR.([researchgate.net](https://www.researchgate.net/publication/368488679_Fluctuations_of_Natural_Gas_Prices_for_Households_in_the_2017-2022_Period-Polish_Case_Study?utm_source=openai))  \n\n5. **Česko se skutečně stalo „nejdražší zemí EU“ (v PPS) až po roce 2022.**  \n   - 2023–2024: Eurostat explicitně uvádí, že v **PPS má nejdražší elektřinu v EU Česko** (H2 2023, H2 2024, H1 2025).([pounddynamics.co.uk](https://pounddynamics.co.uk/euro/electricity-price-statistics-statistics-explained/?utm_source=openai))  \n   - HEPI/Euronews potvrzuje, že v únoru 2023 byly rezidenční ceny elektřiny v PPS nejvyšší v Praze/Cesku.([euronews.com](https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai))  \n\n---\n\n## 8. Celkové hodnocení tvrzení\n\n**Jádro výroku:** „Už v době, kdy se o energie staral Havlíček (tj. 2019–2021), jsme měli nejdražší energie v Evropě.“\n\nNa základě dostupných dat:\n\n- V **žádném z hlavních ukazatelů**, které používá Eurostat pro porovnání cen elektřiny a plynu pro domácnosti:\n  - **nominální ceny v eurech/100 kWh**,  \n  - **ceny v PPS na 100 kWh**,  \n  nebyla Česká republika v letech **2019–2021 na prvním místě v Evropě / EU**.\n- Česko bylo **mezi dražšími zeměmi**, v regionu V4 často **nejdražší**, ale **nikoli nejdražší v celé Evropě**.\n- Skutečnost, že **Česko má „nejdražší elektřinu v EU“ (v PPS), je doložena až od roku 2023 dále**, tedy **až po skončení Havlíčkovy ministerské éry**.([pounddynamics.co.uk](https://pounddynamics.co.uk/euro/electricity-price-statistics-statistics-explained/?utm_source=openai))  \n\n**Závěr:**  \nTvrzení Petra Fialy, že **Česko mělo „nejdražší energie v Evropě“ už v době, kdy se o ně staral Karel Havlíček**, **neodpovídá dostupným datům** a je z hlediska faktů **nepravdivé (silně nadsazené)**.  \n\nLze připustit, že:\n\n- ČR **patřila mezi dražší země**, zvlášť v přepočtu na kupní sílu,\n- a že od roku 2021/2022 její ceny prudce rostly a později se skutečně dostaly na úplnou špičku EU (v PPS),\n\nale to se **týká hlavně období po roce 2022** a **nelze to zpětně vztahovat na celé období 2019–2021**, jak výrok implikuje.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 113576,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 21545,
+      "output_tokens_details": {
+        "reasoning_tokens": 16233
+      },
+      "total_tokens": 135121
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772534204,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

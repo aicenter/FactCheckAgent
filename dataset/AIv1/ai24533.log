@@ -1,0 +1,898 @@
+{
+  "claim_id": "24533",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20260106_103748",
+  "source_md": "experiments/gpt-5.1h_20260106_103748/brief_fact_check_id24533.md",
+  "fact_check": "# Fact Check for Statement ID 24533\n\n## Statement\nNemohou být (prezidentské volby na Ukrajině, pozn. Demagog.cz). Ukrajinská ústava říká, že prezidentem je do doby, než bude zvolen nový prezident. A dokud nebudou volby, tak prezidentem je Zelenskyj.\n\n---\n## OpenAI Deep Research Fact Check\n## 1. Kontext a rozklad výroku\n\nOvěřovaný výrok Miloše Vystrčila (5. 1. 2026):\n\n> „Nemohou být (prezidentské volby na Ukrajině). Ukrajinská ústava říká, že prezidentem je do doby, než bude zvolen nový prezident. A dokud nebudou volby, tak prezidentem je Zelenskyj.“\n\nRozložení na dílčí tvrzení:\n\n1. **Tvrzení 1:** Za současné situace **nemohou proběhnout prezidentské volby na Ukrajině** (tj. jsou právně znemožněny).\n2. **Tvrzení 2:** **Ústava Ukrajiny stanoví, že prezident vykonává funkci až do doby, než je zvolen / ujme se úřadu nový prezident.**\n3. **Tvrzení 3:** **Dokud neproběhnou prezidentské volby, je prezidentem Ukrajiny Volodymyr Zelenskyj** (tj. jeho mandát pokračuje i po uplynutí standardních 5 let).\n\nNíže jsou shrnuty důkazy pro každé dílčí tvrzení.\n\n---\n\n## 2. Tvrzení 1 – „Nemohou být [prezidentské volby na Ukrajině]“\n\n### 2.1 Právní úprava: zákaz voleb během válečného stavu\n\nZákladní právní norma je **Zákon Ukrajiny „O právním režimu válečného stavu“**.\n\n- **Článek 19 odst. 1** tohoto zákona („Гарантії законності в умовах воєнного стану“) výslovně uvádí:\n\n> «В умовах воєнного стану забороняються:  \n> …  \n> **проведення виборів Президента України, а також виборів до Верховної Ради України, Верховної Ради Автономної Республіки Крим і органів місцевого самоврядування;**  \n> проведення всеукраїнських та місцевих референдумів; …» ([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n\nTj. **během válečného stavu je zákonem přímo zakázáno konat prezidentské volby**, stejně jako parlamentní a místní.\n\nOficiální shrnutí téhož zákona (starší verze na webu Верховної Ради) tuto část cituje v téměř shodném znění.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/go/389-19/ed20240727?utm_source=openai))\n\n### 2.2 Trvání válečného stavu\n\n- **Prezidentský dekret č. 64/2022 „O zavedení válečného stavu v Ukrajině“** z 24. 2. 2022 zavedl celostátní válečný stav.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/64/2022?utm_source=openai))  \n- Tento dekret byl **opakovaně prodlužován** vždy o 90 dní řadou dalších dekretů a zákonů (např. dekret č. 469/2024, prodloužení od 12. 8. 2024 o 90 dní atd.).([president.gov.ua](https://www.president.gov.ua/documents/4692024-51605?utm_source=openai))  \n- Agentura **Reuters** roku 2025 informuje, že parlament prodloužil válečný stav do srpna 2025 a dodává, že toto prodloužení „zastavuje volební proces“ a že **„podle ukrajinského práva nemohou volby během válečného stavu probíhat“**.([reuters.com](https://www.reuters.com/world/europe/ukraines-parliament-extends-martial-law-until-august-2025-04-16/?utm_source=openai))  \n- Shrnutí „Next Ukrainian presidential election“ uvádí, že válečný stav je od února 2022 prodlužován v 90denních intervalech a **k roku 2025 byl prodloužen až do 3. 2. 2026**.([en.wikipedia.org](https://en.wikipedia.org/wiki/Next_Ukrainian_presidential_election?utm_source=openai))  \n\nZ toho plyne, že **k 5. 1. 2026 válečný stav stále trvá**, takže zákaz z čl. 19 zákona o válečném stavu je účinný.\n\n### 2.3 Potvrzení ze strany ukrajinských institucí a mezinárodních analýz\n\n- **Tajemník Rady národní bezpečnosti a obrany (RNBO)** Oleksij Danilov v květnu 2023 prohlásil:\n\n> «**Ніяких виборів в Україні – ні парламентських, ні президентських – під час воєнного стану бути не може.** … У нас є Конституція і закони, за якими ми живемо. Ніяких виборів під час воєнного стану бути не може.» ([rnbo.gov.ua](https://www.rnbo.gov.ua/en/Diialnist/6342.html?utm_source=openai))  \n\n- **Ústřední volební komise (ЦВК)** v oficiální odpovědi (citované např. servery Censor.net a Glavkom) vysvětluje, že zákon o válečném stavu:\n\n> „…визначено, що у період дії воєнного стану **не можуть бути припинені повноваження Президента України** (частина перша статті 10), а **в разі закінчення строку повноважень Президента України під час дії воєнного стану його повноваження продовжуються до вступу на пост новообраного Президента України, обраного після скасування воєнного стану**“ ([censor.net](https://censor.net/ua/news/3477124/tsvk_pro_povnovajennya_zelenskogo_pislya_20_travnya_mayut_buty_prodovjeni_dokument?utm_source=openai))  \n\n– a současně z toho vyvozuje, že **volby prezidenta se za platného válečného stavu nekonají**.\n\n- **Congressional Research Service (USA)** v přehledu evropských voleb 2025 vysvětluje, že Ukrajina není v tabulce uvedena, protože:\n\n> „Ukraine is not included, as **elections cannot occur while under martial law**.“ ([congress.gov](https://www.congress.gov/crs_external_products/R/HTML/R46858.html))  \n\n- **The Guardian (únor 2025)** píše:\n\n> „Under Ukraine’s constitution, **it is not legal to hold national elections during a period of martial law**.“ ([theguardian.com](https://www.theguardian.com/world/2025/feb/20/ukraine-elections-start-of-war-volodymyr-zelenskyy))  \n\n- **AP News (2025)** shrnuje:\n\n> „Martial law is established in the Ukrainian constitution and **another law states elections can’t be held when martial law is in place, which has been the case since the February 2022 invasion.**“ ([apnews.com](https://apnews.com/article/f4f810d810ffc3cf4c81b241bbd76dac))  \n\n### 2.4 Možné nuance a protiargumenty\n\n- **Jde o zákon, nikoli přímo ústavní článek.** Samotný **zákon o válečném stavu je běžným zákonem**, který **lze změnit hlasováním parlamentu**. Na oficiálním petičním portálu prezidenta je výslovně uvedeno:\n\n> „Вибори під час дії воєнного стану прямо заборонені ч.1 ст.19 Закону України „Про правовий режим воєнного стану“… Закон може бути змінений голосуванням Верховної Ради України. **Конституція України прямо говорить лише про неможливість проведення парламентських виборів в умовах воєнного стану. Теоретично, зміни до законодавства можуть розблокувати президентські та місцеві вибори під час воєнного стану.**“ ([petition.president.gov.ua](https://petition.president.gov.ua/petition/209780?utm_source=openai))  \n\n- V roce 2018 byla u dřívější verze tohoto zákona přijata **dočasná výjimka**, aby se mohly uskutečnit již vyhlášené místní volby v některých oblastech navzdory krátkému válečnému stavu – to ukazuje, že **parlament si umí vymezit výjimku**.([pravda.com.ua](https://www.pravda.com.ua/news/2018/12/3/7200057/?utm_source=openai))  \n\n- V letech 2024–25 se uvnitř Ukrajiny objevily **diskuse o případných změnách**, aby bylo možné konat volby i při trvajícím válečném stavu, a prezident Zelenskyj v některých rozhovorech prohlásil, že by byl připraven volby umožnit, pokud by spojenci zajistili bezpečnost a pokud by se změnilo zákonodárství.([washingtonpost.com](https://www.washingtonpost.com/world/2025/12/09/ukraine-election-zelensky-trump/?utm_source=openai))  \n\nTyto skutečnosti ale nemění nic na tom, že **k 5. 1. 2026 zákon č. 389‑VIII v platném znění volby za válečného stavu zakazuje** a nebyla přijata žádná změna, která by tento zákaz pro prezidentské volby zrušila.\n\n### 2.5 Závěr k tvrzení 1\n\nZ právního hlediska (de lege lata) je výrok, že **„prezidentské volby na Ukrajině nemohou být“**, pravdivý, pokud je chápán tak, že **nemohou být konány v souladu s platným ukrajinským právem po dobu trvání válečného stavu**.  \nJe vhodné doplnit, že jde o **podmíněnou právní nemožnost** – parlament by ji teoreticky mohl odstranit změnou zákona či ukončením válečného stavu.\n\n---\n\n## 3. Tvrzení 2 – „Ústava říká, že prezidentem je do doby, než bude zvolen nový prezident“\n\n### 3.1 Znění příslušných ustanovení\n\n#### Ústava Ukrajiny, článek 108\n\nČl. 108 Ústavy (oficiální text, např. prezident.gov.ua, soudní weby) stanoví:\n\n> «**Стаття 108.** Президент України **виконує свої повноваження до вступу на пост новообраного Президента України.**  \n> Повноваження Президента України припиняються достроково у разі:  \n> 1) відставки;  \n> 2) неспроможності виконувати свої повноваження за станом здоров’я;  \n> 3) усунення з поста в порядку імпічменту;  \n> 4) смерті.» ([rm.coe.int](https://rm.coe.int/constitution-of-ukraine/168071f58b%26lang%3Den?utm_source=openai))  \n\nTj. prezident **vykonává své pravomoci až do okamžiku, kdy se úřadu ujme nově zvolený prezident**, a jen ve čtyřech vyjmenovaných případech může skončit dříve.\n\n#### Zákon o válečném stavu – článek 11 odst. 3\n\nTento zákon doplňuje ústavu o zvláštní úpravu pro dobu válečného stavu:\n\n> «**3. У разі закінчення строку повноважень Президента України під час дії воєнного стану його повноваження продовжуються до вступу на пост новообраного Президента України, обраного після скасування воєнного стану.**» ([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n\nTedy pokud prezidentovi uplyne běžný pětiletý mandát **během válečného stavu**, jeho pravomoci **pokračují až do nástupu nového prezidenta**, který bude zvolen **až po zrušení válečného stavu**.\n\n### 3.2 Srovnání s parafrází Miloše Vystrčila\n\nVystrčilova formulace v češtině zní:\n\n> „Ústava říká, že prezidentem je do doby, než bude zvolen nový prezident.“\n\nVe srovnání s originálem:\n\n- Ústava mluví o tom, že prezident vykonává pravomoci **„do vstupu do úřadu nově zvoleného prezidenta“** – tj. do jeho **ujmutí se funkce**, nikoli jen samotného aktu zvolení. V praxi však volby a inaugurace dělí max. 30 dní, takže **praktický rozdíl je zanedbatelný**.\n- V kombinaci s čl. 11 odst. 3 zákona o válečném stavu je smysl jasný: **mandát nekončí uplynutím 5 let, ale až převzetím úřadu nově zvoleným prezidentem; v době válečného stavu se toto převzetí odkládá, protože volby jsou zakázány.**\n\n### 3.3 Sporné výklady\n\nExistují **menšinové právní názory**, podle nichž by se čl. 108 měl vykládat užší:\n\n- Analýza „Analysis of the Legitimacy of the Powers of the President of Ukraine Based on the Constitution of Ukraine“ tvrdí, že formulace „до вступу на пост новообраного Президента“ má smysl **jen v kontextu, kdy už volby proběhly a existuje „nově zvolený“ prezident**, tedy jako technické překlenutí období mezi volbami a inaugurací. ([hrhouse.us](https://hrhouse.us/march_1_2025?utm_source=openai))  \n- Podobně někteří komentátoři (např. v článku „Момент істини: Україна або Зеленський“ v deníku Ukrajina Moloda) namítají, že **ústavní pětiletý limit** (čl. 103) by neměl být obcházen dlouhodobým nevyhlášením voleb.([umoloda.kyiv.ua](https://umoloda.kyiv.ua/number/0/180/181218?utm_source=openai))  \n\nProti tomu však stojí:\n\n- **Explicitní zákonná úprava v čl. 11 odst. 3** zákona o válečném stavu, přijatá v roce 2015 a novelizovaná v roce 2022, která výslovně stanoví prodloužení prezidentských pravomocí v době války.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n- **Praxe orgánů státu** (parlament, Ústřední volební komise, RNBO), které právě takto čl. 108 + zákon o válečném stavu vykládají a opakovaně z nich dovozují legitimitu Zelenského setrvání v úřadu.([censor.net](https://censor.net/ua/news/3477124/tsvk_pro_povnovajennya_zelenskogo_pislya_20_travnya_mayut_buty_prodovjeni_dokument?utm_source=openai))  \n\n### 3.4 Závěr k tvrzení 2\n\nObsah výroku „Ústava říká, že prezidentem je do doby, než bude zvolen nový prezident“ **odpovídá podstatě čl. 108 ústavy**, byť nejde o doslovnou citaci a přesnější by bylo „do doby, než se nový prezident ujme úřadu“. V kombinaci se zákonem o válečném stavu (čl. 11 odst. 3) je to přesné vystižení současného ústavně‑právního mechanismu kontinuity funkce prezidenta.\n\n---\n\n## 4. Tvrzení 3 – „Dokud nebudou volby, tak prezidentem je Zelenskyj“\n\n### 4.1 Volodymyr Zelenskyj byl řádně zvolen a inaugurován v roce 2019\n\n- Zelenskyj byl zvolen v prezidentských volbách 2019 (druhý kolo 21. 4. 2019) a **20. 5. 2019 složil přísahu** a ujal se úřadu prezidenta Ukrajiny.([president.gov.ua](https://www.president.gov.ua/en/news/volodimir-zelenskij-sklav-prisyagu-prezidenta-ukrayini-55477?utm_source=openai))  \n- Podle čl. 103 ústavy je **funkční období prezidenta 5 let** a řádné prezidentské volby se konají „poslední neděli března pátého roku jeho mandátu“.([te.gob.mx](https://www.te.gob.mx/vota_elections/thesaurus/article/22787/5347/124?utm_source=openai))  \n\nNormálně by tedy Zelenskyj čelil nové volbě na jaře 2024 a jeho běžný pětiletý mandát by skončil kolem května 2024.\n\n### 4.2 Proč volby v roce 2024 neproběhly\n\n- **Válečný stav od 24. 2. 2022** (dekret 64/2022 a jeho prodlužování) znemožňuje podle čl. 19 zákona o válečném stavu konání prezidentských i parlamentních voleb.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/64/2022?utm_source=openai))  \n- AP shrnuje:\n\n> „Putin’s invasion of Ukraine triggered martial law in the country, which effectively postponed presidential and parliamentary elections… Ukraine’s natural election period for its parliament was slated for October 2023 and Zelenskyy’s five‑year term was up in May 2024. **Martial law… and another law states elections can’t be held when martial law is in place**, which has been the case since the February 2022 invasion.“ ([apnews.com](https://apnews.com/article/f4f810d810ffc3cf4c81b241bbd76dac))  \n\n- Totéž potvrzují Guardian, CRS a další zdroje.([theguardian.com](https://www.theguardian.com/world/2025/feb/20/ukraine-elections-start-of-war-volodymyr-zelenskyy))  \n\n### 4.3 Právní důsledky pro mandát Zelenského\n\nJak bylo uvedeno výše:\n\n- **Ústava, čl. 108:** prezident vykonává své pravomoci „do vstupu do úřadu nově zvoleného prezidenta“.([constitution.in.ua](https://constitution.in.ua/chapters/5/?utm_source=openai))  \n- **Zákon o válečném stavu, čl. 11 odst. 3:** pokud prezidentský mandát skončí za trvání válečného stavu, „**його повноваження продовжуються до вступу на пост новообраного Президента України, обраного після скасування воєнного стану.**“ ([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n- Ústřední volební komise tyto normy výslovně aplikuje na situaci po 20. 5. 2024 a konstatuje, že **pravomoci prezidenta se v takovém případě prodlužují**, dokud nebude zvolen a úřadu se neujme nový prezident po skončení válečného stavu.([censor.net](https://censor.net/ua/news/3477124/tsvk_pro_povnovajennya_zelenskogo_pislya_20_travnya_mayut_buty_prodovjeni_dokument?utm_source=openai))  \n\n### 4.4 Postoj parlamentu a mezinárodního společenství\n\n- **Verchovna rada (parlament)** v únoru 2025 přijala rezoluci, v níž:\n  - potvrzuje, že Zelenskyj byl zvolen ve svobodných a demokratických volbách a zůstává **legitimním prezidentem Ukrajiny**;\n  - prohlašuje, že **národní volby se nebudou konat do zrušení válečného stavu a dosažení „komplexního, spravedlivého a udržitelného míru“**;\n  - odkazuje na ústavu, podle níž musí prezident zůstat ve funkci až do zvolení a nástupu nástupce.([jurist.org](https://www.jurist.org/news/2025/02/ukraine-parliament-affirms-no-elections-during-wartime-under-martial-law/?utm_source=openai))  \n\n- AP shrnuje:\n\n> „To back the president, **Ukraine’s parliament passed a resolution affirming the legitimacy of Zelenskyy as president and reiterated elections are not possible until after the war ends.**“ ([apnews.com](https://apnews.com/article/f4f810d810ffc3cf4c81b241bbd76dac))  \n\n### 4.5 Faktický stav k začátku roku 2026\n\n- **Oficiální web prezidenta Ukrajiny** v prosinci 2025 a v lednu 2026 nadále uvádí „Президент України Володимир Зеленський / President of Ukraine Volodymyr Zelenskyy“ a publikuje jeho novoroční projev i první dekret roku 2026 jako akty úřadujícího prezidenta.([president.gov.ua](https://www.president.gov.ua/en?utm_source=openai))  \n- Mezinárodní média (AP, Financial Times aj.) v lednu 2026 Zelenského opakovaně označují jako „ukrajinského prezidenta“ při zprávách o změnách v jeho administrativě.([nypost.com](https://nypost.com/2026/01/02/world-news/zelensky-taps-popular-ukraine-spy-chief-to-run-presidents-office/?utm_source=openai))  \n\n### 4.6 Kritické názory\n\n- Někteří právníci a komentátoři (viz např. HR House či článek v Ukrajina Moloda) tvrdí, že setrvání Zelenského ve funkci po květnu 2024 je problematické, protože ústava pevně stanoví pětiletý mandát a jasný časový rámec pro volby, a že **ústavní prodloužení by mělo být výslovně zakotveno v ústavě, nikoli jen v obyčejném zákoně**.([hrhouse.us](https://hrhouse.us/march_1_2025?utm_source=openai))  \n\n- Tyto názory však v praxi **nesharedly** ukrajinské státní instituce ani většina mezinárodních partnerů, kteří nadále uznávají Zelenského jako legitimního prezidenta na základě čl. 108 ústavy a čl. 11 zákona o válečném stavu a na základě výše zmíněné parlamentní rezoluce.([jurist.org](https://www.jurist.org/news/2025/02/ukraine-parliament-affirms-no-elections-during-wartime-under-martial-law/?utm_source=openai))  \n\n### 4.7 Závěr k tvrzení 3\n\n- **Právně:** Podle kombinace čl. 108 ústavy a čl. 11 odst. 3 zákona o válečném stavu **Zelenskyj vykonává prezidentské pravomoci až do nástupu nového prezidenta zvoleného po zrušení válečného stavu**. Dokud se takové volby nekonají, zůstává prezidentem.\n- **Fakticky:** Jak oficiální ukrajinské zdroje, tak zahraniční média jej k přelomu let 2025/2026 nadále označují jako prezidenta. Neexistuje žádný důkaz, že by k 5. 1. 2026 došlo k ukončení jeho mandátu jiným ze čtyř ústavních způsobů (rezignace, zdraví, impeachment, smrt).([ru.osvita.ua](https://ru.osvita.ua/legislation/law/2227/?utm_source=openai))  \n\nVýrok „dokud nebudou volby, tak prezidentem je Zelenskyj“ proto **odpovídá současnému ukrajinskému právu i reálné praxi**.\n\n---\n\n## 5. Celkové shrnutí pro fact‑checkera\n\n1. **„Nemohou být (prezidentské volby na Ukrajině)“** –  \n   - Čl. 19 zákona o válečném stavu **výslovně zakazuje konání prezidentských voleb** po dobu válečného stavu.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n   - Válečný stav platí nepřetržitě od 24. 2. 2022 a byl prodloužen minimálně do února 2026.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/64/2022?utm_source=openai))  \n   → Tvrzení je v právním smyslu správné, s poznámkou, že jde o **současný stav práva**, který může parlament změnit.\n\n2. **„Ústava říká, že prezidentem je do doby, než bude zvolen nový prezident“** –  \n   - **Čl. 108 Ústavy** stanoví, že prezident vykonává pravomoci „do vstupu na úřad nově zvoleného prezidenta“.([rm.coe.int](https://rm.coe.int/constitution-of-ukraine/168071f58b%26lang%3Den?utm_source=openai))  \n   - **Čl. 11 odst. 3 zákona o válečném stavu** navíc řeší situaci uplynutí mandátu během války a prodlužuje pravomoci do nástupu nově zvoleného prezidenta po skončení válečného stavu.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n   → Vystrčil parafrázuje mírně nepřesně (nezmiňuje „ujmutí se úřadu“), ale věcně správně.\n\n3. **„Dokud nebudou volby, tak prezidentem je Zelenskyj“** –  \n   - Zelenskyj byl řádně zvolen v roce 2019 a jeho standardní pětiletý mandát by končil v květnu 2024.([president.gov.ua](https://www.president.gov.ua/en/news/volodimir-zelenskij-sklav-prisyagu-prezidenta-ukrayini-55477?utm_source=openai))  \n   - Volby roku 2024 se kvůli válečnému stavu a zákazu voleb nekonaly a **ústavně‑zákonný rámec (čl. 108 ústavy + čl. 11 odst. 3 zákona o válečném stavu) výslovně prodlužuje výkon jeho pravomocí až do nástupu nového prezidenta zvoleného po skončení válečného stavu**.([ru.osvita.ua](https://ru.osvita.ua/legislation/law/2227/?utm_source=openai))  \n   - Oficiální web prezidenta i mezinárodní média jej k začátku roku 2026 jednoznačně uvádějí jako úřadujícího prezidenta Ukrajiny.([president.gov.ua](https://www.president.gov.ua/en?utm_source=openai))  \n\n**Shrnutí:** Všechny tři dílčí části výroku jsou v hlavní rovině **v souladu s platnou ukrajinskou ústavní a zákonnou úpravou i s praxí ukrajinských institucí**, přičemž je vhodné zdůraznit dvě nuance:\n\n- zákaz voleb plyne primárně ze **zákona o válečném stavu**, nikoli z explicitního ústavního článku, a **teoreticky jej lze změnit**;  \n- formulace o tom, co „říká ústava“, je **parafrází** článku 108 a neřeší jemný rozdíl mezi „zvolením“ a „ujmutím se úřadu“, který ale v kontextu výroku nemění jeho věcný význam.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Interview ČT24 released on 2026-01-05 available from https://www.ceskatelevize.cz/porady/10095426857-interview-ct24/226411058040105/.\\n\\n\\nThe claim was made by: Miloš Vystrčil, Předseda Senátu, místopředseda ODS\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:09:05\\nMiloš Vystrčil,\\npředseda Senátu /ODS/\\nAle říkal, lidé okolo Zelenského junty, to znamená, jinými slovy, také tam prohlásil, že Zelenskyj je jakýsi generál nebo jakýsi představitel ukrajinské armády, což není žádná pravda, on je civilista. A tohle všechno zaznělo ve vystoupení třetího nejvyššího ústavní činitele, to znamená naprosté nepravdy a pomýlení té věci. A zatímco tam je standardní režim, který vznikl na základě svobodných voleb, tak v Rusku tomu tak není a o tom tam nepadlo v tom jeho projevu ani slovo, a to si myslím, že opravdu je jednoznačným znakem toho, že ten člověk hovoří ve prospěch Kremlu, protože když o někom nemluvíte, tak to znamená, že říkáte implicitně, že tam je to vlastně v pořádku, tam se nic špatnýho neděje, tak nechme, nechme zabrat Ukrajinu a nedávejme Ukrajině zbraně, oni potom dojdou k míru tím, že budou muset kapitulovat, nic jiného mě nenapadá, a tohle všechno vlastně nepřímo v tom projevu zaznívá.\\n00:10:13\\nDaniel Takáč,moderátor\\nS těmi volbami, Zelenskyj už je po mandátu v podstatě, ano, na druhou stranu volby být nemohou.\\n00:10:19\\nMiloš Vystrčil,\\npředseda Senátu /ODS/\\nNemohou být. Ukrajinská ústava říká, že prezidentem je do doby, než bude zvolen nový prezident. A dokud nebudou volby, tak prezidentem je Zelenskyj. A jestli někdo chce dneska dělat volby na Ukrajině v době, kdy většina Ukrajinců je na frontě a bojuje a brání nejen sebe, ale i nás, tak to může říkat, ale sám musí vědět, že to není pravda.\\n00:10:38\\nDaniel Takáč,moderátor\\n\\nProvide a structured, citation-backed verification of the claim: 'Nemohou být (prezidentské volby na Ukrajině, pozn. Demagog.cz). Ukrajinská ústava říká, že prezidentem je do doby, než bude zvolen nový prezident. A dokud nebudou volby, tak prezidentem je Zelenskyj.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 523.57 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Za nynějšího válečného stavu Ukrajina podle svého právního řádu prezidentské volby vyhlásit nesmí a ústava zároveň stanoví, že prezident vykonává funkci do převzetí úřadu nově zvolenou hlavou státu. Výrok Miloše Vystrčila proto hodnotíme jako pravdivý.</p>\n\n<p>Výrok Miloše Vystrčila zazněl v debatě o tom, zda je Volodymyr Zelenskyj po uplynutí pětiletého funkčního období stále legitimním prezidentem Ukrajiny a proč se v zemi nekonají nové prezidentské volby. Ukrajina čelí od února 2022 ruské agresi a její území je od té doby pod režimem válečného (vojenského) stavu, který Parlament opakovaně prodlužuje. Například v dubnu 2025 ukrajinská Nejvyšší rada prodloužila válečný stav až do srpna, přičemž agentura <a href=\"https://www.reuters.com/world/europe/ukraines-parliament-extends-martial-law-until-august-2025-04-16/\">Reuters</a> popisuje, že toto prodloužení „pozastavuje volební cyklus“ a činí konání voleb během války podle ukrajinské legislativy nemožným.</p>\n\n<p>Výrok obsahuje tři věcná tvrzení: (1) že za současných podmínek na Ukrajině nemohou proběhnout prezidentské volby, (2) že ukrajinská ústava stanoví, že prezident vykonává funkci, dokud se úřadu neujme nově zvolený prezident, a (3) že dokud nové volby neproběhnou, je prezidentem Ukrajiny Volodymyr Zelenskyj. V každém z těchto bodů jsme zjišťovali, co skutečně říká ukrajinské právo a jak je vykládáno v praxi.</p>\n\n<p>První dílčí tvrzení míří na právní možnost uspořádat prezidentské volby v době válečného stavu. Zákon Ukrajiny <a href=\"https://zakon.rada.gov.ua/laws/show/en/389-19/ed20210801/print\">„O právním režimu válečného stavu“</a> v článku 19 výslovně stanoví, že „v podmínkách válečného stavu se zakazuje (…) konání voleb prezidenta Ukrajiny, jakož i voleb do Nejvyšší rady Ukrajiny (…) a orgánů místní samosprávy“. Stejné znění cituje např. rozbor na portálu <a href=\"https://uristy.ua/ua/laws/pro-pravovij-rezim-voennogo-stanu/statta-19\">uristy.ua</a> či oficiální stanovisko Nejvyšší rady, podle něhož článek 19 zakazuje během válečného stavu konat prezidentské, parlamentní i místní volby. Na tento zákaz se odvolávají i ukrajinské úřady – tajemník Rady národní bezpečnosti a obrany Oleksij Danilov v oficiálním vystoupení uvedl, že na Ukrajině „nemohou být během válečného stavu konány žádné volby, ani parlamentní, ani prezidentské“ (<a href=\"https://www.rnbo.gov.ua/en/Diialnist/6342.html\">NSDC</a>). V únoru 2025 pak Nejvyšší rada přijala usnesení, v němž znovu potvrdila, že „národní volby není možné pořádat, dokud země zůstává pod válečným stavem“, a zdůraznila „potřebu kontinuity vedení“ v těchto podmínkách, jak shrnuje právnický portál <a href=\"https://www.jurist.org/news/2025/02/ukraine-parliament-affirms-no-elections-during-wartime-under-martial-law/\">JURIST</a>. Současně platí, že válečný stav byl opakovaně prodloužen a k jeho zrušení ani k přijetí zákona, který by výslovný zákaz voleb prolomil, dosud nedošlo; zástupce šéfa Ústřední volební komise Serhij Dubovyk v prosinci 2025 výslovně uvedl, že „za válečných podmínek nemohou být volby konány“ a že by to vyžadovalo změnu legislativy (<a href=\"https://english.nv.ua/nation/elections-in-ukraine-possible-only-if-changes-are-made-to-laws-50570447.html\">New Voice of Ukraine</a>). První dílčí tvrzení tedy odpovídá platnému právnímu stavu – prezidentské volby se za trvání válečného stavu podle ukrajinského zákona skutečně konat nesmí, pokud by nejprve nedošlo ke změně zákonů nebo ke zrušení válečného stavu.</p>\n\n<p>Druhé dílčí tvrzení se týká obsahu ukrajinské ústavy. Článek 108 Ústavy Ukrajiny v oficiálním překladu, který zveřejňuje např. <a href=\"https://www.wipo.int/wipolex/en/text/437942\">WIPO Lex</a> nebo Rada Evropy, uvádí: <i>„Prezident Ukrajiny vykonává své pravomoci až do převzetí úřadu nově zvoleným prezidentem Ukrajiny.“</i> Stejné znění cituje i řada odborných textů, například analýza o kontinuitě moci během válečného stavu na serveru <a href=\"https://n-ost.org/article/constitution-put-to-test-during-martial-law\">n-ost</a>. Ústava v jiných ustanoveních určuje, že řádné prezidentské volby se mají konat jednou za pět let a že nově zvolený prezident skládá slib nejpozději do 30 dnů po oficiálním vyhlášení výsledků (články 103 a 104 podle <a href=\"https://rm.coe.int/constitution-of-ukraine/168071f58b%26lang%3Den\">textu ústavy</a>). Výrok Miloše Vystrčila tedy přesně popisuje, co ústava k délce výkonu funkce prezidenta říká: setrvání v úřadu se váže na okamžik převzetí funkce nově zvolenou hlavou státu, nikoli na pevně stanovené kalendářní datum. Druhé dílčí tvrzení proto hodnotíme jako fakticky správné.</p>\n\n<p>Třetí dílčí tvrzení spojuje předchozí dva body do závěru, že dokud neproběhnou nové prezidentské volby, je prezidentem Ukrajiny Volodymyr Zelenskyj. Poslední prezidentské volby se na Ukrajině konaly na jaře 2019; Zelenskyj zvítězil v dubnovém druhém kole a po složení přísahy se ujal funkce. Podle ústavy měla řádná volba nástupce proběhnout na jaře 2024, nicméně v důsledku ruské invaze byl v únoru 2022 vyhlášen válečný stav, který – jak uvádí např. rozbor časopisu <a href=\"https://n-ost.org/article/constitution-put-to-test-during-martial-law\">n-ost</a> – aktivoval zákonný zákaz voleb podle článku 19 zákona o válečném stavu. Zmíněný článek zároveň výslovně zakazuje i ukončení mandátů nejvyšších orgánů moci během válečného stavu, což v praxi znamená, že prezident, Parlament a další úřady pokračují ve výkonu svých pravomocí, dokud není válečný stav zrušen a nejsou možné nové volby.</p>\n\n<p>Otázku legitimity prezidenta po uplynutí pěti let řeší jak ukrajinští právníci, tak politické instituce. Část odborníků upozorňuje, že ústava obsahuje explicitní ustanovení o prodloužení mandátu Parlamentu v době válečného stavu, ale v případě prezidenta mluví pouze o tom, že vykonává pravomoci „dokud se úřadu neujme nově zvolený prezident“, aniž by zvlášť upravovala situaci, kdy pětileté období uplyne během války. Stejně to shrnuje i citovaný článek na serveru <a href=\"https://n-ost.org/article/constitution-put-to-test-during-martial-law\">n-ost</a>, podle kterého ústava „postrádá jasné instrukce“ pro konec mandátu prezidenta za válečného stavu, ale článek 108 zajišťuje kontinuitu výkonu funkce. Ukrajinský veřejný ochránce práv Dmytro Lubinec v témže textu zdůrazňuje, že podle zásady kontinuity moci a zákazu ukončení mandátu státních orgánů během válečného stavu prezident „vykonává své povinnosti po dobu trvání válečného stavu, dokud nejsou možné volby“.</p>\n\n<p>Politická praxe tuto interpretaci potvrdila. Nejvyšší rada v únoru 2025 přijala usnesení, v němž podle shrnutí portálu <a href=\"https://www.jurist.org/news/2025/02/ukraine-parliament-affirms-no-elections-during-wartime-under-martial-law/\">JURIST</a> jednak prohlásila, že „národní volby nemohou proběhnout, dokud země zůstává pod válečným stavem“, a jednak výslovně „prodloužila mandát prezidenta Zelenského do doby, než bude válečný stav zrušen“. V témže usnesení poslanci zdůraznili, že Zelenskyj byl zvolen ve svobodných a mezinárodně uznaných volbách a že „podle ústavy zůstává legitimním prezidentem, dokud není zvolen nový prezident“. Stejný závěr o tom, že „v souladu s ukrajinskou legislativou jsou volby během válečného stavu nemožné“ a že prezident proto pokračuje ve výkonu funkce, opakuje i výše citovaná agentura <a href=\"https://www.reuters.com/world/europe/ukraines-parliament-extends-martial-law-until-august-2025-04-16/\">Reuters</a> nebo vysvětlující články například v deníku <a href=\"https://www.theguardian.com/world/2025/feb/20/ukraine-elections-start-of-war-volodymyr-zelenskyy\">The Guardian</a>. Zpochybňování Zelenského legitimity ze strany Ruska či některých zahraničních politiků je hodnotovým a politickým soudem, nikoli výkladem ukrajinského práva; tento typ tvrzení je tedy povahy názorové, nikoli faktické, a v tomto textu jej neověřujeme.</p>\n\n<p>Z výše uvedeného plyne, že podle platného ukrajinského zákona o válečném stavu se za trvání tohoto režimu prezidentské volby skutečně konat nesmí, pokud by nejprve nedošlo k legislativním změnám. Zároveň ústava výslovně stanoví, že prezident vykonává své pravomoci do chvíle, kdy se úřadu ujme nově zvolený prezident, a politická praxe i oficiální usnesení Nejvyšší rady vykládají tato ustanovení tak, že Volodymyr Zelenskyj zůstává prezidentem Ukrajiny i po uplynutí standardního pětiletého období, dokud nebude zvolen a inaugurován jeho nástupce.</p>\n\n<p>První, druhé i třetí dílčí tvrzení Miloše Vystrčila proto odpovídají stavu ukrajinského práva i jeho praktickému výkladu. Celkový výrok tak hodnotíme jako <b>pravda</b>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0ffb58f085d6620200695e526562b4819e954b6595e39517a1",
+    "created_at": 1767789157.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0ffb58f085d6620200695e52714464819ea601d2037f628d07",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e528dc544819e9e62ece1da9ece2a",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e528edd54819eb6a85cf3e5273c7e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e529064f8819ebabc661eaca2e301",
+        "action": {
+          "query": "Constitution of Ukraine Article 103 president five-year term elections last Sunday of March",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e52928f30819e95db997cfa337c4a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e52937a38819ea78867950be99372",
+        "action": {
+          "query": "\"Law of Ukraine\" \"On the Legal Regime of Martial Law\" Article 19 elections of the President of Ukraine",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e52969d0c819eb851fded28392d87",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e5296c464819e92291480d66cb345",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e5297d6cc819e8fddf7e71f9179b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e5298083c819e91ba3c9ba4c136a4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e5298cfb4819eb5f6051647efeff4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e529948ac819e82860367f89e8696",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e529aed74819e9c0802242a2482a9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e529b25c0819ea4f26ee3d81a2597",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Стаття 19"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e529d73a4819ead1b389072efd586",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e52a60a60819ebc10bff648197d56",
+        "action": {
+          "query": "\"Президент України здійснює свої повноваження до вступу на пост новообраного Президента України\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e52a96d74819ebf40d8c80041826a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e52b7577c819eae4af7c55ead0785",
+        "action": {
+          "query": "site:zakon.rada.gov.ua \"Конституція України\" Президент України здійснює свої повноваження до вступу на пост новообраного Президента України",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e52bad838819eac3c871b86f4f793",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e52bc2a3c819e88bf583f8467ab41",
+        "action": {
+          "query": "Volodymyr Zelenskyy inauguration 20 May 2019 president of Ukraine took office",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e52c56ed8819e951e740f2944ff2c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e52d0f618819eb1c72cc513fcc477",
+        "action": {
+          "query": "\"Official website of the President of Ukraine\" December 2025 Zelenskyy",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e52d4470c819e9cd03a87767c8c8a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e52d9bc44819e9de6c11d6913faf9",
+        "action": {
+          "query": "\"У разі закінчення строку повноважень Верховної Ради України під час дії воєнного чи надзвичайного стану\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e52ddcf34819ea7a9038070f38129",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e52e55db8819e88a0149d7a82e30b",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "У разі закінчення строку повноважень Президента України під час дії воєнного стану"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e52e80ccc819e866c28f9d30051c6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e530b514c819e94f67532f0e0cbec",
+        "action": {
+          "query": "\"Про введення воєнного стану в Україні\" 24 лютого 2022 року указ Президента України 64/2022",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e53120c5c819e8cc4fc2e087c9a33",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e53132e70819ebc31f5a9685eb7c8",
+        "action": {
+          "query": "\"легітимного Президента України Володимира Зеленського\" постанова Верховної Ради вибори під час воєнного стану не проводяться",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e53174188819e9e897a52e94f5228",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e5317c0b0819e975696b756986d27",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e53195874819ebedfb633d8bbd8b3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e531a5a90819e997a0f4ca682e937",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e531e86e4819e9b452ccc5a430168",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e5320a044819e9e56dbc829c3c16b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e5322022c819e9326eff24ae0a522",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e53226800819e906472d960df6def",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Президент України"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e53276b4c819ea6b3e9835f2a07e7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e5327d0a8819eb0487812a6d126ee",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Володимир Зеленський"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e532f9b20819ea4bd7cdc59da01a1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e533529f4819e8828c9164270fa8c",
+        "action": {
+          "query": "\"повноваження Президента України не можуть бути припинені\" постанова Верховної Ради України",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e534109e8819ebd625e49ea26f033",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e5379af8c819eaef176a2f831b48f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e537bd4f8819e9619281bfe25c507",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e537cbb68819e8d93c8269a41ef34",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e537f32d4819eb3fa77cfd8038276",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e53808ddc819e807ff3634fcb3cff",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e538337f8819ea600f496111310aa",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e53845330819e8f23a3d0204143ae",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e53883c44819e949b5e636026a3e9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e5388d260819e844e59544a60997f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e538bbf0c819ebf97983eb2b217f6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e538ee22c819e9b74c87a6a49ef31",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "martial law"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e53947d38819ea58f8fb112b3c16b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ffb58f085d6620200695e5397e06c819e8b6f5ff793327619",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ffb58f085d6620200695e53a14b54819eb28931a1be9c1b8b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0ffb58f085d6620200695e5417c654819ea3df73e6511668ea",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1440,
+                "start_index": 1358,
+                "title": "Про правовий режим воєнного... | від 12.05.2015 № 389-VIII (Текст для друку)",
+                "type": "url_citation",
+                "url": "https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print"
+              },
+              {
+                "end_index": 1756,
+                "start_index": 1669,
+                "title": "Про правовий режим воєнного... | від 12.05.2015 № 389-VIII",
+                "type": "url_citation",
+                "url": "https://zakon.rada.gov.ua/go/389-19/ed20240727?utm_source=openai"
+              },
+              {
+                "end_index": 1996,
+                "start_index": 1912,
+                "title": "Про введення воєнного стану ... | від 24.02.2022 № 64/2022",
+                "type": "url_citation",
+                "url": "https://zakon.rada.gov.ua/laws/show/64/2022?utm_source=openai"
+              },
+              {
+                "end_index": 2250,
+                "start_index": 2158,
+                "title": "УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №469/2024 — Офіційне інтернет-представництво Президента України",
+                "type": "url_citation",
+                "url": "https://www.president.gov.ua/documents/4692024-51605?utm_source=openai"
+              },
+              {
+                "end_index": 2622,
+                "start_index": 2486,
+                "title": "Ukraine's parliament extends martial law until August",
+                "type": "url_citation",
+                "url": "https://www.reuters.com/world/europe/ukraines-parliament-extends-martial-law-until-august-2025-04-16/?utm_source=openai"
+              },
+              {
+                "end_index": 2906,
+                "start_index": 2800,
+                "title": "Next Ukrainian presidential election",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Next_Ukrainian_presidential_election?utm_source=openai"
+              },
+              {
+                "end_index": 3495,
+                "start_index": 3414,
+                "title": "Oleksiy Danilov: No elections can be held in Ukraine during martial law - National Security and Defense Council of Ukraine",
+                "type": "url_citation",
+                "url": "https://www.rnbo.gov.ua/en/Diialnist/6342.html?utm_source=openai"
+              },
+              {
+                "end_index": 4141,
+                "start_index": 3990,
+                "title": "Зеленський легітимний чи ні? Повноваження президента. | Цензор.НЕТ",
+                "type": "url_citation",
+                "url": "https://censor.net/ua/news/3477124/tsvk_pro_povnovajennya_zelenskogo_pislya_20_travnya_mayut_buty_prodovjeni_dokument?utm_source=openai"
+              },
+              {
+                "end_index": 4542,
+                "start_index": 4459,
+                "title": "www.congress.gov",
+                "type": "url_citation",
+                "url": "https://www.congress.gov/crs_external_products/R/HTML/R46858.html"
+              },
+              {
+                "end_index": 4814,
+                "start_index": 4697,
+                "title": "Why hasn’t Ukraine held elections since the war began? | Ukraine | The Guardian",
+                "type": "url_citation",
+                "url": "https://www.theguardian.com/world/2025/feb/20/ukraine-elections-start-of-war-volodymyr-zelenskyy"
+              },
+              {
+                "end_index": 5124,
+                "start_index": 5049,
+                "title": "Ukraine hasn't held elections since Russia's full-scale invasion. Here's why | AP News",
+                "type": "url_citation",
+                "url": "https://apnews.com/article/f4f810d810ffc3cf4c81b241bbd76dac"
+              },
+              {
+                "end_index": 5885,
+                "start_index": 5787,
+                "title": "Не проводити вибори під час воєнного стану. Електронні петиції — Офіційне інтернет-представництво Президента України",
+                "type": "url_citation",
+                "url": "https://petition.president.gov.ua/petition/209780?utm_source=openai"
+              },
+              {
+                "end_index": 6215,
+                "start_index": 6129,
+                "title": "В Раді зареєстрували президентський законопроект щодо виборів під час воєнного стану | Українська правда",
+                "type": "url_citation",
+                "url": "https://www.pravda.com.ua/news/2018/12/3/7200057/?utm_source=openai"
+              },
+              {
+                "end_index": 6648,
+                "start_index": 6526,
+                "title": "After Trump criticism, Zelensky says he's ready to hold elections",
+                "type": "url_citation",
+                "url": "https://www.washingtonpost.com/world/2025/12/09/ukraine-election-zelensky-trump/?utm_source=openai"
+              },
+              {
+                "end_index": 7952,
+                "start_index": 7853,
+                "title": "CONSTITUTION OF UKRAINE",
+                "type": "url_citation",
+                "url": "https://rm.coe.int/constitution-of-ukraine/168071f58b%26lang%3Den?utm_source=openai"
+              },
+              {
+                "end_index": 8540,
+                "start_index": 8458,
+                "title": "Про правовий режим воєнного... | від 12.05.2015 № 389-VIII (Текст для друку)",
+                "type": "url_citation",
+                "url": "https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print"
+              },
+              {
+                "end_index": 9943,
+                "start_index": 9878,
+                "title": "Analysis of the Legitimacy of the Powers of the President of Ukraine Based on the Constitution of Ukraine",
+                "type": "url_citation",
+                "url": "https://hrhouse.us/march_1_2025?utm_source=openai"
+              },
+              {
+                "end_index": 10243,
+                "start_index": 10161,
+                "title": "Момент істини: Україна або Зеленський. Українці, вибір за вами - Останні та актуальні новини України та світу, новини дня онлайн - Україна Молода",
+                "type": "url_citation",
+                "url": "https://umoloda.kyiv.ua/number/0/180/181218?utm_source=openai"
+              },
+              {
+                "end_index": 10548,
+                "start_index": 10466,
+                "title": "Про правовий режим воєнного... | від 12.05.2015 № 389-VIII (Текст для друку)",
+                "type": "url_citation",
+                "url": "https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print"
+              },
+              {
+                "end_index": 10899,
+                "start_index": 10748,
+                "title": "Зеленський легітимний чи ні? Повноваження президента. | Цензор.НЕТ",
+                "type": "url_citation",
+                "url": "https://censor.net/ua/news/3477124/tsvk_pro_povnovajennya_zelenskogo_pislya_20_travnya_mayut_buty_prodovjeni_dokument?utm_source=openai"
+              },
+              {
+                "end_index": 11730,
+                "start_index": 11593,
+                "title": "Volodymyr Zelenskyy took the oath of office of the President of Ukraine — Official website of the President of Ukraine",
+                "type": "url_citation",
+                "url": "https://www.president.gov.ua/en/news/volodimir-zelenskij-sklav-prisyagu-prezidenta-ukrayini-55477?utm_source=openai"
+              },
+              {
+                "end_index": 11984,
+                "start_index": 11882,
+                "title": "Council of Europe - Venice Commission",
+                "type": "url_citation",
+                "url": "https://www.te.gob.mx/vota_elections/thesaurus/article/22787/5347/124?utm_source=openai"
+              },
+              {
+                "end_index": 12395,
+                "start_index": 12311,
+                "title": "Про введення воєнного стану ... | від 24.02.2022 № 64/2022",
+                "type": "url_citation",
+                "url": "https://zakon.rada.gov.ua/laws/show/64/2022?utm_source=openai"
+              },
+              {
+                "end_index": 12912,
+                "start_index": 12837,
+                "title": "Ukraine hasn't held elections since Russia's full-scale invasion. Here's why | AP News",
+                "type": "url_citation",
+                "url": "https://apnews.com/article/f4f810d810ffc3cf4c81b241bbd76dac"
+              },
+              {
+                "end_index": 13080,
+                "start_index": 12963,
+                "title": "Why hasn’t Ukraine held elections since the war began? | Ukraine | The Guardian",
+                "type": "url_citation",
+                "url": "https://www.theguardian.com/world/2025/feb/20/ukraine-elections-start-of-war-volodymyr-zelenskyy"
+              },
+              {
+                "end_index": 13338,
+                "start_index": 13258,
+                "title": "Розділ V. Президент України — Конституція України",
+                "type": "url_citation",
+                "url": "https://constitution.in.ua/chapters/5/?utm_source=openai"
+              },
+              {
+                "end_index": 13660,
+                "start_index": 13578,
+                "title": "Про правовий режим воєнного... | від 12.05.2015 № 389-VIII (Текст для друку)",
+                "type": "url_citation",
+                "url": "https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print"
+              },
+              {
+                "end_index": 14051,
+                "start_index": 13900,
+                "title": "Зеленський легітимний чи ні? Повноваження президента. | Цензор.НЕТ",
+                "type": "url_citation",
+                "url": "https://censor.net/ua/news/3477124/tsvk_pro_povnovajennya_zelenskogo_pislya_20_travnya_mayut_buty_prodovjeni_dokument?utm_source=openai"
+              },
+              {
+                "end_index": 14691,
+                "start_index": 14548,
+                "title": "Ukraine parliament says no elections during wartime under martial law - JURIST - News",
+                "type": "url_citation",
+                "url": "https://www.jurist.org/news/2025/02/ukraine-parliament-affirms-no-elections-during-wartime-under-martial-law/?utm_source=openai"
+              },
+              {
+                "end_index": 14976,
+                "start_index": 14901,
+                "title": "Ukraine hasn't held elections since Russia's full-scale invasion. Here's why | AP News",
+                "type": "url_citation",
+                "url": "https://apnews.com/article/f4f810d810ffc3cf4c81b241bbd76dac"
+              },
+              {
+                "end_index": 15354,
+                "start_index": 15283,
+                "title": "Official website of the President of Ukraine",
+                "type": "url_citation",
+                "url": "https://www.president.gov.ua/en?utm_source=openai"
+              },
+              {
+                "end_index": 15662,
+                "start_index": 15522,
+                "title": "Zelensky makes major changes to his gov't - taps popular Ukraine spy chief to run president's office",
+                "type": "url_citation",
+                "url": "https://nypost.com/2026/01/02/world-news/zelensky-taps-popular-ukraine-spy-chief-to-run-presidents-office/?utm_source=openai"
+              },
+              {
+                "end_index": 16088,
+                "start_index": 16023,
+                "title": "Analysis of the Legitimacy of the Powers of the President of Ukraine Based on the Constitution of Ukraine",
+                "type": "url_citation",
+                "url": "https://hrhouse.us/march_1_2025?utm_source=openai"
+              },
+              {
+                "end_index": 16508,
+                "start_index": 16365,
+                "title": "Ukraine parliament says no elections during wartime under martial law - JURIST - News",
+                "type": "url_citation",
+                "url": "https://www.jurist.org/news/2025/02/ukraine-parliament-affirms-no-elections-during-wartime-under-martial-law/?utm_source=openai"
+              },
+              {
+                "end_index": 17147,
+                "start_index": 17069,
+                "title": "КОНСТИТУЦІЯ УКРАЇНИ – Освіта.UA",
+                "type": "url_citation",
+                "url": "https://ru.osvita.ua/legislation/law/2227/?utm_source=openai"
+              },
+              {
+                "end_index": 17571,
+                "start_index": 17489,
+                "title": "Про правовий режим воєнного... | від 12.05.2015 № 389-VIII (Текст для друку)",
+                "type": "url_citation",
+                "url": "https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print"
+              },
+              {
+                "end_index": 17750,
+                "start_index": 17666,
+                "title": "Про введення воєнного стану ... | від 24.02.2022 № 64/2022",
+                "type": "url_citation",
+                "url": "https://zakon.rada.gov.ua/laws/show/64/2022?utm_source=openai"
+              },
+              {
+                "end_index": 18166,
+                "start_index": 18067,
+                "title": "CONSTITUTION OF UKRAINE",
+                "type": "url_citation",
+                "url": "https://rm.coe.int/constitution-of-ukraine/168071f58b%26lang%3Den?utm_source=openai"
+              },
+              {
+                "end_index": 18435,
+                "start_index": 18353,
+                "title": "Про правовий режим воєнного... | від 12.05.2015 № 389-VIII (Текст для друку)",
+                "type": "url_citation",
+                "url": "https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print"
+              },
+              {
+                "end_index": 18832,
+                "start_index": 18695,
+                "title": "Volodymyr Zelenskyy took the oath of office of the President of Ukraine — Official website of the President of Ukraine",
+                "type": "url_citation",
+                "url": "https://www.president.gov.ua/en/news/volodimir-zelenskij-sklav-prisyagu-prezidenta-ukrayini-55477?utm_source=openai"
+              },
+              {
+                "end_index": 19180,
+                "start_index": 19102,
+                "title": "КОНСТИТУЦІЯ УКРАЇНИ – Освіта.UA",
+                "type": "url_citation",
+                "url": "https://ru.osvita.ua/legislation/law/2227/?utm_source=openai"
+              },
+              {
+                "end_index": 19385,
+                "start_index": 19314,
+                "title": "Official website of the President of Ukraine",
+                "type": "url_citation",
+                "url": "https://www.president.gov.ua/en?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Kontext a rozklad výroku\n\nOvěřovaný výrok Miloše Vystrčila (5. 1. 2026):\n\n> „Nemohou být (prezidentské volby na Ukrajině). Ukrajinská ústava říká, že prezidentem je do doby, než bude zvolen nový prezident. A dokud nebudou volby, tak prezidentem je Zelenskyj.“\n\nRozložení na dílčí tvrzení:\n\n1. **Tvrzení 1:** Za současné situace **nemohou proběhnout prezidentské volby na Ukrajině** (tj. jsou právně znemožněny).\n2. **Tvrzení 2:** **Ústava Ukrajiny stanoví, že prezident vykonává funkci až do doby, než je zvolen / ujme se úřadu nový prezident.**\n3. **Tvrzení 3:** **Dokud neproběhnou prezidentské volby, je prezidentem Ukrajiny Volodymyr Zelenskyj** (tj. jeho mandát pokračuje i po uplynutí standardních 5 let).\n\nNíže jsou shrnuty důkazy pro každé dílčí tvrzení.\n\n---\n\n## 2. Tvrzení 1 – „Nemohou být [prezidentské volby na Ukrajině]“\n\n### 2.1 Právní úprava: zákaz voleb během válečného stavu\n\nZákladní právní norma je **Zákon Ukrajiny „O právním režimu válečného stavu“**.\n\n- **Článek 19 odst. 1** tohoto zákona („Гарантії законності в умовах воєнного стану“) výslovně uvádí:\n\n> «В умовах воєнного стану забороняються:  \n> …  \n> **проведення виборів Президента України, а також виборів до Верховної Ради України, Верховної Ради Автономної Республіки Крим і органів місцевого самоврядування;**  \n> проведення всеукраїнських та місцевих референдумів; …» ([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n\nTj. **během válečného stavu je zákonem přímo zakázáno konat prezidentské volby**, stejně jako parlamentní a místní.\n\nOficiální shrnutí téhož zákona (starší verze na webu Верховної Ради) tuto část cituje v téměř shodném znění.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/go/389-19/ed20240727?utm_source=openai))\n\n### 2.2 Trvání válečného stavu\n\n- **Prezidentský dekret č. 64/2022 „O zavedení válečného stavu v Ukrajině“** z 24. 2. 2022 zavedl celostátní válečný stav.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/64/2022?utm_source=openai))  \n- Tento dekret byl **opakovaně prodlužován** vždy o 90 dní řadou dalších dekretů a zákonů (např. dekret č. 469/2024, prodloužení od 12. 8. 2024 o 90 dní atd.).([president.gov.ua](https://www.president.gov.ua/documents/4692024-51605?utm_source=openai))  \n- Agentura **Reuters** roku 2025 informuje, že parlament prodloužil válečný stav do srpna 2025 a dodává, že toto prodloužení „zastavuje volební proces“ a že **„podle ukrajinského práva nemohou volby během válečného stavu probíhat“**.([reuters.com](https://www.reuters.com/world/europe/ukraines-parliament-extends-martial-law-until-august-2025-04-16/?utm_source=openai))  \n- Shrnutí „Next Ukrainian presidential election“ uvádí, že válečný stav je od února 2022 prodlužován v 90denních intervalech a **k roku 2025 byl prodloužen až do 3. 2. 2026**.([en.wikipedia.org](https://en.wikipedia.org/wiki/Next_Ukrainian_presidential_election?utm_source=openai))  \n\nZ toho plyne, že **k 5. 1. 2026 válečný stav stále trvá**, takže zákaz z čl. 19 zákona o válečném stavu je účinný.\n\n### 2.3 Potvrzení ze strany ukrajinských institucí a mezinárodních analýz\n\n- **Tajemník Rady národní bezpečnosti a obrany (RNBO)** Oleksij Danilov v květnu 2023 prohlásil:\n\n> «**Ніяких виборів в Україні – ні парламентських, ні президентських – під час воєнного стану бути не може.** … У нас є Конституція і закони, за якими ми живемо. Ніяких виборів під час воєнного стану бути не може.» ([rnbo.gov.ua](https://www.rnbo.gov.ua/en/Diialnist/6342.html?utm_source=openai))  \n\n- **Ústřední volební komise (ЦВК)** v oficiální odpovědi (citované např. servery Censor.net a Glavkom) vysvětluje, že zákon o válečném stavu:\n\n> „…визначено, що у період дії воєнного стану **не можуть бути припинені повноваження Президента України** (частина перша статті 10), а **в разі закінчення строку повноважень Президента України під час дії воєнного стану його повноваження продовжуються до вступу на пост новообраного Президента України, обраного після скасування воєнного стану**“ ([censor.net](https://censor.net/ua/news/3477124/tsvk_pro_povnovajennya_zelenskogo_pislya_20_travnya_mayut_buty_prodovjeni_dokument?utm_source=openai))  \n\n– a současně z toho vyvozuje, že **volby prezidenta se za platného válečného stavu nekonají**.\n\n- **Congressional Research Service (USA)** v přehledu evropských voleb 2025 vysvětluje, že Ukrajina není v tabulce uvedena, protože:\n\n> „Ukraine is not included, as **elections cannot occur while under martial law**.“ ([congress.gov](https://www.congress.gov/crs_external_products/R/HTML/R46858.html))  \n\n- **The Guardian (únor 2025)** píše:\n\n> „Under Ukraine’s constitution, **it is not legal to hold national elections during a period of martial law**.“ ([theguardian.com](https://www.theguardian.com/world/2025/feb/20/ukraine-elections-start-of-war-volodymyr-zelenskyy))  \n\n- **AP News (2025)** shrnuje:\n\n> „Martial law is established in the Ukrainian constitution and **another law states elections can’t be held when martial law is in place, which has been the case since the February 2022 invasion.**“ ([apnews.com](https://apnews.com/article/f4f810d810ffc3cf4c81b241bbd76dac))  \n\n### 2.4 Možné nuance a protiargumenty\n\n- **Jde o zákon, nikoli přímo ústavní článek.** Samotný **zákon o válečném stavu je běžným zákonem**, který **lze změnit hlasováním parlamentu**. Na oficiálním petičním portálu prezidenta je výslovně uvedeno:\n\n> „Вибори під час дії воєнного стану прямо заборонені ч.1 ст.19 Закону України „Про правовий режим воєнного стану“… Закон може бути змінений голосуванням Верховної Ради України. **Конституція України прямо говорить лише про неможливість проведення парламентських виборів в умовах воєнного стану. Теоретично, зміни до законодавства можуть розблокувати президентські та місцеві вибори під час воєнного стану.**“ ([petition.president.gov.ua](https://petition.president.gov.ua/petition/209780?utm_source=openai))  \n\n- V roce 2018 byla u dřívější verze tohoto zákona přijata **dočasná výjimka**, aby se mohly uskutečnit již vyhlášené místní volby v některých oblastech navzdory krátkému válečnému stavu – to ukazuje, že **parlament si umí vymezit výjimku**.([pravda.com.ua](https://www.pravda.com.ua/news/2018/12/3/7200057/?utm_source=openai))  \n\n- V letech 2024–25 se uvnitř Ukrajiny objevily **diskuse o případných změnách**, aby bylo možné konat volby i při trvajícím válečném stavu, a prezident Zelenskyj v některých rozhovorech prohlásil, že by byl připraven volby umožnit, pokud by spojenci zajistili bezpečnost a pokud by se změnilo zákonodárství.([washingtonpost.com](https://www.washingtonpost.com/world/2025/12/09/ukraine-election-zelensky-trump/?utm_source=openai))  \n\nTyto skutečnosti ale nemění nic na tom, že **k 5. 1. 2026 zákon č. 389‑VIII v platném znění volby za válečného stavu zakazuje** a nebyla přijata žádná změna, která by tento zákaz pro prezidentské volby zrušila.\n\n### 2.5 Závěr k tvrzení 1\n\nZ právního hlediska (de lege lata) je výrok, že **„prezidentské volby na Ukrajině nemohou být“**, pravdivý, pokud je chápán tak, že **nemohou být konány v souladu s platným ukrajinským právem po dobu trvání válečného stavu**.  \nJe vhodné doplnit, že jde o **podmíněnou právní nemožnost** – parlament by ji teoreticky mohl odstranit změnou zákona či ukončením válečného stavu.\n\n---\n\n## 3. Tvrzení 2 – „Ústava říká, že prezidentem je do doby, než bude zvolen nový prezident“\n\n### 3.1 Znění příslušných ustanovení\n\n#### Ústava Ukrajiny, článek 108\n\nČl. 108 Ústavy (oficiální text, např. prezident.gov.ua, soudní weby) stanoví:\n\n> «**Стаття 108.** Президент України **виконує свої повноваження до вступу на пост новообраного Президента України.**  \n> Повноваження Президента України припиняються достроково у разі:  \n> 1) відставки;  \n> 2) неспроможності виконувати свої повноваження за станом здоров’я;  \n> 3) усунення з поста в порядку імпічменту;  \n> 4) смерті.» ([rm.coe.int](https://rm.coe.int/constitution-of-ukraine/168071f58b%26lang%3Den?utm_source=openai))  \n\nTj. prezident **vykonává své pravomoci až do okamžiku, kdy se úřadu ujme nově zvolený prezident**, a jen ve čtyřech vyjmenovaných případech může skončit dříve.\n\n#### Zákon o válečném stavu – článek 11 odst. 3\n\nTento zákon doplňuje ústavu o zvláštní úpravu pro dobu válečného stavu:\n\n> «**3. У разі закінчення строку повноважень Президента України під час дії воєнного стану його повноваження продовжуються до вступу на пост новообраного Президента України, обраного після скасування воєнного стану.**» ([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n\nTedy pokud prezidentovi uplyne běžný pětiletý mandát **během válečného stavu**, jeho pravomoci **pokračují až do nástupu nového prezidenta**, který bude zvolen **až po zrušení válečného stavu**.\n\n### 3.2 Srovnání s parafrází Miloše Vystrčila\n\nVystrčilova formulace v češtině zní:\n\n> „Ústava říká, že prezidentem je do doby, než bude zvolen nový prezident.“\n\nVe srovnání s originálem:\n\n- Ústava mluví o tom, že prezident vykonává pravomoci **„do vstupu do úřadu nově zvoleného prezidenta“** – tj. do jeho **ujmutí se funkce**, nikoli jen samotného aktu zvolení. V praxi však volby a inaugurace dělí max. 30 dní, takže **praktický rozdíl je zanedbatelný**.\n- V kombinaci s čl. 11 odst. 3 zákona o válečném stavu je smysl jasný: **mandát nekončí uplynutím 5 let, ale až převzetím úřadu nově zvoleným prezidentem; v době válečného stavu se toto převzetí odkládá, protože volby jsou zakázány.**\n\n### 3.3 Sporné výklady\n\nExistují **menšinové právní názory**, podle nichž by se čl. 108 měl vykládat užší:\n\n- Analýza „Analysis of the Legitimacy of the Powers of the President of Ukraine Based on the Constitution of Ukraine“ tvrdí, že formulace „до вступу на пост новообраного Президента“ má smysl **jen v kontextu, kdy už volby proběhly a existuje „nově zvolený“ prezident**, tedy jako technické překlenutí období mezi volbami a inaugurací. ([hrhouse.us](https://hrhouse.us/march_1_2025?utm_source=openai))  \n- Podobně někteří komentátoři (např. v článku „Момент істини: Україна або Зеленський“ v deníku Ukrajina Moloda) namítají, že **ústavní pětiletý limit** (čl. 103) by neměl být obcházen dlouhodobým nevyhlášením voleb.([umoloda.kyiv.ua](https://umoloda.kyiv.ua/number/0/180/181218?utm_source=openai))  \n\nProti tomu však stojí:\n\n- **Explicitní zákonná úprava v čl. 11 odst. 3** zákona o válečném stavu, přijatá v roce 2015 a novelizovaná v roce 2022, která výslovně stanoví prodloužení prezidentských pravomocí v době války.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n- **Praxe orgánů státu** (parlament, Ústřední volební komise, RNBO), které právě takto čl. 108 + zákon o válečném stavu vykládají a opakovaně z nich dovozují legitimitu Zelenského setrvání v úřadu.([censor.net](https://censor.net/ua/news/3477124/tsvk_pro_povnovajennya_zelenskogo_pislya_20_travnya_mayut_buty_prodovjeni_dokument?utm_source=openai))  \n\n### 3.4 Závěr k tvrzení 2\n\nObsah výroku „Ústava říká, že prezidentem je do doby, než bude zvolen nový prezident“ **odpovídá podstatě čl. 108 ústavy**, byť nejde o doslovnou citaci a přesnější by bylo „do doby, než se nový prezident ujme úřadu“. V kombinaci se zákonem o válečném stavu (čl. 11 odst. 3) je to přesné vystižení současného ústavně‑právního mechanismu kontinuity funkce prezidenta.\n\n---\n\n## 4. Tvrzení 3 – „Dokud nebudou volby, tak prezidentem je Zelenskyj“\n\n### 4.1 Volodymyr Zelenskyj byl řádně zvolen a inaugurován v roce 2019\n\n- Zelenskyj byl zvolen v prezidentských volbách 2019 (druhý kolo 21. 4. 2019) a **20. 5. 2019 složil přísahu** a ujal se úřadu prezidenta Ukrajiny.([president.gov.ua](https://www.president.gov.ua/en/news/volodimir-zelenskij-sklav-prisyagu-prezidenta-ukrayini-55477?utm_source=openai))  \n- Podle čl. 103 ústavy je **funkční období prezidenta 5 let** a řádné prezidentské volby se konají „poslední neděli března pátého roku jeho mandátu“.([te.gob.mx](https://www.te.gob.mx/vota_elections/thesaurus/article/22787/5347/124?utm_source=openai))  \n\nNormálně by tedy Zelenskyj čelil nové volbě na jaře 2024 a jeho běžný pětiletý mandát by skončil kolem května 2024.\n\n### 4.2 Proč volby v roce 2024 neproběhly\n\n- **Válečný stav od 24. 2. 2022** (dekret 64/2022 a jeho prodlužování) znemožňuje podle čl. 19 zákona o válečném stavu konání prezidentských i parlamentních voleb.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/64/2022?utm_source=openai))  \n- AP shrnuje:\n\n> „Putin’s invasion of Ukraine triggered martial law in the country, which effectively postponed presidential and parliamentary elections… Ukraine’s natural election period for its parliament was slated for October 2023 and Zelenskyy’s five‑year term was up in May 2024. **Martial law… and another law states elections can’t be held when martial law is in place**, which has been the case since the February 2022 invasion.“ ([apnews.com](https://apnews.com/article/f4f810d810ffc3cf4c81b241bbd76dac))  \n\n- Totéž potvrzují Guardian, CRS a další zdroje.([theguardian.com](https://www.theguardian.com/world/2025/feb/20/ukraine-elections-start-of-war-volodymyr-zelenskyy))  \n\n### 4.3 Právní důsledky pro mandát Zelenského\n\nJak bylo uvedeno výše:\n\n- **Ústava, čl. 108:** prezident vykonává své pravomoci „do vstupu do úřadu nově zvoleného prezidenta“.([constitution.in.ua](https://constitution.in.ua/chapters/5/?utm_source=openai))  \n- **Zákon o válečném stavu, čl. 11 odst. 3:** pokud prezidentský mandát skončí za trvání válečného stavu, „**його повноваження продовжуються до вступу на пост новообраного Президента України, обраного після скасування воєнного стану.**“ ([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n- Ústřední volební komise tyto normy výslovně aplikuje na situaci po 20. 5. 2024 a konstatuje, že **pravomoci prezidenta se v takovém případě prodlužují**, dokud nebude zvolen a úřadu se neujme nový prezident po skončení válečného stavu.([censor.net](https://censor.net/ua/news/3477124/tsvk_pro_povnovajennya_zelenskogo_pislya_20_travnya_mayut_buty_prodovjeni_dokument?utm_source=openai))  \n\n### 4.4 Postoj parlamentu a mezinárodního společenství\n\n- **Verchovna rada (parlament)** v únoru 2025 přijala rezoluci, v níž:\n  - potvrzuje, že Zelenskyj byl zvolen ve svobodných a demokratických volbách a zůstává **legitimním prezidentem Ukrajiny**;\n  - prohlašuje, že **národní volby se nebudou konat do zrušení válečného stavu a dosažení „komplexního, spravedlivého a udržitelného míru“**;\n  - odkazuje na ústavu, podle níž musí prezident zůstat ve funkci až do zvolení a nástupu nástupce.([jurist.org](https://www.jurist.org/news/2025/02/ukraine-parliament-affirms-no-elections-during-wartime-under-martial-law/?utm_source=openai))  \n\n- AP shrnuje:\n\n> „To back the president, **Ukraine’s parliament passed a resolution affirming the legitimacy of Zelenskyy as president and reiterated elections are not possible until after the war ends.**“ ([apnews.com](https://apnews.com/article/f4f810d810ffc3cf4c81b241bbd76dac))  \n\n### 4.5 Faktický stav k začátku roku 2026\n\n- **Oficiální web prezidenta Ukrajiny** v prosinci 2025 a v lednu 2026 nadále uvádí „Президент України Володимир Зеленський / President of Ukraine Volodymyr Zelenskyy“ a publikuje jeho novoroční projev i první dekret roku 2026 jako akty úřadujícího prezidenta.([president.gov.ua](https://www.president.gov.ua/en?utm_source=openai))  \n- Mezinárodní média (AP, Financial Times aj.) v lednu 2026 Zelenského opakovaně označují jako „ukrajinského prezidenta“ při zprávách o změnách v jeho administrativě.([nypost.com](https://nypost.com/2026/01/02/world-news/zelensky-taps-popular-ukraine-spy-chief-to-run-presidents-office/?utm_source=openai))  \n\n### 4.6 Kritické názory\n\n- Někteří právníci a komentátoři (viz např. HR House či článek v Ukrajina Moloda) tvrdí, že setrvání Zelenského ve funkci po květnu 2024 je problematické, protože ústava pevně stanoví pětiletý mandát a jasný časový rámec pro volby, a že **ústavní prodloužení by mělo být výslovně zakotveno v ústavě, nikoli jen v obyčejném zákoně**.([hrhouse.us](https://hrhouse.us/march_1_2025?utm_source=openai))  \n\n- Tyto názory však v praxi **nesharedly** ukrajinské státní instituce ani většina mezinárodních partnerů, kteří nadále uznávají Zelenského jako legitimního prezidenta na základě čl. 108 ústavy a čl. 11 zákona o válečném stavu a na základě výše zmíněné parlamentní rezoluce.([jurist.org](https://www.jurist.org/news/2025/02/ukraine-parliament-affirms-no-elections-during-wartime-under-martial-law/?utm_source=openai))  \n\n### 4.7 Závěr k tvrzení 3\n\n- **Právně:** Podle kombinace čl. 108 ústavy a čl. 11 odst. 3 zákona o válečném stavu **Zelenskyj vykonává prezidentské pravomoci až do nástupu nového prezidenta zvoleného po zrušení válečného stavu**. Dokud se takové volby nekonají, zůstává prezidentem.\n- **Fakticky:** Jak oficiální ukrajinské zdroje, tak zahraniční média jej k přelomu let 2025/2026 nadále označují jako prezidenta. Neexistuje žádný důkaz, že by k 5. 1. 2026 došlo k ukončení jeho mandátu jiným ze čtyř ústavních způsobů (rezignace, zdraví, impeachment, smrt).([ru.osvita.ua](https://ru.osvita.ua/legislation/law/2227/?utm_source=openai))  \n\nVýrok „dokud nebudou volby, tak prezidentem je Zelenskyj“ proto **odpovídá současnému ukrajinskému právu i reálné praxi**.\n\n---\n\n## 5. Celkové shrnutí pro fact‑checkera\n\n1. **„Nemohou být (prezidentské volby na Ukrajině)“** –  \n   - Čl. 19 zákona o válečném stavu **výslovně zakazuje konání prezidentských voleb** po dobu válečného stavu.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n   - Válečný stav platí nepřetržitě od 24. 2. 2022 a byl prodloužen minimálně do února 2026.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/64/2022?utm_source=openai))  \n   → Tvrzení je v právním smyslu správné, s poznámkou, že jde o **současný stav práva**, který může parlament změnit.\n\n2. **„Ústava říká, že prezidentem je do doby, než bude zvolen nový prezident“** –  \n   - **Čl. 108 Ústavy** stanoví, že prezident vykonává pravomoci „do vstupu na úřad nově zvoleného prezidenta“.([rm.coe.int](https://rm.coe.int/constitution-of-ukraine/168071f58b%26lang%3Den?utm_source=openai))  \n   - **Čl. 11 odst. 3 zákona o válečném stavu** navíc řeší situaci uplynutí mandátu během války a prodlužuje pravomoci do nástupu nově zvoleného prezidenta po skončení válečného stavu.([zakon.rada.gov.ua](https://zakon.rada.gov.ua/laws/show/389-19/ed20240727/print))  \n   → Vystrčil parafrázuje mírně nepřesně (nezmiňuje „ujmutí se úřadu“), ale věcně správně.\n\n3. **„Dokud nebudou volby, tak prezidentem je Zelenskyj“** –  \n   - Zelenskyj byl řádně zvolen v roce 2019 a jeho standardní pětiletý mandát by končil v květnu 2024.([president.gov.ua](https://www.president.gov.ua/en/news/volodimir-zelenskij-sklav-prisyagu-prezidenta-ukrayini-55477?utm_source=openai))  \n   - Volby roku 2024 se kvůli válečnému stavu a zákazu voleb nekonaly a **ústavně‑zákonný rámec (čl. 108 ústavy + čl. 11 odst. 3 zákona o válečném stavu) výslovně prodlužuje výkon jeho pravomocí až do nástupu nového prezidenta zvoleného po skončení válečného stavu**.([ru.osvita.ua](https://ru.osvita.ua/legislation/law/2227/?utm_source=openai))  \n   - Oficiální web prezidenta i mezinárodní média jej k začátku roku 2026 jednoznačně uvádějí jako úřadujícího prezidenta Ukrajiny.([president.gov.ua](https://www.president.gov.ua/en?utm_source=openai))  \n\n**Shrnutí:** Všechny tři dílčí části výroku jsou v hlavní rovině **v souladu s platnou ukrajinskou ústavní a zákonnou úpravou i s praxí ukrajinských institucí**, přičemž je vhodné zdůraznit dvě nuance:\n\n- zákaz voleb plyne primárně ze **zákona o válečném stavu**, nikoli z explicitního ústavního článku, a **teoreticky jej lze změnit**;  \n- formulace o tom, co „říká ústava“, je **parafrází** článku 108 a neřeší jemný rozdíl mezi „zvolením“ a „ujmutím se úřadu“, který ale v kontextu výroku nemění jeho věcný význam.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 112212,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 28057,
+      "output_tokens_details": {
+        "reasoning_tokens": 21670
+      },
+      "total_tokens": 140269
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1767789678,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

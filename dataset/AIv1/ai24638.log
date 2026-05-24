@@ -1,0 +1,475 @@
+{
+  "claim_id": "24638",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24638.md",
+  "fact_check": "# Fact Check for Statement ID 24638\n\n## Statement\nJsme snížili DPH (u energií, pozn. Demagog.cz) na nulu.\n\n---\n## AI Fact Check\n### 1. Identifikace tvrzení a kontext\n\nSporné tvrzení Karla Havlíčka (v debatě o výši cen energií v letech 2021–2022):\n\n> „Jsme snížili DPH (u energií) na nulu.“\n\nZ kontextu je zřejmé, že mluví o období závěru vlády Andreje Babiše II a o opatření, kterým vláda reagovala na skokový růst cen energií na podzim 2021.\n\n---\n\n### 2. Dílčí podtvrzení, která je třeba ověřit\n\n1. **Kdo je „my“** – zda šlo skutečně o vládu Andreje Babiše II, ve které byl Havlíček ministrem průmyslu a obchodu.  \n2. **Zda bylo DPH na „energie“ skutečně sníženo na 0 %** – alespoň fakticky pro konečné odběratele.  \n3. **Na jaké komodity se opatření vztahovalo (jak široký je pojem „energie“)** – elektřina, plyn, teplo atd.  \n4. **Na jak dlouhou dobu bylo DPH „na nule“** – trvale, nebo dočasně (a kdy přesně).\n\n---\n\n### 3. Opatření vlády v roce 2021 – prominutí DPH na elektřinu a plyn\n\n#### 3.1 Složení vlády a role Karla Havlíčka\n\n- Oficiální přehled členů druhé vlády Andreje Babiše na webu Úřadu vlády uvádí, že  \n  - Andrej Babiš byl předsedou vlády v období 27. 6. 2018 – 17. 12. 2021,  \n  - Alena Schillerová byla ministryní financí od 27. 6. 2018 do 17. 12. 2021,  \n  - Karel Havlíček byl od 30. 4. 2019 ministrem průmyslu a obchodu (a od 24. 1. 2020 zároveň ministrem dopravy). ([uv.gov.cz](https://uv.gov.cz/cz/clenove-vlady/historie-minulych-vlad/prehled-vlad-cr/1993-2018-cr/andrej-babis-ii/prehled-clenu-vlady-andreje-babise-27-6-2018-trva-175411/))  \n\n  Tedy v době přijímání opatření na DPH (říjen–prosinec 2021) byl Havlíček členem Babišovy vlády.\n\n#### 3.2 Rozhodnutí ministyně financí: prominutí DPH u elektřiny a plynu (listopad–prosinec 2021)\n\n- **Finanční správa – „Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události)”**  \n  (`https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z`)\n\n  Tato oficiální informace generálního finančního ředitelství shrnuje rozhodnutí ministryně financí zveřejněné ve Finančním zpravodaji 34/2021. Hned v úvodu uvádí, že:  \n\n  - v období **od 1. 11. 2021 do 31. 12. 2021 „promíjí ministryně financí daň z přidané hodnoty za dodání elektřiny nebo plynu“**; ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n  - prominutí se vztahuje na:\n    - dodání elektřiny nebo plynu a záloh zaplacených v tomto období,  \n    - dodání elektřiny nebo plynu v režimu přenesení daňové povinnosti,  \n    - pořízení a dovoz plynu z jiných členských států či třetích zemí. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\n  Z hlediska plátců je v textu výslovně uvedeno, že daňové doklady v rozhodném období mají být vystavovány bez sazby a výše daně, případně se sazbou **0 % a daní 0**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\n- **Ministerstvo financí – tisková zpráva „Nulové DPH na elektrickou energii a plyn“ (20. 10. 2021)**  \n  (`https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273`)\n\n  Ministerstvo financí zde veřejnosti oznamuje, že:  \n\n  - ministryně financí **rozhodla o mimořádném prominutí DPH za dodání elektřiny nebo plynu za listopad a prosinec 2021**; ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273?utm_source=openai))  \n  - v textu se přímo používá formulace „**nulové DPH na elektrickou energii a plyn**“ a mluví se o „zavedení nulové sazby DPH na elektrickou energii“. ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273))  \n\n  Zároveň MF uvádí, že současně předložilo návrh novely zákona o DPH, který by dodání elektřiny a plynu osvobodil od 21% DPH na celý rok 2022 – jde však o plán do budoucna, nikoli o již platné opatření. ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273?utm_source=openai))  \n\n- **Český statistický úřad – poznámka ke spotřebitelským cenám energií za listopad 2021**  \n  (`https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021`)\n\n  ČSÚ ve své metodické poznámce k indexu spotřebitelských cen uvádí:  \n\n  - „Rozhodnutím Ministerstva financí byla **prominuta daň z přidané hodnoty za dodání elektřiny nebo plynu** … v období od 1. listopadu 2021 do 31. prosince 2021.“ ([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021?utm_source=openai))  \n  - Pro potřeby výpočtu inflace **„je současné prominutí DPH u energií pro měsíce listopad a prosinec chápáno jako změna sazby DPH z 21 % na 0 %“**. ([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021?utm_source=openai))  \n\n  Tedy i statistický úřad interpretuje toto opatření jako faktické **0% DPH** na elektřinu a plyn v uvedených měsících.\n\n#### 3.3 Odborné sekundární zdroje (daňové poradenství)\n\nTyto zdroje nejsou primární, ale potvrzují a vysvětlují charakter opatření:\n\n- **„Prominutí DPH u dodání elektřiny a plynu“ (AMSP ČR)**  \n  (`https://www.amsp.cz/aktuality-a-multimedia/prominuti-dph-u-dodani-elektriny-a-plynu`)  \n  Shrnuje rozhodnutí ministryně financí a uvádí, že **DPH se promíjí u dodání elektřiny nebo plynu v období 1. 11. 2021 – 31. 12. 2021**. ([amsp.cz](https://www.amsp.cz/aktuality-a-multimedia/prominuti-dph-u-dodani-elektriny-a-plynu?utm_source=openai))  \n\n- **„Prominutí DPH u elektřiny a plynu a jeho vliv na konečné vyúčtování energií“ (daňový poradce Tomáš Goláň)**  \n  (`https://www.golan.cz/prominuti-dph-u-elektriny-a-plynu-a-jeho-vliv-na-konecne-vyuctovani-energii`)  \n  Autor konstatuje, že podle rozhodnutí z Finančního zpravodaje 34/2021 je **DPH u dodání elektřiny a plynu v období 1. 11. – 31. 12. 2021 prominuta** a že „**jde de facto o snížení sazby DPH na 0 %**“. ([golan.cz](https://www.golan.cz/prominuti-dph-u-elektriny-a-plynu-a-jeho-vliv-na-konecne-vyuctovani-energii?utm_source=openai))  \n\n- Podobně postup a časové omezení popisují i další odborné články (22HLAV, Grant Thornton, Crowe, aj.), které shodně uvádějí dvouměsíční prominutí DPH na elektřinu a plyn. ([crowe.com](https://www.crowe.com/cz/cs-cz/news/prominuti-dph-na-elektrinu-a-plyn?utm_source=openai))  \n\n---\n\n### 4. Jak široce lze chápat „energie“ a jak dlouho bylo DPH „na nule“\n\n#### 4.1 Rozsah opatření – pouze elektřina a plyn, nikoli všechny energie\n\n- V žádném z oficiálních dokumentů (MF, Finanční správa, Finanční zpravodaj) se nepromíjí DPH obecně na „energiích“, ale **konkrétně jen na „dodání elektřiny nebo plynu“**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n- Na jiné energetické komodity (například **dodání tepla**) se již dříve vztahovala **snížená 10% sazba DPH**, nikoli 0 % – vyplývá to z novel zákona o DPH účinných od 1. 1. 2020 (přesun dodání tepla a chladu do druhé snížené sazby 10 %). ([joka-audit.cz](https://www.joka-audit.cz/zmena-sazby-dph-od-1-1-2020/?utm_source=openai))  \n\nZ toho plyne, že v přísném smyslu nebylo DPH **na všechny „energetické“ položky** sníženo na nulu, ale pouze na **elektřinu a plyn**.\n\n#### 4.2 Časové omezení opatření\n\n- Všechny oficiální zdroje – Finanční správa, MF i ČSÚ – uvádějí shodně, že prominutí DPH (tj. efektivně 0% sazba) se týkalo **pouze období od 1. listopadu 2021 do 31. prosince 2021**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n- Návrh, aby bylo osvobození (nebo nulová sazba) rozšířeno i na rok 2022, byl v době tiskové zprávy MF jen návrhem novely; z uvedených zdrojů nevyplývá, že by v době Babišovy vlády již pro rok 2022 platila 0% sazba. ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273?utm_source=openai))  \n\n---\n\n### 5. Shrnutí důkazů k jednotlivým dílčím tvrzením\n\n**A. „My“ = Babišova vláda (v níž byl Havlíček ministrem)**  \n- Potvrzeno: Andrej Babiš byl premiérem do 17. 12. 2021, Alena Schillerová ministryní financí a Karel Havlíček ministrem průmyslu a obchodu od 30. 4. 2019 do 17. 12. 2021. ([uv.gov.cz](https://uv.gov.cz/cz/clenove-vlady/historie-minulych-vlad/prehled-vlad-cr/1993-2018-cr/andrej-babis-ii/prehled-clenu-vlady-andreje-babise-27-6-2018-trva-175411/))  \n\n**B. Bylo u části energií fakticky zavedeno „nulové DPH“?**  \n- Ano, na základě rozhodnutí ministryně financí (generální pardon) byla **DPH u dodání elektřiny a plynu za období 1. 11. – 31. 12. 2021 prominuta**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n- ČSÚ i daňoví odborníci výslovně popisují tento krok jako **změnu sazby z 21 % na 0 %**, resp. „de facto snížení sazby DPH na 0 %“. ([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021?utm_source=openai))  \n\n**C. Platilo to pro „energie“ obecně?**  \n- Opatření se důsledně vztahuje **jen na elektřinu a plyn**. Na **teplo a další energie** se nadále uplatňovaly snížené sazby (typicky 10 %), nikoli 0 %. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\n**D. Trvalost opatření – bylo DPH na nule dlouhodobě?**  \n- Ne. Z oficiálních dokumentů je zřejmé, že šlo o **dočasné dvouměsíční opatření** (listopad a prosinec 2021). ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\n---\n\n### 6. Celkové zhodnocení faktického jádra výroku\n\n- **Faktické jádro výroku („snížili jsme DPH u energií na nulu“) je podloženo:**  \n  - vláda Andreje Babiše II skutečně v říjnu 2021 přijala rozhodnutí, na jehož základě bylo **DPH u dodání elektřiny a plynu na území ČR pro zdanitelná plnění v období 1. 11.–31. 12. 2021 fakticky nulové** (daň byla plošně prominuta). ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\n- **Současně má výrok dvě podstatná zjednodušení:**\n  1. **Rozsah:** „energie“ v běžném jazyce evokují i teplo atd., ale nulové DPH se vztahovalo jen na **elektřinu a plyn**, nikoli na všechny energetické komodity. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n  2. **Čas:** DPH byla na nule **pouze dočasně (2 měsíce)**, nikoli po celé období, o němž je v debatě řeč (celé trvání Babišovy vlády či rok 2022). ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\nTato zjištění by měla umožnit lidskému fact-checkerovi rozhodnout, zda je výrok chápat jako fakticky pravdivý (s implicitním časovým omezením a užším chápáním „energií“), nebo spíše jako zkreslující zkratku.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:05:47\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nTa zpráva je založena na číslech, tak ta se nedá ani rozporovat, ale co se týká toho, že se všem lidem určitě dobře nedaří a nedařilo, to jsem nikdy nezpochybňoval. Ta inflace byla velmi náročná, ceny energií rostly raketově. My jsme teda měli nejdražší energie už v době, kdy se o to staral pan Havlíček v Evropě. Ale ten problém tu je dlouhodobý, je strukturální. My jsme se s tím snažili něco dělat, snažili jsme se provést ty klíčové reformy a byli jsme v tom odvážní. Reforma důchodového systému, reforma vzdělávacího systému, reforma energií nebo struktury naší energetické soustavy, to všechno jsme dělali a myslím si, že to byly kroky, které jsou správné a je v nich potřeba pokračovat, abychom se už nedostali do těch problémů, do kterých jsme se dostali, protože třeba díky tomu, že tu vládl osm let Andrej Babiš v různých konstelacích před námi, tak se nic neudělalo s energetickou infrastrukturou. Zastavil se, nezastavila se dostavba Temelína, neposunuly se dál Dukovany, to jsme všechno museli udělat. A to, že jsme to udělali, se pozitivně projeví v budoucnosti.\\n00:06:53\\nTerezie Tománková,moderátorka\\nPojďme rozebrat ta jednotlivá subtémata, ať se už bavíme o konkrétních věcech. Pojďme k těm energiím, pane Havlíčku. Pouze 17 miliard navíc v rozpočtu, snižuje to inflaci, to říká statistický úřad i Česká národní banka, že to mělo přechodný, okamžitý dopad. Ty dotační závody s Německem ale nemůžeme vyhrát, nebo v tom bude Česko pokračovat, jak to bude dál?\\n00:07:14\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nNemůžeme, ani nebudeme soutěžit s Německem. To není možné. Jenom bych upravil, ono to není do rozpočtu dopad 17 miliard, ale 7 miliard, ale to je účetní pohled, že se tam započítávají některé věci, takže čistý dopad do rozpočtu je 7 miliard korun, ale za těch 7 miliard korun máme po dlouhé době srovnaný krok s cenou elektřiny s Evropou. Po dlouhé době mohou firmy říci, že mají přibližně podobné podmínky jako okolní země. A každý, kdo umí do 10 počítat, si dopočítá to, že se to tomu státu vrátí na té příjmové stránce. Proč? No, protože firmy budou zaměstnávat přirozeným způsobem, porostou příjmy těch zaměstnanců, bude se více investovat, budou se, světe, div se, odvádět vyšší daně, budou se odvádět vyšší sociální a zdravotní, to je jedna věc. A druhá věc je, naši lidé nebyli připraveni se dívat na to, že navzdory tomu, že zde energii poměrně levně vyrábíme a exportujeme, že ji budeme mít jednu z nejdražších, elektřinu v tomhle tom případě v celé Evropě. Byl to náš slib, byl to zásadní krok a budeme pokračovat zejména v energeticky náročných odvětvích, jako jsou výrobci cementu, výrobci vápna, výrobci keramiky, chemie a podobně, ocel. To jste úplně hodili přes palubu. A zeptejte se někdy těch firem. Já do nich jezdím dnes a denně. Ta situace u těch firem začíná být kritická a ten problém, který nastává, je v tom, že pochopitelně v Evropě neexistuje dnes jednotný energetický trh tedy pouze na papíře, ale různé země mají různé ceny a různé státy do toho různě zasahují. Akorát, že za vaší vlády jste se chovali tržně, nezasáhli jste do toho, výsledkem bylo to, že se vám to celé utrhlo a není pravda to, že jste to, co jste říkal, s ohledem nejvyšší ceny energií, že byly za nás. Na konci roku 2021, když jsme předávali vládu a podíval jste se do OECD, tak jste zjistil, že co se týká tzv. energetické inflace, tak víte, kde byla nejnižší ze všech zemí z OECD? Nejnižší byla v České republice. Ano, bylo to dáno tímto, uznávám, že jsme zatáhli za ruční brzdu a rychle jsme snížili DPH na nulu. Vy jste to mohli nechat potom třeba na 5 %. Neudělali jste vůbec nic, čekali jste na opatření Evropské unie. Nestalo se nic. Výsledek byl ten, že na konci roku 2021 jste měli nejvyšší energickou inflaci a ta inflace se stala, myslím, energická základem pro celkovou inflaci, proto jste odrbali lidi o 33 % v průběhu vaší vlády. Je třeba, pane poslanče, nedívat se jenom na aktuální čísla, protože logicky ten pokles či růst je ovlivněn tou základnou toho minulého roku. Jinými slovy, o co horší byl výsledek v minulém roce, o to je třeba lepší v tomto roce, ale součet...\\n00:09:43\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Jsme snížili DPH (u energií, pozn. Demagog.cz) na nulu.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 181.40 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Babišova vláda koncem roku 2021 skutečně na dva měsíce prominula DPH u dodávek elektřiny a plynu, takže sazba byla fakticky nulová. Výrok Karla Havlíčka ale sugeruje širší a dlouhodobé opatření pro „energie“ obecně. Celkově jej proto hodnotíme jako zavádějící.</p>\n\n<p>Karel Havlíček výrok pronesl v debatě o růstu cen energií, když obhajoval postup druhé vlády Andreje Babiše na podzim 2021. Odkazuje tím na mimořádný krok, kterým kabinet reagoval na skokový nárůst cen elektřiny a plynu a snažil se krátkodobě snížit účty domácností.</p>\n\n<p>Výrok v sobě obsahuje tři faktická tvrzení: že „my“ označuje druhou vládu Andreje Babiše, jejímž členem byl Karel Havlíček, že DPH u energií skutečně klesla na nulu, a že se to týkalo energií obecně a v rozsahu, který je pro domácnosti zásadní (tedy nikoli jen krátkodobě či pro úzký okruh komodit). Tato dílčí tvrzení ověřujeme zvlášť.</p>\n\n<p>Z přehledu složení druhé vlády Andreje Babiše, který zveřejňuje <a href=\"https://uv.gov.cz/cz/clenove-vlady/historie-minulych-vlad/prehled-vlad-cr/1993-2018-cr/andrej-babis-ii/prehled-clenu-vlady-andreje-babise-27-6-2018-trva-175411/\">Úřad vlády</a>, vyplývá, že Andrej Babiš byl premiérem do 17. prosince 2021 a Karel Havlíček v té době zastával funkci ministra průmyslu a obchodu (současně i ministra dopravy). Když tedy Havlíček mluví o opatření, které „jsme“ přijali, má na mysli právě tuto vládu, což odpovídá skutečnosti.</p>\n\n<p>Mimořádné prominutí DPH na dodávky elektřiny a plynu vyhlásila ministryně financí Alena Schillerová rozhodnutím, které shrnuje dokument Generálního finančního ředitelství <a href=\"https://www.financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z\">„Informace k promíjení DPH při dodání elektřiny nebo plynu“</a>. Tento materiál uvádí, že v období od 1. listopadu do 31. prosince 2021 ministryně financí <i>„promíjí daň z přidané hodnoty za dodání elektřiny nebo plynu“</i>. Pro plátce DPH zároveň stanoví, že mají v tomto období vystavovat daňové doklady bez daně, případně se sazbou <i>„0 % a daní 0“</i>, tedy s fakticky nulovou DPH na dotčená plnění.</p>\n\n<p>Stejný krok Ministerstvo financí představilo v tiskové zprávě <a href=\"https://mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273\">„Nulové DPH na elektrickou energii a plyn“</a>, kde hovoří o <i>„nulové sazbě DPH na elektrickou energii a plyn za listopad a prosinec 2021“</i>. Český statistický úřad ve své metodické poznámce k výpočtu inflace za listopad 2021 vysvětluje, že toto prominutí DPH je pro účely indexu spotřebitelských cen chápáno jako změna sazby DPH z 21 % na 0 % <a href=\"https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021\">Český statistický úřad</a>. Z těchto oficiálních zdrojů vyplývá, že tvrzení o „nulové DPH“ na část energií má reálný základ.</p>\n\n<p>Zároveň je ale zřejmé, že rozsah opatření byl omezený. Z dokumentu Generálního finančního ředitelství je patrné, že se prominutí týká výhradně <i>„dodání elektřiny nebo plynu“</i>, včetně záloh, dodání v režimu přenesení daňové povinnosti a pořízení či dovozu plynu, nikoli všech forem energie <a href=\"https://www.financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z\">Finanční správa</a>. Na dodávky tepla se opatření nevztahovalo; ty byly už dříve přeřazeny do druhé snížené sazby DPH 10 % na základě novely zákona o DPH účinné od 1. ledna 2020, jak shrnuje například přehled společnosti <a href=\"https://www.joka-audit.cz/zmena-sazby-dph-od-1-1-2020/\">JOKA Audit</a>. Pokud tedy posluchač pod pojmem „energie“ chápe kompletní účty za elektřinu, plyn i teplo, výrok rozsah nulové DPH nadsazuje.</p>\n\n<p>Výrazně omezené bylo také trvání tohoto opatření. Finanční správa jednoznačně uvádí, že prominutí DPH se vztahuje pouze na zdanitelná plnění uskutečněná v období od 1. listopadu do 31. prosince 2021 <a href=\"https://www.financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z\">Generální finanční ředitelství</a>. Ministerstvo financí sice ve stejné tiskové zprávě informovalo, že připravuje novelu zákona o DPH, která by dodávky elektřiny a plynu od daně osvobodila i v roce 2022, ale v době tohoto mimořádného kroku šlo pouze o legislativní návrh, nikoli o již účinné pravidlo <a href=\"https://mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273\">Ministerstvo financí</a>. Z pohledu domácností tedy byla DPH na nule jen po dobu dvou měsíců.</p>\n\n<p>Souhrnně tedy platí, že druhá vláda Andreje Babiše, jejímž členem byl Karel Havlíček, na krátké období skutečně zajistila fakticky nulovou DPH na dodávky elektřiny a plynu. Výrok <i>„jsme snížili DPH u energií na nulu“</i> však zamlčuje, že šlo pouze o dvouměsíční prominutí daně a že se netýkalo všech energií, zejména tepla. Posluchač si tak může odnést dojem plošného a dlouhodobého snížení DPH na veškeré energie, což neodpovídá realitě. Výrok proto hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0351e7f7301882d00069a6c1c58018819d89ad39619134923f",
+    "created_at": 1772536261.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0351e7f7301882d00069a6c1cdec54819d949ce59b0b73c260",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0351e7f7301882d00069a6c1dd2e9c819d8076e775763280e8",
+        "action": {
+          "query": "prominutí DPH na elektřinu a plyn listopad prosinec 2021 rozhodnutí vlády",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "prominutí DPH na elektřinu a plyn listopad prosinec 2021 rozhodnutí vlády",
+            "DPH na energie snížení na nulu Babišova vláda 2021",
+            "vláda prominula DPH z dodávek elektřiny a plynu pro měsíc listopad a prosinec 2021 podle \\u00a7 260 daňového řádu",
+            "Finanční správa prominutí DPH na dodání elektriny a plynu 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0351e7f7301882d00069a6c1e16004819db7affb2e94bfd0c5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0351e7f7301882d00069a6c1e3a140819da3126e5c8fecc460",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0351e7f7301882d00069a6c1e61b88819da121add0a9dfd542",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0351e7f7301882d00069a6c1e67a60819d9fcbd9e8399c3fa0",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0351e7f7301882d00069a6c1e7e2b4819db84b2d91ed0ca724",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0351e7f7301882d00069a6c1e862e0819d8cfe5a696986830a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0351e7f7301882d00069a6c1e92b58819dae3c5424f836fe4f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0351e7f7301882d00069a6c1eadccc819da9a8c0df8b219220",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0351e7f7301882d00069a6c1ec0960819d9e9fa432d7fb4c36",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0351e7f7301882d00069a6c1ec4120819daf2f67705b498f07",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Nulové DPH"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0351e7f7301882d00069a6c1ef6edc819d816c0f4e0241181c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0351e7f7301882d00069a6c1f79498819db3ee9f526f753656",
+        "action": {
+          "query": "DPH na teplo listopad prosinec 2021 prominuti",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "DPH na teplo listopad prosinec 2021 prominuti",
+            "prominuti DPH na dodani elektriny a plynu nikoli tepla 2021",
+            "CSU poznamka ke spotrebitelskym cenam energii listopad 2021 DPH 0 %",
+            "MFCR novela zakona o DPH osvobozeni dodani elektriny a plynu od dane rok 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0351e7f7301882d00069a6c1fa5778819d9a7c810f180f0f14",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0351e7f7301882d00069a6c2037a4c819da42b8ef547ec752c",
+        "action": {
+          "query": "vlada Andreje Babise II obdobi 2018 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "vlada Andreje Babise II obdobi 2018 2021",
+            "vlada Andreje Babise II demision date"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0351e7f7301882d00069a6c205f738819d97ddfe2950887e17",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0351e7f7301882d00069a6c20de200819da5fcbe525de7671f",
+        "action": {
+          "query": "\"nulové DPH\" teplo 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nulové DPH\" teplo 2021",
+            "DPH na teplo 2021 sazba",
+            "sazba DPH dodani tepla 2021 10% 15%",
+            "změna sazby DPH u tepla 1.1.2020 10 %"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0351e7f7301882d00069a6c210dd0c819d885ccc106d84c4eb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0351e7f7301882d00069a6c2237244819da42e0ed8f5e339ee",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0351e7f7301882d00069a6c2254de8819d97052f39930b0ea9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0351e7f7301882d00069a6c23e27d8819dac280a589980429c",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1438,
+                "start_index": 1263,
+                "title": "Členové druhé vlády Andreje Babiše (27. 6. 2018 – 17. 12. 2021) | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://uv.gov.cz/cz/clenove-vlady/historie-minulych-vlad/prehled-vlad-cr/1993-2018-cr/andrej-babis-ii/prehled-clenu-vlady-andreje-babise-27-6-2018-trva-175411/"
+              },
+              {
+                "end_index": 2386,
+                "start_index": 2224,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              },
+              {
+                "end_index": 2798,
+                "start_index": 2636,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              },
+              {
+                "end_index": 3131,
+                "start_index": 2969,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              },
+              {
+                "end_index": 3660,
+                "start_index": 3531,
+                "title": "Nulové DPH na elektrickou energii a plyn | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273?utm_source=openai"
+              },
+              {
+                "end_index": 3935,
+                "start_index": 3814,
+                "title": "Nulové DPH na elektrickou energii a plyn | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273"
+              },
+              {
+                "end_index": 4271,
+                "start_index": 4142,
+                "title": "Nulové DPH na elektrickou energii a plyn | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273?utm_source=openai"
+              },
+              {
+                "end_index": 4794,
+                "start_index": 4686,
+                "title": "Poznámka ke spotřebitelským cenám energií - listopad 2021 | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021?utm_source=openai"
+              },
+              {
+                "end_index": 5054,
+                "start_index": 4946,
+                "title": "Poznámka ke spotřebitelským cenám energií - listopad 2021 | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021?utm_source=openai"
+              },
+              {
+                "end_index": 5718,
+                "start_index": 5604,
+                "title": "Prominutí DPH u dodání elektřiny a plynu | AMSP",
+                "type": "url_citation",
+                "url": "https://www.amsp.cz/aktuality-a-multimedia/prominuti-dph-u-dodani-elektriny-a-plynu?utm_source=openai"
+              },
+              {
+                "end_index": 6273,
+                "start_index": 6145,
+                "title": "Prominutí DPH u elektřiny a plynu a jeho vliv na konečné vyúčtování energií • Daňový poradce, TOMÁŠ GOLÁŇ, daňová kancelář s.r.o.",
+                "type": "url_citation",
+                "url": "https://www.golan.cz/prominuti-dph-u-elektriny-a-plynu-a-jeho-vliv-na-konecne-vyuctovani-energii?utm_source=openai"
+              },
+              {
+                "end_index": 6551,
+                "start_index": 6449,
+                "title": "Prominutí DPH na elektřinu a plyn | Crowe Česká republika",
+                "type": "url_citation",
+                "url": "https://www.crowe.com/cz/cs-cz/news/prominuti-dph-na-elektrinu-a-plyn?utm_source=openai"
+              },
+              {
+                "end_index": 7042,
+                "start_index": 6880,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              },
+              {
+                "end_index": 7375,
+                "start_index": 7284,
+                "title": "Změna sazby DPH v roce 2020 | Joka audit s.r.o.",
+                "type": "url_citation",
+                "url": "https://www.joka-audit.cz/zmena-sazby-dph-od-1-1-2020/?utm_source=openai"
+              },
+              {
+                "end_index": 7895,
+                "start_index": 7733,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              },
+              {
+                "end_index": 8243,
+                "start_index": 8114,
+                "title": "Nulové DPH na elektrickou energii a plyn | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273?utm_source=openai"
+              },
+              {
+                "end_index": 8714,
+                "start_index": 8539,
+                "title": "Členové druhé vlády Andreje Babiše (27. 6. 2018 – 17. 12. 2021) | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://uv.gov.cz/cz/clenove-vlady/historie-minulych-vlad/prehled-vlad-cr/1993-2018-cr/andrej-babis-ii/prehled-clenu-vlady-andreje-babise-27-6-2018-trva-175411/"
+              },
+              {
+                "end_index": 9092,
+                "start_index": 8930,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              },
+              {
+                "end_index": 9336,
+                "start_index": 9228,
+                "title": "Poznámka ke spotřebitelským cenám energií - listopad 2021 | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021?utm_source=openai"
+              },
+              {
+                "end_index": 9698,
+                "start_index": 9536,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              },
+              {
+                "end_index": 10033,
+                "start_index": 9871,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              },
+              {
+                "end_index": 10573,
+                "start_index": 10411,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              },
+              {
+                "end_index": 10954,
+                "start_index": 10792,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              },
+              {
+                "end_index": 11268,
+                "start_index": 11106,
+                "title": "Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události) | Novinky Finanční správy v oblasti DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z"
+              }
+            ],
+            "text": "### 1. Identifikace tvrzení a kontext\n\nSporné tvrzení Karla Havlíčka (v debatě o výši cen energií v letech 2021–2022):\n\n> „Jsme snížili DPH (u energií) na nulu.“\n\nZ kontextu je zřejmé, že mluví o období závěru vlády Andreje Babiše II a o opatření, kterým vláda reagovala na skokový růst cen energií na podzim 2021.\n\n---\n\n### 2. Dílčí podtvrzení, která je třeba ověřit\n\n1. **Kdo je „my“** – zda šlo skutečně o vládu Andreje Babiše II, ve které byl Havlíček ministrem průmyslu a obchodu.  \n2. **Zda bylo DPH na „energie“ skutečně sníženo na 0 %** – alespoň fakticky pro konečné odběratele.  \n3. **Na jaké komodity se opatření vztahovalo (jak široký je pojem „energie“)** – elektřina, plyn, teplo atd.  \n4. **Na jak dlouhou dobu bylo DPH „na nule“** – trvale, nebo dočasně (a kdy přesně).\n\n---\n\n### 3. Opatření vlády v roce 2021 – prominutí DPH na elektřinu a plyn\n\n#### 3.1 Složení vlády a role Karla Havlíčka\n\n- Oficiální přehled členů druhé vlády Andreje Babiše na webu Úřadu vlády uvádí, že  \n  - Andrej Babiš byl předsedou vlády v období 27. 6. 2018 – 17. 12. 2021,  \n  - Alena Schillerová byla ministryní financí od 27. 6. 2018 do 17. 12. 2021,  \n  - Karel Havlíček byl od 30. 4. 2019 ministrem průmyslu a obchodu (a od 24. 1. 2020 zároveň ministrem dopravy). ([uv.gov.cz](https://uv.gov.cz/cz/clenove-vlady/historie-minulych-vlad/prehled-vlad-cr/1993-2018-cr/andrej-babis-ii/prehled-clenu-vlady-andreje-babise-27-6-2018-trva-175411/))  \n\n  Tedy v době přijímání opatření na DPH (říjen–prosinec 2021) byl Havlíček členem Babišovy vlády.\n\n#### 3.2 Rozhodnutí ministyně financí: prominutí DPH u elektřiny a plynu (listopad–prosinec 2021)\n\n- **Finanční správa – „Informace GFŘ k PROMÍJENÍ daně z přidané hodnoty při dodání elektřiny nebo plynu (z důvodu mimořádné události)”**  \n  (`https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z`)\n\n  Tato oficiální informace generálního finančního ředitelství shrnuje rozhodnutí ministryně financí zveřejněné ve Finančním zpravodaji 34/2021. Hned v úvodu uvádí, že:  \n\n  - v období **od 1. 11. 2021 do 31. 12. 2021 „promíjí ministryně financí daň z přidané hodnoty za dodání elektřiny nebo plynu“**; ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n  - prominutí se vztahuje na:\n    - dodání elektřiny nebo plynu a záloh zaplacených v tomto období,  \n    - dodání elektřiny nebo plynu v režimu přenesení daňové povinnosti,  \n    - pořízení a dovoz plynu z jiných členských států či třetích zemí. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\n  Z hlediska plátců je v textu výslovně uvedeno, že daňové doklady v rozhodném období mají být vystavovány bez sazby a výše daně, případně se sazbou **0 % a daní 0**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\n- **Ministerstvo financí – tisková zpráva „Nulové DPH na elektrickou energii a plyn“ (20. 10. 2021)**  \n  (`https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273`)\n\n  Ministerstvo financí zde veřejnosti oznamuje, že:  \n\n  - ministryně financí **rozhodla o mimořádném prominutí DPH za dodání elektřiny nebo plynu za listopad a prosinec 2021**; ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273?utm_source=openai))  \n  - v textu se přímo používá formulace „**nulové DPH na elektrickou energii a plyn**“ a mluví se o „zavedení nulové sazby DPH na elektrickou energii“. ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273))  \n\n  Zároveň MF uvádí, že současně předložilo návrh novely zákona o DPH, který by dodání elektřiny a plynu osvobodil od 21% DPH na celý rok 2022 – jde však o plán do budoucna, nikoli o již platné opatření. ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273?utm_source=openai))  \n\n- **Český statistický úřad – poznámka ke spotřebitelským cenám energií za listopad 2021**  \n  (`https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021`)\n\n  ČSÚ ve své metodické poznámce k indexu spotřebitelských cen uvádí:  \n\n  - „Rozhodnutím Ministerstva financí byla **prominuta daň z přidané hodnoty za dodání elektřiny nebo plynu** … v období od 1. listopadu 2021 do 31. prosince 2021.“ ([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021?utm_source=openai))  \n  - Pro potřeby výpočtu inflace **„je současné prominutí DPH u energií pro měsíce listopad a prosinec chápáno jako změna sazby DPH z 21 % na 0 %“**. ([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021?utm_source=openai))  \n\n  Tedy i statistický úřad interpretuje toto opatření jako faktické **0% DPH** na elektřinu a plyn v uvedených měsících.\n\n#### 3.3 Odborné sekundární zdroje (daňové poradenství)\n\nTyto zdroje nejsou primární, ale potvrzují a vysvětlují charakter opatření:\n\n- **„Prominutí DPH u dodání elektřiny a plynu“ (AMSP ČR)**  \n  (`https://www.amsp.cz/aktuality-a-multimedia/prominuti-dph-u-dodani-elektriny-a-plynu`)  \n  Shrnuje rozhodnutí ministryně financí a uvádí, že **DPH se promíjí u dodání elektřiny nebo plynu v období 1. 11. 2021 – 31. 12. 2021**. ([amsp.cz](https://www.amsp.cz/aktuality-a-multimedia/prominuti-dph-u-dodani-elektriny-a-plynu?utm_source=openai))  \n\n- **„Prominutí DPH u elektřiny a plynu a jeho vliv na konečné vyúčtování energií“ (daňový poradce Tomáš Goláň)**  \n  (`https://www.golan.cz/prominuti-dph-u-elektriny-a-plynu-a-jeho-vliv-na-konecne-vyuctovani-energii`)  \n  Autor konstatuje, že podle rozhodnutí z Finančního zpravodaje 34/2021 je **DPH u dodání elektřiny a plynu v období 1. 11. – 31. 12. 2021 prominuta** a že „**jde de facto o snížení sazby DPH na 0 %**“. ([golan.cz](https://www.golan.cz/prominuti-dph-u-elektriny-a-plynu-a-jeho-vliv-na-konecne-vyuctovani-energii?utm_source=openai))  \n\n- Podobně postup a časové omezení popisují i další odborné články (22HLAV, Grant Thornton, Crowe, aj.), které shodně uvádějí dvouměsíční prominutí DPH na elektřinu a plyn. ([crowe.com](https://www.crowe.com/cz/cs-cz/news/prominuti-dph-na-elektrinu-a-plyn?utm_source=openai))  \n\n---\n\n### 4. Jak široce lze chápat „energie“ a jak dlouho bylo DPH „na nule“\n\n#### 4.1 Rozsah opatření – pouze elektřina a plyn, nikoli všechny energie\n\n- V žádném z oficiálních dokumentů (MF, Finanční správa, Finanční zpravodaj) se nepromíjí DPH obecně na „energiích“, ale **konkrétně jen na „dodání elektřiny nebo plynu“**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n- Na jiné energetické komodity (například **dodání tepla**) se již dříve vztahovala **snížená 10% sazba DPH**, nikoli 0 % – vyplývá to z novel zákona o DPH účinných od 1. 1. 2020 (přesun dodání tepla a chladu do druhé snížené sazby 10 %). ([joka-audit.cz](https://www.joka-audit.cz/zmena-sazby-dph-od-1-1-2020/?utm_source=openai))  \n\nZ toho plyne, že v přísném smyslu nebylo DPH **na všechny „energetické“ položky** sníženo na nulu, ale pouze na **elektřinu a plyn**.\n\n#### 4.2 Časové omezení opatření\n\n- Všechny oficiální zdroje – Finanční správa, MF i ČSÚ – uvádějí shodně, že prominutí DPH (tj. efektivně 0% sazba) se týkalo **pouze období od 1. listopadu 2021 do 31. prosince 2021**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n- Návrh, aby bylo osvobození (nebo nulová sazba) rozšířeno i na rok 2022, byl v době tiskové zprávy MF jen návrhem novely; z uvedených zdrojů nevyplývá, že by v době Babišovy vlády již pro rok 2022 platila 0% sazba. ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273?utm_source=openai))  \n\n---\n\n### 5. Shrnutí důkazů k jednotlivým dílčím tvrzením\n\n**A. „My“ = Babišova vláda (v níž byl Havlíček ministrem)**  \n- Potvrzeno: Andrej Babiš byl premiérem do 17. 12. 2021, Alena Schillerová ministryní financí a Karel Havlíček ministrem průmyslu a obchodu od 30. 4. 2019 do 17. 12. 2021. ([uv.gov.cz](https://uv.gov.cz/cz/clenove-vlady/historie-minulych-vlad/prehled-vlad-cr/1993-2018-cr/andrej-babis-ii/prehled-clenu-vlady-andreje-babise-27-6-2018-trva-175411/))  \n\n**B. Bylo u části energií fakticky zavedeno „nulové DPH“?**  \n- Ano, na základě rozhodnutí ministryně financí (generální pardon) byla **DPH u dodání elektřiny a plynu za období 1. 11. – 31. 12. 2021 prominuta**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n- ČSÚ i daňoví odborníci výslovně popisují tento krok jako **změnu sazby z 21 % na 0 %**, resp. „de facto snížení sazby DPH na 0 %“. ([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-listopad-2021?utm_source=openai))  \n\n**C. Platilo to pro „energie“ obecně?**  \n- Opatření se důsledně vztahuje **jen na elektřinu a plyn**. Na **teplo a další energie** se nadále uplatňovaly snížené sazby (typicky 10 %), nikoli 0 %. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\n**D. Trvalost opatření – bylo DPH na nule dlouhodobě?**  \n- Ne. Z oficiálních dokumentů je zřejmé, že šlo o **dočasné dvouměsíční opatření** (listopad a prosinec 2021). ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\n---\n\n### 6. Celkové zhodnocení faktického jádra výroku\n\n- **Faktické jádro výroku („snížili jsme DPH u energií na nulu“) je podloženo:**  \n  - vláda Andreje Babiše II skutečně v říjnu 2021 přijala rozhodnutí, na jehož základě bylo **DPH u dodání elektřiny a plynu na území ČR pro zdanitelná plnění v období 1. 11.–31. 12. 2021 fakticky nulové** (daň byla plošně prominuta). ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\n- **Současně má výrok dvě podstatná zjednodušení:**\n  1. **Rozsah:** „energie“ v běžném jazyce evokují i teplo atd., ale nulové DPH se vztahovalo jen na **elektřinu a plyn**, nikoli na všechny energetické komodity. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n  2. **Čas:** DPH byla na nule **pouze dočasně (2 měsíce)**, nikoli po celé období, o němž je v debatě řeč (celé trvání Babišovy vlády či rok 2022). ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/novinky-financni-spravy-v-oblasti-dph/informace-gfr-k-promijeni-dane-z))  \n\nTato zjištění by měla umožnit lidskému fact-checkerovi rozhodnout, zda je výrok chápat jako fakticky pravdivý (s implicitním časovým omezením a užším chápáním „energií“), nebo spíše jako zkreslující zkratku.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 61988,
+      "input_tokens_details": {
+        "cached_tokens": 6912
+      },
+      "output_tokens": 10265,
+      "output_tokens_details": {
+        "reasoning_tokens": 6829
+      },
+      "total_tokens": 72253
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772536432,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

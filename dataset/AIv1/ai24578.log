@@ -1,0 +1,778 @@
+{
+  "claim_id": "24578",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260209_115155",
+  "source_md": "experiments/gpt5.1_h_20260209_115155/brief_fact_check_id24578.md",
+  "fact_check": "# Fact Check for Statement ID 24578\n\n## Statement\nKdo vyjednal ty evropské fondy? Já jsem je vyjednal, 1 000 miliard jsem přinesl, navíc jsem přinesl 42 miliard. Tam jsem já seděl, já jsem blokoval Evropskou radu čtyři noci a pět dní.\n\n---\n## AI Fact Check\n## 1. Kontext a význam tvrzení\n\nSporná pasáž (02/2026) navazuje na debatu o rozpočtu ČR a využití evropských peněz. Andrej Babiš odkazuje na:\n\n- **víceletý finanční rámec EU 2021–2027 (VFR) a nástroj NextGenerationEU (NGEU)**, z nichž plyne česká „národní obálka“;\n- **mimořádný summit Evropské rady 17.–21. 7. 2020**, kde se vedla hlavní politická jednání.\n\nTvrzení rozdělíme na dílčí:\n\n1. „Ty evropské fondy“ pro ČR mají objem cca **1 000 mld Kč**.\n2. Tyto fondy „**já jsem vyjednal / přinesl**“.\n3. „Navíc jsem přinesl **42 mld Kč**.“\n4. „Já jsem blokoval Evropskou radu **čtyři noci a pět dní**.“\n\nNíže u každé části shrnu fakta a podloženost.\n\n---\n\n## 2. Existuje pro ČR balík EU peněz kolem 1 000 mld Kč?\n\n### Fakta\n\n**Celková alokace pro ČR 2021–2027**\n\nMinisterstvo financí ČR (MF) uvádí pro programové období 2021–2027:  \n\n- z **kohezní politiky** (strukturální fondy + Fond soudržnosti): **19,8 mld EUR**,  \n- ze **Společné zemědělské politiky**: 6 mld EUR na přímé platby + 2 mld EUR na rozvoj venkova = **8 mld EUR**,  \n- z nástroje **RRF (Národní plán obnovy)**: odhadovaná alokace grantů **7,1 mld EUR**,  \n- z **Fondu pro spravedlivou transformaci**: **1,6 mld EUR**,  \n- z programu **REACT‑EU**: navýšení kohezní politiky pro ČR cca **1 mld EUR** (odhad, částka se odvíjí od dopadů pandemie). ([mfcr.cz](https://www.mfcr.cz/cs/zahranici-a-eu/hospodareni-eu/prostredky-alokovane-pro-cr/programove-obdobi-2021-2027))  \n\nSoučet těchto položek je zhruba **37,5 mld EUR**. Při kurzech v roce 2020 (~26–27 Kč/EUR) to odpovídá zhruba **0,99–1,0 bilionu Kč**.\n\n**Evropská komise – zastoupení v ČR**\n\nOficiální zastoupení Evropské komise v ČR shrnuje, že **Česká republika** v období 2021–27:  \n\n- „obdrží zhruba **bilion korun**“,  \n- z toho **550 mld Kč** na politiku soudržnosti, **200 mld Kč** na zemědělství a rozvoj venkova a **180 mld Kč** na Národní plán obnovy;  \n- „dalších minimálně **150 mld Kč**“ má Česko získat z mimorozpočtového **Modernizačního fondu**. ([czechia.representation.ec.europa.eu](https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs))  \n\n**Mediální odhady v době summitu (2020)**\n\nBezprostředně po summitu 17.–21. 7. 2020:\n\n- Deník.cz a Deník N uvádějí, že Česko bude moci v příštích sedmi letech čerpat **35,7 mld EUR**, což je „přibližně **950 mld Kč**“; dalších **15,4 mld EUR** (cca 410 mld Kč) si ČR může levně půjčit. ([denik.cz](https://www.denik.cz/evropa-pro-cechy/evropska-unie-fond-obnovy-cesko-20200721.html?utm_source=openai))  \n- Česká televize (ČT24) uvádí stejné číslo: 35,7 mld EUR ≈ 950 mld Kč. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/vyjednali-jsme-dobre-podminky-rekl-babis-po-evropskem-summitu-opozice-vysledky-jeho-vyjednavani-krit-47443?utm_source=openai))  \n- Komentář ČRo shrnuje, že „při započtení peněz z víceletého finančního rámce Unie si Česko bude moci sáhnout až na **960 mld Kč**“. ([plus.rozhlas.cz](https://plus.rozhlas.cz/babis-mel-na-summitu-jediny-cil-dostat-vic-penez-a-splnil-komentuje-houska-8256582?utm_source=openai))  \n- Na vládním brífinku po summitu mluví premiér Babiš o prostředcích „v celkové výši **964 mld Kč**“. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/?utm_source=openai))  \n\n### Hodnocení\n\n- **Čistě číselně** je tvrzení, že „evropské fondy“ pro ČR v tomto období mají **řádově 1 000 mld Kč**, **dobře podloženo** – oficiální vládní i unijní zdroje pracují s hodnotami cca 950–1 000 mld Kč (bez úvěrů).\n- Zda do tohoto čísla Babiš započítává i Modernizační fond (min. 150 mld Kč), není z jeho věty zcela jasné; oficiální materiály jej obvykle uvádějí zvlášť. ([czechia.representation.ec.europa.eu](https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs))  \n\n**Podloženost dílčího tvrzení „objem fondů ≈ 1 000 mld Kč“: VYSOKÁ**  \n(číslo odpovídá realitě, jde o zaokrouhlení různě uváděných hodnot kolem 950–1 000 mld Kč).\n\n---\n\n## 3. „Já jsem je vyjednal / 1 000 miliard jsem přinesl“\n\n### Jak vzniká tato „národní obálka“\n\n- **Evropská komise** předložila první balík návrhů VFR 2021–27 dne **2. 5. 2018** a kvůli pandemii Covid‑19 je přepracovala v květnu 2020, kdy zároveň navrhla i nástroj NextGenerationEU. ([mfcr.cz](https://www.mfcr.cz/cs/zahranicni-sektor/hospodareni-eu/vicelety-financni-ramec/vicelety-financni-ramec-2021-2027-a-nast-43268))  \n- **Dohody členských států** na výdajích a příjmech rozpočtu EU pro nové sedmileté období bylo dosaženo na **zasedání Evropské rady 17.–21. 7. 2020**. ([consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/))  \n- Následovala „složitá jednání Rady EU s Evropským parlamentem a Evropskou komisí“; legislativa VFR 2021–27 byla **formálně schválena 16.–17. 12. 2020** (nařízení o VFR a mezininstitucionální dohoda). ([mfcr.cz](https://www.mfcr.cz/cs/zahranicni-sektor/hospodareni-eu/vicelety-financni-ramec/vicelety-financni-ramec-2021-2027-a-nast-43268))  \n\nOficiální vysvětlení EU i ČR zdůrazňuje, že o rozpočtu rozhodují:\n\n- **Evropská komise** – předkládá návrh,  \n- **Rada EU (vlády členských států)** a **Evropský parlament** – návrh upravují a musí jej schválit. ([czechia.representation.ec.europa.eu](https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs))  \n\nSamotná výše národních obálek, zejména v kohezní politice, je navíc z velké části dána **vzorci podle populačních a ekonomických ukazatelů** (obyvatelstvo, HDP na hlavu v PPS, nezaměstnanost aj.), nikoli čistě politickým vyjednáváním. Tento princip je popsán přímo v závěrech Evropské rady pro MFF 2021–27. ([derechos.org](https://www.derechos.org/nizkor/econ/ec.html?utm_source=openai))  \n\n### Role Andreje Babiše\n\n- V oficiálním seznamu účastníků „Special meeting of the European Council“ (17–21. 7. 2020) je u položky „Czechia“ uveden **Andrej Babiš, Prime Minister** – tedy byl hlavním politickým vyjednavačem za ČR na summitu. ([consilium.europa.eu](https://www.consilium.europa.eu/media/58633/2020-07-17-18-euco.pdf))  \n- V českých a evropských médiích je zcela standardní, že se jednání o VFR/NGEU popisuje jako **kolektivní výsledek 27 lídrů**, nikoli jako zásluha jediného premiéra. Například shrnutí Evropské rady mluví o „maratonu, který skončil úspěchem pro všech 27 členských států“. ([consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/))  \n\n### Hodnocení\n\n- **Fakticky**: Andrej Babiš byl předsedou vlády a osobním účastníkem/hlavním vyjednavačem za ČR na mimořádném summitu, který dohodl základní parametry VFR a NGEU. Může tedy **oprávněně říci**, že se **podílel** na vyjednání podmínek a výše české obálky.\n- Nicméně:\n  - rozpočet navrhla Komise a formálně přijaly Rada a Evropský parlament;  \n  - značná část národní alokace plyne **automaticky z předem daných vzorců** a ekonomických parametrů, nikoli z individuálního vyjednávání jednoho lídra; ([derechos.org](https://www.derechos.org/nizkor/econ/ec.html?utm_source=openai))  \n  - konečné „zhruba bilionové“ částky jsou výsledkem **společného rozhodování** celé EU, nikoli jednostranného „přinesení“ peněz jedním premiérem. ([czechia.representation.ec.europa.eu](https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs))  \n\n**Podloženost tvrzení „já jsem vyjednal / přinesl 1 000 mld“:  \nČÍSLA ANO, PŘIČÍTÁNÍ SI VÝLUČNÉ ZÁSLUHY JE VÝRAZNĚ ZVELIČENÉ**\n\nObsahově jde o **překlad reálného faktu** (ČR má díky vyjednávání i automatickým vzorcům přibližně 1 bilion Kč z EU) do silně personalizované roviny („já jsem je přinesl“), která ignoruje roli ostatních institucí, vzorců a aktérů.\n\n---\n\n## 4. „Navíc jsem přinesl 42 miliard“\n\n### Co říkají oficiální dokumenty\n\nV závěrech mimořádného summitu Evropské rady (dokument **EUCO 10/20**) je v bodu 67 uvedeno:\n\n> „… Structural Funds will provide the following **additional allocations** under the 'Investment for growth and jobs' goal: **EUR 1 550 million for the Czech Republic under the Cohesion Fund**, EUR 200 million for Belgium…, EUR 600 million for Poland… atd.“ ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n\nTo znamená:\n\n- ČR získala **dodatečný balík 1 550 mil. EUR** v rámci Fondu soudržnosti nad rámec původních výpočtů (v 2018 cenách).  \n- Při kurzech kolem 26–27 Kč/EUR v době summitu jde zhruba o **40–42 mld Kč**.\n\nNa tiskové konferenci po summitu premiér Babiš vysvětloval:\n\n- že se „podařilo vyjednat prostředky v celkové výši **964 mld Kč**“;  \n- a že „vyjednali jsme 1,1 miliardy 550 milionů eur. To je **42 miliard**, 42 miliard jsme vyjednali **navíc oproti předpokladu**… je to v dokumentu, který jsme vyjednávali, na straně 35“. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/?utm_source=openai))  \n\nČeský rozhlas shrnuje, že podle premiéra se Česku podařilo vyjednat „**42 mld Kč navíc**, a to hlavně v kohezní politice“. ([plus.rozhlas.cz](https://plus.rozhlas.cz/babis-mel-na-summitu-jediny-cil-dostat-vic-penez-a-splnil-komentuje-houska-8256582?utm_source=openai))  \n\n### Charakter těchto 42 mld\n\n- Jde o **dodatečnou alokaci** („additional allocation“) pro ČR v rámci kohezní politiky nad původní výchozí návrhy, jak je kodifikována v závěrech Evropské rady. ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n- Nejde ale o unikátní výjimku – **stejný bod 67** přiděluje „extra obálky“ i dalším státům (Belgie, Bulharsko, Polsko, Portugalsko, Slovinsko atd.). ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n\n### Hodnocení\n\n- **Číslo 42 mld Kč** odpovídá oficiálnímu rozhodnutí Evropské rady o dodatečné alokaci **1,55 mld EUR** pro ČR. V přepočtu a běžném mediálním zaokrouhlení je tato částka správná.  \n- Tato dodatečná suma je **výsledkem vyjednávání**, při němž česká delegace (v čele s premiérem) skutečně mohla sehrát roli. Vedle ČR ale získaly podobné „příplatky“ i jiné země. ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n\n**Podloženost dílčího tvrzení „navíc jsem přinesl 42 mld“:  \nČÍSLO A FAKT DODATEČNÉ ALOKACE – VYSOKÁ, PŘIČÍTÁNÍ SI VÝLUČNÉ ZÁSLUHY – PŘEHNANÉ, ALE ZDE UŽ LZE ROZUMNĚ MLUVIT O VYJEDNANÉM BONUSU**\n\n---\n\n## 5. „Tam jsem já seděl, já jsem blokoval Evropskou radu čtyři noci a pět dní“\n\n### Délka a průběh summitu\n\n- Oficiální stránka Evropské rady: „**Special European Council, 17–21 July 2020**“ – lídři EU se sešli v Bruselu a jednali od pátku 17. 7. do úterý 21. 7. 2020. ([consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/))  \n- Deník E15 píše, že se prezidenti a premiéři po „**čtyřech dnech a nocích vyjednávání na začátku pátého dne**“ dohodli na parametrech fondu obnovy a sedmiletého rozpočtu. ([e15.cz](https://www.e15.cz/zahranicni/dohoda-za-20-bilionu-staty-eu-nasly-shodu-na-fondu-obnovy-cesko-dostane-230-miliard-korun-1371662?utm_source=openai))  \n- Deník N označuje summit za „maratonský, **pětidení** summit EU“, který skončil dohodou až „dnes ráno“ (21. 7. 2020). ([denikn.cz](https://denikn.cz/402911/az-950-miliard-korun-by-mohla-ceska-republika-cerpat-z-pristiho-sedmileteho-rozpoctu-a-fondu-obnovy/?utm_source=openai))  \n- Andrej Babiš v rozhovoru pro iDNES mluví o tom, že jednali „**čtyři dny a čtyři noci**“, že spal jen pár hodin denně a poslední noc vůbec. ([idnes.cz](https://www.idnes.cz/zpravy/domaci/evropska-unie-brusel-fond-obnovy-premier-andrej-babis.A200721_220336_domaci_mah?utm_source=openai))  \n\nZ těchto zdrojů je zřejmé, že summit trval zhruba **čtyři celé dny a čtyři noci**, s ukončením na začátku **pátého dne** – tedy popis „čtyři noci a pět dní“ je časově v zásadě přesný.\n\n### Kdo „blokoval“ dohodu?\n\nZpravodajství a analytické texty z doby summitu:\n\n- iROZHLAS popisuje, že dohodě bránily zejména **spory mezi tzv. „šetřivými zeměmi“ (Nizozemsko, Rakousko, Dánsko, Švédsko)** a státy jihu; cituje např. formulaci, že nizozemský premiér **Mark Rutte** je „hlavní překážkou dohody“. ([irozhlas.cz](https://www.irozhlas.cz/zpravy-svet/summit-evropska-unie-michel_2007202237_pj?utm_source=openai))  \n- Další články (E15, Deník, Blesk) opakovaně zmiňují jako klíčové problémy:  \n  - odpor „frugal four“ proti vysokému podílu grantů,  \n  - spor o **podmíněnost čerpání prostředků právním státem** mezi Nizozemskem na jedné straně a Polskem/Maďarskem na straně druhé,  \n  - hádky o rabaty pro čisté plátce. ([denik.cz](https://www.denik.cz/evropa-pro-cechy/brusel-summit-babis-fond-koronavirus-20200718.html?utm_source=openai))  \n\nAndrej Babiš byl podle zpravodajství aktivní zejména v otázkách:\n\n- větší **flexibility převodů mezi fondy** (nakonec ČR dostala výjimku až 25 % místo běžných 20 %), ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n- navýšení alokace v kohezní politice a kritikou rabatů bohatých států. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/?utm_source=openai))  \n\n**Žádný nezávislý zdroj ale neuvádí, že by to právě ČR nebo osobně Andrej Babiš „blokovali“ jednání jako hlavní překážka dohody.** Naopak, za klíčové „blokující“ aktéry jsou v dobovém zpravodajství opakovaně označovány jiné státy (zejména Nizozemsko a další „šetřivé“ země, případně Polsko a Maďarsko ve věci právního státu). ([irozhlas.cz](https://www.irozhlas.cz/zpravy-svet/summit-evropska-unie-michel_2007202237_pj?utm_source=openai))  \n\nSám Babiš se v pozdějších projevech (např. ve Sněmovně v roce 2022–2023) stylizuje do role, že on nebo V4 „blokovali Evropskou radu“ kvůli obraně českých zájmů a navýšení obálek, ale jde o jeho vlastní politickou interpretaci, nikoli o vnější potvrzení. ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/020schuz/s020016.htm?utm_source=openai))  \n\n### Hodnocení\n\n- **Časový popis** – „čtyři noci a pět dní“ – odpovídá realitě délky summitu.  \n- Formulace „**já jsem blokoval Evropskou radu**“ naráží na to, že:\n  - rozhodování v Evropské radě je kolektivní;  \n  - jednání byla komplikována především spory mezi jinými skupinami členských států;  \n  - žádný nezávislý popis summitu nepřisuzuje hlavní „blokující“ roli ČR nebo Andreji Babišovi.  \n\n**Podloženost dílčího tvrzení „já jsem blokoval Evropskou radu čtyři noci a pět dní“:  \nČASOVĚ PŘESNÉ, ALE TVRZENÍ O BLOKOVÁNÍ JE NEPODLOŽENÉ A ZJEVNĚ HYPERBOLICKÉ**\n\n---\n\n## 6. Shrnutí podloženosti jednotlivých částí výroku\n\n1. **Existence „evropských fondů“ pro ČR v objemu cca 1 000 mld Kč (2021–2027)**  \n   - Silně podloženo oficiálními daty MF ČR a Evropské komise (cca 950–1 000 mld Kč) – číslo je reálně správného řádu, jde o zaokrouhlení. ([mfcr.cz](https://www.mfcr.cz/cs/zahranici-a-eu/hospodareni-eu/prostredky-alokovane-pro-cr/programove-obdobi-2021-2027))  \n\n2. **„Já jsem je vyjednal / 1 000 miliard jsem přinesl“**  \n   - Babiš byl hlavním vyjednavačem za ČR na klíčovém summitu Evropské rady a na výsledku se podílel. ([consilium.europa.eu](https://www.consilium.europa.eu/media/58633/2020-07-17-18-euco.pdf))  \n   - Přisuzuje si však **výlučnou zásluhu za výsledek komplexního procesu**, který zahrnoval Komisi, Radu EU, Evropský parlament a vzorce pro rozdělování fondů. ([mfcr.cz](https://www.mfcr.cz/cs/zahranicni-sektor/hospodareni-eu/vicelety-financni-ramec/vicelety-financni-ramec-2021-2027-a-nast-43268))  \n   - **Silně zveličené/personalizované**, spíše politická rétorika než přesný popis reality.\n\n3. **„Navíc jsem přinesl 42 mld“**  \n   - V závěrech Evropské rady je skutečně uveden **dodatečný balík 1 550 mil. EUR pro ČR** v rámci Fondu soudržnosti, což odpovídá cca 40–42 mld Kč. ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n   - Jde o reálné navýšení oproti původnímu návrhu, byť v rámci širšího balíku dodatečných alokací i pro jiné státy.  \n   - **Číselně a věcně podloženo**, míra osobní zásluhy je – stejně jako u celkového balíku – částečně rétorická, ale zde lze přiměřeně mluvit o „vyjednaném bonusu“ pro ČR.\n\n4. **„Já jsem blokoval Evropskou radu čtyři noci a pět dní“**  \n   - Délka jednání: popis čtyř nocí a pět dní je v zásadě přesný. ([consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/))  \n   - O tom, že by právě Babiš/ČR byli „blokující“ stranou, žádné nezávislé zdroje nehovoří; za hlavní překážky dohody jsou označovány jiné státy (zejména tzv. „frugal“ země a spor Nizozemsko vs. Polsko/Maďarsko). ([irozhlas.cz](https://www.irozhlas.cz/zpravy-svet/summit-evropska-unie-michel_2007202237_pj?utm_source=openai))  \n   - **Tvrzení o blokování je nepodložené a zjevně hyperbolické** – jde o sebe-stylizaci, nikoli doložený fakt.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-02-07 available from https://www.youtube.com/watch?v=CRryWLn2KSs.\\n\\n\\nThe claim was made by: Andrej Babiš, Předseda vlády ČR, předseda hnutí ANO\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:32:20\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nProsím?\\n00:32:20\\nBára Divišová,moderátorka\\nRozvolníte pravidla?\\n00:32:22\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nProsím vás, hlavní kritérium je zadlužení vůči HDP, jo, a já jsem byl ministr financí, který měl nejlepší výsledky, který měl přebytek, který zavedl daňovou kobru, kontrolní hlášení, EET, dodaňování nadnárodních společností, vybral jsem 600 miliard daní navíc, měli jsme zadlužení 29 %, když jsme odcházeli, jsme byli šestý nejméně zadlužený a stále jsme málo zadlužení. A my potřebujeme investovat, my potřebujeme dostavět ty nemocnice. Takže tady pan Kupka, který lže jak Fiala, ano, předloží rozpočet SFDI, chybí tam 37 miliard, takže my jsme měli říct, zastavíme, nezačneme ten obchvat Břeclavi a Znojma a ty dálnice, nebudeme dělat tu železnici Praha-letiště-Kladno. Ne, co to vykládá ten člověk? My jsme dali peníze na SFDI, tam byla díra 37 miliard, na sociální dávky tam chybělo 17 miliard. Vždyť oni se netrefili v podstatě o 50 miliard minulý rozpočet. Vymýšlí se evropské fondy. Kdo vyjednal ty evropské fondy? Já jsem je vyjednal, 1 000 miliard jsem přinesl, navíc jsem přinesl 42 miliard, tam jsem já seděl, já jsem blokoval Evropskou radu čtyři noci a pět dní. Takže oni neví, o čem to vykládá...\\n00:33:38\\nBára Divišová,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Kdo vyjednal ty evropské fondy? Já jsem je vyjednal, 1 000 miliard jsem přinesl, navíc jsem přinesl 42 miliard. Tam jsem já seděl, já jsem blokoval Evropskou radu čtyři noci a pět dní.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 429.65 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Česko má z rozpočtu EU 2021–27 skutečně k dispozici zhruba bilion korun a summit v červenci 2020 mu přidal asi 42 miliard navíc. Andrej Babiš však přehnaně přisuzuje celý výsledek i blokování summitu své osobě. Výrok je proto zavádějící.</p>\n\n<p>Andrej Babiš tento výrok pronáší v souvislosti s debatou o rozpočtu ČR a využívání evropských peněz. Odkazuje na vyjednávání víceletého finančního rámce EU 2021–2027 a nástroje NextGenerationEU, o nichž lídři členských států jednali na mimořádném summitu Evropské rady v Bruselu ve dnech 17.–21. července 2020. Z těchto dohod vychází tzv. národní obálka pro Českou republiku.</p>\n\n<p>Výrok obsahuje několik faktických tvrzení: 1) že pro ČR existuje balík „evropských fondů“ kolem 1 000 miliard korun, 2) že tyto peníze „vyjednal“ a „přinesl“ osobně Andrej Babiš, 3) že se mu podařilo vyjednat ještě 42 miliard korun navíc, a 4) že on sám „blokoval Evropskou radu čtyři noci a pět dní“. Každou z těchto částí níže posuzujeme zvlášť.</p>\n\n<h3><strong>Objem evropských peněz pro ČR kolem 1 000 miliard korun</strong></h3>\n\n<p>Ministerstvo financí na stránce k programovému období 2021–2027 uvádí, že Česká republika získá z kohezní politiky 19,8 mld. eur, z přímých zemědělských plateb 6 mld. eur a z rozvoje venkova 2 mld. eur, celkem tedy 8 mld. eur v rámci Společné zemědělské politiky. Dále počítá s granty z Nástroje pro oživení a odolnost (RRF) v odhadované výši 7,1 mld. eur, 1,6 mld. eur z Fondu pro spravedlivou transformaci a zhruba 1 mld. eur z programu REACT‑EU, který navyšuje kohezní prostředky na zmírnění dopadů pandemie <a href=\"https://mf.gov.cz/cs/zahranici-a-eu/hospodareni-eu/prostredky-alokovane-pro-cr/programove-obdobi-2021-2027\">Ministerstvo financí</a>. Tyto částky dohromady dávají přibližně 37,5 mld. eur, což při kurzech platných v roce 2020 odpovídá zhruba 0,99–1,0 bilionu korun.</p>\n\n<p>Zastoupení Evropské komise v ČR navíc shrnuje, že <i>„Česká republika z evropského rozpočtu v období 2021–27 obdrží zhruba bilion korun“</i>, z čehož 550 miliard připadá na politiku soudržnosti, 200 miliard na zemědělství a rozvoj venkova a 180 miliard na Národní plán obnovy; dalších nejméně 150 miliard korun má připadnout z mimorozpočtového Modernizačního fondu <a href=\"https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs\">Evropská komise v ČR</a>. Různé oficiální zdroje se tedy shodují, že Česko má z rozpočtu EU a souvisejících nástrojů k dispozici částku skutečně řádově kolem jednoho bilionu korun (bez započtení možných úvěrů).</p>\n\n<p>Samotné číslo „1 000 miliard“ tedy odpovídá realitě jako zaokrouhlení skutečné alokace. Tato část výroku je věcně správná, pokud ji chápeme jako popis celkového objemu unijních prostředků pro ČR v období 2021–2027.</p>\n\n<h3><strong>„Já jsem je vyjednal, 1 000 miliard jsem přinesl“</strong></h3>\n\n<p>Proces vzniku víceletého rozpočtu EU je popsán například v přehledu Ministerstva financí o víceletém finančním rámci 2021–2027. Evropská komise nejprve v květnu 2018 předložila legislativní návrhy rozpočtu a po propuknutí pandemie je v květnu 2020 upravila a doplnila o mimořádný nástroj NextGenerationEU <a href=\"https://www.mfcr.cz/cs/zahranici-a-eu/hospodareni-eu/vicelety-financni-ramec/vicelety-financni-ramec-2021-2027-a-nast-43268\">Ministerstvo financí – Víceletý finanční rámec</a>. O podobě balíku následně jednaly vlády členských států v Radě EU a lídři na Evropské radě, přičemž konečnou podobu rozpočtu musel schválit i Evropský parlament <a href=\"https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs\">Evropská komise v ČR</a>.</p>\n\n<p>Oficiální přehled účastníků mimořádného summitu Evropské rady uvádí u České republiky Andreje Babiše jako premiéra, tedy hlavního politického vyjednavače za ČR <a href=\"https://www.consilium.europa.eu/media/58633/2020-07-17-18-euco.pdf\">Seznam účastníků summitu Evropské rady (.pdf, str. 1)</a>. Je tedy pravda, že v klíčových jednáních o podobě balíku pro období 2021–2027 seděl za Českou republiku právě on.</p>\n\n<p>Zároveň ale platí, že výše tzv. národních obálek není výsledkem jednostranného rozhodnutí jednoho premiéra. V závěrech Evropské rady pro MFF 2021–2027 je popsáno, že prostředky politiky soudržnosti jsou rozdělovány podle předem daných vzorců a kritérií, jako je HDP na obyvatele a zařazení regionů do kategorií „méně rozvinuté“, „přechodové“ a „vyspělejší“ a podle kritérií pro Fond soudržnosti <a href=\"https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf\">Závěry Evropské rady EUCO 10/20 (.pdf, např. str. 22–24)</a>. Stejný dokument ukazuje, že rozpočet i fond obnovy byly výsledkem kompromisu všech 27 členských států, jak shrnuje i oficiální komuniké Evropské rady, která jednání označuje za „maraton, jenž skončil úspěchem pro všech 27 členských států“ <a href=\"https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/\">Evropská rada – shrnutí summitu</a>.</p>\n\n<p>Andrej Babiš tedy hrál v Bruselu roli vyjednavače za ČR a mohl prosazovat české priority, ale nemohl sám „přinést“ jeden bilion korun v tom smyslu, že by o této částce rozhodoval pouze on. Rozdělení peněz vychází jednak z návrhů Komise, jednak z kolektivního rozhodování Evropské rady a Parlamentu a do velké míry i z objektivních ekonomických parametrů. Tvrzení, že „já jsem je vyjednal, 1 000 miliard jsem přinesl“, proto výrazně zveličuje osobní zásluhu a zaměňuje kolektivní unijní rozhodnutí za výsledek jednání jediného premiéra.</p>\n\n<h3><strong>„Navíc jsem přinesl 42 miliard“</strong></h3>\n\n<p>V závěrech mimořádného summitu Evropské rady EUCO 10/20 je v bodě 67 uvedeno, že strukturální fondy poskytnou vybraným státům „dodatečné alokace“ pod cílem „Investment for growth and jobs“. Mezi nimi stojí formulace, že Česko získá <i>„EUR 1 550 million for the Czech Republic under the Cohesion Fund“</i> <a href=\"https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf\">Závěry Evropské rady EUCO 10/20 (.pdf, str. 34)</a>. Tato částka odpovídá přibližně 40–42 miliardám korun v tehdejších kurzech.</p>\n\n<p>Na brífinku po skončení summitu Andrej Babiš sám vysvětloval, že česká delegace „vyjednala jeden z nejlepších dárečků“ a že <i>„vyjednali jsme 1,1 miliardy 550 milionů eur. To je 42 miliard…“</i> <a href=\"https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/\">Brífink premiéra po summitu</a>. V tematické části závěrů EUCO 10/20 je skutečně vidět, že podobné „příplatky“ k původní obálce obdržely i další státy (např. Belgie, Bulharsko, Německo či Polsko) <a href=\"https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf\">Závěry Evropské rady EUCO 10/20 (.pdf, str. 34–35)</a>.</p>\n\n<p>Číslo 42 miliard tak odpovídá reálné dodatečné alokaci 1,55 mld. eur pro Českou republiku v rámci Fondu soudržnosti nad rámec původních výpočtů. I zde samozřejmě platí, že jde o výsledek vyjednávání všech zúčastněných zemí a institucí, nikoli výlučně zásluhu jediného premiéra. Na rozdíl od celkového „bilionu“ však tato částka skutečně představuje navýšení oproti předchozím návrhům, o které česká delegace aktivně usilovala. Faktická část tvrzení – že pro ČR se podařilo vyjednat zhruba 42 miliard korun navíc v kohezních fondech – je proto podložena.</p>\n\n<h3><strong>„Já jsem blokoval Evropskou radu čtyři noci a pět dní“</strong></h3>\n\n<p>Oficiální stránky Evropské rady uvádějí, že speciální zasedání věnované víceletému rozpočtu a fondu obnovy probíhalo od pátku 17. do úterý 21. července 2020 <a href=\"https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/\">Evropská rada – zasedání 17.–21. 7. 2020</a>. I vládní web v přepisu tiskové konference cituje Andreje Babiše, který popisuje, že jednání „začalo v pátek dopoledne a skončilo dnes v 5:48 ráno“, a mluví o „neuvěřitelném maratonu“ <a href=\"https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/\">Brífink premiéra po summitu</a>. Časový rámec „čtyři noci a pět dní“ tak délce summitu v zásadě odpovídá.</p>\n\n<p>Jiná situace je u tvrzení, že právě Andrej Babiš „blokoval Evropskou radu“. Dobové zpravodajství z jednání mluví o tom, že dohodu nejvíce komplikovaly spory mezi tzv. šetrnými státy (Nizozemsko, Rakousko, Dánsko, Švédsko a Finsko) a zeměmi jihu EU o výši grantové složky fondu obnovy. Server iROZHLAS například popisuje, že nizozemského premiéra Marka Rutteho jihoevropské státy označují za <i>„hlavní překážku dohody“</i> <a href=\"https://www.irozhlas.cz/zpravy-svet/summit-evropska-unie-michel_2007202237_pj\">iROZHLAS o průběhu summitu</a>. Deník.cz zase shrnuje, že kritika ostatních směřovala právě na „fiskálně konzervativní“ země, které požadovaly výrazné snížení podílu grantů <a href=\"https://www.denik.cz/evropa-pro-cechy/summit-eu-koronavirus-fond-obnovy-20200720.html\">Deník.cz o sporech na summitu</a>.</p>\n\n<p>Sám Andrej Babiš na vládním brífinku popisuje, že „hlavní čísla“ jednání se týkala poměru grantů a půjček a že to byl „souboj mezi takzvanými frugals […] proti jihu“, tedy spor, v němž Česká republika nepatřila k hlavním blokujícím aktérům <a href=\"https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/\">Brífink premiéra po summitu</a>. Žádný z nezávislých zdrojů, které jsme prošli, nepřisuzuje roli klíčového „blokátora“ dohody právě České republice nebo osobně Andreji Babišovi; naopak tuto roli připisují zejména Nizozemsku a dalším „šetřivým“ státům či sporům o podmínění čerpání fondů dodržováním zásad právního státu.</p>\n\n<p>Časový popis délky summitu je tedy správný, ale tvrzení, že Andrej Babiš „blokoval Evropskou radu“, je spíše sebe-stylizací bez opory v dostupných informacích. Jde o výraznou nadsázku, která neodpovídá tomu, jak průběh jednání popisují ostatní účastníci a média.</p>\n\n<h3><strong>Závěr</strong></h3>\n\n<p>Souhrnně lze říci, že reálný objem evropských prostředků pro Česko v období 2021–2027 se skutečně pohybuje kolem jednoho bilionu korun a že summit Evropské rady v červenci 2020 přinesl České republice navíc zhruba 42 miliard korun v kohezních fondech oproti původnímu návrhu. Andrej Babiš však ve výroku přisuzuje celý tento výsledek výlučně sobě a tvrzení, že on sám „blokoval Evropskou radu“ po celé čtyři noci a pět dní, nemá v nezávislých zdrojích oporu. Výrok proto hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_05c7c85e60b7eaa0006989c44e641481948f53b5ffedc174ad",
+    "created_at": 1770636366.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c45ba5a88194be11fdd9efde9212",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c4679a3081949073fdc36ecc85a4",
+        "action": {
+          "query": "Babiš 42 miliard evropské fondy vyjednal 42 miliard černý 2020",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Babiš 42 miliard evropské fondy vyjednal 42 miliard černý 2020",
+            "Česko Čr Česká republika alokace z rozpočtu EU 2021-2027 1 bilion korun",
+            "vláda Čr informacní materiál vyjednávání rozpočtového rámce EU 2021‑2027 podíl pro Českou republiku",
+            "\"získali jsme\" \"1 bilion korun\" \"Babiš\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c46b5bf8819488db7aef86b8dfd6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c4842588819486a7b7705f7405b0",
+        "action": {
+          "query": "EUCO 10/20 European Council conclusions 17-21 July 2020 cohesion top-ups \"Czech Republic\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "EUCO 10/20 European Council conclusions 17-21 July 2020 cohesion top-ups \"Czech Republic\"",
+            "European Council conclusions 17-21 July 2020 Annex allocations cohesion policy Czech Republic top-ups 1 550 million",
+            "\"for the Czech Republic, the percentage will be 25 percent\" cohesion policy flexibility between funds",
+            "\"Czech Republic\" \"1 550 million\" \"cohesion\" top-ups July 2020"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c487cea08194afb3fd9ec42359d7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c49236788194b8d80641819e7426",
+        "action": {
+          "query": "\"Česká republika\" \"zhruba bilion\" \"evropských\" \"2021‑2027\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Česká republika\" \"zhruba bilion\" \"evropských\" \"2021‑2027\"",
+            "\"Čr obdrží\" \"zhruba bilion korun\" \"rozpočetu EU\"",
+            "\"Babiš\" \"bilion\" \"evropských\" \"fondů\" 2020",
+            "vyjednavani VFR 2021-2027 Česká republika vyjednala 1 550 milionu eur koheze"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c496ffbc81949e87456095c5abdd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c498f0bc81949d466d696001b2cf",
+        "action": {
+          "query": "\"blokoval Evropskou radu\" Babiš",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"blokoval Evropskou radu\" Babiš",
+            "Babiš \"blokoval\" Evropskou radu 4 noci 5 dní",
+            "\"4 noci a 5 dní\" \"Evropskou radu\" Babiš",
+            "vyjednavani Evropske rady červenec 2020 Babiš vyjednal 42 miliard Česko"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c49c4f5881948effc4db0f930021",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c4a01c808194a436d962df07198d",
+        "action": {
+          "query": "alokace kohezní politiky podle vzorce hrubý národní důchod na obyvatele 2015-2017 \"Czech Republic\" 2021-2027",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "alokace kohezní politiky podle vzorce hrubý národní důchod na obyvatele 2015-2017 \"Czech Republic\" 2021-2027",
+            "jak se stanovuje národní obálka kohezní politiky vzorec „Allocation method for the less developed regions“",
+            "„Each eligible Member State's allocation“ cohesion policy MFF 2021-2027 population GNI 2015-2017",
+            "Česká republika bude moci čerpat 35,7 miliardy eur 950 miliard korun 2021 2027"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c4a400d08194a9b8fc295427fbce",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c4b3a3408194a1c8f192e6527af1",
+        "action": {
+          "query": "Výsledky jednání Evropské rady o VFR 2021-2027 a NGEU pro Českou republiku materiál pro vládu",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Výsledky jednání Evropské rady o VFR 2021-2027 a NGEU pro Českou republiku materiál pro vládu",
+            "\"964 miliard\" \"2021-27\" \"Andrej Babiš\"",
+            "\"programove obdobi 2021-2027\" \"964 mld\"",
+            "\"vyjednali pro Českou republiku\" evropský rozpočet 2021 2027 964 miliard"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c4b729648194a6fbbb1e0efd0375",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c4b915bc8194b85f5b6cd48196c9",
+        "action": {
+          "query": "Babiš hrozil vetem summit EU červenec 2020 rozpočet blokovat",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Babiš hrozil vetem summit EU červenec 2020 rozpočet blokovat",
+            "\"Babis\" \"veto\" EU budget 2021-2027 July 2020",
+            "\"Andrej Babis\" \"block\" \"European Council\" July 2020",
+            "\"Babiš\" \"zablokovat\" \"rozpočet EU\" 2020"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c4bd616481948d55d4dc730e5573",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c4bf445481948f19eaf2fdc0c9c1",
+        "action": {
+          "query": "nejdelsi summit EU v historii ctyri dny a noci kde byly prekazky kdo blokoval dohodu frugal four",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "nejdelsi summit EU v historii ctyri dny a noci kde byly prekazky kdo blokoval dohodu frugal four",
+            "\"frugal four\" \"summit\" \"July 2020\" \"block\"",
+            "\"dohodě brání\" \"summit EU\" \"2020\"",
+            "\"maratonský pětidenni\" \"summit\" EU 2020 spor o fond obnovy"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c4c2e4bc81949fec9299c7571d93",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_05c7c85e60b7eaa0006989c4defb748194bf4a9a721225a9b6",
+        "code": "eur=1.55e9\nfor rate in [26,26.5,27]:\n    print(rate, eur*rate/1e9)",
+        "container_id": "cntr_6989c45a26bc8193808156e531eb5fd402da708a49db5df1",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c4e187ac819498382734aa7d9803",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c4e444d0819484ff383d98ecd6cb",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c4e65cac81948ff15934bc3f8346",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c4e787e481949c02644bfdb6a52f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c4e89640819491b84bab9ce4fe66",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c4e935948194ba0ad45b7f6c6d07",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "for the Czech Republic, the percentage will be"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c4ec10e08194933e61634b5e4b44",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c4fb960c81949bd906f81587f34d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c4fe233c8194a0b6e6319adfa771",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c51beb708194a8d93433d2980fc0",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c522a91081949ebcd037e6979c26",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c52368248194864fae50802cdbf7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c52619848194813c3b9d91ea49e0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_05c7c85e60b7eaa0006989c527509481949650515d7e3d313a",
+        "code": "cohesion=19.8\ncap=8\nrrf=7.1\njtf=1.6\nreacteu=1 # approx\ntotal_eur=cohesion+cap+rrf+jtf+reacteu\ntotal_eur",
+        "container_id": "cntr_6989c45a26bc8193808156e531eb5fd402da708a49db5df1",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c52d34cc819496dec03f16c6e1ea",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c532ebf08194b10e182c3ba07b39",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c53457088194a3ab5d7e20265928",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c535c3f4819496c48aa78d3c35cf",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c537240c81948b026d1e73bee67b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c549293c81948b0d0f8cfc2b0b14",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c54ccbb88194bb3f849dffc4b7b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05c7c85e60b7eaa0006989c552582c8194a4371919c2aa53bf",
+        "action": {
+          "query": "\"42 miliard\" \"navíc\" \"Babiš\" evropské fondy",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"42 miliard\" \"navíc\" \"Babiš\" evropské fondy",
+            "\"1 550 million for the Czech Republic\" analysis \"cohesion fund\"",
+            "\"vyjednali jeden z nejlepších dárečků\" Babiš",
+            "Hodnocení české pozice na summitu EU červenec 2020 \"42 miliard\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05c7c85e60b7eaa0006989c558e4408194b379663c47f6d5de",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_05c7c85e60b7eaa0006989c58669bc8194baa3c54825fa7c7e",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1430,
+                "start_index": 1309,
+                "title": "Programové období 2021-2027 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/zahranici-a-eu/hospodareni-eu/prostredky-alokovane-pro-cr/programove-obdobi-2021-2027"
+              },
+              {
+                "end_index": 2117,
+                "start_index": 1978,
+                "title": "Rozpočet EU pro Českou republiku - Zastoupení v České republice",
+                "type": "url_citation",
+                "url": "https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs"
+              },
+              {
+                "end_index": 2522,
+                "start_index": 2407,
+                "title": "Česko bude z fondu EU čerpat 950 miliard. Babiš: Z výsledku mám radost - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/evropa-pro-cechy/evropska-unie-fond-obnovy-cesko-20200721.html?utm_source=openai"
+              },
+              {
+                "end_index": 2794,
+                "start_index": 2596,
+                "title": "Vyjednali jsme dobré podmínky, řekl Babiš po evropském summitu. Opozice výsledky jeho vyjednávání kritizuje — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/vyjednali-jsme-dobre-podminky-rekl-babis-po-evropskem-summitu-opozice-vysledky-jeho-vyjednavani-krit-47443?utm_source=openai"
+              },
+              {
+                "end_index": 3075,
+                "start_index": 2930,
+                "title": "Babiš měl na summitu jediný cíl: dostat víc peněz, a to splnil, komentuje Houska | Plus",
+                "type": "url_citation",
+                "url": "https://plus.rozhlas.cz/babis-mel-na-summitu-jediny-cil-dostat-vic-penez-a-splnil-komentuje-houska-8256582?utm_source=openai"
+              },
+              {
+                "end_index": 3356,
+                "start_index": 3179,
+                "title": "Brífink premiéra Babiše k výsledkům jednání Evropské rady, 21. července 2020 | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/?utm_source=openai"
+              },
+              {
+                "end_index": 3883,
+                "start_index": 3744,
+                "title": "Rozpočet EU pro Českou republiku - Zastoupení v České republice",
+                "type": "url_citation",
+                "url": "https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs"
+              },
+              {
+                "end_index": 4479,
+                "start_index": 4340,
+                "title": "Víceletý finanční rámec 2021-2027 a Nástroj EU příští generace | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/zahranicni-sektor/hospodareni-eu/vicelety-financni-ramec/vicelety-financni-ramec-2021-2027-a-nast-43268"
+              },
+              {
+                "end_index": 4733,
+                "start_index": 4633,
+                "title": "Special European Council - Consilium",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/"
+              },
+              {
+                "end_index": 5076,
+                "start_index": 4937,
+                "title": "Víceletý finanční rámec 2021-2027 a Nástroj EU příští generace | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/zahranicni-sektor/hospodareni-eu/vicelety-financni-ramec/vicelety-financni-ramec-2021-2027-a-nast-43268"
+              },
+              {
+                "end_index": 5430,
+                "start_index": 5291,
+                "title": "Rozpočet EU pro Českou republiku - Zastoupení v České republice",
+                "type": "url_citation",
+                "url": "https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs"
+              },
+              {
+                "end_index": 5821,
+                "start_index": 5741,
+                "title": "Equipo Nizkor - European Council conclusions on recovery plan and multiannual financial framework for 2021-2027.",
+                "type": "url_citation",
+                "url": "https://www.derechos.org/nizkor/econ/ec.html?utm_source=openai"
+              },
+              {
+                "end_index": 6157,
+                "start_index": 6066,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/media/58633/2020-07-17-18-euco.pdf"
+              },
+              {
+                "end_index": 6531,
+                "start_index": 6431,
+                "title": "Special European Council - Consilium",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/"
+              },
+              {
+                "end_index": 7126,
+                "start_index": 7046,
+                "title": "Equipo Nizkor - European Council conclusions on recovery plan and multiannual financial framework for 2021-2027.",
+                "type": "url_citation",
+                "url": "https://www.derechos.org/nizkor/econ/ec.html?utm_source=openai"
+              },
+              {
+                "end_index": 7415,
+                "start_index": 7276,
+                "title": "Rozpočet EU pro Českou republiku - Zastoupení v České republice",
+                "type": "url_citation",
+                "url": "https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs"
+              },
+              {
+                "end_index": 8316,
+                "start_index": 8211,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf"
+              },
+              {
+                "end_index": 9033,
+                "start_index": 8856,
+                "title": "Brífink premiéra Babiše k výsledkům jednání Evropské rady, 21. července 2020 | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/?utm_source=openai"
+              },
+              {
+                "end_index": 9305,
+                "start_index": 9160,
+                "title": "Babiš měl na summitu jediný cíl: dostat víc peněz, a to splnil, komentuje Houska | Plus",
+                "type": "url_citation",
+                "url": "https://plus.rozhlas.cz/babis-mel-na-summitu-jediny-cil-dostat-vic-penez-a-splnil-komentuje-houska-8256582?utm_source=openai"
+              },
+              {
+                "end_index": 9606,
+                "start_index": 9501,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf"
+              },
+              {
+                "end_index": 9864,
+                "start_index": 9759,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf"
+              },
+              {
+                "end_index": 10349,
+                "start_index": 10244,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf"
+              },
+              {
+                "end_index": 10924,
+                "start_index": 10824,
+                "title": "Special European Council - Consilium",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/"
+              },
+              {
+                "end_index": 11256,
+                "start_index": 11099,
+                "title": "Summit EU - po mimořádně dlouhém jednání došly státy k dohodě | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/zahranicni/dohoda-za-20-bilionu-staty-eu-nasly-shodu-na-fondu-obnovy-cesko-dostane-230-miliard-korun-1371662?utm_source=openai"
+              },
+              {
+                "end_index": 11536,
+                "start_index": 11378,
+                "title": "Až 950 miliard korun by mohla Česká republika čerpat z příštího sedmiletého rozpočtu a fondu obnovy — Deník N",
+                "type": "url_citation",
+                "url": "https://denikn.cz/402911/az-950-miliard-korun-by-mohla-ceska-republika-cerpat-z-pristiho-sedmileteho-rozpoctu-a-fondu-obnovy/?utm_source=openai"
+              },
+              {
+                "end_index": 11826,
+                "start_index": 11680,
+                "title": "Zákulisí summitu EU. Byl to souboj šetřivých států proti Jihu, říká Babiš - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/zpravy/domaci/evropska-unie-brusel-fond-obnovy-premier-andrej-babis.A200721_220336_domaci_mah?utm_source=openai"
+              },
+              {
+                "end_index": 12436,
+                "start_index": 12324,
+                "title": "Nejdelší summit EU pokračuje. Shoda se přiblížila, komentoval kompromis nizozemský premiér | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-svet/summit-evropska-unie-michel_2007202237_pj?utm_source=openai"
+              },
+              {
+                "end_index": 12863,
+                "start_index": 12743,
+                "title": "Bruselský summit pokračuje druhým dnem. Babiš: Jednání brzdí spor o výši fondu - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/evropa-pro-cechy/brusel-summit-babis-fond-koronavirus-20200718.html?utm_source=openai"
+              },
+              {
+                "end_index": 13138,
+                "start_index": 13033,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf"
+              },
+              {
+                "end_index": 13390,
+                "start_index": 13213,
+                "title": "Brífink premiéra Babiše k výsledkům jednání Evropské rady, 21. července 2020 | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/?utm_source=openai"
+              },
+              {
+                "end_index": 13832,
+                "start_index": 13720,
+                "title": "Nejdelší summit EU pokračuje. Shoda se přiblížila, komentoval kompromis nizozemský premiér | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-svet/summit-evropska-unie-michel_2007202237_pj?utm_source=openai"
+              },
+              {
+                "end_index": 14181,
+                "start_index": 14090,
+                "title": "PČR, PS 2021-..., 20. schůze, část 16 (3. 5. 2022)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2021ps/stenprot/020schuz/s020016.htm?utm_source=openai"
+              },
+              {
+                "end_index": 15152,
+                "start_index": 15031,
+                "title": "Programové období 2021-2027 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/zahranici-a-eu/hospodareni-eu/prostredky-alokovane-pro-cr/programove-obdobi-2021-2027"
+              },
+              {
+                "end_index": 15409,
+                "start_index": 15318,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/media/58633/2020-07-17-18-euco.pdf"
+              },
+              {
+                "end_index": 15712,
+                "start_index": 15573,
+                "title": "Víceletý finanční rámec 2021-2027 a Nástroj EU příští generace | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/zahranicni-sektor/hospodareni-eu/vicelety-financni-ramec/vicelety-financni-ramec-2021-2027-a-nast-43268"
+              },
+              {
+                "end_index": 16100,
+                "start_index": 15995,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf"
+              },
+              {
+                "end_index": 16626,
+                "start_index": 16526,
+                "title": "Special European Council - Consilium",
+                "type": "url_citation",
+                "url": "https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/"
+              },
+              {
+                "end_index": 16954,
+                "start_index": 16842,
+                "title": "Nejdelší summit EU pokračuje. Shoda se přiblížila, komentoval kompromis nizozemský premiér | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-svet/summit-evropska-unie-michel_2007202237_pj?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Kontext a význam tvrzení\n\nSporná pasáž (02/2026) navazuje na debatu o rozpočtu ČR a využití evropských peněz. Andrej Babiš odkazuje na:\n\n- **víceletý finanční rámec EU 2021–2027 (VFR) a nástroj NextGenerationEU (NGEU)**, z nichž plyne česká „národní obálka“;\n- **mimořádný summit Evropské rady 17.–21. 7. 2020**, kde se vedla hlavní politická jednání.\n\nTvrzení rozdělíme na dílčí:\n\n1. „Ty evropské fondy“ pro ČR mají objem cca **1 000 mld Kč**.\n2. Tyto fondy „**já jsem vyjednal / přinesl**“.\n3. „Navíc jsem přinesl **42 mld Kč**.“\n4. „Já jsem blokoval Evropskou radu **čtyři noci a pět dní**.“\n\nNíže u každé části shrnu fakta a podloženost.\n\n---\n\n## 2. Existuje pro ČR balík EU peněz kolem 1 000 mld Kč?\n\n### Fakta\n\n**Celková alokace pro ČR 2021–2027**\n\nMinisterstvo financí ČR (MF) uvádí pro programové období 2021–2027:  \n\n- z **kohezní politiky** (strukturální fondy + Fond soudržnosti): **19,8 mld EUR**,  \n- ze **Společné zemědělské politiky**: 6 mld EUR na přímé platby + 2 mld EUR na rozvoj venkova = **8 mld EUR**,  \n- z nástroje **RRF (Národní plán obnovy)**: odhadovaná alokace grantů **7,1 mld EUR**,  \n- z **Fondu pro spravedlivou transformaci**: **1,6 mld EUR**,  \n- z programu **REACT‑EU**: navýšení kohezní politiky pro ČR cca **1 mld EUR** (odhad, částka se odvíjí od dopadů pandemie). ([mfcr.cz](https://www.mfcr.cz/cs/zahranici-a-eu/hospodareni-eu/prostredky-alokovane-pro-cr/programove-obdobi-2021-2027))  \n\nSoučet těchto položek je zhruba **37,5 mld EUR**. Při kurzech v roce 2020 (~26–27 Kč/EUR) to odpovídá zhruba **0,99–1,0 bilionu Kč**.\n\n**Evropská komise – zastoupení v ČR**\n\nOficiální zastoupení Evropské komise v ČR shrnuje, že **Česká republika** v období 2021–27:  \n\n- „obdrží zhruba **bilion korun**“,  \n- z toho **550 mld Kč** na politiku soudržnosti, **200 mld Kč** na zemědělství a rozvoj venkova a **180 mld Kč** na Národní plán obnovy;  \n- „dalších minimálně **150 mld Kč**“ má Česko získat z mimorozpočtového **Modernizačního fondu**. ([czechia.representation.ec.europa.eu](https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs))  \n\n**Mediální odhady v době summitu (2020)**\n\nBezprostředně po summitu 17.–21. 7. 2020:\n\n- Deník.cz a Deník N uvádějí, že Česko bude moci v příštích sedmi letech čerpat **35,7 mld EUR**, což je „přibližně **950 mld Kč**“; dalších **15,4 mld EUR** (cca 410 mld Kč) si ČR může levně půjčit. ([denik.cz](https://www.denik.cz/evropa-pro-cechy/evropska-unie-fond-obnovy-cesko-20200721.html?utm_source=openai))  \n- Česká televize (ČT24) uvádí stejné číslo: 35,7 mld EUR ≈ 950 mld Kč. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/vyjednali-jsme-dobre-podminky-rekl-babis-po-evropskem-summitu-opozice-vysledky-jeho-vyjednavani-krit-47443?utm_source=openai))  \n- Komentář ČRo shrnuje, že „při započtení peněz z víceletého finančního rámce Unie si Česko bude moci sáhnout až na **960 mld Kč**“. ([plus.rozhlas.cz](https://plus.rozhlas.cz/babis-mel-na-summitu-jediny-cil-dostat-vic-penez-a-splnil-komentuje-houska-8256582?utm_source=openai))  \n- Na vládním brífinku po summitu mluví premiér Babiš o prostředcích „v celkové výši **964 mld Kč**“. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/?utm_source=openai))  \n\n### Hodnocení\n\n- **Čistě číselně** je tvrzení, že „evropské fondy“ pro ČR v tomto období mají **řádově 1 000 mld Kč**, **dobře podloženo** – oficiální vládní i unijní zdroje pracují s hodnotami cca 950–1 000 mld Kč (bez úvěrů).\n- Zda do tohoto čísla Babiš započítává i Modernizační fond (min. 150 mld Kč), není z jeho věty zcela jasné; oficiální materiály jej obvykle uvádějí zvlášť. ([czechia.representation.ec.europa.eu](https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs))  \n\n**Podloženost dílčího tvrzení „objem fondů ≈ 1 000 mld Kč“: VYSOKÁ**  \n(číslo odpovídá realitě, jde o zaokrouhlení různě uváděných hodnot kolem 950–1 000 mld Kč).\n\n---\n\n## 3. „Já jsem je vyjednal / 1 000 miliard jsem přinesl“\n\n### Jak vzniká tato „národní obálka“\n\n- **Evropská komise** předložila první balík návrhů VFR 2021–27 dne **2. 5. 2018** a kvůli pandemii Covid‑19 je přepracovala v květnu 2020, kdy zároveň navrhla i nástroj NextGenerationEU. ([mfcr.cz](https://www.mfcr.cz/cs/zahranicni-sektor/hospodareni-eu/vicelety-financni-ramec/vicelety-financni-ramec-2021-2027-a-nast-43268))  \n- **Dohody členských států** na výdajích a příjmech rozpočtu EU pro nové sedmileté období bylo dosaženo na **zasedání Evropské rady 17.–21. 7. 2020**. ([consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/))  \n- Následovala „složitá jednání Rady EU s Evropským parlamentem a Evropskou komisí“; legislativa VFR 2021–27 byla **formálně schválena 16.–17. 12. 2020** (nařízení o VFR a mezininstitucionální dohoda). ([mfcr.cz](https://www.mfcr.cz/cs/zahranicni-sektor/hospodareni-eu/vicelety-financni-ramec/vicelety-financni-ramec-2021-2027-a-nast-43268))  \n\nOficiální vysvětlení EU i ČR zdůrazňuje, že o rozpočtu rozhodují:\n\n- **Evropská komise** – předkládá návrh,  \n- **Rada EU (vlády členských států)** a **Evropský parlament** – návrh upravují a musí jej schválit. ([czechia.representation.ec.europa.eu](https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs))  \n\nSamotná výše národních obálek, zejména v kohezní politice, je navíc z velké části dána **vzorci podle populačních a ekonomických ukazatelů** (obyvatelstvo, HDP na hlavu v PPS, nezaměstnanost aj.), nikoli čistě politickým vyjednáváním. Tento princip je popsán přímo v závěrech Evropské rady pro MFF 2021–27. ([derechos.org](https://www.derechos.org/nizkor/econ/ec.html?utm_source=openai))  \n\n### Role Andreje Babiše\n\n- V oficiálním seznamu účastníků „Special meeting of the European Council“ (17–21. 7. 2020) je u položky „Czechia“ uveden **Andrej Babiš, Prime Minister** – tedy byl hlavním politickým vyjednavačem za ČR na summitu. ([consilium.europa.eu](https://www.consilium.europa.eu/media/58633/2020-07-17-18-euco.pdf))  \n- V českých a evropských médiích je zcela standardní, že se jednání o VFR/NGEU popisuje jako **kolektivní výsledek 27 lídrů**, nikoli jako zásluha jediného premiéra. Například shrnutí Evropské rady mluví o „maratonu, který skončil úspěchem pro všech 27 členských států“. ([consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/))  \n\n### Hodnocení\n\n- **Fakticky**: Andrej Babiš byl předsedou vlády a osobním účastníkem/hlavním vyjednavačem za ČR na mimořádném summitu, který dohodl základní parametry VFR a NGEU. Může tedy **oprávněně říci**, že se **podílel** na vyjednání podmínek a výše české obálky.\n- Nicméně:\n  - rozpočet navrhla Komise a formálně přijaly Rada a Evropský parlament;  \n  - značná část národní alokace plyne **automaticky z předem daných vzorců** a ekonomických parametrů, nikoli z individuálního vyjednávání jednoho lídra; ([derechos.org](https://www.derechos.org/nizkor/econ/ec.html?utm_source=openai))  \n  - konečné „zhruba bilionové“ částky jsou výsledkem **společného rozhodování** celé EU, nikoli jednostranného „přinesení“ peněz jedním premiérem. ([czechia.representation.ec.europa.eu](https://czechia.representation.ec.europa.eu/strategie-priority/rozpocet-eu-pro-ceskou-republiku_cs))  \n\n**Podloženost tvrzení „já jsem vyjednal / přinesl 1 000 mld“:  \nČÍSLA ANO, PŘIČÍTÁNÍ SI VÝLUČNÉ ZÁSLUHY JE VÝRAZNĚ ZVELIČENÉ**\n\nObsahově jde o **překlad reálného faktu** (ČR má díky vyjednávání i automatickým vzorcům přibližně 1 bilion Kč z EU) do silně personalizované roviny („já jsem je přinesl“), která ignoruje roli ostatních institucí, vzorců a aktérů.\n\n---\n\n## 4. „Navíc jsem přinesl 42 miliard“\n\n### Co říkají oficiální dokumenty\n\nV závěrech mimořádného summitu Evropské rady (dokument **EUCO 10/20**) je v bodu 67 uvedeno:\n\n> „… Structural Funds will provide the following **additional allocations** under the 'Investment for growth and jobs' goal: **EUR 1 550 million for the Czech Republic under the Cohesion Fund**, EUR 200 million for Belgium…, EUR 600 million for Poland… atd.“ ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n\nTo znamená:\n\n- ČR získala **dodatečný balík 1 550 mil. EUR** v rámci Fondu soudržnosti nad rámec původních výpočtů (v 2018 cenách).  \n- Při kurzech kolem 26–27 Kč/EUR v době summitu jde zhruba o **40–42 mld Kč**.\n\nNa tiskové konferenci po summitu premiér Babiš vysvětloval:\n\n- že se „podařilo vyjednat prostředky v celkové výši **964 mld Kč**“;  \n- a že „vyjednali jsme 1,1 miliardy 550 milionů eur. To je **42 miliard**, 42 miliard jsme vyjednali **navíc oproti předpokladu**… je to v dokumentu, který jsme vyjednávali, na straně 35“. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/?utm_source=openai))  \n\nČeský rozhlas shrnuje, že podle premiéra se Česku podařilo vyjednat „**42 mld Kč navíc**, a to hlavně v kohezní politice“. ([plus.rozhlas.cz](https://plus.rozhlas.cz/babis-mel-na-summitu-jediny-cil-dostat-vic-penez-a-splnil-komentuje-houska-8256582?utm_source=openai))  \n\n### Charakter těchto 42 mld\n\n- Jde o **dodatečnou alokaci** („additional allocation“) pro ČR v rámci kohezní politiky nad původní výchozí návrhy, jak je kodifikována v závěrech Evropské rady. ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n- Nejde ale o unikátní výjimku – **stejný bod 67** přiděluje „extra obálky“ i dalším státům (Belgie, Bulharsko, Polsko, Portugalsko, Slovinsko atd.). ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n\n### Hodnocení\n\n- **Číslo 42 mld Kč** odpovídá oficiálnímu rozhodnutí Evropské rady o dodatečné alokaci **1,55 mld EUR** pro ČR. V přepočtu a běžném mediálním zaokrouhlení je tato částka správná.  \n- Tato dodatečná suma je **výsledkem vyjednávání**, při němž česká delegace (v čele s premiérem) skutečně mohla sehrát roli. Vedle ČR ale získaly podobné „příplatky“ i jiné země. ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n\n**Podloženost dílčího tvrzení „navíc jsem přinesl 42 mld“:  \nČÍSLO A FAKT DODATEČNÉ ALOKACE – VYSOKÁ, PŘIČÍTÁNÍ SI VÝLUČNÉ ZÁSLUHY – PŘEHNANÉ, ALE ZDE UŽ LZE ROZUMNĚ MLUVIT O VYJEDNANÉM BONUSU**\n\n---\n\n## 5. „Tam jsem já seděl, já jsem blokoval Evropskou radu čtyři noci a pět dní“\n\n### Délka a průběh summitu\n\n- Oficiální stránka Evropské rady: „**Special European Council, 17–21 July 2020**“ – lídři EU se sešli v Bruselu a jednali od pátku 17. 7. do úterý 21. 7. 2020. ([consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/))  \n- Deník E15 píše, že se prezidenti a premiéři po „**čtyřech dnech a nocích vyjednávání na začátku pátého dne**“ dohodli na parametrech fondu obnovy a sedmiletého rozpočtu. ([e15.cz](https://www.e15.cz/zahranicni/dohoda-za-20-bilionu-staty-eu-nasly-shodu-na-fondu-obnovy-cesko-dostane-230-miliard-korun-1371662?utm_source=openai))  \n- Deník N označuje summit za „maratonský, **pětidení** summit EU“, který skončil dohodou až „dnes ráno“ (21. 7. 2020). ([denikn.cz](https://denikn.cz/402911/az-950-miliard-korun-by-mohla-ceska-republika-cerpat-z-pristiho-sedmileteho-rozpoctu-a-fondu-obnovy/?utm_source=openai))  \n- Andrej Babiš v rozhovoru pro iDNES mluví o tom, že jednali „**čtyři dny a čtyři noci**“, že spal jen pár hodin denně a poslední noc vůbec. ([idnes.cz](https://www.idnes.cz/zpravy/domaci/evropska-unie-brusel-fond-obnovy-premier-andrej-babis.A200721_220336_domaci_mah?utm_source=openai))  \n\nZ těchto zdrojů je zřejmé, že summit trval zhruba **čtyři celé dny a čtyři noci**, s ukončením na začátku **pátého dne** – tedy popis „čtyři noci a pět dní“ je časově v zásadě přesný.\n\n### Kdo „blokoval“ dohodu?\n\nZpravodajství a analytické texty z doby summitu:\n\n- iROZHLAS popisuje, že dohodě bránily zejména **spory mezi tzv. „šetřivými zeměmi“ (Nizozemsko, Rakousko, Dánsko, Švédsko)** a státy jihu; cituje např. formulaci, že nizozemský premiér **Mark Rutte** je „hlavní překážkou dohody“. ([irozhlas.cz](https://www.irozhlas.cz/zpravy-svet/summit-evropska-unie-michel_2007202237_pj?utm_source=openai))  \n- Další články (E15, Deník, Blesk) opakovaně zmiňují jako klíčové problémy:  \n  - odpor „frugal four“ proti vysokému podílu grantů,  \n  - spor o **podmíněnost čerpání prostředků právním státem** mezi Nizozemskem na jedné straně a Polskem/Maďarskem na straně druhé,  \n  - hádky o rabaty pro čisté plátce. ([denik.cz](https://www.denik.cz/evropa-pro-cechy/brusel-summit-babis-fond-koronavirus-20200718.html?utm_source=openai))  \n\nAndrej Babiš byl podle zpravodajství aktivní zejména v otázkách:\n\n- větší **flexibility převodů mezi fondy** (nakonec ČR dostala výjimku až 25 % místo běžných 20 %), ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n- navýšení alokace v kohezní politice a kritikou rabatů bohatých států. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/tiskove-konference/brifink-premiera-babise-k-vysledkum-jednani-evropske-rady--21--cervence-2020-182717/?utm_source=openai))  \n\n**Žádný nezávislý zdroj ale neuvádí, že by to právě ČR nebo osobně Andrej Babiš „blokovali“ jednání jako hlavní překážka dohody.** Naopak, za klíčové „blokující“ aktéry jsou v dobovém zpravodajství opakovaně označovány jiné státy (zejména Nizozemsko a další „šetřivé“ země, případně Polsko a Maďarsko ve věci právního státu). ([irozhlas.cz](https://www.irozhlas.cz/zpravy-svet/summit-evropska-unie-michel_2007202237_pj?utm_source=openai))  \n\nSám Babiš se v pozdějších projevech (např. ve Sněmovně v roce 2022–2023) stylizuje do role, že on nebo V4 „blokovali Evropskou radu“ kvůli obraně českých zájmů a navýšení obálek, ale jde o jeho vlastní politickou interpretaci, nikoli o vnější potvrzení. ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/020schuz/s020016.htm?utm_source=openai))  \n\n### Hodnocení\n\n- **Časový popis** – „čtyři noci a pět dní“ – odpovídá realitě délky summitu.  \n- Formulace „**já jsem blokoval Evropskou radu**“ naráží na to, že:\n  - rozhodování v Evropské radě je kolektivní;  \n  - jednání byla komplikována především spory mezi jinými skupinami členských států;  \n  - žádný nezávislý popis summitu nepřisuzuje hlavní „blokující“ roli ČR nebo Andreji Babišovi.  \n\n**Podloženost dílčího tvrzení „já jsem blokoval Evropskou radu čtyři noci a pět dní“:  \nČASOVĚ PŘESNÉ, ALE TVRZENÍ O BLOKOVÁNÍ JE NEPODLOŽENÉ A ZJEVNĚ HYPERBOLICKÉ**\n\n---\n\n## 6. Shrnutí podloženosti jednotlivých částí výroku\n\n1. **Existence „evropských fondů“ pro ČR v objemu cca 1 000 mld Kč (2021–2027)**  \n   - Silně podloženo oficiálními daty MF ČR a Evropské komise (cca 950–1 000 mld Kč) – číslo je reálně správného řádu, jde o zaokrouhlení. ([mfcr.cz](https://www.mfcr.cz/cs/zahranici-a-eu/hospodareni-eu/prostredky-alokovane-pro-cr/programove-obdobi-2021-2027))  \n\n2. **„Já jsem je vyjednal / 1 000 miliard jsem přinesl“**  \n   - Babiš byl hlavním vyjednavačem za ČR na klíčovém summitu Evropské rady a na výsledku se podílel. ([consilium.europa.eu](https://www.consilium.europa.eu/media/58633/2020-07-17-18-euco.pdf))  \n   - Přisuzuje si však **výlučnou zásluhu za výsledek komplexního procesu**, který zahrnoval Komisi, Radu EU, Evropský parlament a vzorce pro rozdělování fondů. ([mfcr.cz](https://www.mfcr.cz/cs/zahranicni-sektor/hospodareni-eu/vicelety-financni-ramec/vicelety-financni-ramec-2021-2027-a-nast-43268))  \n   - **Silně zveličené/personalizované**, spíše politická rétorika než přesný popis reality.\n\n3. **„Navíc jsem přinesl 42 mld“**  \n   - V závěrech Evropské rady je skutečně uveden **dodatečný balík 1 550 mil. EUR pro ČR** v rámci Fondu soudržnosti, což odpovídá cca 40–42 mld Kč. ([consilium.europa.eu](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf))  \n   - Jde o reálné navýšení oproti původnímu návrhu, byť v rámci širšího balíku dodatečných alokací i pro jiné státy.  \n   - **Číselně a věcně podloženo**, míra osobní zásluhy je – stejně jako u celkového balíku – částečně rétorická, ale zde lze přiměřeně mluvit o „vyjednaném bonusu“ pro ČR.\n\n4. **„Já jsem blokoval Evropskou radu čtyři noci a pět dní“**  \n   - Délka jednání: popis čtyř nocí a pět dní je v zásadě přesný. ([consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/european-council/2020/07/17-21/))  \n   - O tom, že by právě Babiš/ČR byli „blokující“ stranou, žádné nezávislé zdroje nehovoří; za hlavní překážky dohody jsou označovány jiné státy (zejména tzv. „frugal“ země a spor Nizozemsko vs. Polsko/Maďarsko). ([irozhlas.cz](https://www.irozhlas.cz/zpravy-svet/summit-evropska-unie-michel_2007202237_pj?utm_source=openai))  \n   - **Tvrzení o blokování je nepodložené a zjevně hyperbolické** – jde o sebe-stylizaci, nikoli doložený fakt.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 83261,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 18992,
+      "output_tokens_details": {
+        "reasoning_tokens": 13701
+      },
+      "total_tokens": 102253
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1770636769,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

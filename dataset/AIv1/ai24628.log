@@ -1,0 +1,571 @@
+{
+  "claim_id": "24628",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24628.md",
+  "fact_check": "# Fact Check for Statement ID 24628\n\n## Statement\nVětrníky u nás dělají 1 %.\n\n---\n## AI Fact Check\n## 1. Shrnutí\n\n- Nejpravděpodobnější interpretace výroku „Větrníky u nás dělají 1 %“ je: **větrné elektrárny se v ČR podílejí zhruba 1 % na celkové výrobě / spotřebě elektřiny**.  \n- Oficiální statistiky ERÚ/ČSÚ ukazují, že **podíl větrných elektráren na celkové výrobě elektřiny v ČR byl**:\n  - 2021: 0,7 % ([csu.gov.cz](https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai))  \n  - 2022: 0,8 % ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/701078-vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2022-temer-z-63--se-na-vyrobe-podilely/?utm_source=openai))  \n  - 2023: 0,9 % ([csu.gov.cz](https://csu.gov.cz/msk/energetika-v-moravskoslezskem-kraji-v-roce-2023?utm_source=openai))  \n  - 2024: 1,0 % ([csu.gov.cz](https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai))  \n- Data o výrobě z větru (TWh) ze specializované ČSVE i mediální zdroje (ČTK / WindEurope) potvrzují, že v roce 2024 **větrné elektrárny vyrobily ~0,7 TWh a pokryly asi 1 % domácí spotřeby elektřiny**. ([csve.cz](https://www.csve.cz/o-elektrarnach/statistiky/))  \n- Pokud by byl výrok chápán jinak (např. jako **podíl větru na výrobě z OZE** nebo **na instalovaném výkonu**), hodnota 1 % neodpovídá skutečnosti (cca 6 % z výroby OZE a cca 1,5–1,8 % instalovaného výkonu). ([ris3.gov.cz](https://ris3.gov.cz/monitoring/indikatory/m01c0201-podil-oze-na-vyrobe-elektriny-brutto?utm_source=openai))  \n\nCelkově tedy dostupná data ukazují, že **pro běžně užívaný ukazatel – podíl větru na celkové výrobě/spotřebě elektřiny v ČR – se hodnota „kolem 1 %“ shoduje s aktuální realitou**.\n\n---\n\n## 2. Identifikace a interpretace výroku\n\n### 2.1 Doslovný výrok\n\n> „Pomíjím to, že ty větrníky u nás dělají 1 %.“\n\nKontext: debata o akceleračních zónách a výstavbě větrných elektráren; před i po výroku se mluví o **energetickém mixu, výrobě elektřiny a sítích**.\n\n### 2.2 Možné interpretace\n\n1. **Podíl větrných elektráren na celkové výrobě elektřiny v ČR**  \n   – nejběžnější a v daném kontextu nejlogičtější interpretace (diskuse o „mixu zdrojů“).\n\n2. Podíl větru na **hrubé domácí spotřebě elektřiny**  \n   – obdobný koncept, liší se jen o čistý export/import.\n\n3. Podíl větru na:\n   - **celkové výrobě z OZE** (jen obnovitelné zdroje),\n   - **instalovaném výkonu** v energetice,\n   - případně na **celkové hrubé konečné spotřebě energie** (všechny druhy energie, nejen elektřina).\n\nNíže ověřuji primárně interpretace 1–2, protože odpovídají kontextu rozhovoru. Alternativní interpretace shrnu zvlášť v bodě 5.\n\n---\n\n## 3. Podíl větrných elektráren na celkové výrobě elektřiny v ČR\n\n### 3.1 Oficiální data ERÚ/ČSÚ – vývoj podílu větru\n\nČeský statistický úřad (ČSÚ) ve svých krajských komentářích pravidelně uvádí **celostátní strukturu výroby elektřiny podle typu elektráren**, přičemž zdrojem dat je ERÚ.\n\n#### Rok 2021\n\nKomentář ČSÚ k Pardubickému kraji shrnuje strukturu výroby elektřiny v celé ČR v roce 2021:\n\n> „Fotovoltaické elektrárny se na objemu vyrobené elektřiny podílely 2,5 % a **větrné elektrárny 0,7 %**.“ ([csu.gov.cz](https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai))  \n\n#### Rok 2022\n\nText (přetištěný např. na Kurzy.cz) s odkazem na údaje ČSÚ/ERÚ uvádí pro rok 2022:\n\n> „… v celé České republice 48,6 % vyrobené elektřiny připadlo na parní elektrárny, 36,7 % na jaderné, … 2,7 % na elektrárny fotovoltaické, 2,5 % na vodní, 1,2 % na přečerpávací a na **větrné pouze 0,8 %**.“ ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/701078-vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2022-temer-z-63--se-na-vyrobe-podilely/?utm_source=openai))  \n\n#### Rok 2023\n\nKomentář ČSÚ k Moravskoslezskému kraji obsahuje i celostátní strukturu výroby elektřiny v roce 2023:\n\n> „V Česku bylo v roce 2023 vyrobeno celkem 76 938,5 GWh elektrické energie… Ostatní druhy elektráren se na celkové výrobě elektřiny podílely … 3,8 % fotovoltaické elektrárny, 2,7 % paroplynové elektrárny a **0,9 % větrné elektrárny**.“ ([csu.gov.cz](https://csu.gov.cz/msk/energetika-v-moravskoslezskem-kraji-v-roce-2023?utm_source=openai))  \n\n#### Rok 2024 (předběžná data)\n\nČSÚ – komentář k Jihomoravskému kraji za rok 2024 (opět s celostátní rekapitulací):\n\n> „V České republice bylo v roce 2024 podle předběžných údajů vyrobeno celkem 73 857,4 GWh elektrické energie… 41,3 % vyrobené elektřiny připadlo na parní elektrárny, 40,2 % na jaderné, … 2,8 % na paroplynové a na **větrné 1,0 % vyrobené elektřiny**.“ ([csu.gov.cz](https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai))  \n\nStejnou celostátní strukturu (včetně 1,0 % pro vítr) obsahuje i komentář ČSÚ k Libereckému kraji: ([csu.gov.cz](https://csu.gov.cz/lbk/vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2024?utm_source=openai))  \n\n### 3.2 Souhrnná tabulka (podíl větru na celkové výrobě elektřiny, ČR)\n\nNa základě výše citovaných oficiálních zdrojů:\n\n| Rok | Podíl větrných elektráren na brutto výrobě elektřiny v ČR |\n|-----|----------------------------------------------------------|\n| 2021 | 0,7 % ([csu.gov.cz](https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai)) |\n| 2022 | 0,8 % ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/701078-vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2022-temer-z-63--se-na-vyrobe-podilely/?utm_source=openai)) |\n| 2023 | 0,9 % ([csu.gov.cz](https://csu.gov.cz/msk/energetika-v-moravskoslezskem-kraji-v-roce-2023?utm_source=openai)) |\n| 2024 | 1,0 % (předběžně) ([csu.gov.cz](https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai)) |\n\n**Závěr k výrobě:**  \nPodíl větrných elektráren na celkové výrobě elektřiny v ČR se v posledních letech **postupně zvyšuje od 0,7 % (2021) k 1,0 % (2024)**.  \n\nVýrok „větrníky u nás dělají 1 %“ tedy **dobře odpovídá nejnovějšímu dostupnému roku (2024)** a i u předchozích let jde o velmi přesný zaokrouhlený popis („kolem 1 %“).\n\n---\n\n## 4. Výroba větrných elektráren a podíl na spotřebě elektřiny\n\n### 4.1 Výroba z větru (TWh) – Česká společnost pro větrnou energii (ČSVE)\n\nČSVE uvádí oficiální statistiky výroby elektřiny z větru (brutto) podle měsíců a roku. V řádku „CELKEM“:\n\n- 2021: 601 500 MWh  \n- 2022: 641 320 MWh  \n- 2023: 701 600 MWh  \n- 2024: 716 800 MWh ([csve.cz](https://www.csve.cz/o-elektrarnach/statistiky/))  \n\nTo odpovídá cca **0,60 / 0,64 / 0,70 / 0,72 TWh ročně**, tedy velmi malému, ale rostoucímu objemu výroby z větru.\n\nTato čísla potvrzuje i analýza EGÚ Brno citovaná v článku Novinky.cz:\n\n> „Větrná energie v Česku i v roce 2023 stagnovala, když její výroba dosáhla **700 GWh**.“ ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-vyroba-elektriny-loni-klesla-o-10-procent-40456106))  \n\n### 4.2 Podíl větru na domácí spotřebě elektřiny\n\nČlánek ČTK / ENERGY-HUB (shrnutí zprávy WindEurope) pro rok 2024:\n\n> „V loňském roce **pokryly větrné elektrárny ČR jedno procento v tuzemsku spotřebované elektřiny**, přičemž podíl v posledních letech stagnuje. … Větrné elektrárny loni v ČR vyrobily celkem **0,7 TWh** elektřiny.“ ([energy-hub.cz](https://www.energy-hub.cz/sk/articles/1119579/vetrna-energie-pokryva-1-pct-tuzemske-spotreby-v-rozvoji-cr-zaostava-za-evropou?utm_source=openai))  \n\nNezávisle na tom občanské sdružení „Vítr v krajině“ (čerpající z oficiálních statistik) uvádí:\n\n> „V České republice **větrné elektrárny pokrývají zhruba 1 % vyrobené elektřiny**.“ ([vitrvkrajine.cz](https://www.vitrvkrajine.cz/pruvodcevetrnouenergii?utm_source=openai))  \n\nDalší analytický článek (Hrot24, s odkazem na datovou organizaci Ember) konstatuje:\n\n> „Ještě horší je situace u větrné energie, **jejíž podíl se dlouhodobě pohybuje kolem jednoho procenta**…“ ([hrot24.cz](https://www.hrot24.cz/clanek/eu-vyrobila-vice-elektriny-z-vetru-a-slunce-nez-z-uhli-a-plynu-cesko-zaostava-HU6xd?utm_source=openai))  \n\n### 4.3 Dílčí čtvrtletní údaje\n\nPro ilustrační starší údaje:  \nČlánek Svět hospodářství o 3. čtvrtletí uvádí, že **větrné elektrárny se podílely na celkové brutto výrobě elektřiny 0,67 %** (konkrétní období – třetí čtvrtletí daného roku). ([svethospodarstvi.cz](https://svethospodarstvi.cz/ekonomika/v-cesku-se-setri-elektrinou-i-plynem/?utm_source=openai))  \n\n**Závěr ke spotřebě:**  \nZ nezávislých zdrojů (WindEurope/ČTK, odborné články, NGO) vyplývá, že **větrné elektrárny pokrývají zhruba 1 % domácí spotřeby i výroby elektřiny**, což je zcela v souladu s oficiálními českými statistikami.\n\n---\n\n## 5. Alternativní interpretace: OZE a instalovaný výkon\n\n### 5.1 Podíl větru na výrobě elektřiny z OZE\n\nIndikátor „Podíl OZE na výrobě elektřiny brutto“ (RIS3, zdroj ERÚ) rozepisuje **podíl jednotlivých obnovitelných zdrojů na výrobě z OZE** v roce 2022:\n\n> „… nejvýznamnějším obnovitelným zdrojem biomasa (25,5 %), … fotovoltaika (22,0 %), vodní energie (20,1 %), **větrná energie (6,1 %)**…“ ([ris3.gov.cz](https://ris3.gov.cz/monitoring/indikatory/m01c0201-podil-oze-na-vyrobe-elektriny-brutto?utm_source=openai))  \n\nTzn. **mezi obnovitelnými zdroji tvoří vítr cca 6 % výroby z OZE**, nikoli 1 %.  \n\nPokud by výrok „dělají 1 %“ měl být chápán jako **podíl větru v rámci OZE**, neodpovídal by datům.\n\n### 5.2 Podíl větru na instalovaném výkonu\n\n#### Oficiální statistiky ČSÚ / ERÚ (2024)\n\nPro rok 2024 (Jihomoravský kraj – celostátní souhrn):\n\n> „Instalovaný výkon elektráren v České republice dosáhl k 31. 12. 2024 hodnoty 22 929,0 MW. Nejvyšší podíl … 41,2 % parní, 18,7 % jaderné, 17,2 % fotovoltaické … a **1,5 % na větrné elektrárny**.“ ([csu.gov.cz](https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai))  \n\n#### Statistika ČSVE – energetický mix (k 31. 12. 2024)\n\nČSVE uvádí instalované výkony podle typů zdrojů, např. pro rok 2024:\n\n- Větrné elektrárny: **363,1 MW**  \n- Celkem ČR: **22 980,7 MW** ([csve.cz](https://www.csve.cz/o-elektrarnach/statistiky/))  \n\nTo odpovídá podílu větru na instalovaném výkonu kolem **1,6 %**.\n\n#### Registr OTE (stav 31. 12. 2025)\n\nOTE eviduje instalovaný výkon registrovaných zdrojů:\n\n- Větrné elektrárny: **384,6 MW**  \n- Celkový součet všech zdrojů: **21 585,9 MW** ([ote-cr.cz](https://www.ote-cr.cz/cs/statistika/statistika-poze/registrace?utm_source=openai))  \n\nPodíl větru na registrovaném výkonu OTE tedy vychází cca **1,8 %**.\n\n**Závěr ke kapacitě:**  \nPokud by výrok „1 %“ mířil k **podílu větrných elektráren na instalovaném výkonu**, číslo by oficiálně bylo spíše **1,5–1,8 %**, tedy o něco vyšší než 1 %.  \n\nZároveň i tato čísla potvrzují, že **vítr má v ČR stále velmi malý podíl** v porovnání s ostatními zdroji.\n\n---\n\n## 6. Shrnutí relevance k výroku „Větrníky u nás dělají 1 %“\n\n### 6.1 Podíl na celkové výrobě / spotřebě elektřiny\n\n- ERÚ/ČSÚ (oficiální statistika) ukazují, že **větrné elektrárny tvořily v posledních letech 0,7–1,0 % brutto výroby elektřiny**, přičemž **nejnovější rok 2024 dává přesně 1,0 %**. ([csu.gov.cz](https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai))  \n- ČSVE, EGÚ Brno a WindEurope potvrzují výrobu z větru kolem **0,7 TWh ročně** a odhad podílu **asi 1 % na domácí spotřebě elektřiny**. ([csve.cz](https://www.csve.cz/o-elektrarnach/statistiky/))  \n\n**=> V rámci nejběžnější interpretace (podíl na celkové výrobě / spotřebě elektřiny) je hodnota 1 % plně v souladu s dostupnými daty.**\n\n### 6.2 Alternativní možné interpretace\n\n- **Podíl větru na výrobě elektřiny z OZE:** cca **6 %** (2022), nikoli 1 %. ([ris3.gov.cz](https://ris3.gov.cz/monitoring/indikatory/m01c0201-podil-oze-na-vyrobe-elektriny-brutto?utm_source=openai))  \n- **Podíl větru na instalovaném výkonu:** cca **1,5–1,8 %** dle různých oficiálních statistik. ([csu.gov.cz](https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai))  \n\nTyto ukazatele se v politických a mediálních debatách používají méně často; kontext rozhovoru navíc směřuje k celkovému energetickému mixu, nikoli k detailní struktuře OZE.\n\n---\n\n## 7. Celkové zhodnocení\n\n- Při **nejpravděpodobnější a kontextově odpovídající interpretaci** („větrníky u nás dělají ~1 % veškeré elektřiny“) je výrok **numericky v souladu s oficiálními daty** – zejména pro rok 2024 (1,0 %) a zhruba odpovídá i předchozím rokům (0,7–0,9 %). ([csu.gov.cz](https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai))  \n- Pokud by někdo výrok chápal jako tvrzení o **podílu větru na OZE** nebo na **instalovaném výkonu**, hodnota 1 % by neodpovídala, ale tato interpretace je vzhledem ke kontextu výroku méně pravděpodobná.  \n\nPro rozhodnutí fact-checkera je tedy klíčové, že **v rovině „kolik dělají větrníky na celkové výrobě/spotřebě elektřiny v ČR“ se dostupná čísla velmi těsně shodují s uvedeným „1 %“**.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:17:27\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nTady byly dotační závody o podporu obnovitelných zdrojů. Já netvrdím, že obnovitelný zdroj je principiálně špatně, je to jeden ze zdrojů do budoucnosti. V každém případě o co více vy jste dotačně podporovali obnovitelné zdroje, a byly to fakt závody, tak o to více se potom musí investovat právě do těch distribučních sítí a do přenosových soustav, a to zvyšuje tu regulovanou složku té elektřiny, takže bohužel to s sebou nese i stinné stránky. Co se týká toho uhlí, tak uhlí je samo o sobě velmi levný a stabilní zdroj. Problém je v tom, že je zatížen cenou emisní povolenky naprosto brutálně, to činí 90 % ceny. To nevyčítám vám, to je prostě dlouhodobá záležitost. Vy jste proti tomu příliš nebojovali, ale popravdě řečeno, Evropa s tímhle tím má obrovský problém. A to tažení proti cenám emisních povolenek jsme zahájili až za naší vlády. A co se týká těch nových bloků, ať už to jsou jaderné bloky v Dukovanech, asi jste zaregistrovali, že jsme zahájili rovněž přípravu temelínských bloků, i když o tom ještě není rozhodnuto a pochopitelně pracujeme dále na malých modulárních reaktorech. Tak to jsou investice, které nefinancuje přímo stát, jsou to investovány, jsou investovány prostřednictvím, v tomhle případě buď ČEZu nebo jeho dceřiné společnosti, kterou má stát sice pod kontrolou, ale pochopitelně jejich to, co se bude splácet za ty zdroje, bude hrazeno pochopitelně z výnosu z té energie, to znamená, je to dáno tzv. kontrahovanou cenou, tzv., tzv. systémem kontraktu /nesrozumitelné/, jinými slovy, kdy vykupujeme za předem danou cenu.\\n00:18:54\\nTerezie Tománková,moderátorka\\nA na těch akceleračních zónách, které nakonec porostou, přestože Motoristé říkali, že je budou demontovat, na těch bude růst co?\\n00:19:00\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nAkcelerační zóny jsou trošku něco jiného. My jsme zde zdědili bohužel záměr pana ministra Hladíka a možná celé vlády, já nevím, kdo to všechno vymýšlel, kde se prostě bafuňářsky podívali na mapu České republiky a takhle tam roztrousili akcelerační zóny, kde by se měly stavět zejména tedy větrníky. Pomíjím to, že ty větrníky u nás dělají 1 %, ale to, co je horší, je to, že to nebylo projednáno s kraji, ale zejména potom s těmi dotčenými obcemi a podobně. Jinými slovy, několik set větrníků by vzniklo bez toho, aniž by se tam mohli vyjádřit ti dotyční obyvatelé. A my říkáme, nechť akcelerační zóny někde fungují, ale tam, kde bude alespoň částečná shoda, nebo tam, kde to nikomu nebude vadit, ale hlavně nemůžeme to udělat tak, že to tam vrzneme bez toho, aniž bychom to s nimi projednali.\\n00:19:47\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Větrníky u nás dělají 1 %.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 298.64 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Podíl větrných elektráren na výrobě i spotřebě elektřiny v ČR se v posledních letech pohyboval kolem 1 %, v roce 2024 dosáhl podle oficiálních statistik přesně 1 %. Výrok „Větrníky u nás dělají 1 %“ proto hodnotíme jako pravdivý.</p>\n\n<p>Výrok zazněl v debatě o energetickém mixu a rozvoji větrné energetiky. Z formulace <i>„větrníky u nás dělají 1 %“</i> a z kontextu rozhovoru lze usuzovat, že <i>„u nás“</i> označuje Českou republiku a že mluvčí mluví o podílu větrných elektráren na celkové výrobě nebo spotřebě elektřiny. V dalším textu proto tuto interpretaci používáme.</p>\n\n<p>Výrok obsahuje v zásadě dvě faktická tvrzení: zaprvé, že jde o situaci v České republice, zadruhé, že větrné elektrárny se na celkové výrobě či spotřebě elektřiny podílejí zhruba 1 %. První část je zřejmá už z jazykové formulace a není v odborných zdrojích nijak zpochybňována. Druhou část jsme ověřovali na základě oficiálních statistik státních institucí a odborných organizací.</p>\n\n<p>Podle komentářů <a href=\"https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021\">Českého statistického úřadu</a> (ČSÚ), které shrnují celostátní strukturu výroby elektřiny, činil podíl větrných elektráren na celkové (brutto) výrobě elektřiny v České republice v roce 2021 <i>„větrné elektrárny 0,7 %“</i>, v roce 2022 to bylo 0,8 % podle souhrnu z dat ČSÚ a Energetického regulačního úřadu citovaného na portálu <a href=\"https://zpravy.kurzy.cz/701078-vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2022-temer-z-63--se-na-vyrobe-podilely/\">Kurzy.cz</a>, v roce 2023 pak ČSÚ uvádí podíl větrných elektráren 0,9 % v komentáři k Moravskoslezskému kraji s celostátní rekapitulací výroby elektřiny <a href=\"https://csu.gov.cz/msk/energetika-v-moravskoslezskem-kraji-v-roce-2023\">energetiky</a> a pro rok 2024 podle předběžných údajů připadlo na větrné elektrárny přesně 1,0 % brutto výroby elektřiny v celém Česku, jak vyplývá z komentáře ČSÚ k Jihomoravskému kraji s vloženou celostátní tabulkou <a href=\"https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024\">výroby elektřiny</a>.</p>\n\n<p>Objem samotné výroby z větru potvrzuje i oborová statistika <a href=\"https://www.csve.cz/o-elektrarnach/statistiky/\">České společnosti pro větrnou energii</a>, podle které větrné elektrárny v letech 2021–2024 vyrobily přibližně 0,60–0,72 TWh elektřiny ročně (tj. 600–720 GWh), tedy malé, ale mírně rostoucí množství. Analýzu těchto údajů cituje například článek na serveru <a href=\"https://www.novinky.cz/clanek/ekonomika-vyroba-elektriny-loni-klesla-o-10-procent-40456106\">Novinky.cz</a>, který uvádí, že výroba z větru v roce 2023 dosáhla zhruba 700 GWh.</p>\n\n<p>Pokud se podíváme na podíl větru nikoli na výrobě, ale přímo na domácí spotřebě elektřiny, vycházejí výsledky velmi podobně. V přehledu agentury ČTK o stavu větrné energetiky, zveřejněném například na portálu <a href=\"https://www.energy-hub.cz/sk/articles/1119579/vetrna-energie-pokryva-1-pct-tuzemske-spotreby-v-rozvoji-cr-zaostava-za-evropou\">Energy‑hub</a>, se píše, že větrné elektrárny v ČR v posledním roce vyrobily přibližně 0,7 TWh elektřiny a tím <i>„pokryly jedno procento v tuzemsku spotřebované elektřiny“</i>. Občanský projekt <a href=\"https://www.vitrvkrajine.cz/pruvodcevetrnouenergii\">Vítr v krajině</a>, který vychází z oficiálních statistik, shrnuje, že větrné elektrárny v České republice pokrývají zhruba 1 % vyrobené elektřiny. Na dlouhodobě velmi nízký podíl větru v českém mixu upozorňuje i analytický článek serveru <a href=\"https://www.hrot24.cz/clanek/eu-vyrobila-vice-elektriny-z-vetru-a-slunce-nez-z-uhli-a-plynu-cesko-zaostava-HU6xd\">Hrot24</a>, podle kterého se podíl větrné energie v ČR dlouhodobě pohybuje kolem jednoho procenta.</p>\n\n<p>Výrok je možné teoreticky vykládat i jinak, například jako tvrzení o podílu větru mezi čistě obnovitelnými zdroji (OZE) nebo o podílu větru na instalovaném výkonu všech elektráren. V takovém případě by ale číslo 1 % neodpovídalo. Indikátor „Podíl OZE na výrobě elektřiny brutto“, zveřejněný v systému <a href=\"https://ris3.gov.cz/monitoring/indikatory/m01c0201-podil-oze-na-vyrobe-elektriny-brutto\">RIS3</a> na základě dat Energetického regulačního úřadu, uvádí pro rok 2022, že větrná energie tvořila přibližně 6,1 % výroby z obnovitelných zdrojů, nikoli 1 %. V rámci samotných OZE má tedy vítr v ČR vyšší, ale stále menšinový podíl.</p>\n\n<p>Podíváme‑li se na instalovaný výkon, ukazují oficiální statistiky rovněž čísla vyšší než 1 %, ale stále velmi nízká. Podle stejného komentáře ČSÚ k Jihomoravskému kraji za rok 2024 činil celkový instalovaný výkon elektráren v ČR 22 929 MW a větrné elektrárny z toho tvořily 1,5 % <a href=\"https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024\">kapacity</a>. Česká společnost pro větrnou energii ve svém přehledu instalovaných výkonů uvádí, že k 31. 12. 2024 měly větrné elektrárny výkon 363,1 MW z celkových 22 980,7 MW, tedy zhruba 1,6 % celkového výkonu <a href=\"https://www.csve.cz/o-elektrarnach/statistiky/\">energetiky</a>. Registr zdrojů provozovatele trhu OTE pro konec roku 2025 ukazuje 384,6 MW větrných elektráren z celkových 21 585,9 MW registrovaných zdrojů, což odpovídá podílu přibližně 1,8 % <a href=\"https://www.ote-cr.cz/cs/statistika/statistika-poze/registrace\">kapacity</a>.</p>\n\n<p>Z těchto údajů je patrné, že pokud by byl výrok chápán jako tvrzení o podílu větru v rámci obnovitelných zdrojů nebo na instalovaném výkonu, hodnota 1 % by byla spíše podhodnocená. V politické debatě se ale typicky mluví o tom, kolik procent z celkové výroby či spotřeby elektřiny jednotlivé zdroje zajišťují, a tomu odpovídá i použitá formulace o „tom, co větrníky u nás dělají“.</p>\n\n<p>Po zvážení všech interpretací proto vycházíme z nejpravděpodobnějšího významu výroku: že větrné elektrárny se v České republice podílejí zhruba 1 % na celkové výrobě nebo spotřebě elektřiny. Tento podíl odpovídá podle oficiálních statistik ČSÚ a ERÚ pro rok 2024 přesně 1,0 % a v předchozích letech se pohyboval těsně pod jedním procentem. Stejný řád velikosti potvrzují i odborné a novinářské analýzy. Výrok „Větrníky u nás dělají 1 %“ tedy hodnotíme jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0cf31477811251780069a6da63441c81909468e18ea99546b9",
+    "created_at": 1772542563.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0cf31477811251780069a6da6bea3881908f161f29c5654e6f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6da75e6048190ba0ec165fea506b2",
+        "action": {
+          "query": "\"podíl\" větrné energie na výrobě elektřiny česká republika 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"podíl\" větrné energie na výrobě elektřiny česká republika 2023",
+            "ERU statistika podil vetrne elektrarny na brutto vyrobe elektriny CR 2022",
+            "\"větrné elektrárny\" podíl na hrubé spotřebě elektřiny Česká republika",
+            "MPO \"Zpráva o provozu ES\" větrné elektrárny Česká republika 2022 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6da7a03ec8190a761ac9d6855c71c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6da7f387c81909699c72501a2c137",
+        "action": {
+          "query": "\"Energetický regulační úřad\" statistika brutto výroba elektřiny zdroje 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Energetický regulační úřad\" statistika brutto výroba elektřiny zdroje 2023",
+            "\"ERU\" \"Elektroenergetika\" \"Ročenka\" 2023 větrné elektrárny",
+            "\"OTE\" výroba elektřiny dle typu zdroje 2023 větrné",
+            "\"podíl\" větrných elektráren na brutto výrobě elektřiny v České republice 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6da83ee44819084122ae8e264f049",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6da87292481909c4466ea0b5d6f1a",
+        "action": {
+          "query": "\"Roční zpráva o provozu elektrizační soustavy\" 2023 větrné elektrárny",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Roční zpráva o provozu elektrizační soustavy\" 2023 větrné elektrárny",
+            "\"větrné elektrárny\" \"podíl\" \"brutto výroba\" \"2022\" \"ERU\"",
+            "\"větrné\" \"elektrárny\" \"podílely na celkové brutto výrobě elektřiny\"",
+            "\"0,67 %\" \"větrné elektrárny\" \"brutto výrobě\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6da8b07a88190ab5d36c192c24b0b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6da8fc7c481909414a2576c359e2e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6da9296ac8190a05f65187a1796e6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6da955eb88190bc90e6ba3cf475a1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6da96d4ac819091c2ac09b042bc13",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6da9b78c08190a32fad92c8fe696d",
+        "action": {
+          "query": "\"Větrné elektrárny\" \"podílely\" \"0,8 %\" \"výroby elektřiny\" Česká republika 2022",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Větrné elektrárny\" \"podílely\" \"0,8 %\" \"výroby elektřiny\" Česká republika 2022",
+            "\"větrné elektrárny\" \"0,9 %\" \"vyrobeno\" \"76 938,5 GWh\"",
+            "\"větrná\" \"energie\" \"pokryly\" \"spotřebované elektřiny\" \"0,7 TWh\"",
+            "\"větrné\" \"0,7 TWh\" \"Česku\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6da9f7af88190ae90dd92f922ba1e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6daafb6108190abd16e5eb39907e0",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6dab122fc8190aae8ca03041ca8bf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_0cf31477811251780069a6dab58cc48190bc2e4d263f0e8bf8",
+        "code": "total_2023=76938.5\nwind_2023=701.6\nwind_share_2023=wind_2023/total_2023*100\ntotal_2024=73857.4\nwind_2024=716.8\nwind_share_2024=wind_2024/total_2024*100\nwind_share_2023, wind_share_2024",
+        "container_id": "cntr_69a6da6a8b348193b5b20a041e8443180eddafe71a4a54f6",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6dabac014819080b34dd05272a522",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6dacc76dc8190bce52f18c8021494",
+        "action": {
+          "query": "\"Výroba a spotřeba elektřiny v Libereckém kraji v roce 2022\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Výroba a spotřeba elektřiny v Libereckém kraji v roce 2022\"",
+            "\"Výroba a spotřeba elektřiny v Libereckém kraji v roce 2024\" \"ČSÚ\"",
+            "\"v celé České republice 48,6 % vyrobené elektřiny připadlo na parní elektrárny\"",
+            "\"na větrné pouze 0,8 %\" \"vyrobené elektřiny\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6dacfb6748190af2276d42628d3b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6dad1f3bc81909827a2a1feb5ff2a",
+        "action": {
+          "query": "\"V České republice se vloni vyrobilo\" \"z OZE celkem\" 10 437,4 GWh",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"V České republice se vloni vyrobilo\" \"z OZE celkem\" 10 437,4 GWh",
+            "\"48,6 % vyrobené elektřiny připadlo na parní elektrárny\" 36,7 % na jaderné",
+            "\"48,6 % vyrobené elektřiny\" \"36,7 %\" \"větrné\" \"0,8 %\"",
+            "\"v celé České republice 48,6 % vyrobené elektřiny\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6dad515c881909c553312e2cc9767",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6dadb68488190bb4b6a8e10ff8c07",
+        "action": {
+          "query": "\"podíl větrné energie\" \"hrubé konečné spotřebě\" \"Česká republika\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"podíl větrné energie\" \"hrubé konečné spotřebě\" \"Česká republika\"",
+            "Eurostat share of energy from wind in gross final electricity consumption Czechia 2023",
+            "\"Share of wind\" \"electricity generation\" \"Czechia\" 2022 Ember",
+            "\"wind\" \"1 pct\" \"tuzemske\" \"spotreby\" \"elektriny\" Cesko"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6dae0cce08190bd47ea7305e36577",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cf31477811251780069a6db3905a48190884ce6defc6a3b1a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cf31477811251780069a6db3a780c8190bfe839fbb701c826",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0cf31477811251780069a6db47ec94819088c7dfc875f194f6",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 427,
+                "start_index": 308,
+                "title": "Výroba a spotřeba elektřiny v Pardubickém kraji v roce 2021 | Pardubický kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai"
+              },
+              {
+                "end_index": 609,
+                "start_index": 446,
+                "title": "Výroba a spotřeba elektřiny v Libereckém kraji v roce 2022 - téměř z 63 % se na výrobě podílely alternativní zdroje | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/701078-vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2022-temer-z-63--se-na-vyrobe-podilely/?utm_source=openai"
+              },
+              {
+                "end_index": 732,
+                "start_index": 628,
+                "title": "Energetika v Moravskoslezském kraji v roce 2023 | Moravskoslezský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/msk/energetika-v-moravskoslezskem-kraji-v-roce-2023?utm_source=openai"
+              },
+              {
+                "end_index": 878,
+                "start_index": 751,
+                "title": "Výroba a spotřeba elektrické energie v Jihomoravském kraji v roce 2024 | Jihomoravský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai"
+              },
+              {
+                "end_index": 1141,
+                "start_index": 1082,
+                "title": "Statistiky - ČSVE",
+                "type": "url_citation",
+                "url": "https://www.csve.cz/o-elektrarnach/statistiky/"
+              },
+              {
+                "end_index": 1474,
+                "start_index": 1352,
+                "title": "M01C0201 Podíl OZE na výrobě elektřiny brutto | RIS3",
+                "type": "url_citation",
+                "url": "https://ris3.gov.cz/monitoring/indikatory/m01c0201-podil-oze-na-vyrobe-elektriny-brutto?utm_source=openai"
+              },
+              {
+                "end_index": 3210,
+                "start_index": 3091,
+                "title": "Výroba a spotřeba elektřiny v Pardubickém kraji v roce 2021 | Pardubický kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai"
+              },
+              {
+                "end_index": 3684,
+                "start_index": 3521,
+                "title": "Výroba a spotřeba elektřiny v Libereckém kraji v roce 2022 - téměř z 63 % se na výrobě podílely alternativní zdroje | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/701078-vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2022-temer-z-63--se-na-vyrobe-podilely/?utm_source=openai"
+              },
+              {
+                "end_index": 4146,
+                "start_index": 4042,
+                "title": "Energetika v Moravskoslezském kraji v roce 2023 | Moravskoslezský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/msk/energetika-v-moravskoslezskem-kraji-v-roce-2023?utm_source=openai"
+              },
+              {
+                "end_index": 4646,
+                "start_index": 4519,
+                "title": "Výroba a spotřeba elektrické energie v Jihomoravském kraji v roce 2024 | Jihomoravský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai"
+              },
+              {
+                "end_index": 4863,
+                "start_index": 4748,
+                "title": "Výroba a spotřeba elektřiny v Libereckém kraji v roce 2024 | Liberecký kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/lbk/vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2024?utm_source=openai"
+              },
+              {
+                "end_index": 5256,
+                "start_index": 5137,
+                "title": "Výroba a spotřeba elektřiny v Pardubickém kraji v roce 2021 | Pardubický kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai"
+              },
+              {
+                "end_index": 5437,
+                "start_index": 5274,
+                "title": "Výroba a spotřeba elektřiny v Libereckém kraji v roce 2022 - téměř z 63 % se na výrobě podílely alternativní zdroje | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/701078-vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2022-temer-z-63--se-na-vyrobe-podilely/?utm_source=openai"
+              },
+              {
+                "end_index": 5559,
+                "start_index": 5455,
+                "title": "Energetika v Moravskoslezském kraji v roce 2023 | Moravskoslezský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/msk/energetika-v-moravskoslezskem-kraji-v-roce-2023?utm_source=openai"
+              },
+              {
+                "end_index": 5716,
+                "start_index": 5589,
+                "title": "Výroba a spotřeba elektrické energie v Jihomoravském kraji v roce 2024 | Jihomoravský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai"
+              },
+              {
+                "end_index": 6446,
+                "start_index": 6387,
+                "title": "Statistiky - ČSVE",
+                "type": "url_citation",
+                "url": "https://www.csve.cz/o-elektrarnach/statistiky/"
+              },
+              {
+                "end_index": 6833,
+                "start_index": 6727,
+                "title": "Výroba elektřiny v Česku loni klesla o 10 procent - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-vyroba-elektriny-loni-klesla-o-10-procent-40456106"
+              },
+              {
+                "end_index": 7331,
+                "start_index": 7169,
+                "title": "ENERGY-HUB - Větrná energie pokrývá 1 pct tuzemské spotřeby, v rozvoji ČR zaostává za Evropou",
+                "type": "url_citation",
+                "url": "https://www.energy-hub.cz/sk/articles/1119579/vetrna-energie-pokryva-1-pct-tuzemske-spotreby-v-rozvoji-cr-zaostava-za-evropou?utm_source=openai"
+              },
+              {
+                "end_index": 7605,
+                "start_index": 7516,
+                "title": "Občanské sdružení Vítr v krajině",
+                "type": "url_citation",
+                "url": "https://www.vitrvkrajine.cz/pruvodcevetrnouenergii?utm_source=openai"
+              },
+              {
+                "end_index": 7947,
+                "start_index": 7802,
+                "title": "Zlom v evropské energetice. Vítr a slunce poprvé porazily uhlí a plyn, Česko zůstává pozadu | Hrot24.cz",
+                "type": "url_citation",
+                "url": "https://www.hrot24.cz/clanek/eu-vyrobila-vice-elektriny-z-vetru-a-slunce-nez-z-uhli-a-plynu-cesko-zaostava-HU6xd?utm_source=openai"
+              },
+              {
+                "end_index": 8308,
+                "start_index": 8190,
+                "title": "V Česku se šetří elektřinou i plynem - Svět hospodářství",
+                "type": "url_citation",
+                "url": "https://svethospodarstvi.cz/ekonomika/v-cesku-se-setri-elektrinou-i-plynem/?utm_source=openai"
+              },
+              {
+                "end_index": 9069,
+                "start_index": 8947,
+                "title": "M01C0201 Podíl OZE na výrobě elektřiny brutto | RIS3",
+                "type": "url_citation",
+                "url": "https://ris3.gov.cz/monitoring/indikatory/m01c0201-podil-oze-na-vyrobe-elektriny-brutto?utm_source=openai"
+              },
+              {
+                "end_index": 9724,
+                "start_index": 9597,
+                "title": "Výroba a spotřeba elektrické energie v Jihomoravském kraji v roce 2024 | Jihomoravský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai"
+              },
+              {
+                "end_index": 9979,
+                "start_index": 9920,
+                "title": "Statistiky - ČSVE",
+                "type": "url_citation",
+                "url": "https://www.csve.cz/o-elektrarnach/statistiky/"
+              },
+              {
+                "end_index": 10319,
+                "start_index": 10224,
+                "title": "Registrace — Čeština",
+                "type": "url_citation",
+                "url": "https://www.ote-cr.cz/cs/statistika/statistika-poze/registrace?utm_source=openai"
+              },
+              {
+                "end_index": 11105,
+                "start_index": 10986,
+                "title": "Výroba a spotřeba elektřiny v Pardubickém kraji v roce 2021 | Pardubický kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai"
+              },
+              {
+                "end_index": 11303,
+                "start_index": 11244,
+                "title": "Statistiky - ČSVE",
+                "type": "url_citation",
+                "url": "https://www.csve.cz/o-elektrarnach/statistiky/"
+              },
+              {
+                "end_index": 11684,
+                "start_index": 11562,
+                "title": "M01C0201 Podíl OZE na výrobě elektřiny brutto | RIS3",
+                "type": "url_citation",
+                "url": "https://ris3.gov.cz/monitoring/indikatory/m01c0201-podil-oze-na-vyrobe-elektriny-brutto?utm_source=openai"
+              },
+              {
+                "end_index": 11909,
+                "start_index": 11782,
+                "title": "Výroba a spotřeba elektrické energie v Jihomoravském kraji v roce 2024 | Jihomoravský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai"
+              },
+              {
+                "end_index": 12488,
+                "start_index": 12369,
+                "title": "Výroba a spotřeba elektřiny v Pardubickém kraji v roce 2021 | Pardubický kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Shrnutí\n\n- Nejpravděpodobnější interpretace výroku „Větrníky u nás dělají 1 %“ je: **větrné elektrárny se v ČR podílejí zhruba 1 % na celkové výrobě / spotřebě elektřiny**.  \n- Oficiální statistiky ERÚ/ČSÚ ukazují, že **podíl větrných elektráren na celkové výrobě elektřiny v ČR byl**:\n  - 2021: 0,7 % ([csu.gov.cz](https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai))  \n  - 2022: 0,8 % ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/701078-vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2022-temer-z-63--se-na-vyrobe-podilely/?utm_source=openai))  \n  - 2023: 0,9 % ([csu.gov.cz](https://csu.gov.cz/msk/energetika-v-moravskoslezskem-kraji-v-roce-2023?utm_source=openai))  \n  - 2024: 1,0 % ([csu.gov.cz](https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai))  \n- Data o výrobě z větru (TWh) ze specializované ČSVE i mediální zdroje (ČTK / WindEurope) potvrzují, že v roce 2024 **větrné elektrárny vyrobily ~0,7 TWh a pokryly asi 1 % domácí spotřeby elektřiny**. ([csve.cz](https://www.csve.cz/o-elektrarnach/statistiky/))  \n- Pokud by byl výrok chápán jinak (např. jako **podíl větru na výrobě z OZE** nebo **na instalovaném výkonu**), hodnota 1 % neodpovídá skutečnosti (cca 6 % z výroby OZE a cca 1,5–1,8 % instalovaného výkonu). ([ris3.gov.cz](https://ris3.gov.cz/monitoring/indikatory/m01c0201-podil-oze-na-vyrobe-elektriny-brutto?utm_source=openai))  \n\nCelkově tedy dostupná data ukazují, že **pro běžně užívaný ukazatel – podíl větru na celkové výrobě/spotřebě elektřiny v ČR – se hodnota „kolem 1 %“ shoduje s aktuální realitou**.\n\n---\n\n## 2. Identifikace a interpretace výroku\n\n### 2.1 Doslovný výrok\n\n> „Pomíjím to, že ty větrníky u nás dělají 1 %.“\n\nKontext: debata o akceleračních zónách a výstavbě větrných elektráren; před i po výroku se mluví o **energetickém mixu, výrobě elektřiny a sítích**.\n\n### 2.2 Možné interpretace\n\n1. **Podíl větrných elektráren na celkové výrobě elektřiny v ČR**  \n   – nejběžnější a v daném kontextu nejlogičtější interpretace (diskuse o „mixu zdrojů“).\n\n2. Podíl větru na **hrubé domácí spotřebě elektřiny**  \n   – obdobný koncept, liší se jen o čistý export/import.\n\n3. Podíl větru na:\n   - **celkové výrobě z OZE** (jen obnovitelné zdroje),\n   - **instalovaném výkonu** v energetice,\n   - případně na **celkové hrubé konečné spotřebě energie** (všechny druhy energie, nejen elektřina).\n\nNíže ověřuji primárně interpretace 1–2, protože odpovídají kontextu rozhovoru. Alternativní interpretace shrnu zvlášť v bodě 5.\n\n---\n\n## 3. Podíl větrných elektráren na celkové výrobě elektřiny v ČR\n\n### 3.1 Oficiální data ERÚ/ČSÚ – vývoj podílu větru\n\nČeský statistický úřad (ČSÚ) ve svých krajských komentářích pravidelně uvádí **celostátní strukturu výroby elektřiny podle typu elektráren**, přičemž zdrojem dat je ERÚ.\n\n#### Rok 2021\n\nKomentář ČSÚ k Pardubickému kraji shrnuje strukturu výroby elektřiny v celé ČR v roce 2021:\n\n> „Fotovoltaické elektrárny se na objemu vyrobené elektřiny podílely 2,5 % a **větrné elektrárny 0,7 %**.“ ([csu.gov.cz](https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai))  \n\n#### Rok 2022\n\nText (přetištěný např. na Kurzy.cz) s odkazem na údaje ČSÚ/ERÚ uvádí pro rok 2022:\n\n> „… v celé České republice 48,6 % vyrobené elektřiny připadlo na parní elektrárny, 36,7 % na jaderné, … 2,7 % na elektrárny fotovoltaické, 2,5 % na vodní, 1,2 % na přečerpávací a na **větrné pouze 0,8 %**.“ ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/701078-vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2022-temer-z-63--se-na-vyrobe-podilely/?utm_source=openai))  \n\n#### Rok 2023\n\nKomentář ČSÚ k Moravskoslezskému kraji obsahuje i celostátní strukturu výroby elektřiny v roce 2023:\n\n> „V Česku bylo v roce 2023 vyrobeno celkem 76 938,5 GWh elektrické energie… Ostatní druhy elektráren se na celkové výrobě elektřiny podílely … 3,8 % fotovoltaické elektrárny, 2,7 % paroplynové elektrárny a **0,9 % větrné elektrárny**.“ ([csu.gov.cz](https://csu.gov.cz/msk/energetika-v-moravskoslezskem-kraji-v-roce-2023?utm_source=openai))  \n\n#### Rok 2024 (předběžná data)\n\nČSÚ – komentář k Jihomoravskému kraji za rok 2024 (opět s celostátní rekapitulací):\n\n> „V České republice bylo v roce 2024 podle předběžných údajů vyrobeno celkem 73 857,4 GWh elektrické energie… 41,3 % vyrobené elektřiny připadlo na parní elektrárny, 40,2 % na jaderné, … 2,8 % na paroplynové a na **větrné 1,0 % vyrobené elektřiny**.“ ([csu.gov.cz](https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai))  \n\nStejnou celostátní strukturu (včetně 1,0 % pro vítr) obsahuje i komentář ČSÚ k Libereckému kraji: ([csu.gov.cz](https://csu.gov.cz/lbk/vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2024?utm_source=openai))  \n\n### 3.2 Souhrnná tabulka (podíl větru na celkové výrobě elektřiny, ČR)\n\nNa základě výše citovaných oficiálních zdrojů:\n\n| Rok | Podíl větrných elektráren na brutto výrobě elektřiny v ČR |\n|-----|----------------------------------------------------------|\n| 2021 | 0,7 % ([csu.gov.cz](https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai)) |\n| 2022 | 0,8 % ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/701078-vyroba-a-spotreba-elektriny-v-libereckem-kraji-v-roce-2022-temer-z-63--se-na-vyrobe-podilely/?utm_source=openai)) |\n| 2023 | 0,9 % ([csu.gov.cz](https://csu.gov.cz/msk/energetika-v-moravskoslezskem-kraji-v-roce-2023?utm_source=openai)) |\n| 2024 | 1,0 % (předběžně) ([csu.gov.cz](https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai)) |\n\n**Závěr k výrobě:**  \nPodíl větrných elektráren na celkové výrobě elektřiny v ČR se v posledních letech **postupně zvyšuje od 0,7 % (2021) k 1,0 % (2024)**.  \n\nVýrok „větrníky u nás dělají 1 %“ tedy **dobře odpovídá nejnovějšímu dostupnému roku (2024)** a i u předchozích let jde o velmi přesný zaokrouhlený popis („kolem 1 %“).\n\n---\n\n## 4. Výroba větrných elektráren a podíl na spotřebě elektřiny\n\n### 4.1 Výroba z větru (TWh) – Česká společnost pro větrnou energii (ČSVE)\n\nČSVE uvádí oficiální statistiky výroby elektřiny z větru (brutto) podle měsíců a roku. V řádku „CELKEM“:\n\n- 2021: 601 500 MWh  \n- 2022: 641 320 MWh  \n- 2023: 701 600 MWh  \n- 2024: 716 800 MWh ([csve.cz](https://www.csve.cz/o-elektrarnach/statistiky/))  \n\nTo odpovídá cca **0,60 / 0,64 / 0,70 / 0,72 TWh ročně**, tedy velmi malému, ale rostoucímu objemu výroby z větru.\n\nTato čísla potvrzuje i analýza EGÚ Brno citovaná v článku Novinky.cz:\n\n> „Větrná energie v Česku i v roce 2023 stagnovala, když její výroba dosáhla **700 GWh**.“ ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-vyroba-elektriny-loni-klesla-o-10-procent-40456106))  \n\n### 4.2 Podíl větru na domácí spotřebě elektřiny\n\nČlánek ČTK / ENERGY-HUB (shrnutí zprávy WindEurope) pro rok 2024:\n\n> „V loňském roce **pokryly větrné elektrárny ČR jedno procento v tuzemsku spotřebované elektřiny**, přičemž podíl v posledních letech stagnuje. … Větrné elektrárny loni v ČR vyrobily celkem **0,7 TWh** elektřiny.“ ([energy-hub.cz](https://www.energy-hub.cz/sk/articles/1119579/vetrna-energie-pokryva-1-pct-tuzemske-spotreby-v-rozvoji-cr-zaostava-za-evropou?utm_source=openai))  \n\nNezávisle na tom občanské sdružení „Vítr v krajině“ (čerpající z oficiálních statistik) uvádí:\n\n> „V České republice **větrné elektrárny pokrývají zhruba 1 % vyrobené elektřiny**.“ ([vitrvkrajine.cz](https://www.vitrvkrajine.cz/pruvodcevetrnouenergii?utm_source=openai))  \n\nDalší analytický článek (Hrot24, s odkazem na datovou organizaci Ember) konstatuje:\n\n> „Ještě horší je situace u větrné energie, **jejíž podíl se dlouhodobě pohybuje kolem jednoho procenta**…“ ([hrot24.cz](https://www.hrot24.cz/clanek/eu-vyrobila-vice-elektriny-z-vetru-a-slunce-nez-z-uhli-a-plynu-cesko-zaostava-HU6xd?utm_source=openai))  \n\n### 4.3 Dílčí čtvrtletní údaje\n\nPro ilustrační starší údaje:  \nČlánek Svět hospodářství o 3. čtvrtletí uvádí, že **větrné elektrárny se podílely na celkové brutto výrobě elektřiny 0,67 %** (konkrétní období – třetí čtvrtletí daného roku). ([svethospodarstvi.cz](https://svethospodarstvi.cz/ekonomika/v-cesku-se-setri-elektrinou-i-plynem/?utm_source=openai))  \n\n**Závěr ke spotřebě:**  \nZ nezávislých zdrojů (WindEurope/ČTK, odborné články, NGO) vyplývá, že **větrné elektrárny pokrývají zhruba 1 % domácí spotřeby i výroby elektřiny**, což je zcela v souladu s oficiálními českými statistikami.\n\n---\n\n## 5. Alternativní interpretace: OZE a instalovaný výkon\n\n### 5.1 Podíl větru na výrobě elektřiny z OZE\n\nIndikátor „Podíl OZE na výrobě elektřiny brutto“ (RIS3, zdroj ERÚ) rozepisuje **podíl jednotlivých obnovitelných zdrojů na výrobě z OZE** v roce 2022:\n\n> „… nejvýznamnějším obnovitelným zdrojem biomasa (25,5 %), … fotovoltaika (22,0 %), vodní energie (20,1 %), **větrná energie (6,1 %)**…“ ([ris3.gov.cz](https://ris3.gov.cz/monitoring/indikatory/m01c0201-podil-oze-na-vyrobe-elektriny-brutto?utm_source=openai))  \n\nTzn. **mezi obnovitelnými zdroji tvoří vítr cca 6 % výroby z OZE**, nikoli 1 %.  \n\nPokud by výrok „dělají 1 %“ měl být chápán jako **podíl větru v rámci OZE**, neodpovídal by datům.\n\n### 5.2 Podíl větru na instalovaném výkonu\n\n#### Oficiální statistiky ČSÚ / ERÚ (2024)\n\nPro rok 2024 (Jihomoravský kraj – celostátní souhrn):\n\n> „Instalovaný výkon elektráren v České republice dosáhl k 31. 12. 2024 hodnoty 22 929,0 MW. Nejvyšší podíl … 41,2 % parní, 18,7 % jaderné, 17,2 % fotovoltaické … a **1,5 % na větrné elektrárny**.“ ([csu.gov.cz](https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai))  \n\n#### Statistika ČSVE – energetický mix (k 31. 12. 2024)\n\nČSVE uvádí instalované výkony podle typů zdrojů, např. pro rok 2024:\n\n- Větrné elektrárny: **363,1 MW**  \n- Celkem ČR: **22 980,7 MW** ([csve.cz](https://www.csve.cz/o-elektrarnach/statistiky/))  \n\nTo odpovídá podílu větru na instalovaném výkonu kolem **1,6 %**.\n\n#### Registr OTE (stav 31. 12. 2025)\n\nOTE eviduje instalovaný výkon registrovaných zdrojů:\n\n- Větrné elektrárny: **384,6 MW**  \n- Celkový součet všech zdrojů: **21 585,9 MW** ([ote-cr.cz](https://www.ote-cr.cz/cs/statistika/statistika-poze/registrace?utm_source=openai))  \n\nPodíl větru na registrovaném výkonu OTE tedy vychází cca **1,8 %**.\n\n**Závěr ke kapacitě:**  \nPokud by výrok „1 %“ mířil k **podílu větrných elektráren na instalovaném výkonu**, číslo by oficiálně bylo spíše **1,5–1,8 %**, tedy o něco vyšší než 1 %.  \n\nZároveň i tato čísla potvrzují, že **vítr má v ČR stále velmi malý podíl** v porovnání s ostatními zdroji.\n\n---\n\n## 6. Shrnutí relevance k výroku „Větrníky u nás dělají 1 %“\n\n### 6.1 Podíl na celkové výrobě / spotřebě elektřiny\n\n- ERÚ/ČSÚ (oficiální statistika) ukazují, že **větrné elektrárny tvořily v posledních letech 0,7–1,0 % brutto výroby elektřiny**, přičemž **nejnovější rok 2024 dává přesně 1,0 %**. ([csu.gov.cz](https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai))  \n- ČSVE, EGÚ Brno a WindEurope potvrzují výrobu z větru kolem **0,7 TWh ročně** a odhad podílu **asi 1 % na domácí spotřebě elektřiny**. ([csve.cz](https://www.csve.cz/o-elektrarnach/statistiky/))  \n\n**=> V rámci nejběžnější interpretace (podíl na celkové výrobě / spotřebě elektřiny) je hodnota 1 % plně v souladu s dostupnými daty.**\n\n### 6.2 Alternativní možné interpretace\n\n- **Podíl větru na výrobě elektřiny z OZE:** cca **6 %** (2022), nikoli 1 %. ([ris3.gov.cz](https://ris3.gov.cz/monitoring/indikatory/m01c0201-podil-oze-na-vyrobe-elektriny-brutto?utm_source=openai))  \n- **Podíl větru na instalovaném výkonu:** cca **1,5–1,8 %** dle různých oficiálních statistik. ([csu.gov.cz](https://csu.gov.cz/jhm/vyroba-a-spotreba-elektricke-energie-v-jihomoravskem-kraji-v-roce-2024?utm_source=openai))  \n\nTyto ukazatele se v politických a mediálních debatách používají méně často; kontext rozhovoru navíc směřuje k celkovému energetickému mixu, nikoli k detailní struktuře OZE.\n\n---\n\n## 7. Celkové zhodnocení\n\n- Při **nejpravděpodobnější a kontextově odpovídající interpretaci** („větrníky u nás dělají ~1 % veškeré elektřiny“) je výrok **numericky v souladu s oficiálními daty** – zejména pro rok 2024 (1,0 %) a zhruba odpovídá i předchozím rokům (0,7–0,9 %). ([csu.gov.cz](https://csu.gov.cz/csu/xe/vyroba-a-spotreba-elektriny-v-pardubickem-kraji-v-roce-2021?utm_source=openai))  \n- Pokud by někdo výrok chápal jako tvrzení o **podílu větru na OZE** nebo na **instalovaném výkonu**, hodnota 1 % by neodpovídala, ale tato interpretace je vzhledem ke kontextu výroku méně pravděpodobná.  \n\nPro rozhodnutí fact-checkera je tedy klíčové, že **v rovině „kolik dělají větrníky na celkové výrobě/spotřebě elektřiny v ČR“ se dostupná čísla velmi těsně shodují s uvedeným „1 %“**.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 53108,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 15558,
+      "output_tokens_details": {
+        "reasoning_tokens": 11461
+      },
+      "total_tokens": 68666
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772542850,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "claim_id": "24627",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24627.md",
+  "fact_check": "# Fact Check for Statement ID 24627\n\n## Statement\n(...) tzv. kontrahovanou cenou, tzv. systémem kontraktu po diferenci, jinými slovy, kdy vykupujeme za předem danou cenu.\n\n---\n## AI Fact Check\n### 1. Rozklad a interpretace tvrzení\n\nOvěřovaný úsek výroku Karla Havlíčka:\n\n> „… tzv. kontrahovanou cenou, tzv. systémem kontraktu po diferenci, jinými slovy, kdy vykupujeme za předem danou cenu.“\n\nNejpřirozenější výklad:\n\n1. **Existuje předem „kontrahovaná“ (smluvně stanovená) cena elektřiny** z nových jaderných bloků.\n2. Použitý model je **„kontrakt po diferenci“ (contract for difference, CfD)**.\n3. **Praktický efekt** tohoto modelu je, že **stát (či jím určený subjekt) elektřinu „vykupuje za předem danou cenu“**.\n\nNíže jsou ověřeny tyto tři dílčí teze vůči platnému právnímu rámci a oficiálním materiálům pro Dukovany II.\n\n---\n\n## 2. Právní a regulační rámec\n\n### 2.1 Zákon č. 367/2021 Sb. („lex Dukovany“)\n\nZákladní právní rámec financování nových jaderných bloků je zákon č. 367/2021 Sb., o opatřeních k přechodu České republiky k nízkouhlíkové energetice.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))\n\nZákon definuje dva hlavní typy smluv:\n\n**a) Smlouva o výkupu a „realizační cena“ (výkupní model)**\n\n- „Smlouva o výkupu“ je smlouva mezi Českou republikou (zastoupenou MPO) a investorem jaderné elektrárny, která upravuje výrobu a dodávku elektřiny a zajištění návratnosti investice.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n- „Realizační cena“ je podle definice v § 2 písm. d) **cena za elektřinu z nízkouhlíkové výrobny, kterou investor dostává od ministerstva na základě smlouvy o výkupu**.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n- § 3 odst. 3 písm. b) výslovně ukládá **povinnost České republiky zajistit výkup elektřiny za realizační cenu po stanovenou dobu**.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n\nJde tedy o dlouhodobý **výkup elektřiny státem za předem dohodnutou jednotkovou cenu**.\n\n**b) Smlouva o vyrovnávacím režimu a „vyrovnávací cena“ (CfD‑typ)**\n\nNovější novela zavedla i **„smlouvu o vyrovnávacím režimu“**, která funguje jako kontrakt pro rozdíl (CfD):\n\n- § 2 písm. e)–k) zavádí pojmy:\n  - „vyrovnávací cena“ – cena za elektřinu, která je investorovi garantována na základě smlouvy o vyrovnávacím režimu,([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n  - „vyrovnávací platba“ – platba investorovi k dosažení vyrovnávací ceny oproti referenční tržní ceně elektřiny,  \n  - „záporná vyrovnávací platba“ – platba investora státu v případě, že referenční tržní cena je vyšší než vyrovnávací cena.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n\nTo odpovídá principu **dvoustranného rozdílového kontraktu (two‑way CfD)**: pokud je tržní cena pod garantovanou, stát doplácí rozdíl; pokud nad ní, výrobce rozdíl vrací státu.\n\nPrávní komentář LexBot k témuž zákonu výslovně označuje **smlouvu o vyrovnávacím režimu jako „CfD“**, které garantuje vyrovnávací cenu a funguje přes vyrovnávací platby při odchylce referenční ceny.([lexbot.cz](https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/?utm_source=openai))\n\n---\n\n### 2.2 Jak funguje model „smlouva o výkupu“ v praxi\n\nAnalytický článek oEnergetice k návrhu zákona shrnuje, že vláda vybrala jako nejvhodnější **podporu formou výkupu elektřiny za tzv. realizační cenu**, stanovenou smlouvou mezi státem a ČEZ.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))\n\n- Stát prostřednictvím 100% státní společnosti **vykupuje elektřinu z nového bloku za realizační cenu** a tuto elektřinu dále prodává na trhu.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n- Rozdíl mezi tržním výnosem a garantovanou realizační cenou doplatí koneční spotřebitelé prostřednictvím regulovaných složek ceny elektřiny (přenos/distribuce).([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n\nJiný text oEnergetice, k původnímu návrhu zákona, uvádí:\n\n- návrh počítá s tím, že **výkup elektřiny provádí MPO či jím pověřená státní právnická osoba „za předem stanovenou realizační cenu“**, a smlouva o výkupu je uzavřena minimálně na 30 let, s možností prodloužení.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona))  \n\nTo potvrzuje, že **předem smluvně daná jednotková cena (kontrahovaná cena) je základním prvkem výkupního modelu**.\n\n---\n\n### 2.3 Jak funguje „kontrakt po diferenci“ (CfD) v českém kontextu\n\nCfD (rozdílový kontrakt) je obecně **finanční mechanismus**, kde výrobce prodává elektřinu na trhu, ale má garantovanou „strike price“; rozdíl mezi touto cenou a tržní cenou je vyrovnáván platbami mezi ním a státem / operátorem trhu.\n\nV českém právu se CfD‑typ u jádra objevuje jako **smlouva o vyrovnávacím režimu** (§ 3a zákona): investor dostává či odvádí vyrovnávací platby podle rozdílu mezi **vyrovnávací cenou** a referenční tržní cenou elektřiny.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n\nAnalogický mechanismus je v ČR používán i pro obnovitelné zdroje: v aukcích podpory OZE se podpora poskytuje **formou rozdílového kontraktu (contract for difference)** – výrobce dostává tržní cenu na denním trhu plus „aukční bonus“ dorovnávající rozdíl do referenční aukční ceny, a naopak při vyšší tržní ceně rozdíl vrací operátorovi trhu.([esg-investice.cz](https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/?utm_source=openai))  \n\nAnalýza oEnergetice k lex Dukovany srovnává navržený výkupní model se CfD pro Hinkley Point C:\n\n- z pohledu ČEZ jsou oba modely podobné v tom, že výrobce má **garantovanou cenu**,  \n- ale u CfD (Hinkley Point) prodává elektřinu výrobce na trhu a rozdíl do garantované ceny se dopočítává;  \n- u českého výkupního modelu prodává elektřinu na burze **státní obchodník**, zatímco ČEZ dostává vždy realizační cenu bez ohledu na výsledek prodeje.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n\nJinou formou: CfD **není fyzický výkup elektřiny za pevnou cenu**, ale **finanční dorovnání do předem dané ceny**.\n\n---\n\n### 2.4 Jaký model je zvolen pro nový blok Dukovany II\n\nKromě obecného zákonného rámce existují specifická rozhodnutí pro Dukovany II:\n\n- Nařízení vlády č. 316/2024 Sb. podle § 2a zákona 367/2021 stanovuje, že **způsobem podpory energetické bezpečnosti pro nový jaderný zdroj v Dukovanech je „smlouva o výkupu“**.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan))  \n- Zpravodajství ČTK na oEnergetice shrnuje: vláda schválila nařízení o podpoře energetické bezpečnosti, které **jako formu veřejné podpory pro Dukovany stanovuje smlouvu o výkupu elektřiny**; stát tak může s ČEZ vyjednávat o podobě smlouvy a výkupní ceně.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan))  \n\nEkonomický deník k témuž nařízení píše:\n\n- ČR může podle zákona použít **smlouvu o výkupu elektřiny nebo smlouvu o vyrovnávacím režimu**,  \n- ale „v případě prvního bloku … Dukovany II však není co řešit. Tady stát použije **smlouvu o výkupu**, s níž počítá rozhodnutí Evropské komise o schválení veřejné podpory“.([ekonomickydenik.cz](https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/))  \n- Stejný článek uvádí, že druhým nástrojem podpory je **garantovaný výkup vyrobené elektřiny po dobu 40 let**.([ekonomickydenik.cz](https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/))  \n\nDalší analýza oEnergetice k reformě trhu s elektřinou konstatuje, že:\n\n- Evropská komise navrhuje, aby státní podpora pro nové nízkouhlíkové zdroje byla formou **dvoustranných rozdílových kontraktů (CfD)**,  \n- ale Česká republika se podle lex Dukovany rozhodla pro **podporu formou smlouvy o výkupu**, přičemž **rozdílový kontrakt (CfD) vláda odmítla jako méně výhodný**.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla))  \n\n**Závěr k této části:**  \nPro **první nový blok Dukovan II je zvolen výkupní model (smlouva o výkupu, realizační cena), nikoliv CfD**. CfD‑typ („smlouva o vyrovnávacím režimu“) je v zákoně pouze jako alternativní možnost pro jiné či budoucí projekty.\n\n---\n\n## 3. Vyhodnocení jednotlivých částí výroku\n\n### 3.1 „… tzv. kontrahovanou cenou …“ (předem daná smluvní cena)\n\n**Stav důkazů:**\n\n- Zákon 367/2021 Sb. zavádí pojmy **realizační cena** (pro smlouvu o výkupu) a **vyrovnávací cena** (pro smlouvu o vyrovnávacím režimu), tedy v obou případech jde o **smluvně předem stanovenou cenu elektřiny, která má investorovi zajistit návratnost investice**.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n- Vládní a expertní materiály k Dukovanům mluví o **garantovaném výkupu elektřiny za výkupní (realizační) cenu po desítky let**.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n\n**Hodnocení:**  \nTvrzení, že se u nových jaderných bloků pracuje s **„kontrahovanou“ (předem smluvenou) cenou elektřiny**, je **věcně podloženo**.\n\n---\n\n### 3.2 „… tzv. systémem kontraktu po diferenci …“ (CfD)\n\n**Stav důkazů:**\n\n- CfD‑typ (rozdílový kontrakt) je v českém právu pro jádro skutečně popsán v podobě **smlouvy o vyrovnávacím režimu** s vyrovnávací cenou a vyrovnávacími platbami.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n- Pro **Dukovany II** ale vláda explicitně zvolila **smlouvu o výkupu elektřiny**, nikoli smlouvu o vyrovnávacím režimu / CfD: tak to stanoví nařízení vlády a potvrzuje odborné zpravodajství i komentáře (Ekonomický deník, oEnergetice).([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan))  \n\n**Možné interpretace:**\n\n- Velmi úzký výklad: Havlíček tvrdí, že **konkrétně pro nové bloky v Dukovanech (a Temelín, SMR)** bude použit **CfD‑systém** → to **neodpovídá aktuálně zvolenému modelu** (je to smlouva o výkupu).  \n- Širší, benevolentní výklad: mluví obecně o tzv. rozdílových kontraktech jako o **rodině mechanismů, které zajistí fixní příjem výrobce bez ohledu na tržní cenu**, a používá „kontrakt po diferenci“ volněji i pro výkupní model.\n\n**Hodnocení:**  \n\n- **Formálně a právně přesně:**  \n  - **Model pro Dukovany II není CfD, ale přímý výkup (PPA) za realizační cenu.**  \n  - Tvrzení, že jde o „systém kontraktu po diferenci“, je tedy **pro konkrétní projekt nepřesné** a může vyvolávat mylný dojem, že ČR používá standardní CfD, jak jej preferuje Evropská komise.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla))  \n- **Z hlediska ekonomického efektu pro investora:**  \n  - Výkupní model i CfD vedou k **garantovanému příjmu za MWh**; v tomto širším smyslu lze říci, že jde o „rozdílově“ nastavenou cenu vůči trhu.  \n  - Přesto jde o **dva právně a technicky odlišné mechanismy**.\n\nCelkově je tedy tato část výroku **spíše zavádějící**: zákon CfD‑typ zná, ale pro Dukovany je zvolen jiný nástroj.\n\n---\n\n### 3.3 „… jinými slovy, kdy vykupujeme za předem danou cenu.“\n\nTady Havlíček vysvětluje CfD / kontrahovanou cenu tak, že **„vykupujeme za předem danou cenu“**.\n\n**a) Platnost pro smlouvu o výkupu (Dukovany II)**\n\n- Zákon výslovně ukládá státu povinnost **„zajistit výkup elektřiny … za realizační cenu“** po stanovenou dobu.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n- Návrh zákona i pozdější analýzy uvádějí, že elektřinu z nového bloku **vykupuje státní subjekt za předem stanovenou realizační cenu a dále ji prodává na burze**; rozdíl se přenáší do regulovaných složek cen.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona))  \n\nPro **výkupní model** tedy popis „vykupujeme za předem danou cenu“ **sedí velmi dobře**.\n\n**b) Platnost pro kontrakt po diferenci (CfD / smlouvu o vyrovnávacím režimu)**\n\nU CfD je mechanismus jiný:\n\n- Výrobce **prodává elektřinu na trhu** a získá tržní cenu.  \n- Pokud je tržní cena pod garantovanou (vyrovnávací/aukční) cenou, stát / operátor trhu doplatí rozdíl; pokud je nad ní, výrobce rozdíl vrací.([esg-investice.cz](https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/?utm_source=openai))  \n\nTedy:\n\n- **Stát elektřinu fyzicky „nevykupuje“ za pevnou cenu**, ale poskytuje **finanční dorovnání** (nebo ho inkasuje zpět).  \n- Z pohledu investora je však výsledkem opět **efektivně předem daná jednotková cena** (strike/wyrovnávací cena), jak popisují i analýzy k Hinkley Point C.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n\n**Hodnocení:**\n\n- Jako zjednodušené vysvětlení **výkupního modelu** je věta „vykupujeme za předem danou cenu“ přesná.  \n- Jako vysvětlení **kontraktu po diferenci (CfD)** je to **odborně nepřesné**: CfD není fyzický výkup, ale **finanční vyrovnávání rozdílu** mezi tržní a garantovanou cenou.\n\n---\n\n## 4. Celkové shrnutí\n\n1. **Kontrahovaná (předem smluvně daná) cena:**  \n   - Zákon č. 367/2021 Sb. i navazující rozhodnutí vlády a Evropské komise jednoznačně počítají s tím, že nové jaderné bloky (minimálně první blok Dukovan II) budou mít **dlouhodobě garantovanou smluvní cenu elektřiny** – realizační cenu ve smlouvě o výkupu.  \n   - Tato část výroku je **věcně podložená**.\n\n2. **„Systém kontraktu po diferenci“:**  \n   - CfD‑typ (smlouva o vyrovnávacím režimu) je v českém právu pro jádro skutečně popsán, ale **pro Dukovany II byl zvolen jiný model – smlouva o výkupu elektřiny**.  \n   - Tvrzení, že jde (už dnes) o „systém kontraktu po diferenci“, je tedy pro konkrétní projekt **právně nepřesné a může být zavádějící**, pokud je chápáno doslova.\n\n3. **„Jinými slovy, vykupujeme za předem danou cenu“:**  \n   - Pro **výkupní model (Dukovany II)** tato formulace odpovídá zákonu (stát má povinnost výkupu za realizační cenu).  \n   - Pro **CfD** je to zjednodušení, které **překrývá odlišnost mezi fyzickým výkupem a finančním dorovnáním**.\n\n---\n\n## 5. Přehled klíčových zdrojů (výběr)\n\n- Zákon č. 367/2021 Sb. – definice smlouvy o výkupu, realizační ceny a smlouvy o vyrovnávacím režimu/vyrovnávací ceny:  \n  [https://www.zakonyprolidi.cz/cs/2021-367](https://www.zakonyprolidi.cz/cs/2021-367) ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n\n- Analýza modelu výkupu elektřiny pro Dukovany (MPO, lex Dukovany):  \n  „Nové Dukovany: MPO podrobně popsalo, proč bude garantovat výkupní ceny“ – oEnergetice.cz  \n  [https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen) ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n\n- Článek k návrhu lex Dukovany (předem stanovená realizační cena, dlouhodobý výkup):  \n  „Při prodražení Dukovan zaplatí rozdíl oproti tržní ceně spotřebitelé skrze síťové tarify“ – oEnergetice.cz  \n  [https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona](https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona) ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona))  \n\n- Zpravodajství o nařízení vlády č. 316/2024 Sb. (volba „smlouvy o výkupu“ pro Dukovany):  \n  „Vláda schválila nařízení, co umožní jednat o smlouvě o výkupu energie z Dukovan“ – oEnergetice.cz  \n  [https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan](https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan) ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan))  \n\n- Shrnutí, že pro první blok Dukovan II se použije smlouva o výkupu, nikoli vyrovnávací režim (CfD):  \n  „Stát podpoří nový blok Dukovan smlouvou o výkupu elektřiny. Do budoucna bude možností více“ – Ekonomický deník  \n  [https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/](https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/) ([ekonomickydenik.cz](https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/))  \n\n- Analýza vztahu mezi lex Dukovany a CfD dle návrhu reformy trhu s elektřinou EU:  \n  „Odpovídá podpora pro nové Dukovany návrhu změn trhu s elektřinou? Komise vybrala CfD, který vláda odmítla“ – oEnergetice.cz  \n  [https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla](https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla) ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla))  \n\n- Právní komentář k lex Dukovany – rozlišení „smlouva o výkupu“ vs. „smlouva o vyrovnávacím režimu (CfD)“:  \n  „Jádro na smlouvu… kdo nečte zákon č. 367/2021 Sb., ten platí!“ – LexBot.cz  \n  [https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/](https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/) ([lexbot.cz](https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/?utm_source=openai))  \n\n- Popis CfD pro OZE v české legislativě (jako analogie vyrovnávacího režimu):  \n  „Ministerstvo vypsalo první aukce na podporu OZE“ – ESG‑investice.cz  \n  [https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/](https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/) ([esg-investice.cz](https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/?utm_source=openai))\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:16:33\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nJenom jedna věta, pane vicepremiére, samozřejmě záleží na tom, jak draze tu cenu prodáváte a samozřejmě také, vyrábíte, a samozřejmě taky záleží na tom, co se děje tam, kde se s tou cenou obchoduje, a to je další problém, o který jsme se snažili změnit ho v Evropě, že ta cena se vypočítává potom podle té nejdražší složky, to znamená, že cena energie, elektřiny je závislá na ceně plynu, což je špatně. My jsme se snažili o to, aby se to rozdělilo a já věřím, že v tomto byste mohli pokračovat a usilovat v Evropě o to, aby se toto oddělilo.\\n00:17:07\\nTerezie Tománková,moderátorka\\nPánové, děkuji. Já s dovolením, já půjdu, já půjdu do budoucna. Pane ministře, skončila těžba černého uhlí, bude končit hnědé uhlí, Dukovany, Temelín, obrovské projekty za obrovské peníze, nejsou na to povolení, peníze nejsou ani v rozpočtu, co nás zachrání do té doby? Budou to obnovitelné zdroje, poroste větší podíl obnovitelných zdrojů?\\n00:17:27\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nTady byly dotační závody o podporu obnovitelných zdrojů. Já netvrdím, že obnovitelný zdroj je principiálně špatně, je to jeden ze zdrojů do budoucnosti. V každém případě o co více vy jste dotačně podporovali obnovitelné zdroje, a byly to fakt závody, tak o to více se potom musí investovat právě do těch distribučních sítí a do přenosových soustav, a to zvyšuje tu regulovanou složku té elektřiny, takže bohužel to s sebou nese i stinné stránky. Co se týká toho uhlí, tak uhlí je samo o sobě velmi levný a stabilní zdroj. Problém je v tom, že je zatížen cenou emisní povolenky naprosto brutálně, to činí 90 % ceny. To nevyčítám vám, to je prostě dlouhodobá záležitost. Vy jste proti tomu příliš nebojovali, ale popravdě řečeno, Evropa s tímhle tím má obrovský problém. A to tažení proti cenám emisních povolenek jsme zahájili až za naší vlády. A co se týká těch nových bloků, ať už to jsou jaderné bloky v Dukovanech, asi jste zaregistrovali, že jsme zahájili rovněž přípravu temelínských bloků, i když o tom ještě není rozhodnuto a pochopitelně pracujeme dále na malých modulárních reaktorech. Tak to jsou investice, které nefinancuje přímo stát, jsou to investovány, jsou investovány prostřednictvím, v tomhle případě buď ČEZu nebo jeho dceřiné společnosti, kterou má stát sice pod kontrolou, ale pochopitelně jejich to, co se bude splácet za ty zdroje, bude hrazeno pochopitelně z výnosu z té energie, to znamená, je to dáno tzv. kontrahovanou cenou, tzv., tzv. systémem kontraktu /nesrozumitelné/, jinými slovy, kdy vykupujeme za předem danou cenu.\\n00:18:54\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: '(...) tzv. kontrahovanou cenou, tzv. systémem kontraktu po diferenci, jinými slovy, kdy vykupujeme za předem danou cenu.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 388.38 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Část výroku Karla Havlíčka o předem smluvené ceně elektřiny u nových jaderných bloků odpovídá zákonu. Mylně však tvrdí, že jde o systém kontraktu po diferenci. Celý výrok proto hodnotíme jako zavádějící.</p>\n\n<p>Výrok zazněl v debatě o tom, jak má být financována výstavba nových jaderných bloků (zejména Dukovany II). Česká republika pro tyto zdroje přijala speciální zákon a vládní nařízení, která stanovují, jakým způsobem bude elektřina z nového bloku prodávána a jak bude investorovi zajištěna návratnost investice.</p>\n\n<p>Analyzujeme tři dílčí tvrzení, která jsou ve zkoumané větě obsažena: že se pracuje s předem smluvenou („kontrahovanou“) cenou, že jde o „systém kontraktu po diferenci“ (contract for difference, CfD) a že se elektřina „vykupuje za předem danou cenu“.</p>\n\n<p><strong>Kontrahovaná (předem smluvená) cena</strong></p>\n\n<p>Zákon č. 367/2021 Sb., tzv. lex Dukovany, zavádí pro nové nízkouhlíkové zdroje dvě klíčové smlouvy: <i>„smlouvu o výkupu“</i> a <i>„smlouvu o vyrovnávacím režimu“</i>. U smlouvy o výkupu definuje tzv. <i>realizační cenu</i> jako cenu elektřiny z nízkouhlíkové výrobny, kterou investor dostává od státu na základě této smlouvy, a státu ukládá povinnost zajistit výkup elektřiny za tuto cenu po stanovenou dobu, jak ukazuje text zákona na portálu <a href=\"https://www.zakonyprolidi.cz/cs/2021-367\">Zákony pro lidi</a>. Podobně u smlouvy o vyrovnávacím režimu zavádí zákon tzv. <i>vyrovnávací cenu</i>, která je opět předem smluvně určena.</p>\n\n<p>Analýzy Ministerstva průmyslu a obchodu shrnuté na serveru <a href=\"https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen\">oEnergetice.cz</a> uvádějí, že pro Dukovany II vláda zvolila model garantovaného výkupu elektřiny za tzv. realizační (výkupní) cenu, která má být sjednána ve smlouvě na desítky let tak, aby zajistila návratnost projektu. Jiný text téhož serveru k návrhu zákona popisuje, že ministerstvo nebo jím pověřená státní firma má elektřinu z nového bloku nakupovat <i>„za předem stanovenou realizační cenu“</i> a dále ji prodávat na trhu, přičemž rozdíl oproti tržní ceně se promítne do regulovaných poplatků spotřebitelů, jak uvádí článek o financování na <a href=\"https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona\">oEnergetice.cz</a>.</p>\n\n<p>Na základě těchto dokumentů lze říci, že pro nové jaderné bloky se skutečně počítá s předem smluvenou, „kontrahovanou“ jednotkovou cenou elektřiny (ať už ve formě realizační či vyrovnávací ceny). Tato část výroku je tedy fakticky správná.</p>\n\n<p><strong>„Systém kontraktu po diferenci“ (contract for difference)</strong></p>\n\n<p>Contract for difference (CfD) je obecně finanční mechanismus, kdy výrobce prodává elektřinu na trhu za tržní cenu, ale má garantovanou tzv. strike price. Pokud je tržní cena nižší než tato garantovaná cena, stát (nebo jiný určený subjekt) doplácí rozdíl; pokud je tržní cena vyšší, výrobce rozdíl vrací. Tento princip je v českém právu pro jádro vtělen do tzv. smlouvy o vyrovnávacím režimu, která pracuje s vyrovnávací cenou a vyrovnávacími (kladnými či zápornými) platbami, jak vyplývá z textu zákona na <a href=\"https://www.zakonyprolidi.cz/cs/2021-367\">Zákony pro lidi</a>. Právní komentář LexBot výslovně uvádí, že smlouva o vyrovnávacím režimu odpovídá modelu CfD, kdy investorovi je garantována vyrovnávací cena a rozdíly vůči referenční tržní ceně se vyrovnávají finančními platbami, jak shrnuje článek na <a href=\"https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/\">LexBot.cz</a>.</p>\n\n<p>Pro konkrétní projekt Dukovany II však vláda zvolila jiný nástroj. Nařízením vlády č. 316/2024 stanovila, že způsobem podpory energetické bezpečnosti pro tento blok bude právě smlouva o výkupu elektřiny, což shrnuje zpráva ČTK na serveru <a href=\"https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan\">oEnergetice.cz</a>. Ekonomický deník k témuž nařízení doplňuje, že zákon sice umožňuje použít jak smlouvu o výkupu, tak smlouvu o vyrovnávacím režimu, ale <i>„v případě prvního bloku Dukovany II není co řešit“</i>, protože zde se použije smlouva o výkupu, jak vysvětluje článek na <a href=\"https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/\">EkonomickýDeník.cz</a>.</p>\n\n<p>Další analýza na serveru <a href=\"https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla\">oEnergetice.cz</a> upozorňuje, že Evropská komise v návrhu reformy trhu s elektřinou preferuje dvoustranné rozdílové kontrakty (CfD) jako standardní formu podpory nových nízkouhlíkových zdrojů, zatímco česká vláda se v lex Dukovany rozhodla pro model smlouvy o výkupu a CfD jako hlavní nástroj pro Dukovany odmítla.</p>\n\n<p>Z pohledu právního i faktického tedy platí, že CfD‑typ je v českém právu pro jádro sice zakotven, ale pro první nový blok Dukovany II nebyl vybrán. Tvrzení, že systém financování těchto bloků je „systémem kontraktu po diferenci“, tak u konkrétního projektu neodpovídá skutečnosti. V nejlepším případě jde o velmi volné pojmenování širší skupiny mechanismů, jejichž společným efektem je zajištění garantované ceny, ale v užším, technickém významu je tato část výroku nepřesná a zavádějící.</p>\n\n<p><strong>„Jinými slovy, kdy vykupujeme za předem danou cenu“</strong></p>\n\n<p>Zákon č. 367/2021 Sb. a navazující materiály k Dukovanům říkají, že u smlouvy o výkupu má stát povinnost zajistit výkup elektřiny z nového bloku za realizační cenu, a to po stanovenou dobu. Jak shrnuje článek o návrhu zákona na serveru <a href=\"https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona\">oEnergetice.cz</a>, státní subjekt nakoupí veškerou elektřinu z nového jaderného bloku za předem stanovenou realizační cenu a dále ji prodává na burze; rozdíl mezi výnosem a garantovanou cenou se pak promítne do regulovaných složek účtů za elektřinu. Z tohoto hlediska popis <i>„vykupujeme za předem danou cenu“</i> poměrně přesně vystihuje výkupní model, který byl pro Dukovany II skutečně zvolen.</p>\n\n<p>U skutečného kontraktu po diferenci (CfD) je však situace jiná. Výrobce prodává elektřinu přímo na trhu, získává tržní cenu, a až následně se finančně vyrovnává rozdíl mezi touto cenou a předem stanovenou strike price formou doplatků nebo odvodů. Tak fungují například rozdílové kontrakty pro podporované obnovitelné zdroje, kde podle popisu Ministerstva průmyslu a obchodu výrobce inkasuje tržní cenu na denním trhu a k ní případný „aukční bonus“ či naopak část výnosu vrací, jak je popsáno v článku o aukcích na OZE na serveru <a href=\"https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/\">ESG‑investice.cz</a>. V tomto modelu stát elektřinu fyzicky „nevykupuje za pevnou cenu“, ale pouze finančně dorovnává (nebo inkasuje) rozdíl oproti garantované ceně.</p>\n\n<p>Pokud tedy větu <i>„vykupujeme za předem danou cenu“</i> chápeme jako zjednodušené vysvětlení výkupního modelu z lex Dukovany, je v zásadě přesná. Pokud ji ale mluvčí předkládá <i>„jinými slovy“</i> jako popis systému kontraktu po diferenci, jde o odborně nepřesné ztotožnění dvou odlišných mechanismů – fyzického výkupu elektřiny státem a finančního rozdílového kontraktu.</p>\n\n<p><strong>Závěrečné hodnocení</strong></p>\n\n<p>Výrok Karla Havlíčka správně vystihuje, že pro nové jaderné zdroje, zejména Dukovany II, je v českém právním rámci nastaven model s předem smluvenou (kontrahovanou) cenou elektřiny. Přesně popisuje také to, že v zvoleném výkupním modelu stát prostřednictvím své společnosti nakupuje elektřinu za tuto předem danou cenu. Zároveň však neodpovídá skutečnosti, že by šlo – u konkrétně připravovaného bloku Dukovany II – o „systém kontraktu po diferenci“ v technickém smyslu CfD; ten je v zákoně jen jako alternativní možnost a vláda jej pro tento projekt vědomě nezvolila. Tím, že mluvčí tyto dva různé nástroje směšuje a CfD používá jako označení pro výkupní model, vytváří zavádějící představu o skutečně použitém mechanismu podpory. Celkově proto hodnotíme ověřovaný výrok jako <strong>zavádějící</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0bee7a04a2c9b3650069a6d8871594819c89c475dabbd04129",
+    "created_at": 1772542087.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d890a214819c97f51ec918da5bdb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8a77c18819c9d9e27ce39f8f88b",
+        "action": {
+          "query": "\"kontrakt po diferenci\" jadro",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"kontrakt po diferenci\" jadro",
+            "\"kontrakt na rozdíl\" Dukovany",
+            "\"smlouva o výkupu elektřiny\" Dukovany",
+            "\"Lex Dukovany\" smlouva o nákupu elektřiny stát Čez"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8a966bc819cbe7a7577850b0a0c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8ab9684819c8324a0f169e87001",
+        "action": {
+          "query": "\"zákon č. 367/2021 Sb.\" jaderná elektrárna Dukovany",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"zákon č. 367/2021 Sb.\" jaderná elektrárna Dukovany",
+            "\"lex Dukovany\" zákon č. 367/2021 Sb. plné znění",
+            "\"opatření k přípravě výstavby\" jaderného zdroje zákon 367/2021",
+            "\"smlouva o výkupu elektřiny\" Dukovany „realizační cena“"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8aeb9cc819cbc2518fdd76b3d1a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8b8fd34819ca974866913f9810f",
+        "action": {
+          "query": "\"zákon o opatřeních k přechodu k nízkouhlíkové energetice\" plné znění",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"zákon o opatřeních k přechodu k nízkouhlíkové energetice\" plné znění",
+            "\"opatřeních k přechodu k nízkouhlíkové energetice\" č. 367/2021 Sb.",
+            "\"realizační cena\" \"opatřeních k přechodu k nízkouhlíkové energetice\"",
+            "\"Smlouva o výkupu elektřiny\" \"opatřeních k přechodu k nízkouhlíkové energetice\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8bc65c0819c90918ee72e710840",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8bd2a84819ca5461d9b68b4cd1e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8bf126c819cb23867d58e38ff67",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8c6e150819cbff4d3f15c052c12",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8c8f64c819c8d8518decf9874d5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8c93d60819cbd613a5178a5f690",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8cb33f0819c81b7db351220523b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8cd1490819cbeb1ccf83dcb765e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8ce0e84819c83dd41c0d2bf1730",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8e14d64819c984a10d20648e489",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8e6c0ec819c9b0440a567114460",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8e7516c819c9876e4bb34dd66e1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8e8fcb8819c821544c14642df7f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8e94774819ca548ee134b553707",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8ea7784819cbdd0e7adf6a8ee9a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8eb0708819cb89044b1a411d8fa",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "realizační cen"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8ede708819c890951aa8a226e06",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d8efce50819cbae6d07266141772",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "předem stanovenou realizační cen"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d8f65104819c9c1467ada0d23a6a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d901b378819caa9c242d00b2881f",
+        "action": {
+          "query": "\"smlouva o vyrovnavacim rezimu\" contract for difference",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"smlouva o vyrovnavacim rezimu\" contract for difference",
+            "\"vyrovnavaci platba\" \"nizkouhlikove vyrobny\"",
+            "MPO smlouva o vyrovnavacim rezimu jaderne",
+            "\"vyrovnávací režim\" \"nízkouhlíkové\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d908c8e4819cbc33d3f1bc6d18c3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d90e1278819cb4be2b721f98ad02",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d9125d98819c91db36669a60f26c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d930e060819cb110cc177feaaf7f",
+        "action": {
+          "query": "\"Contract for Difference\" vysvětlení jaderná energetika český",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Contract for Difference\" vysvětlení jaderná energetika český",
+            "\"rozdílový kontrakt\" vysvětlení",
+            "Hinkley Point C Contract for Difference jak funguje",
+            "\"rozdílový kontrakt\" \"contract for difference\" elektřina"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d935375c819cbe28ed7384063d50",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d936d664819c9c659f327f48af6c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d93d19c8819cac95292059f92282",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0bee7a04a2c9b3650069a6d943ff34819ca8f222ad34850bc7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bee7a04a2c9b3650069a6d948e430819ca14d5f1203dd78ce",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0bee7a04a2c9b3650069a6d9ba9794819ca094141748296ba5",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 931,
+                "start_index": 869,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 1277,
+                "start_index": 1215,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 1510,
+                "start_index": 1448,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 1707,
+                "start_index": 1645,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 2190,
+                "start_index": 2128,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 2495,
+                "start_index": 2433,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 3108,
+                "start_index": 2875,
+                "title": "Jádro na smlouvu: jedno kliknutí ERÚ, dvacet let cash flow a nová položka na faktuře. Kdo nečte zákon č. 367/2021 Sb., ten platí! | LexBot.cz",
+                "type": "url_citation",
+                "url": "https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/?utm_source=openai"
+              },
+              {
+                "end_index": 3493,
+                "start_index": 3358,
+                "title": "Nové Dukovany: MPO podrobně popsalo, proč bude garantovat výkupní ceny",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen"
+              },
+              {
+                "end_index": 3772,
+                "start_index": 3637,
+                "title": "Nové Dukovany: MPO podrobně popsalo, proč bude garantovat výkupní ceny",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen"
+              },
+              {
+                "end_index": 4071,
+                "start_index": 3936,
+                "title": "Nové Dukovany: MPO podrobně popsalo, proč bude garantovat výkupní ceny",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen"
+              },
+              {
+                "end_index": 4513,
+                "start_index": 4344,
+                "title": "Při prodražení Dukovan zaplatí rozdíl oproti tržní ceně spotřebitelé skrze síťové tarify, uvádí návrh zákona",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona"
+              },
+              {
+                "end_index": 5223,
+                "start_index": 5161,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 5684,
+                "start_index": 5567,
+                "title": "Ministerstvo vypsalo první aukce na podporu OZE",
+                "type": "url_citation",
+                "url": "https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/?utm_source=openai"
+              },
+              {
+                "end_index": 6263,
+                "start_index": 6128,
+                "title": "Nové Dukovany: MPO podrobně popsalo, proč bude garantovat výkupní ceny",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen"
+              },
+              {
+                "end_index": 6841,
+                "start_index": 6701,
+                "title": "Vláda schválila nařízení, co umožní jednat o smlouvě o výkupu energie z Dukovan",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan"
+              },
+              {
+                "end_index": 7239,
+                "start_index": 7099,
+                "title": "Vláda schválila nařízení, co umožní jednat o smlouvě o výkupu energie z Dukovan",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan"
+              },
+              {
+                "end_index": 7698,
+                "start_index": 7557,
+                "title": "Stát podpoří nový blok Dukovan smlouvou o výkupu elektřiny. Do budoucna bude možností více - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/"
+              },
+              {
+                "end_index": 7952,
+                "start_index": 7811,
+                "title": "Stát podpoří nový blok Dukovan smlouvou o výkupu elektřiny. Do budoucna bude možností více - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/"
+              },
+              {
+                "end_index": 8493,
+                "start_index": 8328,
+                "title": "Odpovídá podpora pro nové Dukovany návrhu změn trhu s elektřinou? Komise vybrala CfD, který vláda odmítla",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla"
+              },
+              {
+                "end_index": 9208,
+                "start_index": 9146,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 9474,
+                "start_index": 9339,
+                "title": "Nové Dukovany: MPO podrobně popsalo, proč bude garantovat výkupní ceny",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen"
+              },
+              {
+                "end_index": 9932,
+                "start_index": 9870,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 10310,
+                "start_index": 10170,
+                "title": "Vláda schválila nařízení, co umožní jednat o smlouvě o výkupu energie z Dukovan",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan"
+              },
+              {
+                "end_index": 11261,
+                "start_index": 11096,
+                "title": "Odpovídá podpora pro nové Dukovany návrhu změn trhu s elektřinou? Komise vybrala CfD, který vláda odmítla",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla"
+              },
+              {
+                "end_index": 12038,
+                "start_index": 11976,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 12419,
+                "start_index": 12250,
+                "title": "Při prodražení Dukovan zaplatí rozdíl oproti tržní ceně spotřebitelé skrze síťové tarify, uvádí návrh zákona",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona"
+              },
+              {
+                "end_index": 12943,
+                "start_index": 12826,
+                "title": "Ministerstvo vypsalo první aukce na podporu OZE",
+                "type": "url_citation",
+                "url": "https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/?utm_source=openai"
+              },
+              {
+                "end_index": 13366,
+                "start_index": 13231,
+                "title": "Nové Dukovany: MPO podrobně popsalo, proč bude garantovat výkupní ceny",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen"
+              },
+              {
+                "end_index": 15033,
+                "start_index": 14971,
+                "title": "\n367/2021 Sb. Zákon o opatřeních k přechodu České republiky k nízkouhlíkové energetice a o změně zákona č. 165/201...\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2021-367"
+              },
+              {
+                "end_index": 15573,
+                "start_index": 15438,
+                "title": "Nové Dukovany: MPO podrobně popsalo, proč bude garantovat výkupní ceny",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen"
+              },
+              {
+                "end_index": 16250,
+                "start_index": 16081,
+                "title": "Při prodražení Dukovan zaplatí rozdíl oproti tržní ceně spotřebitelé skrze síťové tarify, uvádí návrh zákona",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona"
+              },
+              {
+                "end_index": 16836,
+                "start_index": 16696,
+                "title": "Vláda schválila nařízení, co umožní jednat o smlouvě o výkupu energie z Dukovan",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan"
+              },
+              {
+                "end_index": 17441,
+                "start_index": 17300,
+                "title": "Stát podpoří nový blok Dukovan smlouvou o výkupu elektřiny. Do budoucna bude možností více - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/"
+              },
+              {
+                "end_index": 18120,
+                "start_index": 17955,
+                "title": "Odpovídá podpora pro nové Dukovany návrhu změn trhu s elektřinou? Komise vybrala CfD, který vláda odmítla",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla"
+              },
+              {
+                "end_index": 18953,
+                "start_index": 18720,
+                "title": "Jádro na smlouvu: jedno kliknutí ERÚ, dvacet let cash flow a nová položka na faktuře. Kdo nečte zákon č. 367/2021 Sb., ten platí! | LexBot.cz",
+                "type": "url_citation",
+                "url": "https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/?utm_source=openai"
+              },
+              {
+                "end_index": 19388,
+                "start_index": 19271,
+                "title": "Ministerstvo vypsalo první aukce na podporu OZE",
+                "type": "url_citation",
+                "url": "https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/?utm_source=openai"
+              }
+            ],
+            "text": "### 1. Rozklad a interpretace tvrzení\n\nOvěřovaný úsek výroku Karla Havlíčka:\n\n> „… tzv. kontrahovanou cenou, tzv. systémem kontraktu po diferenci, jinými slovy, kdy vykupujeme za předem danou cenu.“\n\nNejpřirozenější výklad:\n\n1. **Existuje předem „kontrahovaná“ (smluvně stanovená) cena elektřiny** z nových jaderných bloků.\n2. Použitý model je **„kontrakt po diferenci“ (contract for difference, CfD)**.\n3. **Praktický efekt** tohoto modelu je, že **stát (či jím určený subjekt) elektřinu „vykupuje za předem danou cenu“**.\n\nNíže jsou ověřeny tyto tři dílčí teze vůči platnému právnímu rámci a oficiálním materiálům pro Dukovany II.\n\n---\n\n## 2. Právní a regulační rámec\n\n### 2.1 Zákon č. 367/2021 Sb. („lex Dukovany“)\n\nZákladní právní rámec financování nových jaderných bloků je zákon č. 367/2021 Sb., o opatřeních k přechodu České republiky k nízkouhlíkové energetice.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))\n\nZákon definuje dva hlavní typy smluv:\n\n**a) Smlouva o výkupu a „realizační cena“ (výkupní model)**\n\n- „Smlouva o výkupu“ je smlouva mezi Českou republikou (zastoupenou MPO) a investorem jaderné elektrárny, která upravuje výrobu a dodávku elektřiny a zajištění návratnosti investice.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n- „Realizační cena“ je podle definice v § 2 písm. d) **cena za elektřinu z nízkouhlíkové výrobny, kterou investor dostává od ministerstva na základě smlouvy o výkupu**.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n- § 3 odst. 3 písm. b) výslovně ukládá **povinnost České republiky zajistit výkup elektřiny za realizační cenu po stanovenou dobu**.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n\nJde tedy o dlouhodobý **výkup elektřiny státem za předem dohodnutou jednotkovou cenu**.\n\n**b) Smlouva o vyrovnávacím režimu a „vyrovnávací cena“ (CfD‑typ)**\n\nNovější novela zavedla i **„smlouvu o vyrovnávacím režimu“**, která funguje jako kontrakt pro rozdíl (CfD):\n\n- § 2 písm. e)–k) zavádí pojmy:\n  - „vyrovnávací cena“ – cena za elektřinu, která je investorovi garantována na základě smlouvy o vyrovnávacím režimu,([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n  - „vyrovnávací platba“ – platba investorovi k dosažení vyrovnávací ceny oproti referenční tržní ceně elektřiny,  \n  - „záporná vyrovnávací platba“ – platba investora státu v případě, že referenční tržní cena je vyšší než vyrovnávací cena.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n\nTo odpovídá principu **dvoustranného rozdílového kontraktu (two‑way CfD)**: pokud je tržní cena pod garantovanou, stát doplácí rozdíl; pokud nad ní, výrobce rozdíl vrací státu.\n\nPrávní komentář LexBot k témuž zákonu výslovně označuje **smlouvu o vyrovnávacím režimu jako „CfD“**, které garantuje vyrovnávací cenu a funguje přes vyrovnávací platby při odchylce referenční ceny.([lexbot.cz](https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/?utm_source=openai))\n\n---\n\n### 2.2 Jak funguje model „smlouva o výkupu“ v praxi\n\nAnalytický článek oEnergetice k návrhu zákona shrnuje, že vláda vybrala jako nejvhodnější **podporu formou výkupu elektřiny za tzv. realizační cenu**, stanovenou smlouvou mezi státem a ČEZ.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))\n\n- Stát prostřednictvím 100% státní společnosti **vykupuje elektřinu z nového bloku za realizační cenu** a tuto elektřinu dále prodává na trhu.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n- Rozdíl mezi tržním výnosem a garantovanou realizační cenou doplatí koneční spotřebitelé prostřednictvím regulovaných složek ceny elektřiny (přenos/distribuce).([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n\nJiný text oEnergetice, k původnímu návrhu zákona, uvádí:\n\n- návrh počítá s tím, že **výkup elektřiny provádí MPO či jím pověřená státní právnická osoba „za předem stanovenou realizační cenu“**, a smlouva o výkupu je uzavřena minimálně na 30 let, s možností prodloužení.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona))  \n\nTo potvrzuje, že **předem smluvně daná jednotková cena (kontrahovaná cena) je základním prvkem výkupního modelu**.\n\n---\n\n### 2.3 Jak funguje „kontrakt po diferenci“ (CfD) v českém kontextu\n\nCfD (rozdílový kontrakt) je obecně **finanční mechanismus**, kde výrobce prodává elektřinu na trhu, ale má garantovanou „strike price“; rozdíl mezi touto cenou a tržní cenou je vyrovnáván platbami mezi ním a státem / operátorem trhu.\n\nV českém právu se CfD‑typ u jádra objevuje jako **smlouva o vyrovnávacím režimu** (§ 3a zákona): investor dostává či odvádí vyrovnávací platby podle rozdílu mezi **vyrovnávací cenou** a referenční tržní cenou elektřiny.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n\nAnalogický mechanismus je v ČR používán i pro obnovitelné zdroje: v aukcích podpory OZE se podpora poskytuje **formou rozdílového kontraktu (contract for difference)** – výrobce dostává tržní cenu na denním trhu plus „aukční bonus“ dorovnávající rozdíl do referenční aukční ceny, a naopak při vyšší tržní ceně rozdíl vrací operátorovi trhu.([esg-investice.cz](https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/?utm_source=openai))  \n\nAnalýza oEnergetice k lex Dukovany srovnává navržený výkupní model se CfD pro Hinkley Point C:\n\n- z pohledu ČEZ jsou oba modely podobné v tom, že výrobce má **garantovanou cenu**,  \n- ale u CfD (Hinkley Point) prodává elektřinu výrobce na trhu a rozdíl do garantované ceny se dopočítává;  \n- u českého výkupního modelu prodává elektřinu na burze **státní obchodník**, zatímco ČEZ dostává vždy realizační cenu bez ohledu na výsledek prodeje.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n\nJinou formou: CfD **není fyzický výkup elektřiny za pevnou cenu**, ale **finanční dorovnání do předem dané ceny**.\n\n---\n\n### 2.4 Jaký model je zvolen pro nový blok Dukovany II\n\nKromě obecného zákonného rámce existují specifická rozhodnutí pro Dukovany II:\n\n- Nařízení vlády č. 316/2024 Sb. podle § 2a zákona 367/2021 stanovuje, že **způsobem podpory energetické bezpečnosti pro nový jaderný zdroj v Dukovanech je „smlouva o výkupu“**.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan))  \n- Zpravodajství ČTK na oEnergetice shrnuje: vláda schválila nařízení o podpoře energetické bezpečnosti, které **jako formu veřejné podpory pro Dukovany stanovuje smlouvu o výkupu elektřiny**; stát tak může s ČEZ vyjednávat o podobě smlouvy a výkupní ceně.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan))  \n\nEkonomický deník k témuž nařízení píše:\n\n- ČR může podle zákona použít **smlouvu o výkupu elektřiny nebo smlouvu o vyrovnávacím režimu**,  \n- ale „v případě prvního bloku … Dukovany II však není co řešit. Tady stát použije **smlouvu o výkupu**, s níž počítá rozhodnutí Evropské komise o schválení veřejné podpory“.([ekonomickydenik.cz](https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/))  \n- Stejný článek uvádí, že druhým nástrojem podpory je **garantovaný výkup vyrobené elektřiny po dobu 40 let**.([ekonomickydenik.cz](https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/))  \n\nDalší analýza oEnergetice k reformě trhu s elektřinou konstatuje, že:\n\n- Evropská komise navrhuje, aby státní podpora pro nové nízkouhlíkové zdroje byla formou **dvoustranných rozdílových kontraktů (CfD)**,  \n- ale Česká republika se podle lex Dukovany rozhodla pro **podporu formou smlouvy o výkupu**, přičemž **rozdílový kontrakt (CfD) vláda odmítla jako méně výhodný**.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla))  \n\n**Závěr k této části:**  \nPro **první nový blok Dukovan II je zvolen výkupní model (smlouva o výkupu, realizační cena), nikoliv CfD**. CfD‑typ („smlouva o vyrovnávacím režimu“) je v zákoně pouze jako alternativní možnost pro jiné či budoucí projekty.\n\n---\n\n## 3. Vyhodnocení jednotlivých částí výroku\n\n### 3.1 „… tzv. kontrahovanou cenou …“ (předem daná smluvní cena)\n\n**Stav důkazů:**\n\n- Zákon 367/2021 Sb. zavádí pojmy **realizační cena** (pro smlouvu o výkupu) a **vyrovnávací cena** (pro smlouvu o vyrovnávacím režimu), tedy v obou případech jde o **smluvně předem stanovenou cenu elektřiny, která má investorovi zajistit návratnost investice**.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n- Vládní a expertní materiály k Dukovanům mluví o **garantovaném výkupu elektřiny za výkupní (realizační) cenu po desítky let**.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n\n**Hodnocení:**  \nTvrzení, že se u nových jaderných bloků pracuje s **„kontrahovanou“ (předem smluvenou) cenou elektřiny**, je **věcně podloženo**.\n\n---\n\n### 3.2 „… tzv. systémem kontraktu po diferenci …“ (CfD)\n\n**Stav důkazů:**\n\n- CfD‑typ (rozdílový kontrakt) je v českém právu pro jádro skutečně popsán v podobě **smlouvy o vyrovnávacím režimu** s vyrovnávací cenou a vyrovnávacími platbami.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n- Pro **Dukovany II** ale vláda explicitně zvolila **smlouvu o výkupu elektřiny**, nikoli smlouvu o vyrovnávacím režimu / CfD: tak to stanoví nařízení vlády a potvrzuje odborné zpravodajství i komentáře (Ekonomický deník, oEnergetice).([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan))  \n\n**Možné interpretace:**\n\n- Velmi úzký výklad: Havlíček tvrdí, že **konkrétně pro nové bloky v Dukovanech (a Temelín, SMR)** bude použit **CfD‑systém** → to **neodpovídá aktuálně zvolenému modelu** (je to smlouva o výkupu).  \n- Širší, benevolentní výklad: mluví obecně o tzv. rozdílových kontraktech jako o **rodině mechanismů, které zajistí fixní příjem výrobce bez ohledu na tržní cenu**, a používá „kontrakt po diferenci“ volněji i pro výkupní model.\n\n**Hodnocení:**  \n\n- **Formálně a právně přesně:**  \n  - **Model pro Dukovany II není CfD, ale přímý výkup (PPA) za realizační cenu.**  \n  - Tvrzení, že jde o „systém kontraktu po diferenci“, je tedy **pro konkrétní projekt nepřesné** a může vyvolávat mylný dojem, že ČR používá standardní CfD, jak jej preferuje Evropská komise.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla))  \n- **Z hlediska ekonomického efektu pro investora:**  \n  - Výkupní model i CfD vedou k **garantovanému příjmu za MWh**; v tomto širším smyslu lze říci, že jde o „rozdílově“ nastavenou cenu vůči trhu.  \n  - Přesto jde o **dva právně a technicky odlišné mechanismy**.\n\nCelkově je tedy tato část výroku **spíše zavádějící**: zákon CfD‑typ zná, ale pro Dukovany je zvolen jiný nástroj.\n\n---\n\n### 3.3 „… jinými slovy, kdy vykupujeme za předem danou cenu.“\n\nTady Havlíček vysvětluje CfD / kontrahovanou cenu tak, že **„vykupujeme za předem danou cenu“**.\n\n**a) Platnost pro smlouvu o výkupu (Dukovany II)**\n\n- Zákon výslovně ukládá státu povinnost **„zajistit výkup elektřiny … za realizační cenu“** po stanovenou dobu.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n- Návrh zákona i pozdější analýzy uvádějí, že elektřinu z nového bloku **vykupuje státní subjekt za předem stanovenou realizační cenu a dále ji prodává na burze**; rozdíl se přenáší do regulovaných složek cen.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona))  \n\nPro **výkupní model** tedy popis „vykupujeme za předem danou cenu“ **sedí velmi dobře**.\n\n**b) Platnost pro kontrakt po diferenci (CfD / smlouvu o vyrovnávacím režimu)**\n\nU CfD je mechanismus jiný:\n\n- Výrobce **prodává elektřinu na trhu** a získá tržní cenu.  \n- Pokud je tržní cena pod garantovanou (vyrovnávací/aukční) cenou, stát / operátor trhu doplatí rozdíl; pokud je nad ní, výrobce rozdíl vrací.([esg-investice.cz](https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/?utm_source=openai))  \n\nTedy:\n\n- **Stát elektřinu fyzicky „nevykupuje“ za pevnou cenu**, ale poskytuje **finanční dorovnání** (nebo ho inkasuje zpět).  \n- Z pohledu investora je však výsledkem opět **efektivně předem daná jednotková cena** (strike/wyrovnávací cena), jak popisují i analýzy k Hinkley Point C.([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n\n**Hodnocení:**\n\n- Jako zjednodušené vysvětlení **výkupního modelu** je věta „vykupujeme za předem danou cenu“ přesná.  \n- Jako vysvětlení **kontraktu po diferenci (CfD)** je to **odborně nepřesné**: CfD není fyzický výkup, ale **finanční vyrovnávání rozdílu** mezi tržní a garantovanou cenou.\n\n---\n\n## 4. Celkové shrnutí\n\n1. **Kontrahovaná (předem smluvně daná) cena:**  \n   - Zákon č. 367/2021 Sb. i navazující rozhodnutí vlády a Evropské komise jednoznačně počítají s tím, že nové jaderné bloky (minimálně první blok Dukovan II) budou mít **dlouhodobě garantovanou smluvní cenu elektřiny** – realizační cenu ve smlouvě o výkupu.  \n   - Tato část výroku je **věcně podložená**.\n\n2. **„Systém kontraktu po diferenci“:**  \n   - CfD‑typ (smlouva o vyrovnávacím režimu) je v českém právu pro jádro skutečně popsán, ale **pro Dukovany II byl zvolen jiný model – smlouva o výkupu elektřiny**.  \n   - Tvrzení, že jde (už dnes) o „systém kontraktu po diferenci“, je tedy pro konkrétní projekt **právně nepřesné a může být zavádějící**, pokud je chápáno doslova.\n\n3. **„Jinými slovy, vykupujeme za předem danou cenu“:**  \n   - Pro **výkupní model (Dukovany II)** tato formulace odpovídá zákonu (stát má povinnost výkupu za realizační cenu).  \n   - Pro **CfD** je to zjednodušení, které **překrývá odlišnost mezi fyzickým výkupem a finančním dorovnáním**.\n\n---\n\n## 5. Přehled klíčových zdrojů (výběr)\n\n- Zákon č. 367/2021 Sb. – definice smlouvy o výkupu, realizační ceny a smlouvy o vyrovnávacím režimu/vyrovnávací ceny:  \n  [https://www.zakonyprolidi.cz/cs/2021-367](https://www.zakonyprolidi.cz/cs/2021-367) ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2021-367))  \n\n- Analýza modelu výkupu elektřiny pro Dukovany (MPO, lex Dukovany):  \n  „Nové Dukovany: MPO podrobně popsalo, proč bude garantovat výkupní ceny“ – oEnergetice.cz  \n  [https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen) ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/nove-dukovany-mpo-podrobne-popsalo-proc-se-rozhodlo-garanci-vykupnich-cen))  \n\n- Článek k návrhu lex Dukovany (předem stanovená realizační cena, dlouhodobý výkup):  \n  „Při prodražení Dukovan zaplatí rozdíl oproti tržní ceně spotřebitelé skrze síťové tarify“ – oEnergetice.cz  \n  [https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona](https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona) ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/pri-prodrazeni-dukovan-zaplati-rozdil-oproti-trzni-cene-spotrebitele-skrze-sitove-tarify-uvadi-navrh-zakona))  \n\n- Zpravodajství o nařízení vlády č. 316/2024 Sb. (volba „smlouvy o výkupu“ pro Dukovany):  \n  „Vláda schválila nařízení, co umožní jednat o smlouvě o výkupu energie z Dukovan“ – oEnergetice.cz  \n  [https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan](https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan) ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/vlada-schvalila-narizeni-co-umozni-jednat-o-smlouve-o-vykupu-energie-z-dukovan))  \n\n- Shrnutí, že pro první blok Dukovan II se použije smlouva o výkupu, nikoli vyrovnávací režim (CfD):  \n  „Stát podpoří nový blok Dukovan smlouvou o výkupu elektřiny. Do budoucna bude možností více“ – Ekonomický deník  \n  [https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/](https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/) ([ekonomickydenik.cz](https://ekonomickydenik.cz/stat-podpori-novy-blok-dukovan-smlouvou-o-vykupu-elektriny-do-budoucna-bude-moznosti-vice/))  \n\n- Analýza vztahu mezi lex Dukovany a CfD dle návrhu reformy trhu s elektřinou EU:  \n  „Odpovídá podpora pro nové Dukovany návrhu změn trhu s elektřinou? Komise vybrala CfD, který vláda odmítla“ – oEnergetice.cz  \n  [https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla](https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla) ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/odpovida-podpora-pro-nove-dukovany-navrhu-zmen-trhu-s-elektrinou-komise-vybrala-cfd-ktery-vlada-odmitla))  \n\n- Právní komentář k lex Dukovany – rozlišení „smlouva o výkupu“ vs. „smlouva o vyrovnávacím režimu (CfD)“:  \n  „Jádro na smlouvu… kdo nečte zákon č. 367/2021 Sb., ten platí!“ – LexBot.cz  \n  [https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/](https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/) ([lexbot.cz](https://www.lexbot.cz/33/jadro-na-smlouvu-jedno-kliknuti-eru-dvacet-let-cash-flow-a-nova-polozka-na-fakture-kdo-necte-zakon-c-367-2021-sb-ten-plati-uniqueidgOkE4NvrWuOd6_6GbF4V3kDB8Cn--yEz53IpzowUNek/?utm_source=openai))  \n\n- Popis CfD pro OZE v české legislativě (jako analogie vyrovnávacího režimu):  \n  „Ministerstvo vypsalo první aukce na podporu OZE“ – ESG‑investice.cz  \n  [https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/](https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/) ([esg-investice.cz](https://www.esg-investice.cz/ministerstvo-vypsalo-prvni-aukce-na-podporu-oze/?utm_source=openai))",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 78328,
+      "input_tokens_details": {
+        "cached_tokens": 6400
+      },
+      "output_tokens": 21431,
+      "output_tokens_details": {
+        "reasoning_tokens": 15579
+      },
+      "total_tokens": 99759
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772542467,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "claim_id": "24696",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260410_190055",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/reports/report24696.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 65.9,
+        "prompt_length": 4771,
+        "input_tokens": 89979,
+        "cached_input_tokens": 62720,
+        "output_tokens": 3584,
+        "web_searches": 2,
+        "final_response": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/claim_interpretation.md).\n\nSoubor obsahuje rozklad na dílčí tvrzení, zvolenou charitativní interpretaci, datum výroku a časové okno pro zdroje, plán hledání i oddělení nefaktických částí.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Prověřím kontext výroku a zapíšu interpretační rozklad do `work/claim_interpretation.md`. Nejdřív si ověřím, jak přesně zní čl. 63 odst. 1 Ústavy a jaký je nejpravděpodobnější kontext debatovaného „summitu“."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc pwd",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"rg --files work output . | sed 's#\"'^./##'\"'\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz Ústava České republiky čl. 63 odst. 1 prezident republiky zastupuje stát navenek"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám potvrzený základní kontext: výrok reaguje na spor o to, kdo má zastupovat Česko na summitu NATO v červenci 2026, a opírá se o čl. 63 odst. 1 písm. a) Ústavy. Teď sepíšu interpretační poznámku tak, aby v další fázi šlo přesně hledat jen ověřitelné jádro výroku."
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zapisuju `work/claim_interpretation.md`. Zaměřím to na dvě věci: přesné právní znění a charitativní interpretaci toho, zda Výborný mluvil o textu Ústavy, nebo už o rozsahu prezidentovy role na summitech."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'mkdir -p work'",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz Ústava České republiky čl. 63 odst. 1 písm. a) prezident republiky zastupuje stát navenek"
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretace je zapsaná. Ještě rychle zkontroluju, že soubor obsahuje přesně datum výroku, vybranou interpretaci a konkrétní vyhledávací dotazy pro další krok."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/claim_interpretation.md).\n\nSoubor obsahuje rozklad na dílčí tvrzení, zvolenou charitativní interpretaci, datum výroku a časové okno pro zdroje, plán hledání i oddělení nefaktických částí."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 174.2,
+        "prompt_length": 1771,
+        "input_tokens": 348735,
+        "cached_input_tokens": 199936,
+        "output_tokens": 12570,
+        "web_searches": 21,
+        "final_response": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/raw_sources.md).\n\nSoubor teď obsahuje širší sadu podkladů: oficiální text Ústavy, oficiální materiály PSP a vlády, plus mediální a expertní zdroje k tomu, jak se ustanovení o „zastupování státu navenek“ vykládá v praxi a ve sporu o summit NATO.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Načtu interpretační soubor a pak udělám široký sběr zdrojů: nejdřív oficiální text Ústavy, potom odborné a mediální zdroje, které ukazují, zda výrok sedí doslovně a co je naopak sporné v širším kompetenčním výkladu."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"test -f work/raw_sources.md && sed -n '1,220p' work/raw_sources.md || true\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz Ústava České republiky čl. 63 odst. 1 písm. a prezident republiky zastupuje stát navenek"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz \"zastupuje stát navenek\" prezident republiky"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz \"Ústava České republiky\" pdf čl. 63 \"zastupuje stát navenek\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:esbirka.cz Ústava České republiky čl. 63 odst. 1 písm. a"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:hrad.cz prezident republiky zastupuje stát navenek ústava"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:irozhlas.cz summit NATO prezident reprezentuje navenek ústava nejednoznačné 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:irozhlas.cz Ondřej Preuss prezident zastupuje stát navenek summit NATO 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:hrad.cz zastoupení Česka na summitu NATO záleží na dohodě mezi premiérem a prezidentem 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.hrad.cz/cs/ceska-republika/ustava-cr"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'zastupuje stát navenek' in https://www.hrad.cz/cs/ceska-republika/ustava-cr"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Vláda je vrcholným orgánem výkonné moci' in https://www.hrad.cz/cs/ceska-republika/ustava-cr"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:irozhlas.cz prezident zastupuje stát navenek vláda určuje zahraniční politiku expert"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.hrad.cz/cs/pro-media/tiskove-zpravy/aktualni-tiskove-zpravy/vyjadreni-prezidenta-republiky-19036"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.hrad.cz/cs/pro-media/tiskove-zpravy/aktualni-tiskove-zpravy/prezident-republiky-odeslal-dopis-predsedovi-vlady-19159"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.hrad.cz/file/edee/2026/01/dopis-prezidenta-republiky-predsedovi-vlady.pdf"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdrojů už mám dost pro doslovné znění i pro sporný širší výklad. Teď je třídím do `work/raw_sources.md` tak, aby bylo oddělené, co přímo potvrzuje text Ústavy, a co jen dokresluje spor o summit a sdílenou pravomoc prezidenta s vládou."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:novinky.cz prezident summit NATO ústavní právníci duben 2026 do 8.4.2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.irozhlas.cz/zpravy-domov/summit-nato-prezident-pavel-ministr-macinka_2604082149_elev"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:hrad.cz prezident pavel se zucastni summitu NATO v Haagu 18637"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:irozhlas.cz \"U zastoupení Česka na summitu NATO záleží na dohodě mezi premiérem a prezidentem\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Narazil jsem na jeden zdroj po datu výroku, ten nahrazuju starším článkem před 8. dubnem 2026. Chci mít `raw_sources.md` čistě v povoleném časovém okně, aby další krok nemusel řešit filtraci."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.hrad.cz/cs/pro-media/tiskove-zpravy/aktualni-tiskove-zpravy/prezident-pavel-se-zucastni-summitu-nato-v-haagu-18637"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Ústava říká, že prezident zastupuje zemi navenek' in https://www.irozhlas.cz/zpravy-domov/ministr-mi-nemuze-zakazat-abych-zastupoval-zemi-rekl-pavel-macinka-zahranicni_2604071626_rec"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/raw_sources.md).\n\nSoubor teď obsahuje širší sadu podkladů: oficiální text Ústavy, oficiální materiály PSP a vlády, plus mediální a expertní zdroje k tomu, jak se ustanovení o „zastupování státu navenek“ vykládá v praxi a ve sporu o summit NATO."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 110.6,
+        "prompt_length": 2274,
+        "input_tokens": 534454,
+        "cached_input_tokens": 336896,
+        "output_tokens": 18879,
+        "web_searches": 5,
+        "final_response": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/refined_sources.md).\n\nZachoval jsem hlavně oficiální a tier-1 zdroje pro text Ústavy a jen několik kontextových zdrojů k širšímu výkladu prezidentovy role. Duplicitní nebo méně potřebné položky jsem označil jako `removed` nebo `replaced`.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Načtu hodnocení domén a projdu každý zdroj proti rankingu, dostupnosti a tomu, jestli jde nahradit přímějším primárním podkladem. Cíl je zúžit seznam na zdroje, které skutečně unesou hodnocení výroku."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/docs/laws constitution html čl. 63 zastupuje stát navenek"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.hrad.cz/cs/ceska-republika/ustava-cr"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'zastupuje stát navenek' in https://www.hrad.cz/cs/ceska-republika/ustava-cr"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'v součinnosti s vládou' in https://www.psp.cz/eknih/cdrom/ic/pdf/12_zahranicni_04_2024.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:hrad.cz \"U zastoupení Česka na summitu NATO záleží na dohodě mezi premiérem a prezidentem\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Seznam už redukuju. Vyhazuju duplicitní nebo slabší položky tam, kde stejnou informaci drží přímý oficiální zdroj, a u zbytku dopisuju, proč zůstávají jen jako kontext k širšímu sporu o výklad."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam je hotový; ještě rychle kontroluju, že u každé položky sedí status a že jsem opravdu neponachal nic po 8. dubnu 2026."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,320p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/refined_sources.md).\n\nZachoval jsem hlavně oficiální a tier-1 zdroje pro text Ústavy a jen několik kontextových zdrojů k širšímu výkladu prezidentovy role. Duplicitní nebo méně potřebné položky jsem označil jako `removed` nebo `replaced`."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 73.5,
+        "prompt_length": 2388,
+        "input_tokens": 826073,
+        "cached_input_tokens": 605696,
+        "output_tokens": 23256,
+        "web_searches": 0,
+        "final_response": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/draft.md).\n\nVerdikt v návrhu vychází z charitativní, doslovné interpretace výroku: Výborný správně cituje ústavní text, zatímco spor o účast prezidenta na summitu je v textu popsán jen jako širší interpretační kontext.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď načtu stylová pravidla a dva vzorové texty, pak sepíšu draft v demagogím formátu. Hlavní rozhodnutí bude, zda je výrok prostě pravdivý jako citace textu Ústavy, nebo zavádějící kvůli nepřesnému odkazu jen na odstavec bez písmene."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/examples.txt\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ještě upravuju refinovaný seznam u samotné citace zákona. Stylová příručka chce u zákonů odkaz na Zakony pro lidi, takže ho vrátím jako doplňkový odkaz k přesnému paragrafu, zatímco oficiální weby zůstanou jako kontrolní opora."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Sepisuju samotný text. Ponechám verdikt u doslovné citace Ústavy a v těle jen stručně oddělím, že spor o summit je širší než samotné znění článku 63."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft je hotový. Kontroluju ještě dvě citlivá místa: zda perex nevysvětluje verdikt moc dlouze a zda závěr říká „pravda“ jen jednou a bez zbytečného opakování."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/draft.md).\n\nVerdikt v návrhu vychází z charitativní, doslovné interpretace výroku: Výborný správně cituje ústavní text, zatímco spor o účast prezidenta na summitu je v textu popsán jen jako širší interpretační kontext."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 95.9,
+        "prompt_length": 1226,
+        "input_tokens": 1204224,
+        "cached_input_tokens": 954112,
+        "output_tokens": 29568,
+        "web_searches": 3,
+        "final_response": "Verifikaci jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/verification.md).\n\nPři kontrole jsem upravil i [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/draft.md): doplnil jsem chybějící oporu u několika vět a přidal čísla stran k PDF odkazům. Výsledek verifikace je `PASS`.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Načtu checklist a projdu draft bod po bodu. Očekávám, že nejspíš budu ladit jen drobnosti kolem stylu nebo citací, ale projdu to mechanicky a u 2–3 odkazů udělám skutečný spot-check."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/verification_checklist.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/1993-1"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'zastupuje stát navenek' in https://www.zakonyprolidi.cz/cs/1993-1"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.psp.cz/eknih/cdrom/ic/pdf/12_zahranicni_04_2024.pdf"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "V checklistu vyšly dva drobné problémy: u PDF chyběly čísla stran a v textu zůstalo pár vět bez přímé opory v odkazu. Opravuju jen tyto body a pak zapíšu finální verifikaci."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft po opravě ještě jednou kontroluju očima proti checklistu. Pokud už nic nevyčnívá, zapíšu finální verifikační protokol jako PASS."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikaci jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/verification.md).\n\nPři kontrole jsem upravil i [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/work/draft.md): doplnil jsem chybějící oporu u několika vět a přidal čísla stran k PDF odkazům. Výsledek verifikace je `PASS`."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 25.0,
+        "prompt_length": 313,
+        "input_tokens": 1512878,
+        "cached_input_tokens": 1253376,
+        "output_tokens": 31242,
+        "web_searches": 0,
+        "final_response": "Hotovo. Finální report je v [output/report.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/output/report.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zkontroluju verifikační výsledek a pak přenesu finální text do `output/report.md` v požadovaném obalu."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 20 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikace končí `PASS`, takže přepisuju finální report do výstupního souboru."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'mkdir -p output'",
+            "exit_code": 0
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Hotovo. Finální report je v [output/report.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24696/output/report.md)."
+          }
+        ]
+      }
+    }
+  ]
+}

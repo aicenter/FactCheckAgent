@@ -1,0 +1,681 @@
+{
+  "claim_id": "24447",
+  "split": "old",
+  "source_experiment": "gpt-5.1h_20251126_184334",
+  "source_md": "experiments/gpt-5.1h_20251126_184334/brief_fact_check_id24447.md",
+  "fact_check": "# Fact Check for Statement ID 24447\n\n## Statement\nV tom písmeně 4c (zákona o střetu zájmů, pozn. Demagog.cz) je uvedeno, že Agrofert by nemohl dostat ani korunu dotací nebo peněz z veřejných zakázek pokud by Andrej Babiš jako ministr vlády v něm vlastnil více než 25 %.\n\n---\n## OpenAI Deep Research Fact Check\n## 1. Rozklad výroku a možné interpretace\n\nVýrok Borise Šťastného (parafrázováno):\n\n> „V tom písmeně 4c zákona o střetu zájmů je uvedeno, že Agrofert by nemohl dostat ani korunu dotací nebo peněz z veřejných zakázek, pokud by Andrej Babiš jako ministr vlády v něm vlastnil více než 25 %.“\n\nMožné/rozumné interpretace:\n\n1. **Textová (co přesně říká § 4c)**  \n   – § 4c zákona č. 159/2006 Sb., o střetu zájmů, má sám o sobě obsahovat zákaz jak dotací, tak veřejných zakázek pro firmy, v nichž má člen vlády > 25 % podíl.  \n\n2. **Systematická (co říká celý zákon, zejména § 4b a § 4c dohromady)**  \n   – V oblasti střetu zájmů členů vlády existuje v zákoně úprava, podle níž:\n     - taková firma nesmí získat dotace/investiční pobídky (§ 4c), a\n     - nesmí se účastnit veřejných zakázek ani je získat (§ 4b).  \n   – Šťastný § 4c zmiňuje jako „to písmeno“, ale fakticky mluví o kombinaci § 4b + § 4c.\n\n3. **Aplikační (konkrétně k Agrofertu a Andreji Babišovi)**  \n   – Pokud by Andrej Babiš byl členem vlády a (přímo či přes „ovládanou osobu“) vlastnil > 25 % v Agrofertu, **podle zákona** by Agrofert nesměl dostávat dotace/investiční pobídky ani veřejné zakázky.\n\nDále ověřuji jednotlivé dílčí tvrzení:\n\n1. Co přesně říká § 4c.  \n2. Co říká § 4b o veřejných zakázkách.  \n3. Jaká je hranice podílu (25 % vs. „více než 25 %“).  \n4. Zda se ustanovení vztahují na členy vlády.  \n5. Zda by se tato ustanovení vztahovala na Agrofert, kdyby Babiš jako ministr podíl držel.\n\n---\n\n## 2. Relevantní právní úprava\n\n### 2.1 Kdo je „veřejný funkcionář“ – člen vlády\n\nZákon č. 159/2006 Sb., o střetu zájmů, v § 2 odst. 1 písm. c) výslovně uvádí mezi veřejnými funkcionáři „člena vlády“.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \nNa členy vlády se tedy vztahují omezení v § 4, § 4b a § 4c.\n\n### 2.2 § 4b – veřejné zakázky\n\nPodle aktuálního (a po zrušení novely Ústavním soudem opět účinného) znění zákona je v § 4b uvedeno, že:\n\n- obchodní společnost, ve které člen vlády (veřejný funkcionář dle § 2 odst. 1 písm. c)) nebo jím ovládaná osoba **vlastní alespoň 25 % účasti společníka**,  \n- **se nesmí účastnit zadávacích řízení** podle zákona o zadávání veřejných zakázek, a  \n- **zadavatel je povinen takovou obchodní společnost vyloučit**, a nesmí jí ani zadat veřejnou zakázku malého rozsahu; takové jednání je neplatné.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nOdborná literatura i metodiky MMR shrnují, že § 4b **plošně brání firmám ovládaným členem vlády v účasti na veřejných zakázkách financovaných z veřejných prostředků**.([epravo.cz](https://www.epravo.cz/top/clanky/pravni-uprava-stretu-zajmu-dle-4b-zakona-c-1592006-sb-o-stretu-zajmu-a-jeji-dopad-do-zadavaciho-rizeni-110389.html?utm_source=openai))  \n\n### 2.3 § 4c – dotace a investiční pobídky\n\nPodle § 4c (v podobě účinné po zrušení novely ÚS, tedy i dne 22. 11. 2025):\n\n> „Je zakázáno poskytnout dotaci podle právního předpisu upravujícího rozpočtová pravidla (…) nebo investiční pobídku (…) obchodní společnosti, ve které veřejný funkcionář uvedený v § 2 odst. 1 písm. c) nebo jím ovládaná osoba vlastní podíl představující **alespoň 25 % účasti** společníka v obchodní společnosti.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nDůvodová zpráva a pozdější komentáře mluví o tzv. „lex Babiš“, který měl **zabránit, aby člen vlády ovládající firmu mohl současně čerpat dotace a investiční pobídky z prostředků, o jejichž přidělení může sám rozhodovat či je ovlivňovat**.([demagog.cz](https://demagog.cz/vyrok/20780?utm_source=openai))  \n\nPřechodná ustanovení zákona č. 14/2017 Sb. stanoví, že zákaz podle § 4c se použije na řízení o poskytnutí dotace nebo investiční pobídky zahájená po nabytí účinnosti novely (9. 2. 2017).([aspi.cz](https://www.aspi.cz/products/lawText/1/62488/1/2/zakon-c-159-2006-sb-o-stretu-zajmu/zakon-c-159-2006-sb-o-stretu-zajmu?utm_source=openai))  \n\n### 2.4 Vývoj a spory o rozsah pojmu „dotace“\n\n- Původní znění § 4c mluvilo o „dotaci podle právního předpisu upravujícího rozpočtová pravidla“, s odkazem na zákon č. 218/2000 Sb. (rozpočtová pravidla).([aspi.cz](https://www.aspi.cz/products/lawText/1/87818/1/2/zakon-c-14-2017-sb-kterym-se-meni-zakon-c-159-2006-sb-o-stretu-zajmu-ve-zneni-pozdejsich-predpisu-a-dalsi-souvisejici-zakony/zakon-c-14-2017-sb-kterym-se-meni-zakon-c-159-2006-sb-o-stretu-zajmu-ve-zneni-pozdejsich-predpisu-a-dalsi-souvisejici-zakony?utm_source=openai))  \n- Novela č. 253/2023 Sb. krátce text zpřesnila na „dotaci podle právního předpisu upravujícího **poskytování dotací**“, ale Ústavní soud tuto novelu z procesních důvodů zrušil; soud i tak zdůraznil, že změna jen potvrzovala dosavadní výklad, že § 4c dopadá i na jiné právní režimy dotací, nejen přímo na zákon o rozpočtových pravidlech.([vyhledavac.nssoud.cz](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746748?utm_source=openai))  \n- V judikatuře (MS Praha, NSS) se ustálil výklad, že § 4c dopadá i na **zemědělské nenárokové dotace poskytované podle zákona o Státním zemědělském intervenčním fondu (SZIF)**, tedy i na významnou část dotací pro skupinu Agrofert.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/judikat/msph/10-a-92-2024-97?utm_source=openai))  \n\nV praxi ale ještě několik let existovala **nejistota**, zda se § 4c vztahuje na všechny typy dotací (zejména tzv. „nárokové“ zemědělské platby), jak upozorňují např. odborné články a Transparency International.([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n\n---\n\n## 3. Ověření jednotlivých dílčích tvrzení\n\n### 3.1 „V tom písmeně 4c je uvedeno, že … dotace i veřejné zakázky“\n\n**Faktický stav:**\n\n- § 4c **řeší pouze dotace a investiční pobídky** – viz výše citovaný text. Veřejné zakázky (zadávání veřejných zakázek a zákaz účasti/zadání) jsou **výhradně předmětem § 4b**.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n- Řada sekundárních zdrojů přesně takto rozlišuje:\n  - Seznam Zprávy: shrnují, že § 4c zakazuje dotace a investiční pobídky pro firmy ovládané členem vlády s podílem ≥ 25 %.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/jak-se-hlidaji-dotace-pro-agrofert-u-ministru-za-ano-plati-mekci-pravidla-153260?utm_source=openai))  \n  - Ministerstvo práce a sociálních věcí / MMR v metodikách pro příjemce dotací z ESF/OPZ výslovně citují **§ 4b** u veřejných zakázek, nikoli § 4c.([smocr.cz](https://www.smocr.cz/cs/cinnost/sprava-obce/stret-zajmu/a/pomucka-k-overeni-dodrzeni-zakona-o-stretu-zajmu?utm_source=openai))  \n  - Odborné články k § 4b se soustředí na dopad do zadávacích řízení a vymezují ho jako **speciální mechanismus vyloučení uchazeče z veřejné zakázky** u firem ovládaných členem vlády.([epravo.cz](https://www.epravo.cz/top/clanky/pravni-uprava-stretu-zajmu-dle-4b-zakona-c-1592006-sb-o-stretu-zajmu-a-jeji-dopad-do-zadavaciho-rizeni-110389.html?utm_source=openai))  \n\n**Závěr k tomuto dílčímu bodu:**\n\n- **Neodpovídá skutečnosti**, že *„v tom písmeně/paragrafu 4c“* je obsažen také zákaz účasti ve veřejných zakázkách.  \n- Zákaz veřejných zakázek je **v § 4b**, zatímco § 4c se týká jen dotací a investičních pobídek.  \n- Šťastný tedy **smíchává dvě různá ustanovení (§ 4b a § 4c)** a mylně je celé přisuzuje „písmeni 4c“.\n\n### 3.2 „… že nemohl dostat ani korunu dotací“\n\n#### 3.2.1 Text zákona\n\n- § 4c formuluje **absolutní zákaz**: „Je zakázáno poskytnout dotaci… obchodní společnosti, ve které… [člen vlády nebo jím ovládaná osoba] vlastní podíl alespoň 25 %.“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- Důvodová zpráva a komentáře potvrzují, že cílem bylo **zcela zabránit čerpání takových dotací** firmami ovládanými členy vlády.([demagog.cz](https://demagog.cz/vyrok/20780?utm_source=openai))  \n\n#### 3.2.2 Rozsah „dotací“ v praxi\n\n- Sporné bylo, zda se § 4c vztahuje i na některé specifické dotace, zejména zemědělské dotace poskytované SZIF. Ministerstva a část právníků několik let tvrdili, že se § 4c na některé z nich **nevztahuje**.([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n- Soudy (MS Praha, NSS) v posledních letech potvrdily **širší výklad** – § 4c se vztahuje i na tyto dotace; novela 253/2023 Sb., později zrušená, tento výklad jen potvrzovala.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/judikat/msph/10-a-92-2024-97?utm_source=openai))  \n\n**Hodnocení tohoto dílčího bodu:**\n\n- Z **jazykového i účelového výkladu § 4c** plyne, že **firma ovládaná členem vlády s podílem ≥ 25 % nesmí dotace (podle příslušných rozpočtových či dotačních předpisů) dostat vůbec** – „ani korunu“ je stylistické zjednodušení, ale odpovídá zamýšlenému absolutnímu zákazu.  \n- V praxi ale **některé orgány i roky po přijetí § 4c dotace Agrofertu vyplácely**, opíraly se o užší výklad rozsahu dotací; pozdější soudní rozhodnutí a legislativní pokusy ukazují, že právo bylo vykládáno nejednotně.([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n\nTedy: **normativně** („co říká zákon“) je tvrzení o nemožnosti čerpat dotace v zásadě správné; **fakticky/prakticky** ale existovala dlouholetá nejistota a některé dotace byly přesto vypláceny.\n\n### 3.3 „… nebo peněz z veřejných zakázek“\n\nZde je klíčové rozlišit:\n\n- **Jaké ustanovení to řeší** – § 4b vs. § 4c.  \n- **Jaký je praktický dopad § 4b**.\n\n#### 3.3.1 Text § 4b\n\n§ 4b stanoví, že:\n\n- Firma, v níž člen vlády či jím ovládaná osoba vlastní alespoň 25 % účasti společníka, **se nesmí účastnit zadávacích řízení** podle zákona o zadávání veřejných zakázek jako účastník či určité typy poddodavatelů;  \n- zadavatel **je povinen takovou firmu vyloučit**;  \n- zadavatel **nesmí takové firmě zadat veřejnou zakázku malého rozsahu**; taková smlouva je neplatná.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nOdborné analýzy potvrzují, že **účelem je znemožnit firmám ovládaným členem vlády čerpat prostředky z veřejných zakázek** (zakázky financované z veřejných zdrojů, včetně některých případů, kdy je soukromý subjekt zadavatelem, ale převažují veřejné peníze).([epravo.cz](https://www.epravo.cz/top/clanky/pravni-uprava-stretu-zajmu-dle-4b-zakona-c-1592006-sb-o-stretu-zajmu-a-jeji-dopad-do-zadavaciho-rizeni-110389.html?utm_source=openai))  \n\n#### 3.3.2 Praktické mezerky a spory\n\n- Transparency International a další upozorňovaly, že stávající znění § 4b má **mezery a kolizní vztah k zákonu o zadávání veřejných zakázek**, takže v praxi se zadavatelé často bránili vylučovat firmy napojené na členy vlády pouze na základě § 4b.([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n- Diskutovalo se, zda lze uchazeče vyloučit pouze s odkazem na § 4b, když zákon o zadávání veřejných zakázek výslovně uvádí vlastní taxativní důvody vyloučení.([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n\n**Hodnocení tohoto dílčího bodu:**\n\n- **Text zákona** předpokládá, že firma ovládaná členem vlády **nesmí dostat veřejnou zakázku** (neměla by se účastnit, a i zadání malého rozsahu je výslovně zakázáno a neplatné).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- **Formulace „ani korunu z veřejných zakázek“** tedy opět odpovídá zamýšlenému absolutnímu zákazu, nikoli však vždy realitě, protože v praxi zadavatelé a orgány dohledu vedli spory, jak přesně § 4b aplikovat, a část zakázek přesto proběhla.([transparency.cz](https://www.transparency.cz/cast-vladnich-poslancu-aktivne-hlasuje-proti-tomu-aby-se-resil-stret-zajmu-ve-verejnych-zakazkach/?utm_source=openai))  \n\nDůležité ale je, že **tento zákaz není v § 4c, nýbrž v § 4b** – výroku tedy nesedí přiřazení k „písmenu 4c“.\n\n### 3.4 „… pokud by Andrej Babiš jako ministr vlády v něm vlastnil více než 25 %“\n\n#### 3.4.1 Jaká je v zákoně hranice podílu?\n\nV obou ustanoveních je stejná hranice:\n\n- § 4b: „vlastní podíl představující **alespoň 25 %** účasti společníka…“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- § 4c: „…vlastní podíl představující **alespoň 25 %** účasti společníka v obchodní společnosti.“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nŠťastný používá formulaci „více než 25 %“. To je **lehce nepřesné** (zákon se vztahuje už na **25 % a více**, nikoli až „nad 25 %“).\n\n#### 3.4.2 Vztahuje se to na Andreje Babiše?\n\n- Andrej Babiš byl v minulosti **ministrem financí a následně předsedou vlády**, tedy „členem vlády“ ve smyslu § 2 odst. 1 písm. c).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- Dlouhodobě ovládal skupinu Agrofert – před rokem 2017 jako **100% vlastník**, poté prostřednictvím svěřenských fondů, u nichž soudy opakovaně dovodily, že Agrofert fakticky dál ovládá.([svsp.cz](https://www.svsp.cz/magazin/clanky/sverensky-fond-a-andrej-babis-zbavil-se-premier-stretu-zajmu?utm_source=openai))  \n- V roce 2025 (před volbami a po nich) Babiš znovu získal **přímé 100% vlastnictví Agrofertu**, což potvrzuje zápis v obchodním rejstříku a média.([ceska-justice.cz](https://www.ceska-justice.cz/2025/10/babis-je-znovu-jedinym-vlastnikem-agrofertu/?utm_source=openai))  \n\nJudikatura (např. MS Praha v kauzách k § 4c) výslovně konstatuje, že Andrej Babiš **prostřednictvím svěřenských fondů ovládal Agrofert**, a že tedy šlo o „ovládanou osobu“ ve smyslu § 4c.([vyhledavac.nssoud.cz](https://vyhledavac.nssoud.cz/DokumentOriginal/Html/740576))  \n\n**Hodnocení tohoto dílčího bodu:**\n\n- Po stránce principu má Šťastný pravdu: pokud Andrej Babiš jako **člen vlády** vlastní (přímo či prostřednictvím ovládaných osob) aspoň **25 %** Agrofertu, pak se na Agrofert vztahuje **zákaz dotací (§ 4c)** a **zákaz účasti na veřejných zakázkách (§ 4b)**.  \n- Formulace „více než 25 %“ je **o něco užší** než zákonné „alespoň 25 %“, ale v reálném případě Babiše (100 % vlastnictví) je tato nepřesnost **prakticky irelevantní** – požadavky zákona byly bohatě překročeny.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n### 3.5 Jak to shrnují nezávislí právní experti\n\nČlánek iRozhlasu z 22. 11. 2025 (tedy ze stejného data jako výrok) shrnuje názory odborníků na identickou situaci:\n\n- Právník Bohumil Havel uvádí, že pokud by Babiš zůstal jen akcionářem, „**Agrofert by v takovém případě nesměl čerpat dotace či se účastnit veřejných zakázek**“.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/stret-zajmu-boris-stastny-andrej-babis-motoriste-vlada-ministr-pro-sport_2511220500_kno))  \n- Advokát Milan Vašíček dodává, že pokud by Babiš zůstal většinovým akcionářem Agrofertu, **„nemá nárok na veřejné zakázky, investiční pobídky a dotace rozdělované podle rozpočtových pravidel“**.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/stret-zajmu-boris-stastny-andrej-babis-motoriste-vlada-ministr-pro-sport_2511220500_kno))  \n\nTato stanoviska **potvrzují výklad**, že kombinačně § 4b + § 4c skutečně **znemožňují Agrofertu dotace i veřejné zakázky**, je-li Babiš členem vlády a firmu ovládá.\n\n---\n\n## 4. Shrnutí pro fakt‑checkera\n\n### Co je věcně správně\n\n- **Existuje právní úprava (v § 4b a § 4c zákona o střetu zájmů), která zakazuje:**\n  - poskytnout dotace a investiční pobídky firmě, v níž člen vlády (či jím ovládaná osoba) vlastní **alespoň 25 %** účasti (§ 4c);([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n  - účast takové firmy v zadávacích řízeních a zadání veřejné zakázky (včetně zakázek malého rozsahu) (§ 4b).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- **Pokud by byl Andrej Babiš členem vlády a nadále ovládal Agrofert (což reálně činí), Agrofert spadá do této úpravy**; odborníci i soudy potvrzují, že v takovém případě **nemá mít právo na dotace, investiční pobídky ani veřejné zakázky**.([vyhledavac.nssoud.cz](https://vyhledavac.nssoud.cz/DokumentOriginal/Html/740576))  \n- Výroková zkratka „ani korunu dotací nebo peněz z veřejných zakázek“ poměrně věrně vystihuje **zamýšlený absolutní charakter zákazu** – zákon nepřipouští žádný limit ani „část dotací“.\n\n### Co je nepřesné či chybné\n\n1. **Přiřazení všeho k § 4c**  \n   - Zákaz dotací/investičních pobídek je skutečně v § 4c,  \n   - **ale zákaz účasti na veřejných zakázkách je pouze v § 4b**, nikoli v § 4c.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n   - Tvrzení „v tom písmeně/paragrafu 4c je uvedeno, že … dotace i veřejné zakázky“ je tedy **textově chybné**.\n\n2. **Formulace podílu „více než 25 %“**  \n   - Zákon pracuje s hranicí „**alespoň 25 %**“, tedy zahrnuje i přesně 25 % podíl.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n   - V kontextu Babišova reálného stoprocentního vlastnictví Agrofertu jde o **spíše formální nepřesnost**, ale pro přesnou citaci zákona je to rozdíl.\n\n3. **Praktická aplikace vs. normativní znění**  \n   - Výrok implicitně předpokládá, že zákon v praxi **zcela zabránil** Agrofertu čerpat dotace a veřejné zakázky.  \n   - Ve skutečnosti:\n     - řadu let probíhal spor, zda se § 4c vztahuje i na některé zemědělské dotace; část orgánů je přesto vyplácela, dokud soudy a Evropská komise nedotáhly výklad k širšímu pojetí;([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n     - § 4b má kolizní vztah k zákonu o zadávání veřejných zakázek, což vedlo v praxi k využívání „mezer“, jak upozorňuje např. Transparency International.([transparency.cz](https://www.transparency.cz/cast-vladnich-poslancu-aktivne-hlasuje-proti-tomu-aby-se-resil-stret-zajmu-ve-verejnych-zakazkach/?utm_source=openai))  \n\nZ pohledu **čistého výkladu zákona** je jádro tvrzení (zákon zakazuje Agrofertu dotace i veřejné zakázky, pokud Babiš jako člen vlády kontroluje ≥ 25 %) **věcně správné**, ale:\n\n- Šťastný **nesprávně tvrdí, že vše je napsáno v § 4c**,  \n- používá mírně chybný práh „více než 25 %“ místo „alespoň 25 %“,  \n- a zamlčuje, že v praxi byla aplikace zejména § 4c a částečně § 4b řadu let sporná a nejednotná.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Týden v politice released on 2025-11-22 available from https://www.ceskatelevize.cz/porady/11030667317-tyden-v-politice/225411058160019/.\\n\\n\\nThe claim was made by: Boris Šťastný, Poslanec\\n\\n\\nProvide a structured, citation-backed verification of the claim: 'V tom písmeně 4c (zákona o střetu zájmů, pozn. Demagog.cz) je uvedeno, že Agrofert by nemohl dostat ani korunu dotací nebo peněz z veřejných zakázek pokud by Andrej Babiš jako ministr vlády v něm vlastnil více než 25 %.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 257.31 seconds\n## Agent work log\n```\nREASONING: \nWEB SEARCH: \"4c\" \"zákon o střetu zájmů\" 159/2006 Sb.\nREASONING: \nWEB SEARCH: § 4b 159/2006 Sb. veřejné zakázky\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: \"Je zakázáno poskytnout dotaci\" \"159/2006\"\nREASONING: \nWEB SEARCH: \"V tom písmeně 4c\" \"Agrofert\"\nREASONING: \nWEB SEARCH: \"V tom písmeně 4c\" \"Agrofert\"\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: \"Je zakázáno poskytnout dotaci podle právního předpisu upravujícího poskytování dotací\"\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: Agrofert obchodní rejstřík jediný akcionář Andrej Babiš do 2017\nREASONING: \nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p>Výrok: V tom písmeně 4c (zákona o střetu zájmů) je uvedeno, že Agrofert by nemohl dostat ani korunu dotací nebo peněz z veřejných zakázek pokud by Andrej Babiš jako ministr vlády v něm vlastnil více než 25 %.</p>\n\n<p>Stručně: § 4c zakazuje dotace firmám s účastí člena vlády ≥25 %, zákaz veřejných zakázek je ale v § 4b a zákon říká „alespoň 25 %“. V praxi však platí, že Agrofert vlastněný ministrem by nové dotace ani zakázky čerpat nesměl.</p>\n\n<p>Boris Šťastný tímto výrokem vysvětluje, jak tzv. lex Babiš v zákoně o střetu zájmů omezuje čerpání dotací a veřejných zakázek pro Agrofert, pokud by Andrej Babiš byl členem vlády a současně firmu vlastnil. Odkazuje přitom konkrétně na ustanovení označované jako „paragraf 4c“.</p>\n\n<p>První dílčí tvrzení říká, že už samotný § 4c zákona o střetu zájmů obsahuje zákaz jak dotací, tak peněz z veřejných zakázek. Podle aktuálního znění <a href=\"https://krajta.slv.cz/2006/159/par_4c\">§ 4c zákona č. 159/2006 Sb., o střetu zájmů</a> je však „<i>zakázáno poskytnout dotaci ... nebo investiční pobídku ... obchodní společnosti, ve které veřejný funkcionář ... vlastní podíl představující alespoň 25 % účasti společníka ...</i>“. Tento paragraf tedy upravuje dotace a investiční pobídky, nikoli veřejné zakázky. Zákaz účasti takové firmy ve veřejných zakázkách je naopak výslovně v <a href=\"https://krajta.slv.cz/2006/159/par_4b\">§ 4b téhož zákona</a>, který stanoví, že dotčená obchodní společnost „<i>se nesmí účastnit zadávacích řízení</i>“ a zadavatel jí nesmí zadat ani veřejnou zakázku malého rozsahu. Šťastný tedy nepřesně přisuzuje úpravu veřejných zakázek přímo § 4c, ačkoliv ve skutečnosti je rozdělena mezi § 4b a § 4c.</p>\n\n<p>Druhé dílčí tvrzení zní, že firma, v níž má člen vlády podíl přes 25 %, by nemohla dostat žádnou dotaci („ani korunu dotací“). Jak vyplývá z textu <a href=\"https://krajta.slv.cz/2006/159/par_4c\">§ 4c zákona o střetu zájmů</a>, je v takovém případě skutečně „<i>zakázáno poskytnout dotaci ... nebo investiční pobídku ... obchodní společnosti</i>“, pokud v ní člen vlády nebo jím ovládaná osoba drží podíl alespoň 25 %. Zákaz se vztahuje na dotace poskytované podle zákona o rozpočtových pravidlech a na investiční pobídky; přechodné ustanovení novely, která § 4c do zákona vložila, přitom v textu publikovaném např. na serveru <a href=\"https://www.zakonyprolidi.cz/cs/2006-159\">Zákony pro lidi</a> stanoví, že se tento zákaz použije jen na řízení o poskytnutí dotace zahájená po nabytí účinnosti novely. V obecné rovině tedy platí, že taková firma nesmí z nových dotací a investičních pobídek čerpat, a výrok o „ani koruně dotací“ je sice zjednodušený, ale věcně odpovídá zákonné úpravě.</p>\n\n<p>Třetí dílčí tvrzení – že firma spojená s ministrem by nemohla dostat peníze z veřejných zakázek – odpovídá tomu, co je napsáno v <a href=\"https://krajta.slv.cz/2006/159/par_4b\">§ 4b zákona o střetu zájmů</a>. Tento paragraf říká, že obchodní společnost, v níž má člen vlády nebo jím ovládaná osoba podíl představující alespoň 25 % účasti společníka, „<i>se nesmí účastnit zadávacích řízení podle zákona upravujícího zadávání veřejných zakázek</i>“ a zadavatel je povinen ji ze zadávacího řízení vyloučit; zároveň jí nesmí zadat ani veřejnou zakázku malého rozsahu. Prakticky tedy platí, že taková společnost nemůže nově získávat veřejné zakázky, a tedy ani peníze z těchto zakázek. Z hlediska obsahu je proto třetí část výroku v souladu se zákonem, i když Šťastný tuto úpravu nepřesně připisuje § 4c, a nikoli § 4b.</p>\n\n<p>Čtvrté dílčí tvrzení se týká hranice majetkové účasti. Boris Šťastný uvádí, že zákaz platí, pokud by Andrej Babiš „vlastnil více než 25 %“ Agrofertu. Samotný zákon ale v <a href=\"https://krajta.slv.cz/2006/159/par_4b\">§ 4b</a> i v <a href=\"https://krajta.slv.cz/2006/159/par_4c\">§ 4c</a> používá formulaci, že jde o podíl „<i>představující alespoň 25 % účasti společníka v obchodní společnosti</i>“. Zákonná hranice tedy začíná už při přesně 25 %, nikoli až „nad 25 %“. Podle informací shrnutých např. v článku České televize o majetkové struktuře Agrofertu, který pracuje s údaji z obchodního rejstříku (<a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/babis-je-znovu-jediny m-vlastnikem-agrofertu-366177\">ČT24</a>), však Andrej Babiš v různých obdobích vlastnil v Agrofertu podíl výrazně vyšší než 25 %. V jeho konkrétním případě by proto rozdíl mezi „více než 25 %“ a „alespoň 25 %“ neměl praktický dopad, z hlediska přesného popisu zákonné hranice jde ale o dílčí nepřesnost.</p>\n\n<p>Pro úplnost doplňujeme, že člen vlády je podle zákona o střetu zájmů výslovně definován jako „veřejný funkcionář“. Ustanovení <a href=\"https://www.inkluzivne.cz/33/159-2006-sb-zakon-o-stretu-zajmu-ve-zneni-ucinnem-k-1-1-2024-uniqueidOhwOuzC33qe_hFd_-jrpTl4cdX9Ek5l8MJS_-1wqvGwCD-vMUnwPlw/\">§ 2 odst. 1 písm. c) zákona č. 159/2006 Sb.</a> mezi veřejné funkcionáře řadí „prezidenta republiky, člena vlády nebo vedoucího jiného ústředního správního úřadu“. Zákazy obsažené v § 4b a § 4c se tedy na členy vlády včetně Andreje Babiše vztahují přímo.</p>\n\n<p>Souhrnně tedy platí, že kombinace ustanovení <a href=\"https://krajta.slv.cz/2006/159/par_4b\">§ 4b</a> a <a href=\"https://krajta.slv.cz/2006/159/par_4c\">§ 4c zákona o střetu zájmů</a> skutečně brání tomu, aby obchodní společnost, v níž má člen vlády (přímo nebo prostřednictvím ovládané osoby) alespoň 25% podíl, získávala nové dotace podle zákona o rozpočtových pravidlech, investiční pobídky a nové veřejné zakázky. V situaci, kdy by Andrej Babiš jako ministr takový podíl v Agrofertu držel, by tedy zákon čerpání těchto veřejných prostředků firmou zakazoval.</p>\n\n<p>Závěrem: Výrok obsahuje drobné formální nepřesnosti v tom, že přisuzuje zákaz veřejných zakázek přímo § 4c a že posouvá hranici podílu z „alespoň 25 %“ na „více než 25 %“. Samotné věcné tvrzení, že při vlastnictví podílu kolem 25 % by Agrofert ovládaný členem vlády nemohl nově získávat dotace ani veřejné zakázky, je však v souladu s platným zněním zákona o střetu zájmů. Výrok proto hodnotíme jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0ec38c58f4bcf25f006928922e7fa4819592158c4c733942a6",
+    "created_at": 1764266542.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0ec38c58f4bcf25f006928923a0bfc8195bcb79b79afe69fe5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f006928923e9168819587cde3df53fdf839",
+        "action": {
+          "query": "\"4c\" \"zákon o střetu zájmů\" 159/2006 Sb.",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f00692892420894819587c50814b31d3433",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f0069289243893c8195be3d104bd6dc2d8b",
+        "action": {
+          "query": "§ 4b 159/2006 Sb. veřejné zakázky",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f006928924548f88195956bbd58ed2bb991",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f0069289254e2f881959df8cc87e24a1c4c",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f0069289255f1f881959665fe61e0436865",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f006928925633e08195ab10dd84c5ec1708",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f006928925bfe048195abcdac384f9b036a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f006928926c7d1881959dc8c3ee65567da5",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f0069289270600481958912bc5584d6c7f4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f006928927250588195902d6f4458c0b09c",
+        "action": {
+          "query": "\"Je zakázáno poskytnout dotaci\" \"159/2006\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f00692892754e188195b0b0afcd4e6eb13b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f0069289276834c81958dc5b9cd0f5cdd6c",
+        "action": {
+          "query": "\"V tom písmeně 4c\" \"Agrofert\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f00692892797e1c8195a2c70361f28154ee",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f006928927a48a08195a775518224df9739",
+        "action": {
+          "query": "\"V tom písmeně 4c\" \"Agrofert\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f0069289280bbec8195925d7d11ece25661",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f0069289282941c8195937902104ffad2c1",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f006928928438b88195a2952703cc704f1f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f006928928469b88195a1c9180736d409b6",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f0069289285fb1481958da5d770ed8d2eaf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f0069289286de508195a61c71798734b25e",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f0069289287d6bc81958d39d55878b5b747",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f00692892a5b464819593cff6b69a2060eb",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f00692892accec88195badbd7a74c9c5b05",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f00692892ae238081959a4f88dca45f4dc2",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f00692892aee6d08195baf49ad362168623",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f00692892b6fe8c8195ac206cfe4e292d18",
+        "action": {
+          "query": "\"Je zakázáno poskytnout dotaci podle právního předpisu upravujícího poskytování dotací\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f00692892bb06f48195ad89890fa2c086bc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f00692892c60b008195930cc78d07599eaf",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f00692892c7a2d88195af26dfd325e66e63",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ec38c58f4bcf25f00692892ce4a8c819586d1e183f3f08f9c",
+        "action": {
+          "query": "Agrofert obchodní rejstřík jediný akcionář Andrej Babiš do 2017",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ec38c58f4bcf25f00692892d146b4819595c9b9918ecdbb6d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0ec38c58f4bcf25f00692892e78fcc81958ba009215def589e",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1733,
+                "start_index": 1671,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 2391,
+                "start_index": 2329,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 2742,
+                "start_index": 2562,
+                "title": "Právní úprava střetu zájmů dle § 4b zákona č. 159/2006 Sb., o",
+                "type": "url_citation",
+                "url": "https://www.epravo.cz/top/clanky/pravni-uprava-stretu-zajmu-dle-4b-zakona-c-1592006-sb-o-stretu-zajmu-a-jeji-dopad-do-zadavaciho-rizeni-110389.html?utm_source=openai"
+              },
+              {
+                "end_index": 3244,
+                "start_index": 3182,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 3551,
+                "start_index": 3487,
+                "title": "Klára Dostálová „Máme český zákon o střetu zájmů. Právě proto...“ — Demagog.cz",
+                "type": "url_citation",
+                "url": "https://demagog.cz/vyrok/20780?utm_source=openai"
+              },
+              {
+                "end_index": 3890,
+                "start_index": 3741,
+                "title": "Zákon 159/2006 Sb. - o střetu zájmů úplné a aktualní znění | ASPI | Wolters Kluwer ČR, a. s.",
+                "type": "url_citation",
+                "url": "https://www.aspi.cz/products/lawText/1/62488/1/2/zakon-c-159-2006-sb-o-stretu-zajmu/zakon-c-159-2006-sb-o-stretu-zajmu?utm_source=openai"
+              },
+              {
+                "end_index": 4425,
+                "start_index": 4096,
+                "title": "Zákon 14/2017 Sb. - , kterým se mění zákon č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů, a další související zákony úplné a aktualní znění | ASPI | Wolters Kluwer ČR, a. s.",
+                "type": "url_citation",
+                "url": "https://www.aspi.cz/products/lawText/1/87818/1/2/zakon-c-14-2017-sb-kterym-se-meni-zakon-c-159-2006-sb-o-stretu-zajmu-ve-zneni-pozdejsich-predpisu-a-dalsi-souvisejici-zakony/zakon-c-14-2017-sb-kterym-se-meni-zakon-c-159-2006-sb-o-stretu-zajmu-ve-zneni-pozdejsich-predpisu-a-dalsi-souvisejici-zakony?utm_source=openai"
+              },
+              {
+                "end_index": 4865,
+                "start_index": 4764,
+                "title": "5 Afs 140/2025- 79 - text",
+                "type": "url_citation",
+                "url": "https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746748?utm_source=openai"
+              },
+              {
+                "end_index": 5195,
+                "start_index": 5098,
+                "title": "10 A 92/2024 - 97",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/judikat/msph/10-a-92-2024-97?utm_source=openai"
+              },
+              {
+                "end_index": 5537,
+                "start_index": 5409,
+                "title": "Aktuální vývoj v prevenci střetu zájmů veřejných funkcionářů - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai"
+              },
+              {
+                "end_index": 5918,
+                "start_index": 5856,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 6249,
+                "start_index": 6095,
+                "title": "Jak se hlídají dotace pro Agrofert? U ministrů za ANO platí měkčí pravidla - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/jak-se-hlidaji-dotace-pro-agrofert-u-ministru-za-ano-plati-mekci-pravidla-153260?utm_source=openai"
+              },
+              {
+                "end_index": 6538,
+                "start_index": 6400,
+                "title": "Pomůcka k ověření dodržení zákona o střetu zájmů",
+                "type": "url_citation",
+                "url": "https://www.smocr.cz/cs/cinnost/sprava-obce/stret-zajmu/a/pomucka-k-overeni-dodrzeni-zakona-o-stretu-zajmu?utm_source=openai"
+              },
+              {
+                "end_index": 6904,
+                "start_index": 6724,
+                "title": "Právní úprava střetu zájmů dle § 4b zákona č. 159/2006 Sb., o",
+                "type": "url_citation",
+                "url": "https://www.epravo.cz/top/clanky/pravni-uprava-stretu-zajmu-dle-4b-zakona-c-1592006-sb-o-stretu-zajmu-a-jeji-dopad-do-zadavaciho-rizeni-110389.html?utm_source=openai"
+              },
+              {
+                "end_index": 7565,
+                "start_index": 7503,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 7761,
+                "start_index": 7697,
+                "title": "Klára Dostálová „Máme český zákon o střetu zájmů. Právě proto...“ — Demagog.cz",
+                "type": "url_citation",
+                "url": "https://demagog.cz/vyrok/20780?utm_source=openai"
+              },
+              {
+                "end_index": 8135,
+                "start_index": 8007,
+                "title": "Aktuální vývoj v prevenci střetu zájmů veřejných funkcionářů - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai"
+              },
+              {
+                "end_index": 8410,
+                "start_index": 8313,
+                "title": "10 A 92/2024 - 97",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/judikat/msph/10-a-92-2024-97?utm_source=openai"
+              },
+              {
+                "end_index": 9071,
+                "start_index": 8943,
+                "title": "Aktuální vývoj v prevenci střetu zájmů veřejných funkcionářů - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai"
+              },
+              {
+                "end_index": 9899,
+                "start_index": 9837,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 10339,
+                "start_index": 10159,
+                "title": "Právní úprava střetu zájmů dle § 4b zákona č. 159/2006 Sb., o",
+                "type": "url_citation",
+                "url": "https://www.epravo.cz/top/clanky/pravni-uprava-stretu-zajmu-dle-4b-zakona-c-1592006-sb-o-stretu-zajmu-a-jeji-dopad-do-zadavaciho-rizeni-110389.html?utm_source=openai"
+              },
+              {
+                "end_index": 10757,
+                "start_index": 10629,
+                "title": "Aktuální vývoj v prevenci střetu zájmů veřejných funkcionářů - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai"
+              },
+              {
+                "end_index": 11047,
+                "start_index": 10919,
+                "title": "Aktuální vývoj v prevenci střetu zájmů veřejných funkcionářů - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai"
+              },
+              {
+                "end_index": 11328,
+                "start_index": 11266,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 11737,
+                "start_index": 11572,
+                "title": "Část vládních poslanců aktivně hlasuje proti tomu, aby se řešil střet zájmů ve veřejných zakázkách - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/cast-vladnich-poslancu-aktivne-hlasuje-proti-tomu-aby-se-resil-stret-zajmu-ve-verejnych-zakazkach/?utm_source=openai"
+              },
+              {
+                "end_index": 12154,
+                "start_index": 12092,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 12316,
+                "start_index": 12254,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 12694,
+                "start_index": 12632,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 13009,
+                "start_index": 12883,
+                "title": "Svěřenský fond a Andrej Babiš: Zbavil se premiér střetu zájmů? | Svěřenská správa",
+                "type": "url_citation",
+                "url": "https://www.svsp.cz/magazin/clanky/sverensky-fond-a-andrej-babis-zbavil-se-premier-stretu-zajmu?utm_source=openai"
+              },
+              {
+                "end_index": 13279,
+                "start_index": 13158,
+                "title": "Babiš je znovu jediným vlastníkem Agrofertu. Konec svěřenských fondů - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/10/babis-je-znovu-jedinym-vlastnikem-agrofertu/?utm_source=openai"
+              },
+              {
+                "end_index": 13553,
+                "start_index": 13470,
+                "title": " 10 A      92/2024-   97 - html",
+                "type": "url_citation",
+                "url": "https://vyhledavac.nssoud.cz/DokumentOriginal/Html/740576"
+              },
+              {
+                "end_index": 14127,
+                "start_index": 14065,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 14599,
+                "start_index": 14458,
+                "title": "Vyřešil Šťastný z Motoristů svůj hrozící střet zájmů? Právní experti se neshodnou | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/stret-zajmu-boris-stastny-andrej-babis-motoriste-vlada-ministr-pro-sport_2511220500_kno"
+              },
+              {
+                "end_index": 14938,
+                "start_index": 14797,
+                "title": "Vyřešil Šťastný z Motoristů svůj hrozící střet zájmů? Právní experti se neshodnou | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/stret-zajmu-boris-stastny-andrej-babis-motoriste-vlada-ministr-pro-sport_2511220500_kno"
+              },
+              {
+                "end_index": 15447,
+                "start_index": 15385,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 15621,
+                "start_index": 15559,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 15947,
+                "start_index": 15864,
+                "title": " 10 A      92/2024-   97 - html",
+                "type": "url_citation",
+                "url": "https://vyhledavac.nssoud.cz/DokumentOriginal/Html/740576"
+              },
+              {
+                "end_index": 16402,
+                "start_index": 16340,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 16705,
+                "start_index": 16643,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 17356,
+                "start_index": 17228,
+                "title": "Aktuální vývoj v prevenci střetu zájmů veřejných funkcionářů - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai"
+              },
+              {
+                "end_index": 17679,
+                "start_index": 17514,
+                "title": "Část vládních poslanců aktivně hlasuje proti tomu, aby se řešil střet zájmů ve veřejných zakázkách - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/cast-vladnich-poslancu-aktivne-hlasuje-proti-tomu-aby-se-resil-stret-zajmu-ve-verejnych-zakazkach/?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Rozklad výroku a možné interpretace\n\nVýrok Borise Šťastného (parafrázováno):\n\n> „V tom písmeně 4c zákona o střetu zájmů je uvedeno, že Agrofert by nemohl dostat ani korunu dotací nebo peněz z veřejných zakázek, pokud by Andrej Babiš jako ministr vlády v něm vlastnil více než 25 %.“\n\nMožné/rozumné interpretace:\n\n1. **Textová (co přesně říká § 4c)**  \n   – § 4c zákona č. 159/2006 Sb., o střetu zájmů, má sám o sobě obsahovat zákaz jak dotací, tak veřejných zakázek pro firmy, v nichž má člen vlády > 25 % podíl.  \n\n2. **Systematická (co říká celý zákon, zejména § 4b a § 4c dohromady)**  \n   – V oblasti střetu zájmů členů vlády existuje v zákoně úprava, podle níž:\n     - taková firma nesmí získat dotace/investiční pobídky (§ 4c), a\n     - nesmí se účastnit veřejných zakázek ani je získat (§ 4b).  \n   – Šťastný § 4c zmiňuje jako „to písmeno“, ale fakticky mluví o kombinaci § 4b + § 4c.\n\n3. **Aplikační (konkrétně k Agrofertu a Andreji Babišovi)**  \n   – Pokud by Andrej Babiš byl členem vlády a (přímo či přes „ovládanou osobu“) vlastnil > 25 % v Agrofertu, **podle zákona** by Agrofert nesměl dostávat dotace/investiční pobídky ani veřejné zakázky.\n\nDále ověřuji jednotlivé dílčí tvrzení:\n\n1. Co přesně říká § 4c.  \n2. Co říká § 4b o veřejných zakázkách.  \n3. Jaká je hranice podílu (25 % vs. „více než 25 %“).  \n4. Zda se ustanovení vztahují na členy vlády.  \n5. Zda by se tato ustanovení vztahovala na Agrofert, kdyby Babiš jako ministr podíl držel.\n\n---\n\n## 2. Relevantní právní úprava\n\n### 2.1 Kdo je „veřejný funkcionář“ – člen vlády\n\nZákon č. 159/2006 Sb., o střetu zájmů, v § 2 odst. 1 písm. c) výslovně uvádí mezi veřejnými funkcionáři „člena vlády“.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \nNa členy vlády se tedy vztahují omezení v § 4, § 4b a § 4c.\n\n### 2.2 § 4b – veřejné zakázky\n\nPodle aktuálního (a po zrušení novely Ústavním soudem opět účinného) znění zákona je v § 4b uvedeno, že:\n\n- obchodní společnost, ve které člen vlády (veřejný funkcionář dle § 2 odst. 1 písm. c)) nebo jím ovládaná osoba **vlastní alespoň 25 % účasti společníka**,  \n- **se nesmí účastnit zadávacích řízení** podle zákona o zadávání veřejných zakázek, a  \n- **zadavatel je povinen takovou obchodní společnost vyloučit**, a nesmí jí ani zadat veřejnou zakázku malého rozsahu; takové jednání je neplatné.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nOdborná literatura i metodiky MMR shrnují, že § 4b **plošně brání firmám ovládaným členem vlády v účasti na veřejných zakázkách financovaných z veřejných prostředků**.([epravo.cz](https://www.epravo.cz/top/clanky/pravni-uprava-stretu-zajmu-dle-4b-zakona-c-1592006-sb-o-stretu-zajmu-a-jeji-dopad-do-zadavaciho-rizeni-110389.html?utm_source=openai))  \n\n### 2.3 § 4c – dotace a investiční pobídky\n\nPodle § 4c (v podobě účinné po zrušení novely ÚS, tedy i dne 22. 11. 2025):\n\n> „Je zakázáno poskytnout dotaci podle právního předpisu upravujícího rozpočtová pravidla (…) nebo investiční pobídku (…) obchodní společnosti, ve které veřejný funkcionář uvedený v § 2 odst. 1 písm. c) nebo jím ovládaná osoba vlastní podíl představující **alespoň 25 % účasti** společníka v obchodní společnosti.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nDůvodová zpráva a pozdější komentáře mluví o tzv. „lex Babiš“, který měl **zabránit, aby člen vlády ovládající firmu mohl současně čerpat dotace a investiční pobídky z prostředků, o jejichž přidělení může sám rozhodovat či je ovlivňovat**.([demagog.cz](https://demagog.cz/vyrok/20780?utm_source=openai))  \n\nPřechodná ustanovení zákona č. 14/2017 Sb. stanoví, že zákaz podle § 4c se použije na řízení o poskytnutí dotace nebo investiční pobídky zahájená po nabytí účinnosti novely (9. 2. 2017).([aspi.cz](https://www.aspi.cz/products/lawText/1/62488/1/2/zakon-c-159-2006-sb-o-stretu-zajmu/zakon-c-159-2006-sb-o-stretu-zajmu?utm_source=openai))  \n\n### 2.4 Vývoj a spory o rozsah pojmu „dotace“\n\n- Původní znění § 4c mluvilo o „dotaci podle právního předpisu upravujícího rozpočtová pravidla“, s odkazem na zákon č. 218/2000 Sb. (rozpočtová pravidla).([aspi.cz](https://www.aspi.cz/products/lawText/1/87818/1/2/zakon-c-14-2017-sb-kterym-se-meni-zakon-c-159-2006-sb-o-stretu-zajmu-ve-zneni-pozdejsich-predpisu-a-dalsi-souvisejici-zakony/zakon-c-14-2017-sb-kterym-se-meni-zakon-c-159-2006-sb-o-stretu-zajmu-ve-zneni-pozdejsich-predpisu-a-dalsi-souvisejici-zakony?utm_source=openai))  \n- Novela č. 253/2023 Sb. krátce text zpřesnila na „dotaci podle právního předpisu upravujícího **poskytování dotací**“, ale Ústavní soud tuto novelu z procesních důvodů zrušil; soud i tak zdůraznil, že změna jen potvrzovala dosavadní výklad, že § 4c dopadá i na jiné právní režimy dotací, nejen přímo na zákon o rozpočtových pravidlech.([vyhledavac.nssoud.cz](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746748?utm_source=openai))  \n- V judikatuře (MS Praha, NSS) se ustálil výklad, že § 4c dopadá i na **zemědělské nenárokové dotace poskytované podle zákona o Státním zemědělském intervenčním fondu (SZIF)**, tedy i na významnou část dotací pro skupinu Agrofert.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/judikat/msph/10-a-92-2024-97?utm_source=openai))  \n\nV praxi ale ještě několik let existovala **nejistota**, zda se § 4c vztahuje na všechny typy dotací (zejména tzv. „nárokové“ zemědělské platby), jak upozorňují např. odborné články a Transparency International.([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n\n---\n\n## 3. Ověření jednotlivých dílčích tvrzení\n\n### 3.1 „V tom písmeně 4c je uvedeno, že … dotace i veřejné zakázky“\n\n**Faktický stav:**\n\n- § 4c **řeší pouze dotace a investiční pobídky** – viz výše citovaný text. Veřejné zakázky (zadávání veřejných zakázek a zákaz účasti/zadání) jsou **výhradně předmětem § 4b**.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n- Řada sekundárních zdrojů přesně takto rozlišuje:\n  - Seznam Zprávy: shrnují, že § 4c zakazuje dotace a investiční pobídky pro firmy ovládané členem vlády s podílem ≥ 25 %.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/jak-se-hlidaji-dotace-pro-agrofert-u-ministru-za-ano-plati-mekci-pravidla-153260?utm_source=openai))  \n  - Ministerstvo práce a sociálních věcí / MMR v metodikách pro příjemce dotací z ESF/OPZ výslovně citují **§ 4b** u veřejných zakázek, nikoli § 4c.([smocr.cz](https://www.smocr.cz/cs/cinnost/sprava-obce/stret-zajmu/a/pomucka-k-overeni-dodrzeni-zakona-o-stretu-zajmu?utm_source=openai))  \n  - Odborné články k § 4b se soustředí na dopad do zadávacích řízení a vymezují ho jako **speciální mechanismus vyloučení uchazeče z veřejné zakázky** u firem ovládaných členem vlády.([epravo.cz](https://www.epravo.cz/top/clanky/pravni-uprava-stretu-zajmu-dle-4b-zakona-c-1592006-sb-o-stretu-zajmu-a-jeji-dopad-do-zadavaciho-rizeni-110389.html?utm_source=openai))  \n\n**Závěr k tomuto dílčímu bodu:**\n\n- **Neodpovídá skutečnosti**, že *„v tom písmeně/paragrafu 4c“* je obsažen také zákaz účasti ve veřejných zakázkách.  \n- Zákaz veřejných zakázek je **v § 4b**, zatímco § 4c se týká jen dotací a investičních pobídek.  \n- Šťastný tedy **smíchává dvě různá ustanovení (§ 4b a § 4c)** a mylně je celé přisuzuje „písmeni 4c“.\n\n### 3.2 „… že nemohl dostat ani korunu dotací“\n\n#### 3.2.1 Text zákona\n\n- § 4c formuluje **absolutní zákaz**: „Je zakázáno poskytnout dotaci… obchodní společnosti, ve které… [člen vlády nebo jím ovládaná osoba] vlastní podíl alespoň 25 %.“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- Důvodová zpráva a komentáře potvrzují, že cílem bylo **zcela zabránit čerpání takových dotací** firmami ovládanými členy vlády.([demagog.cz](https://demagog.cz/vyrok/20780?utm_source=openai))  \n\n#### 3.2.2 Rozsah „dotací“ v praxi\n\n- Sporné bylo, zda se § 4c vztahuje i na některé specifické dotace, zejména zemědělské dotace poskytované SZIF. Ministerstva a část právníků několik let tvrdili, že se § 4c na některé z nich **nevztahuje**.([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n- Soudy (MS Praha, NSS) v posledních letech potvrdily **širší výklad** – § 4c se vztahuje i na tyto dotace; novela 253/2023 Sb., později zrušená, tento výklad jen potvrzovala.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/judikat/msph/10-a-92-2024-97?utm_source=openai))  \n\n**Hodnocení tohoto dílčího bodu:**\n\n- Z **jazykového i účelového výkladu § 4c** plyne, že **firma ovládaná členem vlády s podílem ≥ 25 % nesmí dotace (podle příslušných rozpočtových či dotačních předpisů) dostat vůbec** – „ani korunu“ je stylistické zjednodušení, ale odpovídá zamýšlenému absolutnímu zákazu.  \n- V praxi ale **některé orgány i roky po přijetí § 4c dotace Agrofertu vyplácely**, opíraly se o užší výklad rozsahu dotací; pozdější soudní rozhodnutí a legislativní pokusy ukazují, že právo bylo vykládáno nejednotně.([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n\nTedy: **normativně** („co říká zákon“) je tvrzení o nemožnosti čerpat dotace v zásadě správné; **fakticky/prakticky** ale existovala dlouholetá nejistota a některé dotace byly přesto vypláceny.\n\n### 3.3 „… nebo peněz z veřejných zakázek“\n\nZde je klíčové rozlišit:\n\n- **Jaké ustanovení to řeší** – § 4b vs. § 4c.  \n- **Jaký je praktický dopad § 4b**.\n\n#### 3.3.1 Text § 4b\n\n§ 4b stanoví, že:\n\n- Firma, v níž člen vlády či jím ovládaná osoba vlastní alespoň 25 % účasti společníka, **se nesmí účastnit zadávacích řízení** podle zákona o zadávání veřejných zakázek jako účastník či určité typy poddodavatelů;  \n- zadavatel **je povinen takovou firmu vyloučit**;  \n- zadavatel **nesmí takové firmě zadat veřejnou zakázku malého rozsahu**; taková smlouva je neplatná.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nOdborné analýzy potvrzují, že **účelem je znemožnit firmám ovládaným členem vlády čerpat prostředky z veřejných zakázek** (zakázky financované z veřejných zdrojů, včetně některých případů, kdy je soukromý subjekt zadavatelem, ale převažují veřejné peníze).([epravo.cz](https://www.epravo.cz/top/clanky/pravni-uprava-stretu-zajmu-dle-4b-zakona-c-1592006-sb-o-stretu-zajmu-a-jeji-dopad-do-zadavaciho-rizeni-110389.html?utm_source=openai))  \n\n#### 3.3.2 Praktické mezerky a spory\n\n- Transparency International a další upozorňovaly, že stávající znění § 4b má **mezery a kolizní vztah k zákonu o zadávání veřejných zakázek**, takže v praxi se zadavatelé často bránili vylučovat firmy napojené na členy vlády pouze na základě § 4b.([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n- Diskutovalo se, zda lze uchazeče vyloučit pouze s odkazem na § 4b, když zákon o zadávání veřejných zakázek výslovně uvádí vlastní taxativní důvody vyloučení.([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n\n**Hodnocení tohoto dílčího bodu:**\n\n- **Text zákona** předpokládá, že firma ovládaná členem vlády **nesmí dostat veřejnou zakázku** (neměla by se účastnit, a i zadání malého rozsahu je výslovně zakázáno a neplatné).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- **Formulace „ani korunu z veřejných zakázek“** tedy opět odpovídá zamýšlenému absolutnímu zákazu, nikoli však vždy realitě, protože v praxi zadavatelé a orgány dohledu vedli spory, jak přesně § 4b aplikovat, a část zakázek přesto proběhla.([transparency.cz](https://www.transparency.cz/cast-vladnich-poslancu-aktivne-hlasuje-proti-tomu-aby-se-resil-stret-zajmu-ve-verejnych-zakazkach/?utm_source=openai))  \n\nDůležité ale je, že **tento zákaz není v § 4c, nýbrž v § 4b** – výroku tedy nesedí přiřazení k „písmenu 4c“.\n\n### 3.4 „… pokud by Andrej Babiš jako ministr vlády v něm vlastnil více než 25 %“\n\n#### 3.4.1 Jaká je v zákoně hranice podílu?\n\nV obou ustanoveních je stejná hranice:\n\n- § 4b: „vlastní podíl představující **alespoň 25 %** účasti společníka…“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- § 4c: „…vlastní podíl představující **alespoň 25 %** účasti společníka v obchodní společnosti.“([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nŠťastný používá formulaci „více než 25 %“. To je **lehce nepřesné** (zákon se vztahuje už na **25 % a více**, nikoli až „nad 25 %“).\n\n#### 3.4.2 Vztahuje se to na Andreje Babiše?\n\n- Andrej Babiš byl v minulosti **ministrem financí a následně předsedou vlády**, tedy „členem vlády“ ve smyslu § 2 odst. 1 písm. c).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- Dlouhodobě ovládal skupinu Agrofert – před rokem 2017 jako **100% vlastník**, poté prostřednictvím svěřenských fondů, u nichž soudy opakovaně dovodily, že Agrofert fakticky dál ovládá.([svsp.cz](https://www.svsp.cz/magazin/clanky/sverensky-fond-a-andrej-babis-zbavil-se-premier-stretu-zajmu?utm_source=openai))  \n- V roce 2025 (před volbami a po nich) Babiš znovu získal **přímé 100% vlastnictví Agrofertu**, což potvrzuje zápis v obchodním rejstříku a média.([ceska-justice.cz](https://www.ceska-justice.cz/2025/10/babis-je-znovu-jedinym-vlastnikem-agrofertu/?utm_source=openai))  \n\nJudikatura (např. MS Praha v kauzách k § 4c) výslovně konstatuje, že Andrej Babiš **prostřednictvím svěřenských fondů ovládal Agrofert**, a že tedy šlo o „ovládanou osobu“ ve smyslu § 4c.([vyhledavac.nssoud.cz](https://vyhledavac.nssoud.cz/DokumentOriginal/Html/740576))  \n\n**Hodnocení tohoto dílčího bodu:**\n\n- Po stránce principu má Šťastný pravdu: pokud Andrej Babiš jako **člen vlády** vlastní (přímo či prostřednictvím ovládaných osob) aspoň **25 %** Agrofertu, pak se na Agrofert vztahuje **zákaz dotací (§ 4c)** a **zákaz účasti na veřejných zakázkách (§ 4b)**.  \n- Formulace „více než 25 %“ je **o něco užší** než zákonné „alespoň 25 %“, ale v reálném případě Babiše (100 % vlastnictví) je tato nepřesnost **prakticky irelevantní** – požadavky zákona byly bohatě překročeny.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n### 3.5 Jak to shrnují nezávislí právní experti\n\nČlánek iRozhlasu z 22. 11. 2025 (tedy ze stejného data jako výrok) shrnuje názory odborníků na identickou situaci:\n\n- Právník Bohumil Havel uvádí, že pokud by Babiš zůstal jen akcionářem, „**Agrofert by v takovém případě nesměl čerpat dotace či se účastnit veřejných zakázek**“.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/stret-zajmu-boris-stastny-andrej-babis-motoriste-vlada-ministr-pro-sport_2511220500_kno))  \n- Advokát Milan Vašíček dodává, že pokud by Babiš zůstal většinovým akcionářem Agrofertu, **„nemá nárok na veřejné zakázky, investiční pobídky a dotace rozdělované podle rozpočtových pravidel“**.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/stret-zajmu-boris-stastny-andrej-babis-motoriste-vlada-ministr-pro-sport_2511220500_kno))  \n\nTato stanoviska **potvrzují výklad**, že kombinačně § 4b + § 4c skutečně **znemožňují Agrofertu dotace i veřejné zakázky**, je-li Babiš členem vlády a firmu ovládá.\n\n---\n\n## 4. Shrnutí pro fakt‑checkera\n\n### Co je věcně správně\n\n- **Existuje právní úprava (v § 4b a § 4c zákona o střetu zájmů), která zakazuje:**\n  - poskytnout dotace a investiční pobídky firmě, v níž člen vlády (či jím ovládaná osoba) vlastní **alespoň 25 %** účasti (§ 4c);([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n  - účast takové firmy v zadávacích řízeních a zadání veřejné zakázky (včetně zakázek malého rozsahu) (§ 4b).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- **Pokud by byl Andrej Babiš členem vlády a nadále ovládal Agrofert (což reálně činí), Agrofert spadá do této úpravy**; odborníci i soudy potvrzují, že v takovém případě **nemá mít právo na dotace, investiční pobídky ani veřejné zakázky**.([vyhledavac.nssoud.cz](https://vyhledavac.nssoud.cz/DokumentOriginal/Html/740576))  \n- Výroková zkratka „ani korunu dotací nebo peněz z veřejných zakázek“ poměrně věrně vystihuje **zamýšlený absolutní charakter zákazu** – zákon nepřipouští žádný limit ani „část dotací“.\n\n### Co je nepřesné či chybné\n\n1. **Přiřazení všeho k § 4c**  \n   - Zákaz dotací/investičních pobídek je skutečně v § 4c,  \n   - **ale zákaz účasti na veřejných zakázkách je pouze v § 4b**, nikoli v § 4c.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n   - Tvrzení „v tom písmeně/paragrafu 4c je uvedeno, že … dotace i veřejné zakázky“ je tedy **textově chybné**.\n\n2. **Formulace podílu „více než 25 %“**  \n   - Zákon pracuje s hranicí „**alespoň 25 %**“, tedy zahrnuje i přesně 25 % podíl.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n   - V kontextu Babišova reálného stoprocentního vlastnictví Agrofertu jde o **spíše formální nepřesnost**, ale pro přesnou citaci zákona je to rozdíl.\n\n3. **Praktická aplikace vs. normativní znění**  \n   - Výrok implicitně předpokládá, že zákon v praxi **zcela zabránil** Agrofertu čerpat dotace a veřejné zakázky.  \n   - Ve skutečnosti:\n     - řadu let probíhal spor, zda se § 4c vztahuje i na některé zemědělské dotace; část orgánů je přesto vyplácela, dokud soudy a Evropská komise nedotáhly výklad k širšímu pojetí;([transparency.cz](https://www.transparency.cz/aktualni-vyvoj-v-prevenci-stretu-zajmu-verejnych-funkcionaru/?utm_source=openai))  \n     - § 4b má kolizní vztah k zákonu o zadávání veřejných zakázek, což vedlo v praxi k využívání „mezer“, jak upozorňuje např. Transparency International.([transparency.cz](https://www.transparency.cz/cast-vladnich-poslancu-aktivne-hlasuje-proti-tomu-aby-se-resil-stret-zajmu-ve-verejnych-zakazkach/?utm_source=openai))  \n\nZ pohledu **čistého výkladu zákona** je jádro tvrzení (zákon zakazuje Agrofertu dotace i veřejné zakázky, pokud Babiš jako člen vlády kontroluje ≥ 25 %) **věcně správné**, ale:\n\n- Šťastný **nesprávně tvrdí, že vše je napsáno v § 4c**,  \n- používá mírně chybný práh „více než 25 %“ místo „alespoň 25 %“,  \n- a zamlčuje, že v praxi byla aplikace zejména § 4c a částečně § 4b řadu let sporná a nejednotná.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 78562,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 17463,
+      "output_tokens_details": {
+        "reasoning_tokens": 11316
+      },
+      "total_tokens": 96025
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

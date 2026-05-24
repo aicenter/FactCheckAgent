@@ -1,0 +1,762 @@
+{
+  "claim_id": "24551",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20260116_143820",
+  "source_md": "experiments/gpt-5.1h_20260116_143820/brief_fact_check_id24551.md",
+  "fact_check": "# Fact Check for Statement ID 24551\n\n## Statement\nAndrej Babiš byl vydán dvakrát, dvakrát byl osvobozen.\n\n---\n## OpenAI Deep Research Fact Check\n## 1. Shrnutí výroku a jeho možných významů\n\nVýrok Patrika Nachera:  \n**„Andrej Babiš byl vydán dvakrát, dvakrát byl osvobozen.“**\n\nLze jej rozdělit na dvě dílčí tvrzení:\n\n1. **„Byl vydán dvakrát“** – v kontextu debaty o imunitě jde téměř jistě o tvrzení, že **Poslanecká sněmovna dvakrát vyslovila souhlas s jeho trestním stíháním („vydala ho“)**.\n2. **„Dvakrát byl osvobozen“** – v kontextu kauzy Čapí hnízdo jde o tvrzení, že **soud dvakrát rozhodl o jeho nevině (osvobozující / zprošťující rozsudek)**.\n\nNíže jsou obě části ověřeny zvlášť.\n\n---\n\n## 2. Sub‑tvrzení: „Andrej Babiš byl vydán dvakrát“\n\n### 2.1 Chronologie vydání k trestnímu stíhání (Čapí hnízdo)\n\n#### 1) První vydání – 6. 9. 2017\n\n- Poslanecká sněmovna 6. 9. 2017 souhlasila s vydáním poslanců Andreje Babiše a Jaroslava Faltýnka k trestnímu stíhání v souvislosti s dotací na farmu Čapí hnízdo.  \n  - Deník.cz k tomu píše, že **„Poslanecká sněmovna 6. září … rozhodovala o zbavení imunity … Andreje Babiše a Jaroslava Faltýnka“** a že policie **„obdržela sněmovní usnesení o vydání předsedy hnutí ANO Andreje Babiše“**. ([denik.cz](https://www.denik.cz/z_domova/babise-a-faltynek-policie-dostala-usneseni-o-jejich-vydani-ke-stihani-20170913.html?utm_source=openai))  \n  - Podobně E15: **„Poslanecká sněmovna vydala … Babiše a Faltýnka k trestnímu stíhání… v souvislosti s dotační kauzou Čapí hnízdo.“** ([e15.cz](https://www.e15.cz/volby/volby-2017/snemovna-vydala-babise-a-faltynka-k-trestnimu-stihani-poslanci-ano-opustili-sal-1337049?utm_source=openai))  \n\n#### 2) Druhé vydání – 19. 1. 2018 (nově zvolená Sněmovna)\n\nPo volbách 2017 získal Babiš znovu mandát, imunita se obnovila a policie musela žádat znova.\n\n- Stenozáznam Poslanecké sněmovny (6. schůze, 19. 1. 2018) výslovně připomíná, že:  \n  - **„První žádost … byla Poslanecké sněmovně předložena již v sedmém volebním období a Poslanecká sněmovna vyslovila souhlas k trestnímu stíhání obou poslanců dne 6. září 2017. … je pro pokračování trestního stíhání obou poslanců vyžádáno vyslovení souhlasu nově zvolené komory.“** ([psp.cz](https://www.psp.cz/eknih/2017ps/stenprot/006schuz/bqbs/b07004001.htm?utm_source=openai))  \n  - A dále je předčítán návrh usnesení mandátového a imunitního výboru: **„Poslanecká sněmovna … vyslovuje souhlas k trestnímu stíhání poslance Ing. Andreje Babiše…“** (usnesení č. 38). ([psp.cz](https://www.psp.cz/eknih/2017ps/stenprot/006schuz/bqbs/b07004001.htm?utm_source=openai))  \n\nTedy v lednu 2018 nová Sněmovna Babiše **podruhé** formálně vydala k trestnímu stíhání v téže kauze.\n\n#### 3) Třetí vydání – 3. 3. 2022\n\nPo volbách 2021 byl Babiš znovu poslancem; kvůli obnovené imunitě bylo potřeba třetí hlasování.\n\n- Stenoprotokol 9. schůze Sněmovny (3. 3. 2022) uvádí opět návrh usnesení:  \n  - **„Poslanecká sněmovna … vyslovuje souhlas k trestnímu stíhání obviněného poslance Ing. Andreje Babiše…“** ve věci dotačního podvodu a poškození finančních zájmů EU v souvislosti s projektem Čapí hnízdo. ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/009schuz/bqbs/b20810701.htm?utm_source=openai))  \n- Zpravodajství TV Nova o hlasování 3. 3. 2022 shrnuje:  \n  - **„Poslanecká sněmovna … odsouhlasila vydání Andreje Babiše (ANO) k trestnímu stíhání kvůli kauze Čapí hnízdo… Sněmovna se vydáním Babiše zabývala již potřetí…“** ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/456179-poslanci-schvalili-vydani-andreje-babise-k-trestnimu-stihani))  \n\n### 2.2 Souhrnné formulace v pozdějších zdrojích\n\nNěkolik pozdějších (před‑2026) článků přímo shrnuje, kolikrát byl Babiš vydán:\n\n- Česká justice (6. 10. 2025): **„Babiše Sněmovna v minulosti vydala ke stíhání třikrát – v září 2017, v lednu 2018 a naposledy v březnu 2022.“** ([ceska-justice.cz](https://www.ceska-justice.cz/2025/10/kdy-muze-byt-babis-vydan-ke-stihani/?utm_source=openai))  \n- Slovenský server Noviny.sk (přebírá info od ČTK): **„Babiša Snemovňa v minulosti vydala na stíhanie trikrát – v septembri 2017, v januári 2018 a naposledy v marci 2022.“** ([noviny.sk](https://www.noviny.sk/zahranicie/1115490-o-vydanie-babisa-ktory-ziskal-imunitu-moze-sud-poziadat-az-po-zverejneni-vysledkov-volieb-v-zbierke?utm_source=openai))  \n- iDNES.cz při informaci o nové žádosti v říjnu 2025 píše: **„Dolní komora ho už třikrát ke stíhání vydala.“** ([idnes.cz](https://www.idnes.cz/zpravy/domaci/andrej-babis-zadost-snemovna-vydani-capi-hnizdo.A251009_130014_domaci_aoc?utm_source=openai))  \n- ČT24 o téže žádosti: **„Případ pokračuje čtvrté volební období, dolní komora předsedu ANO už třikrát ke stíhání vydala.“** ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/vetsina-obyvatel-se-priklani-k-babisovu-vydani-ke-stihani-ukazal-pruzkum-365991?utm_source=openai))  \n\n### 2.3 Závěr k tvrzení „byl vydán dvakrát“\n\n- **Fakticky doloženo je, že Poslanecká sněmovna vydala Andreje Babiše k trestnímu stíhání v kauze Čapí hnízdo třikrát: 6. 9. 2017, 19. 1. 2018 a 3. 3. 2022.**  \n- Výrok „byl vydán dvakrát“ je tedy v běžném právně‑politickém významu **v rozporu s dostupnými oficiálními i mediálními zdroji**, které uvádějí tři vydání.\n\n---\n\n## 3. Sub‑tvrzení: „dvakrát byl osvobozen“\n\nToto tvrzení se dle kontextu vztahuje ke **kauze Čapí hnízdo**. Je třeba sledovat jednak, zda skutečně došlo ke dvěma osvobozujícím rozsudkům, a jednak, zda byly pravomocné nebo byly později zrušeny.\n\n### 3.1 První osvobozující (nepravomocný) rozsudek – 9. 1. 2023\n\n- Městský soud v Praze 9. 1. 2023 zprostil Andreje Babiše i Janu Nagyovou obžaloby:  \n  - Aktuálně.cz: **„Pražský městský soud nepravomocně osvobodil bývalého premiéra … Andreje Babiše … i jeho někdejší poradkyni Janu Nagyovou v kauze Čapí hnízdo…“** ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/zive-verdikt-mestskeho-soudu-v-praze-ohledne-kauzy-capi-hniz/r~e57921c28dcc11ed82b7ac1f6b220ee8/?utm_source=openai))  \n  - ČT24: **„Pražský městský soud osvobodil … Andreje Babiše … i jeho někdejší poradkyni Janu Nagyovou… Rozsudek není pravomocný…“** ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/soud-zprostil-babise-obzaloby-v-kauze-capi-hnizdo-mame-nezavislou-justici-reagoval-expremier-11890?utm_source=openai))  \n  - Česká justice: **„Pražský městský soud dnes nepravomocně osvobodil … Andreje Babiše … i jeho někdejší poradkyni Janu Nagyovou… Verdikt není pravomocný…“** ([ceska-justice.cz](https://www.ceska-justice.cz/2023/01/soud-babise-zprostil-obzaloby-v-kauze-capi-hnizdo-expremier-ocenil-nezavislost-justice/?utm_source=openai))  \n\n=> 9. ledna 2023 **byl Babiš poprvé (nepravomocně) osvobozen**.\n\n### 3.2 Zrušení prvního osvobozujícího rozsudku odvolacím soudem – podzim 2023\n\n- Vrchní soud v Praze v září 2023 rozhodl o odvolání státního zástupce a **zrušil zprošťující rozsudek**:  \n  - E15 (15. 11. 2023) shrnuje: **„Vrchní soud v Praze zrušil zprošťující rozsudek v kauze Čapí hnízdo… Případem se bude muset městský soud znovu zabývat.“** ([e15.cz](https://www.e15.cz/domaci/soud-zrusil-rozsudek-v-kauze-capi-hnizdo-je-to-absurdni-a-nekonecne-rika-babis-1411658?utm_source=openai))  \n  - Seznam Zprávy popisují rozhodnutí odvolacího soudu, jenž **„zrušil zprošťující nepravomocný rozsudek“** v kauze Čapí hnízdo. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-kauzy-odvolaci-soud-vysvetlil-proc-zrusil-osvobozujici-verdikt-nad-babisem-239905?utm_source=openai))  \n\n=> První osvobozující rozsudek **nikdy nenabyl právní moci** a byl Vrchním soudem zrušen.\n\n### 3.3 Druhý osvobozující (nepravomocný) rozsudek – 14. 2. 2024\n\nPo vrácení věci Městskému soudu v Praze došlo k novému hlavnímu líčení a druhému osvobozujícímu verdiktu:\n\n- Aktuálně.cz (14. 2. 2024):  \n  - **„Pražský městský soud znovu nepravomocně osvobodil … Andreje Babiše i jeho někdejší poradkyni Janu Nagyovou v kauze Čapí hnízdo…“** ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/capi-hnizdo-jsem-vzdy-zamyslel-jako-rodinny-podnik-rekl-babi/r~7f97cda0cb1911eeaf28ac1f6b220ee8/?utm_source=openai))  \n- Česká justice (12. 4. 2024) ve zprávě o odvolání žalobce výslovně uvádí, že soud:  \n  - **„v polovině února podruhé nepravomocně osvobodil … Andreje Babiše a … Janu Nagyovou v kauze Čapí hnízdo.“** ([ceska-justice.cz](https://www.ceska-justice.cz/2024/04/statni-zastupce-se-odvolal-proti-zprostujicimu-rozsudku-v-kauze-capi-hnizdo/?utm_source=openai))  \n- ČT24 píše totéž: žalobce se odvolal **„proti osvobozujícímu rozsudku… Soud oba podruhé nepravomocně osvobodil letos v únoru.“** ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/statni-zastupce-se-odvolal-proti-osvobozujicimu-rozsudku-v-kauze-capi-hnizdo-348132?utm_source=openai))  \n\n=> 14. února 2024 **byl Babiš podruhé (nepravomocně) osvobozen** v téže kauze.\n\n### 3.4 Odvolání státního zástupce a druhé zrušení osvobozujícího rozsudku – 2024–2025\n\n- 12. 4. 2024 státní zástupce Jaroslav Šaroch podal odvolání „v neprospěch“ Babiše a Nagyové proti druhému osvobozujícímu rozsudku. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/statni-zastupce-se-odvolal-proti-osvobozujicimu-rozsudku-v-kauze-capi-hnizdo-348132?utm_source=openai))  \n- 23. 6. 2025 Vrchní soud v Praze i tento druhý osvobozující rozsudek zrušil a věc znovu vrátil Městskému soudu:  \n  - Deník.cz: **„Odvolací senát zrušil rozsudek, kterým nižší soud loni v únoru osvobodil … Andreje Babiše… Odvolací soud se kauzou zabýval podruhé, i na podzim roku 2023 zprošťující rozsudek městského soudu zrušil.“** ([denik.cz](https://www.denik.cz/krimi/capi-hnizdo-vrchni-soud-andrej-babis-20250623.html?utm_source=openai))  \n  - E15 uvádí totéž: odvolací senát **„zrušil rozsudek, kterým nižší soud loni v únoru osvobodil předsedu hnutí ANO Andreje Babiše… Odvolací soud se kauzou zabýval podruhé, i na podzim roku 2023 zprošťující rozsudek městského soudu zrušil.“** ([e15.cz](https://www.e15.cz/clanek/domaci/soud-zrusil-osvobozeni-babise-i-nagyove-v-kauze-capi-hnizdo-1425468?utm_source=openai))  \n  - TN.cz shrnuje, že Vrchní soud **„zrušil rozsudek osvobozující … Babiše a … Nagyovou… Odvolací soud se kauzou zabýval podruhé. I na podzim roku 2023 zprošťující rozsudek městského soudu zrušil.“** ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/618840-kauza-capi-hnizdo-miri-zpet-k-mestskemu-soudu?utm_source=openai))  \n\n=> Ani druhý osvobozující rozsudek **nenabyl právní moci** a byl nejpozději v červnu 2025 zrušen. Kauza se znovu vrátila k Městskému soudu a k 13. 1. 2026 stále není pravomocně skončena.\n\n### 3.5 Závěr k tvrzení „dvakrát byl osvobozen“\n\n- **Fakticky:**\n  - Andrej Babiš byl v kauze Čapí hnízdo **dvakrát nepravomocně osvobozen** Městským soudem v Praze (9. 1. 2023 a 14. 2. 2024). ([ceska-justice.cz](https://www.ceska-justice.cz/2023/01/soud-babise-zprostil-obzaloby-v-kauze-capi-hnizdo-expremier-ocenil-nezavislost-justice/?utm_source=openai))  \n  - Oba tyto osvobozující rozsudky ale byly **následně zrušeny Vrchním soudem v Praze** (poprvé na podzim 2023, podruhé 23. 6. 2025). ([e15.cz](https://www.e15.cz/domaci/soud-zrusil-rozsudek-v-kauze-capi-hnizdo-je-to-absurdni-a-nekonecne-rika-babis-1411658?utm_source=openai))  \n- **Právní stav k 13. 1. 2026:**  \n  - V kauze **neexistuje pravomocný osvobozující rozsudek** – probíhá další kolo řízení u Městského soudu.\n\nZ hlediska čistého popisu procesního průběhu tedy tvrzení, že „dvakrát byl osvobozen“, odpovídá skutečnosti **jen v tom smyslu, že dvakrát padl nepravomocný osvobozující rozsudek**, ale zamlčuje, že **oba byly nadřízeným soudem zrušeny** a právně neplatí.\n\n---\n\n## 4. Souhrn zjištění k celému výroku\n\n**Sub‑tvrzení 1 – „Andrej Babiš byl vydán dvakrát“**\n\n- Prokazatelná vydání Poslaneckou sněmovnou v kauze Čapí hnízdo:\n  1. 6. 9. 2017 – první vydání. ([denik.cz](https://www.denik.cz/z_domova/babise-a-faltynek-policie-dostala-usneseni-o-jejich-vydani-ke-stihani-20170913.html?utm_source=openai))  \n  2. 19. 1. 2018 – druhé vydání nově zvolenou Sněmovnou. ([psp.cz](https://www.psp.cz/eknih/2017ps/stenprot/006schuz/bqbs/b07004001.htm?utm_source=openai))  \n  3. 3. 3. 2022 – třetí vydání po volbách 2021. ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/009schuz/bqbs/b20810701.htm?utm_source=openai))  \n- Více souhrnných zdrojů z roku 2024–2025 uvádí, že Babiš byl vydán **třikrát**. ([ceska-justice.cz](https://www.ceska-justice.cz/2025/10/kdy-muze-byt-babis-vydan-ke-stihani/?utm_source=openai))  \n\n**Závěr:**  \nPodle dostupných oficiálních i mediálních zdrojů je počet vydání **tři, nikoli dva**.\n\n---\n\n**Sub‑tvrzení 2 – „dvakrát byl osvobozen“**\n\n- Městský soud v Praze **dvakrát nepravomocně** zprostil Andreje Babiše obžaloby v kauze Čapí hnízdo (leden 2023 a únor 2024). ([ceska-justice.cz](https://www.ceska-justice.cz/2023/01/soud-babise-zprostil-obzaloby-v-kauze-capi-hnizdo-expremier-ocenil-nezavislost-justice/?utm_source=openai))  \n- Vrchní soud v Praze oba osvobozující rozsudky **zrušil** (poprvé v roce 2023, podruhé 23. 6. 2025) a věc vždy vrátil Městskému soudu. ([e15.cz](https://www.e15.cz/domaci/soud-zrusil-rozsudek-v-kauze-capi-hnizdo-je-to-absurdni-a-nekonecne-rika-babis-1411658?utm_source=openai))  \n\n**Závěr:**  \n- Ve smyslu „kolikrát soud vynesl osvobozující verdikt“ je tvrzení **věcně přesné (dvakrát)**, ale **podstatně neúplné a zavádějící**, protože neuvádí, že:\n  - oba rozsudky byly **nepravomocné**, a  \n  - oba byly **Vrchním soudem zrušeny** a kauza se nadále projednává.\n\n---\n\n### Celkové zhodnocení výroku\n\n- Část o **počtu vydání („dvakrát“) je v rozporu s doloženými fakty** – Sněmovna Babiše vydala ke stíhání v kauze Čapí hnízdo třikrát.  \n- Část o **dvou osvobozujících rozsudcích odpovídá procesní historii kauzy (dvě nepravomocná osvobození), ale opomíjí klíčovou informaci, že oba rozsudky byly zrušeny** a že k 13. 1. 2026 neexistuje pravomocný osvobozující verdikt.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Pro a proti released on 2026-01-13 available from https://plus.rozhlas.cz/debata-o-okamurovi-bude-zajimavejsi-nez-hlasovani-o-duvere-mini-benda-nacher-na-9588540.\\n\\n\\nThe claim was made by: Patrik Nacher, Místopředseda Poslanecké sněmovny\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:19:24\\nPatrik Nacher,\\nposlanec, místopředseda Poslanecké sněmovny /ANO/\\n...aby to byl před volbama...\\n00:19:27\\nMarek Benda,předseda poslaneckého klubu /ODS/\\nNe, v roce 2017, i 21 se vydávalo těsně po volbách, protože trestní stíhání pokračovalo. Prosím, nelžeme si.\\n00:19:35\\nPatrik Nacher,\\nposlanec, místopředseda Poslanecké sněmovny /ANO/\\nPřed volbami, bylo to součástí kampaně roku 2017, i 2021, i teďka roku 2025, prostě se to neustále vrací. Andrej Babiš byl vydán dvakrát, dvakrát byl osvobozen. A já teďka moc nerozumím té zkratce, že to je koalice jenom pro nevydání někoho, protože bohužel opozice se nemá jak vůči nám vymezovat z hlediska obsahu, o kterém se vůbec nebavíme. A buď je to vydání, nevydání Andreje Babiše, anebo Filip Turek. A to je vlastně jediné, s čím oni tady budou teďka 4 roky šermovat.\\n00:20:13\\nLukáš Matoška,moderátor\\n\\nProvide a structured, citation-backed verification of the claim: 'Andrej Babiš byl vydán dvakrát, dvakrát byl osvobozen.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 433.18 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Sněmovna vydala Andreje Babiše v kauze Čapí hnízdo ke stíhání třikrát, nikoli dvakrát. Městský soud ho v této kauze dvakrát nepravomocně osvobodil, oba rozsudky však Vrchní soud v Praze zrušil. Výrok proto hodnotíme jako nepravdivý.</p>\n\n<p>Výrok se týká trestního stíhání Andreje Babiše kvůli dotaci na farmu Čapí hnízdo a rozhodování Poslanecké sněmovny o jeho vydání k trestnímu stíhání, stejně jako následného soudního řízení. V kontextu debaty o imunitě se výrazem „byl vydán“ míní souhlas Poslanecké sněmovny s trestním stíháním poslance, výrazem „byl osvobozen“ pak osvobozující rozsudek soudu v této kauze.</p>\n\n<p>Výrok obsahuje dvě samostatná faktická tvrzení: zaprvé, že Andrej Babiš byl Sněmovnou vydán dvakrát, a zadruhé, že byl dvakrát osvobozen. Obě tvrzení jsme ověřili zvlášť.</p>\n\n<p>U prvního tvrzení je rozhodující, kolikrát Poslanecká sněmovna formálně vyslovila souhlas s jeho trestním stíháním v kauze Čapí hnízdo. První žádost policie vedla k hlasování 6. září 2017, kdy Sněmovna souhlas s vydáním Andreje Babiše i Jaroslava Faltýnka schválila, jak popisují zpravodajské texty o prvním vydání v souvislosti s dotací na farmu Čapí hnízdo v deníku <a href=\"https://www.denik.cz/z_domova/babise-a-faltynek-policie-dostala-usneseni-o-jejich-vydani-ke-stihani-20170913.html\">Deník</a> i na serveru <a href=\"https://www.e15.cz/volby/volby-2017/snemovna-vydala-babise-a-faltynka-k-trestnimu-stihani-poslanci-ano-opustili-sal-1337049\">E15</a>.</p>\n\n<p>Po volbách v roce 2017 Andrej Babiš znovu získal poslanecký mandát a s ním i imunitu, takže policie musela žádat novou Sněmovnu znovu. Stenozáznam z 6. schůze Poslanecké sněmovny 19. ledna 2018 připomíná, že předchozí (sedmé) volební období již souhlas s trestním stíháním vydalo a že je nově „pro pokračování trestního stíhání … vyžádáno vyslovení souhlasu nově zvolené komory“, přičemž usnesením č. 38 Sněmovna znovu <i>„vyslovuje souhlas k trestnímu stíhání poslance Ing. Andreje Babiše“</i>, jak je zachyceno ve stenozáznamu na webu <a href=\"https://www.psp.cz/eknih/2017ps/stenprot/006schuz/bqbs/b07004001.htm\">Poslanecké sněmovny</a>.</p>\n\n<p>Po dalších volbách v roce 2021 se situace opakovala: Andrej Babiš se stal znovu poslancem a imunita se obnovila. Proto se Sněmovna zabývala žádostí policie potřetí. Na 9. schůzi 3. března 2022 byl opět schválen návrh usnesení, podle něhož <i>„Poslanecká sněmovna … vyslovuje souhlas k trestnímu stíhání obviněného poslance Ing. Andreje Babiše“</i> v souvislosti s dotačním podvodem u projektu Čapí hnízdo, jak vyplývá z oficiálního stenoprotokolu zveřejněného na webu <a href=\"https://www.psp.cz/eknih/2021ps/stenprot/009schuz/bqbs/b20810701.htm\">Poslanecké sněmovny</a>. Zpravodajství televize Nova pak tuto skutečnost shrnulo s tím, že Sněmovna se vydáním Babiše „zabývala již potřetí“, jak uvádí článek na serveru <a href=\"https://tn.nova.cz/zpravodajstvi/clanek/456179-poslanci-schvalili-vydani-andreje-babise-k-trestnimu-stihani\">TN.cz</a>.</p>\n\n<p>Také pozdější přehledové texty píší, že Sněmovna vydala Andreje Babiše ke stíhání třikrát: právnický server <a href=\"https://www.ceska-justice.cz/2025/10/kdy-muze-byt-babis-vydan-ke-stihani/\">Česká justice</a> v roce 2025 výslovně uvádí, že k vydání došlo v září 2017, v lednu 2018 a v březnu 2022, obdobně informují i články na serverech <a href=\"https://www.idnes.cz/zpravy/domaci/andrej-babis-zadost-snemovna-vydani-capi-hnizdo.A251009_130014_domaci_aoc\">iDNES.cz</a> či <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/vetsina-obyvatel-se-priklani-k-babisovu-vydani-ke-stihani-ukazal-pruzkum-365991\">ČT24</a>. Z těchto shodných oficiálních a mediálních zdrojů vyplývá, že tvrzení „byl vydán dvakrát“ je fakticky nesprávné, protože vydání proběhlo třikrát.</p>\n\n<p>Druhé dílčí tvrzení říká, že Andrej Babiš byl dvakrát osvobozen. To se vztahuje ke dvěma rozsudkům Městského soudu v Praze v kauze Čapí hnízdo. Dne 9. ledna 2023 tento soud poprvé zprostil Andreje Babiše i Janu Nagyovou obžaloby. Zpravodajství serveru <a href=\"https://zpravy.aktualne.cz/domaci/zive-verdikt-mestskeho-soudu-v-praze-ohledne-kauzy-capi-hniz/r~e57921c28dcc11ed82b7ac1f6b220ee8/\">Aktuálně.cz</a>, stanice <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/soud-zprostil-babise-obzaloby-v-kauze-capi-hnizdo-mame-nezavislou-justici-reagoval-expremier-11890\">ČT24</a> i serveru <a href=\"https://www.ceska-justice.cz/2023/01/soud-babise-zprostil-obzaloby-v-kauze-capi-hnizdo-expremier-ocenil-nezavislost-justice/\">Česká justice</a> shodně popisují, že šlo o osvobozující rozsudek, a současně zdůrazňují, že verdikt byl nepravomocný.</p>\n\n<p>Vrchní soud v Praze však v odvolacím řízení tento první zprošťující rozsudek na podzim 2023 zrušil a věc vrátil Městskému soudu k novému projednání. Podle shrnutí v deníku <a href=\"https://www.e15.cz/domaci/soud-zrusil-rozsudek-v-kauze-capi-hnizdo-je-to-absurdni-a-nekonecne-rika-babis-1411658\">E15</a> šlo právě o zrušení zprošťujícího rozsudku v kauze Čapí hnízdo, což potvrzuje i rozbor rozhodnutí odvolacího soudu na serveru <a href=\"https://www.seznamzpravy.cz/clanek/domaci-kauzy-odvolaci-soud-vysvetlil-proc-zrusil-osvobozujici-verdikt-nad-babisem-239905\">Seznam Zprávy</a>. První „osvobození“ tedy nikdy nenabylo právní moci.</p>\n\n<p>Městský soud v Praze se kauzou zabýval znovu a 14. února 2024 Andreje Babiše i Janu Nagyovou opět zprostil obžaloby. Zpravodajství serveru <a href=\"https://zpravy.aktualne.cz/domaci/capi-hnizdo-jsem-vzdy-zamyslel-jako-rodinny-podnik-rekl-babi/r~7f97cda0cb1911eeaf28ac1f6b220ee8/\">Aktuálně.cz</a> i informace na webu <a href=\"https://www.ceska-justice.cz/2024/04/statni-zastupce-se-odvolal-proti-zprostujicimu-rozsudku-v-kauze-capi-hnizdo/\">České justice</a> výslovně uvádějí, že Městský soud v polovině února 2024 podruhé nepravomocně osvobodil Andreje Babiše a jeho spoluobžalovanou. Také <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/statni-zastupce-se-odvolal-proti-osvobozujicimu-rozsudku-v-kauze-capi-hnizdo-348132\">ČT24</a> připomíná, že soud oba „podruhé nepravomocně osvobodil“.</p>\n\n<p>Ani druhé osvobození však nezůstalo v platnosti. Státní zástupce Jaroslav Šaroch se podle výše zmíněného článku <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/statni-zastupce-se-odvolal-proti-osvobozujicimu-rozsudku-v-kauze-capi-hnizdo-348132\">ČT24</a> proti druhému osvobozujícímu rozsudku odvolal a Vrchní soud v Praze jej 23. června 2025 opět zrušil. Deník <a href=\"https://www.denik.cz/krimi/capi-hnizdo-vrchni-soud-andrej-babis-20250623.html\">Deník</a> i server <a href=\"https://www.e15.cz/clanek/domaci/soud-zrusil-osvobozeni-babise-i-nagyove-v-kauze-capi-hnizdo-1425468\">E15</a> shodně popisují, že odvolací senát zrušil rozsudek, kterým nižší soud v únoru předchozího roku Andreje Babiše osvobodil, a že Vrchní soud tak zprošťující verdikt rušil už podruhé. Stejný závěr shrnuje i zpravodajství serveru <a href=\"https://tn.nova.cz/zpravodajstvi/clanek/618840-kauza-capi-hnizdo-miri-zpet-k-mestskemu-soudu\">TN.cz</a>. Ani druhé osvobození tedy nenabylo právní moci a kauza se v roce 2025 znovu vrátila k Městskému soudu.</p>\n\n<p>Fakticky tedy platí, že Andrej Babiš byl v kauze Čapí hnízdo dvakrát nepravomocně osvobozen Městským soudem v Praze, ale oba zprošťující rozsudky byly Vrchním soudem v Praze zrušeny a k 13. lednu 2026 neexistuje žádný pravomocný osvobozující rozsudek. Tvrzení „dvakrát byl osvobozen“ proto bez doplnění o tyto klíčové skutečnosti vyvolává mylný dojem, že soudy už Babiše definitivně dvakrát zprostily obžaloby, a je tak samo o sobě zavádějící.</p>\n\n<p>Celkově tedy první dílčí tvrzení („byl vydán dvakrát“) neodpovídá skutečnosti, protože Poslanecká sněmovna vydala Andreje Babiše ke stíhání v kauze Čapí hnízdo třikrát. Druhé dílčí tvrzení („dvakrát byl osvobozen“) sice zachycuje, že dvakrát padl osvobozující verdikt, ale zamlčuje, že šlo vždy jen o nepravomocná rozhodnutí následně zrušená odvolacím soudem. Výrok jako celek proto hodnotíme jako nepravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0a9dd21658154c3b00696a4e5f70e8819c87a3fc882dec14af",
+    "created_at": 1768574559.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0a9dd21658154c3b00696a4e6c6158819ca5d9b9c1ef8cb467",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4e825dbc819ca762d3895c9a9ed1",
+        "action": {
+          "query": "Poslanecká sněmovna vydala Andreje Babiše k trestnímu stíhání 2017 2018 Čapí hnízdo",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Poslanecká sněmovna vydala Andreje Babiše k trestnímu stíhání 2017 2018 Čapí hnízdo",
+            "Andrej Babiš osvobozen Čapi hnizdo prvoinstanční rozsudek 9. ledna 2023",
+            "Vrchní soud Praha potvrdil zproštující rozsudek Andreje Babiše Čapi hnizdo datum",
+            "Babiš poslanecká imunita vydán podruhé k trestnímu stíhání leden 2018"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4e862b84819c9ffdfc8369c8b55e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4e917a34819cae47c93004e949da",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4e97afb8819c9402cf91e3e37c00",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4e982fb0819c89238d5344a8d0c3",
+        "action": {
+          "query": "Sněmovna vydala Andreje Babiše k trestnímu stíhání",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Sněmovna vydala Andreje Babiše k trestnímu stíhání",
+            "hlasování Poslanecké sněmovny vydání Andreje Babiše k trestnímu stíhání září 2017",
+            "Poslanecká sněmovna vydala Andreje Babiše leden 2018",
+            "Snemovna vydala Andreje Babiše k trestnímu stíhání březen 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4e9c6f54819c82e63b95335efe2c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4e9d8e98819cbdb9a1cca52a76d3",
+        "action": {
+          "query": "Snemovna znovu vydala Andreje Babiše k trestnímu stíhání leden 2018",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Snemovna znovu vydala Andreje Babiše k trestnímu stíhání leden 2018",
+            "\"znovu vydala\" \"Andrej Babiš\" \"trestnímu stíhání\"",
+            "Snemovna podruhe vydala Andreje Babiše k trestnímu stíhání leden 2018 capi hnizdo",
+            "\"podruhé vydala\" Andreje Babiše"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4ea14aa8819ca3eb2d735923a088",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4ea3fc4c819cbcf0f94ae22317b1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4ea64e68819ca8ea40b1915be162",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4eb6b00c819ca7f9ddb9bb944b4a",
+        "action": {
+          "query": "6. 9. 2017 hlasování 2/10 Poslanecká sněmovna vydání poslance Andreje Babiše",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "6. 9. 2017 hlasování 2/10 Poslanecká sněmovna vydání poslance Andreje Babiše",
+            "\"Poslanecká sněmovna vyslovuje souhlas s vydáním k trestnímu stíhání poslance Andreje Babiše\" usnesení",
+            "usnesení Poslanecké sněmovny 6. září 2017 Babiš Faltýnek vydán k trestnímu stíhání",
+            "\"vydání poslance Andreje Babiše k trestnímu stíhání\" 2017 sněmovní tisk"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4ebc6a54819c88d4da7831d502c5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4ebdc3a4819ca74fda606eb87793",
+        "action": {
+          "query": "site:psp.cz \"vyslovuje souhlas k trestnímu stíhání obviněného poslance Ing. Andreje Babiše\" 2018",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "site:psp.cz \"vyslovuje souhlas k trestnímu stíhání obviněného poslance Ing. Andreje Babiše\" 2018",
+            "psp.cz 2018 stenozaznam vydani k trestnimu stihani Andreje Babis",
+            "PSP 2017-2021 3. schůze vydání poslance Ing. Andreje Babiše",
+            "\"obviněného poslance Ing. Andreje Babiše\" \"PČR, PS 2017-2021\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4ec21d70819c8bc89e17493f3da4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4eda9e04819cbd64311818e10dc4",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4ede6b14819cb77361f1e5cf1999",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4edea35c819c8a3a7d9a94a6a280",
+        "action": {
+          "query": "Městský soud v Praze podruhé osvobodil Andreje Babiše v kauze Čapí hnízdo únor 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Městský soud v Praze podruhé osvobodil Andreje Babiše v kauze Čapí hnízdo únor 2024",
+            "podruhé osvobodil Babiše Městský soud v Praze Čapí hnízdo 2024",
+            "Babiš podruhé osvobozen Čapí hnízdo 2024",
+            "Městský soud v Praze zprostil Andreje Babiše obžaloby podruhé 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4ee2e630819cb9effbe3b5fbedea",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4ee536a4819cbf368c90342c5815",
+        "action": {
+          "query": "9. ledna 2023 Městský soud v Praze osvobodil Andreje Babiše a Janu Nagyovou v kauze Čapí hnízdo",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "9. ledna 2023 Městský soud v Praze osvobodil Andreje Babiše a Janu Nagyovou v kauze Čapí hnízdo",
+            "\"podruhé nepravomocně osvobodil\" Babiše Čapí hnízdo únor 2024",
+            "9.1.2023 zprostil obžaloby Andreje Babiše Městský soud v Praze",
+            "Městský soud v Praze 9. ledna 2023 v kauze Čapí hnízdo zprostil obžaloby"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4eeb7034819c8a87836bf2a29215",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4eec46e4819ca4d3c98f677490c0",
+        "action": {
+          "query": "Městský soud v Praze podruhé osvobodil Andreje Babiše v kauze Čapí hnízdo v únoru 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Městský soud v Praze podruhé osvobodil Andreje Babiše v kauze Čapí hnízdo v únoru 2024",
+            "\"podruhé nepravomocně osvobodil\" \"Andrej Babiš\" \"Čapí hnízdo\"",
+            "\"podruhé nepravomocně\" \"Babiš\" \"Nagyová\"",
+            "v polovině února 2024 Městský soud v Praze podruhé zprostil Babiše obžaloby"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4ef06be0819cb2fa94a10d3d848c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4ef722e0819ca186a7397f68799d",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4efd31a4819c84aff6b4a94b568d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4efdb8bc819c876caf0e3689c179",
+        "action": {
+          "query": "Vrchní soud v Praze zrušil zprošťující rozsudek v kauze Čapí hnízdo podzim 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Vrchní soud v Praze zrušil zprošťující rozsudek v kauze Čapí hnízdo podzim 2023",
+            "Vrchní soud v Praze zrušil verdikt Městského soudu v kauze Čapí hnízdo 2023",
+            "odvolací soud zrušil zprošťující rozsudek Babiše Čapí hnízdo říjen 2023",
+            "\"zrušil osvobozující\" \"Čapí hnízdo\" 2023"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4f027068819c88324b539c441c6a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4f08a8a4819c8bdb59eff5597a1c",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4f0f2200819cbe9fb6d4e7199bc2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4f0f6eb0819cabd41afa59760e98",
+        "action": {
+          "query": "Andrej Babiš byl zproštěn obžaloby -\"Čapí hnízdo\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Andrej Babiš byl zproštěn obžaloby -\"Čapí hnízdo\"",
+            "obžaloba Andreje Babiše soud zprostil obžaloby jiná kauza",
+            "soud zprostil Andreje Babiše obžaloby jiná kauza",
+            "\"Babiš byl osvobozen\" -\"capi hnizdo\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4f1a12fc819cac92e9e706b26987",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4f299dfc819cb922dc00fd7bc1c2",
+        "action": {
+          "query": "Snemovna po volbach 2025 znovu vydala Andreje Babiše k trestnímu stíhání",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Snemovna po volbach 2025 znovu vydala Andreje Babiše k trestnímu stíhání",
+            "\"požadat o vydání\" \"Andrej Babiš\" \"po sněmovních volbách\" 2025",
+            "Po volbách 2025 mandát meho a vydání Babiše k trestnímu stíhání Čapí hnízdo",
+            "Poslanecká sněmovna 2025 vydala Babiše počtvrté k trestnímu stíhání"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4f382eb8819c82ee928bc17370a2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4f424510819cbb8f767a796b6106",
+        "action": {
+          "query": "Poslanecká sněmovna hlasovala o čtvrtém vydání Andreje Babiše k trestnímu stíhání 2025 2026",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Poslanecká sněmovna hlasovala o čtvrtém vydání Andreje Babiše k trestnímu stíhání 2025 2026",
+            "Snemovna nevydala Andreje Babiše 2025",
+            "\"Snemovna nevyslovila souhlas\" \"Andrej Babiš\" 2025",
+            "\"Poslanecká sněmovna podle čl. 27 odst. 4\" \"Babiš\" 2025 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4f486e44819cb07ce42137e261f7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4f522f28819c94cbaa05964d73fc",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4f57c7a4819c9aa0a42229002fc1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4f57fde4819c9cf99e0235cc3318",
+        "action": {
+          "query": "Snemovna nevydala Andreje Babiše leden 2026",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Snemovna nevydala Andreje Babiše leden 2026",
+            "hlasování o vydání Andreje Babiše leden 2026",
+            "\"Poslanecká sněmovna\" \"vydání\" \"Andreje Babiše\" leden 2026",
+            "psp.cz stenozaznam vydani poslance Ing. Andreje Babiše 2025 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4f602a00819cae7a1d2fb98ea516",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a9dd21658154c3b00696a4f6872d8819ca664a11c21e4d5ae",
+        "action": {
+          "query": "vydání Andreje Babiše ke stíhání jiná kauza než Čapí hnízdo",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "vydání Andreje Babiše ke stíhání jiná kauza než Čapí hnízdo",
+            "Soudca žádal o vydání Babiše v jiné kauze",
+            "Babiš vydán k trestnímu stíhání jiná kauza",
+            "\"vydala ke stíhání\" \"Andrej Babiš\" -\"capi\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a9dd21658154c3b00696a4f70e31c819c886b92582aa9d742",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0a9dd21658154c3b00696a4fcafb00819c8dd202bae4e4c9b1",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1234,
+                "start_index": 1089,
+                "title": "Kauza Čapí hnízdo: policie dostala usnesení o vydání Babiše a Faltýnka - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/z_domova/babise-a-faltynek-policie-dostala-usneseni-o-jejich-vydani-ke-stihani-20170913.html?utm_source=openai"
+              },
+              {
+                "end_index": 1525,
+                "start_index": 1372,
+                "title": "Sněmovna vydala Babiše a Faltýnka k trestnímu stíhání. Poslanci ANO opustili sál | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/volby/volby-2017/snemovna-vydala-babise-a-faltynka-k-trestnimu-stihani-poslanci-ano-opustili-sal-1337049?utm_source=openai"
+              },
+              {
+                "end_index": 2150,
+                "start_index": 2052,
+                "title": "PČR, PS 2017-2021, 6. schůze, část 70 (19. 1. 2018)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2017ps/stenprot/006schuz/bqbs/b07004001.htm?utm_source=openai"
+              },
+              {
+                "end_index": 2437,
+                "start_index": 2339,
+                "title": "PČR, PS 2017-2021, 6. schůze, část 70 (19. 1. 2018)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2017ps/stenprot/006schuz/bqbs/b07004001.htm?utm_source=openai"
+              },
+              {
+                "end_index": 3058,
+                "start_index": 2960,
+                "title": "PČR, PS 2021-..., 9. schůze, část 208 (3. 3. 2022)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2021ps/stenprot/009schuz/bqbs/b20810701.htm?utm_source=openai"
+              },
+              {
+                "end_index": 3409,
+                "start_index": 3286,
+                "title": "Poslanci schválili vydání Andreje Babiše k trestnímu stíhání | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/456179-poslanci-schvalili-vydani-andreje-babise-k-trestnimu-stihani"
+              },
+              {
+                "end_index": 3802,
+                "start_index": 3689,
+                "title": "Vydání Babiše ke stíhání za Čapí hnízdo: Na co musí soud počkat? - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/10/kdy-muze-byt-babis-vydan-ke-stihani/?utm_source=openai"
+              },
+              {
+                "end_index": 4152,
+                "start_index": 3979,
+                "title": "O vydanie Babiša, ktorý získal imunitu, môže súd požiadať až po zverejnení výsledkov volieb v zbierke",
+                "type": "url_citation",
+                "url": "https://www.noviny.sk/zahranicie/1115490-o-vydanie-babisa-ktory-ziskal-imunitu-moze-sud-poziadat-az-po-zverejneni-vysledkov-volieb-v-zbierke?utm_source=openai"
+              },
+              {
+                "end_index": 4406,
+                "start_index": 4266,
+                "title": "Soud požádal Sněmovnu o vydání Babiše v kaue Čapí hnízdo - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/zpravy/domaci/andrej-babis-zadost-snemovna-vydani-capi-hnizdo.A251009_130014_domaci_aoc?utm_source=openai"
+              },
+              {
+                "end_index": 4702,
+                "start_index": 4534,
+                "title": "▶ Většina obyvatel se přiklání k Babišovu vydání ke stíhání, ukázal průzkum — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vetsina-obyvatel-se-priklani-k-babisovu-vydani-ke-stihani-ukazal-pruzkum-365991?utm_source=openai"
+              },
+              {
+                "end_index": 5809,
+                "start_index": 5637,
+                "title": "Záznam: Soud Babiše i Nagyovou zprostil obžaloby v kauze Čapí hnízdo - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/domaci/zive-verdikt-mestskeho-soudu-v-praze-ohledne-kauzy-capi-hniz/r~e57921c28dcc11ed82b7ac1f6b220ee8/?utm_source=openai"
+              },
+              {
+                "end_index": 6132,
+                "start_index": 5945,
+                "title": "▶ Soud zprostil Babiše obžaloby v kauze Čapí hnízdo. Máme nezávislou justici, reagoval expremiér — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/soud-zprostil-babise-obzaloby-v-kauze-capi-hnizdo-mame-nezavislou-justici-reagoval-expremier-11890?utm_source=openai"
+              },
+              {
+                "end_index": 6458,
+                "start_index": 6294,
+                "title": "Soud Babiše zprostil obžaloby v kauze Čapí hnízdo, expremiér ocenil nezávislost justice - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2023/01/soud-babise-zprostil-obzaloby-v-kauze-capi-hnizdo-expremier-ocenil-nezavislost-justice/?utm_source=openai"
+              },
+              {
+                "end_index": 7015,
+                "start_index": 6873,
+                "title": "Kauza Čapí hnízdo: Odvolací soud zrušil rozsudek | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/domaci/soud-zrusil-rozsudek-v-kauze-capi-hnizdo-je-to-absurdni-a-nekonecne-rika-babis-1411658?utm_source=openai"
+              },
+              {
+                "end_index": 7309,
+                "start_index": 7147,
+                "title": "Odvolací soud vysvětlil, proč zrušil osvobozující verdikt nad Babišem - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-odvolaci-soud-vysvetlil-proc-zrusil-osvobozujici-verdikt-nad-babisem-239905?utm_source=openai"
+              },
+              {
+                "end_index": 7918,
+                "start_index": 7746,
+                "title": "Soud opět zprostil Babiše a Nagyovou obžaloby v kauze Čapí hnízdo - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/domaci/capi-hnizdo-jsem-vzdy-zamyslel-jako-rodinny-podnik-rekl-babi/r~7f97cda0cb1911eeaf28ac1f6b220ee8/?utm_source=openai"
+              },
+              {
+                "end_index": 8274,
+                "start_index": 8121,
+                "title": "Státní zástupce se odvolal proti zprošťujícímu rozsudku v kauze Čapí hnízdo - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2024/04/statni-zastupce-se-odvolal-proti-zprostujicimu-rozsudku-v-kauze-capi-hnizdo/?utm_source=openai"
+              },
+              {
+                "end_index": 8579,
+                "start_index": 8407,
+                "title": "Žalobce se odvolal proti osvobozujícímu rozsudku v kauze Čapí hnízdo — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/statni-zastupce-se-odvolal-proti-osvobozujicimu-rozsudku-v-kauze-capi-hnizdo-348132?utm_source=openai"
+              },
+              {
+                "end_index": 9055,
+                "start_index": 8883,
+                "title": "Žalobce se odvolal proti osvobozujícímu rozsudku v kauze Čapí hnízdo — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/statni-zastupce-se-odvolal-proti-osvobozujicimu-rozsudku-v-kauze-capi-hnizdo-348132?utm_source=openai"
+              },
+              {
+                "end_index": 9501,
+                "start_index": 9392,
+                "title": "Kauza Čapí hnízdo se vrací o patro níže. Soud zrušil osvobozující rozsudek - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/krimi/capi-hnizdo-vrchni-soud-andrej-babis-20250623.html?utm_source=openai"
+              },
+              {
+                "end_index": 9877,
+                "start_index": 9747,
+                "title": "Soud zrušil osvobození Babiše i Nagyové v kauze Čapí hnízdo | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/clanek/domaci/soud-zrusil-osvobozeni-babise-i-nagyove-v-kauze-capi-hnizdo-1425468?utm_source=openai"
+              },
+              {
+                "end_index": 10206,
+                "start_index": 10080,
+                "title": "Kauza Čapí hnízdo se vrací k městskému soudu | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/618840-kauza-capi-hnizdo-miri-zpet-k-mestskemu-soudu?utm_source=openai"
+              },
+              {
+                "end_index": 10755,
+                "start_index": 10591,
+                "title": "Soud Babiše zprostil obžaloby v kauze Čapí hnízdo, expremiér ocenil nezávislost justice - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2023/01/soud-babise-zprostil-obzaloby-v-kauze-capi-hnizdo-expremier-ocenil-nezavislost-justice/?utm_source=openai"
+              },
+              {
+                "end_index": 11034,
+                "start_index": 10892,
+                "title": "Kauza Čapí hnízdo: Odvolací soud zrušil rozsudek | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/domaci/soud-zrusil-rozsudek-v-kauze-capi-hnizdo-je-to-absurdni-a-nekonecne-rika-babis-1411658?utm_source=openai"
+              },
+              {
+                "end_index": 11777,
+                "start_index": 11632,
+                "title": "Kauza Čapí hnízdo: policie dostala usnesení o vydání Babiše a Faltýnka - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/z_domova/babise-a-faltynek-policie-dostala-usneseni-o-jejich-vydani-ke-stihani-20170913.html?utm_source=openai"
+              },
+              {
+                "end_index": 11935,
+                "start_index": 11837,
+                "title": "PČR, PS 2017-2021, 6. schůze, část 70 (19. 1. 2018)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2017ps/stenprot/006schuz/bqbs/b07004001.htm?utm_source=openai"
+              },
+              {
+                "end_index": 12084,
+                "start_index": 11986,
+                "title": "PČR, PS 2021-..., 9. schůze, část 208 (3. 3. 2022)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2021ps/stenprot/009schuz/bqbs/b20810701.htm?utm_source=openai"
+              },
+              {
+                "end_index": 12281,
+                "start_index": 12168,
+                "title": "Vydání Babiše ke stíhání za Čapí hnízdo: Na co musí soud počkat? - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/10/kdy-muze-byt-babis-vydan-ke-stihani/?utm_source=openai"
+              },
+              {
+                "end_index": 12726,
+                "start_index": 12562,
+                "title": "Soud Babiše zprostil obžaloby v kauze Čapí hnízdo, expremiér ocenil nezávislost justice - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2023/01/soud-babise-zprostil-obzaloby-v-kauze-capi-hnizdo-expremier-ocenil-nezavislost-justice/?utm_source=openai"
+              },
+              {
+                "end_index": 13007,
+                "start_index": 12865,
+                "title": "Kauza Čapí hnízdo: Odvolací soud zrušil rozsudek | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/domaci/soud-zrusil-rozsudek-v-kauze-capi-hnizdo-je-to-absurdni-a-nekonecne-rika-babis-1411658?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Shrnutí výroku a jeho možných významů\n\nVýrok Patrika Nachera:  \n**„Andrej Babiš byl vydán dvakrát, dvakrát byl osvobozen.“**\n\nLze jej rozdělit na dvě dílčí tvrzení:\n\n1. **„Byl vydán dvakrát“** – v kontextu debaty o imunitě jde téměř jistě o tvrzení, že **Poslanecká sněmovna dvakrát vyslovila souhlas s jeho trestním stíháním („vydala ho“)**.\n2. **„Dvakrát byl osvobozen“** – v kontextu kauzy Čapí hnízdo jde o tvrzení, že **soud dvakrát rozhodl o jeho nevině (osvobozující / zprošťující rozsudek)**.\n\nNíže jsou obě části ověřeny zvlášť.\n\n---\n\n## 2. Sub‑tvrzení: „Andrej Babiš byl vydán dvakrát“\n\n### 2.1 Chronologie vydání k trestnímu stíhání (Čapí hnízdo)\n\n#### 1) První vydání – 6. 9. 2017\n\n- Poslanecká sněmovna 6. 9. 2017 souhlasila s vydáním poslanců Andreje Babiše a Jaroslava Faltýnka k trestnímu stíhání v souvislosti s dotací na farmu Čapí hnízdo.  \n  - Deník.cz k tomu píše, že **„Poslanecká sněmovna 6. září … rozhodovala o zbavení imunity … Andreje Babiše a Jaroslava Faltýnka“** a že policie **„obdržela sněmovní usnesení o vydání předsedy hnutí ANO Andreje Babiše“**. ([denik.cz](https://www.denik.cz/z_domova/babise-a-faltynek-policie-dostala-usneseni-o-jejich-vydani-ke-stihani-20170913.html?utm_source=openai))  \n  - Podobně E15: **„Poslanecká sněmovna vydala … Babiše a Faltýnka k trestnímu stíhání… v souvislosti s dotační kauzou Čapí hnízdo.“** ([e15.cz](https://www.e15.cz/volby/volby-2017/snemovna-vydala-babise-a-faltynka-k-trestnimu-stihani-poslanci-ano-opustili-sal-1337049?utm_source=openai))  \n\n#### 2) Druhé vydání – 19. 1. 2018 (nově zvolená Sněmovna)\n\nPo volbách 2017 získal Babiš znovu mandát, imunita se obnovila a policie musela žádat znova.\n\n- Stenozáznam Poslanecké sněmovny (6. schůze, 19. 1. 2018) výslovně připomíná, že:  \n  - **„První žádost … byla Poslanecké sněmovně předložena již v sedmém volebním období a Poslanecká sněmovna vyslovila souhlas k trestnímu stíhání obou poslanců dne 6. září 2017. … je pro pokračování trestního stíhání obou poslanců vyžádáno vyslovení souhlasu nově zvolené komory.“** ([psp.cz](https://www.psp.cz/eknih/2017ps/stenprot/006schuz/bqbs/b07004001.htm?utm_source=openai))  \n  - A dále je předčítán návrh usnesení mandátového a imunitního výboru: **„Poslanecká sněmovna … vyslovuje souhlas k trestnímu stíhání poslance Ing. Andreje Babiše…“** (usnesení č. 38). ([psp.cz](https://www.psp.cz/eknih/2017ps/stenprot/006schuz/bqbs/b07004001.htm?utm_source=openai))  \n\nTedy v lednu 2018 nová Sněmovna Babiše **podruhé** formálně vydala k trestnímu stíhání v téže kauze.\n\n#### 3) Třetí vydání – 3. 3. 2022\n\nPo volbách 2021 byl Babiš znovu poslancem; kvůli obnovené imunitě bylo potřeba třetí hlasování.\n\n- Stenoprotokol 9. schůze Sněmovny (3. 3. 2022) uvádí opět návrh usnesení:  \n  - **„Poslanecká sněmovna … vyslovuje souhlas k trestnímu stíhání obviněného poslance Ing. Andreje Babiše…“** ve věci dotačního podvodu a poškození finančních zájmů EU v souvislosti s projektem Čapí hnízdo. ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/009schuz/bqbs/b20810701.htm?utm_source=openai))  \n- Zpravodajství TV Nova o hlasování 3. 3. 2022 shrnuje:  \n  - **„Poslanecká sněmovna … odsouhlasila vydání Andreje Babiše (ANO) k trestnímu stíhání kvůli kauze Čapí hnízdo… Sněmovna se vydáním Babiše zabývala již potřetí…“** ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/456179-poslanci-schvalili-vydani-andreje-babise-k-trestnimu-stihani))  \n\n### 2.2 Souhrnné formulace v pozdějších zdrojích\n\nNěkolik pozdějších (před‑2026) článků přímo shrnuje, kolikrát byl Babiš vydán:\n\n- Česká justice (6. 10. 2025): **„Babiše Sněmovna v minulosti vydala ke stíhání třikrát – v září 2017, v lednu 2018 a naposledy v březnu 2022.“** ([ceska-justice.cz](https://www.ceska-justice.cz/2025/10/kdy-muze-byt-babis-vydan-ke-stihani/?utm_source=openai))  \n- Slovenský server Noviny.sk (přebírá info od ČTK): **„Babiša Snemovňa v minulosti vydala na stíhanie trikrát – v septembri 2017, v januári 2018 a naposledy v marci 2022.“** ([noviny.sk](https://www.noviny.sk/zahranicie/1115490-o-vydanie-babisa-ktory-ziskal-imunitu-moze-sud-poziadat-az-po-zverejneni-vysledkov-volieb-v-zbierke?utm_source=openai))  \n- iDNES.cz při informaci o nové žádosti v říjnu 2025 píše: **„Dolní komora ho už třikrát ke stíhání vydala.“** ([idnes.cz](https://www.idnes.cz/zpravy/domaci/andrej-babis-zadost-snemovna-vydani-capi-hnizdo.A251009_130014_domaci_aoc?utm_source=openai))  \n- ČT24 o téže žádosti: **„Případ pokračuje čtvrté volební období, dolní komora předsedu ANO už třikrát ke stíhání vydala.“** ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/vetsina-obyvatel-se-priklani-k-babisovu-vydani-ke-stihani-ukazal-pruzkum-365991?utm_source=openai))  \n\n### 2.3 Závěr k tvrzení „byl vydán dvakrát“\n\n- **Fakticky doloženo je, že Poslanecká sněmovna vydala Andreje Babiše k trestnímu stíhání v kauze Čapí hnízdo třikrát: 6. 9. 2017, 19. 1. 2018 a 3. 3. 2022.**  \n- Výrok „byl vydán dvakrát“ je tedy v běžném právně‑politickém významu **v rozporu s dostupnými oficiálními i mediálními zdroji**, které uvádějí tři vydání.\n\n---\n\n## 3. Sub‑tvrzení: „dvakrát byl osvobozen“\n\nToto tvrzení se dle kontextu vztahuje ke **kauze Čapí hnízdo**. Je třeba sledovat jednak, zda skutečně došlo ke dvěma osvobozujícím rozsudkům, a jednak, zda byly pravomocné nebo byly později zrušeny.\n\n### 3.1 První osvobozující (nepravomocný) rozsudek – 9. 1. 2023\n\n- Městský soud v Praze 9. 1. 2023 zprostil Andreje Babiše i Janu Nagyovou obžaloby:  \n  - Aktuálně.cz: **„Pražský městský soud nepravomocně osvobodil bývalého premiéra … Andreje Babiše … i jeho někdejší poradkyni Janu Nagyovou v kauze Čapí hnízdo…“** ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/zive-verdikt-mestskeho-soudu-v-praze-ohledne-kauzy-capi-hniz/r~e57921c28dcc11ed82b7ac1f6b220ee8/?utm_source=openai))  \n  - ČT24: **„Pražský městský soud osvobodil … Andreje Babiše … i jeho někdejší poradkyni Janu Nagyovou… Rozsudek není pravomocný…“** ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/soud-zprostil-babise-obzaloby-v-kauze-capi-hnizdo-mame-nezavislou-justici-reagoval-expremier-11890?utm_source=openai))  \n  - Česká justice: **„Pražský městský soud dnes nepravomocně osvobodil … Andreje Babiše … i jeho někdejší poradkyni Janu Nagyovou… Verdikt není pravomocný…“** ([ceska-justice.cz](https://www.ceska-justice.cz/2023/01/soud-babise-zprostil-obzaloby-v-kauze-capi-hnizdo-expremier-ocenil-nezavislost-justice/?utm_source=openai))  \n\n=> 9. ledna 2023 **byl Babiš poprvé (nepravomocně) osvobozen**.\n\n### 3.2 Zrušení prvního osvobozujícího rozsudku odvolacím soudem – podzim 2023\n\n- Vrchní soud v Praze v září 2023 rozhodl o odvolání státního zástupce a **zrušil zprošťující rozsudek**:  \n  - E15 (15. 11. 2023) shrnuje: **„Vrchní soud v Praze zrušil zprošťující rozsudek v kauze Čapí hnízdo… Případem se bude muset městský soud znovu zabývat.“** ([e15.cz](https://www.e15.cz/domaci/soud-zrusil-rozsudek-v-kauze-capi-hnizdo-je-to-absurdni-a-nekonecne-rika-babis-1411658?utm_source=openai))  \n  - Seznam Zprávy popisují rozhodnutí odvolacího soudu, jenž **„zrušil zprošťující nepravomocný rozsudek“** v kauze Čapí hnízdo. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-kauzy-odvolaci-soud-vysvetlil-proc-zrusil-osvobozujici-verdikt-nad-babisem-239905?utm_source=openai))  \n\n=> První osvobozující rozsudek **nikdy nenabyl právní moci** a byl Vrchním soudem zrušen.\n\n### 3.3 Druhý osvobozující (nepravomocný) rozsudek – 14. 2. 2024\n\nPo vrácení věci Městskému soudu v Praze došlo k novému hlavnímu líčení a druhému osvobozujícímu verdiktu:\n\n- Aktuálně.cz (14. 2. 2024):  \n  - **„Pražský městský soud znovu nepravomocně osvobodil … Andreje Babiše i jeho někdejší poradkyni Janu Nagyovou v kauze Čapí hnízdo…“** ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/capi-hnizdo-jsem-vzdy-zamyslel-jako-rodinny-podnik-rekl-babi/r~7f97cda0cb1911eeaf28ac1f6b220ee8/?utm_source=openai))  \n- Česká justice (12. 4. 2024) ve zprávě o odvolání žalobce výslovně uvádí, že soud:  \n  - **„v polovině února podruhé nepravomocně osvobodil … Andreje Babiše a … Janu Nagyovou v kauze Čapí hnízdo.“** ([ceska-justice.cz](https://www.ceska-justice.cz/2024/04/statni-zastupce-se-odvolal-proti-zprostujicimu-rozsudku-v-kauze-capi-hnizdo/?utm_source=openai))  \n- ČT24 píše totéž: žalobce se odvolal **„proti osvobozujícímu rozsudku… Soud oba podruhé nepravomocně osvobodil letos v únoru.“** ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/statni-zastupce-se-odvolal-proti-osvobozujicimu-rozsudku-v-kauze-capi-hnizdo-348132?utm_source=openai))  \n\n=> 14. února 2024 **byl Babiš podruhé (nepravomocně) osvobozen** v téže kauze.\n\n### 3.4 Odvolání státního zástupce a druhé zrušení osvobozujícího rozsudku – 2024–2025\n\n- 12. 4. 2024 státní zástupce Jaroslav Šaroch podal odvolání „v neprospěch“ Babiše a Nagyové proti druhému osvobozujícímu rozsudku. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/statni-zastupce-se-odvolal-proti-osvobozujicimu-rozsudku-v-kauze-capi-hnizdo-348132?utm_source=openai))  \n- 23. 6. 2025 Vrchní soud v Praze i tento druhý osvobozující rozsudek zrušil a věc znovu vrátil Městskému soudu:  \n  - Deník.cz: **„Odvolací senát zrušil rozsudek, kterým nižší soud loni v únoru osvobodil … Andreje Babiše… Odvolací soud se kauzou zabýval podruhé, i na podzim roku 2023 zprošťující rozsudek městského soudu zrušil.“** ([denik.cz](https://www.denik.cz/krimi/capi-hnizdo-vrchni-soud-andrej-babis-20250623.html?utm_source=openai))  \n  - E15 uvádí totéž: odvolací senát **„zrušil rozsudek, kterým nižší soud loni v únoru osvobodil předsedu hnutí ANO Andreje Babiše… Odvolací soud se kauzou zabýval podruhé, i na podzim roku 2023 zprošťující rozsudek městského soudu zrušil.“** ([e15.cz](https://www.e15.cz/clanek/domaci/soud-zrusil-osvobozeni-babise-i-nagyove-v-kauze-capi-hnizdo-1425468?utm_source=openai))  \n  - TN.cz shrnuje, že Vrchní soud **„zrušil rozsudek osvobozující … Babiše a … Nagyovou… Odvolací soud se kauzou zabýval podruhé. I na podzim roku 2023 zprošťující rozsudek městského soudu zrušil.“** ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/618840-kauza-capi-hnizdo-miri-zpet-k-mestskemu-soudu?utm_source=openai))  \n\n=> Ani druhý osvobozující rozsudek **nenabyl právní moci** a byl nejpozději v červnu 2025 zrušen. Kauza se znovu vrátila k Městskému soudu a k 13. 1. 2026 stále není pravomocně skončena.\n\n### 3.5 Závěr k tvrzení „dvakrát byl osvobozen“\n\n- **Fakticky:**\n  - Andrej Babiš byl v kauze Čapí hnízdo **dvakrát nepravomocně osvobozen** Městským soudem v Praze (9. 1. 2023 a 14. 2. 2024). ([ceska-justice.cz](https://www.ceska-justice.cz/2023/01/soud-babise-zprostil-obzaloby-v-kauze-capi-hnizdo-expremier-ocenil-nezavislost-justice/?utm_source=openai))  \n  - Oba tyto osvobozující rozsudky ale byly **následně zrušeny Vrchním soudem v Praze** (poprvé na podzim 2023, podruhé 23. 6. 2025). ([e15.cz](https://www.e15.cz/domaci/soud-zrusil-rozsudek-v-kauze-capi-hnizdo-je-to-absurdni-a-nekonecne-rika-babis-1411658?utm_source=openai))  \n- **Právní stav k 13. 1. 2026:**  \n  - V kauze **neexistuje pravomocný osvobozující rozsudek** – probíhá další kolo řízení u Městského soudu.\n\nZ hlediska čistého popisu procesního průběhu tedy tvrzení, že „dvakrát byl osvobozen“, odpovídá skutečnosti **jen v tom smyslu, že dvakrát padl nepravomocný osvobozující rozsudek**, ale zamlčuje, že **oba byly nadřízeným soudem zrušeny** a právně neplatí.\n\n---\n\n## 4. Souhrn zjištění k celému výroku\n\n**Sub‑tvrzení 1 – „Andrej Babiš byl vydán dvakrát“**\n\n- Prokazatelná vydání Poslaneckou sněmovnou v kauze Čapí hnízdo:\n  1. 6. 9. 2017 – první vydání. ([denik.cz](https://www.denik.cz/z_domova/babise-a-faltynek-policie-dostala-usneseni-o-jejich-vydani-ke-stihani-20170913.html?utm_source=openai))  \n  2. 19. 1. 2018 – druhé vydání nově zvolenou Sněmovnou. ([psp.cz](https://www.psp.cz/eknih/2017ps/stenprot/006schuz/bqbs/b07004001.htm?utm_source=openai))  \n  3. 3. 3. 2022 – třetí vydání po volbách 2021. ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/009schuz/bqbs/b20810701.htm?utm_source=openai))  \n- Více souhrnných zdrojů z roku 2024–2025 uvádí, že Babiš byl vydán **třikrát**. ([ceska-justice.cz](https://www.ceska-justice.cz/2025/10/kdy-muze-byt-babis-vydan-ke-stihani/?utm_source=openai))  \n\n**Závěr:**  \nPodle dostupných oficiálních i mediálních zdrojů je počet vydání **tři, nikoli dva**.\n\n---\n\n**Sub‑tvrzení 2 – „dvakrát byl osvobozen“**\n\n- Městský soud v Praze **dvakrát nepravomocně** zprostil Andreje Babiše obžaloby v kauze Čapí hnízdo (leden 2023 a únor 2024). ([ceska-justice.cz](https://www.ceska-justice.cz/2023/01/soud-babise-zprostil-obzaloby-v-kauze-capi-hnizdo-expremier-ocenil-nezavislost-justice/?utm_source=openai))  \n- Vrchní soud v Praze oba osvobozující rozsudky **zrušil** (poprvé v roce 2023, podruhé 23. 6. 2025) a věc vždy vrátil Městskému soudu. ([e15.cz](https://www.e15.cz/domaci/soud-zrusil-rozsudek-v-kauze-capi-hnizdo-je-to-absurdni-a-nekonecne-rika-babis-1411658?utm_source=openai))  \n\n**Závěr:**  \n- Ve smyslu „kolikrát soud vynesl osvobozující verdikt“ je tvrzení **věcně přesné (dvakrát)**, ale **podstatně neúplné a zavádějící**, protože neuvádí, že:\n  - oba rozsudky byly **nepravomocné**, a  \n  - oba byly **Vrchním soudem zrušeny** a kauza se nadále projednává.\n\n---\n\n### Celkové zhodnocení výroku\n\n- Část o **počtu vydání („dvakrát“) je v rozporu s doloženými fakty** – Sněmovna Babiše vydala ke stíhání v kauze Čapí hnízdo třikrát.  \n- Část o **dvou osvobozujících rozsudcích odpovídá procesní historii kauzy (dvě nepravomocná osvobození), ale opomíjí klíčovou informaci, že oba rozsudky byly zrušeny** a že k 13. 1. 2026 neexistuje pravomocný osvobozující verdikt.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 73861,
+      "input_tokens_details": {
+        "cached_tokens": 4736
+      },
+      "output_tokens": 20198,
+      "output_tokens_details": {
+        "reasoning_tokens": 15860
+      },
+      "total_tokens": 94059
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1768574980,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

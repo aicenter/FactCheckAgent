@@ -1,0 +1,783 @@
+{
+  "claim_id": "24545",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20260116_143820",
+  "source_md": "experiments/gpt-5.1h_20260116_143820/brief_fact_check_id24545.md",
+  "fact_check": "# Fact Check for Statement ID 24545\n\n## Statement\n(...) u odsouzení hejtmana Půty, kde v části byl odsouzen, v části osvobozen, tak, byť je to nepravomocné, tak kolegové z koalice se vymlouvali, že ta spravedlnost se tam hledá deset let a že už je to nefér.\n\n---\n## OpenAI Deep Research Fact Check\n## 1. Shrnutí hodnocení tvrzení\n\nHodnocené tvrzení (zkráceně):  \n„…u odsouzení hejtmana Půty, kde v části byl odsouzen, v části osvobozen, byť je to nepravomocné, se kolegové z koalice vymlouvali, že se tam spravedlnost hledá deset let a že už je to nefér.“\n\n**Závěr po rozkladu na dílčí tvrzení:**\n\n1. **Existence nepravomocného rozsudku, v němž je hejtman Půta v části odsouzen a v části osvobozen – PODLOŽENO (pravdivé).**  \n2. **Délka kauzy cca 10 let („spravedlnost se tam hledá deset let“) – PODLOŽENO (pravdivé).**  \n3. **Že právě „kolegové z koalice“ používají délku řízení (~10 let) jako argument v komunikaci o Půtově případu – ČÁSTEČNĚ PODLOŽENO.**  \n   - Najdeme výroky politiků ze STAN/SLK, kteří zdůrazňují, že se případ „táhne deset let“, a staví se přitom za Půtu.  \n4. **Konkrétní formulace, že koaliční kolegové říkali, že je to „už nefér“ – NEPODAŘILO SE DOLOŽIT.**  \n   - V dostupných veřejných zdrojích jsem nenašel přímý citát představitelů koalice, kde by u Půtovy kauzy použili výraz „nefér“ či zcela obdobnou formulaci; jde spíše o hodnotící interpretaci Patrika Nachera.\n\nNíže jsou podrobné podklady pro jednotlivé dílčí body.\n\n---\n\n## 2. Kontext: kauza hejtmana Martina Půty\n\n- Kauza se týká dvou dotačních projektů společnosti GEPO v Liberci z let 2012–2014, zhruba za 100 mil. Kč, financovaných z evropských fondů.([novinky.cz](https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977))  \n- Policie obvinila hejtmana Martina Půtu v listopadu 2014.([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n- Hlavní líčení u krajského soudu v Liberci začalo v roce 2018.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n- V květnu 2020 byl Půta i ostatní obžalovaní krajským soudem poprvé zproštěn viny, vrchní soud však v listopadu 2020 osvobozující rozsudek zrušil a věc vrátil.  \n- Dne 5. 2. 2025 byl Půta v části obžaloby nepravomocně uznán vinným a v hlavní části obžaloby zproštěn; proti odsuzující části se odvolal.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n\n---\n\n## 3. Dílčí tvrzení 1: „…u odsouzení hejtmana Půty, kde v části byl odsouzen, v části osvobozen… byť je to nepravomocné“\n\n### 3.1 Co je třeba ověřit\n\na) Zda skutečně existuje **nepravomocný rozsudek**, který:  \n- Půtu **v části obžaloby uznává vinným (odsuzuje)**;  \n- a v **jiné části obžaloby jej zprošťuje (osvobozuje)**.\n\nb) Zda tento stav platil v době výroku (leden 2026).\n\n### 3.2 Důkazy\n\n**České noviny / ČTK – 5. 2. 2025**\n\nČTK popisuje rozsudek Krajského soudu v Liberci takto:\n\n- „Roční podmíněný trest … dnes uložil Krajský soud v Liberci libereckému hejtmanovi Martinu Půtovi … v korupční kauze, která se táhne přes deset let. **Půty se týkala jen menší část kauzy. Soud ho uznal částečně vinným. Odsouzen byl za to, že formou protislužby přijal úplatek 30 000 korun a jednal ve prospěch svého známého.**“([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n- „**V hlavní části kauzy … soud považuje za neprokázané, že by Půtu upláceli pracovníci Metrostavu 800 000 korunami.**“([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n- „Půta se odvolal… Jestli po dnešním **nepravomocném rozsudku** odstoupí z funkcí, nekomentoval.“([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n\n**CNN Prima – 7. 2. 2025**\n\n- „Liberecký hejtman Martin Půta …, **kterého soud ve středu nepravomocně uznal částečně vinným v korupční kauze**, nebude kandidovat v letošních sněmovních volbách.“([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n- „Soud ho tento týden **uznal částečně vinným. Nepravomocně odsouzen byl pouze za to, že formou protislužby přijal úplatek 30 tisíc korun a jednal ve prospěch svého známého.** … **V hlavní části kauzy … soud považuje za neprokázané, že by Půtu upláceli pracovníci Metrostavu 800 tisíci korunami.**“([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n\n**Genus / ČTK – 5. 1. 2026**\n\n- „**Půta byl před 11 měsíci nepravomocně odsouzen v části korupční kauzy** spojené se dvěma projekty firmy GEPO…“([genus.cz](https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm))  \n- „Ten loni 5. února **uznal Půtu částečně vinným** ze zneužití pravomoci úřední osoby a přijetí úplatku…“([genus.cz](https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm))  \n- „V korupční kauze byl obžalován i z přijetí úplatku 800 000 korun, **důkazy pro to ale podle soudu nejsou.**“([genus.cz](https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm))  \n\n### 3.3 Hodnocení\n\n- Z více nezávislých zpravodajských zdrojů (ČTK, CNN Prima, Genus) je jasné, že:\n  - Krajský soud v Liberci dne 5. 2. 2025 **nepravomocně** uložil Půtovi podmíněný trest a pokutu **za část obžaloby (30 000 Kč jako úplatek formou protislužby)**;  \n  - V hlavní části obžaloby (údajný úplatek 800 000 Kč) byl Půta **zproštěn** – soud konstatoval, že důkazy pro tuto část nejsou.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n- K 5. 1. 2026 (těsně před rozhovorem z 13. 1. 2026) byl rozsudek stále označován jako **nepravomocný** a Půta čekal na písemné vyhotovení kvůli odvolání.([genus.cz](https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm))  \n\n**To přesně odpovídá výroku Patrika Nachera („v části byl odsouzen, v části osvobozen, byť je to nepravomocné“). Tato část tvrzení je dobře doložená a fakticky správná.**\n\n---\n\n## 4. Dílčí tvrzení 2: „…spravedlnost se tam hledá deset let“\n\n### 4.1 Co je třeba ověřit\n\n- Zda trestní řízení (resp. „hledání spravedlnosti“) v Půtově kauze trvá zhruba **deset let** – v době, kdy o tom Nacher mluvil (leden 2026).\n\n### 4.2 Důkazy o délce řízení\n\n**Začátek kauzy / obvinění**\n\n- „Policie Půtu obvinila v listopadu 2014.“([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n- Novinky (říjen 2024) píší: „…Krajský soud v Liberci … začal znovu kauzu projednávat… **Obviněn byl Půta přesně před deseti lety.**“([novinky.cz](https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977))  \n\n**Tvrzení o desetiletém trvání**\n\n- ČTK (při rozsudku 5. 2. 2025): „Roční podmíněný trest… dnes uložil… v korupční kauze, **která se táhne přes deset let.**“([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n- CNN Prima (7. 2. 2025): rubrika „Kauza se táhne přes 10 let“ + text:  \n  - „Půta v pátek uvedl, že hlavní důsledky pro celostátní politiku vyvodil hned na začátku své kauzy, **která trvá déle než deset let.**“([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n\n**Další potvrzení z roku 2024**\n\n- Novinky – říjen 2024: již v titulku „**Deset let trvající kauza hejtmana Půty** opět před soudem…“; v textu: „Obviněn byl Půta přesně před deseti lety.“([novinky.cz](https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977))  \n- Náš Liberec a další regionální média opakovaně charakterizují Půtovu kauzu jako řízení, které trvá „deset let“.([nasliberec.cz](https://www.nasliberec.cz/2025/02/15/hejtmanova-korupcni-kauza-jak-to-bylo-jak-to-je/?utm_source=openai))  \n\n**Půta sám o délce řízení**\n\n- V reakci na odkládání jednání (září 2024) Půta na síti X napsal:  \n  - „…Kdyby nebyly záplavy, tak bych se tomu **po deseti letech trvání případu** snad i zasmál… Spravedlnost v Česku fakt není úplně rychlá.“  \n\n### 4.3 Hodnocení\n\n- Od obvinění v listopadu 2014 do nepravomocného rozsudku v únoru 2025 uplynulo více než 10 let (počítáme-li od skutkového základu 2012–2014, pak dokonce ještě déle).([novinky.cz](https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977))  \n- Jak média, tak sám Půta i další komentátoři mluví explicitně o **„deset let trvající“** nebo „přes deset let trvající“ kauze.\n\n**Formulace Patrika Nachera, že „spravedlnost se tam hledá deset let“, dobře odpovídá doložené délce řízení. Tato část tvrzení je fakticky správná.**\n\n---\n\n## 5. Dílčí tvrzení 3: „…kolegové z koalice se vymlouvali, že ta spravedlnost se tam hledá deset let a že už je to nefér.“\n\nToto tvrzení má několik vrstev:\n\n1. **Že „kolegové z koalice“ (tj. vládní koalice / STAN a další koaliční strany) používají argument délky řízení (~10 let) v souvislosti s Půtovou kauzou.**  \n2. **Že tento argument používají ve smyslu „obhajoby“ Půty (Nacher to hodnotí slovem „vymlouvali se“).**  \n3. **Že výslovně říkali, že je to „už nefér“.**\n\n### 5.1 Používání argumentu „trvá to deset let“ koaličními politiky\n\n**Reakce STAN / SLK po rozsudku – Seznam Zprávy (5. 2. 2025)**\n\nČlánek shrnuje vyjádření představitelů STAN a Starostů pro Liberecký kraj:\n\n- Mluvčí STAN Sára Beránková:  \n  - „Rozhodnutí soudu nás mrzí… **předpokládáme, že se proti rozsudku odvolá, a věříme, že svou nevinu nakonec prokáže.** Jaké budou teď jeho další kroky coby hejtmana, nebudeme komentovat, je to rozhodnutí, které musí udělat on sám.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n- Poslanec Jan Berki (SLK) a poslanec Petr Gazdík (STAN):  \n  - „Oba se **pozastavují nad tím, že se případ táhne již deset let.**“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n\nZde jsou tedy **dva poslanci z koaličního tábora (SLK/STAN)**, kteří ve veřejném vyjádření přímo zmiňují, že se Půtova kauza „táhne už deset let“, a zároveň dávají najevo podporu Půtovi (věří v jeho nevinu, nevyzývají k rezignaci).\n\n**Oficiální vyjádření hnutí STAN – CNN Prima (5. 2. 2025)**\n\n- „Starostové proto věří, že **Půta v kauze, která se táhne více než deset let, nakonec prokáže úplnou nevinu.**“([cnn.iprima.cz](https://cnn.iprima.cz/stojim-za-tebou-martine-starostove-veri-v-nevinu-puty-nic-se-nedeje-burcuje-havlicek-465243))  \n\nI zde se **přímo z úst vládní koaliční strany (STAN)** pracuje s motivem **„více než deset let trvající kauzy“** v kombinaci s vírou v Půtovu nevinu.\n\n### 5.2 Slovo „vymlouvali se“ – jde o hodnotící interpretaci\n\n- Nachází se v původním tvrzení („se vymlouvali“). To je **hodnotící označení motivů koaličních politiků**, nikoli ověřitelný fakt.  \n- Ve zdrojích vidíme, že:\n  - STAN i SLK **výrazně vyzdvihují délku řízení (~10 let) a přitom vyjadřují podporu Půtovi a víru v jeho nevinu**;([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n  - nezaznamenal jsem ale výroky, kde by sami sebe rámovali jako „vymlouvající se“. To je interpretace Patrika Nachera.\n\nZ pohledu fact-checkingu tedy:\n\n- **Fakt:** Koaliční politici (zejména ze STAN/SLK) opakovaně upozorňovali, že se Půtova kauza táhne cca deset let, a zároveň to používali v kontextu argumentace, proč Půta nemusí okamžitě politicky končit (presumpce neviny, čekání na odvolací soud apod.).([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n- **Hodnocení („vymlouvali se“):** to je politický komentář Nachera, který nelze jako fakt pravdivosti či nepravdivosti ověřit.\n\n### 5.3 „…že už je to nefér“ – existuje takový výrok?\n\nV dostupných zdrojích jsem hledal, zda někdo z představitelů vládní koalice v souvislosti s Půtovou kauzou řekl explicitně, že:\n\n- je **„nefér“**, že kauza trvá tak dlouho, nebo  \n- že je **„nefér“** vůči Půtovi, aby byl po tak dlouhé době řešen atd.\n\nVýsledek:\n\n- Našel jsem **řadu výroků o tom, že kauza trvá deset a více let a že justice je pomalá**, včetně ostrých formulací typu „Spravedlnost v Česku fakt není úplně rychlá.“ – to je ovšem **vyjádření samotného Půty**, nikoli jeho „kolegy z koalice“.  \n- Novinové komentáře (např. Seznam Zprávy, HlídacíPes) hodnotí délku kauzy jako selhání justice, ale to nejsou výroky politiků vládní koalice.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-politika-komentar-pripad-hejtmana-puty-je-obzalobou-politiky-i-justice-269462?utm_source=openai))  \n- **Nenalezl jsem přímý citát koaličního politika**, kde by u Půtovy kauzy použil výraz „nefér“ (ani zcela jednoznačný synonymní obrat) v souvislosti s těmi „deseti lety“.\n\nProto lze říci:\n\n- **Doložitelné je**, že koaliční politici (především ze STAN, resp. jejich liberecký partner SLK) používají **délku řízení (~10 let)** jako důležitý argument v komunikaci o Půtově případu a jeho politickém osudu.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n- **Není doložen konkrétní výrok**, kde by některý z nich explicitně řekl, že je to „už nefér“. To vypadá jako zkratka / interpretace Patrika Nachera, která rétoricky vystihuje jeho názor na tuto argumentaci, ale není přímo citací.\n\n### 5.4 Hodnocení této části tvrzení\n\n- **Faktická jádra:**\n  - *„…kolegové z koalice…“* – ANO: politici z vládní koalice (STAN, resp. SLK jako jejich partner) veřejně komentují Půtovu kauzu.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n  - *„…spravedlnost se tam hledá deset let…“* – ANO: samotní koaliční politici a jejich mluvčí explicitně zmiňují, že se Půtova kauza „táhne již deset let“ či „více než deset let“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n- **Sporné / nedoložené:**\n  - *„se vymlouvali“* – jde o subjektivní hodnocení motivů, nelze fakticky ověřit.  \n  - *„že už je to nefér“* – nenalezen přímý výrok koaličního politika v tomto znění nebo zjevně ekvivalentním slovníku.\n\n**Celkově:**  \n– Je **fakticky správné**, že Půtova kauza trvá přibližně deset let a že politici z vládní koalice (zejména STAN/SLK) tuto délku sami v mediálních vyjádřeních zdůrazňují a zároveň Půtu politicky brání.  \n– Čistě fakticky **nelze doložit**, že by ve veřejných vyjádřeních explicitně říkali „už je to nefér“; tato formulace se jeví jako politická interpretace Patrika Nachera.\n\n---\n\n## 6. Přehled hlavních zdrojů (výběr)\n\n*(uvedeny jak oficiální citace, tak odkazy pro rychlou kontrolu)*\n\n1. **ČTK / České noviny – „Soud uznal Půtu částečně vinným v korupční kauze, hejtman se odvolal“ (5. 2. 2025)**  \n   - Nepravomocný rozsudek, částečné odsouzení a částečné zproštění; délka kauzy „přes deset let“.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n   - https://www.ceskenoviny.cz/zpravy/2616790  \n\n2. **CNN Prima – „Hejtman Půta nebude kandidovat ve sněmovních volbách…“ (7. 2. 2025)**  \n   - Popis částečného odsouzení a zproštění, délka kauzy „déle než deset let“, policie ho obvinila v listopadu 2014.([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n   - https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563  \n\n3. **Genus / ČTK – „V korupční kauze, v níž byl odsouzen i hejtman Půta…“ (5. 1. 2026)**  \n   - Potvrzení, že Půta byl 5. 2. 2025 **nepravomocně odsouzen v části kauzy**, v jiné části (800 000 Kč) soud důkazy neshledal.([genus.cz](https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm))  \n   - https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm  \n\n4. **Novinky – „Deset let trvající kauza hejtmana Půty opět před soudem…“ (7. 10. 2024)**  \n   - Titulkové označení „Deset let trvající kauza“, potvrzení, že Půta byl obviněn „přesně před deseti lety“.([novinky.cz](https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977))  \n   - https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977  \n\n5. **Seznam Zprávy – „Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest“ (5. 2. 2025)**  \n   - Reakce STAN/SLK, víra v Půtovu nevinu. Poslanci Berki a Gazdík se „pozastavují nad tím, že se případ táhne již deset let“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n   - https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427  \n\n6. **CNN Prima – „Starostové věří v Půtovu nevinu…“ (5. 2. 2025)**  \n   - Oficiální vyjádření STAN: víra v Půtovu „úplnou nevinu“ v kauze, „která se táhne více než deset let“.([cnn.iprima.cz](https://cnn.iprima.cz/stojim-za-tebou-martine-starostove-veri-v-nevinu-puty-nic-se-nedeje-burcuje-havlicek-465243))  \n   - https://cnn.iprima.cz/stojim-za-tebou-martine-starostove-veri-v-nevinu-puty-nic-se-nedeje-burcuje-havlicek-465243  \n\n7. **Genus / Česká justice / Drbna – zrušení jednání v září 2024**  \n   - Citace Půty: „po deseti letech trvání případu… Spravedlnost v Česku fakt není úplně rychlá.“  \n   - Např. https://genus.cz/Liberec/liberecky-soud-zrusil-liceni-v-kauze-kde-je-obzalovan-i-hejtman-puta-vcas-nevyrozumel-zalobce-jednani-bude-v-rijnu-n609715.htm  \n\n---\n\n### 7. Celkové shrnutí\n\n- **Objektivně ověřitelné části Nacherova tvrzení (nepravomocný částečný rozsudek, desetileté trvání kauzy) jsou fakticky správné a dobře doložené.**  \n- **Je rovněž doložitelné**, že někteří představitelé koaličních stran (zejména STAN/SLK) **explicitně zdůrazňují, že se Půtova kauza „táhne již deset let“** a současně veřejně stojí za Půtou a jeho tvrzenou nevinou.  \n- **Není však doložen konkrétní výrok koaličního politika ve znění „už je to nefér“**; tuto formulaci je vhodné chápat jako **politickou interpretaci** Patrika Nachera, nikoli jako doslovnou citaci z ověřitelných veřejných vyjádření.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Pro a proti released on 2026-01-13 available from https://plus.rozhlas.cz/debata-o-okamurovi-bude-zajimavejsi-nez-hlasovani-o-duvere-mini-benda-nacher-na-9588540.\\n\\n\\nThe claim was made by: Patrik Nacher, Místopředseda Poslanecké sněmovny\\n\\n\\nThe claim appears in the following immediate context in the source:\\nPardon, omlouvám se, já jsem jenom se chtěl zeptat, jak souvisí to, že to předtím bylo za vlády, kde bylo hnutí ANO, jak to souvisí...\\n00:16:35\\nMarek Benda,předseda poslaneckého klubu /ODS/\\nJenom, že jste tady vykládal, jak ta policie přišla měsíc před volbama, že má všechno připravené, já jsem říkal, nebylo to na ničí objednávku, byla to vláda, ve které jste vy seděli.\\n00:16:46\\nLukáš Matoška,moderátor\\nTak, pane Nachere, teď už tomu rozumíte, jak to bylo myšleno?\\n00:16:48\\nPatrik Nacher,\\nposlanec, místopředseda Poslanecké sněmovny /ANO/\\nAno, ale já, to je přesně vidět, jak se jednotliví lidi koukají na tu věc, to teďka tady přece Marek Benda si trochu do toho naběhl, že vlastně naznačil, že když někdo vládne, tak má jako pod kontrolou policii, a tudíž tam může být nějaký politický zájem. Já jsem to prostě řekl, padni komu padni, a bylo mi v té chvíli úplně jedno, že ve vládě bylo hnutí ANO, jenom jsem tady zrekapituloval, že tehdy se na to hrozně spěchalo, že to bylo měsíc před volbami, nemohlo se s tím počkat, takže to ovlivnilo tu volební kampaň, aby nakonec jsme se s tím tady jaksi hašteřili ještě dalších 8 let. A jenom jsem chtěl připomenout, a na to kolega nereagoval, že u odsouzení hejtmana Půty, kde v části byl odsouzen, v části osvobozen, tak, byť je to nepravomocné, tak kolegové z koalice se vymlouvali, že ta spravedlnost se tam hledá 10 let a že už je to nefér. Proč to samé neplatí i tady?\\n00:17:54\\nLukáš Matoška,moderátor\\n\\nProvide a structured, citation-backed verification of the claim: '(...) u odsouzení hejtmana Půty, kde v části byl odsouzen, v části osvobozen, tak, byť je to nepravomocné, tak kolegové z koalice se vymlouvali, že ta spravedlnost se tam hledá deset let a že už je to nefér.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 460.34 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Výrok správně uvádí, že hejtman Půta byl částečně nepravomocně odsouzen a že jeho kauza trvá asi deset let. Koaličním kolegům ale přisuzuje větu o tom, že je to „nefér“, pro niž jsme nenašli doklad. Hodnotíme jej jako zavádějící.</p>\n\n<p>Patrik Nacher výrokem reaguje na to, jak vládní koalice komentuje trestní řízení s libereckým hejtmanem Martinem Půtou. Tvrdí, že jde o kauzu, v níž byl Půta v jedné části nepravomocně odsouzen a v jiné části osvobozen, že se „spravedlnost hledá deset let“ a že se na to podle jeho slov koaliční politici „vymlouvají“ a mluví o „neféru“. Jednotlivé části tohoto tvrzení proto posuzujeme zvlášť.</p>\n\n<p>Nejprve ověřujeme popis samotného rozsudku. Podle agentury ČTK, jejíž text zveřejnily <a href=\"https://www.ceskenoviny.cz/zpravy/2616790\">České noviny</a>, uložil Krajský soud v Liberci 5. února 2025 Martinu Půtovi roční podmíněný trest a peněžitou pokutu. Soud ho uznal vinným za přijetí úplatku 30 tisíc korun formou protislužby ve prospěch známého, zatímco v hlavní části obžaloby, která se týkala údajného úplatku 800 tisíc korun od pracovníků Metrostavu, dospěl k závěru, že se obvinění neprokázalo a z této části jej zprostil. Stejný obraz podává i zpravodajství televize Prima na serveru <a href=\"https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563\">CNN Prima</a>, které píše, že byl Půta <i>„částečně“</i> uznán vinným a v hlavní části obžaloby osvobozen. Regionální server <a href=\"https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm\">Genus</a> shrnuje, že Půta byl nepravomocně odsouzen jen v části kauzy a že soud současně konstatoval, že pro obvinění z přijetí 800 tisíc korun chybějí důkazy. Všechny tyto zdroje zároveň uvádějí, že rozsudek je nepravomocný, Půta se odvolal a řízení pokračuje před odvolacím soudem. Tvrzení, že hejtman Půta byl v jedné části kauzy odsouzen, v jiné osvobozen a že jde o nepravomocný verdikt, je tedy fakticky správné.</p>\n\n<p>Dále posuzujeme, zda odpovídá realitě tvrzení, že se v této kauze „spravedlnost hledá deset let“. Podle serveru <a href=\"https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977\">Novinky.cz</a> byl Martin Půta policií obviněn v listopadu 2014 v souvislosti s dotacemi pro projekty společnosti GEPO v Liberci; článek z října 2024 mluví přímo o <i>„deset let trvající kauze hejtmana Půty“</i>. Agentura ČTK v již citované zprávě na <a href=\"https://www.ceskenoviny.cz/zpravy/2616790\">Českých novinách</a> označuje případ za kauzu, která se <i>„táhne přes deset let“</i>. Také text na <a href=\"https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563\">CNN Prima</a> konstatuje, že řízení trvá déle než deset let. Od prvních skutků z let 2012–2014 přes obvinění v roce 2014 až po nepravomocný rozsudek v roce 2025 tak skutečně uplynula doba okolo deseti a více let, což potvrzuje i Půta sám v citaci uvedené například serverem <a href=\"https://genus.cz/Liberec/liberecky-soud-zrusil-liceni-v-kauze-kde-je-obzalovan-i-hejtman-puta-vcas-nevyrozumel-zalobce-jednani-bude-v-rijnu-n609715.htm\">Genus</a>, kde po zrušeném jednání říká, že po deseti letech už jde o velmi zdlouhavý proces. Formulace, že se „spravedlnost hledá deset let“, tedy přiměřeně vystihuje skutečnou délku řízení.</p>\n\n<p>Další část výroku tvrdí, že právě „kolegové z koalice“ používají argument desetiletého trvání řízení při obhajobě Martina Půty. Zde vycházíme z veřejných reakcí politiků hnutí STAN a jejich regionálního partnera Starostů pro Liberecký kraj. V článku serveru <a href=\"https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427\">Seznam Zprávy</a> po vyhlášení rozsudku mluvčí STAN Sára Beránková zdůrazňuje, že strana očekává Půtovo odvolání a věří, že svou nevinu prokáže. Stejný text zmiňuje, že poslanci Jan Berki (SLK) a Petr Gazdík (STAN) se <i>„pozastavují nad tím, že se případ táhne již deset let“</i>, tedy sami explicitně pracují s argumentem dlouhého trvání kauzy. Oficiální reakce STAN zveřejněná na <a href=\"https://cnn.iprima.cz/stojim-za-tebou-martine-starostove-veri-v-nevinu-puty-nic-se-nedeje-burcuje-havlicek-465243\">CNN Prima</a> pak uvádí, že Starostové věří v Půtovu úplnou nevinu v kauze, která se táhne více než deset let. Z těchto vyjádření je zřejmé, že představitelé koaliční strany STAN a s ní spjatí regionální politici opravdu kombinují důraz na délku řízení s podporou Půtovy verze a s vírou v jeho nevinu. Nacherova zkratka, že se koaliční kolegové na „deset let hledanou spravedlnost“ odvolávají, tedy má v těchto veřejných prohlášeních oporu.</p>\n\n<p>Naopak tvrzení, že tito koaliční politici přímo říkali, že je to „už nefér“, se nám doložit nepodařilo. V analyzovaných vyjádřeních STAN a Starostů pro Liberecký kraj jsme našli odkazy na to, že se kauza <i>„táhne deset let“</i>, že jde o <i>„více než deset let“</i> trvající řízení či obecnou kritiku pomalosti justice, ale nikoli formulaci, která by jasně odpovídala větě, že je to „nefér“. V mediálních výstupech, které jsme prošli (například výše zmíněné texty na <a href=\"https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427\">Seznam Zprávy</a> nebo <a href=\"https://cnn.iprima.cz/stojim-za-tebou-martine-starostove-veri-v-nevinu-puty-nic-se-nedeje-burcuje-havlicek-465243\">CNN Prima</a>), se takové slovní spojení v ústech koaličních politiků neobjevuje. Nelze proto tvrdit, že by šlo o přesnou citaci; spíše se zdá, že Patrik Nacher shrnuje a zesiluje jejich argumentaci vlastními slovy.</p>\n\n<p>Zvláštní pozornost si zaslouží i výraz „vymlouvali se“, kterým poslanec Nacher popisuje vystupování koaličních kolegů. To už není věc faktického popisu, ale hodnotící soud o motivech druhých, který se ověřit nedá. To, zda politici STAN či SLK délku řízení používají jako „výmluvu“, nebo jako legitimní argument ve prospěch presumpce neviny, je otázka politického hodnocení, nikoli ověřitelný fakt.</p>\n\n<p>Celkově tedy platí, že popis procesní situace v Půtově kauze (částečné nepravomocné odsouzení a částečné osvobození) i tvrzení o zhruba desetiletém trvání řízení odpovídají zjištěným skutečnostem. Z veřejných prohlášení politiků STAN a Starostů pro Liberecký kraj rovněž vyplývá, že právě dlouhé trvání kauzy sami zdůrazňují a spojují je s podporou Půty. Nacher však těmto koaličním kolegům vkládá do úst konkrétní formulaci o tom, že je to „už nefér“, pro kterou jsme v dostupných zdrojích nenašli oporu, a používá výraz „vymlouvali se“, jenž je zjevně hodnotícím komentářem. Z těchto důvodů hodnotíme celý výrok jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_00dab0d7a759fb8700696a4c31fca0819daf923447d4c37f43",
+    "created_at": 1768574002.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_00dab0d7a759fb8700696a4c3b5b20819da286ad7d1b46f4c8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4c50d05c819db1003d3285ef5607",
+        "action": {
+          "query": "\"hejtman Půta\" odsouzen v části osvobozen nepravomocně",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"hejtman Půta\" odsouzen v části osvobozen nepravomocně",
+            "\"Martin Půta\" odsouzen v části osvobozen",
+            "\"ten let\" \"Půta\" trestní řízení",
+            "Půta nepravomocně odsouzen část skutků osvobozen"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4c535e40819d99be42b108ea0df0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4c5f69a0819dba2b847cd3620c77",
+        "action": {
+          "query": "\"spravedlnost\" \"hledá\" \"10 let\" \"Půta\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"spravedlnost\" \"hledá\" \"10 let\" \"Půta\"",
+            "\"deset let\" \"kauza\" \"hejtmana\" \"Půty\"",
+            "\"Půtu\" \"spravedlnost\" \"deset let\"",
+            "\"už je to nefér\" \"Půta\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4c620bb8819da39d315dde13c04a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4c62bc50819dbe6879fd3ff9959d",
+        "action": {
+          "query": "\"Půtova\" \"kauza\" \"deset let\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Půtova\" \"kauza\" \"deset let\"",
+            "\"kauza hejtmana Půty\" \"deset let\"",
+            "\"spravedlnost\" \"deset\" \"let\" \"Martin Půta\"",
+            "\"už je to nefér\" \"spravedlnost\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4c658874819d9ba54b266ef5efe5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4c670550819d82db625ee0deb992",
+        "action": {
+          "query": "\"už je to nefér\" \"spravedlnost\" \"10 let\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"už je to nefér\" \"spravedlnost\" \"10 let\"",
+            "\"už je to nefér\" \"deset let\" justice",
+            "\"už je to nefér\" \"spravedlnost\" \"Půta\"",
+            "\"to už je nefér\" \"Půta\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4c6a75e0819daf7d34941b042616",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4c6d8e74819db08ba582b92d68fd",
+        "action": {
+          "query": "\"kauza\" \"Půty\" \"spravedlnost\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"kauza\" \"Půty\" \"spravedlnost\"",
+            "\"kauza hejtmana Půty\" \"spravedlnost\"",
+            "\"dlouho\" \"trvá\" \"kauza\" \"Půta\" \"spravedlnost\"",
+            "\"je to nefér\" \"Půta\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4c776ff8819db7b49087b309fc10",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4c8007e0819d84d860f8b094da47",
+        "action": {
+          "query": "\"Půta\" \"není fér\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Půta\" \"není fér\"",
+            "\"spravedlnost\" \"není fér\" \"Půta\"",
+            "\"už je nefér\" \"justice\" \"česku\" \"Půta\"",
+            "\"deset let\" \"spravedlnost\" \"není fér\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4c877b00819d8e69c61283b88bd0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4c8c5618819d9e96f03f8bdec5df",
+        "action": {
+          "query": "\"Rakušan\" \"Půta\" \"deset let\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Rakušan\" \"Půta\" \"deset let\"",
+            "\"Rakušan\" \"kauza hejtmana\" \"Půty\"",
+            "\"Fiala\" \"Půta\" \"deset let\"",
+            "\"Půtův\" \"případ\" \"trvá\" \"deset let\" \"politici\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4c91b750819da5ce3a68421b5b7a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4c92cccc819dab840a8e30278568",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4c948b5c819db7e99b67701262c4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4ca099b0819d8a19369c49f01a61",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4ca40970819d9d6922107e2c46c8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4ca92d20819db18fd84dff1260c8",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4cad04b4819d963f5f4426c10a68",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4cb422d4819daa1e4a020dc9ebf1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4cb80f34819d811fe42faf10bebd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4cbae334819db724ba7348267303",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4cbc4f7c819d95cb086f9733e000",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4cc2296c819da0f7fcef87320693",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4cc7e068819d826a97c871530893",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4cc972f4819db10919698d28ec36",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4ccb6390819dbededb03d65c7544",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4ccffae8819daf92ebcb58dd658b",
+        "action": {
+          "query": "\"Martin Půta\" site:psp.cz",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Martin Půta\" site:psp.cz",
+            "\"hejtmana Půty\" site:psp.cz",
+            "\"kauza Půty\" site:psp.cz",
+            "\"Půty\" \"spravedlnost\" site:psp.cz"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4cd4c288819d821821293d2e02a4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4cd5dd40819da2fdad82699d109d",
+        "action": {
+          "query": "\"Půta\" \"deset let\" site:psp.cz",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Půta\" \"deset let\" site:psp.cz",
+            "\"Půty\" \"deset let\" site:psp.cz",
+            "\"Půta\" \"spravedlnost\" site:psp.cz",
+            "\"spravedlnosti\" \"Půta\" site:psp.cz"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4ce20a0c819d9e354d515ab3b0b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4ceb24f4819dbfef2f4c577a9552",
+        "action": {
+          "query": "\"kauza\" \"Půty\" \"není fér\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"kauza\" \"Půty\" \"není fér\"",
+            "\"Půta\" \"není fér\"",
+            "\"není fér\" \"když\" \"Půta\"",
+            "\"deset let\" \"není fér\" \"spravedlnost\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4cf25af4819daf9374628d0d8d06",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4cf67634819d932223afcccaa504",
+        "action": {
+          "query": "\"Vít Rakušan\" \"Půta\" \"spravedlnost\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Vít Rakušan\" \"Půta\" \"spravedlnost\"",
+            "\"Vít Rakušan\" \"Půta\" \"deset let\"",
+            "\"kdyby byly\" \"spravedlnost\" \"Půtu\"",
+            "\"Půtovu kauzu\" \"spravedlnost\" \"dlouho\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4cfce660819d9b005fdf529b608b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4cffe770819dae26ab03af500437",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4d03cf80819d9ed962dfefed7066",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_00dab0d7a759fb8700696a4d08f8cc819d987730b7d09abfbb",
+        "action": {
+          "query": "\"Půta\" \"spravedlnost\" \"rychlá\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Půta\" \"spravedlnost\" \"rychlá\"",
+            "\"spravedlnost\" \"není úplně rychlá\" \"Půta\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00dab0d7a759fb8700696a4d0f904c819db2aaba9b1fbf6a88",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_00dab0d7a759fb8700696a4d658a60819d9f4fcb61e403ab9c",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1481,
+                "start_index": 1343,
+                "title": "Deset let trvající kauza hejtmana Půty opět před soudem. Verdikt snad na jaře - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977"
+              },
+              {
+                "end_index": 1678,
+                "start_index": 1542,
+                "title": "Hejtman Půta nebude kandidovat ve sněmovních volbách. Oznámil to po rozsudku v korupční kauze - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563"
+              },
+              {
+                "end_index": 1891,
+                "start_index": 1744,
+                "title": "Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427"
+              },
+              {
+                "end_index": 2257,
+                "start_index": 2196,
+                "title": "Soud uznal Půtu částečně vinným v korupční kauze, hejtman se odvolal | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2616790"
+              },
+              {
+                "end_index": 3145,
+                "start_index": 3084,
+                "title": "Soud uznal Půtu částečně vinným v korupční kauze, hejtman se odvolal | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2616790"
+              },
+              {
+                "end_index": 3329,
+                "start_index": 3268,
+                "title": "Soud uznal Půtu částečně vinným v korupční kauze, hejtman se odvolal | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2616790"
+              },
+              {
+                "end_index": 3491,
+                "start_index": 3430,
+                "title": "Soud uznal Půtu částečně vinným v korupční kauze, hejtman se odvolal | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2616790"
+              },
+              {
+                "end_index": 3825,
+                "start_index": 3689,
+                "title": "Hejtman Půta nebude kandidovat ve sněmovních volbách. Oznámil to po rozsudku v korupční kauze - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563"
+              },
+              {
+                "end_index": 4263,
+                "start_index": 4127,
+                "title": "Hejtman Půta nebude kandidovat ve sněmovních volbách. Oznámil to po rozsudku v korupční kauze - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563"
+              },
+              {
+                "end_index": 4566,
+                "start_index": 4411,
+                "title": "\n        V korupční kauze, v níž byl odsouzen i hejtman Půta, se od loňského února čeká na rozsudek, bude za 3 týdny | Liberec | Genus\n\t",
+                "type": "url_citation",
+                "url": "https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm"
+              },
+              {
+                "end_index": 4830,
+                "start_index": 4675,
+                "title": "\n        V korupční kauze, v níž byl odsouzen i hejtman Půta, se od loňského února čeká na rozsudek, bude za 3 týdny | Liberec | Genus\n\t",
+                "type": "url_citation",
+                "url": "https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm"
+              },
+              {
+                "end_index": 5099,
+                "start_index": 4944,
+                "title": "\n        V korupční kauze, v níž byl odsouzen i hejtman Půta, se od loňského února čeká na rozsudek, bude za 3 týdny | Liberec | Genus\n\t",
+                "type": "url_citation",
+                "url": "https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm"
+              },
+              {
+                "end_index": 5559,
+                "start_index": 5498,
+                "title": "Soud uznal Půtu částečně vinným v korupční kauze, hejtman se odvolal | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2616790"
+              },
+              {
+                "end_index": 5871,
+                "start_index": 5716,
+                "title": "\n        V korupční kauze, v níž byl odsouzen i hejtman Půta, se od loňského února čeká na rozsudek, bude za 3 týdny | Liberec | Genus\n\t",
+                "type": "url_citation",
+                "url": "https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm"
+              },
+              {
+                "end_index": 6526,
+                "start_index": 6390,
+                "title": "Hejtman Půta nebude kandidovat ve sněmovních volbách. Oznámil to po rozsudku v korupční kauze - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563"
+              },
+              {
+                "end_index": 6800,
+                "start_index": 6662,
+                "title": "Deset let trvající kauza hejtmana Půty opět před soudem. Verdikt snad na jaře - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977"
+              },
+              {
+                "end_index": 7022,
+                "start_index": 6961,
+                "title": "Soud uznal Půtu částečně vinným v korupční kauze, hejtman se odvolal | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2616790"
+              },
+              {
+                "end_index": 7372,
+                "start_index": 7236,
+                "title": "Hejtman Půta nebude kandidovat ve sněmovních volbách. Oznámil to po rozsudku v korupční kauze - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563"
+              },
+              {
+                "end_index": 7701,
+                "start_index": 7563,
+                "title": "Deset let trvající kauza hejtmana Půty opět před soudem. Verdikt snad na jaře - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977"
+              },
+              {
+                "end_index": 7939,
+                "start_index": 7817,
+                "title": "Hejtmanova korupční kauza - jak to bylo, jak to je - Náš Liberec",
+                "type": "url_citation",
+                "url": "https://www.nasliberec.cz/2025/02/15/hejtmanova-korupcni-kauza-jak-to-bylo-jak-to-je/?utm_source=openai"
+              },
+              {
+                "end_index": 8509,
+                "start_index": 8371,
+                "title": "Deset let trvající kauza hejtmana Půty opět před soudem. Verdikt snad na jaře - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977"
+              },
+              {
+                "end_index": 9891,
+                "start_index": 9744,
+                "title": "Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427"
+              },
+              {
+                "end_index": 10172,
+                "start_index": 10025,
+                "title": "Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427"
+              },
+              {
+                "end_index": 10715,
+                "start_index": 10583,
+                "title": "Starostové věří v Půtovu nevinu: Stojím za tebou, napsala Šebelová. Havlíček volá po rezignaci - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/stojim-za-tebou-martine-starostove-veri-v-nevinu-puty-nic-se-nedeje-burcuje-havlicek-465243"
+              },
+              {
+                "end_index": 11355,
+                "start_index": 11208,
+                "title": "Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427"
+              },
+              {
+                "end_index": 11914,
+                "start_index": 11767,
+                "title": "Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427"
+              },
+              {
+                "end_index": 12910,
+                "start_index": 12752,
+                "title": "Komentář: Případ hejtmana Půty je obžalobou politiky i justice - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-komentar-pripad-hejtmana-puty-je-obzalobou-politiky-i-justice-269462?utm_source=openai"
+              },
+              {
+                "end_index": 13463,
+                "start_index": 13316,
+                "title": "Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427"
+              },
+              {
+                "end_index": 14037,
+                "start_index": 13890,
+                "title": "Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427"
+              },
+              {
+                "end_index": 14367,
+                "start_index": 14220,
+                "title": "Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427"
+              },
+              {
+                "end_index": 15378,
+                "start_index": 15317,
+                "title": "Soud uznal Půtu částečně vinným v korupční kauze, hejtman se odvolal | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2616790"
+              },
+              {
+                "end_index": 15773,
+                "start_index": 15637,
+                "title": "Hejtman Půta nebude kandidovat ve sněmovních volbách. Oznámil to po rozsudku v korupční kauze - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563"
+              },
+              {
+                "end_index": 16276,
+                "start_index": 16121,
+                "title": "\n        V korupční kauze, v níž byl odsouzen i hejtman Půta, se od loňského února čeká na rozsudek, bude za 3 týdny | Liberec | Genus\n\t",
+                "type": "url_citation",
+                "url": "https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm"
+              },
+              {
+                "end_index": 16768,
+                "start_index": 16630,
+                "title": "Deset let trvající kauza hejtmana Půty opět před soudem. Verdikt snad na jaře - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977"
+              },
+              {
+                "end_index": 17289,
+                "start_index": 17142,
+                "title": "Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427"
+              },
+              {
+                "end_index": 17734,
+                "start_index": 17602,
+                "title": "Starostové věří v Půtovu nevinu: Stojím za tebou, napsala Šebelová. Havlíček volá po rezignaci - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/stojim-za-tebou-martine-starostove-veri-v-nevinu-puty-nic-se-nedeje-burcuje-havlicek-465243"
+              }
+            ],
+            "text": "## 1. Shrnutí hodnocení tvrzení\n\nHodnocené tvrzení (zkráceně):  \n„…u odsouzení hejtmana Půty, kde v části byl odsouzen, v části osvobozen, byť je to nepravomocné, se kolegové z koalice vymlouvali, že se tam spravedlnost hledá deset let a že už je to nefér.“\n\n**Závěr po rozkladu na dílčí tvrzení:**\n\n1. **Existence nepravomocného rozsudku, v němž je hejtman Půta v části odsouzen a v části osvobozen – PODLOŽENO (pravdivé).**  \n2. **Délka kauzy cca 10 let („spravedlnost se tam hledá deset let“) – PODLOŽENO (pravdivé).**  \n3. **Že právě „kolegové z koalice“ používají délku řízení (~10 let) jako argument v komunikaci o Půtově případu – ČÁSTEČNĚ PODLOŽENO.**  \n   - Najdeme výroky politiků ze STAN/SLK, kteří zdůrazňují, že se případ „táhne deset let“, a staví se přitom za Půtu.  \n4. **Konkrétní formulace, že koaliční kolegové říkali, že je to „už nefér“ – NEPODAŘILO SE DOLOŽIT.**  \n   - V dostupných veřejných zdrojích jsem nenašel přímý citát představitelů koalice, kde by u Půtovy kauzy použili výraz „nefér“ či zcela obdobnou formulaci; jde spíše o hodnotící interpretaci Patrika Nachera.\n\nNíže jsou podrobné podklady pro jednotlivé dílčí body.\n\n---\n\n## 2. Kontext: kauza hejtmana Martina Půty\n\n- Kauza se týká dvou dotačních projektů společnosti GEPO v Liberci z let 2012–2014, zhruba za 100 mil. Kč, financovaných z evropských fondů.([novinky.cz](https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977))  \n- Policie obvinila hejtmana Martina Půtu v listopadu 2014.([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n- Hlavní líčení u krajského soudu v Liberci začalo v roce 2018.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n- V květnu 2020 byl Půta i ostatní obžalovaní krajským soudem poprvé zproštěn viny, vrchní soud však v listopadu 2020 osvobozující rozsudek zrušil a věc vrátil.  \n- Dne 5. 2. 2025 byl Půta v části obžaloby nepravomocně uznán vinným a v hlavní části obžaloby zproštěn; proti odsuzující části se odvolal.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n\n---\n\n## 3. Dílčí tvrzení 1: „…u odsouzení hejtmana Půty, kde v části byl odsouzen, v části osvobozen… byť je to nepravomocné“\n\n### 3.1 Co je třeba ověřit\n\na) Zda skutečně existuje **nepravomocný rozsudek**, který:  \n- Půtu **v části obžaloby uznává vinným (odsuzuje)**;  \n- a v **jiné části obžaloby jej zprošťuje (osvobozuje)**.\n\nb) Zda tento stav platil v době výroku (leden 2026).\n\n### 3.2 Důkazy\n\n**České noviny / ČTK – 5. 2. 2025**\n\nČTK popisuje rozsudek Krajského soudu v Liberci takto:\n\n- „Roční podmíněný trest … dnes uložil Krajský soud v Liberci libereckému hejtmanovi Martinu Půtovi … v korupční kauze, která se táhne přes deset let. **Půty se týkala jen menší část kauzy. Soud ho uznal částečně vinným. Odsouzen byl za to, že formou protislužby přijal úplatek 30 000 korun a jednal ve prospěch svého známého.**“([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n- „**V hlavní části kauzy … soud považuje za neprokázané, že by Půtu upláceli pracovníci Metrostavu 800 000 korunami.**“([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n- „Půta se odvolal… Jestli po dnešním **nepravomocném rozsudku** odstoupí z funkcí, nekomentoval.“([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n\n**CNN Prima – 7. 2. 2025**\n\n- „Liberecký hejtman Martin Půta …, **kterého soud ve středu nepravomocně uznal částečně vinným v korupční kauze**, nebude kandidovat v letošních sněmovních volbách.“([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n- „Soud ho tento týden **uznal částečně vinným. Nepravomocně odsouzen byl pouze za to, že formou protislužby přijal úplatek 30 tisíc korun a jednal ve prospěch svého známého.** … **V hlavní části kauzy … soud považuje za neprokázané, že by Půtu upláceli pracovníci Metrostavu 800 tisíci korunami.**“([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n\n**Genus / ČTK – 5. 1. 2026**\n\n- „**Půta byl před 11 měsíci nepravomocně odsouzen v části korupční kauzy** spojené se dvěma projekty firmy GEPO…“([genus.cz](https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm))  \n- „Ten loni 5. února **uznal Půtu částečně vinným** ze zneužití pravomoci úřední osoby a přijetí úplatku…“([genus.cz](https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm))  \n- „V korupční kauze byl obžalován i z přijetí úplatku 800 000 korun, **důkazy pro to ale podle soudu nejsou.**“([genus.cz](https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm))  \n\n### 3.3 Hodnocení\n\n- Z více nezávislých zpravodajských zdrojů (ČTK, CNN Prima, Genus) je jasné, že:\n  - Krajský soud v Liberci dne 5. 2. 2025 **nepravomocně** uložil Půtovi podmíněný trest a pokutu **za část obžaloby (30 000 Kč jako úplatek formou protislužby)**;  \n  - V hlavní části obžaloby (údajný úplatek 800 000 Kč) byl Půta **zproštěn** – soud konstatoval, že důkazy pro tuto část nejsou.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n- K 5. 1. 2026 (těsně před rozhovorem z 13. 1. 2026) byl rozsudek stále označován jako **nepravomocný** a Půta čekal na písemné vyhotovení kvůli odvolání.([genus.cz](https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm))  \n\n**To přesně odpovídá výroku Patrika Nachera („v části byl odsouzen, v části osvobozen, byť je to nepravomocné“). Tato část tvrzení je dobře doložená a fakticky správná.**\n\n---\n\n## 4. Dílčí tvrzení 2: „…spravedlnost se tam hledá deset let“\n\n### 4.1 Co je třeba ověřit\n\n- Zda trestní řízení (resp. „hledání spravedlnosti“) v Půtově kauze trvá zhruba **deset let** – v době, kdy o tom Nacher mluvil (leden 2026).\n\n### 4.2 Důkazy o délce řízení\n\n**Začátek kauzy / obvinění**\n\n- „Policie Půtu obvinila v listopadu 2014.“([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n- Novinky (říjen 2024) píší: „…Krajský soud v Liberci … začal znovu kauzu projednávat… **Obviněn byl Půta přesně před deseti lety.**“([novinky.cz](https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977))  \n\n**Tvrzení o desetiletém trvání**\n\n- ČTK (při rozsudku 5. 2. 2025): „Roční podmíněný trest… dnes uložil… v korupční kauze, **která se táhne přes deset let.**“([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n- CNN Prima (7. 2. 2025): rubrika „Kauza se táhne přes 10 let“ + text:  \n  - „Půta v pátek uvedl, že hlavní důsledky pro celostátní politiku vyvodil hned na začátku své kauzy, **která trvá déle než deset let.**“([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n\n**Další potvrzení z roku 2024**\n\n- Novinky – říjen 2024: již v titulku „**Deset let trvající kauza hejtmana Půty** opět před soudem…“; v textu: „Obviněn byl Půta přesně před deseti lety.“([novinky.cz](https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977))  \n- Náš Liberec a další regionální média opakovaně charakterizují Půtovu kauzu jako řízení, které trvá „deset let“.([nasliberec.cz](https://www.nasliberec.cz/2025/02/15/hejtmanova-korupcni-kauza-jak-to-bylo-jak-to-je/?utm_source=openai))  \n\n**Půta sám o délce řízení**\n\n- V reakci na odkládání jednání (září 2024) Půta na síti X napsal:  \n  - „…Kdyby nebyly záplavy, tak bych se tomu **po deseti letech trvání případu** snad i zasmál… Spravedlnost v Česku fakt není úplně rychlá.“  \n\n### 4.3 Hodnocení\n\n- Od obvinění v listopadu 2014 do nepravomocného rozsudku v únoru 2025 uplynulo více než 10 let (počítáme-li od skutkového základu 2012–2014, pak dokonce ještě déle).([novinky.cz](https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977))  \n- Jak média, tak sám Půta i další komentátoři mluví explicitně o **„deset let trvající“** nebo „přes deset let trvající“ kauze.\n\n**Formulace Patrika Nachera, že „spravedlnost se tam hledá deset let“, dobře odpovídá doložené délce řízení. Tato část tvrzení je fakticky správná.**\n\n---\n\n## 5. Dílčí tvrzení 3: „…kolegové z koalice se vymlouvali, že ta spravedlnost se tam hledá deset let a že už je to nefér.“\n\nToto tvrzení má několik vrstev:\n\n1. **Že „kolegové z koalice“ (tj. vládní koalice / STAN a další koaliční strany) používají argument délky řízení (~10 let) v souvislosti s Půtovou kauzou.**  \n2. **Že tento argument používají ve smyslu „obhajoby“ Půty (Nacher to hodnotí slovem „vymlouvali se“).**  \n3. **Že výslovně říkali, že je to „už nefér“.**\n\n### 5.1 Používání argumentu „trvá to deset let“ koaličními politiky\n\n**Reakce STAN / SLK po rozsudku – Seznam Zprávy (5. 2. 2025)**\n\nČlánek shrnuje vyjádření představitelů STAN a Starostů pro Liberecký kraj:\n\n- Mluvčí STAN Sára Beránková:  \n  - „Rozhodnutí soudu nás mrzí… **předpokládáme, že se proti rozsudku odvolá, a věříme, že svou nevinu nakonec prokáže.** Jaké budou teď jeho další kroky coby hejtmana, nebudeme komentovat, je to rozhodnutí, které musí udělat on sám.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n- Poslanec Jan Berki (SLK) a poslanec Petr Gazdík (STAN):  \n  - „Oba se **pozastavují nad tím, že se případ táhne již deset let.**“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n\nZde jsou tedy **dva poslanci z koaličního tábora (SLK/STAN)**, kteří ve veřejném vyjádření přímo zmiňují, že se Půtova kauza „táhne už deset let“, a zároveň dávají najevo podporu Půtovi (věří v jeho nevinu, nevyzývají k rezignaci).\n\n**Oficiální vyjádření hnutí STAN – CNN Prima (5. 2. 2025)**\n\n- „Starostové proto věří, že **Půta v kauze, která se táhne více než deset let, nakonec prokáže úplnou nevinu.**“([cnn.iprima.cz](https://cnn.iprima.cz/stojim-za-tebou-martine-starostove-veri-v-nevinu-puty-nic-se-nedeje-burcuje-havlicek-465243))  \n\nI zde se **přímo z úst vládní koaliční strany (STAN)** pracuje s motivem **„více než deset let trvající kauzy“** v kombinaci s vírou v Půtovu nevinu.\n\n### 5.2 Slovo „vymlouvali se“ – jde o hodnotící interpretaci\n\n- Nachází se v původním tvrzení („se vymlouvali“). To je **hodnotící označení motivů koaličních politiků**, nikoli ověřitelný fakt.  \n- Ve zdrojích vidíme, že:\n  - STAN i SLK **výrazně vyzdvihují délku řízení (~10 let) a přitom vyjadřují podporu Půtovi a víru v jeho nevinu**;([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n  - nezaznamenal jsem ale výroky, kde by sami sebe rámovali jako „vymlouvající se“. To je interpretace Patrika Nachera.\n\nZ pohledu fact-checkingu tedy:\n\n- **Fakt:** Koaliční politici (zejména ze STAN/SLK) opakovaně upozorňovali, že se Půtova kauza táhne cca deset let, a zároveň to používali v kontextu argumentace, proč Půta nemusí okamžitě politicky končit (presumpce neviny, čekání na odvolací soud apod.).([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n- **Hodnocení („vymlouvali se“):** to je politický komentář Nachera, který nelze jako fakt pravdivosti či nepravdivosti ověřit.\n\n### 5.3 „…že už je to nefér“ – existuje takový výrok?\n\nV dostupných zdrojích jsem hledal, zda někdo z představitelů vládní koalice v souvislosti s Půtovou kauzou řekl explicitně, že:\n\n- je **„nefér“**, že kauza trvá tak dlouho, nebo  \n- že je **„nefér“** vůči Půtovi, aby byl po tak dlouhé době řešen atd.\n\nVýsledek:\n\n- Našel jsem **řadu výroků o tom, že kauza trvá deset a více let a že justice je pomalá**, včetně ostrých formulací typu „Spravedlnost v Česku fakt není úplně rychlá.“ – to je ovšem **vyjádření samotného Půty**, nikoli jeho „kolegy z koalice“.  \n- Novinové komentáře (např. Seznam Zprávy, HlídacíPes) hodnotí délku kauzy jako selhání justice, ale to nejsou výroky politiků vládní koalice.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-politika-komentar-pripad-hejtmana-puty-je-obzalobou-politiky-i-justice-269462?utm_source=openai))  \n- **Nenalezl jsem přímý citát koaličního politika**, kde by u Půtovy kauzy použil výraz „nefér“ (ani zcela jednoznačný synonymní obrat) v souvislosti s těmi „deseti lety“.\n\nProto lze říci:\n\n- **Doložitelné je**, že koaliční politici (především ze STAN, resp. jejich liberecký partner SLK) používají **délku řízení (~10 let)** jako důležitý argument v komunikaci o Půtově případu a jeho politickém osudu.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n- **Není doložen konkrétní výrok**, kde by některý z nich explicitně řekl, že je to „už nefér“. To vypadá jako zkratka / interpretace Patrika Nachera, která rétoricky vystihuje jeho názor na tuto argumentaci, ale není přímo citací.\n\n### 5.4 Hodnocení této části tvrzení\n\n- **Faktická jádra:**\n  - *„…kolegové z koalice…“* – ANO: politici z vládní koalice (STAN, resp. SLK jako jejich partner) veřejně komentují Půtovu kauzu.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n  - *„…spravedlnost se tam hledá deset let…“* – ANO: samotní koaliční politici a jejich mluvčí explicitně zmiňují, že se Půtova kauza „táhne již deset let“ či „více než deset let“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n- **Sporné / nedoložené:**\n  - *„se vymlouvali“* – jde o subjektivní hodnocení motivů, nelze fakticky ověřit.  \n  - *„že už je to nefér“* – nenalezen přímý výrok koaličního politika v tomto znění nebo zjevně ekvivalentním slovníku.\n\n**Celkově:**  \n– Je **fakticky správné**, že Půtova kauza trvá přibližně deset let a že politici z vládní koalice (zejména STAN/SLK) tuto délku sami v mediálních vyjádřeních zdůrazňují a zároveň Půtu politicky brání.  \n– Čistě fakticky **nelze doložit**, že by ve veřejných vyjádřeních explicitně říkali „už je to nefér“; tato formulace se jeví jako politická interpretace Patrika Nachera.\n\n---\n\n## 6. Přehled hlavních zdrojů (výběr)\n\n*(uvedeny jak oficiální citace, tak odkazy pro rychlou kontrolu)*\n\n1. **ČTK / České noviny – „Soud uznal Půtu částečně vinným v korupční kauze, hejtman se odvolal“ (5. 2. 2025)**  \n   - Nepravomocný rozsudek, částečné odsouzení a částečné zproštění; délka kauzy „přes deset let“.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2616790))  \n   - https://www.ceskenoviny.cz/zpravy/2616790  \n\n2. **CNN Prima – „Hejtman Půta nebude kandidovat ve sněmovních volbách…“ (7. 2. 2025)**  \n   - Popis částečného odsouzení a zproštění, délka kauzy „déle než deset let“, policie ho obvinila v listopadu 2014.([cnn.iprima.cz](https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563))  \n   - https://cnn.iprima.cz/nasledky-odsouzeni-v-korupcni-kauze-hejtman-puta-nebude-kandidovat-ve-snemovnich-volbach-465563  \n\n3. **Genus / ČTK – „V korupční kauze, v níž byl odsouzen i hejtman Půta…“ (5. 1. 2026)**  \n   - Potvrzení, že Půta byl 5. 2. 2025 **nepravomocně odsouzen v části kauzy**, v jiné části (800 000 Kč) soud důkazy neshledal.([genus.cz](https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm))  \n   - https://genus.cz/Liberec/v-korupcni-kauze-v-niz-byl-odsouzen-i-hejtman-puta-se-od-lonskeho-unora-ceka-na-rozsudek-bude-za-3-tydny-n723145.htm  \n\n4. **Novinky – „Deset let trvající kauza hejtmana Půty opět před soudem…“ (7. 10. 2024)**  \n   - Titulkové označení „Deset let trvající kauza“, potvrzení, že Půta byl obviněn „přesně před deseti lety“.([novinky.cz](https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977))  \n   - https://www.novinky.cz/clanek/domaci-deset-let-trvajici-kauza-hejtmana-puty-opet-pred-soudem-verdikt-snad-na-jare-40491977  \n\n5. **Seznam Zprávy – „Hejtman Půta je vinen v korupční kauze. Dostal podmínku a peněžitý trest“ (5. 2. 2025)**  \n   - Reakce STAN/SLK, víra v Půtovu nevinu. Poslanci Berki a Gazdík se „pozastavují nad tím, že se případ táhne již deset let“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427))  \n   - https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hejtman-puta-je-vinen-rekl-soud-trest-se-dozvi-za-nekolik-hodin-269427  \n\n6. **CNN Prima – „Starostové věří v Půtovu nevinu…“ (5. 2. 2025)**  \n   - Oficiální vyjádření STAN: víra v Půtovu „úplnou nevinu“ v kauze, „která se táhne více než deset let“.([cnn.iprima.cz](https://cnn.iprima.cz/stojim-za-tebou-martine-starostove-veri-v-nevinu-puty-nic-se-nedeje-burcuje-havlicek-465243))  \n   - https://cnn.iprima.cz/stojim-za-tebou-martine-starostove-veri-v-nevinu-puty-nic-se-nedeje-burcuje-havlicek-465243  \n\n7. **Genus / Česká justice / Drbna – zrušení jednání v září 2024**  \n   - Citace Půty: „po deseti letech trvání případu… Spravedlnost v Česku fakt není úplně rychlá.“  \n   - Např. https://genus.cz/Liberec/liberecky-soud-zrusil-liceni-v-kauze-kde-je-obzalovan-i-hejtman-puta-vcas-nevyrozumel-zalobce-jednani-bude-v-rijnu-n609715.htm  \n\n---\n\n### 7. Celkové shrnutí\n\n- **Objektivně ověřitelné části Nacherova tvrzení (nepravomocný částečný rozsudek, desetileté trvání kauzy) jsou fakticky správné a dobře doložené.**  \n- **Je rovněž doložitelné**, že někteří představitelé koaličních stran (zejména STAN/SLK) **explicitně zdůrazňují, že se Půtova kauza „táhne již deset let“** a současně veřejně stojí za Půtou a jeho tvrzenou nevinou.  \n- **Není však doložen konkrétní výrok koaličního politika ve znění „už je to nefér“**; tuto formulaci je vhodné chápat jako **politickou interpretaci** Patrika Nachera, nikoli jako doslovnou citaci z ověřitelných veřejných vyjádření.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 111954,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 16913,
+      "output_tokens_details": {
+        "reasoning_tokens": 10932
+      },
+      "total_tokens": 128867
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1768574434,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

@@ -1,0 +1,886 @@
+{
+  "claim_id": "24598",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260220_173536",
+  "source_md": "experiments/gpt5.1_h_20260220_173536/brief_fact_check_id24598.md",
+  "fact_check": "# Fact Check for Statement ID 24598\n\n## Statement\nV současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun.\n\n---\n## AI Fact Check\n## 1. Tvrzení a jeho rozklad\n\nSporné tvrzení (18. 2. 2026):\n\n> „V současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun.“\n\nMožný výklad:\n\n- „nástupní plat“ = hrubý **měsíční služební příjem** nováčka (základní tarif + příplatky), zřejmě **po absolvování základní přípravy** („po nástupu do výkonu služby“), ne během školy;\n- „průměrný“ = nějaký **modelový / průměrný případ**, ne nutně oficiální statistický průměr (taková položka se veřejně standardně nepublikuje);\n- „v současnosti“ – k datu rozhovoru, tedy cca **počátek roku 2026**, po plánovaném navýšení tarifů o 5 % od 1. 1. 2026.([mv.gov.cz](https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx?utm_source=openai))  \n\nRozdělíme na dvě dílčí tvrzení:\n\n1. A: Průměrný nástupní plat policisty je cca **42 000 Kč hrubého měsíčně**.\n2. B: Průměrný nástupní plat hasiče je cca **39 000 Kč hrubého měsíčně**.\n\nNíže uvádím dostupné důkazy pro obě skupiny.\n\n---\n\n## 2. Kontext: jak se u bezpečnostních sborů chápe „nástupní plat“\n\nU policistů i hasičů se v praxi rozlišuje zejména:  \n\n- **„plat/služební příjem po dobu přípravy na výkon služby“** (během základní odborné přípravy, „škola“),  \n- **„plat/služební příjem po nástupu do výkonu služby“** – tj. po skončení základního kursu, kdy nováček nastoupí na útvar.\n\nNáborové materiály obvykle uvádějí obě částky (školní a po nástupu) a často i rozpis tarifní třídy + příplatky (rizikový, za dýchací techniku, služební pohotovost apod.).([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n\nMetnar pravděpodobně míří právě na **celkový hrubý služební příjem po nástupu do výkonu služby**, tedy vyšší částku než je samotný základní tarif.\n\n---\n\n## 3. Dílčí tvrzení A: nástupní plat policistů = 42 000 Kč\n\n### 3.1 Oficiální náborové materiály Policie ČR (2024–2025)\n\n#### a) Celostátní náborový web – „Nabízíme“\n\nNa náborovém webu Policie ČR se pro rok 2024 uvádí (stav zveřejněný v roce 2025):\n\n> „Policista bez praxe, se středním vzděláním s maturitou **pobírá v prvním roce během „školy“ hrubý služební příjem 32 900 Kč**. Průměrný plat po třech letech služby je **49 000 Kč**, přičemž **průměrný plat u Policie ČR za rok 2024 byl 56 308 Kč**.“([nabor.policie.gov.cz](https://nabor.policie.gov.cz/clanek/nabizime.aspx))  \n\nTato stránka:\n- **neuvádí explicitně „nástupní plat po škole“**, ale:\n  - „školní“ příjem = 32 900 Kč (2024),\n  - průměr po 3 letech = 49 000 Kč.\n\n#### b) KŘP Olomouckého kraje – Jeseník (12. 3. 2025)\n\nNáborový text k okresu Jeseník uvádí velmi konkrétní částky:\n\n> „… nově nastupující po 6 měsících od nástupu získávají náborový příspěvek ve výši 75 tisíc korun, **plat po dobu přípravy na výkon služby 31 500 korun, po nástupu do výkonu služby ihned navýšení na 40 000 korun, po 3 letech až 45 500 korun**.“([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n\nZ toho plyne pro modelového nováčka:\n\n- **2025 – po škole: 40 000 Kč hrubého** (bez ohledu na další příplatky dle režimu služby).\n\n#### c) KŘP Středočeského kraje – starší náborový text\n\nStředočeská policie (text bez patrného data, ale dlouhodobě zveřejněný) uvádí:\n\n> „**Nástupní služební příjem při nástupu, včetně všech příplatků, dosahuje ke 25 720 Kč hrubého. Po ukončení Základní odborné přípravy (po 1 roce) služební příjem dosahuje částky až 33 590 Kč hrubého.**“([policie.gov.cz](https://policie.gov.cz/clanek/policie-hleda-nove-policisty-a-policistky.aspx))  \n\nTo odpovídá **starší úrovni odměňování** (zřejmě před sérií výraznějších navýšení v letech 2022–2024). Není jisté, zda byla tato stránka aktualizována po posledních zvýšeních.\n\n#### d) Náborové letáky pro Středočeský kraj (únor 2025)\n\nŘada obcí ve Středočeském kraji zveřejnila oficiální náborový leták Policie ČR (2025), např. obec Struhařov:\n\n> „NÁBOROVÝ PŘÍSPĚVEK 150 000 Kč. **Plat po nástupu do výkonu služby 43 050 Kč.**“([struharov.cz](https://www.struharov.cz/obecni-urad/aktuality/policie-stredoceskeho-kraje-hleda-nove-policisty-pridejte-se-k-nam-449cs.html))  \n\nLeták (PDF z 12. 2. 2025) reprezentuje **jiný modelový příklad**: zde je deklarován **hrubý měsíční plat po nástupu do výkonu služby 43 050 Kč**.\n\n**Shrnutí oficiálních policejních zdrojů (2024–2025):**\n\n- během základní přípravy (škola): cca **31 500–32 900 Kč** hrubého,  \n- po nástupu do výkonu služby:\n  - starší texty: **„až 33 590 Kč“** (Středočeský kraj – zjevně před velkými valorizacemi),([policie.gov.cz](https://policie.gov.cz/clanek/policie-hleda-nove-policisty-a-policistky.aspx))  \n  - novější regionální příklady (Olomouc Jeseník, únor/březen 2025): **40 000–43 050 Kč**.([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n\nJiž zde je vidět, že **„nástupní plat po škole“ se podle konkrétní nabídky pohybuje někde mezi cca 33 a 43 tisíci Kč hrubého měsíčně**.\n\n### 3.2 Další zdroje (odbory, média) – nižší hodnoty\n\n#### a) Seznam Zprávy (1. 11. 2025)\n\nV článku o plánech nové vlády na zvýšení nástupních platů cituje Seznam Zprávy odboráře:\n\n> „**Nástupní plat příslušníků policie se v současné době pohybuje okolo 33 tisíc korun**…“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\nZde je **„nástupní plat“ chápán jako cca 33 000 Kč hrubého**, tedy spíše v dolním pásmu oficiálních náborových informací (a zjevně bez vyšších regionálních příplatků).\n\n#### b) Peoplix (blog o platech policistů, data pro 2024)\n\nAnalytický text shrnuje:\n\n- „**Průměrný plat v roce 2024 – 56 308 Kč**,“  \n- „**Nástupní plat – kolem 33 000 Kč.**“([peoplix.cz](https://peoplix.cz/blog/prumerna-mzda-policisty/?utm_source=openai))  \n\nOpět je pro „nástupní plat“ uváděna hodnota blízká **33 000 Kč**, což souhlasí se Seznamem Zprávy.\n\n#### c) TN.cz (22. 8. 2024)\n\nReportáž o finanční situaci příslušníků bezpečnostních sborů uvádí:\n\n- „**Nástupní platy hasičů, policistů a dalších zaměstnanců bezpečnostních složek se pohybují mezi 25 až 30 tisíci korunami čistého měsíčně.**“([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/570693-hasici-a-pliciste-musi-mit-dalsi-praci-platy-nam-nestaci-zoufaji-si?utm_source=openai))  \n\nČistá mzda 25–30 tisíc odpovídá zhruba **hrubému příjmu někde mezi 34–41 tisíci Kč**, což je široké rozmezí a odpovídá i regionálním rozdílům.\n\n### 3.3 Kontex navýšení platů 2023–2026\n\nPro správnou interpretaci čísel je důležité, jak se platy zvyšovaly:\n\n- **2023**: podle Ekonomického deníku došlo „začátkem loňského roku“ k\n  - **zvýšení tarifních platů o 10 %**,  \n  - **u nástupních platů o 17 %**.([ekonomickydenik.cz](https://ekonomickydenik.cz/rakusan-pod-tlakem-policiste-a-hasici-uvidi-od-pristiho-roku-na-vyplatnici-kazdy-mesic-o-2-a-pul-tisice-vic/?utm_source=openai))  \n- **2024**: podařilo se prosadit řešení, aby „platy policistů a hasičů zůstaly na stejné úrovni“ – tj. reálně **stagnace**.([ekonomickydenik.cz](https://ekonomickydenik.cz/rakusan-pod-tlakem-policiste-a-hasici-uvidi-od-pristiho-roku-na-vyplatnici-kazdy-mesic-o-2-a-pul-tisice-vic/?utm_source=openai))  \n- **2025**: vláda schválila navýšení stabilizačního příplatku o 3 000 Kč od 1. 7. 2025; součet všech navýšení v roce 2025 činí „**5 500 až 5 650 Kč**, což odpovídá cca **10 % průměrného platu policisty**.“([mv.gov.cz](https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx?utm_source=openai))  \n- **Od 1. 1. 2026**: vláda schválila **další 5% zvýšení tarifních platů** všech příslušníků bezpečnostních sborů v gesci MV.([mv.gov.cz](https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx?utm_source=openai))  \n\nTato navýšení působí **i na „nástupní plat“**, ale jejich přesný dopad závisí na:\n\n- tom, zda se vztahují jen na tarif nebo i na některé příplatky,\n- regionu a konkrétní nabídce (směnný vs. denní režim).\n\n### 3.4 Odhad hodnoty k počátku 2026\n\nPokud vezmeme za výchozí „nástupní plat po nástupu do výkonu služby“ v roce 2025 z oficiálních nabídek:\n\n- Jeseník (KŘP Olomouckého kraje): **40 000 Kč** po škole, březen 2025.([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n- Leták pro Středočeský kraj: **43 050 Kč** po nástupu do výkonu služby, únor 2025.([struharov.cz](https://www.struharov.cz/obecni-urad/aktuality/policie-stredoceskeho-kraje-hleda-nove-policisty-pridejte-se-k-nam-449cs.html))  \n\nA vezmeme v úvahu pětiprocentní navýšení tarifů od 1. 1. 2026 (část příjmu), dostáváme:\n\n- 40 000 Kč × 1,05 ≈ **42 000 Kč**  \n- 43 050 Kč × 1,05 ≈ **45 200 Kč**\n\nPokud ale vyjdeme z hodnot uváděných odbory (Seznam Zprávy, Peoplix) pro konec roku 2025, tj. **okolo 33 000 Kč**, pak po 5% navýšení v roce 2026 dostaneme pouze cca **34 650 Kč**, tedy **podstatně méně** než 42 000 Kč.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\nRozpor tedy plyne z odlišného chápání:\n\n- **Odbory a část médií** zřejmě mluví o **„základním“ nástupním tarifu** bez celé škály příplatků (nebo o starší úrovni),  \n- **náborové letáky** obvykle uvádějí **celkový modelový služební příjem v konkrétním režimu služby**, tedy vyšší čísla.\n\n### 3.5 Mezi-závěr k tvrzení A\n\n- Existují **oficiální náborové texty Policie ČR** pro rok 2025, kde je po nástupu do výkonu služby deklarován příjem **40 000–43 050 Kč** (bez rozpisu všech variabilních složek).([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n- Po započtení **5% navýšení od 1. 1. 2026** může být pro řadu nováčků **hrubý služební příjem po škole v pásmu okolo 42 000–44 000 Kč**.\n- **Neexistuje však veřejně dostupná oficiální statistika** „průměrného nástupního platu“; navíc **odbory a některá média uvádějí pro rok 2025 čísla kolem 33 000 Kč**, která by ani po valorizaci 2026 na 42 000 Kč nedosáhla.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\nZ toho plyne, že údaj **42 000 Kč**:\n\n- může odpovídat **horní hranici reálně dosahovaných nástupních služebních příjmů** v některých regionech a režimech služby po lednu 2026,  \n- **není ale doložen jako oficiální „průměrný“ nástupní plat** za celou Policii ČR; část relevantních zdrojů uvádí pro „nástupní plat“ zřetelně nižší hodnoty.\n\n---\n\n## 4. Dílčí tvrzení B: nástupní plat hasičů = 39 000 Kč\n\nU hasičů jsou data méně přehledná, většinou se zveřejňují **tarifní třídy a příplatky**, nikoli hotová suma „nástupního platu“.\n\n### 4.1 Oficiální a polooﬁciální inzeráty HZS (výjezdové pozice)\n\n#### a) Hasič – HZS Ústeckého kraje (oficiální web HZS ČR)\n\nNáborový inzerát pro výjezdové hasiče (HZS Ústeckého kraje) uvádí:\n\n> „… platové zařazení ve 2. tarifní třídě (rozpětí … 22 800–33 360 Kč) po absolvování vstupního odborného kurzu v 3. tarifní třídě … **rozpětí … 24 590–36 060 Kč** … + zvláštní (rizikový) příplatek 5 600 Kč + příplatek za používání dýchací techniky 500 Kč + odměna za služební pohotovost cca 3 500–4 500 Kč.“([hzscr.gov.cz](https://hzscr.gov.cz/clanek/hasic-hzs-usteckeho-kraje-387227.aspx))  \n\nPro **nováčka bez praxe po absolvování odborného výcviku** (spodní hranice 3. třídy):\n\n- tarif 24 590 Kč + 5 600 (rizikový) + 500 (dýchací technika) + cca 3 500 (služební pohotovost)  \n  → **cca 34 190 Kč hrubého měsíčně** (orientačně).\n\nStarší varianta téhož typu inzerátu na portálu hasici.cz uváděla pro 3. třídu nižší tarify (22 940–34 410 Kč), ale obdobné příplatky; suma pro nejnižší stupeň vycházela cca 32–33 tisíc Kč.([hasici.cz](https://www.hasici.cz/Hasici/Hasicsky-zachranny-sbor-CR-%28profesionalni-hasici%29/Jak-se-stat-hasicem-HZS-%281%29/Chces-prestizni-praci-Prijd-mezi-nas-Hasicsky-zach?utm_source=openai))  \n\n#### b) Inzeráty HZS Libereckého kraje (Personálka / HitPrace – 2025)\n\nNáborový inzerát HZS Libereckého kraje („HASIČ, HASIČ–STROJNÍ SLUŽBA“) uvádí:\n\n> „**Platové zařazení po absolvování odborného výcviku: od 29 550 Kč do 42 170 Kč (dle započitatelné praxe) + 5 600 Kč zvláštní rizikový příplatek + 500 Kč za používání dýchací techniky + 1 000 Kč stabilizační příplatek.**“([personalka.cz](https://personalka.cz/899529?utm_source=openai))  \n\nPro **čerstvého absolventa bez praxe po výcviku** tedy minimálně:\n\n- 29 550 + 5 600 + 500 + 1 000 = **36 650 Kč hrubého měsíčně**.\n\nHitPrace k téže pozici přímo uvádí mzdové rozpětí:\n\n> „Mzda: **36 650 Kč – 49 270 Kč**.“([hitprace.cz](https://www.hitprace.cz/prace-detail/hasic-ka-nebo-hasic-ka-strojni-sluzba-ceska-lipa-32597020721/?utm_source=openai))  \n\nTo potvrzuje, že **reálně vyplácený „nástupní“ služební příjem po výcviku** se u výjezdových hasičů v některých krajích v roce 2025 pohybuje **od cca 36,7 tis. Kč výše**.\n\n### 4.2 Odbory a média – nižší čísla\n\n#### a) Seznam Zprávy (1. 11. 2025)\n\nTentýž článek, který cituje „33 000 Kč“ pro policisty, uvádí pro hasiče:\n\n> „**Začínající hasiči si vydělají 32 tisíc korun.**“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\nTo je **výrazně pod 36–37 tisíci**, které vycházejí z náborových inzerátů HZS Libereckého kraje, a blíže starším nižším tarifům.\n\n#### b) TN.cz (22. 8. 2024)\n\nStejný článek jako u policistů:\n\n> „Nástupní platy hasičů, policistů … se pohybují mezi 25 až 30 tisíci korunami čistého měsíčně.“([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/570693-hasici-a-pliciste-musi-mit-dalsi-praci-platy-nam-nestaci-zoufaji-si?utm_source=openai))  \n\n25–30 tisíc čistého odpovídá hlasem z praxe; hrubý příjem typického nováčka hasiče v roce 2024 mohl být cca **35–40 tisíc**.\n\n### 4.3 Odhad hodnoty pro rok 2026\n\nZ výše uvedeného:\n\n- **HZS Libereckého kraje 2025** (po odborném výcviku) – min. 36 650 Kč hrubého měsíčně.([personalka.cz](https://personalka.cz/899529?utm_source=openai))  \n- Po **5% valorizaci tarifů od 1. 1. 2026** se tato minimální částka (pokud se valorizace projeví primárně v tarifu) posune zhruba na:\n\n  - tarifní složka 29 550 Kč → +5 % = 31 028 Kč  \n  - celkový služební příjem pak orientačně ≈ 31 028 + 5 600 + 500 + 1 000 ≈ **38 100 Kč**.\n\nTo je **velmi blízko Metnarem uváděným 39 000 Kč**.\n\nSoučasně ale platí:\n\n- Odboráři v listopadu 2025 hovoří o nástupním platu hasičů **32 000 Kč**, což je oproti 39 000 Kč rozdíl cca **+22 %**.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\nRozdíl je opět vysvětlitelný různým vymezením:\n\n- **odbory/média** – spíše konzervativně (tarif + jen část příplatků),  \n- **náborové materiály HZS** – často ukazují **„kompletní“ služební příjem včetně směnnosti a služební pohotovosti**, který je vyšší.\n\n### 4.4 Mezi-závěr k tvrzení B\n\n- Oficiální a polooﬁciální náborové nabídky HZS (2024–2025) ukazují, že **minimální hrubý služební příjem nového výjezdového hasiče po odborném výcviku** se pohybuje cca od **32–37 tis. Kč** (podle starších x nových tarifů, kraje a příplatků).([hzscr.gov.cz](https://hzscr.gov.cz/clanek/hasic-hzs-usteckeho-kraje-387227.aspx))  \n- Po započtení plánovaného 5% navýšení tarifů od 1. 1. 2026 se **modelový „nástupní“ příjem kolem 38–39 tis. Kč hrubého** jeví jako **reálně dosažitelný** u části nováčků.\n- **Není však zveřejněna oficiální statistika „průměrného nástupního platu“** a část médií/odborů nadále pracuje s hodnotou **cca 32 000 Kč** (2025), která je výrazně nižší.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\n---\n\n## 5. Celkové shrnutí k tvrzení „42 000 pro policisty, 39 000 pro hasiče“\n\n### 5.1 Co říkají dostupné důkazy\n\n**Policisté**\n\n- Náborové materiály Policie ČR pro rok 2025 uvádějí:\n  - „školní“ příjem 31 500–32 900 Kč,  \n  - po nástupu do výkonu služby 40 000 Kč (Olomoucký kraj – Jeseník) a 43 050 Kč (Středočeský kraj – leták).([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n- Po 5% navýšení tarifů od 1. 1. 2026 se modelový „nástupní“ příjem kolem **42 000 Kč hrubého** pro část nováčků zdá **věrohodný**.\n- Zároveň však odbory a další zdroje pro rok 2024/2025 uvádějí „nástupní plat“ okolo **33 000 Kč**, což by ani po 5% valorizaci k roku 2026 na 42 000 Kč nedosáhlo.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\n**Hasiči**\n\n- Inzeráty HZS (Ústecký, Liberecký kraj) ukazují, že pro nováčka po výcviku činí hrubý služební příjem při nejnižším tarifu cca **34–37 tis. Kč** (včetně rizikového příplatku, dýchací techniky a služební pohotovosti); někde i více.([hzscr.gov.cz](https://hzscr.gov.cz/clanek/hasic-hzs-usteckeho-kraje-387227.aspx))  \n- Po 5% zvýšení tarifů od 1. 1. 2026 lze uvažovat o typické nástupní úrovni **kolem 38 tis. Kč**, tedy **blízko Metnarem uváděným 39 000 Kč**.\n- Odbory a média však pro rok 2025 uvádějí pro „začínající hasiče“ cca **32 000 Kč**, což je patrně konzervativnější (tarif + méně příplatků).([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\n### 5.2 Hlavní omezení ověřování\n\n- **Neexistuje veřejný oficiální statistický údaj** typu „průměrný nástupní plat policisty/hasiče v roce 2026“. Máme jen:\n  - náborové modelové příklady (často vyšší a regionálně specifické),\n  - odborářské a mediální odhady (často nižší).\n- Různé zdroje **užívají pojem „nástupní plat“ různě**:\n  - někdy pouze **tarif** bez příplatků,\n  - někdy **tarif + stabilizační příplatek**,\n  - jinde téměř celý **služební příjem včetně směnnosti a služební pohotovosti**.\n- Některé starší náborové texty na oficiálních webech (např. „až 33 590 Kč“ po roce služby) zjevně **nebyly aktualizovány** po posledních navýšeních.([policie.gov.cz](https://policie.gov.cz/clanek/policie-hleda-nove-policisty-a-policistky.aspx))  \n\n### 5.3 Pro co existuje i proti-tvrzení\n\n- **Policisté 42 000 Kč**:  \n  - *Pro*: modelové náborové nabídky (40–43 tis. v roce 2025) + 5% valorizace v roce 2026.([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n  - *Proti*: odborové odhady nástupního platu 33 tis. v roce 2025 a absence oficiálního průměrného údaje.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\n- **Hasiči 39 000 Kč**:  \n  - *Pro*: oficiální inzeráty HZS (min. cca 36 650 Kč v roce 2025) a 5% zvýšení tarifů – výsledek v pásmu okolo 38–39 tis. Kč.([personalka.cz](https://personalka.cz/899529?utm_source=openai))  \n  - *Proti*: odborářské tvrzení o 32 tis. pro začínající hasiče v roce 2025 a opět chybějící oficiální „průměr“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\n---\n\n## 6. Co z toho plyne pro posuzované tvrzení\n\n- Metnarem uvedené částky **42 000 Kč (policisté) a 39 000 Kč (hasiči)** **odpovídají spíše hornímu odhadu** možného nástupního **služebního příjmu po absolvování přípravy v roce 2026**, při započtení:\n  - vyšších regionálních příplatků,\n  - směnného režimu a služební pohotovosti,\n  - a nedávných valorizací.\n- **Nejsou ale doloženy jako statistický „průměrný nástupní plat“** z celé Policie ČR / HZS ČR a **část relevantních zdrojů (odbory, média) uvádí podstatně nižší hodnoty** (cca 33 tis. pro policisty a 32 tis. pro hasiče v roce 2025).\n- Pro další faktické hodnocení (pravda / nepravda / zavádějící) bude rozhodující, jakou **definici „nástupního platu“** použije fact-checkingová organizace:\n  - pokud „průměrný nástupní plat“ = **oficiální statistický průměr nejnižšího tarifu bez rozsáhlejších příplatků**, jsou hodnoty 42 a 39 tis. spíše **nadhodnocené**,  \n  - pokud „nástupní plat“ = **reálný služební příjem nováčka ve směnném režimu po výcviku včetně běžných příplatků**, pak mohou být uvedené částky **pro část nově nastupujících reálně dosažitelné**, ale stále bez opory v publikovaném celostátním průměru.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in iDNES.cz released on 2026-02-18 available from https://www.idnes.cz/zpravy/domaci/lubomir-metnar-zvysovani-platu-policie-zbranova-legislativa-bezpecnost-migranti.A260217_204844_domaci_krou?zdroj=otvirak.\\n\\n\\nThe claim was made by: Lubomír Metnar, Ministr vnitra\\n\\n\\nThe claim appears in the following immediate context in the source:\\nVláda chystá zpřísnění azylového zákona. Podle ministra vnitra Lubomíra Metnara (ANO) je problém zejména v chybějící digitalizaci agend, kvůli které stát v podstatě neví, kdo se v něm pohybuje. „Těžko se mi to říká, ale Česko nemá přehled o tom, kdo je na jeho území. Agendy nejsou digitalizované a je to velké bezpečnostní riziko,“ říká v rozhovoru pro iDNES.cz Metnar. Mluví i o platech policistů a hasičů či budoucnosti policejního prezidenta.\\nZačněme otázkou, která teď zajímá policisty, hasiče a další členy bezpečnostních sborů. V programovém prohlášení jim všem slibujete přidání, nástupní plat chcete zvednout hromadně na 50 tisíc korun. Kdy se tak podle vás stane?\\nNejdřív řeknu, proč to děláme. My tím hasíme chaos, který vytvořila minulá vláda, když jednostranně navýšila platy vojákům, a to poměrně skokově, a tím se rozevřely nůžky mezi nimi a příslušníky bezpečnostních sborů. Je to reálný problém a my potřebujeme, aby se ty nůžky přivřely a platově byla tato zaměstnání konkurenceschopná.\\nJak na to tedy půjdete?\\nNavýšení nástupních platů policistů a hasičů plánujeme v rámci celého volebního období, protože jsme proti tomu, aby docházelo ke skokovému navýšení, které by vytvářelo rozdíly a mohlo i ohrozit stabilitu rozpočtu. Těch 50 tisíc korun u nástupních platů není částka vycucaná z prstu, děláme to s ohledem na konkurenceschopnost i s přihlédnutím k situaci v zahraničí. V současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun. Celkově to máme spočítané tak, že po celé naše volební období budeme přidávat každý rok na platy bezpečnostních sborů 2,5 miliardy korun.\\nTakže platy porostou začínajícím policistům a hasičům postupně. Ale o kolik?\\nJen vysvětlím, ten rozdíl mezi aktuálním platem a tou naší avizovanou částkou je dnes zhruba 20 procent. Letos se přidalo pět procent, a když každý rok přidáme plus minus dalších pět procent, tak bychom měli za celé volební období smáznout ten rozdíl, aby se nástupním platem dostali na 50 tisíc. Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.\\n\\nProvide a structured, citation-backed verification of the claim: 'V současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 467.79 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Oficiální statistika „průměrného nástupního platu“ policistů ani hasičů neexistuje. Náborové nabídky pro rok 2025–2026 ukazují u části nováčků částky blízké 42 a 39 tisícům, odbory však mluví o 33 a 32 tisících. Výrok proto hodnotíme jako zavádějící.</p>\n\n<p>Výrok tvrdí, že v současnosti je průměrný nástupní plat policistů 42 tisíc korun a hasičů 39 tisíc korun. Vycházíme z toho, že jde o hrubý měsíční služební příjem nováčka po skončení základní přípravy, a to zhruba na přelomu let 2025 a 2026, kdy vláda schválila další pětiprocentní zvýšení tarifů příslušníků bezpečnostních sborů v gesci Ministerstva vnitra s účinností od 1. ledna 2026, jak uvádí tisková zpráva Ministerstva vnitra k plošnému navýšení platů policistů a hasičů o 5 % a k navýšení stabilizačního příplatku od července 2025.</p>\n\n<p>Současně je důležité, že pojem „nástupní plat“ se v praxi používá nejednotně. Náborové materiály Policie ČR i Hasičského záchranného sboru rozlišují částku vyplácenou během základní odborné přípravy („ve škole“) a vyšší služební příjem po nástupu do výkonu služby. Část odborů a médií pak pod „nástupním platem“ často rozumí spíše základní tarif, případně tarif s omezeným počtem příplatků. To komplikuje porovnání různých čísel a ověření „průměru“ pro celou republiku.</p>\n\n<p>U policistů jsme se nejprve zaměřili na oficiální náborové informace. Celostátní náborový web Policie ČR uvádí, že policista bez praxe se středoškolským vzděláním s maturitou má v prvním roce během základní přípravy hrubý služební příjem 32&nbsp;900&nbsp;Kč, přičemž průměrný plat po třech letech služby je 49&nbsp;000&nbsp;Kč a průměrný plat u Policie ČR za rok 2024 činil 56&nbsp;308&nbsp;Kč, jak shrnuje rubrika „Nabízíme“ na náborovém webu Policie ČR (<a href=\"https://nabor.policie.gov.cz/clanek/nabizime.aspx\">nábor.policie.gov.cz</a>). Konkrétní nástupní plat po ukončení školy zde ale uveden není.</p>\n\n<p>Detailnější částky se dají vyčíst z regionálních náborových nabídek. Krajské ředitelství policie Olomouckého kraje v náborovém textu pro okres Jeseník píše, že nově nastupující získávají náborový příspěvek 75&nbsp;000&nbsp;Kč, přičemž mají „plat po dobu přípravy na výkon služby 31&nbsp;500 korun, po nástupu do výkonu služby ihned navýšení na 40&nbsp;000 korun, po 3 letech až 45&nbsp;500 korun“, jak stojí v oficiálním textu Policie ČR (<a href=\"https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx\">policie.gov.cz</a>). Ve Středočeském kraji zase oficiální náborový leták, který zveřejnila např. obec Struhařov, uvádí náborový příspěvek 150&nbsp;000&nbsp;Kč a „plat po nástupu do výkonu služby 43&nbsp;050&nbsp;Kč“ (<a href=\"https://www.struharov.cz/obecni-urad/aktuality/policie-stredoceskeho-kraje-hleda-nove-policisty-pridejte-se-k-nam-449cs.html\">struharov.cz</a>). Starší náborový text středočeské policie hovoří o nástupním služebním příjmu při nástupu „včetně všech příplatků“ ve výši 25&nbsp;720&nbsp;Kč a po ukončení základní odborné přípravy o částce „až 33&nbsp;590&nbsp;Kč“, což odpovídá době před několika vlnami navýšení platů (<a href=\"https://policie.gov.cz/clanek/policie-hleda-nove-policisty-a-policistky.aspx\">policie.gov.cz</a>).</p>\n\n<p>Ministerstvo vnitra v tiskové zprávě z roku 2025 uvádí, že v předchozích letech došlo k významnému růstu služebních příjmů, mimo jiné zvýšením tarifů a stabilizačního příplatku. Zpráva připomíná, že za rok 2023 se tarifní platy policistů zvedly o 10 % a nástupní tarify ještě výrazněji, a že od 1. července 2025 se policistům i hasičům zvyšuje stabilizační příplatek o 3&nbsp;000&nbsp;Kč, takže souhrn všech kroků představuje navýšení o přibližně 10 % průměrného platu policisty v roce 2025. Zároveň vláda schválila od 1. ledna 2026 další plošné zvýšení tarifních platů příslušníků bezpečnostních sborů o 5&nbsp;%, jak popisuje tisková zpráva Ministerstva vnitra (<a href=\"https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx\">mv.gov.cz</a>). Pokud zohledníme tyto valorizace a vyjdeme z příkladů 40&nbsp;000 a 43&nbsp;050&nbsp;Kč po nástupu do výkonu služby v roce 2025, dostáváme pro rok 2026 orientační částky kolem 42&nbsp;000 až 45&nbsp;000&nbsp;Kč u nováčků v některých krajích a režimech služby.</p>\n\n<p>Jiný obrázek ale dávají data, která používají odbory a některé analytické texty. Seznam Zprávy v článku věnovaném plánům vlády na další růst platů bezpečnostních sborů citují policejního odboráře, podle něhož se „nástupní plat příslušníků policie v současné době pohybuje okolo 33 tisíc korun“, jak uvádí článek o systému odměňování policistů a hasičů z listopadu 2025 (<a href=\"https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549\">seznamzpravy.cz</a>). Analytický text na portálu Peoplix, který shrnuje platy policistů za rok 2024, uvádí průměrný plat policisty 56&nbsp;308&nbsp;Kč, ale pro „nástupní plat“ odhaduje hodnotu „kolem 33&nbsp;000&nbsp;Kč“ (<a href=\"https://peoplix.cz/blog/prumerna-mzda-policisty/\">peoplix.cz</a>). Televize Nova ve zprávě o finanční situaci příslušníků bezpečnostních sborů pak uvádí, že „nástupní platy hasičů, policistů a dalších zaměstnanců bezpečnostních složek se pohybují mezi 25 až 30 tisíci korunami čistého měsíčně“, což po přepočtu na hrubý příjem odpovídá přibližně 34–41 tisícům korun podle konkrétní situace (<a href=\"https://tn.nova.cz/zpravodajstvi/clanek/570693-hasici-a-pliciste-musi-mit-dalsi-praci-platy-nam-nestaci-zoufaji-si\">tn.nova.cz</a>).</p>\n\n<p>Veřejně dostupná jednotná statistika „průměrného nástupního platu policisty“ ovšem neexistuje. Máme na jedné straně vyšší částky z náborových letáků, které prezentují modelové služební příjmy po nástupu do výkonu služby v konkrétních krajích (např. 40&nbsp;000 nebo 43&nbsp;050&nbsp;Kč v roce 2025, tedy po valorizaci přibližně 42–45 tisíc v roce 2026), a na druhé straně odborářské a analytické odhady, které pro „nástupní plat“ uvádějí zhruba 33&nbsp;000&nbsp;Kč a po pětiprocentním navýšení v roce 2026 by se pohybovaly kolem 35 tisíc korun. Vzhledem k této nejednotnosti a absenci celostátního průměru lze říct, že částka 42&nbsp;000&nbsp;Kč odpovídá spíše horní hranici možného nástupního služebního příjmu po škole v některých regionech a režimech služby, nikoli doloženému průměru za všechny nové policisty. První dílčí tvrzení, že „průměrný nástupní plat“ policisty je 42 tisíc korun, proto hodnotíme jako zavádějící.</p>\n\n<p>U hasičů je situace podobná, byť náborové informace jsou často ještě roztříštěnější. Hasičský záchranný sbor Ústeckého kraje ve svém oficiálním náborovém inzerátu pro výjezdové hasiče popisuje tarifní zařazení do 2. tarifní třídy s rozmezím 22&nbsp;800–33&nbsp;360&nbsp;Kč a po absolvování vstupního odborného kurzu do 3. tarifní třídy s rozmezím 24&nbsp;590–36&nbsp;060&nbsp;Kč. K tarifní složce přidává zvláštní (rizikový) příplatek 5&nbsp;600&nbsp;Kč, příplatek 500&nbsp;Kč za používání dýchací techniky a zhruba 3&nbsp;500–4&nbsp;500&nbsp;Kč za služební pohotovost, jak vyplývá z detailního popisu podmínky přijetí a odměňování na oficiálním webu HZS ČR (<a href=\"https://hzscr.gov.cz/clanek/hasic-hzs-usteckeho-kraje-387227.aspx\">hzscr.gov.cz</a>). Při použití nejnižšího tarifu 3. třídy po výcviku tak lze pro nováčka orientačně dopočítat hrubý měsíční příjem zhruba 34 tisíc korun.</p>\n\n<p>Ještě konkrétnější částky pro nováčky s praxí i bez praxe uvádí HZS Libereckého kraje v náborových inzerátech na pracovních portálech. Na portálu Personálka.cz se u pozice „hasič, hasič – strojní služba“ píše, že platové zařazení po absolvování odborného výcviku je „od 29&nbsp;550&nbsp;Kč do 42&nbsp;170&nbsp;Kč (dle započitatelné praxe) + 5&nbsp;600&nbsp;Kč zvláštní rizikový příplatek + 500&nbsp;Kč za používání dýchací techniky + 1&nbsp;000&nbsp;Kč stabilizační příplatek“ (<i>„platové zařazení po absolvování odborného výcviku: od 29&nbsp;550&nbsp;Kč do 42&nbsp;170&nbsp;Kč (…)“</i>, <a href=\"https://personalka.cz/899529\">personalka.cz</a>). Minimální modelový služební příjem nového hasiče po výcviku zde tedy vychází na 36&nbsp;650&nbsp;Kč hrubého měsíčně. Stejnou částku pro spodní hranici potvrzuje i inzerát na portálu HitPrace, kde je přímo uvedeno mzdové rozmezí „36&nbsp;650&nbsp;Kč – 49&nbsp;270&nbsp;Kč“ (<a href=\"https://www.hitprace.cz/prace-detail/hasic-ka-nebo-hasic-ka-strojni-sluzba-ceska-lipa-32597020721/\">hitprace.cz</a>).</p>\n\n<p>Na tyto částky navazují stejné systémové valorizace jako u policistů. Zmíněná tisková zpráva Ministerstva vnitra popisuje, že k již provedeným navýšením tarifů a stabilizačního příplatku přibyde od 1. ledna 2026 ještě plošné zvýšení tarifů o 5 % pro všechny příslušníky bezpečnostních sborů, včetně hasičů (<a href=\"https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx\">mv.gov.cz</a>). Pokud tuto úpravu promítneme do minimální částky 36&nbsp;650&nbsp;Kč z náboru HZS Libereckého kraje, dostaneme po zvýšení přibližně 38 tisíc korun hrubého měsíčně. Pro některé nováčky v krajích s vyššími tarify a příplatky tak může být hrubý služební příjem po výcviku kolem 39 tisíc korun dosažitelný.</p>\n\n<p>Také u hasičů však odbory a část médií pracují s nižšími hodnotami. Již zmíněný článek Seznam Zpráv cituje pro začínající hasiče částku 32&nbsp;000&nbsp;Kč, když uvádí, že „začínající hasiči si vydělají 32 tisíc korun“ (<a href=\"https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549\">seznamzpravy.cz</a>). Zpravodajství televize Nova pak opět zmiňuje, že nástupní platy hasičů a policistů se pohybují mezi 25 až 30 tisíci korunami čistého, což po přepočtu znamená zhruba 35–40&nbsp;000&nbsp;Kč hrubého, podle konkrétní situace a uplatněných daňových slev (<a href=\"https://tn.nova.cz/zpravodajstvi/clanek/570693-hasici-a-pliciste-musi-mit-dalsi-praci-platy-nam-nestaci-zoufaji-si\">tn.nova.cz</a>). Starší oficiální materiály Hasičského záchranného sboru ČR navíc pracovaly ještě s nižšími tarify 3. tarifní třídy (od 22&nbsp;940&nbsp;Kč), byť s podobnými zvláštními příplatky (<a href=\"https://www.hasici.cz/Hasici/Hasicsky-zachranny-sbor-CR-(profesionalni-hasici)/Jak-se-stat-hasicem-HZS-(1)/Chces-prestizni-praci-Prijd-mezi-nas-Hasicsky-zach\">hasici.cz</a>).</p>\n\n<p>Stejně jako u policie ani u hasičů neexistuje veřejně dostupný oficiální údaj, který by jednoznačně stanovil „průměrný nástupní plat“ všech nově nastupujících příslušníků HZS v konkrétním roce. Inzeráty HZS v některých krajích ukazují, že po absolvování odborného výcviku mohou nováčci v roce 2025 dosahovat hrubého služebního příjmu kolem 36–37 tisíc korun, což se po pětiprocentním zvýšení tarifů v roce 2026 posouvá k 38–39 tisícům. Jiné zdroje ale nadále uvádějí hodnoty kolem 32&nbsp;000&nbsp;Kč pro „začínající hasiče“. Částka 39&nbsp;000&nbsp;Kč tak představuje spíše horní odhad typického nástupního příjmu v některých podmínkách, nikoli doložený průměr pro celou republiku. Druhé dílčí tvrzení, že „průměrný nástupní plat“ hasiče je 39 tisíc korun, proto také hodnotíme jako zavádějící.</p>\n\n<p>Celkově tedy platí, že uvedené částky 42&nbsp;000&nbsp;Kč pro policisty a 39&nbsp;000&nbsp;Kč pro hasiče mohou odpovídat zhruba tomu, co v roce 2026 pobírají někteří nově nastupující příslušníci po skončení základní přípravy v režimu směnné služby s běžnými příplatky a po nedávných valorizacích. Neexistuje však oficiální celostátní statistika „průměrného nástupního platu“ a část relevantních zdrojů (odbory, odborné texty, reportáže) uvádí pro nástupní platy zřetelně nižší hodnoty, zejména pokud vycházejí z čistých výdělků nebo pouze z tarifní složky. Výrok tak vytváří dojem, že zmíněné částky představují běžný průměr pro všechny nové policisty a hasiče, ačkoliv ve skutečnosti odrážejí spíše horní hranici některých náborových nabídek. Z tohoto důvodu hodnotíme celý výrok jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0761d98ce6383d700069988f1e2b4c8191adbc3575070557ec",
+    "created_at": 1771605790.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0761d98ce6383d700069988f285e808191b16759fd768c8bb0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f2bc928819190b8f359812a3233",
+        "action": {
+          "query": "\"průměrný nástupní plat\" policistů 42 000",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"průměrný nástupní plat\" policistů 42 000",
+            "nástupní plat policisty 2025 2024 42 000",
+            "\"nástupní služební příjem\" \"příslušníka Policie České republiky\" 2024",
+            "\"nástupní plat\" \"hasičů\" 39 000"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f2e1118819196f72bad3fd9182a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f35cc848191ac9c8fddf07c4c89",
+        "action": {
+          "query": "\"nástupní služební příjem\" \"Policie České republiky\" 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nástupní služební příjem\" \"Policie České republiky\" 2024",
+            "\"Staň se policistou\" nástupní služební příjem 2024",
+            "\"Hasičský záchranný sbor\" nástupní plat 2024",
+            "HZS ČR nábor nástupní služební příjem"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f37f76c819196b9706f62ccbaaf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f3d0418819191d7f5f35aaa02dc",
+        "action": {
+          "query": "\"Plat po nástupu do výkonu služby\" 43 050",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Plat po nástupu do výkonu služby\" 43 050",
+            "\"Plat po nástupu do výkonu služby 43 050\" policie",
+            "\"Plat po nástupu do výkonu služby\" policie 2025",
+            "\"plat po nástupu do výkonu služby\" \"Policie ČR\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f3f57e08191bf749dec6459de86",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f4190988191942b09d31770ffaf",
+        "action": {
+          "query": "\"plat po nástupu do výkonu služby\" \"Hasičského záchranného sboru\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"plat po nástupu do výkonu služby\" \"Hasičského záchranného sboru\"",
+            "\"nástupní služební příjem\" \"hasič\" 2024 2025",
+            "\"plat po nástupu do výkonu služby\" \"hasič\"",
+            "\"Nástupní plat\" \"Hasičský záchranný sbor\" 2024 2025"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f442a608191914cffdd8c6a3bbe",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f45891481919fc37b20141e4562",
+        "action": {
+          "query": "\"plat po nástupu\" \"hasič\" \"služby\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"plat po nástupu\" \"hasič\" \"služby\"",
+            "\"plat po nástupu do výkonu služby\" \"hasičsk\"",
+            "\"nástupní služební příjem\" \"hasičsk\"",
+            "\"poskytnutí informace\" \"nástupní\" \"Hasičský záchranný sbor\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f487848819192155b1908ce5689",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f499c3c8191bcf521a7ab611f6d",
+        "action": {
+          "query": "\"nástupní služební příjem\" \"Hasičského záchranného sboru\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nástupní služební příjem\" \"Hasičského záchranného sboru\"",
+            "\"plat po dobu přípravy na výkon služby\" \"hasič\"",
+            "\"po dobu přípravy na výkon služby\" \"HZS\"",
+            "\"plat po nástupu do výkonu služby\" \"hasičského\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f4c7ab48191aeeaf3b144438ddf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f4cde588191a573ce3b958c977b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f4dd81c8191be44e98d5301ec22",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f4e5dbc8191aabe1b3a52ab98af",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f4ffbf081918813d6ea972ae979",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f5035f88191a8b19bd4dd48506a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f519df88191a3fe8348b2dca0f7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f5221548191afae878646b653d4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f532e648191aefe50620647900c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f53b3b88191bc1944a08cf6bc72",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f566118819183787d91ac569063",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f5833788191892124193f9de5ae",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f5ba2648191a672a8be4c5dbf8c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f5f03c48191b2d7a88827e9036f",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "2024"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f622a54819199da3b86694ac463",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f642e088191b2571087c6d46adb",
+        "action": {
+          "query": "\"Nástupní plat příslušníků policie\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Nástupní plat příslušníků policie\"",
+            "\"Nástupní plat\" policistů 33 tisíc",
+            "\"Nástupní plat\" hasičů 32 tisíc",
+            "\"Nástupní platy policistů a hasičů\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f6a99dc819184cd5d5152d44964",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f72034081919c36081e41e0b9f1",
+        "action": {
+          "query": "\"nařízení vlády č. 304/2018 Sb.\" služební tarify příslušníků bezpečnostních sborů",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nařízení vlády č. 304/2018 Sb.\" služební tarify příslušníků bezpečnostních sborů",
+            "\"nařízení vlády č. 341/2017 Sb.\" příslušníků bezpečnostních sborů",
+            "\"služební tarif\" policista 2. tarifní třída 2025",
+            "\"tarifní třídy\" \"příslušníků bezpečnostních sborů\" nařízení vlády"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f760d708191849d0e585e0f3585",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f8a3ad081918762ed7c78916fe9",
+        "action": {
+          "query": "\"průměrný služební příjem\" \"Hasičského záchranného sboru\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"průměrný služební příjem\" \"Hasičského záchranného sboru\"",
+            "\"průměrný měsíční služební příjem\" \"HZS\"",
+            "\"průměrný hrubý měsíční služební příjem\" \"hasič\"",
+            "\"průměrný nástupní\" \"HZS\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f913e4881919c658738b6930ab5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988f91ab5c81918daca22c1eb8c5d1",
+        "action": {
+          "query": "\"platové zařazení ve 2. tarifní třídě\" \"hasič\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"platové zařazení ve 2. tarifní třídě\" \"hasič\"",
+            "\"zvláštní (rizikový) příplatek\" 5600 500 \"hasič\"",
+            "\"platové zařazení ve 2. tarifní třídě\" \"Hasičského záchranného\"",
+            "\"Nástupní služební příjem\" \"Hasičského záchranného sboru\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988f983e9c81919b6c3cbdcbbbace2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988fb059688191b23210d6f870350b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988fb2016481918edc2875b9b49fde",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988fb60a1c8191a8e40724481b4a9d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988fb9b0ac8191b8f58f6d7652d6fe",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988fcc42848191a4226ec4ef04fab2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988fce55548191ab18dd0972cb7ac0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988fcf06048191bc584f21d2547e10",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988fd0754c8191bfc96c39f6e7a208",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988fd23e6c8191b0d18f40682f2c08",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988fd4bccc8191b99a35b366bc339d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988fd626488191be7c0988cb13aa93",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988fd834f8819180e4af03e90690f1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988fd9f2c8819197dbeb98b9f2f3f4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988fddfdf48191872f86677e6306fd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0761d98ce6383d700069988fecee948191b08089df0f6279b4",
+        "action": {
+          "query": "\"poskytnutí informace\" \"nástupní\" \"policie\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"poskytnutí informace\" \"nástupní\" \"policie\"",
+            "\"Poskytnutí informace – platy\" \"Policie\"",
+            "\"vyzadané informace\" \"nástupní plat\" \"Policie\"",
+            "\"vyžádané informace\" \"nástupní plat\" \"policie\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0761d98ce6383d700069988ff439388191b6691bd8f5caf7f3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0761d98ce6383d700069989053facc8191ada61812669f0566",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 764,
+                "start_index": 624,
+                "title": "Policistům i hasičům se zvýší platy. Od července si polepší o 3000 korun - Procesní modelování",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 1625,
+                "start_index": 1529,
+                "title": "Hledáte zajímavou práci a zároveň bydlení? - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx"
+              },
+              {
+                "end_index": 2358,
+                "start_index": 2283,
+                "title": "Nábor Policie České republiky | Nabízíme",
+                "type": "url_citation",
+                "url": "https://nabor.policie.gov.cz/clanek/nabizime.aspx"
+              },
+              {
+                "end_index": 2967,
+                "start_index": 2871,
+                "title": "Hledáte zajímavou práci a zároveň bydlení? - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx"
+              },
+              {
+                "end_index": 3538,
+                "start_index": 3442,
+                "title": "Policie hledá nové policisty a policistky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/policie-hleda-nove-policisty-a-policistky.aspx"
+              },
+              {
+                "end_index": 4111,
+                "start_index": 3969,
+                "title": "Policie Středočeského kraje hledá nové policisty, přidejte se k nám! - Oficiální stránky obce Struhařov, okr. Praha-východ",
+                "type": "url_citation",
+                "url": "https://www.struharov.cz/obecni-urad/aktuality/policie-stredoceskeho-kraje-hleda-nove-policisty-pridejte-se-k-nam-449cs.html"
+              },
+              {
+                "end_index": 4608,
+                "start_index": 4512,
+                "title": "Policie hledá nové policisty a policistky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/policie-hleda-nove-policisty-a-policistky.aspx"
+              },
+              {
+                "end_index": 4797,
+                "start_index": 4701,
+                "title": "Hledáte zajímavou práci a zároveň bydlení? - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx"
+              },
+              {
+                "end_index": 5370,
+                "start_index": 5210,
+                "title": "Nastupují a mají dostat 50 tisíc. Ale co se stávajícími hasiči a policisty? - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549"
+              },
+              {
+                "end_index": 5799,
+                "start_index": 5717,
+                "title": "Šokující pravda o průměrné mzdě policistů v Česku – Kolik skutečně vydělávají? - Peoplix",
+                "type": "url_citation",
+                "url": "https://peoplix.cz/blog/prumerna-mzda-policisty/?utm_source=openai"
+              },
+              {
+                "end_index": 6292,
+                "start_index": 6144,
+                "title": "Hasiči a policisté musí mít další práci. Platy nám nestačí, zoufají si | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/570693-hasici-a-pliciste-musi-mit-dalsi-praci-platy-nam-nestaci-zoufaji-si?utm_source=openai"
+              },
+              {
+                "end_index": 6875,
+                "start_index": 6698,
+                "title": "Rakušan pod tlakem. Policisté a hasiči uvidí od příštího roku na výplatnici každý měsíc o 2 a půl tisíce víc - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/rakusan-pod-tlakem-policiste-a-hasici-uvidi-od-pristiho-roku-na-vyplatnici-kazdy-mesic-o-2-a-pul-tisice-vic/?utm_source=openai"
+              },
+              {
+                "end_index": 7178,
+                "start_index": 7001,
+                "title": "Rakušan pod tlakem. Policisté a hasiči uvidí od příštího roku na výplatnici každý měsíc o 2 a půl tisíce víc - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/rakusan-pod-tlakem-policiste-a-hasici-uvidi-od-pristiho-roku-na-vyplatnici-kazdy-mesic-o-2-a-pul-tisice-vic/?utm_source=openai"
+              },
+              {
+                "end_index": 7526,
+                "start_index": 7386,
+                "title": "Policistům i hasičům se zvýší platy. Od července si polepší o 3000 korun - Procesní modelování",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 7793,
+                "start_index": 7653,
+                "title": "Policistům i hasičům se zvýší platy. Od července si polepší o 3000 korun - Procesní modelování",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 8312,
+                "start_index": 8216,
+                "title": "Hledáte zajímavou práci a zároveň bydlení? - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx"
+              },
+              {
+                "end_index": 8540,
+                "start_index": 8398,
+                "title": "Policie Středočeského kraje hledá nové policisty, přidejte se k nám! - Oficiální stránky obce Struhařov, okr. Praha-východ",
+                "type": "url_citation",
+                "url": "https://www.struharov.cz/obecni-urad/aktuality/policie-stredoceskeho-kraje-hleda-nove-policisty-pridejte-se-k-nam-449cs.html"
+              },
+              {
+                "end_index": 9085,
+                "start_index": 8925,
+                "title": "Nastupují a mají dostat 50 tisíc. Ale co se stávajícími hasiči a policisty? - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549"
+              },
+              {
+                "end_index": 9683,
+                "start_index": 9587,
+                "title": "Hledáte zajímavou práci a zároveň bydlení? - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx"
+              },
+              {
+                "end_index": 10207,
+                "start_index": 10047,
+                "title": "Nastupují a mají dostat 50 tisíc. Ale co se stávajícími hasiči a policisty? - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549"
+              },
+              {
+                "end_index": 11326,
+                "start_index": 11243,
+                "title": "Hasič - HZS Ústeckého kraje - Hasičský záchranný sbor České republiky",
+                "type": "url_citation",
+                "url": "https://hzscr.gov.cz/clanek/hasic-hzs-usteckeho-kraje-387227.aspx"
+              },
+              {
+                "end_index": 11954,
+                "start_index": 11756,
+                "title": "Chceš prestižní práci? Přijď mezi nás. Hasičský záchranný sbor Ústeckého kraje hledá hasiče | hasici.cz",
+                "type": "url_citation",
+                "url": "https://www.hasici.cz/Hasici/Hasicsky-zachranny-sbor-CR-%28profesionalni-hasici%29/Jak-se-stat-hasicem-HZS-%281%29/Chces-prestizni-praci-Prijd-mezi-nas-Hasicsky-zach?utm_source=openai"
+              },
+              {
+                "end_index": 12396,
+                "start_index": 12331,
+                "title": "Nabídka práce: HASIČ/KA nebo HASIČ/KA - STROJNÍ SLUŽBA - Personálka.cz",
+                "type": "url_citation",
+                "url": "https://personalka.cz/899529?utm_source=openai"
+              },
+              {
+                "end_index": 12753,
+                "start_index": 12620,
+                "title": "HASIČ/KA nebo HASIČ/KA - STROJNÍ SLUŽBA - Česká Lípa - 36 650 Kč - 49 270 Kč | HitPrace.cz",
+                "type": "url_citation",
+                "url": "https://www.hitprace.cz/prace-detail/hasic-ka-nebo-hasic-ka-strojni-sluzba-ceska-lipa-32597020721/?utm_source=openai"
+              },
+              {
+                "end_index": 13291,
+                "start_index": 13131,
+                "title": "Nastupují a mají dostat 50 tisíc. Ale co se stávajícími hasiči a policisty? - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549"
+              },
+              {
+                "end_index": 13732,
+                "start_index": 13584,
+                "title": "Hasiči a policisté musí mít další práci. Platy nám nestačí, zoufají si | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/570693-hasici-a-pliciste-musi-mit-dalsi-praci-platy-nam-nestaci-zoufaji-si?utm_source=openai"
+              },
+              {
+                "end_index": 14070,
+                "start_index": 14005,
+                "title": "Nabídka práce: HASIČ/KA nebo HASIČ/KA - STROJNÍ SLUŽBA - Personálka.cz",
+                "type": "url_citation",
+                "url": "https://personalka.cz/899529?utm_source=openai"
+              },
+              {
+                "end_index": 14705,
+                "start_index": 14545,
+                "title": "Nastupují a mají dostat 50 tisíc. Ale co se stávajícími hasiči a policisty? - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549"
+              },
+              {
+                "end_index": 15323,
+                "start_index": 15240,
+                "title": "Hasič - HZS Ústeckého kraje - Hasičský záchranný sbor České republiky",
+                "type": "url_citation",
+                "url": "https://hzscr.gov.cz/clanek/hasic-hzs-usteckeho-kraje-387227.aspx"
+              },
+              {
+                "end_index": 15831,
+                "start_index": 15671,
+                "title": "Nastupují a mají dostat 50 tisíc. Ale co se stávajícími hasiči a policisty? - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549"
+              },
+              {
+                "end_index": 16263,
+                "start_index": 16167,
+                "title": "Hledáte zajímavou práci a zároveň bydlení? - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx"
+              },
+              {
+                "end_index": 16721,
+                "start_index": 16561,
+                "title": "Nastupují a mají dostat 50 tisíc. Ale co se stávajícími hasiči a policisty? - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549"
+              },
+              {
+                "end_index": 17051,
+                "start_index": 16968,
+                "title": "Hasič - HZS Ústeckého kraje - Hasičský záchranný sbor České republiky",
+                "type": "url_citation",
+                "url": "https://hzscr.gov.cz/clanek/hasic-hzs-usteckeho-kraje-387227.aspx"
+              },
+              {
+                "end_index": 17499,
+                "start_index": 17339,
+                "title": "Nastupují a mají dostat 50 tisíc. Ale co se stávajícími hasiči a policisty? - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549"
+              },
+              {
+                "end_index": 18247,
+                "start_index": 18151,
+                "title": "Policie hledá nové policisty a policistky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/policie-hleda-nove-policisty-a-policistky.aspx"
+              },
+              {
+                "end_index": 18507,
+                "start_index": 18411,
+                "title": "Hledáte zajímavou práci a zároveň bydlení? - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx"
+              },
+              {
+                "end_index": 18775,
+                "start_index": 18615,
+                "title": "Nastupují a mají dostat 50 tisíc. Ale co se stávajícími hasiči a policisty? - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549"
+              },
+              {
+                "end_index": 18996,
+                "start_index": 18931,
+                "title": "Nabídka práce: HASIČ/KA nebo HASIČ/KA - STROJNÍ SLUŽBA - Personálka.cz",
+                "type": "url_citation",
+                "url": "https://personalka.cz/899529?utm_source=openai"
+              },
+              {
+                "end_index": 19271,
+                "start_index": 19111,
+                "title": "Nastupují a mají dostat 50 tisíc. Ale co se stávajícími hasiči a policisty? - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549"
+              }
+            ],
+            "text": "## 1. Tvrzení a jeho rozklad\n\nSporné tvrzení (18. 2. 2026):\n\n> „V současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun.“\n\nMožný výklad:\n\n- „nástupní plat“ = hrubý **měsíční služební příjem** nováčka (základní tarif + příplatky), zřejmě **po absolvování základní přípravy** („po nástupu do výkonu služby“), ne během školy;\n- „průměrný“ = nějaký **modelový / průměrný případ**, ne nutně oficiální statistický průměr (taková položka se veřejně standardně nepublikuje);\n- „v současnosti“ – k datu rozhovoru, tedy cca **počátek roku 2026**, po plánovaném navýšení tarifů o 5 % od 1. 1. 2026.([mv.gov.cz](https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx?utm_source=openai))  \n\nRozdělíme na dvě dílčí tvrzení:\n\n1. A: Průměrný nástupní plat policisty je cca **42 000 Kč hrubého měsíčně**.\n2. B: Průměrný nástupní plat hasiče je cca **39 000 Kč hrubého měsíčně**.\n\nNíže uvádím dostupné důkazy pro obě skupiny.\n\n---\n\n## 2. Kontext: jak se u bezpečnostních sborů chápe „nástupní plat“\n\nU policistů i hasičů se v praxi rozlišuje zejména:  \n\n- **„plat/služební příjem po dobu přípravy na výkon služby“** (během základní odborné přípravy, „škola“),  \n- **„plat/služební příjem po nástupu do výkonu služby“** – tj. po skončení základního kursu, kdy nováček nastoupí na útvar.\n\nNáborové materiály obvykle uvádějí obě částky (školní a po nástupu) a často i rozpis tarifní třídy + příplatky (rizikový, za dýchací techniku, služební pohotovost apod.).([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n\nMetnar pravděpodobně míří právě na **celkový hrubý služební příjem po nástupu do výkonu služby**, tedy vyšší částku než je samotný základní tarif.\n\n---\n\n## 3. Dílčí tvrzení A: nástupní plat policistů = 42 000 Kč\n\n### 3.1 Oficiální náborové materiály Policie ČR (2024–2025)\n\n#### a) Celostátní náborový web – „Nabízíme“\n\nNa náborovém webu Policie ČR se pro rok 2024 uvádí (stav zveřejněný v roce 2025):\n\n> „Policista bez praxe, se středním vzděláním s maturitou **pobírá v prvním roce během „školy“ hrubý služební příjem 32 900 Kč**. Průměrný plat po třech letech služby je **49 000 Kč**, přičemž **průměrný plat u Policie ČR za rok 2024 byl 56 308 Kč**.“([nabor.policie.gov.cz](https://nabor.policie.gov.cz/clanek/nabizime.aspx))  \n\nTato stránka:\n- **neuvádí explicitně „nástupní plat po škole“**, ale:\n  - „školní“ příjem = 32 900 Kč (2024),\n  - průměr po 3 letech = 49 000 Kč.\n\n#### b) KŘP Olomouckého kraje – Jeseník (12. 3. 2025)\n\nNáborový text k okresu Jeseník uvádí velmi konkrétní částky:\n\n> „… nově nastupující po 6 měsících od nástupu získávají náborový příspěvek ve výši 75 tisíc korun, **plat po dobu přípravy na výkon služby 31 500 korun, po nástupu do výkonu služby ihned navýšení na 40 000 korun, po 3 letech až 45 500 korun**.“([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n\nZ toho plyne pro modelového nováčka:\n\n- **2025 – po škole: 40 000 Kč hrubého** (bez ohledu na další příplatky dle režimu služby).\n\n#### c) KŘP Středočeského kraje – starší náborový text\n\nStředočeská policie (text bez patrného data, ale dlouhodobě zveřejněný) uvádí:\n\n> „**Nástupní služební příjem při nástupu, včetně všech příplatků, dosahuje ke 25 720 Kč hrubého. Po ukončení Základní odborné přípravy (po 1 roce) služební příjem dosahuje částky až 33 590 Kč hrubého.**“([policie.gov.cz](https://policie.gov.cz/clanek/policie-hleda-nove-policisty-a-policistky.aspx))  \n\nTo odpovídá **starší úrovni odměňování** (zřejmě před sérií výraznějších navýšení v letech 2022–2024). Není jisté, zda byla tato stránka aktualizována po posledních zvýšeních.\n\n#### d) Náborové letáky pro Středočeský kraj (únor 2025)\n\nŘada obcí ve Středočeském kraji zveřejnila oficiální náborový leták Policie ČR (2025), např. obec Struhařov:\n\n> „NÁBOROVÝ PŘÍSPĚVEK 150 000 Kč. **Plat po nástupu do výkonu služby 43 050 Kč.**“([struharov.cz](https://www.struharov.cz/obecni-urad/aktuality/policie-stredoceskeho-kraje-hleda-nove-policisty-pridejte-se-k-nam-449cs.html))  \n\nLeták (PDF z 12. 2. 2025) reprezentuje **jiný modelový příklad**: zde je deklarován **hrubý měsíční plat po nástupu do výkonu služby 43 050 Kč**.\n\n**Shrnutí oficiálních policejních zdrojů (2024–2025):**\n\n- během základní přípravy (škola): cca **31 500–32 900 Kč** hrubého,  \n- po nástupu do výkonu služby:\n  - starší texty: **„až 33 590 Kč“** (Středočeský kraj – zjevně před velkými valorizacemi),([policie.gov.cz](https://policie.gov.cz/clanek/policie-hleda-nove-policisty-a-policistky.aspx))  \n  - novější regionální příklady (Olomouc Jeseník, únor/březen 2025): **40 000–43 050 Kč**.([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n\nJiž zde je vidět, že **„nástupní plat po škole“ se podle konkrétní nabídky pohybuje někde mezi cca 33 a 43 tisíci Kč hrubého měsíčně**.\n\n### 3.2 Další zdroje (odbory, média) – nižší hodnoty\n\n#### a) Seznam Zprávy (1. 11. 2025)\n\nV článku o plánech nové vlády na zvýšení nástupních platů cituje Seznam Zprávy odboráře:\n\n> „**Nástupní plat příslušníků policie se v současné době pohybuje okolo 33 tisíc korun**…“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\nZde je **„nástupní plat“ chápán jako cca 33 000 Kč hrubého**, tedy spíše v dolním pásmu oficiálních náborových informací (a zjevně bez vyšších regionálních příplatků).\n\n#### b) Peoplix (blog o platech policistů, data pro 2024)\n\nAnalytický text shrnuje:\n\n- „**Průměrný plat v roce 2024 – 56 308 Kč**,“  \n- „**Nástupní plat – kolem 33 000 Kč.**“([peoplix.cz](https://peoplix.cz/blog/prumerna-mzda-policisty/?utm_source=openai))  \n\nOpět je pro „nástupní plat“ uváděna hodnota blízká **33 000 Kč**, což souhlasí se Seznamem Zprávy.\n\n#### c) TN.cz (22. 8. 2024)\n\nReportáž o finanční situaci příslušníků bezpečnostních sborů uvádí:\n\n- „**Nástupní platy hasičů, policistů a dalších zaměstnanců bezpečnostních složek se pohybují mezi 25 až 30 tisíci korunami čistého měsíčně.**“([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/570693-hasici-a-pliciste-musi-mit-dalsi-praci-platy-nam-nestaci-zoufaji-si?utm_source=openai))  \n\nČistá mzda 25–30 tisíc odpovídá zhruba **hrubému příjmu někde mezi 34–41 tisíci Kč**, což je široké rozmezí a odpovídá i regionálním rozdílům.\n\n### 3.3 Kontex navýšení platů 2023–2026\n\nPro správnou interpretaci čísel je důležité, jak se platy zvyšovaly:\n\n- **2023**: podle Ekonomického deníku došlo „začátkem loňského roku“ k\n  - **zvýšení tarifních platů o 10 %**,  \n  - **u nástupních platů o 17 %**.([ekonomickydenik.cz](https://ekonomickydenik.cz/rakusan-pod-tlakem-policiste-a-hasici-uvidi-od-pristiho-roku-na-vyplatnici-kazdy-mesic-o-2-a-pul-tisice-vic/?utm_source=openai))  \n- **2024**: podařilo se prosadit řešení, aby „platy policistů a hasičů zůstaly na stejné úrovni“ – tj. reálně **stagnace**.([ekonomickydenik.cz](https://ekonomickydenik.cz/rakusan-pod-tlakem-policiste-a-hasici-uvidi-od-pristiho-roku-na-vyplatnici-kazdy-mesic-o-2-a-pul-tisice-vic/?utm_source=openai))  \n- **2025**: vláda schválila navýšení stabilizačního příplatku o 3 000 Kč od 1. 7. 2025; součet všech navýšení v roce 2025 činí „**5 500 až 5 650 Kč**, což odpovídá cca **10 % průměrného platu policisty**.“([mv.gov.cz](https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx?utm_source=openai))  \n- **Od 1. 1. 2026**: vláda schválila **další 5% zvýšení tarifních platů** všech příslušníků bezpečnostních sborů v gesci MV.([mv.gov.cz](https://mv.gov.cz/webpm/clanek/policistum-i-hasicum-se-zvysi-platy-od-cervence-si-polepsi-o-3000-korun.aspx?utm_source=openai))  \n\nTato navýšení působí **i na „nástupní plat“**, ale jejich přesný dopad závisí na:\n\n- tom, zda se vztahují jen na tarif nebo i na některé příplatky,\n- regionu a konkrétní nabídce (směnný vs. denní režim).\n\n### 3.4 Odhad hodnoty k počátku 2026\n\nPokud vezmeme za výchozí „nástupní plat po nástupu do výkonu služby“ v roce 2025 z oficiálních nabídek:\n\n- Jeseník (KŘP Olomouckého kraje): **40 000 Kč** po škole, březen 2025.([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n- Leták pro Středočeský kraj: **43 050 Kč** po nástupu do výkonu služby, únor 2025.([struharov.cz](https://www.struharov.cz/obecni-urad/aktuality/policie-stredoceskeho-kraje-hleda-nove-policisty-pridejte-se-k-nam-449cs.html))  \n\nA vezmeme v úvahu pětiprocentní navýšení tarifů od 1. 1. 2026 (část příjmu), dostáváme:\n\n- 40 000 Kč × 1,05 ≈ **42 000 Kč**  \n- 43 050 Kč × 1,05 ≈ **45 200 Kč**\n\nPokud ale vyjdeme z hodnot uváděných odbory (Seznam Zprávy, Peoplix) pro konec roku 2025, tj. **okolo 33 000 Kč**, pak po 5% navýšení v roce 2026 dostaneme pouze cca **34 650 Kč**, tedy **podstatně méně** než 42 000 Kč.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\nRozpor tedy plyne z odlišného chápání:\n\n- **Odbory a část médií** zřejmě mluví o **„základním“ nástupním tarifu** bez celé škály příplatků (nebo o starší úrovni),  \n- **náborové letáky** obvykle uvádějí **celkový modelový služební příjem v konkrétním režimu služby**, tedy vyšší čísla.\n\n### 3.5 Mezi-závěr k tvrzení A\n\n- Existují **oficiální náborové texty Policie ČR** pro rok 2025, kde je po nástupu do výkonu služby deklarován příjem **40 000–43 050 Kč** (bez rozpisu všech variabilních složek).([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n- Po započtení **5% navýšení od 1. 1. 2026** může být pro řadu nováčků **hrubý služební příjem po škole v pásmu okolo 42 000–44 000 Kč**.\n- **Neexistuje však veřejně dostupná oficiální statistika** „průměrného nástupního platu“; navíc **odbory a některá média uvádějí pro rok 2025 čísla kolem 33 000 Kč**, která by ani po valorizaci 2026 na 42 000 Kč nedosáhla.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\nZ toho plyne, že údaj **42 000 Kč**:\n\n- může odpovídat **horní hranici reálně dosahovaných nástupních služebních příjmů** v některých regionech a režimech služby po lednu 2026,  \n- **není ale doložen jako oficiální „průměrný“ nástupní plat** za celou Policii ČR; část relevantních zdrojů uvádí pro „nástupní plat“ zřetelně nižší hodnoty.\n\n---\n\n## 4. Dílčí tvrzení B: nástupní plat hasičů = 39 000 Kč\n\nU hasičů jsou data méně přehledná, většinou se zveřejňují **tarifní třídy a příplatky**, nikoli hotová suma „nástupního platu“.\n\n### 4.1 Oficiální a polooﬁciální inzeráty HZS (výjezdové pozice)\n\n#### a) Hasič – HZS Ústeckého kraje (oficiální web HZS ČR)\n\nNáborový inzerát pro výjezdové hasiče (HZS Ústeckého kraje) uvádí:\n\n> „… platové zařazení ve 2. tarifní třídě (rozpětí … 22 800–33 360 Kč) po absolvování vstupního odborného kurzu v 3. tarifní třídě … **rozpětí … 24 590–36 060 Kč** … + zvláštní (rizikový) příplatek 5 600 Kč + příplatek za používání dýchací techniky 500 Kč + odměna za služební pohotovost cca 3 500–4 500 Kč.“([hzscr.gov.cz](https://hzscr.gov.cz/clanek/hasic-hzs-usteckeho-kraje-387227.aspx))  \n\nPro **nováčka bez praxe po absolvování odborného výcviku** (spodní hranice 3. třídy):\n\n- tarif 24 590 Kč + 5 600 (rizikový) + 500 (dýchací technika) + cca 3 500 (služební pohotovost)  \n  → **cca 34 190 Kč hrubého měsíčně** (orientačně).\n\nStarší varianta téhož typu inzerátu na portálu hasici.cz uváděla pro 3. třídu nižší tarify (22 940–34 410 Kč), ale obdobné příplatky; suma pro nejnižší stupeň vycházela cca 32–33 tisíc Kč.([hasici.cz](https://www.hasici.cz/Hasici/Hasicsky-zachranny-sbor-CR-%28profesionalni-hasici%29/Jak-se-stat-hasicem-HZS-%281%29/Chces-prestizni-praci-Prijd-mezi-nas-Hasicsky-zach?utm_source=openai))  \n\n#### b) Inzeráty HZS Libereckého kraje (Personálka / HitPrace – 2025)\n\nNáborový inzerát HZS Libereckého kraje („HASIČ, HASIČ–STROJNÍ SLUŽBA“) uvádí:\n\n> „**Platové zařazení po absolvování odborného výcviku: od 29 550 Kč do 42 170 Kč (dle započitatelné praxe) + 5 600 Kč zvláštní rizikový příplatek + 500 Kč za používání dýchací techniky + 1 000 Kč stabilizační příplatek.**“([personalka.cz](https://personalka.cz/899529?utm_source=openai))  \n\nPro **čerstvého absolventa bez praxe po výcviku** tedy minimálně:\n\n- 29 550 + 5 600 + 500 + 1 000 = **36 650 Kč hrubého měsíčně**.\n\nHitPrace k téže pozici přímo uvádí mzdové rozpětí:\n\n> „Mzda: **36 650 Kč – 49 270 Kč**.“([hitprace.cz](https://www.hitprace.cz/prace-detail/hasic-ka-nebo-hasic-ka-strojni-sluzba-ceska-lipa-32597020721/?utm_source=openai))  \n\nTo potvrzuje, že **reálně vyplácený „nástupní“ služební příjem po výcviku** se u výjezdových hasičů v některých krajích v roce 2025 pohybuje **od cca 36,7 tis. Kč výše**.\n\n### 4.2 Odbory a média – nižší čísla\n\n#### a) Seznam Zprávy (1. 11. 2025)\n\nTentýž článek, který cituje „33 000 Kč“ pro policisty, uvádí pro hasiče:\n\n> „**Začínající hasiči si vydělají 32 tisíc korun.**“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\nTo je **výrazně pod 36–37 tisíci**, které vycházejí z náborových inzerátů HZS Libereckého kraje, a blíže starším nižším tarifům.\n\n#### b) TN.cz (22. 8. 2024)\n\nStejný článek jako u policistů:\n\n> „Nástupní platy hasičů, policistů … se pohybují mezi 25 až 30 tisíci korunami čistého měsíčně.“([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/570693-hasici-a-pliciste-musi-mit-dalsi-praci-platy-nam-nestaci-zoufaji-si?utm_source=openai))  \n\n25–30 tisíc čistého odpovídá hlasem z praxe; hrubý příjem typického nováčka hasiče v roce 2024 mohl být cca **35–40 tisíc**.\n\n### 4.3 Odhad hodnoty pro rok 2026\n\nZ výše uvedeného:\n\n- **HZS Libereckého kraje 2025** (po odborném výcviku) – min. 36 650 Kč hrubého měsíčně.([personalka.cz](https://personalka.cz/899529?utm_source=openai))  \n- Po **5% valorizaci tarifů od 1. 1. 2026** se tato minimální částka (pokud se valorizace projeví primárně v tarifu) posune zhruba na:\n\n  - tarifní složka 29 550 Kč → +5 % = 31 028 Kč  \n  - celkový služební příjem pak orientačně ≈ 31 028 + 5 600 + 500 + 1 000 ≈ **38 100 Kč**.\n\nTo je **velmi blízko Metnarem uváděným 39 000 Kč**.\n\nSoučasně ale platí:\n\n- Odboráři v listopadu 2025 hovoří o nástupním platu hasičů **32 000 Kč**, což je oproti 39 000 Kč rozdíl cca **+22 %**.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\nRozdíl je opět vysvětlitelný různým vymezením:\n\n- **odbory/média** – spíše konzervativně (tarif + jen část příplatků),  \n- **náborové materiály HZS** – často ukazují **„kompletní“ služební příjem včetně směnnosti a služební pohotovosti**, který je vyšší.\n\n### 4.4 Mezi-závěr k tvrzení B\n\n- Oficiální a polooﬁciální náborové nabídky HZS (2024–2025) ukazují, že **minimální hrubý služební příjem nového výjezdového hasiče po odborném výcviku** se pohybuje cca od **32–37 tis. Kč** (podle starších x nových tarifů, kraje a příplatků).([hzscr.gov.cz](https://hzscr.gov.cz/clanek/hasic-hzs-usteckeho-kraje-387227.aspx))  \n- Po započtení plánovaného 5% navýšení tarifů od 1. 1. 2026 se **modelový „nástupní“ příjem kolem 38–39 tis. Kč hrubého** jeví jako **reálně dosažitelný** u části nováčků.\n- **Není však zveřejněna oficiální statistika „průměrného nástupního platu“** a část médií/odborů nadále pracuje s hodnotou **cca 32 000 Kč** (2025), která je výrazně nižší.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\n---\n\n## 5. Celkové shrnutí k tvrzení „42 000 pro policisty, 39 000 pro hasiče“\n\n### 5.1 Co říkají dostupné důkazy\n\n**Policisté**\n\n- Náborové materiály Policie ČR pro rok 2025 uvádějí:\n  - „školní“ příjem 31 500–32 900 Kč,  \n  - po nástupu do výkonu služby 40 000 Kč (Olomoucký kraj – Jeseník) a 43 050 Kč (Středočeský kraj – leták).([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n- Po 5% navýšení tarifů od 1. 1. 2026 se modelový „nástupní“ příjem kolem **42 000 Kč hrubého** pro část nováčků zdá **věrohodný**.\n- Zároveň však odbory a další zdroje pro rok 2024/2025 uvádějí „nástupní plat“ okolo **33 000 Kč**, což by ani po 5% valorizaci k roku 2026 na 42 000 Kč nedosáhlo.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\n**Hasiči**\n\n- Inzeráty HZS (Ústecký, Liberecký kraj) ukazují, že pro nováčka po výcviku činí hrubý služební příjem při nejnižším tarifu cca **34–37 tis. Kč** (včetně rizikového příplatku, dýchací techniky a služební pohotovosti); někde i více.([hzscr.gov.cz](https://hzscr.gov.cz/clanek/hasic-hzs-usteckeho-kraje-387227.aspx))  \n- Po 5% zvýšení tarifů od 1. 1. 2026 lze uvažovat o typické nástupní úrovni **kolem 38 tis. Kč**, tedy **blízko Metnarem uváděným 39 000 Kč**.\n- Odbory a média však pro rok 2025 uvádějí pro „začínající hasiče“ cca **32 000 Kč**, což je patrně konzervativnější (tarif + méně příplatků).([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\n### 5.2 Hlavní omezení ověřování\n\n- **Neexistuje veřejný oficiální statistický údaj** typu „průměrný nástupní plat policisty/hasiče v roce 2026“. Máme jen:\n  - náborové modelové příklady (často vyšší a regionálně specifické),\n  - odborářské a mediální odhady (často nižší).\n- Různé zdroje **užívají pojem „nástupní plat“ různě**:\n  - někdy pouze **tarif** bez příplatků,\n  - někdy **tarif + stabilizační příplatek**,\n  - jinde téměř celý **služební příjem včetně směnnosti a služební pohotovosti**.\n- Některé starší náborové texty na oficiálních webech (např. „až 33 590 Kč“ po roce služby) zjevně **nebyly aktualizovány** po posledních navýšeních.([policie.gov.cz](https://policie.gov.cz/clanek/policie-hleda-nove-policisty-a-policistky.aspx))  \n\n### 5.3 Pro co existuje i proti-tvrzení\n\n- **Policisté 42 000 Kč**:  \n  - *Pro*: modelové náborové nabídky (40–43 tis. v roce 2025) + 5% valorizace v roce 2026.([policie.gov.cz](https://policie.gov.cz/clanek/hledate-zajimavou-praci-a-zaroven-bydleni.aspx))  \n  - *Proti*: odborové odhady nástupního platu 33 tis. v roce 2025 a absence oficiálního průměrného údaje.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\n- **Hasiči 39 000 Kč**:  \n  - *Pro*: oficiální inzeráty HZS (min. cca 36 650 Kč v roce 2025) a 5% zvýšení tarifů – výsledek v pásmu okolo 38–39 tis. Kč.([personalka.cz](https://personalka.cz/899529?utm_source=openai))  \n  - *Proti*: odborářské tvrzení o 32 tis. pro začínající hasiče v roce 2025 a opět chybějící oficiální „průměr“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nastupuji-a-maji-dostat-50-tisic-plan-pro-hasice-a-policisty-ve-sluzbe-chybi-290549))  \n\n---\n\n## 6. Co z toho plyne pro posuzované tvrzení\n\n- Metnarem uvedené částky **42 000 Kč (policisté) a 39 000 Kč (hasiči)** **odpovídají spíše hornímu odhadu** možného nástupního **služebního příjmu po absolvování přípravy v roce 2026**, při započtení:\n  - vyšších regionálních příplatků,\n  - směnného režimu a služební pohotovosti,\n  - a nedávných valorizací.\n- **Nejsou ale doloženy jako statistický „průměrný nástupní plat“** z celé Policie ČR / HZS ČR a **část relevantních zdrojů (odbory, média) uvádí podstatně nižší hodnoty** (cca 33 tis. pro policisty a 32 tis. pro hasiče v roce 2025).\n- Pro další faktické hodnocení (pravda / nepravda / zavádějící) bude rozhodující, jakou **definici „nástupního platu“** použije fact-checkingová organizace:\n  - pokud „průměrný nástupní plat“ = **oficiální statistický průměr nejnižšího tarifu bez rozsáhlejších příplatků**, jsou hodnoty 42 a 39 tis. spíše **nadhodnocené**,  \n  - pokud „nástupní plat“ = **reálný služební příjem nováčka ve směnném režimu po výcviku včetně běžných příplatků**, pak mohou být uvedené částky **pro část nově nastupujících reálně dosažitelné**, ale stále bez opory v publikovaném celostátním průměru.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 106403,
+      "input_tokens_details": {
+        "cached_tokens": 6016
+      },
+      "output_tokens": 23431,
+      "output_tokens_details": {
+        "reasoning_tokens": 16557
+      },
+      "total_tokens": 129834
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1771606229,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

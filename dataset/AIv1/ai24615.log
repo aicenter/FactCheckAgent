@@ -1,0 +1,1021 @@
+{
+  "claim_id": "24615",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24615.md",
+  "fact_check": "# Fact Check for Statement ID 24615\n\n## Statement\n(...) k těm kapitálovým výdajům, (...) vůči minulému roku je zvyšujeme o 12,3 miliardy korun českých.\n\n---\n## AI Fact Check\n## 1. Identifikace výroku a možných interpretací\n\nSporná část výroku Karla Havlíčka:\n\n> „…k těm kapitálovým výdajům, (…) vůči minulému roku je zvyšujeme o **12,3 miliardy korun českých**.“\n\nZ kontextu pořadu:\n\n- mluví jako 1. vicepremiér a ministr průmyslu a obchodu v **Babišově vládě**,  \n- krátce po schválení **přepracovaného návrhu státního rozpočtu na rok 2026** (schodek 310 mld. Kč),  \n- navazuje na debatu o energiích a státních investicích.\n\nRealistické interpretace:\n\n1. **Kapitálové výdaje celého státního rozpočtu (investice státu)** – mezi rokem 2025 a návrhem rozpočtu 2026.\n2. **Kapitálové výdaje „z národních zdrojů“** (bez EU fondů) v rámci státního rozpočtu – 2025 vs 2026.\n3. **Kapitálové výdaje v kapitole MPO** (Ministerstvo průmyslu a obchodu) – 2025 vs 2026.\n4. Jiná, užší podmnožina investic (např. jen doprava, jen energetika) – k takové definici ale ve výroku ani v dostupných oficiálních zdrojích neexistuje žádný jasný odkaz.\n\nNíže ověřuji dostupná **tvrdá čísla** pro tyto možné interpretace.\n\n---\n\n## 2. Kapitálové výdaje (investice) – celý státní rozpočet\n\n### 2.1 Skutečné kapitálové výdaje roku 2025\n\nMinisterstvo financí ve zprávě o plnění státního rozpočtu za rok 2025 uvádí:\n\n- „**Kapitálové výdaje … na konci roku 2025 dosáhly 262,4 mld. Kč (+49,9 mld. Kč)**. Původní plán … naplnily na 99,3 %.“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373))  \n- V definici pak MF vysvětluje, že **„Investice – kapitálové výdaje…“** zahrnují jak přímé investice, tak investiční transfery státním fondům, obcím, podnikatelům apod. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373))  \n\n=> **Skutečné kapitálové výdaje státu v roce 2025: 262,4 mld. Kč.**\n\n### 2.2 Návrh státního rozpočtu na rok 2025 (pro srovnání)\n\nV tiskové zprávě MF k návrhu rozpočtu na rok 2025 se uvádí, že:\n\n- investice z národních zdrojů mají činit **154,6 mld. Kč**  \n- celkové investice včetně EU fondů **250,8 mld. Kč** (meziroční nárůst o 66,2 mld. Kč proti roku 2024). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai))  \n\n=> **Rozpočet 2025 plánoval kapitálové výdaje cca 250,8 mld. Kč; skutečnost 2025 byla 262,4 mld. Kč.**\n\n### 2.3 Návrh státního rozpočtu na rok 2026 (vláda Petra Fialy, schodek 286 mld. Kč)\n\nTisková zpráva MF k původnímu návrhu rozpočtu 2026 (deficit 286 mld. Kč) uvádí:\n\n- Z celkových výdajů 2 380,3 mld. Kč má jít na investice **174,4 mld. Kč z národních zdrojů**;  \n- Po přičtení evropských zdrojů „**investiční aktivita státu dosáhne 248 mld. Kč (-2,1 mld. Kč)** oproti „letošní historicky maximální úrovni“. ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107))  \n\nSouhrn:\n\n- **2025 (rozpočet)** – investice celkem: **≈250,8 mld. Kč** ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai))  \n- **2025 (skutečnost)** – investice celkem: **262,4 mld. Kč** ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373))  \n- **2026 (původní návrh, deficit 286 mld.)** – investice celkem: **248 mld. Kč** ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107))  \n\nMeziroční rozdíly:\n\n- **2026 návrh (248) vs 2025 rozpočet (250,8)**: **–2,8 mld. Kč**  \n- **2026 návrh (248) vs 2025 skutečnost (262,4)**: **–14,4 mld. Kč**\n\nTedy **původní Fialův rozpočet na rok 2026 kapitálové výdaje NEnavyšoval o 12,3 mld., ale naopak je mírně snižoval** proti roku 2025 – podle toho, zda porovnáváme s plánem nebo se skutečností.\n\n### 2.4 Vláda Petra Fialy – komunikace o „272 mld. Kč“ investic\n\nVládní tisková zpráva k návrhu rozpočtu 2026 uvádí i agregovanější číslo:\n\n- „Na investice bude z tohoto rozpočtu směřovat **rekordní částka 11 % všech rozpočtových výdajů. V absolutním objemu to představuje částku přes 272 miliard korun**.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-navrh-statniho-rozpoctu-na-rok-2026--pocita-s-rekordnimi-investicemi-i-navysenim-penez-na-obranu-zeme-222198/tmplid-47/))  \n\nTato „>272 mld. Kč“ pravděpodobně zahrnuje i další investiční výdaje mimo užší agregát MF (např. fondy), ale:\n\n- i pokud ji porovnáme s **262,4 mld. Kč skutečných investic roku 2025**, rozdíl je **zhruba +9,6 mld. Kč**,  \n- nikde se zde neobjevuje navýšení **o 12,3 mld. Kč**.\n\n### 2.5 Přepracovaný návrh rozpočtu 2026 (vláda Andreje Babiše, schodek 310 mld. Kč)\n\nPo volbách Babišův kabinet návrh 2026 přepracoval. Vláda shrnuje:\n\n- Nový rozpočet 2026: příjmy **1 977,6 mld. Kč**, výdaje **2 287,6 mld. Kč**, schodek **310 mld. Kč**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-prepracovany-navrh-statniho-rozpoctu-na-letosni-rok-a-rozhodla-o-navyseni-platu-zamestnancu-ve-verejnem-sektoru-225039/tmplid-47/))  \n- MF v tiskové zprávě k revizi rozpočtu uvádí přehled změn a konstatuje, že výsledkem je „**o 24 miliard vyšší deficit, který jde kompletně na prorůstové investice**“. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\nDále MF popisuje souhrnné škrty:\n\n- „**Snížení v oblasti provozních výdajů, dotací a kapitálových výdajů v úhrnu za všechny kapitoly o 11,4 mld. Kč.**“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\nV této tiskové zprávě:\n\n- **není uvedena žádná celková suma kapitálových výdajů pro rok 2026**,  \n- **číslo 12,3 mld. Kč se vyskytuje jen jednou** – jako **snížení příjmů** („sníženy příjmy ze zvláštních účtů MF o 12,3 mld. Kč…“), tedy **nikoli** jako změna kapitálových výdajů. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\nProto **z oficiálních materiálů MF nelze doložit**, že by celkové kapitálové výdaje státu v přepracovaném rozpočtu 2026 byly **o 12,3 mld. Kč vyšší než v roce 2025**. Jediné explicitní „číselné“ tvrzení o změně deficitu mluví o **+24 mld. Kč**, nikoliv o 12,3 mld.\n\n---\n\n## 3. Kapitálové / investiční výdaje v kapitole MPO\n\n### 3.1 Návrh kapitoly MPO v rozpočtu 2026 (vláda Petra Fialy)\n\nEkonomický deník na základě návrhu MF pro rok 2026 shrnuje rozpočet MPO:\n\n- **Celkové výdaje MPO 2025:** 35,805 mld. Kč  \n- **Celkové výdaje MPO 2026 (návrh):** 66,436 mld. Kč  \n- rozdíl: **+30,6 mld. Kč** ([ekonomickydenik.cz](https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/))  \n\nStruktura hlavních položek (mil. Kč):\n\n- Provozní podpora POZE: 2025 – 8 500; 2026 – 24 600  \n- Nový jaderný zdroj Dukovany II: 2025 – 0; 2026 – 18 315  \n- Podpora podnikání: 2025 – 19 302; 2026 – 14 645 ([ekonomickydenik.cz](https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/))  \n\nČlánek ale nerozlišuje, **kolik z těchto výdajů je kapitálových a kolik běžných**. Jisté je pouze to, že:\n\n- **meziroční nárůst celkových výdajů MPO je cca 30,6 mld. Kč**,  \n- nikde se v textu neobjevuje údaj, že by **kapitálové výdaje MPO rostly o 12,3 mld. Kč**.\n\n### 3.2 Revize rozpočtu 2026 (Babišova vláda) z pohledu MPO\n\nV tiskové zprávě MF k revizi rozpočtu 2026 je k MPO uvedeno:\n\n- „**V kapitole Ministerstvo průmyslu a obchodu zvýšení výdajů na POZE o 7,3 mld. Kč … a dále snížení prostředků souvisejících s novým jaderným zdrojem (Dukovany) o 18,3 mld. Kč** z důvodu chybějící notifikace EU.“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\nTj.:\n\n- část prostředků na Dukovany (které by byly typicky **kapitálovým** výdajem) byla z rozpočtu 2026 **odstraněna**,  \n- naopak podpora POZE (převážně **neinvestiční** dotace) byla zvýšena o 7,3 mld. Kč.\n\nZnovu: **žádný údaj o tom, že by samotné kapitálové výdaje MPO rostly meziročně přesně o 12,3 mld. Kč, v oficiálních datech není**.\n\n---\n\n## 4. Souhrn možných interpretací a srovnání s čísly\n\n### 4.1 Interpretace A: Kapitálové výdaje celého státního rozpočtu (investice státu)\n\nMožné základny:\n\n- **2025 rozpočet (plán)** – investice ≈ 250,8 mld. Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai))  \n- **2025 skutečnost** – investice 262,4 mld. Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373))  \n- **2026 původní návrh (286 mld. deficit)** – investice 248 mld. Kč ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107))  \n\nRozdíly:\n\n- 248 – 250,8 = **–2,8 mld. Kč** (pokles oproti rozpočtu 2025)  \n- 248 – 262,4 = **–14,4 mld. Kč** (pokles oproti skutečnosti 2025)\n\n=> **Žádná z těchto variant nedává navýšení kapitálových výdajů o 12,3 mld. Kč.**\n\nU přepracovaného rozpočtu 2026 (310 mld. deficit) MF v citované tiskové zprávě:\n\n- **neuvádí** celkovou částku investic,  \n- uvádí, že deficit je o **24 mld. Kč vyšší** a „jde kompletně na prorůstové investice“, ale současně uvádí škrty provozních **i kapitálových** výdajů v úhrnu 11,4 mld. Kč. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\nBez kompletní tabulky kapitálových výdajů pro rok 2026 nelze exaktně spočítat, jak se liší proti 2025, ale:\n\n- **žádný oficiální zdroj neuvádí mezironí navýšení kapitálových výdajů státu přesně o 12,3 mld. Kč.**  \n- Jediné „12,3 mld.“ v této tiskové zprávě se týká **snížení příjmů ze zvláštních účtů MF**, nikoliv výdajů. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\n### 4.2 Interpretace B: Kapitálové výdaje „z národních zdrojů“\n\nČísla:\n\n- **2025 – investice z národních zdrojů:** 154,6 mld. Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai))  \n- **2026 – investice z národních zdrojů:** 174,4 mld. Kč ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107))  \n\nRozdíl:\n\n- 174,4 – 154,6 = **+19,8 mld. Kč**\n\n=> Pro tuto interpretaci by bylo správné tvrdit, že **investice z národních zdrojů rostou zhruba o 20 mld. Kč**, nikoli o 12,3 mld. Kč.\n\n### 4.3 Interpretace C: Kapitálové výdaje MPO\n\nDostupná oficiální a seriózní sekundární data:\n\n- **Celkové výdaje MPO 2025:** 35,8 mld. Kč  \n- **Celkové výdaje MPO 2026 (Fialův návrh):** 66,4 mld. Kč  \n- Rozdíl: **+30,6 mld. Kč** ([ekonomickydenik.cz](https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/))  \n\nKapitálová a běžná složka není v těchto veřejných přehledech rozlišena. U revize Babišovy vlády navíc došlo:\n\n- ke zvýšení POZE (+7,3 mld. Kč) – převážně neinvestiční výdaje,  \n- ke snížení prostředků na nový jaderný zdroj Dukovany II (–18,3 mld. Kč) – typicky kapitálový výdaj. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\n=> Je **málo pravděpodobné**, že by čistě kapitálové výdaje MPO meziročně vycházely přesně na **+12,3 mld. Kč** – jednak kvůli odstranění 18,3 mld. na Dukovany, jednak proto, že žádný z cizích ani oficiálních zdrojů tuto hodnotu neuvádí.\n\n---\n\n## 5. Závěr\n\n- **Nikde v dostupných oficiálních dokumentech (Ministerstvo financí, vláda ČR) ani v kvalitních sekundárních zdrojích se neobjevuje údaj, že by kapitálové výdaje (investice) – ať už celého státu, z národních zdrojů, nebo v kapitole MPO – byly mezi rokem 2025 a 2026 navýšeny právě o 12,3 mld. Kč.**\n- Naopak:\n  - Původní rozpočet 2026 (deficit 286 mld. Kč) počítá s **mírně nižšími** celkovými investicemi (248 mld. Kč) než plán rozpočtu 2025 (cca 250,8 mld. Kč) a výrazně nižšími než skutečnost 2025 (262,4 mld. Kč). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai))  \n  - U přepracovaného rozpočtu 2026 (schodek 310 mld. Kč) MF tvrdí, že **dodatečný deficit 24 mld. Kč jde „kompletně na prorůstové investice“**, ale nikde neuvádí, že by kapitálové výdaje jako celek vzrostly vůči roku 2025 o 12,3 mld. Kč; číslo 12,3 mld. Kč se vyskytuje pouze u **snížení příjmů**. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n  - U MPO je doložen **nárůst celkových výdajů o cca 30,6 mld. Kč**, nikoli o 12,3 mld. Kč; navíc část kapitálových výdajů (Dukovany II) byla v revizi rozpočtu výrazně seškrtána. ([ekonomickydenik.cz](https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/))  \n\nNa základě všech nalezených dat:\n\n- **Výrok „…vůči minulému roku je zvyšujeme o 12,3 miliardy korun českých“ nelze podložit žádným dostupným oficiálním číslem a je v rozporu s hlavními možnými interpretacemi (celostátní kapitálové výdaje, investice z národních zdrojů i rozpočet MPO).**  \n- Nejbližší související oficiální čísla jsou:\n  - **+19,8 mld. Kč** (navýšení investic z národních zdrojů v návrhu 2026 vs 2025),  \n  - **–2 až –14 mld. Kč** (pokles celkových investic 2026 vs rozpočet či skutečnost 2025)  \n  - a **+30,6 mld. Kč** (nárůst celkových výdajů MPO 2026 vs 2025).  \n\nČástka **12,3 mld. Kč** se v souvislosti s rozpočtem 2026 vyskytuje pouze jako **snížení některých příjmů MF**, nikoliv jako meziroční **navýšení kapitálových výdajů**. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:16:01\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nTak...\\n00:16:01\\nTerezie Tománková,moderátorka\\nPoslední věc k energiím, pane ministře.\\n00:16:04\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nCena energie se nevypočítává podle zdroje. Kdybysme tady dneska měli Temelín, tak rozhodně nejsou levnější ceny energie, to už jste se mohli za tu dobu doučit. Ta se počítá na středoevropském energetickém trhu, na principu součtové nabídky a součtové poptávky, ale to je možná příliš komplikované pro diváky. Jenom jsem chtěl říct k těm kapitálovým výdajím, že říkáte, vy je nezvyšujete, tak vůči minulému roku je zvyšujeme o 12,3 miliardy korun českých.\\n00:16:26\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: '(...) k těm kapitálovým výdajům, (...) vůči minulému roku je zvyšujeme o 12,3 miliardy korun českých.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 507.10 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Dostupná čísla Ministerstva financí ani vlády nepotvrzují, že by kapitálové výdaje státního rozpočtu byly mezi roky 2025 a 2026 navýšeny o 12,3 mld. Kč. Částka 12,3 mld. se v materiálech objevuje jen u příjmů. Výrok proto hodnotíme jako nepravdivý.</p>\n\n<p>Karel Havlíček ve funkci 1. místopředsedy vlády a ministra průmyslu a obchodu v Babišově vládě v televizi komentoval přepracovaný návrh státního rozpočtu na rok 2026. V souvislosti s investicemi státu mluvil o kapitálových výdajích a tvrdil, že je „vůči minulému roku zvyšujeme o 12,3 miliardy korun českých“.</p>\n\n<p>Výrok obsahuje dvě klíčová ověřitelná tvrzení. První, že kapitálové výdaje rozpočtu na rok 2026 jsou vůči roku 2025 vyšší. Druhé, že toto zvýšení činí právě 12,3 mld. Kč. Ve výroku ale není upřesněno, zda má jít o všechny kapitálové výdaje státu, pouze o investice z národních zdrojů, nebo třeba jen o kapitolu Ministerstva průmyslu a obchodu. Proto jsme postupně prověřovali všechny tyto realistické možnosti.</p>\n\n<p>Nejprve jsme se zaměřili na celé kapitálové výdaje státu, tedy na to, co Ministerstvo financí samo označuje jako investice. Ve <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373\">zprávě o plnění státního rozpočtu za rok 2025</a> ministerstvo uvádí, že <i>„kapitálové výdaje (…) na konci roku 2025 dosáhly 262,4 mld. Kč“</i>. Z této tiskové zprávy rovněž vyplývá, že jde o souhrn přímých investic i investičních transferů státním fondům, obcím či podnikatelům, tedy o standardně chápané investice státu.</p>\n\n<p>Pro srovnání je důležité, jaké investice plánoval rozpočet na rok 2025 a jaké obsahuje návrh rozpočtu na rok 2026. V <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai\">tiskové zprávě k návrhu rozpočtu na rok 2025</a> Ministerstvo financí píše, že investice z národních zdrojů mají činit 154,6 mld. Kč a celkové investice včetně prostředků Evropské unie 250,8 mld. Kč. V <a href=\"https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107\">tiskové zprávě k původnímu návrhu rozpočtu na rok 2026</a> pak ministerstvo uvádí, že investice z národních zdrojů mají dosáhnout 174,4 mld. Kč a celková „investiční aktivita státu“ včetně evropských zdrojů má činit 248 mld. Kč.</p>\n\n<p>Pokud porovnáme tato čísla, původní návrh rozpočtu na rok 2026 počítá s celkovými investicemi 248 mld. Kč, zatímco rozpočet na rok 2025 plánoval 250,8 mld. Kč. Oproti plánu na rok 2025 tedy nejde o zvýšení, ale o pokles zhruba o 2,8 mld. Kč. Ve srovnání se skutečně vynaloženými investicemi roku 2025 ve výši 262,4 mld. Kč jde dokonce o pokles přibližně o 14,4 mld. Kč. Z pohledu celkových kapitálových výdajů tedy tvrzení, že je „vůči minulému roku“ zvyšujeme, neodpovídá datům Ministerstva financí.</p>\n\n<p>Vláda navíc k návrhu rozpočtu na rok 2026 zveřejnila i vlastní komunikaci, v níž zdůrazňovala rekordní podíl investic. V jedné <a href=\"https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-navrh-statniho-rozpoctu-na-rok-2026--pocita-s-rekordnimi-investicemi-i-navysenim-penez-na-obranu-zeme-222198/tmplid-47/\">tiskové zprávě vlády</a> se například píše, že na investice má z rozpočtu směřovat více než 11 % výdajů, což v absolutním vyjádření představuje „přes 272 miliard korun“. I pokud ale tuto částku porovnáme se skutečnými investicemi v roce 2025 (262,4 mld. Kč), rozdíl odpovídá navýšení zhruba o 9,6 mld. Kč, nikoli o 12,3 mld. Kč, a navíc se zde zjevně používá širší agregace než ta, kterou zveřejňuje Ministerstvo financí.</p>\n\n<p>Po volbách byl původní návrh rozpočtu na rok 2026 přepracován Babišovou vládou. Podle <a href=\"https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-prepracovany-navrh-statniho-rozpoctu-na-letosni-rok-a-rozhodla-o-navyseni-platu-zamestnancu-ve-verejnem-sektoru-225039/tmplid-47/\">vládní tiskové zprávy k přepracovanému návrhu</a> tento rozpočet počítá s příjmy 1 977,6 mld. Kč, výdaji 2 287,6 mld. Kč a schodkem 310 mld. Kč. Ministerstvo financí v samostatné <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672\">tiskové zprávě k revizi rozpočtu 2026</a> vysvětluje, že výsledkem úprav je „o 24 miliard vyšší deficit, který jde kompletně na prorůstové investice“. Ve stejné zprávě ale také stojí, že dochází ke „snížení v oblasti provozních výdajů, dotací a kapitálových výdajů v úhrnu za všechny kapitoly o 11,4 mld. Kč“.</p>\n\n<p>Z této revizní tiskové zprávy tedy vidíme, že vláda sice navýšila deficit a deklaruje, že dodatečné prostředky mají sloužit na investice, zároveň ale na jiném místě uvádí souhrnné snížení provozních i kapitálových výdajů. Samotná celková částka kapitálových výdajů pro rok 2026 zde zveřejněna není, takže z této zprávy nelze přímo vypočítat, zda se kapitálové výdaje vůči roku 2025 zvýšily či snížily. Klíčové pro ověření výroku však je, že tvrzení o navýšení „o 12,3 miliardy“ v této zprávě nenacházíme.</p>\n\n<p>Částka 12,3 mld. Kč se v uvedené <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672\">tiskové zprávě Ministerstva financí</a> objevuje v úplně jiné souvislosti. Ministerstvo zde popisuje, že byly „sníženy příjmy ze zvláštních účtů MF o 12,3 mld. Kč“. Tato suma se tedy vztahuje k příjmové straně rozpočtu a ke zvláštním účtům Ministerstva financí, nikoli ke kapitálovým výdajům. Žádné navýšení kapitálových výdajů o 12,3 mld. Kč zde uvedeno není.</p>\n\n<p>Další možná interpretace výroku je, že se Karel Havlíček odkazoval jen na investice „z národních zdrojů“, tedy bez prostředků z fondů Evropské unie. V takovém pojetí skutečně dochází v návrhu rozpočtu 2026 k růstu. Jak už bylo uvedeno, <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai\">tisková zpráva k návrhu rozpočtu na rok 2025</a> počítá s investicemi z národních zdrojů ve výši 154,6 mld. Kč, zatímco <a href=\"https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107\">tisková zpráva k původnímu návrhu rozpočtu na rok 2026</a> uvádí 174,4 mld. Kč. Rozdíl mezi těmito dvěma částkami však činí přibližně 19,8 mld. Kč, nikoli 12,3 mld. Kč. Ani při této interpretaci tedy nelze dospět k hodnotě, kterou Havlíček ve výroku uvádí.</p>\n\n<p>Protože byl ve výroku zmiňován ministr průmyslu a obchodu, prověřili jsme také, zda by částka 12,3 mld. Kč nemohla odpovídat meziroční změně kapitálových výdajů právě v kapitole Ministerstva průmyslu a obchodu. Podle <a href=\"https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/\">článku v Ekonomickém deníku</a> založeného na návrhu rozpočtu 2026 činily celkové výdaje tohoto ministerstva v roce 2025 zhruba 35,8 mld. Kč a v návrhu na rok 2026 asi 66,4 mld. Kč. To znamená nárůst celkových výdajů zhruba o 30,6 mld. Kč. Článek však nerozlišuje, jak velká část je kapitálová a jak velká běžná, a ani zde se neobjevuje číslo 12,3 mld. Kč jako popis meziroční změny investic.</p>\n\n<p>Revize rozpočtu 2026 navíc výdaje kapitoly Ministerstva průmyslu a obchodu dále měnila. Zmiňovaná <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672\">tisková zpráva Ministerstva financí</a> uvádí, že v této kapitole došlo ke zvýšení výdajů na podporu obnovitelných zdrojů energie (POZE) o 7,3 mld. Kč, zároveň ale byly z důvodu chybějící notifikace Evropské komise sníženy prostředky spojené s novým jaderným zdrojem Dukovany II o 18,3 mld. Kč. Finance na nový jaderný zdroj by přitom typicky měly charakter kapitálových výdajů. I z tohoto rozpisu tedy vyplývá, že celkový obraz investic Ministerstva průmyslu a obchodu se výrazně mění, ale nikde se zde neobjevuje navýšení kapitálových výdajů právě o 12,3 mld. Kč.</p>\n\n<p>Sečteme-li všechny prověřené varianty, vidíme, že pro žádnou z realistických interpretací výroku Karla Havlíčka nenacházíme v oficiálních dokumentech potvrzení navýšení kapitálových výdajů o 12,3 mld. Kč. U celkových investic státu podle Ministerstva financí naopak návrh rozpočtu 2026 znamená proti roku 2025 pokles, nikoli růst. U investic z národních zdrojů sice dochází ke zvýšení, ale to činí přibližně 19,8 mld. Kč. A u rozpočtu Ministerstva průmyslu a obchodu doložená čísla ukazují jiné, výrazně odlišné změny, přičemž hodnota 12,3 mld. Kč se v souvislosti s kapitálovými výdaji vůbec neobjevuje.</p>\n\n<p>Jednoznačně lze doložit pouze to, že částka 12,3 mld. Kč se v materiálech k rozpočtu 2026 vyskytuje jako snížení příjmů ze zvláštních účtů Ministerstva financí, nikoli jako meziroční zvýšení kapitálových výdajů. Protože žádný z dostupných oficiálních zdrojů tuto Havlíčkovu formulaci nepotvrzuje a v hlavních interpretacích je s nimi v přímém rozporu, hodnotíme výrok jako nepravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_09f15d82250a61f60069a6d3d66e84819c9a4c0fb7c6e72035",
+    "created_at": 1772540886.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_09f15d82250a61f60069a6d3e021ac819c8ad8dd8100a0993e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d3e41020819cb798a9be48fb1368",
+        "action": {
+          "query": "\"vůči minulému roku je zvyšujeme o 12,3 miliardy korun\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"vůči minulému roku je zvyšujeme o 12,3 miliardy korun\"",
+            "\"kapitálovým výdajům\" \"12,3 miliardy\" Havlíček",
+            "\"Partie\" \"12,3 miliardy\" \"kapitálové výdaje\"",
+            "statni rozpocet 2026 kapitálové výdaje 12,3 miliardy mezironě"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d3e6d894819c9a31c16306f0f6c1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d3eb0c84819c9fe8877b9632cb93",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d3ec35b0819c90288fa714b030b9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d3ecf2b8819c820b874be3d02625",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d3ee0068819cb8e9050dff5b1745",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d3efcc64819cbcfad7461a284f2a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d3f1fb10819cb3077186b3cfc353",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d3f27468819ca078807d91b3ebf9",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Kapitálové výdaje"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d3f48f30819cb960133e395baf4a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d3f55818819ca34f5d9ae59df0b8",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d3f64f88819cac71e44ef5bfbaa3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d3fad09c819c85608013bcbc7016",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d3fc1284819cb193ebd60efacf87",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d3fc9aa0819cafe28e0a50183deb",
+        "action": {
+          "query": "\"Partie\" \"Havlíček\" \"kapitálové výdaje\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Partie\" \"Havlíček\" \"kapitálové výdaje\"",
+            "\"Havlíček\" \"kapitálové výdaje\" 12,3",
+            "\"12,3 mld\" \"kapitálové\"",
+            "\"zvyšujeme o 12,3\" \"kapitálové\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d3ffd02c819cb2b5a4a922b3da52",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4015fec819cadc0730532bc9ec5",
+        "action": {
+          "query": "\"Na kapitálové výdaje půjde\" \"272\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Na kapitálové výdaje půjde\" \"272\"",
+            "\"272,0\" \"kapitálové\" \"státní rozpočet\" 2026",
+            "\"272 mld\" \"kapitálové\" \"státní rozpočet 2026\"",
+            "\"kapitálové výdaje\" \"státní rozpočet\" 2025 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d404a758819ca20d65f444083ead",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d42f8bc8819c937c9fd85f9d5096",
+        "action": {
+          "query": "\"kapitálové výdaje\" \"12,3 mld\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"kapitálové výdaje\" \"12,3 mld\"",
+            "\"kapitálových výdajů\" \"12,3\"",
+            "\"12,3 mld. Kč\" kapitálové výdaje\",\"",
+            "\"12,3 miliardy\" \"kapitálové výdaje\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d43502c0819c8f1415ddc9c1b6ed",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d435e874819cbc743aa3256c6190",
+        "action": {
+          "query": "\"Ministerstvo průmyslu a obchodu\" kapitálové výdaje 2025",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Ministerstvo průmyslu a obchodu\" kapitálové výdaje 2025",
+            "\"rozpočet\" \"Ministerstva průmyslu a obchodu\" 2025 kapitálové",
+            "\"kapitola 322\" \"kapitálové výdaje\"",
+            "\"Ministerstva průmyslu a obchodu\" \"Státní rozpočet v kostce\" 2025"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4399434819cb8b9fd480c10697f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d43f7a04819cb69e1b7ea77af2bc",
+        "action": {
+          "query": "\"Karel Havlíček\" kapitálové výdaje",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Karel Havlíček\" kapitálové výdaje",
+            "\"Havlíček\" \"kapitálov\"é",
+            "\"Poslední věc k energiím, pane ministře\"",
+            "\"vy je nezvyšujete\" \"kapitálové\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d443d284819c9af90b17e9e156e3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d444f93c819cbbe10613fb137ab1",
+        "action": {
+          "query": "\"Karel Havlíček\" \"ministr průmyslu\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Karel Havlíček\" \"ministr průmyslu\"",
+            "\"Karel Havlíček\" energie rozpočet kapitálové výdaje",
+            "\"Karel Havlíček\" Partie Tománkové 2026",
+            "\"Partie Terezie Tománkové\" 2026 karel havlíček"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d44b0b28819cbbfbaefa85abe429",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d44bece0819c890e1c7759fa7db5",
+        "action": {
+          "query": "\"12,3 miliardy korun\" \"rozpočet\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"12,3 miliardy korun\" \"rozpočet\"",
+            "\"12,3 miliardy Kč\" \"rozpočet\"",
+            "\"12,3 mld. Kč\" rozpočet",
+            "\"12,3 mld\" \"státní rozpočet\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d450dc60819c91afa72c4ded8997",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4520cdc819c925c2d7782cfdd2c",
+        "action": {
+          "query": "\"12,3 mld. Kč\" investice",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"12,3 mld. Kč\" investice",
+            "\"12,3 mld\" Dukovany",
+            "\"12,3 miliardy\" \"energet\"",
+            "\"12,3 mld\" \"MPO\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d45816b0819c9ff592991cf8286d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d45b253c819c921a359aba5e6bd2",
+        "action": {
+          "query": "\"Kapitálové výdaje\" \"dosáhly\" 2024 \"mld. Kč\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Kapitálové výdaje\" \"dosáhly\" 2024 \"mld. Kč\"",
+            "\"Kapitálové výdaje\" \"v roce 2024\" \"mld\"",
+            "\"pokladní plnění\" \"2024\" \"Kapitálové výdaje\"",
+            "\"investice státu\" \"262,4\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d45fdec0819c831161a3be8ee79d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d465eb78819ca6b2e39dfe281d80",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d46a3874819c9db5389b404e0746",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d46bbd7c819c860dbe9d53cb9b9c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d46da8f4819caf891c56526c8d0c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4780110819cbe685440513c7f3f",
+        "action": {
+          "query": "\"Návrh státního rozpočtu na rok 2026\" \"Ministerstvo financí\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Návrh státního rozpočtu na rok 2026\" \"Ministerstvo financí\"",
+            "\"státní rozpočet na rok 2026\" \"Státní rozpočet v kostce\"",
+            "\"Státní rozpočet v kostce 2026\"",
+            "\"2026\" \"Státní rozpočet v kostce\" pdf"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4817a74819ca765e7dc5068ff70",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d48a6640819c8c866fa927eb3ba0",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4921518819c9d158a2bafb78e66",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d492b9c8819c94796dcd131d1794",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d496bf88819ca2eec25852cb8ffb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4984e74819c873f733645e5d864",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d49c184c819cb3a6c56963fedbda",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d49df000819c81ab059b2f0c2eee",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4a01d7c819c85a8a395aeff9ce1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4a104a4819c8cebb2ba7d579d04",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4a77fcc819ca72100d05ef83297",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4aa8fa0819c86506aeecb5d4706",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4ac300c819c9c0c1c85e4f7cfe8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4acb368819ca99f4beb85eb9d5d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4aee4b8819cb34c43a653eea133",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4af1d14819c83117e088d021cac",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4b0ad90819ca82a84b61191d2ba",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4b1f914819c90a160d1a9133350",
+        "action": {
+          "query": "\"Vládní návrh zákona o státním rozpočtu České republiky na rok 2026\" site:psp.cz",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Vládní návrh zákona o státním rozpočtu České republiky na rok 2026\" site:psp.cz",
+            "\"státní rozpočet České republiky na rok 2026\" psp",
+            "\"státní rozpočet\" \"na rok 2026\" tisk",
+            "\"státního rozpočtu České republiky na rok 2026\" pdf"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4b659c4819cb14e398dc202df07",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4bb1ef8819cb4eda94eed238694",
+        "action": {
+          "query": "\"schodkem 310 miliard\" \"státní rozpočet na rok 2026\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"schodkem 310 miliard\" \"státní rozpočet na rok 2026\"",
+            "\"schodku 310\" \"rozpočet\" 2026 \"kapitálové výdaje\"",
+            "\"310 miliard\" \"kapitálové výdaje\" 2026",
+            "\"rozpočet na rok 2026\" \"kapitálové vÚje\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4c092c0819c9f474e4adc90aff7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4c1b67c819cbb84be33376a1dcd",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4c55ea0819c8677e5371db3f199",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4c7b3cc819cb3630a90702dc6a1",
+        "action": {
+          "query": "\"Na investice\" \"2026\" \"310\" \"miliard\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Na investice\" \"2026\" \"310\" \"miliard\"",
+            "\"rekordní investice\" \"310\" miliard",
+            "\"celkové investiční výdaje\" 2026 310",
+            "\"kapitálové výdaje\" \"státního rozpočtu\" 2026 310"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4ccb568819cb3727f4326fb029c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4ce0064819cacd984b6addb1ef3",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "investice z národních zdrojů"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4d40cf4819caf120b4570c69777",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4e38d1c819cacb1ddafc358a47f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4e5fb9c819cb28d9dc5e65582d2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4e6fe84819cb3f6fb738c88d680",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4eeaa94819ca77b7e90feb4303f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d4f1dba0819c9cd7383865509d2d",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "investice"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d4f50234819cbc07b1081e5ffb16",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_09f15d82250a61f60069a6d521549c819ca265729806cabaf1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_09f15d82250a61f60069a6d5248c08819cb4d90120f2e52c19",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_09f15d82250a61f60069a6d581be80819c95df70a5fb228113",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1433,
+                "start_index": 1334,
+                "title": "Státní rozpočet hospodařil v roce 2025 se schodkem 290,7 mld. Kč oproti plánovanému 241 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373"
+              },
+              {
+                "end_index": 1704,
+                "start_index": 1605,
+                "title": "Státní rozpočet hospodařil v roce 2025 se schodkem 290,7 mld. Kč oproti plánovanému 241 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373"
+              },
+              {
+                "end_index": 2203,
+                "start_index": 2069,
+                "title": "Návrh státního rozpočtu na rok 2025 počítá se schodkem 230 mld. Kč, konsolidace pokračuje a vláda rekordně investuje | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai"
+              },
+              {
+                "end_index": 2850,
+                "start_index": 2719,
+                "title": "Ministerstvo financí navrhuje státní rozpočet na rok 2026 s deficitem 286 mld. Kč, bez mimořádných výdajů by schodek dosáhl 237 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107"
+              },
+              {
+                "end_index": 3058,
+                "start_index": 2924,
+                "title": "Návrh státního rozpočtu na rok 2025 počítá se schodkem 230 mld. Kč, konsolidace pokračuje a vláda rekordně investuje | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai"
+              },
+              {
+                "end_index": 3222,
+                "start_index": 3123,
+                "title": "Státní rozpočet hospodařil v roce 2025 se schodkem 290,7 mld. Kč oproti plánovanému 241 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373"
+              },
+              {
+                "end_index": 3437,
+                "start_index": 3306,
+                "title": "Ministerstvo financí navrhuje státní rozpočet na rok 2026 s deficitem 286 mld. Kč, bez mimořádných výdajů by schodek dosáhl 237 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107"
+              },
+              {
+                "end_index": 4300,
+                "start_index": 4100,
+                "title": "Vláda schválila návrh státního rozpočtu na rok 2026, počítá s rekordními investicemi i navýšením peněz na obranu země | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-navrh-statniho-rozpoctu-na-rok-2026--pocita-s-rekordnimi-investicemi-i-navysenim-penez-na-obranu-zeme-222198/tmplid-47/"
+              },
+              {
+                "end_index": 5063,
+                "start_index": 4838,
+                "title": "Vláda Andreje Babiše schválila přepracovaný návrh státního rozpočtu na letošní rok a rozhodla o navýšení platů zaměstnanců ve veřejném sektoru | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-prepracovany-navrh-statniho-rozpoctu-na-letosni-rok-a-rozhodla-o-navyseni-platu-zamestnancu-ve-verejnem-sektoru-225039/tmplid-47/"
+              },
+              {
+                "end_index": 5350,
+                "start_index": 5234,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672"
+              },
+              {
+                "end_index": 5622,
+                "start_index": 5506,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672"
+              },
+              {
+                "end_index": 6021,
+                "start_index": 5905,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672"
+              },
+              {
+                "end_index": 6702,
+                "start_index": 6619,
+                "title": "Ať je z čeho platit nové reaktory. Rozpočet ministerstva stoupl o 30 miliard - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/"
+              },
+              {
+                "end_index": 6993,
+                "start_index": 6910,
+                "title": "Ať je z čeho platit nové reaktory. Rozpočet ministerstva stoupl o 30 miliard - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/"
+              },
+              {
+                "end_index": 7717,
+                "start_index": 7601,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672"
+              },
+              {
+                "end_index": 8414,
+                "start_index": 8280,
+                "title": "Návrh státního rozpočtu na rok 2025 počítá se schodkem 230 mld. Kč, konsolidace pokračuje a vláda rekordně investuje | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai"
+              },
+              {
+                "end_index": 8564,
+                "start_index": 8465,
+                "title": "Státní rozpočet hospodařil v roce 2025 se schodkem 290,7 mld. Kč oproti plánovanému 241 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373"
+              },
+              {
+                "end_index": 8766,
+                "start_index": 8635,
+                "title": "Ministerstvo financí navrhuje státní rozpočet na rok 2026 s deficitem 286 mld. Kč, bez mimořádných výdajů by schodek dosáhl 237 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107"
+              },
+              {
+                "end_index": 9408,
+                "start_index": 9292,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672"
+              },
+              {
+                "end_index": 9851,
+                "start_index": 9735,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672"
+              },
+              {
+                "end_index": 10118,
+                "start_index": 9984,
+                "title": "Návrh státního rozpočtu na rok 2025 počítá se schodkem 230 mld. Kč, konsolidace pokračuje a vláda rekordně investuje | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai"
+              },
+              {
+                "end_index": 10309,
+                "start_index": 10178,
+                "title": "Ministerstvo financí navrhuje státní rozpočet na rok 2026 s deficitem 286 mld. Kč, bez mimořádných výdajů by schodek dosáhl 237 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107"
+              },
+              {
+                "end_index": 10809,
+                "start_index": 10726,
+                "title": "Ať je z čeho platit nové reaktory. Rozpočet ministerstva stoupl o 30 miliard - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/"
+              },
+              {
+                "end_index": 11208,
+                "start_index": 11092,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672"
+              },
+              {
+                "end_index": 12122,
+                "start_index": 11988,
+                "title": "Návrh státního rozpočtu na rok 2025 počítá se schodkem 230 mld. Kč, konsolidace pokračuje a vláda rekordně investuje | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai"
+              },
+              {
+                "end_index": 12539,
+                "start_index": 12423,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672"
+              },
+              {
+                "end_index": 12804,
+                "start_index": 12721,
+                "title": "Ať je z čeho platit nové reaktory. Rozpočet ministerstva stoupl o 30 miliard - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/"
+              },
+              {
+                "end_index": 13677,
+                "start_index": 13561,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672"
+              }
+            ],
+            "text": "## 1. Identifikace výroku a možných interpretací\n\nSporná část výroku Karla Havlíčka:\n\n> „…k těm kapitálovým výdajům, (…) vůči minulému roku je zvyšujeme o **12,3 miliardy korun českých**.“\n\nZ kontextu pořadu:\n\n- mluví jako 1. vicepremiér a ministr průmyslu a obchodu v **Babišově vládě**,  \n- krátce po schválení **přepracovaného návrhu státního rozpočtu na rok 2026** (schodek 310 mld. Kč),  \n- navazuje na debatu o energiích a státních investicích.\n\nRealistické interpretace:\n\n1. **Kapitálové výdaje celého státního rozpočtu (investice státu)** – mezi rokem 2025 a návrhem rozpočtu 2026.\n2. **Kapitálové výdaje „z národních zdrojů“** (bez EU fondů) v rámci státního rozpočtu – 2025 vs 2026.\n3. **Kapitálové výdaje v kapitole MPO** (Ministerstvo průmyslu a obchodu) – 2025 vs 2026.\n4. Jiná, užší podmnožina investic (např. jen doprava, jen energetika) – k takové definici ale ve výroku ani v dostupných oficiálních zdrojích neexistuje žádný jasný odkaz.\n\nNíže ověřuji dostupná **tvrdá čísla** pro tyto možné interpretace.\n\n---\n\n## 2. Kapitálové výdaje (investice) – celý státní rozpočet\n\n### 2.1 Skutečné kapitálové výdaje roku 2025\n\nMinisterstvo financí ve zprávě o plnění státního rozpočtu za rok 2025 uvádí:\n\n- „**Kapitálové výdaje … na konci roku 2025 dosáhly 262,4 mld. Kč (+49,9 mld. Kč)**. Původní plán … naplnily na 99,3 %.“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373))  \n- V definici pak MF vysvětluje, že **„Investice – kapitálové výdaje…“** zahrnují jak přímé investice, tak investiční transfery státním fondům, obcím, podnikatelům apod. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373))  \n\n=> **Skutečné kapitálové výdaje státu v roce 2025: 262,4 mld. Kč.**\n\n### 2.2 Návrh státního rozpočtu na rok 2025 (pro srovnání)\n\nV tiskové zprávě MF k návrhu rozpočtu na rok 2025 se uvádí, že:\n\n- investice z národních zdrojů mají činit **154,6 mld. Kč**  \n- celkové investice včetně EU fondů **250,8 mld. Kč** (meziroční nárůst o 66,2 mld. Kč proti roku 2024). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai))  \n\n=> **Rozpočet 2025 plánoval kapitálové výdaje cca 250,8 mld. Kč; skutečnost 2025 byla 262,4 mld. Kč.**\n\n### 2.3 Návrh státního rozpočtu na rok 2026 (vláda Petra Fialy, schodek 286 mld. Kč)\n\nTisková zpráva MF k původnímu návrhu rozpočtu 2026 (deficit 286 mld. Kč) uvádí:\n\n- Z celkových výdajů 2 380,3 mld. Kč má jít na investice **174,4 mld. Kč z národních zdrojů**;  \n- Po přičtení evropských zdrojů „**investiční aktivita státu dosáhne 248 mld. Kč (-2,1 mld. Kč)** oproti „letošní historicky maximální úrovni“. ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107))  \n\nSouhrn:\n\n- **2025 (rozpočet)** – investice celkem: **≈250,8 mld. Kč** ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai))  \n- **2025 (skutečnost)** – investice celkem: **262,4 mld. Kč** ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373))  \n- **2026 (původní návrh, deficit 286 mld.)** – investice celkem: **248 mld. Kč** ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107))  \n\nMeziroční rozdíly:\n\n- **2026 návrh (248) vs 2025 rozpočet (250,8)**: **–2,8 mld. Kč**  \n- **2026 návrh (248) vs 2025 skutečnost (262,4)**: **–14,4 mld. Kč**\n\nTedy **původní Fialův rozpočet na rok 2026 kapitálové výdaje NEnavyšoval o 12,3 mld., ale naopak je mírně snižoval** proti roku 2025 – podle toho, zda porovnáváme s plánem nebo se skutečností.\n\n### 2.4 Vláda Petra Fialy – komunikace o „272 mld. Kč“ investic\n\nVládní tisková zpráva k návrhu rozpočtu 2026 uvádí i agregovanější číslo:\n\n- „Na investice bude z tohoto rozpočtu směřovat **rekordní částka 11 % všech rozpočtových výdajů. V absolutním objemu to představuje částku přes 272 miliard korun**.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-navrh-statniho-rozpoctu-na-rok-2026--pocita-s-rekordnimi-investicemi-i-navysenim-penez-na-obranu-zeme-222198/tmplid-47/))  \n\nTato „>272 mld. Kč“ pravděpodobně zahrnuje i další investiční výdaje mimo užší agregát MF (např. fondy), ale:\n\n- i pokud ji porovnáme s **262,4 mld. Kč skutečných investic roku 2025**, rozdíl je **zhruba +9,6 mld. Kč**,  \n- nikde se zde neobjevuje navýšení **o 12,3 mld. Kč**.\n\n### 2.5 Přepracovaný návrh rozpočtu 2026 (vláda Andreje Babiše, schodek 310 mld. Kč)\n\nPo volbách Babišův kabinet návrh 2026 přepracoval. Vláda shrnuje:\n\n- Nový rozpočet 2026: příjmy **1 977,6 mld. Kč**, výdaje **2 287,6 mld. Kč**, schodek **310 mld. Kč**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-prepracovany-navrh-statniho-rozpoctu-na-letosni-rok-a-rozhodla-o-navyseni-platu-zamestnancu-ve-verejnem-sektoru-225039/tmplid-47/))  \n- MF v tiskové zprávě k revizi rozpočtu uvádí přehled změn a konstatuje, že výsledkem je „**o 24 miliard vyšší deficit, který jde kompletně na prorůstové investice**“. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\nDále MF popisuje souhrnné škrty:\n\n- „**Snížení v oblasti provozních výdajů, dotací a kapitálových výdajů v úhrnu za všechny kapitoly o 11,4 mld. Kč.**“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\nV této tiskové zprávě:\n\n- **není uvedena žádná celková suma kapitálových výdajů pro rok 2026**,  \n- **číslo 12,3 mld. Kč se vyskytuje jen jednou** – jako **snížení příjmů** („sníženy příjmy ze zvláštních účtů MF o 12,3 mld. Kč…“), tedy **nikoli** jako změna kapitálových výdajů. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\nProto **z oficiálních materiálů MF nelze doložit**, že by celkové kapitálové výdaje státu v přepracovaném rozpočtu 2026 byly **o 12,3 mld. Kč vyšší než v roce 2025**. Jediné explicitní „číselné“ tvrzení o změně deficitu mluví o **+24 mld. Kč**, nikoliv o 12,3 mld.\n\n---\n\n## 3. Kapitálové / investiční výdaje v kapitole MPO\n\n### 3.1 Návrh kapitoly MPO v rozpočtu 2026 (vláda Petra Fialy)\n\nEkonomický deník na základě návrhu MF pro rok 2026 shrnuje rozpočet MPO:\n\n- **Celkové výdaje MPO 2025:** 35,805 mld. Kč  \n- **Celkové výdaje MPO 2026 (návrh):** 66,436 mld. Kč  \n- rozdíl: **+30,6 mld. Kč** ([ekonomickydenik.cz](https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/))  \n\nStruktura hlavních položek (mil. Kč):\n\n- Provozní podpora POZE: 2025 – 8 500; 2026 – 24 600  \n- Nový jaderný zdroj Dukovany II: 2025 – 0; 2026 – 18 315  \n- Podpora podnikání: 2025 – 19 302; 2026 – 14 645 ([ekonomickydenik.cz](https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/))  \n\nČlánek ale nerozlišuje, **kolik z těchto výdajů je kapitálových a kolik běžných**. Jisté je pouze to, že:\n\n- **meziroční nárůst celkových výdajů MPO je cca 30,6 mld. Kč**,  \n- nikde se v textu neobjevuje údaj, že by **kapitálové výdaje MPO rostly o 12,3 mld. Kč**.\n\n### 3.2 Revize rozpočtu 2026 (Babišova vláda) z pohledu MPO\n\nV tiskové zprávě MF k revizi rozpočtu 2026 je k MPO uvedeno:\n\n- „**V kapitole Ministerstvo průmyslu a obchodu zvýšení výdajů na POZE o 7,3 mld. Kč … a dále snížení prostředků souvisejících s novým jaderným zdrojem (Dukovany) o 18,3 mld. Kč** z důvodu chybějící notifikace EU.“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\nTj.:\n\n- část prostředků na Dukovany (které by byly typicky **kapitálovým** výdajem) byla z rozpočtu 2026 **odstraněna**,  \n- naopak podpora POZE (převážně **neinvestiční** dotace) byla zvýšena o 7,3 mld. Kč.\n\nZnovu: **žádný údaj o tom, že by samotné kapitálové výdaje MPO rostly meziročně přesně o 12,3 mld. Kč, v oficiálních datech není**.\n\n---\n\n## 4. Souhrn možných interpretací a srovnání s čísly\n\n### 4.1 Interpretace A: Kapitálové výdaje celého státního rozpočtu (investice státu)\n\nMožné základny:\n\n- **2025 rozpočet (plán)** – investice ≈ 250,8 mld. Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai))  \n- **2025 skutečnost** – investice 262,4 mld. Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/pokladni-plneni-sr-62373))  \n- **2026 původní návrh (286 mld. deficit)** – investice 248 mld. Kč ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107))  \n\nRozdíly:\n\n- 248 – 250,8 = **–2,8 mld. Kč** (pokles oproti rozpočtu 2025)  \n- 248 – 262,4 = **–14,4 mld. Kč** (pokles oproti skutečnosti 2025)\n\n=> **Žádná z těchto variant nedává navýšení kapitálových výdajů o 12,3 mld. Kč.**\n\nU přepracovaného rozpočtu 2026 (310 mld. deficit) MF v citované tiskové zprávě:\n\n- **neuvádí** celkovou částku investic,  \n- uvádí, že deficit je o **24 mld. Kč vyšší** a „jde kompletně na prorůstové investice“, ale současně uvádí škrty provozních **i kapitálových** výdajů v úhrnu 11,4 mld. Kč. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\nBez kompletní tabulky kapitálových výdajů pro rok 2026 nelze exaktně spočítat, jak se liší proti 2025, ale:\n\n- **žádný oficiální zdroj neuvádí mezironí navýšení kapitálových výdajů státu přesně o 12,3 mld. Kč.**  \n- Jediné „12,3 mld.“ v této tiskové zprávě se týká **snížení příjmů ze zvláštních účtů MF**, nikoliv výdajů. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\n### 4.2 Interpretace B: Kapitálové výdaje „z národních zdrojů“\n\nČísla:\n\n- **2025 – investice z národních zdrojů:** 154,6 mld. Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai))  \n- **2026 – investice z národních zdrojů:** 174,4 mld. Kč ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ministerstvo-financi-navrhuje-statni-rozpocet-na-r-61107))  \n\nRozdíl:\n\n- 174,4 – 154,6 = **+19,8 mld. Kč**\n\n=> Pro tuto interpretaci by bylo správné tvrdit, že **investice z národních zdrojů rostou zhruba o 20 mld. Kč**, nikoli o 12,3 mld. Kč.\n\n### 4.3 Interpretace C: Kapitálové výdaje MPO\n\nDostupná oficiální a seriózní sekundární data:\n\n- **Celkové výdaje MPO 2025:** 35,8 mld. Kč  \n- **Celkové výdaje MPO 2026 (Fialův návrh):** 66,4 mld. Kč  \n- Rozdíl: **+30,6 mld. Kč** ([ekonomickydenik.cz](https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/))  \n\nKapitálová a běžná složka není v těchto veřejných přehledech rozlišena. U revize Babišovy vlády navíc došlo:\n\n- ke zvýšení POZE (+7,3 mld. Kč) – převážně neinvestiční výdaje,  \n- ke snížení prostředků na nový jaderný zdroj Dukovany II (–18,3 mld. Kč) – typicky kapitálový výdaj. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n\n=> Je **málo pravděpodobné**, že by čistě kapitálové výdaje MPO meziročně vycházely přesně na **+12,3 mld. Kč** – jednak kvůli odstranění 18,3 mld. na Dukovany, jednak proto, že žádný z cizích ani oficiálních zdrojů tuto hodnotu neuvádí.\n\n---\n\n## 5. Závěr\n\n- **Nikde v dostupných oficiálních dokumentech (Ministerstvo financí, vláda ČR) ani v kvalitních sekundárních zdrojích se neobjevuje údaj, že by kapitálové výdaje (investice) – ať už celého státu, z národních zdrojů, nebo v kapitole MPO – byly mezi rokem 2025 a 2026 navýšeny právě o 12,3 mld. Kč.**\n- Naopak:\n  - Původní rozpočet 2026 (deficit 286 mld. Kč) počítá s **mírně nižšími** celkovými investicemi (248 mld. Kč) než plán rozpočtu 2025 (cca 250,8 mld. Kč) a výrazně nižšími než skutečnost 2025 (262,4 mld. Kč). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/navrh-statniho-rozpoctu-na-rok-2025-56907?utm_source=openai))  \n  - U přepracovaného rozpočtu 2026 (schodek 310 mld. Kč) MF tvrdí, že **dodatečný deficit 24 mld. Kč jde „kompletně na prorůstové investice“**, ale nikde neuvádí, že by kapitálové výdaje jako celek vzrostly vůči roku 2025 o 12,3 mld. Kč; číslo 12,3 mld. Kč se vyskytuje pouze u **snížení příjmů**. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))  \n  - U MPO je doložen **nárůst celkových výdajů o cca 30,6 mld. Kč**, nikoli o 12,3 mld. Kč; navíc část kapitálových výdajů (Dukovany II) byla v revizi rozpočtu výrazně seškrtána. ([ekonomickydenik.cz](https://ekonomickydenik.cz/rozpocet-mpo-vzroste-85-procent/))  \n\nNa základě všech nalezených dat:\n\n- **Výrok „…vůči minulému roku je zvyšujeme o 12,3 miliardy korun českých“ nelze podložit žádným dostupným oficiálním číslem a je v rozporu s hlavními možnými interpretacemi (celostátní kapitálové výdaje, investice z národních zdrojů i rozpočet MPO).**  \n- Nejbližší související oficiální čísla jsou:\n  - **+19,8 mld. Kč** (navýšení investic z národních zdrojů v návrhu 2026 vs 2025),  \n  - **–2 až –14 mld. Kč** (pokles celkových investic 2026 vs rozpočet či skutečnost 2025)  \n  - a **+30,6 mld. Kč** (nárůst celkových výdajů MPO 2026 vs 2025).  \n\nČástka **12,3 mld. Kč** se v souvislosti s rozpočtem 2026 vyskytuje pouze jako **snížení některých příjmů MF**, nikoliv jako meziroční **navýšení kapitálových výdajů**. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672))",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 118901,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 21044,
+      "output_tokens_details": {
+        "reasoning_tokens": 16681
+      },
+      "total_tokens": 139945
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772541384,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "claim_id": "24355",
+  "split": "old",
+  "source_experiment": "demagog_dr_gpt-5-m_20251014_172505",
+  "source_md": "experiments/demagog_dr_gpt-5-m_20251014_172505/brief_fact_check_id24355.md",
+  "fact_check": "# Fact Check for Statement ID 24355\n\n## Statement\nI podle vyjádření šéfky finanční správy to (vrácení sazby korporátní daně na 21 %, pozn. Demagog.cz) bude fiskálně neutrální.\n\n---\n## OpenAI Deep Research Fact Check\nShrnutí (krátce)\n- Nárok Andreje Babiše: „I podle vyjádření šéfky finanční správy to (vrácení sazby korporátní daně na 21 %) bude fiskálně neutrální.“  \n- Závěr: Tvrzení je nepřesné / zavádějící. Ve veřejně dostupných výpovědích generální ředitelky Finanční správy Simony Hornochové jsem nenašel přímé prohlášení, že by zvýšení sazby korporátní daně na 21 % bylo „fiskálně neutrální“. Naopak oficiální rozhovor (kde Hornochová mluví o zvýšení z 19 % na 21 %) uvádí odhad ministerstva o dodatečném výnosu ~22 miliard Kč a Hornochová říká, že „Žádné velké optimalizace kvůli tomu ... nečeká“, což není totéž jako prohlášení o fiskální neutralitě. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n1) Co přesně tvrzení znamená (možné interpretace)\n- a) Silná interpretace: Hornochová explicitně řekla „to bude fiskálně neutrální“ (tj. nulový dopad na státní rozpočet).  \n- b) Slabší interpretace: Hornochová prý uvedla, že změna prakticky nezaškodí (např. protože firmy nebudou optimalizovat) a tedy že čistý dopad bude zanedbatelný / vyrovnaný.  \nPozn.: pro ověření rozlišujeme, zda skutečně existuje přímý citát/kontext, kde Hornochová použití výrazu „fiskálně neutrální“ (nebo ekvivalent) vztahuje ke zvýšení sazby na 21 %.\n\n2) Hledané a nalezené primární zdroje (nejrelevantnější)\n- Rozhovor publikovaný na webu Ministerstva financí (převzatý z rozhovoru Seznam Zprávy / Agenda SZ Byznys) – pasáž o zvýšení sazby z 19 % na 21 %, zmínka o očekávaném dodatečném výnosu a o tom, že Hornochová „Žádné velké optimalizace kvůli tomu ... nečeká“. Přímý citát: „Firmy aktuálně podléhají sazbě daně z příjmů 19 %, od příštího roku se ale zvýší na 21 %. Ministr financí ... si od toho slibuje dodatečný výnos pro rok 2025 ve výši 22 miliard korun. Žádné velké optimalizace kvůli tomu Hornochová v korporátech nečeká.“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))  \n  URL: https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922 (citovaný úsek v textu stránky)\n\n- Zpráva ČTK / tisková rekapitulace: ministerstvo počítá s dodatečným výnosem cca 21,8–22 miliard Kč po zvýšení sazby z 19 % na 21 %. To ukazuje, že oficiální odhad ministerstva je výnosový (není to „nula“). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai))  \n  URL (příklad zdroje ČTK zveřejněného v médiích): (viz) https://www.ceskenoviny.cz/… (článek zmiňující 21,8 mld.)\n\n- Odborné / informační shrnutí (BusinessInfo apod.): potvrzení, že sazba se z 19 % změnila na 21 % (kontext legislativní změny a očekávaný fiskální dopad). ([businessinfo.cz](https://www.businessinfo.cz/clanky/dan-z-prijmu-se-firmam-zvysuje-z-19-na-21-procent-za-letosek-jeste-zaplati-mene/?utm_source=openai))\n\n- Přehled vystoupení Simony Hornochové / výstupy Finanční správy (seznam mediálních vystoupení, bez tvrzení o fiskální neutralitě). ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/lide-fs-v-mediich/2025?utm_source=openai))\n\n3) Co primární zdroje skutečně říkají (citace / přesné úseky)\n- „Firmy aktuálně podléhají sazbě daně z příjmů 19 %, od příštího roku se ale zvýší na 21 %. Ministr financí Zbyněk Stanjura (ODS) si od toho slibuje dodatečný výnos pro rok 2025 ve výši 22 miliard korun. Žádné velké optimalizace kvůli tomu Hornochová v korporátech nečeká.“ (Ministerstvo financí – rozhovor s GŘ Finanční správy, část převzatá z Agendy SZ Byznys). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n- „Ministerstvo financí navrhlo ... zvýšení korporátní daně o 2 procentní body. Ministerstvo předpokládá, že od roku 2025 by se díky tomu příjmy rozpočtu zvýšily o 21,8 miliardy korun ročně.“ (ČTK přehled). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai))\n\n4) Důkazy PRO a PROTI tvrzení Babiše\n- PRO (co mohl Babiš mít na mysli): Hornochová řekla, že neočekává velké daňové optimalizace / reorganizace firem v důsledku změny o 2 procentní body — to lze interpretovat jako náznak, že „dopad kvůli optimalizacím nebude velký“. To je ale výrazně odlišné od tvrzení, že opatření bude „fiskálně neutrální“ (tj. žádný čistý dopad na výnosy státního rozpočtu). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n- PROTI (co vyvrací Babišovo tvrzení):  \n  - Hornochová / Finanční správa v dostupných veřejných výstupech nikde neřekla, že zvýšení sazby na 21 % bude „fiskálně neutrální“. Místo toho je v záznamech explicitně uvedeno, že ministerstvo očekává dodatečný výnos ~22 mld. Kč. To přímo odporuje tvrzení o „neutralitě“ (nulovém dopadu). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n5) Závěr / posouzení přesnosti výroku\n- Věcně: tvrzení Andreje Babiše, že „podle vyjádření šéfky Finanční správy to bude fiskálně neutrální“, není podpořeno veřejně dostupnými citacemi Simony Hornochové. Ve zdrojích, kde Hornochová mluví o zvýšení sazby na 21 %, se mluví o očekávaném dodatečném výnosu (cca 21,8–22 mld. Kč) a o tom, že neočekává velké optimalizace. To není totéž jako prohlášení o fiskální neutralitě. Na základě dostupných veřejných zdrojů je tedy tvrzení nepřesné / zavádějící. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n6) Použité zdroje (včetně přímých citací)\n- Ministerstvo financí: Rozhovor s generální ředitelkou Finanční správy Simonou Hornochovou (převzato z Agendy SZ Byznys) — pasáž o zvýšení z 19 % na 21 %, očekávaném výnosu 22 mld. a o tom, že Hornochová „Žádné velké optimalizace ... nečeká“. (viz oddíl „Vyšší daně se přeceňují“). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))  \n  URL: https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922\n\n- ČTK / České noviny: článek shrnující návrh MF a odhad dodatečného výnosu ~21,8 miliardy Kč po zvýšení sazby DPPO. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai))  \n  URL (příklad zveřejnění ČTK): https://www.ceskenoviny.cz/\n\n- BusinessInfo.cz: komentář k zvýšení sazby z 19 % na 21 % (kontext změny sazby). ([businessinfo.cz](https://www.businessinfo.cz/clanky/dan-z-prijmu-se-firmam-zvysuje-z-19-na-21-procent-za-letosek-jeste-zaplati-mene/?utm_source=openai))  \n  URL: https://www.businessinfo.cz/clanky/dan-z-prijmu-se-firmam-zvysuje-z-19-na-21-procent-za-letosek-jeste-zaplati-mene/\n\n- Přehled vystoupení a mediálních odkazů Finanční správy (Simona Hornochová v médiích) — soupis, bez tvrzení o fiskální neutralitě. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/lide-fs-v-mediich/2025?utm_source=openai))  \n  URL: https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/lide-fs-v-mediich/2025\n\n7) Krátké shrnutí pro rozhodnutí fact-checkera\n- Hlavní „load-bearing“ body, které by měly rozhodnout: (i) Hornochová v přímém veřejném projevu uvedla, že neočekává velké daňové optimalizace po zvýšení sazby o 2 pp; (ii) ministerstvo financí očekává dodatečný výnos cca 21,8–22 mld. Kč; (iii) nikde se nenašlo přímé prohlášení Simony Hornochové, že zvýšení sazby bude „fiskálně neutrální“. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\nVerdikt pro Demagog.cz: výroku Andreje Babiše nelze podle dostupných veřejných zdrojů označit za přesný. Je to zavádějící tvrzení (nepravdivé při silné interpretaci; nepřesné i při slabší interpretaci). Simona Hornochová neřekla, že opatření bude fiskálně neutrální — místo toho potvrdila očekávaný dodatečný výnos (odhadem ministerstva) a pouze uvedla, že neočekává hromadné daňové optimalizace ze strany korporací. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n(Report hotov — uvedené citace vedou na veřejné záznamy/rozhovory; pokud budete chtít, mohu připravit export této sestavy s vyznačením přesných řádků textu pro archivaci.)\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the Claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for Evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid Newer Sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid Using the Source the Claim Came From**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer Official Czech Sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"The following claim comes from: An article in Deník released on 2025-10-10\\nThe claim was made by: Andrej Babiš, Poslanec, Předseda hnutí ANO\\nProvide a structured, citation-backed verification of the claim: 'I podle vyjádření šéfky finanční správy to (vrácení sazby korporátní daně na 21 %, pozn. Demagog.cz) bude fiskálně neutrální.'\\n\"\n  }\n]\n\nModel: gpt-5-mini-2025-08-07\nWall time: 285.17 seconds\n## Agent work log\n```\nREASONING: \nWEB SEARCH: šéfka Finanční správy vyjádření vrácení sazby korporátní daně 21 % bude fiskálně neutrální\nREASONING: \nWEB SEARCH: ředitelka Finanční správy 2025 'Finanční správa' ředitel/ka 'ředitelka' 'Finanční správa' Česká republika 2025\nREASONING: \nWEB SEARCH: \"vrácení sazby\" korporátní daň 21 Simona Hornochová\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: Simona Hornochová \"fiskálně neutrální\"\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: Simona Hornochová 22 miliard korporátní daň 21 22 miliardy '2025' '2024' rozhovor\nREASONING: \nWEB SEARCH: Simona Hornochová korporátní daň 21 rozhovor 'korporátní daň' '21 %' 'daň z příjmů' 'Hornochová' 'korporátní' \nREASONING: \nWEB SEARCH: Simona Hornochová neutrální 'neutrální' 'fisk' 'Hornochová' 'neutrální' 'fiskálně' \nREASONING: \nWEB SEARCH: None\nREASONING: \nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p>Stručně (max 280 znaků): Tvrdíme, že šéfka Finanční správy Simona Hornochová veřejně neprohlásila, že by navýšení sazby korporátní daně na 21 % bylo „fiskálně neutrální“. Uvedla, že neočekává masivní daňové optimalizace, zatímco Ministerstvo financí počítalo s dodatečným výnosem ~21,8–22 mld. Kč.</p>\n\n<p>Kontext: Tvrzení se týká změny sazby daně z příjmů právnických osob z 19 % na 21 %. Při posuzování rozeznáváme dvě interpretace výroku: (A) silná — že Hornochová výslovně řekla, že opatření bude „fiskálně neutrální“ (nulový dopad na rozpočet); (B) slabší — že prý naznačila, že dopad bude zanedbatelný, protože firmy nebudou provádět velké optimalizace.</p>\n\n<p>Co jsme našli ve zdrojích: V dostupném veřejném rozhovoru přebraném Ministerstvem financí Hornochová uvádí, že „Žádné velké optimalizace kvůli tomu ... nečeká.“ Současně je v textu uvedeno, že Ministerstvo financí odhaduje dodatečný výnos přibližně 21,8–22 miliard Kč z navýšení sazby. Tato pasáž je publikována na stránkách Ministerstva financí. <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922\">Rozhovor (Ministerstvo financí)</a>. Odhad dodatečného výnosu shrnuly i tiskové služby (ČTK / České noviny). <a href=\"https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai\">Článek (ČTK)</a>. Obecný kontext změny sazby je také shrnut na BusinessInfo. <a href=\"https://www.businessinfo.cz/clanky/dan-z-prijmu-se-firmam-zvysuje-z-19-na-21-procent-za-letosek-jeste-zaplati-mene/?utm_source=openai\">BusinessInfo</a>. Soupis mediálních vystoupení Finanční správy neobsahuje tvrzení o „neutralitě“ dopadu. <a href=\"https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/lide-fs-v-mediich/2025?utm_source=openai\">Finanční správa — mediální výstupy</a>.</p>\n\n<p>Hodnocení jednotlivých tvrzení obsažených ve výroku:</p>\n\n<p>a) Tvrzení, že Hornochová explicitně řekla „bude to fiskálně neutrální“ (silná interpretace): nenašli jsme žádný veřejný citát nebo pasáž, kde by generální ředitelka Finanční správy použila termín „fiskálně neutrální“ nebo by přímo prohlašovala, že dopad na státní rozpočet bude nulový. Naopak zdroje uvádějí odhad dodatečného výnosu ~21,8–22 mld. Kč. Z tohoto důvodu hodnotíme tuto interpretaci jako nepravdivou. (<a href=\"https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922\">Rozhovor MF</a>, <a href=\"https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai\">ČTK</a>).</p>\n\n<p>b) Tvrzení, že Hornochová naznačila zanedbatelný dopad tím, že „neočekává velké optimalizace“ (slabší interpretace): to odpovídá dostupnému citátu. Hornochová v rozhovoru říká <i>\"Žádné velké optimalizace kvůli tomu ... nečeká.\"</i> To znamená, že podle ní není pravděpodobné, že by firmy hromadně reagovaly restrukturalizací tak, která by celý fiskální efekt zrušila. Nicméně i při tomto stanovisku existá jasné rozlišení: nečekat masivní optimalizace není totéž jako prohlášení, že čistý fiskální dopad bude nulový. Ministerstvo financí přitom explicitně odhadlo dodatečný výnos. (<a href=\"https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922\">Rozhovor MF</a>, <a href=\"https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai\">ČTK</a>).</p>\n\n<p>Na co jsme nenarazili: V dostupných veřejných materiálech jsme nenašli přímé tvrzení Simony Hornochové, že zvýšení sazby bude mít nulový dopad na rozpočet nebo že bude „fiskálně neutrální“ ve smyslu absence jakéhokoli dodatečného výnosu.</p>\n\n<p>Závěr: Podle našich zjištění je výrok Andreje Babiše nepřesný a zavádějící. Simona Hornochová neřekla, že návrat sazby na 21 % bude fiskálně neutrální; uvedla, že neočekává masivní daňové optimalizace, zatímco Ministerstvo financí počítalo s dodatečným výnosem řádově ~21,8–22 mld. Kč. Proto nelze tvrzení o neutralitě považovat za podložené citátem šéfky Finanční správy. (<a href=\"https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922\">Rozhovor MF</a>, <a href=\"https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai\">ČTK</a>).</p>\n\n<p>Krátké shrnutí výsledku ověření: Není doloženo, že by šéfka Finanční správy prohlásila, že zvýšení sazby DPPO na 21 % bude fiskálně neutrální; veřejné výroky spíše hovoří o nečekaných masových optimalizacích, zatímco Ministerstvo financí uvádí odhad dodatečného příjmu ~22 mld. Kč. Závěrečné hodnocení: tvrzení je zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0199205f10e868fb0068ee740aa814819cb89e4fed440e5298",
+    "created_at": 1760457738.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5-mini-2025-08-07",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0199205f10e868fb0068ee74149228819c8378c6d856b0bc1c",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee741a8a60819c88ef215088bd7f3a",
+        "action": {
+          "query": "šéfka Finanční správy vyjádření vrácení sazby korporátní daně 21 % bude fiskálně neutrální",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee7427c6ac819ca1bee1f7eee78690",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee742924ac819cbd751204fc34025b",
+        "action": {
+          "query": "ředitelka Finanční správy 2025 'Finanční správa' ředitel/ka 'ředitelka' 'Finanční správa' Česká republika 2025",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee74352ffc819ca12dc6cb1381bf9f",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee74362fd4819c94275ad8f8029a8f",
+        "action": {
+          "query": "\"vrácení sazby\" korporátní daň 21 Simona Hornochová",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee743d0eb8819cbd0a1e7cd032822b",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee7442de34819cbf2b6c9cca74a850",
+        "action": {
+          "query": null,
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee7447b608819c828985522e245f04",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee744d10bc819c95807eac48b0e7f8",
+        "action": {
+          "query": "Simona Hornochová \"fiskálně neutrální\"",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee745d3c70819c830e0ca3da18117d",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee745dfb40819ca4183da2509f1b5a",
+        "action": {
+          "query": null,
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee745e14f8819ca0074e295ad48a27",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee745f18d4819caf4d421f5ba9408a",
+        "action": {
+          "query": null,
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee74632334819c8c9e1db84b1f27cf",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee746971b8819c93d43964e415ce21",
+        "action": {
+          "query": "Simona Hornochová 22 miliard korporátní daň 21 22 miliardy '2025' '2024' rozhovor",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee74790834819c904ac4de360df02c",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee7489bd8c819c80109474507bfbef",
+        "action": {
+          "query": "Simona Hornochová korporátní daň 21 rozhovor 'korporátní daň' '21 %' 'daň z příjmů' 'Hornochová' 'korporátní' ",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee74940e18819cad65d7dba997269c",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee7495950c819cb723c433a8b13707",
+        "action": {
+          "query": "Simona Hornochová neutrální 'neutrální' 'fisk' 'Hornochová' 'neutrální' 'fiskálně' ",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee74a1aab0819cb7cec70f4cebe04f",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0199205f10e868fb0068ee74a556bc819c97eb7636d518320f",
+        "action": {
+          "query": null,
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0199205f10e868fb0068ee74a57324819cb612495e83a719c0",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0199205f10e868fb0068ee74d3a3d8819ca15ca41b0ca82198",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 770,
+                "start_index": 645,
+                "title": "Rozhovor s GŘ GFŘ Simonou Hornochovou: Jak se v ČR daří vybírat daně? | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922"
+              },
+              {
+                "end_index": 2011,
+                "start_index": 1886,
+                "title": "Rozhovor s GŘ GFŘ Simonou Hornochovou: Jak se v ČR daří vybírat daně? | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922"
+              },
+              {
+                "end_index": 2454,
+                "start_index": 2375,
+                "title": "Česko má nejvyšší korporátní daň ze zemí visegradské skupiny | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai"
+              },
+              {
+                "end_index": 2883,
+                "start_index": 2729,
+                "title": "Daň z příjmu se firmám zvýšila z 19 na 21 procent, letos zaplatí více | BusinessInfo.cz",
+                "type": "url_citation",
+                "url": "https://www.businessinfo.cz/clanky/dan-z-prijmu-se-firmam-zvysuje-z-19-na-21-procent-za-letosek-jeste-zaplati-mene/?utm_source=openai"
+              },
+              {
+                "end_index": 3151,
+                "start_index": 3017,
+                "title": "2025 | Lidé FS v médiích | Pro média | Finanční správa | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/lide-fs-v-mediich/2025?utm_source=openai"
+              },
+              {
+                "end_index": 3705,
+                "start_index": 3580,
+                "title": "Rozhovor s GŘ GFŘ Simonou Hornochovou: Jak se v ČR daří vybírat daně? | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922"
+              },
+              {
+                "end_index": 3993,
+                "start_index": 3914,
+                "title": "Česko má nejvyšší korporátní daň ze zemí visegradské skupiny | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai"
+              },
+              {
+                "end_index": 4517,
+                "start_index": 4392,
+                "title": "Rozhovor s GŘ GFŘ Simonou Hornochovou: Jak se v ČR daří vybírat daně? | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922"
+              },
+              {
+                "end_index": 4976,
+                "start_index": 4851,
+                "title": "Rozhovor s GŘ GFŘ Simonou Hornochovou: Jak se v ČR daří vybírat daně? | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922"
+              },
+              {
+                "end_index": 5601,
+                "start_index": 5476,
+                "title": "Rozhovor s GŘ GFŘ Simonou Hornochovou: Jak se v ČR daří vybírat daně? | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922"
+              },
+              {
+                "end_index": 6053,
+                "start_index": 5928,
+                "title": "Rozhovor s GŘ GFŘ Simonou Hornochovou: Jak se v ČR daří vybírat daně? | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922"
+              },
+              {
+                "end_index": 6372,
+                "start_index": 6293,
+                "title": "Česko má nejvyšší korporátní daň ze zemí visegradské skupiny | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai"
+              },
+              {
+                "end_index": 6672,
+                "start_index": 6518,
+                "title": "Daň z příjmu se firmám zvýšila z 19 na 21 procent, letos zaplatí více | BusinessInfo.cz",
+                "type": "url_citation",
+                "url": "https://www.businessinfo.cz/clanky/dan-z-prijmu-se-firmam-zvysuje-z-19-na-21-procent-za-letosek-jeste-zaplati-mene/?utm_source=openai"
+              },
+              {
+                "end_index": 7065,
+                "start_index": 6931,
+                "title": "2025 | Lidé FS v médiích | Pro média | Finanční správa | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/lide-fs-v-mediich/2025?utm_source=openai"
+              },
+              {
+                "end_index": 7681,
+                "start_index": 7556,
+                "title": "Rozhovor s GŘ GFŘ Simonou Hornochovou: Jak se v ČR daří vybírat daně? | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922"
+              },
+              {
+                "end_index": 8225,
+                "start_index": 8100,
+                "title": "Rozhovor s GŘ GFŘ Simonou Hornochovou: Jak se v ČR daří vybírat daně? | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922"
+              }
+            ],
+            "text": "Shrnutí (krátce)\n- Nárok Andreje Babiše: „I podle vyjádření šéfky finanční správy to (vrácení sazby korporátní daně na 21 %) bude fiskálně neutrální.“  \n- Závěr: Tvrzení je nepřesné / zavádějící. Ve veřejně dostupných výpovědích generální ředitelky Finanční správy Simony Hornochové jsem nenašel přímé prohlášení, že by zvýšení sazby korporátní daně na 21 % bylo „fiskálně neutrální“. Naopak oficiální rozhovor (kde Hornochová mluví o zvýšení z 19 % na 21 %) uvádí odhad ministerstva o dodatečném výnosu ~22 miliard Kč a Hornochová říká, že „Žádné velké optimalizace kvůli tomu ... nečeká“, což není totéž jako prohlášení o fiskální neutralitě. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n1) Co přesně tvrzení znamená (možné interpretace)\n- a) Silná interpretace: Hornochová explicitně řekla „to bude fiskálně neutrální“ (tj. nulový dopad na státní rozpočet).  \n- b) Slabší interpretace: Hornochová prý uvedla, že změna prakticky nezaškodí (např. protože firmy nebudou optimalizovat) a tedy že čistý dopad bude zanedbatelný / vyrovnaný.  \nPozn.: pro ověření rozlišujeme, zda skutečně existuje přímý citát/kontext, kde Hornochová použití výrazu „fiskálně neutrální“ (nebo ekvivalent) vztahuje ke zvýšení sazby na 21 %.\n\n2) Hledané a nalezené primární zdroje (nejrelevantnější)\n- Rozhovor publikovaný na webu Ministerstva financí (převzatý z rozhovoru Seznam Zprávy / Agenda SZ Byznys) – pasáž o zvýšení sazby z 19 % na 21 %, zmínka o očekávaném dodatečném výnosu a o tom, že Hornochová „Žádné velké optimalizace kvůli tomu ... nečeká“. Přímý citát: „Firmy aktuálně podléhají sazbě daně z příjmů 19 %, od příštího roku se ale zvýší na 21 %. Ministr financí ... si od toho slibuje dodatečný výnos pro rok 2025 ve výši 22 miliard korun. Žádné velké optimalizace kvůli tomu Hornochová v korporátech nečeká.“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))  \n  URL: https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922 (citovaný úsek v textu stránky)\n\n- Zpráva ČTK / tisková rekapitulace: ministerstvo počítá s dodatečným výnosem cca 21,8–22 miliard Kč po zvýšení sazby z 19 % na 21 %. To ukazuje, že oficiální odhad ministerstva je výnosový (není to „nula“). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai))  \n  URL (příklad zdroje ČTK zveřejněného v médiích): (viz) https://www.ceskenoviny.cz/… (článek zmiňující 21,8 mld.)\n\n- Odborné / informační shrnutí (BusinessInfo apod.): potvrzení, že sazba se z 19 % změnila na 21 % (kontext legislativní změny a očekávaný fiskální dopad). ([businessinfo.cz](https://www.businessinfo.cz/clanky/dan-z-prijmu-se-firmam-zvysuje-z-19-na-21-procent-za-letosek-jeste-zaplati-mene/?utm_source=openai))\n\n- Přehled vystoupení Simony Hornochové / výstupy Finanční správy (seznam mediálních vystoupení, bez tvrzení o fiskální neutralitě). ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/lide-fs-v-mediich/2025?utm_source=openai))\n\n3) Co primární zdroje skutečně říkají (citace / přesné úseky)\n- „Firmy aktuálně podléhají sazbě daně z příjmů 19 %, od příštího roku se ale zvýší na 21 %. Ministr financí Zbyněk Stanjura (ODS) si od toho slibuje dodatečný výnos pro rok 2025 ve výši 22 miliard korun. Žádné velké optimalizace kvůli tomu Hornochová v korporátech nečeká.“ (Ministerstvo financí – rozhovor s GŘ Finanční správy, část převzatá z Agendy SZ Byznys). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n- „Ministerstvo financí navrhlo ... zvýšení korporátní daně o 2 procentní body. Ministerstvo předpokládá, že od roku 2025 by se díky tomu příjmy rozpočtu zvýšily o 21,8 miliardy korun ročně.“ (ČTK přehled). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai))\n\n4) Důkazy PRO a PROTI tvrzení Babiše\n- PRO (co mohl Babiš mít na mysli): Hornochová řekla, že neočekává velké daňové optimalizace / reorganizace firem v důsledku změny o 2 procentní body — to lze interpretovat jako náznak, že „dopad kvůli optimalizacím nebude velký“. To je ale výrazně odlišné od tvrzení, že opatření bude „fiskálně neutrální“ (tj. žádný čistý dopad na výnosy státního rozpočtu). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n- PROTI (co vyvrací Babišovo tvrzení):  \n  - Hornochová / Finanční správa v dostupných veřejných výstupech nikde neřekla, že zvýšení sazby na 21 % bude „fiskálně neutrální“. Místo toho je v záznamech explicitně uvedeno, že ministerstvo očekává dodatečný výnos ~22 mld. Kč. To přímo odporuje tvrzení o „neutralitě“ (nulovém dopadu). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n5) Závěr / posouzení přesnosti výroku\n- Věcně: tvrzení Andreje Babiše, že „podle vyjádření šéfky Finanční správy to bude fiskálně neutrální“, není podpořeno veřejně dostupnými citacemi Simony Hornochové. Ve zdrojích, kde Hornochová mluví o zvýšení sazby na 21 %, se mluví o očekávaném dodatečném výnosu (cca 21,8–22 mld. Kč) a o tom, že neočekává velké optimalizace. To není totéž jako prohlášení o fiskální neutralitě. Na základě dostupných veřejných zdrojů je tedy tvrzení nepřesné / zavádějící. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n6) Použité zdroje (včetně přímých citací)\n- Ministerstvo financí: Rozhovor s generální ředitelkou Finanční správy Simonou Hornochovou (převzato z Agendy SZ Byznys) — pasáž o zvýšení z 19 % na 21 %, očekávaném výnosu 22 mld. a o tom, že Hornochová „Žádné velké optimalizace ... nečeká“. (viz oddíl „Vyšší daně se přeceňují“). ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))  \n  URL: https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922\n\n- ČTK / České noviny: článek shrnující návrh MF a odhad dodatečného výnosu ~21,8 miliardy Kč po zvýšení sazby DPPO. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2379837?utm_source=openai))  \n  URL (příklad zveřejnění ČTK): https://www.ceskenoviny.cz/\n\n- BusinessInfo.cz: komentář k zvýšení sazby z 19 % na 21 % (kontext změny sazby). ([businessinfo.cz](https://www.businessinfo.cz/clanky/dan-z-prijmu-se-firmam-zvysuje-z-19-na-21-procent-za-letosek-jeste-zaplati-mene/?utm_source=openai))  \n  URL: https://www.businessinfo.cz/clanky/dan-z-prijmu-se-firmam-zvysuje-z-19-na-21-procent-za-letosek-jeste-zaplati-mene/\n\n- Přehled vystoupení a mediálních odkazů Finanční správy (Simona Hornochová v médiích) — soupis, bez tvrzení o fiskální neutralitě. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/lide-fs-v-mediich/2025?utm_source=openai))  \n  URL: https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/lide-fs-v-mediich/2025\n\n7) Krátké shrnutí pro rozhodnutí fact-checkera\n- Hlavní „load-bearing“ body, které by měly rozhodnout: (i) Hornochová v přímém veřejném projevu uvedla, že neočekává velké daňové optimalizace po zvýšení sazby o 2 pp; (ii) ministerstvo financí očekává dodatečný výnos cca 21,8–22 mld. Kč; (iii) nikde se nenašlo přímé prohlášení Simony Hornochové, že zvýšení sazby bude „fiskálně neutrální“. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\nVerdikt pro Demagog.cz: výroku Andreje Babiše nelze podle dostupných veřejných zdrojů označit za přesný. Je to zavádějící tvrzení (nepravdivé při silné interpretaci; nepřesné i při slabší interpretaci). Simona Hornochová neřekla, že opatření bude fiskálně neutrální — místo toho potvrdila očekávaný dodatečný výnos (odhadem ministerstva) a pouze uvedla, že neočekává hromadné daňové optimalizace ze strany korporací. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2023/rozhovor-s-gr-gfr-simonou-hornochovou-jak-se-v-cr-53922))\n\n(Report hotov — uvedené citace vedou na veřejné záznamy/rozhovory; pokud budete chtít, mohu připravit export této sestavy s vyznačením přesných řádků textu pro archivaci.)",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "reasoning": {
+      "effort": "medium",
+      "generate_summary": null,
+      "summary": "detailed"
+    },
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 42564,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 6057,
+      "output_tokens_details": {
+        "reasoning_tokens": 3520
+      },
+      "total_tokens": 48621
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "prompt_cache_key": null,
+    "safety_identifier": null,
+    "store": true
+  }
+}

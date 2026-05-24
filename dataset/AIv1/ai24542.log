@@ -1,0 +1,622 @@
+{
+  "claim_id": "24542",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20260116_143820",
+  "source_md": "experiments/gpt-5.1h_20260116_143820/brief_fact_check_id24542.md",
+  "fact_check": "# Fact Check for Statement ID 24542\n\n## Statement\nV tom zákoně o střetu zájmů je jasně napsáno, že tam je těch 30 dnů, ale v případě, že jsou objektivní důvody, tak se ta lhůta může prodloužit.\n\n---\n## AI Fact Check\n## 1. Identifikace výroku\n\nTvrzení Patrika Nachera (parafráze):  \n„V tom zákoně o střetu zájmů je jasně napsáno, že tam je těch 30 dnů, ale v případě, že jsou objektivní důvody, tak se ta lhůta může prodloužit.“\n\nRelevantní právní předpis:  \nZákon č. 159/2006 Sb., o střetu zájmů („zákon o střetu zájmů“, ve znění účinném v době první vlády Andreje Babiše – klíčová ustanovení se v této části dlouhodobě neměnila).\n\n---\n\n## 2. Rozklad výroku na dílčí tvrzení\n\n1. **Existence 30denní lhůty v zákoně o střetu zájmů**  \n   Zákon o střetu zájmů „jasně píše“, že existuje lhůta 30 dnů (ve smyslu: člen vlády má 30 dnů na ukončení neslučitelných činností / vyřešení střetu zájmů po nástupu do funkce).\n\n2. **Možnost prodloužení lhůty z „objektivních důvodů“**  \n   Zákon podle výroku obsahuje i pravidlo, že „v případě, že jsou objektivní důvody, tak se ta lhůta může prodloužit“ – tj. právní úprava údajně výslovně umožňuje prodloužení této 30denní lhůty.\n\n---\n\n## 3. Důkazy k dílčímu tvrzení 1: Existuje v zákoně 30denní lhůta?\n\n### 3.1 Text zákona – § 4 odst. 3\n\n§ 4 zákona č. 159/2006 Sb. upravuje omezení podnikání a jiných činností pro vybrané veřejné funkcionáře (mj. členy vlády).\n\nPodle aktuálního znění § 4 odst. 3 (text v této části je dlouhodobě stabilní):\n\n> „Veřejní funkcionáři uvedení v odstavci 1 jsou povinni činnosti tam uvedené ukončit … **nejpozději však do 30 dnů ode dne zahájení výkonu funkce**.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nTato věta jasně stanoví 30denní lhůtu, v níž nový člen vlády (a další funkcionáři podle § 2 odst. 1 písm. c) až m)) musí ukončit zakázané činnosti (podnikání, funkce ve statutárních orgánech podnikajících právnických osob, pracovněprávní či obdobné poměry apod.). ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n### 3.2 Další 30denní lhůty v zákoně\n\nZákon obsahuje i další 30denní lhůty, zejména v části o oznamovacích povinnostech (§ 12):\n\n- § 12 odst. 1: oznámení majetku a činností „je veřejný funkcionář povinen učinit **do 30 dnů** ode dne, kdy jej do registru oznámení zapsala příslušná právnická osoba…“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- § 12 odst. 3: po ukončení funkce musí bývalý veřejný funkcionář podat příslušná oznámení „**nejpozději do 30 dnů ode dne**, kdy ukončení funkce bylo zapsáno do registru.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nTyto lhůty ale v politické debatě o Babišově střetu zájmů obvykle nehrají hlavní roli; klíčová je právě 30denní lhůta z § 4 odst. 3 jako čas na odstranění neslučitelných činností po nástupu do funkce.\n\n### 3.3 Odborné a mediální zdroje\n\nPrávní a mediální komentáře běžně popisují tuto povinnost tak, že zákon ukládá vyřešit střet zájmů do 30 dnů po nástupu do funkce:\n\n- Frank Bold (analytická nevládní organizace, článek vytvořen 31. 10. 2017) shrnuje § 4 takto:  \n  „Nově ustanovený funkcionář tak musí tyto činnosti **ukončit do 30 dnů ode dne zahájení výkonu funkce**.“ ([frankbold.org](https://frankbold.org/poradna/kategorie/korupce-a-jednani-uredniku/rada/jak-si-pohlidat-stret-zajmu))  \n\n- Zpravodajství z roku 2025 (ale odkazující se k téže právní úpravě) uvádí:  \n  „Zákon vyžaduje vyřešit střet zájmů **bez zbytečného odkladu po nástupu do funkce, nejpozději do 30 dnů ode dne zahájení výkonu funkce**.“   \n\n**Závěr k dílčímu tvrzení 1:**  \nAno. Zákon o střetu zájmů jednoznačně obsahuje 30denní lhůtu pro ukončení určitých zakázaných činností (typicky podnikání a členství ve vedení firem) od zahájení výkonu funkce (§ 4 odst. 3). Toto odpovídá první části výroku („že tam je těch 30 dnů“).\n\n---\n\n## 4. Důkazy k dílčímu tvrzení 2: Umožňuje zákon „prodloužit lhůtu“ z objektivních důvodů?\n\n### 4.1 Příslušné ustanovení zákona\n\nBezprostředně po větě s 30denní lhůtou následuje v § 4 odst. 3 tato pasáž:\n\n> „**Není-li k ukončení činnosti z důvodů nezávislých na vůli veřejného funkcionáře možné dodržet lhůtu uvedenou v předchozí větě**, veřejný funkcionář o této skutečnosti v dané lhůtě informuje evidenční orgán a provede současně všechna potřebná opatření směřující k ukončení činnosti.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nKlíčové body:\n\n- Zákon mluví o **„důvodech nezávislých na vůli veřejného funkcionáře“**, nikoliv o „objektivních důvodech“ (formulace Patrika Nachera).  \n- V takovém případě zákon ukládá funkcionáři:\n  - informovat o této skutečnosti evidenční orgán (Ministerstvo spravedlnosti u členů vlády) ve stejné 30denní lhůtě;\n  - současně přijmout „všechna potřebná opatření“ k ukončení zakázané činnosti. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nZnění je obdobné také u § 4a odst. 2 (60denní lhůta pro ukončení účasti v mediálních firmách): pokud nelze „z důvodů nezávislých na vůli veřejného funkcionáře“ dodržet 60denní lhůtu, musí funkcionář informovat evidenční orgán a přijmout opatření ke splnění povinnosti. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n### 4.2 Co zákon *neříká*\n\n1. **Slova „lhůta se může prodloužit“ se v zákoně nevyskytují.**  \n   Při prohledání úplného znění zákona na oficiálních a odborných zdrojích (Sbírka, Zákony pro lidi, přehledné verze) se formulace typu „lhůta se prodlužuje“ nebo „lhůta může být prodloužena“ v souvislosti s § 4 či § 4a nenachází. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n2. **Termín „objektivní důvody“ zákon nepoužívá.**  \n   Zákon pracuje s formulací „důvody nezávislé na vůli veřejného funkcionáře“, která je sice významově blízká tomu, co laik může nazvat „objektivní důvody“ (tj. okolnosti, které funkcionář nemůže ovlivnit), ale jde o jiný, přesněji vymezený právní pojem. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n3. **Zákon výslovně neříká, že po uplynutí 30 dnů je výkon neslučitelné činnosti legální, pokud byly tyto podmínky splněny.**  \n   Ustanovení § 4 odst. 3 druhá věta upravuje primárně *proceduru* (povinnost oznámit důvody nezávislé na vůli a učinit opatření), nikoli explicitní „prodloužení lhůty“ v tom smyslu, že by se 30denní limit posouval o další konkrétní dobu.\n\n### 4.3 Jak tuto situaci vykládají další zdroje\n\n- Praktické a osvětové texty (Frank Bold, TI, právní poradny) typicky zdůrazňují povinnost ukončit zakázané činnosti do 30 dnů, aniž by mluvily o automatickém „prodloužení lhůty“. Frank Bold například píše, že veřejní funkcionáři „nesmějí podnikat…“ a „nově ustanovený funkcionář tak musí tyto činnosti ukončit do 30 dnů ode dne zahájení výkonu funkce“, bez zmínky o možnosti lhůtu prodloužit. ([frankbold.org](https://frankbold.org/poradna/kategorie/korupce-a-jednani-uredniku/rada/jak-si-pohlidat-stret-zajmu))  \n\n- Mediální a odborné komentáře z let 2024–2025 k novému možnému návratu Andreje Babiše do vlády opakovaně uvádějí, že:  \n  - „Zákon vyžaduje vyřešit střet zájmů bez zbytečného odkladu po nástupu do funkce, nejpozději do 30 dnů…“   \n  - ústavní právník Jan Kysela upozorňuje, že pokud by se střet zájmů „nestihlo vyřešit do 30 dnů od jmenování a vznikl by protiprávní stav, tak to může mít důsledky pro ČR“ – tedy 30denní limit je prezentován jako reálná hranice, po jejímž překročení může nastat protiprávní situace, nikoli jako lhůta běžně „prodloužitelná“.   \n\nŽádný z nalézaných seriózních výkladů zákona (nevládní organizace, právní komentáře, zpravodajství odkazující na odborníky) nepopisuje situaci slovníkem „lhůta se prodlouží“, ale spíše zdůrazňuje:\n\n- povinnost odstranit střet do 30 dnů,  \n- a možnost, že objektivně nezaviněné překročení lhůty (důvody nezávislé na vůli) se může zohlednit při posuzování porušení povinností a případné sankce, pokud funkcionář včas informoval a činil potřebné kroky.\n\n### 4.4 Sankce za neodstranění střetu a relevance druhé věty § 4 odst. 3\n\nPodle § 23 odst. 1 písm. a) zákona se veřejný funkcionář dopustí přestupku tím, že v rozporu s § 4 odst. 1 vykonává neslučitelné činnosti. ([krajta.slv.cz](https://krajta.slv.cz/2006/159/par_23?utm_source=openai))  \n\nSoučasně ale § 15 stanoví, že veřejní funkcionáři odpovídají „za zaviněné porušení povinností“ podle zákona. ([oupetrovice.cz](https://www.oupetrovice.cz/pravni-norma?utm_source=openai))  \n\nDruhá věta § 4 odst. 3 („z důvodů nezávislých na vůli… informovat evidenční orgán a učinit opatření“) tedy v praxi zřejmě slouží především k tomu, aby:\n\n- bylo možné odlišit případy, kdy funkcionář *objektivně nemohl* lhůtu dodržet, ale prokazatelně činil kroky a komunikoval s evidenčním orgánem,  \n- od případů, kdy lhůtu nedodržel bezdůvodně a vinou své pasivity či úmyslu.\n\nTo podporuje výklad, že druhá věta není klasickým ustanovením o „prodloužení lhůty“, ale o **způsobu, jak se má funkcionář zachovat, pokud je dodržení 30denní lhůty z objektivních (na něm nezávislých) důvodů nemožné**.\n\n**Závěr k dílčímu tvrzení 2:**  \n- Zákon **opravdu počítá se situací**, kdy funkcionář **nemůže z důvodů nezávislých na své vůli** 30denní lhůtu dodržet, a stanoví, že v takovém případě má:\n  - ve stanovené lhůtě informovat evidenční orgán,\n  - přijmout všechna potřebná opatření k ukončení činnosti. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- **Nikde ale výslovně neuvádí**, že „se lhůta může prodloužit“ ani nepoužívá pojem „objektivní důvody“.  \n- Odborné i mediální výklady spíše vycházejí z toho, že 30denní lhůta je **reálnou a závaznou hranicí** pro odstranění střetu zájmů; druhá věta § 4 odst. 3 slouží k řešení výjimečných situací a k posouzení zavinění, nikoli jako běžný mechanismus prodlužování lhůty.\n\n---\n\n## 5. Shrnutí\n\n- **První část výroku („je tam těch 30 dnů“)**  \n  – *Podložena*: Zákon o střetu zájmů skutečně obsahuje 30denní lhůtu pro ukončení zakázaných činností po nástupu do funkce (§ 4 odst. 3) a další 30denní lhůty v části o oznamování (§ 12). ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n- **Druhá část výroku („v případě, že jsou objektivní důvody, tak se ta lhůta může prodloužit“)**  \n  – *Nepřesná až zavádějící způsobem, jak je formulována*:  \n  - Zákon sice řeší situaci, kdy není možné lhůtu dodržet „z důvodů nezávislých na vůli veřejného funkcionáře“, a ukládá v takovém případě oznamovací a jiná opatření,  \n  - ale **nepracuje s formulací, že se „lhůta prodlužuje“** a ani nezná pojem „objektivní důvody“.  \n  - Spíše jde o pravidlo pro nakládání s výjimečnými, objektivně nezaviněnými případy a pro posouzení odpovědnosti, ne o běžné právní „prodloužení lhůty“.\n\nCelkově tedy výrok přesně popisuje existenci 30denní lhůty, ale zkresluje způsob, jakým zákon zachází s výjimkami – místo výslovného prodloužení lhůty jde o povinnost informovat a doložit objektivní nemožnost lhůtu dodržet a přijmout kroky k nápravě.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Pro a proti released on 2026-01-13 available from https://plus.rozhlas.cz/debata-o-okamurovi-bude-zajimavejsi-nez-hlasovani-o-duvere-mini-benda-nacher-na-9588540.\\n\\n\\nThe claim was made by: Patrik Nacher, Místopředseda Poslanecké sněmovny\\n\\n\\nThe claim appears in the following immediate context in the source:\\nNechme na to zareagovat pana Bendu, protože se tady hlásil ve studiu o reakci. Prosím o stručnost.\\n00:10:18\\nMarek Benda,předseda poslaneckého klubu /ODS/\\nJe to strašně nefér od Patrika Nachera to, co říká o Markétě Pekarové Adamové. Markéta Pekarová Adamová byla představitelem vítězné koalice SPOLU, která vyhrála minulé volby, mimochodem v Praze je vyhrála způsobem 41 %. Markéta měla absolutně nejvyšší počet preferenčních hlasů. Takže tvářit se, že byla z nějaké menšinové, to přece není pravda. Koalice SPOLU vyhrála minulé volby, porazila vás, Patriku.\\n00:10:46\\nLukáš Matoška,moderátor\\nPosuneme se. A ještě předtím připomenu, že našimi dnešními hosty jsou předseda poslaneckého klubu ODS Marek Benda a místopředseda Poslanecké sněmovny, poslanec hnutí ANO Patrik Nacher. Premiér Andrej Babiš ještě nevyřešil svůj střet zájmů do termínu, který původně slíbil. Odůvodnil to tím, že s vložením akcí Agrofertu do fondu čeká na souhlas ze zahraničí. Není to, pane Nachere, potíž, že si vláda říká o důvěru ještě předtím, než premiér Babiš udělal to, co slíbil?\\n00:11:29\\nPatrik Nacher,\\nposlanec, místopředseda Poslanecké sněmovny /ANO/\\nJá si myslím, že to přesně časově navazuje. My jinou možnost nemáme, tam ty lhůty jsou jasné, a to vyslovení důvěry vládě musí být do 30 dnů od jmenování, od jmenování premiéra, takže ty termíny jdou a v tom zákoně o střetu zájmů je jasně napsáno, že tam je těch 30 dnů, ale v případě, že jsou objektivní důvody, tak se ta lhůta může prodloužit. A v tomhle tom premiér Andrej Babiš komunikuje od začátku transparentně, jasně řekl, jaká je ta cesta, prezident ho pověřil, ty kroky dělal už evidentně, což se ukazuje i předtím, teď v nich pokračuje, jsou tam nějaké lhůty, které jdou mimo něho, je to celkem jako náročná právní záležitost a on o těch krocích a o těch dalších lhůtách...\\n00:12:24\\nLukáš Matoška,moderátor\\n\\nProvide a structured, citation-backed verification of the claim: 'V tom zákoně o střetu zájmů je jasně napsáno, že tam je těch 30 dnů, ale v případě, že jsou objektivní důvody, tak se ta lhůta může prodloužit.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 308.37 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Zákon o střetu zájmů obsahuje 30denní lhůtu pro ukončení neslučitelných činností po nástupu do funkce. Neříká ale, že by se tato lhůta mohla z „objektivních důvodů“ prodloužit; jde jen o výjimečný postup při jejím nedodržení.</p>\n\n<p>Výrok Patrika Nachera zazněl v debatě o tom, jak zákon o střetu zájmů řeší situaci, kdy se člen vlády po jmenování musí zbavit podnikání nebo jiných funkcí, které jsou s výkonem funkce neslučitelné. Jde tedy o výklad konkrétních ustanovení <a href=\"https://www.zakonyprolidi.cz/cs/2006-159\">zákona č. 159/2006 Sb., o střetu zájmů</a>, která určují lhůty a podmínky pro odstranění střetu zájmů.</p>\n\n<p>Výrok obsahuje dvě ověřitelná faktická tvrzení. Zaprvé tvrdí, že v zákoně o střetu zájmů je „jasně napsáno“, že existuje 30denní lhůta, v níž má veřejný funkcionář střet zájmů vyřešit. Zadruhé tvrdí, že tentýž zákon zároveň říká, že pokud existují „objektivní důvody“, může se tato 30denní lhůta prodloužit.</p>\n\n<p>Podle ustanovení § 4 odst. 3 <a href=\"https://www.zakonyprolidi.cz/cs/2006-159\">zákona č. 159/2006 Sb., o střetu zájmů</a> platí, že člen vlády a další vybraní veřejní funkcionáři nesmějí vykonávat určité podnikatelské a jiné činnosti souběžně s výkonem funkce. Paragraf mimo jiné říká: <i>„... nejpozději však do 30 dnů ode dne zahájení výkonu funkce.“</i> Zákon tak jednoznačně zakotvuje 30denní lhůtu, během níž musí nový člen vlády po nástupu do funkce ukončit zakázané činnosti.</p>\n\n<p>Stejnou délku lhůty používá tentýž <a href=\"https://www.zakonyprolidi.cz/cs/2006-159\">zákon o střetu zájmů</a> i u oznamovacích povinností v § 12, kde stanoví, že majetková přiznání a další oznámení musí veřejný funkcionář podat do 30 dnů od zapsání do registru oznámení nebo od ukončení funkce. Na existenci 30denní lhůty pro ukončení neslučitelných činností navíc upozorňuje i shrnující text právníků organizace <a href=\"https://frankbold.org/poradna/kategorie/korupce-a-jednani-uredniku/rada/jak-si-pohlidat-stret-zajmu\">Frank Bold</a>, kde se o této povinnosti píše, že <i>„nově ustanovený funkcionář tak musí tyto činnosti ukončit do 30 dnů ode dne zahájení výkonu funkce“</i>.</p>\n\n<p>První dílčí tvrzení, že zákon o střetu zájmů „má těch 30 dnů“, tedy přesně odpovídá textu zákona i jeho praktickým výkladům a hodnotíme je jako pravdivé.</p>\n\n<p>Hned za citovanou větou o 30 dnech následuje v § 4 odst. 3 téhož <a href=\"https://www.zakonyprolidi.cz/cs/2006-159\">zákona o střetu zájmů</a> další ustanovení, které řeší výjimečné situace. Druhá věta začíná slovy: <i>„Není‑li k ukončení činnosti z důvodů nezávislých na vůli veřejného funkcionáře možné dodržet lhůtu...“</i> a dále ukládá veřejnému funkcionáři, aby o této skutečnosti ve 30denní lhůtě informoval evidenční orgán a současně učinil všechna potřebná opatření k ukončení činnosti. Zákon tedy skutečně počítá s tím, že někdy může být dodržení lhůty objektivně nemožné, a předepisuje, jak má funkcionář v takovém případě postupovat.</p>\n\n<p>Je ale podstatné, co v zákoně napsáno není. V celém textu <a href=\"https://www.zakonyprolidi.cz/cs/2006-159\">zákona č. 159/2006 Sb.</a> se nikde neobjevuje formulace, že by se 30denní lhůta „prodlužovala“ nebo „mohla prodloužit“. Ustanovení druhé věty § 4 odst. 3 upravuje postup ve výjimečných případech, kdy kvůli okolnostem mimo kontrolu funkcionáře nelze lhůtu dodržet, a stanoví oznamovací povinnost a povinnost aktivně směřovat k ukončení činnosti. Zákon přitom nepoužívá výraz „objektivní důvody“, ale přesnější pojem <i>„důvody nezávislé na vůli veřejného funkcionáře“</i>, který je použit přímo v citované větě.</p>\n\n<p>Praktické výklady, například analýza organizace <a href=\"https://frankbold.org/poradna/kategorie/korupce-a-jednani-uredniku/rada/jak-si-pohlidat-stret-zajmu\">Frank Bold</a>, zdůrazňují právě povinnost ukončit neslučitelné činnosti do 30 dnů od zahájení výkonu funkce a nevnímají druhou větu § 4 odst. 3 jako standardní mechanismus prodlužování této lhůty. Spíše ji chápou jako návod, jak řešit zcela výjimečné situace, kdy lhůtu kvůli důvodům nezávislým na vůli funkcionáře nelze splnit, aby bylo možné posoudit, zda porušení povinnosti bylo zaviněné.</p>\n\n<p>Druhé dílčí tvrzení, že zákon výslovně říká, že se 30denní lhůta může z „objektivních důvodů“ prodloužit, proto neodpovídá přesnému znění ani struktuře právní úpravy. Zákon žádné „prodloužení“ lhůty nedefinuje, pouze zmírňuje dopady situací, kdy je kvůli okolnostem nezávislým na vůli funkcionáře objektivně nemožné lhůtu dodržet, pokud o tom včas informuje a činí kroky k nápravě. Toto tvrzení proto hodnotíme jako zavádějící.</p>\n\n<p>S hrnutím našich zjištění: zákon o střetu zájmů skutečně stanoví 30denní lhůtu, v níž musí člen vlády a další veřejní funkcionáři po nástupu do funkce ukončit neslučitelná podnikání a jiné zákonem zakázané činnosti, což odpovídá první části výroku. Druhá část ale nepřesně tvrdí, že zákon umožňuje tuto lhůtu z „objektivních důvodů“ prodloužit, a tím zkresluje, jak právní úprava výjimky skutečně formuluje. Celkově proto výrok hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0d0ccc9b73f8e03d00696a5700f16c819587d9c618fc014132",
+    "created_at": 1768576769.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a57083fbc8195b519bd225782c22a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a571971f88195b65f0a0106a61624",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a571a8c148195a9786c467ec6d2c5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a571af97481958858b667c86c93a5",
+        "action": {
+          "query": "\"zákon o střetu zájmů\" 30 dnů lhůta objektivní důvody",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"zákon o střetu zájmů\" 30 dnů lhůta objektivní důvody"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a571c52f08195b6c8d47455dd1436",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a5720b5ac819582cc5318cafc4816",
+        "action": {
+          "query": "\"Veřejní funkcionáři uvedení v odstavci 1 jsou povinni činnosti tam uvedené ukončit bez zbytečného odkladu\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Veřejní funkcionáři uvedení v odstavci 1 jsou povinni činnosti tam uvedené ukončit bez zbytečného odkladu\"",
+            "\"Není-li k ukončení činnosti z důvodů nezávislých na vůli veřejného funkcionáře možné dodržet lhůtu\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a5722bff4819589c5b02556e5e72f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a5725e6248195961220bae103cc9b",
+        "action": {
+          "query": "\"159/2006 Sb.\" \"o střetu zájmů\" Sbírka",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"159/2006 Sb.\" \"o střetu zájmů\" Sbírka",
+            "Sbírka zákonů 159/2006 střet zájmů pdf"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a57292b9c8195b4031539c5fd7a6e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a572bb210819582ffb70ee0f9aa3e",
+        "action": {
+          "query": "\"159/2006 Sb.\" \"Sbírka zákonů\" pdf",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"159/2006 Sb.\" \"Sbírka zákonů\" pdf",
+            "\"159/2006 Sb.\" \"o střetu zájmů\" pdf",
+            "\"ZÁKON ze dne 16. března 2006 o střetu zájmů\" pdf"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a572ded5481959c7fed5b692e5282",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a572fed088195aac2a21dfb7c7a63",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a57308bdc819594ae2e72b9ab7292",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a5731eb0c8195b91fa2e782a85613",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a5733ec708195ac9eb7bc63c7d14b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a573469c88195860842c7fc1512e9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a57357c488195a18a9629c40921dc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a5744a9b4819588c227a37c322967",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "30 dnů"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a5747b2b08195a2059eb917758fd2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a5756e6ec8195a6ab876d34cd5c1b",
+        "action": {
+          "query": "\"Není-li k ukončení činnosti z důvodů nezávislých na vůli\" \"lhůta\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Není-li k ukončení činnosti z důvodů nezávislých na vůli\" \"lhůta\"",
+            "\"veřejný funkcionář o této skutečnosti\" \"lhůtu uvedenou v předchozí větě\"",
+            "\"lhůta uvedená v předchozí větě\" střet zájmů 30 dnů",
+            "\"lhůta se může prodloužit\" \"zákon o střetu zájmů\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a575a56248195ad198b95fbded05f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a575b65988195b96d5bdd425cec35",
+        "action": {
+          "query": "\"důvodů nezávislých na vůli veřejného funkcionáře\" \"prodloužit lhůtu\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"důvodů nezávislých na vůli veřejného funkcionáře\" \"prodloužit lhůtu\"",
+            "\"lhůta může být prodloužena\" \"veřejný funkcionář\" \"střet zájmů\"",
+            "\"z důvodů nezávislých na vůli\" \"střet zájmů\" výklad",
+            "\"30 dnů ode dne zahájení výkonu funkce\" \"střet zájmů\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a575f07a88195b439ee5133bbebc9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a576072948195baf7a4698b124a94",
+        "action": {
+          "query": "\"Není-li k ukončení činnosti z důvodů nezávislých\" výklad",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Není-li k ukončení činnosti z důvodů nezávislých\" výklad",
+            "\"z důvodů nezávislých na vůli\" \"veřejný funkcionář\" komentář",
+            "\"objektivní důvody\" \"střet zájmů\" \"30 dnů\"",
+            "\"Babiš\" \"30 dnů\" \"střet zájmů\" 2017"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a57642b4c8195a9cefb0b4d61231c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a576988e48195a339d2ec5c3fbd49",
+        "action": {
+          "query": "\"§ 4 odst. 3\" \"zákon o střetu zájmů\" výklad",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"§ 4 odst. 3\" \"zákon o střetu zájmů\" výklad",
+            "\"Veřejní funkcionáři uvedení v odstavci 1 jsou povinni činnosti tam uvedené ukončit\" výklad",
+            "\"30 dnů ode dne zahájení výkonu funkce\" \"Babiš\"",
+            "\"Není-li k ukončení činnosti z důvodů nezávislých\" \"Babiš\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a576d3c288195a3c32487087072fd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a576f856481959c9216ec510adc49",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a5774ec748195b001c1b19ae42a9e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a578719988195b46a8bf081a3250d",
+        "action": {
+          "query": "\"střet zájmů\" \"30 dnů\" \"Babiš\" 2017",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"střet zájmů\" \"30 dnů\" \"Babiš\" 2017",
+            "\"střet zájmů\" \"30 dnů ode dne zahájení výkonu funkce\" Babiš",
+            "\"z důvodů nezávislých na vůli veřejného funkcionáře\" \"Babiš\"",
+            "\"lex Babiš\" \"z důvodů nezávislých\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a578ec77481958a5401e8050e22e5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a57915c908195b8b666617d9c398b",
+        "action": {
+          "query": "\"objektivní důvody\" \"zákon o střetu zájmů\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"objektivní důvody\" \"zákon o střetu zájmů\"",
+            "\"lhůta\" \"objektivní důvody\" \"veřejný funkcionář\"",
+            "\"objektivní\" \"veřejný funkcionář\" \"střet zájmů\"",
+            "\"objektivní\" \"střet zájmů\" \"30 dnů\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a57946140819580613503b412f06b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a5794dd8c819585cd9d0541b479dd",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a579aa76c81959f2db6e5c058b365",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a579b87d881958b58bfbac0e5e954",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a579d02648195be30c01c1d09671f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a57d84a008195ac0c35441a18abee",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a57d998e48195ab7e7d8a47c0628f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0d0ccc9b73f8e03d00696a57dd0d2c81959c0dcff90a1927c4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d0ccc9b73f8e03d00696a57e051708195a07dc502935add4d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0d0ccc9b73f8e03d00696a57ef34788195ac14e98e992a5958",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1477,
+                "start_index": 1415,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 1807,
+                "start_index": 1745,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 2172,
+                "start_index": 2110,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 2410,
+                "start_index": 2348,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 3106,
+                "start_index": 2988,
+                "title": "Jaké jsou povinnosti veřejných funkcionářů? (střet zájmů) | Frank Bold",
+                "type": "url_citation",
+                "url": "https://frankbold.org/poradna/kategorie/korupce-a-jednani-uredniku/rada/jak-si-pohlidat-stret-zajmu"
+              },
+              {
+                "end_index": 4177,
+                "start_index": 4115,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 4641,
+                "start_index": 4579,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 4976,
+                "start_index": 4914,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 5367,
+                "start_index": 5305,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 5741,
+                "start_index": 5679,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 6674,
+                "start_index": 6556,
+                "title": "Jaké jsou povinnosti veřejných funkcionářů? (střet zájmů) | Frank Bold",
+                "type": "url_citation",
+                "url": "https://frankbold.org/poradna/kategorie/korupce-a-jednani-uredniku/rada/jak-si-pohlidat-stret-zajmu"
+              },
+              {
+                "end_index": 7979,
+                "start_index": 7905,
+                "title": "§ 23, 159/2006 Sb. - Zákon o střetu zájmů",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/2006/159/par_23?utm_source=openai"
+              },
+              {
+                "end_index": 8169,
+                "start_index": 8092,
+                "title": "Právní norma - Petrovice",
+                "type": "url_citation",
+                "url": "https://www.oupetrovice.cz/pravni-norma?utm_source=openai"
+              },
+              {
+                "end_index": 9134,
+                "start_index": 9072,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              },
+              {
+                "end_index": 9831,
+                "start_index": 9769,
+                "title": "\n159/2006 Sb. Zákon o střetu zájmů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2006-159"
+              }
+            ],
+            "text": "## 1. Identifikace výroku\n\nTvrzení Patrika Nachera (parafráze):  \n„V tom zákoně o střetu zájmů je jasně napsáno, že tam je těch 30 dnů, ale v případě, že jsou objektivní důvody, tak se ta lhůta může prodloužit.“\n\nRelevantní právní předpis:  \nZákon č. 159/2006 Sb., o střetu zájmů („zákon o střetu zájmů“, ve znění účinném v době první vlády Andreje Babiše – klíčová ustanovení se v této části dlouhodobě neměnila).\n\n---\n\n## 2. Rozklad výroku na dílčí tvrzení\n\n1. **Existence 30denní lhůty v zákoně o střetu zájmů**  \n   Zákon o střetu zájmů „jasně píše“, že existuje lhůta 30 dnů (ve smyslu: člen vlády má 30 dnů na ukončení neslučitelných činností / vyřešení střetu zájmů po nástupu do funkce).\n\n2. **Možnost prodloužení lhůty z „objektivních důvodů“**  \n   Zákon podle výroku obsahuje i pravidlo, že „v případě, že jsou objektivní důvody, tak se ta lhůta může prodloužit“ – tj. právní úprava údajně výslovně umožňuje prodloužení této 30denní lhůty.\n\n---\n\n## 3. Důkazy k dílčímu tvrzení 1: Existuje v zákoně 30denní lhůta?\n\n### 3.1 Text zákona – § 4 odst. 3\n\n§ 4 zákona č. 159/2006 Sb. upravuje omezení podnikání a jiných činností pro vybrané veřejné funkcionáře (mj. členy vlády).\n\nPodle aktuálního znění § 4 odst. 3 (text v této části je dlouhodobě stabilní):\n\n> „Veřejní funkcionáři uvedení v odstavci 1 jsou povinni činnosti tam uvedené ukončit … **nejpozději však do 30 dnů ode dne zahájení výkonu funkce**.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nTato věta jasně stanoví 30denní lhůtu, v níž nový člen vlády (a další funkcionáři podle § 2 odst. 1 písm. c) až m)) musí ukončit zakázané činnosti (podnikání, funkce ve statutárních orgánech podnikajících právnických osob, pracovněprávní či obdobné poměry apod.). ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n### 3.2 Další 30denní lhůty v zákoně\n\nZákon obsahuje i další 30denní lhůty, zejména v části o oznamovacích povinnostech (§ 12):\n\n- § 12 odst. 1: oznámení majetku a činností „je veřejný funkcionář povinen učinit **do 30 dnů** ode dne, kdy jej do registru oznámení zapsala příslušná právnická osoba…“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- § 12 odst. 3: po ukončení funkce musí bývalý veřejný funkcionář podat příslušná oznámení „**nejpozději do 30 dnů ode dne**, kdy ukončení funkce bylo zapsáno do registru.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nTyto lhůty ale v politické debatě o Babišově střetu zájmů obvykle nehrají hlavní roli; klíčová je právě 30denní lhůta z § 4 odst. 3 jako čas na odstranění neslučitelných činností po nástupu do funkce.\n\n### 3.3 Odborné a mediální zdroje\n\nPrávní a mediální komentáře běžně popisují tuto povinnost tak, že zákon ukládá vyřešit střet zájmů do 30 dnů po nástupu do funkce:\n\n- Frank Bold (analytická nevládní organizace, článek vytvořen 31. 10. 2017) shrnuje § 4 takto:  \n  „Nově ustanovený funkcionář tak musí tyto činnosti **ukončit do 30 dnů ode dne zahájení výkonu funkce**.“ ([frankbold.org](https://frankbold.org/poradna/kategorie/korupce-a-jednani-uredniku/rada/jak-si-pohlidat-stret-zajmu))  \n\n- Zpravodajství z roku 2025 (ale odkazující se k téže právní úpravě) uvádí:  \n  „Zákon vyžaduje vyřešit střet zájmů **bez zbytečného odkladu po nástupu do funkce, nejpozději do 30 dnů ode dne zahájení výkonu funkce**.“   \n\n**Závěr k dílčímu tvrzení 1:**  \nAno. Zákon o střetu zájmů jednoznačně obsahuje 30denní lhůtu pro ukončení určitých zakázaných činností (typicky podnikání a členství ve vedení firem) od zahájení výkonu funkce (§ 4 odst. 3). Toto odpovídá první části výroku („že tam je těch 30 dnů“).\n\n---\n\n## 4. Důkazy k dílčímu tvrzení 2: Umožňuje zákon „prodloužit lhůtu“ z objektivních důvodů?\n\n### 4.1 Příslušné ustanovení zákona\n\nBezprostředně po větě s 30denní lhůtou následuje v § 4 odst. 3 tato pasáž:\n\n> „**Není-li k ukončení činnosti z důvodů nezávislých na vůli veřejného funkcionáře možné dodržet lhůtu uvedenou v předchozí větě**, veřejný funkcionář o této skutečnosti v dané lhůtě informuje evidenční orgán a provede současně všechna potřebná opatření směřující k ukončení činnosti.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nKlíčové body:\n\n- Zákon mluví o **„důvodech nezávislých na vůli veřejného funkcionáře“**, nikoliv o „objektivních důvodech“ (formulace Patrika Nachera).  \n- V takovém případě zákon ukládá funkcionáři:\n  - informovat o této skutečnosti evidenční orgán (Ministerstvo spravedlnosti u členů vlády) ve stejné 30denní lhůtě;\n  - současně přijmout „všechna potřebná opatření“ k ukončení zakázané činnosti. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\nZnění je obdobné také u § 4a odst. 2 (60denní lhůta pro ukončení účasti v mediálních firmách): pokud nelze „z důvodů nezávislých na vůli veřejného funkcionáře“ dodržet 60denní lhůtu, musí funkcionář informovat evidenční orgán a přijmout opatření ke splnění povinnosti. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n### 4.2 Co zákon *neříká*\n\n1. **Slova „lhůta se může prodloužit“ se v zákoně nevyskytují.**  \n   Při prohledání úplného znění zákona na oficiálních a odborných zdrojích (Sbírka, Zákony pro lidi, přehledné verze) se formulace typu „lhůta se prodlužuje“ nebo „lhůta může být prodloužena“ v souvislosti s § 4 či § 4a nenachází. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n2. **Termín „objektivní důvody“ zákon nepoužívá.**  \n   Zákon pracuje s formulací „důvody nezávislé na vůli veřejného funkcionáře“, která je sice významově blízká tomu, co laik může nazvat „objektivní důvody“ (tj. okolnosti, které funkcionář nemůže ovlivnit), ale jde o jiný, přesněji vymezený právní pojem. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n3. **Zákon výslovně neříká, že po uplynutí 30 dnů je výkon neslučitelné činnosti legální, pokud byly tyto podmínky splněny.**  \n   Ustanovení § 4 odst. 3 druhá věta upravuje primárně *proceduru* (povinnost oznámit důvody nezávislé na vůli a učinit opatření), nikoli explicitní „prodloužení lhůty“ v tom smyslu, že by se 30denní limit posouval o další konkrétní dobu.\n\n### 4.3 Jak tuto situaci vykládají další zdroje\n\n- Praktické a osvětové texty (Frank Bold, TI, právní poradny) typicky zdůrazňují povinnost ukončit zakázané činnosti do 30 dnů, aniž by mluvily o automatickém „prodloužení lhůty“. Frank Bold například píše, že veřejní funkcionáři „nesmějí podnikat…“ a „nově ustanovený funkcionář tak musí tyto činnosti ukončit do 30 dnů ode dne zahájení výkonu funkce“, bez zmínky o možnosti lhůtu prodloužit. ([frankbold.org](https://frankbold.org/poradna/kategorie/korupce-a-jednani-uredniku/rada/jak-si-pohlidat-stret-zajmu))  \n\n- Mediální a odborné komentáře z let 2024–2025 k novému možnému návratu Andreje Babiše do vlády opakovaně uvádějí, že:  \n  - „Zákon vyžaduje vyřešit střet zájmů bez zbytečného odkladu po nástupu do funkce, nejpozději do 30 dnů…“   \n  - ústavní právník Jan Kysela upozorňuje, že pokud by se střet zájmů „nestihlo vyřešit do 30 dnů od jmenování a vznikl by protiprávní stav, tak to může mít důsledky pro ČR“ – tedy 30denní limit je prezentován jako reálná hranice, po jejímž překročení může nastat protiprávní situace, nikoli jako lhůta běžně „prodloužitelná“.   \n\nŽádný z nalézaných seriózních výkladů zákona (nevládní organizace, právní komentáře, zpravodajství odkazující na odborníky) nepopisuje situaci slovníkem „lhůta se prodlouží“, ale spíše zdůrazňuje:\n\n- povinnost odstranit střet do 30 dnů,  \n- a možnost, že objektivně nezaviněné překročení lhůty (důvody nezávislé na vůli) se může zohlednit při posuzování porušení povinností a případné sankce, pokud funkcionář včas informoval a činil potřebné kroky.\n\n### 4.4 Sankce za neodstranění střetu a relevance druhé věty § 4 odst. 3\n\nPodle § 23 odst. 1 písm. a) zákona se veřejný funkcionář dopustí přestupku tím, že v rozporu s § 4 odst. 1 vykonává neslučitelné činnosti. ([krajta.slv.cz](https://krajta.slv.cz/2006/159/par_23?utm_source=openai))  \n\nSoučasně ale § 15 stanoví, že veřejní funkcionáři odpovídají „za zaviněné porušení povinností“ podle zákona. ([oupetrovice.cz](https://www.oupetrovice.cz/pravni-norma?utm_source=openai))  \n\nDruhá věta § 4 odst. 3 („z důvodů nezávislých na vůli… informovat evidenční orgán a učinit opatření“) tedy v praxi zřejmě slouží především k tomu, aby:\n\n- bylo možné odlišit případy, kdy funkcionář *objektivně nemohl* lhůtu dodržet, ale prokazatelně činil kroky a komunikoval s evidenčním orgánem,  \n- od případů, kdy lhůtu nedodržel bezdůvodně a vinou své pasivity či úmyslu.\n\nTo podporuje výklad, že druhá věta není klasickým ustanovením o „prodloužení lhůty“, ale o **způsobu, jak se má funkcionář zachovat, pokud je dodržení 30denní lhůty z objektivních (na něm nezávislých) důvodů nemožné**.\n\n**Závěr k dílčímu tvrzení 2:**  \n- Zákon **opravdu počítá se situací**, kdy funkcionář **nemůže z důvodů nezávislých na své vůli** 30denní lhůtu dodržet, a stanoví, že v takovém případě má:\n  - ve stanovené lhůtě informovat evidenční orgán,\n  - přijmout všechna potřebná opatření k ukončení činnosti. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n- **Nikde ale výslovně neuvádí**, že „se lhůta může prodloužit“ ani nepoužívá pojem „objektivní důvody“.  \n- Odborné i mediální výklady spíše vycházejí z toho, že 30denní lhůta je **reálnou a závaznou hranicí** pro odstranění střetu zájmů; druhá věta § 4 odst. 3 slouží k řešení výjimečných situací a k posouzení zavinění, nikoli jako běžný mechanismus prodlužování lhůty.\n\n---\n\n## 5. Shrnutí\n\n- **První část výroku („je tam těch 30 dnů“)**  \n  – *Podložena*: Zákon o střetu zájmů skutečně obsahuje 30denní lhůtu pro ukončení zakázaných činností po nástupu do funkce (§ 4 odst. 3) a další 30denní lhůty v části o oznamování (§ 12). ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2006-159))  \n\n- **Druhá část výroku („v případě, že jsou objektivní důvody, tak se ta lhůta může prodloužit“)**  \n  – *Nepřesná až zavádějící způsobem, jak je formulována*:  \n  - Zákon sice řeší situaci, kdy není možné lhůtu dodržet „z důvodů nezávislých na vůli veřejného funkcionáře“, a ukládá v takovém případě oznamovací a jiná opatření,  \n  - ale **nepracuje s formulací, že se „lhůta prodlužuje“** a ani nezná pojem „objektivní důvody“.  \n  - Spíše jde o pravidlo pro nakládání s výjimečnými, objektivně nezaviněnými případy a pro posouzení odpovědnosti, ne o běžné právní „prodloužení lhůty“.\n\nCelkově tedy výrok přesně popisuje existenci 30denní lhůty, ale zkresluje způsob, jakým zákon zachází s výjimkami – místo výslovného prodloužení lhůty jde o povinnost informovat a doložit objektivní nemožnost lhůtu dodržet a přijmout kroky k nápravě.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 76250,
+      "input_tokens_details": {
+        "cached_tokens": 6144
+      },
+      "output_tokens": 16826,
+      "output_tokens_details": {
+        "reasoning_tokens": 12962
+      },
+      "total_tokens": 93076
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1768577055,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

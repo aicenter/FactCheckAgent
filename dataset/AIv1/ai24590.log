@@ -1,0 +1,788 @@
+{
+  "claim_id": "24590",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260209_115155",
+  "source_md": "experiments/gpt5.1_h_20260209_115155/brief_fact_check_id24590.md",
+  "fact_check": "# Fact Check for Statement ID 24590\n\n## Statement\nTady od revoluce se nepostavily žádné koleje, takže na Strahově tam jsou koleje, které ještě byly postavené za totáče. Je tam 5 000 kapacita, je tam jenom 2 500.\n\n---\n## AI Fact Check\n## Shrnutí\n\nAnalyzovatelná část výroku obsahuje čtyři dílčí tvrzení:\n\n1. **„Od revoluce se nepostavily žádné koleje.“ – NEPRAVDIVÉ (při doslovném chápání pro ČR / Prahu).**  \n   – Po roce 1989 vznikla řada nových vysokoškolských kolejí, zejména soukromých (např. Holešovický Student House v Praze, projekty Comenius na Petřinách, nové koleje v Jihlavě, Olomouci, Ostravě).  \n\n2. **„Na Strahově jsou koleje, které ještě byly postavené za totáče.“ – PRAVDIVÉ.**  \n   – Všechny ubytovací bloky strahovských kolejí byly postaveny v 60. letech, tj. hluboko v době komunistického režimu.\n\n3. **„Je tam 5 000 kapacita.“ (Strahov) – ČÁSTEČNĚ PŘESNÉ / PŘIBLIŽNÉ.**  \n   – Historicky se uvádí cca 5 000 lůžek; současné oficiální údaje mluví o ~4 567 lůžkách, tedy „více než 4 500“.\n\n4. **„Je tam jenom 2 500 [ubytovaných].“ – NEPODLOŽENÉ A V ROZPORU S ÚDAJI.**  \n   – Dostupná data ukazují, že koleje ČVUT (včetně Strahova) jsou dlouhodobě téměř plně obsazené a univerzita má stovky neuspokojených žadatelů; tvrzení o poloviční obsazenosti Strahova nedokládají žádné dostupné zdroje a odporuje obecně známému nedostatku kolejních lůžek.\n\n---\n\n## 1. „Od revoluce se nepostavily žádné koleje“\n\n### Možné interpretace\n\n- **Doslovně pro celou ČR / Prahu**: od roku 1989 nebyla postavena žádná nová studentská kolej (veřejná ani soukromá).  \n- **Užší výklad**: od revoluce nebyla postavena žádná **veřejná** kolej pro vysoké školy (např. přímo univerzitami) – zejména v Praze / pro ČVUT.  \n- **Ještě užší**: od revoluce nevznikla žádná **nová budova kolejí v areálu Strahova** (jen rekonstrukce).\n\nDostupná fakta:\n\n### 1.1. Nové soukromé vysokoškolské koleje po roce 1989\n\n**Holešovický Student House (Praha)**  \nČeský odborný stavební server Materiály pro stavbu popisuje „Holešovický Student House: vysokoškolské koleje na úrovni luxusního hotelu“ takto:\n\n- Označuje objekt přímo jako **„Holešovický Student House: vysokoškolské koleje“**.([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n- Uvádí, že myšlenka vznikla cca 2012, první návrh kolejí byl představen v roce 2015 a **„realizace se stavba dočkala … v roce 2020“**, přičemž **„na greenfieldu vyrostlo 9 podlaží“** – tedy novostavba na dosud nezastavěném pozemku.([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n- Popisuje 539 jedno- a dvoulůžkových pokojů s celkovou kapacitou **675 studentů**.([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n\nArchitektonický server ArchDaily potvrzuje, že jde o projekt **„Student House Holešovice“** (typ „Dorms“) v Praze s rokem realizace **2020**.([archdaily.com](https://www.archdaily.com/971958/student-house-holesovice-pavel-hnilicka-architekti?utm_source=openai))  \n\nTedy už jen tento příklad jednoznačně vyvrací tvrzení, že „od revoluce se nepostavily žádné koleje“ – v Praze stojí nová, na zelené louce postavená kolej pro studenty (soukromá, ale zjevně fungující jako vysokoškolské koleje).\n\n**Další nové soukromé / poloveřejné projekty**\n\n- Projekt **Comenius na Petřinách** v Praze: článek PrahaIN uvádí, že se blíží kolaudace nového ubytování pro studenty, polovinu ubytovacích jednotek bude spravovat **Česká zemědělská univerzita**, druhá polovina má zůstat určena výhradně pro studentské ubytování („ubytovací jednotky bude možné využít pouze pro ubytování studentů“).([prahain.cz](https://www.prahain.cz/zivot-ve-meste/na-petrinach-se-jiz-brzy-otevre-nove-ubytovani-pro-studenty-14329.html?utm_source=openai))  \n- Projekty typu **The Fizz, Comenius, Zeitraum** (zmiňované např. v Echo24) jsou prezentovány jako moderní studentské rezidence – typicky novostavby nebo kompletní přestavby budov určené právě pro vysokoškolské ubytování.([echo24.cz](https://www.echo24.cz/a/HS9bu/zpravy-domov-denik-praha-jak-se-bydli-ceskym-vysokoskolakum?utm_source=openai))  \n\n### 1.2. Nové koleje budované či provozované veřejnými VŠ\n\nI pokud bychom „koleje“ omezili jen na **ubytování přímo provozované univerzitami**, existují po roce 1989 jak novostavby, tak nové objekty přestavěné na koleje:\n\n- **Jihlava – Vysoká škola polytechnická (VŠPJ)**:  \n  Deník v r. 2024 píše o projektu **„nové vysokoškolské koleje“** – „novostavba moderní pětipodlažní budovy“ za cca 300 mil. Kč s kapacitou **200 studentů**.([idnes.cz](https://www.idnes.cz/jihlava/zpravy/vysoka-skola-koleje-projekt-vystavba-skolstvi-bydleni-student.A240318_784379_jihlava-zpravy_mv?utm_source=openai))  \n  Následný článek z října 2025 upřesňuje, že stavba kolejí pokračuje a dokončení je plánováno na **rok 2026**, jde o **nové vysokoškolské koleje** pro cca 200 studentů.([jihlavsky.denik.cz](https://jihlavsky.denik.cz/zpravy_region/stavba-vspj-koleje-problemy-zastaveno-obnoveno.html?utm_source=openai))  \n- **Ostravská univerzita (OU)**:  \n  – V květnu 2024 OU oznámila plán vybudovat nové studentské koleje s dotacemi MŠMT, kraje a města, s investicí kolem miliardy.([idnes.cz](https://www.idnes.cz/ostrava/zpravy/ostravska-univerzita-ubytovani-koleje-vsb-tuo-investice.A240529_798014_ostrava-zpravy_lapu?utm_source=openai))  \n  – V červnu 2025 OU oficiálně **zahájila výstavbu dvou nových bloků studentských kolejí** v areálu Jana Opletala; projekt má přinést **663 nových lůžek**, první studenti se mají nastěhovat v září 2027.([osu.cz](https://www.osu.cz/31810/ostravska-univerzita-stavi-nove-koleje-pribude-663-luzek-pro-studenty-tz/?utm_source=openai))  \n- **Olomouc – projekt 17square / Redstone**:  \n  – Olomoucký Report a ČRo popisují záměr developerské skupiny Redstone postavit **areál nových studentských kolejí** v sousedství kampusu Univerzity Palackého, s cca **237 ubytovacími jednotkami a 985 lůžky**. Projekt je prezentován jako nová výstavba studentských kolejí u UP.([report.cz](https://www.report.cz/nove-koleje-pro-studenty-postavi-je-redstone?utm_source=openai))  \n\nKromě toho:\n\n- Echo24 cituje Univerzitu Karlovu, že v r. 2026 uvede do provozu **novou budovu koleje Hostivař**, kde přestavbou administrativní budovy vznikne 116 studentských lůžek.([echo24.cz](https://www.echo24.cz/a/HS9bu/zpravy-domov-denik-praha-jak-se-bydli-ceskym-vysokoskolakum?utm_source=openai))  \n\nI kdyby někdo tvrdil, že přestavba stávajících budov se „nepočítá“ jako nová kolej, z výše uvedených příkladů (Ostrava, Jihlava, Olomouc, Holešovice) je zřejmé, že **po roce 1989 vznikají i skutečné novostavby vysokoškolských kolejí**.\n\n### 1.3. Sektorový pohled\n\nAnalýza společnosti Cushman & Wakefield shrnuje, že v roce 2024 bylo v ČR **165 zařízení poskytujících studentské ubytování s celkovou kapacitou 67 863 lůžek**, z toho veřejný sektor 60 219 lůžek a soukromý 7 644 lůžek; největší kapacity mají Praha (28 067 lůžek), Brno a Olomouc.([cushmanwakefield.com](https://www.cushmanwakefield.com/cs-cz/czech-republic/news/2025/09/student-housing?utm_source=openai)) To odpovídá **rozvíjejícímu se trhu**, nikoli stagnaci od roku 1989.\n\n### 1.4. Závěr k tomuto dílčímu tvrzení\n\n- **Doslovně (celá ČR / Praha, všechny typy kolejí):** Tvrzení je jednoznačně **nepravdivé** – existují jak nové soukromé koleje (např. Holešovický Student House), tak nově budované či vzniklé koleje pod veřejnými VŠ (Ostrava, Jihlava, Olomouc, Hostivař atd.).  \n- **Užší výklad „žádné nové koleje ČVUT / v areálu Strahova“:**  \n  – Historie kolejí ČVUT ukazuje, že strahovské, podolské, masarykovy, dejvické a další koleje jsou skutečně starší (20.–60. léta) a po revoluci procházely hlavně rekonstrukcemi, nikoli výstavbou zcela nových objektů.([casopis.fit.cvut.cz](https://casopis.fit.cvut.cz/tema/historie-koleji-cvut/?utm_source=openai))  \n  – Ani v tomto užším smyslu však nelze říct, že se „nepostavily žádné koleje“ v Praze – vedle univerzit existuje nová soukromá kolej (Student House) a další rezidence výslovně určené pro vysokoškolské studenty.([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n\n---\n\n## 2. „Na Strahově jsou koleje, které byly postavené za totáče“\n\nToto tvrzení míří na **stáří a původ strahovských kolejí**.\n\n### 2.1. Historie výstavby strahovských kolejí\n\n- Server Slavné vily popisuje strahovské studentské koleje jako objekt budovaný v souvislosti se spartakiádami: první blok byl postaven **v roce 1960**, další šatnové bloky (dnešní koleje) byly dokončeny **v roce 1965**, s kapacitou „5000 nových lůžek“.([slavnevily.cz](https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai))  \n- Stránka PragueCityLine uvádí: „**Koleje Strahov byly vystavěny v letech 1964 až 1965.** V rámci této výstavby byl vybudován prakticky celý současný komplex…“([praguecityline.cz](https://www.praguecityline.cz/nezarazene/strahovske-koleje-%E2%80%93-ubytovani-pro-studenty-cvut?utm_source=openai))  \n- Článek „Historie kolejí ČVUT“ (časopis Buď FIT) potvrzuje, že **strahovské koleje byly vystavěny v letech 1964–1965** a že areál tvoří 12 bloků schopných pojmout „více než čtyři a půl tisíce studentů“.([casopis.fit.cvut.cz](https://casopis.fit.cvut.cz/tema/historie-koleji-cvut/?utm_source=openai))  \n\nVšechna tato data leží pevně v období 60. let, tedy hluboko v době komunistického režimu.\n\n### 2.2. Závěr\n\n- Strahovské koleje jsou skutečně **produktem 60. let za komunismu („za totáče“) a dodnes stojí v podstatě v původních objektech**, byť se postupně rekonstruují.  \n- Toto dílčí tvrzení je tedy **podloženo více nezávislými zdroji a je pravdivé**.\n\n---\n\n## 3. „Je tam 5 000 kapacita“ (kapacita Strahova)\n\n### 3.1. Historická kapacita\n\n- Slavné vily uvádějí, že při výstavbě šlo o ubytování cvičenců spartakiád a současně o studentské koleje s **„kapacitou 5000 nových lůžek“**.([slavnevily.cz](https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai))  \n- Starší publicistické texty a vzpomínky (např. články o strahovských kolejích jako „skanzenu socialismu“) opakovaně pracují s číslem **cca 5000 lůžek** jako historickou kapacitou.([aktualita.cz](https://aktualita.cz/zesestky/2012/koleje/strahov2.html?utm_source=openai))  \n\n### 3.2. Současné oficiální údaje\n\n- Oficiální stránka **Koleje Strahov – Správa účelových zařízení ČVUT (SÚZ)** uvádí jednoznačně: **„Celková kapacita je 4567 lůžek.“**([suz.cvut.cz](https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-strahov?utm_source=openai))  \n- Portál ČVUT pro studenty (Ubytování) píše, že univerzita poskytuje ubytování „pro téměř 8000 studentů“, přičemž **„největší je Strahov s více než 4 500 lůžky“**.([portal.cvut.cz](https://portal.cvut.cz/informace-pro-studenty/obecne-informace/ubytovani/?utm_source=openai))  \n- Článek Buď FIT o historii kolejí ČVUT uvádí, že v areálu Strahova je „více než čtyři a půl tisíce studentů“, tedy opět zhruba 4 500+.([casopis.fit.cvut.cz](https://casopis.fit.cvut.cz/tema/historie-koleji-cvut/?utm_source=openai))  \n\n### 3.3. Hodnocení\n\n- **Historicky**: 5 000 lůžek je číslo odpovídající původní kapacitě, kterou uvádějí dobové a historické zdroje.([slavnevily.cz](https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai))  \n- **V současné době**: oficiální kapacita Strahova se pohybuje kolem **4 567 lůžek**, tedy „více než 4 500“.([suz.cvut.cz](https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-strahov?utm_source=openai))  \n\nTvrzení „je tam 5 000 kapacita“ je proto:\n\n- jako **hrubé historické zaokrouhlení** blízké pravdě;  \n- vůči aktuálním oficiálním údajům **lehce nadsazené (asi o 10 %) a nepřesné**, ale nikoli zcela vycucané z prstu.\n\n---\n\n## 4. „Je tam jenom 2 500 [ubytovaných]“ (obsazenost Strahova)\n\nBabiš tím naznačuje, že **kvůli špatnému stavu** koleje využívají sotva polovinu své kapacity (2 500 z cca 5 000 lůžek). To je v přímém rozporu s tím, jak je dlouhodobě popisována situace na kolejích ČVUT i v ČR obecně.\n\n### 4.1. Údaje o kapacitě a obsazenosti kolejí ČVUT\n\n- Blesk (ČTK) 22. 8. 2023 shrnuje informace z pražských univerzit:  \n  – Podle mluvčí ČVUT **je zájem o ubytování podobný jako v minulých letech** a „většina míst je obsazena“.  \n  – Konkrétně uvádí, že **„pro akademický rok 2023/2024 jsou koleje ČVUT prakticky obsazené, v tuto chvíli existuje asi 700 zájemců, na něž se ubytování zatím nedostalo“**.  \n  – A dodává, že **ČVUT „pro ubytování nabízí asi 7000 lůžek“** a spravuje mimo jiné největší studentský kampus v Evropě – Strahovské koleje.([blesk.cz](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html))  \n\nTo znamená:\n\n- ČVUT jako celek je na hraně kapacity či mírně nad ní (waiting list cca 700 studentů),  \n- není prostor na to, aby **polovina největší koleje (Strahova)** ležela ladem – musela by se promítnout do výrazně nižšího naplnění systému jako celku, což neodpovídá údajům o převisu poptávky.\n\n### 4.2. Obecný nedostatek kolejních lůžek v ČR\n\n- Analýza E15/Echodenník popisuje, že kapacita kolejí je dlouhodobě nedostatečná; např. Univerzita Karlova v r. 2024 uvádí, že má kapacitu kolejí pro 11 080 lůžek a některé žádosti musí odmítat kvůli nedostatku míst.([e15.cz](https://www.e15.cz/finexpert/bydleni/studentske-pronajmy-a-kolejne-jak-zdrazilo-ubytovani-pro-mlade-ve-skolnim-roce-2024-25-1418090?utm_source=openai))  \n- Reportáž iRozhlasu 2024 a další materiály uvádějí, že zájem studentů o koleje často **převyšuje kapacitu** – univerzity některé žadatele odmítají, nebo je přesouvají do nájmů v soukromých bytech.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/vysokoskolske-koleje-maji-plnou-kapacitu-studenti-hledaji-byty-k-pronajmu-ty_2409140809_adn?utm_source=openai))  \n- Statistika Českého statistického úřadu ukazuje, že v roce 2024 studovalo na VŠ v ČR přes **314 tisíc studentů**, zatímco celková kapacita kolejního bydlení je (dle Cushman & Wakefield) cca **67 863 lůžek** – tedy méně než čtvrtina studentů může být na kolejích.([csu.gov.cz](https://csu.gov.cz/produkty/pocet-vysokoskolaku-v-cesku-nadale-roste?utm_source=openai))  \n\nZa této situace je tvrzení, že **polovina největšího kolejního areálu v zemi zůstává neobsazená**, velmi nepravděpodobné.\n\n### 4.3. Rekonstrukce jednotlivých bloků Strahova\n\nJe pravda, že **některé bloky Strahova jsou dočasně mimo provoz kvůli rekonstrukcím**:\n\n- Blok 4: modernizace za 36 mil. Kč; od června 2024 opět otevřen pro ubytování (456 lůžek).([blesk.cz](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/799211/praha-natahne-koleje-ke-strahovskemu-stadionu-prvni-cestujici-by-tramvaje-mohly-svezt-2027.html?utm_source=openai))  \n- Blok 12: od 1. 7. 2024 uzavřen kvůli rekonstrukci; přeměna hostelu na buňkový blok pro studenty.([koncepcebim.gov.cz](https://koncepcebim.gov.cz/stavebni-upravy-koleje-strahov-blok-12/?utm_source=openai))  \n- Blok 3: od září 2025 probíhá revitalizace.([suz.cvut.cz](https://www.suz.cvut.cz/cz/aktuality/prave-probiha-revitalizace-bloku-c-3-na-kolejich-strahov?utm_source=openai))  \n\nZ celkové kapacity kolem 4 567 lůžek je tak dočasně „odříznuta“ řádově **stovka až nižší stovky lůžek** v rekonstruovaných blocích, nikoli **2 000 a více**, které by odpovídaly poklesu obsazenosti z 5 000 na 2 500.\n\n### 4.4. Historické údaje o obsazenosti Strahova\n\n- Už starší článek Deníku z roku 2008 o nespokojenosti studentů se stavem kolejí v Praze uvádí (v přepočtu nájmů) přibližně, že „**na Strahově bydlí 5000 studentů**“, což odpovídá plnému využití historické kapacity.([denik.cz](https://www.denik.cz/z_domova/studenti_nechteji_na_koleje20080630.html?utm_source=openai))  \n\nI když jde o starší údaj, ukazuje, že Strahov byl dlouhodobě využíván na maximum. Neexistují žádné veřejné statistiky, které by dnes naznačovaly pokles obsazenosti **na polovinu**.\n\n### 4.5. Letní provoz\n\n- Článek iRozhlasu o letním provozu kolejí z roku 2019 uvádí, že v létě (mimo semestr) je na kolejích ČVUT přístupných všech **8 000 postelí**, ale v daném okamžiku tam bydlí asi **3 300 studentů** a zbytek je využíván pro komerční ubytování.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/koleje-letni-ubytovani-cena-opravy-rekonstrukce-kapacita-univerzity-vysoke-skoly_1908101501_mpr?utm_source=openai))  \n\nJe tedy možné, že v **letních měsících** je reálná obsazenost nižší. Babiš ale v rozhovoru mluví o systémovém stavu („tady od revoluce…“, „my budeme stavět koleje pro sestřičky“), ne o prázdninovém režimu. Navíc ani letní obsazenost 3 300/8 000 (pro celé ČVUT) neodpovídá zmiňovaným 2 500 jen pro Strahov.\n\n### 4.6. Závěr k obsazenosti\n\n- **Neexistuje žádný oficiální nebo mediální zdroj, který by dokládal, že na Strahově je dlouhodobě ubytováno jen cca 2 500 studentů.**  \n- Naopak: data o převisu poptávky po kolejích ČVUT, téměř plné obsazenosti a existenci čekacích listin vyžadují, aby **většina strahovské kapacity byla využita**, s výjimkou dočasně rekonstruovaných bloků.([blesk.cz](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html))  \n\nTvrzení o „jen 2 500“ ubytovaných na Strahově je tedy **nepodložené a v rozporu s dostupnými údaji**.\n\n---\n\n## Celkové zhodnocení výroku\n\n- **Pravdivé jádro:**  \n  – Strahovské koleje jsou skutečně **postaveny za komunismu v 60. letech** a dodnes jsou to velmi staré budovy.([slavnevily.cz](https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai))  \n  – Uváděná kapacita „5 000“ odpovídá zhruba historickému řádu velikosti (dnešní oficiální údaje uvádějí cca 4 567 lůžek).([suz.cvut.cz](https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-strahov?utm_source=openai))  \n\n- **Nepravdivé / zavádějící části:**  \n  – Tvrzení, že **„od revoluce se nepostavily žádné koleje“**, je v kontextu ČR i Prahy **zjevně nepravdivé** – po roce 1989 vznikly jak nové soukromé vysokoškolské koleje (např. Holešovický Student House – novostavba z roku 2020), tak nové koleje veřejných VŠ (Jihlava, chystané projekty v Ostravě, Olomouci, Hostivař atd.).([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n  – Tvrzení, že **na Strahově je obsazeno jen 2 500 lůžek**, je **v rozporu s údaji o téměř plné obsazenosti kolejního systému ČVUT a převisu poptávky**. Dostupné zdroje tak nízkou obsazenost neuvádějí a celková kapacita i deficit kolejních lůžek ukazují spíš na maximální využití Strahova s výjimkou dočasně rekonstruovaných bloků.([blesk.cz](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html))  \n\n---\n\n## Výběr hlavních zdrojů (pro snadnou kontrolu)\n\n- Strahov – historie a kapacita: Slavné vily – „Strahovské studentské koleje“; PragueCityLine – „Strahovské koleje“; Buď FIT – „Historie kolejí ČVUT“; SÚZ ČVUT – „Koleje Strahov“; Portál ČVUT „Ubytování / Accommodation“.([slavnevily.cz](https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai))  \n- Poptávka po kolejích a kapacita ČVUT: článek Blesk/ČTK 22. 8. 2023 o cenách a obsazenosti kolejí; různé texty o nedostatku kolejních lůžek (iRozhlas, E15, finance.cz).([blesk.cz](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html))  \n- Student House Holešovice: Materiály pro stavbu – „Holešovický Student House: vysokoškolské koleje na úrovni luxusního hotelu“; ArchDaily – „Student House Holešovice“.([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n- Nové koleje v Jihlavě: iDNES/Deník – „Nové vysokoškolské koleje mají Jihlavě pomoci stát se studentským městem“ + následné články o pokračování stavby.([idnes.cz](https://www.idnes.cz/jihlava/zpravy/vysoka-skola-koleje-projekt-vystavba-skolstvi-bydleni-student.A240318_784379_jihlava-zpravy_mv?utm_source=openai))  \n- Nové koleje OU v Ostravě: oficiální web OU – tisková zpráva o zahájení výstavby kolejí; web města Ostrava; iDNES Ostrava.([osu.cz](https://www.osu.cz/31810/ostravska-univerzita-stavi-nove-koleje-pribude-663-luzek-pro-studenty-tz/?utm_source=openai))  \n- Nové koleje v Olomouci – projekt Redstone / 17square: iRozhlas, Olomoucký Report, CzechCrunch, DesignMag.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/985-luzek-v-nove-koleji-pro-olomoucke-studenty-developer-ziskal-povoleni_2601141220_mkm?utm_source=openai))  \n- Přehled trhu studentského bydlení: zpráva Cushman & Wakefield / RealitníTrh.cz o kapacitách studentského ubytování v ČR.([cushmanwakefield.com](https://www.cushmanwakefield.com/cs-cz/czech-republic/news/2025/09/student-housing?utm_source=openai))\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-02-07 available from https://www.youtube.com/watch?v=CRryWLn2KSs.\\n\\n\\nThe claim was made by: Andrej Babiš, Předseda vlády ČR, předseda hnutí ANO\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:37:49\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nMy nebudeme zvyšovat daně, ano, ale je tam samozřejmě, myslím, že je tam v programu ta korporátní daň, jo, že to chceme snižovat, ale navyšovat daně nebudeme, my budeme daně vybírat, tak jsme to dělali.\\n00:38:02\\nBára Divišová,moderátorka\\nCelkové daňový zatížení se teda nezvýší za ty 4 roky.\\n00:38:07\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nLidi dostanou od nás více peněz, protože ta priorita je energie, to jsme začli, ano, bydlení, ano, je tady nový rektor ČVUT, byl jsem se tam podívat, tam studenti dělali ty makety, ty nemocnice v Letňanech, no, a má skvělý projekt, protože tady od revoluce se nepostavily žádné koleje, takže vlastně na Strahově tam jsou koleje, které ještě byly postavené za totáče, je tam 5 000 kapacita, je tam jenom 2 500, protože to vypadá úplně hrozně, takže my budeme stavět koleje pro sestřičky, můžeme postavit možná v rámci areálu Thomayerky bydlení, byty, parkovací dům. Byla jste někdy v IKEMu? Nedá se zaparkovat. Byla jste někdy v Motole? Nedá se zaparkovat. Ano, můžou se smát všichni, je to úplně jedno, ale to, co my jsme dělali, tak má jasné výsledky, protože ta skvělá nová prevence v Brně, to je naše dílo. Já osobně jsem to dělal, já jsem vyřídil v Bruselu 55 miliard pro naše zdravotnictví a 15 miliard pro onkologii a proč nepostavili tu novou onkologickou nemocnici ve Vinohradské nemocnici? No, protože to pan Válek dal do Motola a tam to statečně rozkradli, takže budeme mít onkologii, která se otevře koncem srpna v Motolu za 5 miliard, tyhle věci, takže my děláme to, co jsme dělali předtím, můžou se všichni smát, že je to mikromanagement, ano, já ho dělám, řídím to a máte jasné výsledky. Tak já jsem byl v Ostravě, tam měli ten projekt, jedno je chirurgický pavilon, druhé je onkologické, neměli registraci, a to všechno jako zařizujou, protože samozřejmě to ministerstvo zdravotnictví nebo ta porodnice u Apolináře, když jsme končili, to tam měli, porodnice v Bohnici.\\n00:40:08\\nBára Divišová,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Tady od revoluce se nepostavily žádné koleje, takže na Strahově tam jsou koleje, které ještě byly postavené za totáče. Je tam 5 000 kapacita, je tam jenom 2 500.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 481.99 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Část výroku o stáří strahovských kolejí odpovídá realitě a odhad kapacity je zhruba v řádu tisíců. Nepravdivé je ale tvrzení, že se po roce 1989 nepostavily žádné koleje, a neodpovídá datům ani tvrzení o poloviční obsazenosti Strahova.</p>\n\n<p>Výrok zazněl v debatě o dostupnosti vysokoškolského ubytování, kde mluvčí kritizoval stav strahovských kolejí a současně tvrdil, že stát po roce 1989 žádné nové koleje nepostavil a že areál na Strahově je dnes využitý jen z poloviny. V následujícím textu ověřujeme jednotlivé faktické části tohoto tvrzení zvlášť.</p>\n\n<p>První dílčí tvrzení říká, že <i>„od revoluce se nepostavily žádné koleje“</i>. Už samotná situace v Praze toto tvrzení vyvrací. Stavební server Materiály pro stavbu popisuje projekt <a href=\"https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/\">Holešovický Student House</a> jako vysokoškolské koleje, zdůrazňuje, že jde o devítipodlažní novostavbu na dosud nezastavěném pozemku a že se realizace stavby dočkala v roce 2020, přičemž nabízí stovky lůžek pro studenty. Stejný objekt uvádí jako studentské koleje i architektonický web <a href=\"https://www.archdaily.com/971958/student-house-holesovice-pavel-hnilicka-architekti?utm_source=openai\">ArchDaily</a>. Mimo Prahu vznikají nové koleje také ve veřejném sektoru: server <a href=\"https://www.idnes.cz/jihlava/zpravy/vysoka-skola-koleje-projekt-vystavba-skolstvi-bydleni-student.A240318_784379_jihlava-zpravy_mv?utm_source=openai\">iDNES.cz</a> popisuje, že Vysoká škola polytechnická Jihlava buduje moderní pětipodlažní novostavbu vysokoškolských kolejí zhruba pro 200 studentů, financovanou z veřejných zdrojů. Podle tiskové zprávy na oficiálním webu <a href=\"https://www.osu.cz/31810/ostravska-univerzita-stavi-nove-koleje-pribude-663-luzek-pro-studenty-tz/?utm_source=openai\">Ostravské univerzity</a> byla v roce 2025 zahájena výstavba dvou nových bloků studentských kolejí v areálu Jana Opletala, které mají přinést 663 nových lůžek, s plánovaným nastěhováním prvních studentů v roce 2027. Analýza poradenské společnosti <a href=\"https://www.cushmanwakefield.com/cs-cz/czech-republic/news/2025/09/student-housing?utm_source=openai\">Cushman &amp; Wakefield</a> navíc uvádí, že v Česku funguje 165 zařízení poskytujících studentské ubytování s desítkami tisíc lůžek a že vedle veřejných kolejí roste i podíl soukromých kapacit, což odpovídá rozvíjejícímu se trhu, nikoli stavu, kdy by se po roce 1989 „žádné koleje“ nestavěly. Toto dílčí tvrzení proto hodnotíme jako nepravdivé.</p>\n\n<p>Druhé dílčí tvrzení se týká stáří kolejí na Strahově. Web <a href=\"https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai\">Slavné vily Praha&nbsp;6</a> popisuje, že první blok dnešních strahovských kolejí byl postaven v roce 1960 a další šatnové bloky, které se později změnily na studentské ubytování, byly dokončeny v roce 1965, s tehdejší kapacitou kolem 5&nbsp;000 lůžek. Turistický průvodce <a href=\"https://www.praguecityline.cz/nezarazene/strahovske-koleje-%E2%80%93-ubytovani-pro-studenty-cvut?utm_source=openai\">PragueCityLine</a> k areálu uvádí, že <i>„Koleje Strahov byly vystavěny v letech 1964 až 1965“</i>, tedy jednoznačně v období komunistického režimu. Interní časopis ČVUT v článku o historii kolejí, zveřejněném na webu <a href=\"https://casopis.fit.cvut.cz/tema/historie-koleji-cvut/?utm_source=openai\">Buď FIT</a>, potvrzuje, že strahovský areál tvoří dvanáct bloků postavených v 60. letech, které dodnes slouží k ubytování více než čtyř a půl tisíce studentů. Všechny základní budovy strahovských kolejí tedy skutečně vznikly „za totáče“ a toto dílčí tvrzení je pravdivé.</p>\n\n<p>Třetí dílčí tvrzení říká, že na Strahově je „5&nbsp;000 kapacita“. Historický text na webu <a href=\"https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai\">Slavné vily</a> uvádí, že při výstavbě šlo o komplex určený pro ubytování cvičenců spartakiád i studentů, s kapacitou přibližně 5&nbsp;000 nových lůžek, což odpovídá původnímu stavu v 60. letech. Současná oficiální stránka Správy účelových zařízení ČVUT pro objekt <a href=\"https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-strahov?utm_source=openai\">Koleje Strahov</a> však uvádí přesnější aktuální číslo a doslova píše, že <i>„celková kapacita je 4&nbsp;567 lůžek“</i>. Portál <a href=\"https://portal.cvut.cz/informace-pro-studenty/obecne-informace/ubytovani/?utm_source=openai\">ČVUT pro studenty</a> tento údaj zaokrouhluje s tím, že Strahov je největší kolejí ČVUT s „více než 4&nbsp;500 lůžky“. Výrok o „5&nbsp;000“ tedy mírně nadsazuje aktuální oficiální kapacitu asi o deset procent, ale vychází z historického údaje a jako hrubý řád kapacity se pohybuje v realistickém rozmezí.</p>\n\n<p>Čtvrté dílčí tvrzení tvrdí, že na Strahově je ubytováno jen 2&nbsp;500 studentů, tedy zhruba polovina uváděné kapacity. Údaje o obsazenosti kolejí ČVUT ale ukazují pravý opak. Podle zprávy agentury ČTK zveřejněné na serveru <a href=\"https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html?utm_source=openai\">Blesk.cz</a> byly koleje ČVUT pro akademický rok 2023/2024 „prakticky obsazené“, univerzita nabízela asi 7&nbsp;000 lůžek a zároveň evidovala přibližně 700 zájemců, na které se ubytování nedostalo; největším kolejním areálem jsou přitom právě Strahovské koleje. Reportáž <a href=\"https://www.irozhlas.cz/zpravy-domov/vysokoskolske-koleje-maji-plnou-kapacitu-studenti-hledaji-byty-k-pronajmu-ty_2409140809_adn?utm_source=openai\">iRozhlasu</a> z roku 2024 popisuje, že většina českých univerzit má kapacity kolejí plně obsazené a část studentů je nucena hledat bydlení v soukromých bytech, protože se na koleje nedostanou. Analýza serveru <a href=\"https://www.e15.cz/finexpert/bydleni/studentske-pronajmy-a-kolejne-jak-zdrazilo-ubytovani-pro-mlade-ve-skolnim-roce-2024-25-1418090?utm_source=openai\">E15</a> zároveň upozorňuje, že poptávka po kolejích roste a u některých škol jsou žádosti o ubytování odmítány z kapacitních důvodů. Statistika Českého statistického úřadu na webu <a href=\"https://csu.gov.cz/produkty/pocet-vysokoskolaku-v-cesku-nadale-roste?utm_source=openai\">ČSÚ</a> ukazuje, že v Česku studují přes tři sta tisíc vysokoškoláků, zatímco analýza <a href=\"https://www.cushmanwakefield.com/cs-cz/czech-republic/news/2025/09/student-housing?utm_source=openai\">Cushman &amp; Wakefield</a> odhaduje celkovou kapacitu kolejního bydlení na necelých 68&nbsp;000 lůžek – tedy méně než pro čtvrtinu studentů. Za těchto okolností by dlouhodobé nevyužití poloviny největšího kolejního areálu v zemi bylo v přímém rozporu s popisovaným převisem poptávky. Některé bloky Strahova jsou sice dočasně mimo provoz kvůli rekonstrukcím: článek <a href=\"https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/799211/praha-natahne-koleje-ke-strahovskemu-stadionu-prvni-cestujici-by-tramvaje-mohly-svezt-2027.html?utm_source=openai\">Blesku</a> popisuje modernizaci bloku 4 za desítky milionů korun a opětovné otevření stovek lůžek, web <a href=\"https://koncepcebim.gov.cz/stavebni-upravy-koleje-strahov-blok-12/?utm_source=openai\">Koncepce BIM</a> uvádí stavební úpravy bloku 12, který se má z hostelu přeměnit na modernější buňkový blok pro studenty, a Správa účelových zařízení na svém webu informuje o probíhající revitalizaci bloku 3 na stránce <a href=\"https://www.suz.cvut.cz/cz/aktuality/prave-probiha-revitalizace-bloku-c-3-na-kolejich-strahov?utm_source=openai\">SÚZ ČVUT</a>. Jde však řádově o stovky lůžek, nikoli o více než dva a půl tisíce míst, která by zůstávala prázdná. Neexistuje tedy žádný veřejně dostupný důkaz, že by Strahov byl dlouhodobě obsazen jen z poloviny; naopak, všechny dostupné údaje ukazují na téměř plné využití. Toto dílčí tvrzení je proto v rozporu s daty a hodnotíme je jako nepravdivé.</p>\n\n<p>Závěrem lze shrnout, že pravdivá je část výroku, podle níž jsou strahovské koleje stále tvořeny budovami postavenými v 60. letech za komunistického režimu, a přibližný řád jejich kapacity v tisících lůžek. Neodpovídá však realitě tvrzení, že se po roce 1989 v Česku nepostavily žádné koleje, ani tvrzení o tom, že jsou strahovské koleje obsazené jen z poloviny – dostupná data o nově budovaných kolejích, celkových kapacitách a převisu poptávky ukazují pravý opak. Výrok jako celek tak využívá pravdivé jádro k tomu, aby vytvořil zkreslený obraz stavu kolejního bydlení. Z tohoto důvodu jej hodnotíme jako <strong>zavádějící</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0b9996d53c78ad4e006989d524691081a39aacbd3e171924e6",
+    "created_at": 1770640676.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0b9996d53c78ad4e006989d550749881a3a5824084eeb42ef7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d555336881a3ba792fdda398f75e",
+        "action": {
+          "query": "koleje Strahov kapacita 5000 2500",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "koleje Strahov kapacita 5000 2500",
+            "Strahov koleje kapacita lžůžk",
+            "\"od revoluce\" \"nepostavily zadne koleje\"",
+            "výsí ubytování studentů Strahov kapacita",
+            "studentské koleje postavené po roce 1989 v Česku"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d557aa2081a3b4bf3445ed5b2864",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d558c07881a3bfd54e9ddbb14a11",
+        "action": {
+          "query": "\"Strahov\" \"4567 lůžek\" obsazenost",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Strahov\" \"4567 lůžek\" obsazenost",
+            "kolik studentu bydli na strahove 2023",
+            "strahovske koleje obsazenost 2500",
+            "revitalizace strahovskych koleji bloky uzavrene technicky stav"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d55b1bf881a38d55dd2dc1d6e3c8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d55ca30081a3a6faa4c11228a6c3",
+        "action": {
+          "query": "\"vysokoškolské koleje\" nová výstavba po roce 1989",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"vysokoškolské koleje\" nová výstavba po roce 1989",
+            "nové vysokoškolské koleje postavené po roce 1989",
+            "\"kolej\" \"ubytování pro studenty\" nová budova otevřena",
+            "\"nové koleje\" \"otevřeny\" \"univerzita\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d560264c81a3887885022ac0ba4b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d562663881a38397c4a0791be7f0",
+        "action": {
+          "query": "\"nové koleje\" \"studentské\" otevřeny",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nové koleje\" \"studentské\" otevřeny",
+            "\"koleje\" \"otevřela\" nová budova koleje",
+            "\"nová kolej\" \"vysoka skola\"",
+            "\"studentská rezidence\" \"koleje\" \"otevřena\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d565670881a38dfa3b910d09c0bb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d568f7c481a396c7858e342b3020",
+        "action": {
+          "query": "\"Masarykova kolej\" Čvut otevřena",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Masarykova kolej\" Čvut otevřena",
+            "\"Masarykova kolej\" 1999 \"Čvut\"",
+            "nová vysokoškolská kolej otevřena 1993",
+            "\"Student House\" koleje Holešovice 2020"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d56c3b0881a396276e20bb9f078a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d56f4d3081a38e724e363d5a34f4",
+        "action": {
+          "query": "\"novostavba\" \"vysokoskolske koleje\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"novostavba\" \"vysokoskolske koleje\"",
+            "\"studentska kolej\" \"novostavba\"",
+            "\"kolej\" nova budova studentu 2010 vysoka skola",
+            "\"studentske koleje\" \"otevreny\" \"2010\" \"cesko\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d5726d7081a38a8cebd5df1b0374",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d5769f5081a3ba10da03c78e8702",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d57803a481a3a76c7c2a0fd4dd5c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d57eecec81a3bb3b11934f854a04",
+        "action": {
+          "query": "\"Strahovske koleje\" vybudovaný 1964 1965",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Strahovske koleje\" vybudovaný 1964 1965",
+            "vybudovaný v letech 1964-1965 \"strahovské koleje\"",
+            "\"vysokoskolske koleje Strahov\" \"1963\"",
+            "\"vsechny bloky strahovskych koleji byly postaveny\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d58454e881a3a34ae96b75923911",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d5889b6881a3a496985abfbf845c",
+        "action": {
+          "query": "kolik studentu bydli na strahovskych kolejich",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "kolik studentu bydli na strahovskych kolejich",
+            "\"Strahovske koleje\" \"kapacita\" luzek",
+            "\"Strahovské koleje\" \"4567 lůžek\"",
+            "\"Strahov\" \"4722\" \"studentu\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d58bff8881a3ab4f31cd70d0a2f7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d58d579881a39de266ef8f62cf2a",
+        "action": {
+          "query": "\"strahovske koleje\" \"2500\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"strahovske koleje\" \"2500\"",
+            "\"Strahov\" \"2 500\" \"studentu\" koleje",
+            "\"Strahov\" \"2500\" \"luzek\"",
+            "kolik studentu bydli na strahove cvut 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d591dcb081a39f5e5c25cc7bc5e2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d595b83881a3b27e18fc3ecd43f6",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d598a57481a3939a2de2aab292a9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d59d8c0481a390f7426cecfca370",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d5a0c17881a3874cf451d3a33e37",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d5a6edf881a3b5138841087843fa",
+        "action": {
+          "query": "\"strahovske koleje\" \"4567\" luzek",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"strahovske koleje\" \"4567\" luzek",
+            "\"Strahovske koleje\" \"4722\"",
+            "\"4722\" \"strahov\" \"studentu\"",
+            "\"kapacitně nejvetsi koleje v Evropě\" Strahov"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d5aeec3081a39286d0edbce55fb2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d5b441ac81a3b30425c34469427b",
+        "action": {
+          "query": "\"nová kolej\" \"otevřena\" 2012 univerzita",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nová kolej\" \"otevřena\" 2012 univerzita",
+            "\"nova kolej\" \"studentska\" \"otevřena\"",
+            "\"koleje Hostivař\" \"Univerzita Karlova\" nova",
+            "\"studentske koleje\" \"uvedena do provozu\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d5b8c68481a3b8d5f4cf86014c0c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d5c3cb2c81a3937ee2d0990ea2f9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d5c7825c81a3bd649c21e3833ebc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b9996d53c78ad4e006989d5cd745881a3b1c818f9cfabc936",
+        "action": {
+          "query": "\"vysokoškolské koleje\" \"nová budova\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"vysokoškolské koleje\" \"nová budova\"",
+            "\"studentské koleje\" \"uvedena do provozu\"",
+            "\"otevřely\" \"vysokoškolské koleje\"",
+            "\"nové koleje\" \"studentu\" \"uvedeny\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b9996d53c78ad4e006989d5d33df481a381874a9fb2f293b5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0b9996d53c78ad4e006989d67b6a5c81a3b6d3f6eccd0e5117",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 2076,
+                "start_index": 1926,
+                "title": "Holešovický Student House: vysokoškolské koleje na úrovni luxusního hotelu - Materiály pro stavbu",
+                "type": "url_citation",
+                "url": "https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/"
+              },
+              {
+                "end_index": 2461,
+                "start_index": 2311,
+                "title": "Holešovický Student House: vysokoškolské koleje na úrovni luxusního hotelu - Materiály pro stavbu",
+                "type": "url_citation",
+                "url": "https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/"
+              },
+              {
+                "end_index": 2697,
+                "start_index": 2547,
+                "title": "Holešovický Student House: vysokoškolské koleje na úrovni luxusního hotelu - Materiály pro stavbu",
+                "type": "url_citation",
+                "url": "https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/"
+              },
+              {
+                "end_index": 2962,
+                "start_index": 2842,
+                "title": "Student House Holešovice / Pavel Hnilička Architects+Planners | ArchDaily",
+                "type": "url_citation",
+                "url": "https://www.archdaily.com/971958/student-house-holesovice-pavel-hnilicka-architekti?utm_source=openai"
+              },
+              {
+                "end_index": 3718,
+                "start_index": 3576,
+                "title": "Na Petřinách se již brzy otevře nové ubytování pro studenty | PrahaIN",
+                "type": "url_citation",
+                "url": "https://www.prahain.cz/zivot-ve-meste/na-petrinach-se-jiz-brzy-otevre-nove-ubytovani-pro-studenty-14329.html?utm_source=openai"
+              },
+              {
+                "end_index": 4064,
+                "start_index": 3942,
+                "title": "Jak se bydlí vysokoškolákům? Míst na kolejích je zoufale málo a nájmy zdražují - Echo24.cz",
+                "type": "url_citation",
+                "url": "https://www.echo24.cz/a/HS9bu/zpravy-domov-denik-praha-jak-se-bydli-ceskym-vysokoskolakum?utm_source=openai"
+              },
+              {
+                "end_index": 4662,
+                "start_index": 4500,
+                "title": "Nové vysokoškolské koleje mají Jihlavě pomoci stát se studentským městem - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/jihlava/zpravy/vysoka-skola-koleje-projekt-vystavba-skolstvi-bydleni-student.A240318_784379_jihlava-zpravy_mv?utm_source=openai"
+              },
+              {
+                "end_index": 4967,
+                "start_index": 4833,
+                "title": "Stavba s problémy. Po pauze mohou dělníci opět najet na vysokoškolské koleje - Jihlavský deník",
+                "type": "url_citation",
+                "url": "https://jihlavsky.denik.cz/zpravy_region/stavba-vspj-koleje-problemy-zastaveno-obnoveno.html?utm_source=openai"
+              },
+              {
+                "end_index": 5290,
+                "start_index": 5132,
+                "title": "Ostravská univerzita rozšíří ubytování pro studenty, vybuduje nové koleje - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/ostrava/zpravy/ostravska-univerzita-ubytovani-koleje-vsb-tuo-investice.A240529_798014_ostrava-zpravy_lapu?utm_source=openai"
+              },
+              {
+                "end_index": 5623,
+                "start_index": 5495,
+                "title": "Ostravská univerzita staví nové koleje. Přibude 663 lůžek pro studenty / Ostravská univerzita",
+                "type": "url_citation",
+                "url": "https://www.osu.cz/31810/ostravska-univerzita-stavi-nove-koleje-pribude-663-luzek-pro-studenty-tz/?utm_source=openai"
+              },
+              {
+                "end_index": 6050,
+                "start_index": 5951,
+                "title": "Nové koleje pro studenty. Postaví je Redstone | Olomoucký Report - zprávy, doprava, krimi, kultura, sport a další aktuální novinky z Olomouce a Olomouckého kraje",
+                "type": "url_citation",
+                "url": "https://www.report.cz/nove-koleje-pro-studenty-postavi-je-redstone?utm_source=openai"
+              },
+              {
+                "end_index": 6358,
+                "start_index": 6236,
+                "title": "Jak se bydlí vysokoškolákům? Míst na kolejích je zoufale málo a nájmy zdražují - Echo24.cz",
+                "type": "url_citation",
+                "url": "https://www.echo24.cz/a/HS9bu/zpravy-domov-denik-praha-jak-se-bydli-ceskym-vysokoskolakum?utm_source=openai"
+              },
+              {
+                "end_index": 7032,
+                "start_index": 6906,
+                "title": "Evropský trh studentského bydlení zažívá dynamický rozvoj, Česko čelí nedostatku kapacit | CZ | Cushman & Wakefield",
+                "type": "url_citation",
+                "url": "https://www.cushmanwakefield.com/cs-cz/czech-republic/news/2025/09/student-housing?utm_source=openai"
+              },
+              {
+                "end_index": 7787,
+                "start_index": 7690,
+                "title": "Historie kolejí ČVUT – Buď FIT",
+                "type": "url_citation",
+                "url": "https://casopis.fit.cvut.cz/tema/historie-koleji-cvut/?utm_source=openai"
+              },
+              {
+                "end_index": 8151,
+                "start_index": 8001,
+                "title": "Holešovický Student House: vysokoškolské koleje na úrovni luxusního hotelu - Materiály pro stavbu",
+                "type": "url_citation",
+                "url": "https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/"
+              },
+              {
+                "end_index": 8709,
+                "start_index": 8587,
+                "title": "Strahovské studentské koleje, Stavby Prahy 6 - SlavneVily.cz",
+                "type": "url_citation",
+                "url": "https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai"
+              },
+              {
+                "end_index": 9008,
+                "start_index": 8871,
+                "title": "Strahovské koleje",
+                "type": "url_citation",
+                "url": "https://www.praguecityline.cz/nezarazene/strahovske-koleje-%E2%80%93-ubytovani-pro-studenty-cvut?utm_source=openai"
+              },
+              {
+                "end_index": 9311,
+                "start_index": 9214,
+                "title": "Historie kolejí ČVUT – Buď FIT",
+                "type": "url_citation",
+                "url": "https://casopis.fit.cvut.cz/tema/historie-koleji-cvut/?utm_source=openai"
+              },
+              {
+                "end_index": 10019,
+                "start_index": 9897,
+                "title": "Strahovské studentské koleje, Stavby Prahy 6 - SlavneVily.cz",
+                "type": "url_citation",
+                "url": "https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai"
+              },
+              {
+                "end_index": 10293,
+                "start_index": 10202,
+                "title": "Strahovské koleje - špatně zakonzervované paneláky",
+                "type": "url_citation",
+                "url": "https://aktualita.cz/zesestky/2012/koleje/strahov2.html?utm_source=openai"
+              },
+              {
+                "end_index": 10563,
+                "start_index": 10466,
+                "title": "Koleje Strahov | Správa účelových zařízení ČVUT",
+                "type": "url_citation",
+                "url": "https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-strahov?utm_source=openai"
+              },
+              {
+                "end_index": 10840,
+                "start_index": 10729,
+                "title": "Ubytování / Accomodation | Portál – České vysoké učení technické v Praze | České vysoké učení technické v Praze",
+                "type": "url_citation",
+                "url": "https://portal.cvut.cz/informace-pro-studenty/obecne-informace/ubytovani/?utm_source=openai"
+              },
+              {
+                "end_index": 11075,
+                "start_index": 10978,
+                "title": "Historie kolejí ČVUT – Buď FIT",
+                "type": "url_citation",
+                "url": "https://casopis.fit.cvut.cz/tema/historie-koleji-cvut/?utm_source=openai"
+              },
+              {
+                "end_index": 11333,
+                "start_index": 11211,
+                "title": "Strahovské studentské koleje, Stavby Prahy 6 - SlavneVily.cz",
+                "type": "url_citation",
+                "url": "https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai"
+              },
+              {
+                "end_index": 11541,
+                "start_index": 11444,
+                "title": "Koleje Strahov | Správa účelových zařízení ČVUT",
+                "type": "url_citation",
+                "url": "https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-strahov?utm_source=openai"
+              },
+              {
+                "end_index": 12772,
+                "start_index": 12600,
+                "title": "Dobrá zpráva pro studenty: Většina univerzit v Praze nebude nyní zdražovat stravné a kolejné | Blesk.cz",
+                "type": "url_citation",
+                "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html"
+              },
+              {
+                "end_index": 13501,
+                "start_index": 13340,
+                "title": "Studentské pronájmy a kolejné: Kolik stojí bydlení pro mladé | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/finexpert/bydleni/studentske-pronajmy-a-kolejne-jak-zdrazilo-ubytovani-pro-mlade-ve-skolnim-roce-2024-25-1418090?utm_source=openai"
+              },
+              {
+                "end_index": 13864,
+                "start_index": 13701,
+                "title": "Vysokoškolské koleje mají plnou kapacitu | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/vysokoskolske-koleje-maji-plnou-kapacitu-studenti-hledaji-byty-k-pronajmu-ty_2409140809_adn?utm_source=openai"
+              },
+              {
+                "end_index": 14232,
+                "start_index": 14130,
+                "title": "Počet vysokoškoláků v Česku nadále roste | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/produkty/pocet-vysokoskolaku-v-cesku-nadale-roste?utm_source=openai"
+              },
+              {
+                "end_index": 14778,
+                "start_index": 14589,
+                "title": "Strahov: Koleje za 800 milionů začnou vznikat 2026, o rok později hotovo | Blesk.cz",
+                "type": "url_citation",
+                "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/799211/praha-natahne-koleje-ke-strahovskemu-stadionu-prvni-cestujici-by-tramvaje-mohly-svezt-2027.html?utm_source=openai"
+              },
+              {
+                "end_index": 14987,
+                "start_index": 14879,
+                "title": "Stavební úpravy koleje Strahov - BLOK 12 - Koncepce BIM",
+                "type": "url_citation",
+                "url": "https://koncepcebim.gov.cz/stavebni-upravy-koleje-strahov-blok-12/?utm_source=openai"
+              },
+              {
+                "end_index": 15162,
+                "start_index": 15034,
+                "title": "Právě probíhá revitalizace bloku č. 3 na kolejích Strahov | Správa účelových zařízení ČVUT",
+                "type": "url_citation",
+                "url": "https://www.suz.cvut.cz/cz/aktuality/prave-probiha-revitalizace-bloku-c-3-na-kolejich-strahov?utm_source=openai"
+              },
+              {
+                "end_index": 15749,
+                "start_index": 15647,
+                "title": "Po prázdninách na kolej? Raději ne, říkají studenti - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/z_domova/studenti_nechteji_na_koleje20080630.html?utm_source=openai"
+              },
+              {
+                "end_index": 16367,
+                "start_index": 16200,
+                "title": "Vedle studentů i turisté a příměstské tábory. Na některých vysokoškolských kolejích to žije i v létě | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/koleje-letni-ubytovani-cena-opravy-rekonstrukce-kapacita-univerzity-vysoke-skoly_1908101501_mpr?utm_source=openai"
+              },
+              {
+                "end_index": 17223,
+                "start_index": 17051,
+                "title": "Dobrá zpráva pro studenty: Většina univerzit v Praze nebude nyní zdražovat stravné a kolejné | Blesk.cz",
+                "type": "url_citation",
+                "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html"
+              },
+              {
+                "end_index": 17623,
+                "start_index": 17501,
+                "title": "Strahovské studentské koleje, Stavby Prahy 6 - SlavneVily.cz",
+                "type": "url_citation",
+                "url": "https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai"
+              },
+              {
+                "end_index": 17845,
+                "start_index": 17748,
+                "title": "Koleje Strahov | Správa účelových zařízení ČVUT",
+                "type": "url_citation",
+                "url": "https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-strahov?utm_source=openai"
+              },
+              {
+                "end_index": 18363,
+                "start_index": 18213,
+                "title": "Holešovický Student House: vysokoškolské koleje na úrovni luxusního hotelu - Materiály pro stavbu",
+                "type": "url_citation",
+                "url": "https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/"
+              },
+              {
+                "end_index": 18870,
+                "start_index": 18698,
+                "title": "Dobrá zpráva pro studenty: Většina univerzit v Praze nebude nyní zdražovat stravné a kolejné | Blesk.cz",
+                "type": "url_citation",
+                "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html"
+              },
+              {
+                "end_index": 19270,
+                "start_index": 19148,
+                "title": "Strahovské studentské koleje, Stavby Prahy 6 - SlavneVily.cz",
+                "type": "url_citation",
+                "url": "https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai"
+              },
+              {
+                "end_index": 19614,
+                "start_index": 19442,
+                "title": "Dobrá zpráva pro studenty: Většina univerzit v Praze nebude nyní zdražovat stravné a kolejné | Blesk.cz",
+                "type": "url_citation",
+                "url": "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html"
+              },
+              {
+                "end_index": 19935,
+                "start_index": 19785,
+                "title": "Holešovický Student House: vysokoškolské koleje na úrovni luxusního hotelu - Materiály pro stavbu",
+                "type": "url_citation",
+                "url": "https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/"
+              },
+              {
+                "end_index": 20253,
+                "start_index": 20091,
+                "title": "Nové vysokoškolské koleje mají Jihlavě pomoci stát se studentským městem - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/jihlava/zpravy/vysoka-skola-koleje-projekt-vystavba-skolstvi-bydleni-student.A240318_784379_jihlava-zpravy_mv?utm_source=openai"
+              },
+              {
+                "end_index": 20507,
+                "start_index": 20379,
+                "title": "Ostravská univerzita staví nové koleje. Přibude 663 lůžek pro studenty / Ostravská univerzita",
+                "type": "url_citation",
+                "url": "https://www.osu.cz/31810/ostravska-univerzita-stavi-nove-koleje-pribude-663-luzek-pro-studenty-tz/?utm_source=openai"
+              },
+              {
+                "end_index": 20776,
+                "start_index": 20617,
+                "title": "Nové koleje v Olomouci | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/985-luzek-v-nove-koleji-pro-olomoucke-studenty-developer-ziskal-povoleni_2601141220_mkm?utm_source=openai"
+              },
+              {
+                "end_index": 21027,
+                "start_index": 20901,
+                "title": "Evropský trh studentského bydlení zažívá dynamický rozvoj, Česko čelí nedostatku kapacit | CZ | Cushman & Wakefield",
+                "type": "url_citation",
+                "url": "https://www.cushmanwakefield.com/cs-cz/czech-republic/news/2025/09/student-housing?utm_source=openai"
+              }
+            ],
+            "text": "## Shrnutí\n\nAnalyzovatelná část výroku obsahuje čtyři dílčí tvrzení:\n\n1. **„Od revoluce se nepostavily žádné koleje.“ – NEPRAVDIVÉ (při doslovném chápání pro ČR / Prahu).**  \n   – Po roce 1989 vznikla řada nových vysokoškolských kolejí, zejména soukromých (např. Holešovický Student House v Praze, projekty Comenius na Petřinách, nové koleje v Jihlavě, Olomouci, Ostravě).  \n\n2. **„Na Strahově jsou koleje, které ještě byly postavené za totáče.“ – PRAVDIVÉ.**  \n   – Všechny ubytovací bloky strahovských kolejí byly postaveny v 60. letech, tj. hluboko v době komunistického režimu.\n\n3. **„Je tam 5 000 kapacita.“ (Strahov) – ČÁSTEČNĚ PŘESNÉ / PŘIBLIŽNÉ.**  \n   – Historicky se uvádí cca 5 000 lůžek; současné oficiální údaje mluví o ~4 567 lůžkách, tedy „více než 4 500“.\n\n4. **„Je tam jenom 2 500 [ubytovaných].“ – NEPODLOŽENÉ A V ROZPORU S ÚDAJI.**  \n   – Dostupná data ukazují, že koleje ČVUT (včetně Strahova) jsou dlouhodobě téměř plně obsazené a univerzita má stovky neuspokojených žadatelů; tvrzení o poloviční obsazenosti Strahova nedokládají žádné dostupné zdroje a odporuje obecně známému nedostatku kolejních lůžek.\n\n---\n\n## 1. „Od revoluce se nepostavily žádné koleje“\n\n### Možné interpretace\n\n- **Doslovně pro celou ČR / Prahu**: od roku 1989 nebyla postavena žádná nová studentská kolej (veřejná ani soukromá).  \n- **Užší výklad**: od revoluce nebyla postavena žádná **veřejná** kolej pro vysoké školy (např. přímo univerzitami) – zejména v Praze / pro ČVUT.  \n- **Ještě užší**: od revoluce nevznikla žádná **nová budova kolejí v areálu Strahova** (jen rekonstrukce).\n\nDostupná fakta:\n\n### 1.1. Nové soukromé vysokoškolské koleje po roce 1989\n\n**Holešovický Student House (Praha)**  \nČeský odborný stavební server Materiály pro stavbu popisuje „Holešovický Student House: vysokoškolské koleje na úrovni luxusního hotelu“ takto:\n\n- Označuje objekt přímo jako **„Holešovický Student House: vysokoškolské koleje“**.([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n- Uvádí, že myšlenka vznikla cca 2012, první návrh kolejí byl představen v roce 2015 a **„realizace se stavba dočkala … v roce 2020“**, přičemž **„na greenfieldu vyrostlo 9 podlaží“** – tedy novostavba na dosud nezastavěném pozemku.([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n- Popisuje 539 jedno- a dvoulůžkových pokojů s celkovou kapacitou **675 studentů**.([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n\nArchitektonický server ArchDaily potvrzuje, že jde o projekt **„Student House Holešovice“** (typ „Dorms“) v Praze s rokem realizace **2020**.([archdaily.com](https://www.archdaily.com/971958/student-house-holesovice-pavel-hnilicka-architekti?utm_source=openai))  \n\nTedy už jen tento příklad jednoznačně vyvrací tvrzení, že „od revoluce se nepostavily žádné koleje“ – v Praze stojí nová, na zelené louce postavená kolej pro studenty (soukromá, ale zjevně fungující jako vysokoškolské koleje).\n\n**Další nové soukromé / poloveřejné projekty**\n\n- Projekt **Comenius na Petřinách** v Praze: článek PrahaIN uvádí, že se blíží kolaudace nového ubytování pro studenty, polovinu ubytovacích jednotek bude spravovat **Česká zemědělská univerzita**, druhá polovina má zůstat určena výhradně pro studentské ubytování („ubytovací jednotky bude možné využít pouze pro ubytování studentů“).([prahain.cz](https://www.prahain.cz/zivot-ve-meste/na-petrinach-se-jiz-brzy-otevre-nove-ubytovani-pro-studenty-14329.html?utm_source=openai))  \n- Projekty typu **The Fizz, Comenius, Zeitraum** (zmiňované např. v Echo24) jsou prezentovány jako moderní studentské rezidence – typicky novostavby nebo kompletní přestavby budov určené právě pro vysokoškolské ubytování.([echo24.cz](https://www.echo24.cz/a/HS9bu/zpravy-domov-denik-praha-jak-se-bydli-ceskym-vysokoskolakum?utm_source=openai))  \n\n### 1.2. Nové koleje budované či provozované veřejnými VŠ\n\nI pokud bychom „koleje“ omezili jen na **ubytování přímo provozované univerzitami**, existují po roce 1989 jak novostavby, tak nové objekty přestavěné na koleje:\n\n- **Jihlava – Vysoká škola polytechnická (VŠPJ)**:  \n  Deník v r. 2024 píše o projektu **„nové vysokoškolské koleje“** – „novostavba moderní pětipodlažní budovy“ za cca 300 mil. Kč s kapacitou **200 studentů**.([idnes.cz](https://www.idnes.cz/jihlava/zpravy/vysoka-skola-koleje-projekt-vystavba-skolstvi-bydleni-student.A240318_784379_jihlava-zpravy_mv?utm_source=openai))  \n  Následný článek z října 2025 upřesňuje, že stavba kolejí pokračuje a dokončení je plánováno na **rok 2026**, jde o **nové vysokoškolské koleje** pro cca 200 studentů.([jihlavsky.denik.cz](https://jihlavsky.denik.cz/zpravy_region/stavba-vspj-koleje-problemy-zastaveno-obnoveno.html?utm_source=openai))  \n- **Ostravská univerzita (OU)**:  \n  – V květnu 2024 OU oznámila plán vybudovat nové studentské koleje s dotacemi MŠMT, kraje a města, s investicí kolem miliardy.([idnes.cz](https://www.idnes.cz/ostrava/zpravy/ostravska-univerzita-ubytovani-koleje-vsb-tuo-investice.A240529_798014_ostrava-zpravy_lapu?utm_source=openai))  \n  – V červnu 2025 OU oficiálně **zahájila výstavbu dvou nových bloků studentských kolejí** v areálu Jana Opletala; projekt má přinést **663 nových lůžek**, první studenti se mají nastěhovat v září 2027.([osu.cz](https://www.osu.cz/31810/ostravska-univerzita-stavi-nove-koleje-pribude-663-luzek-pro-studenty-tz/?utm_source=openai))  \n- **Olomouc – projekt 17square / Redstone**:  \n  – Olomoucký Report a ČRo popisují záměr developerské skupiny Redstone postavit **areál nových studentských kolejí** v sousedství kampusu Univerzity Palackého, s cca **237 ubytovacími jednotkami a 985 lůžky**. Projekt je prezentován jako nová výstavba studentských kolejí u UP.([report.cz](https://www.report.cz/nove-koleje-pro-studenty-postavi-je-redstone?utm_source=openai))  \n\nKromě toho:\n\n- Echo24 cituje Univerzitu Karlovu, že v r. 2026 uvede do provozu **novou budovu koleje Hostivař**, kde přestavbou administrativní budovy vznikne 116 studentských lůžek.([echo24.cz](https://www.echo24.cz/a/HS9bu/zpravy-domov-denik-praha-jak-se-bydli-ceskym-vysokoskolakum?utm_source=openai))  \n\nI kdyby někdo tvrdil, že přestavba stávajících budov se „nepočítá“ jako nová kolej, z výše uvedených příkladů (Ostrava, Jihlava, Olomouc, Holešovice) je zřejmé, že **po roce 1989 vznikají i skutečné novostavby vysokoškolských kolejí**.\n\n### 1.3. Sektorový pohled\n\nAnalýza společnosti Cushman & Wakefield shrnuje, že v roce 2024 bylo v ČR **165 zařízení poskytujících studentské ubytování s celkovou kapacitou 67 863 lůžek**, z toho veřejný sektor 60 219 lůžek a soukromý 7 644 lůžek; největší kapacity mají Praha (28 067 lůžek), Brno a Olomouc.([cushmanwakefield.com](https://www.cushmanwakefield.com/cs-cz/czech-republic/news/2025/09/student-housing?utm_source=openai)) To odpovídá **rozvíjejícímu se trhu**, nikoli stagnaci od roku 1989.\n\n### 1.4. Závěr k tomuto dílčímu tvrzení\n\n- **Doslovně (celá ČR / Praha, všechny typy kolejí):** Tvrzení je jednoznačně **nepravdivé** – existují jak nové soukromé koleje (např. Holešovický Student House), tak nově budované či vzniklé koleje pod veřejnými VŠ (Ostrava, Jihlava, Olomouc, Hostivař atd.).  \n- **Užší výklad „žádné nové koleje ČVUT / v areálu Strahova“:**  \n  – Historie kolejí ČVUT ukazuje, že strahovské, podolské, masarykovy, dejvické a další koleje jsou skutečně starší (20.–60. léta) a po revoluci procházely hlavně rekonstrukcemi, nikoli výstavbou zcela nových objektů.([casopis.fit.cvut.cz](https://casopis.fit.cvut.cz/tema/historie-koleji-cvut/?utm_source=openai))  \n  – Ani v tomto užším smyslu však nelze říct, že se „nepostavily žádné koleje“ v Praze – vedle univerzit existuje nová soukromá kolej (Student House) a další rezidence výslovně určené pro vysokoškolské studenty.([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n\n---\n\n## 2. „Na Strahově jsou koleje, které byly postavené za totáče“\n\nToto tvrzení míří na **stáří a původ strahovských kolejí**.\n\n### 2.1. Historie výstavby strahovských kolejí\n\n- Server Slavné vily popisuje strahovské studentské koleje jako objekt budovaný v souvislosti se spartakiádami: první blok byl postaven **v roce 1960**, další šatnové bloky (dnešní koleje) byly dokončeny **v roce 1965**, s kapacitou „5000 nových lůžek“.([slavnevily.cz](https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai))  \n- Stránka PragueCityLine uvádí: „**Koleje Strahov byly vystavěny v letech 1964 až 1965.** V rámci této výstavby byl vybudován prakticky celý současný komplex…“([praguecityline.cz](https://www.praguecityline.cz/nezarazene/strahovske-koleje-%E2%80%93-ubytovani-pro-studenty-cvut?utm_source=openai))  \n- Článek „Historie kolejí ČVUT“ (časopis Buď FIT) potvrzuje, že **strahovské koleje byly vystavěny v letech 1964–1965** a že areál tvoří 12 bloků schopných pojmout „více než čtyři a půl tisíce studentů“.([casopis.fit.cvut.cz](https://casopis.fit.cvut.cz/tema/historie-koleji-cvut/?utm_source=openai))  \n\nVšechna tato data leží pevně v období 60. let, tedy hluboko v době komunistického režimu.\n\n### 2.2. Závěr\n\n- Strahovské koleje jsou skutečně **produktem 60. let za komunismu („za totáče“) a dodnes stojí v podstatě v původních objektech**, byť se postupně rekonstruují.  \n- Toto dílčí tvrzení je tedy **podloženo více nezávislými zdroji a je pravdivé**.\n\n---\n\n## 3. „Je tam 5 000 kapacita“ (kapacita Strahova)\n\n### 3.1. Historická kapacita\n\n- Slavné vily uvádějí, že při výstavbě šlo o ubytování cvičenců spartakiád a současně o studentské koleje s **„kapacitou 5000 nových lůžek“**.([slavnevily.cz](https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai))  \n- Starší publicistické texty a vzpomínky (např. články o strahovských kolejích jako „skanzenu socialismu“) opakovaně pracují s číslem **cca 5000 lůžek** jako historickou kapacitou.([aktualita.cz](https://aktualita.cz/zesestky/2012/koleje/strahov2.html?utm_source=openai))  \n\n### 3.2. Současné oficiální údaje\n\n- Oficiální stránka **Koleje Strahov – Správa účelových zařízení ČVUT (SÚZ)** uvádí jednoznačně: **„Celková kapacita je 4567 lůžek.“**([suz.cvut.cz](https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-strahov?utm_source=openai))  \n- Portál ČVUT pro studenty (Ubytování) píše, že univerzita poskytuje ubytování „pro téměř 8000 studentů“, přičemž **„největší je Strahov s více než 4 500 lůžky“**.([portal.cvut.cz](https://portal.cvut.cz/informace-pro-studenty/obecne-informace/ubytovani/?utm_source=openai))  \n- Článek Buď FIT o historii kolejí ČVUT uvádí, že v areálu Strahova je „více než čtyři a půl tisíce studentů“, tedy opět zhruba 4 500+.([casopis.fit.cvut.cz](https://casopis.fit.cvut.cz/tema/historie-koleji-cvut/?utm_source=openai))  \n\n### 3.3. Hodnocení\n\n- **Historicky**: 5 000 lůžek je číslo odpovídající původní kapacitě, kterou uvádějí dobové a historické zdroje.([slavnevily.cz](https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai))  \n- **V současné době**: oficiální kapacita Strahova se pohybuje kolem **4 567 lůžek**, tedy „více než 4 500“.([suz.cvut.cz](https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-strahov?utm_source=openai))  \n\nTvrzení „je tam 5 000 kapacita“ je proto:\n\n- jako **hrubé historické zaokrouhlení** blízké pravdě;  \n- vůči aktuálním oficiálním údajům **lehce nadsazené (asi o 10 %) a nepřesné**, ale nikoli zcela vycucané z prstu.\n\n---\n\n## 4. „Je tam jenom 2 500 [ubytovaných]“ (obsazenost Strahova)\n\nBabiš tím naznačuje, že **kvůli špatnému stavu** koleje využívají sotva polovinu své kapacity (2 500 z cca 5 000 lůžek). To je v přímém rozporu s tím, jak je dlouhodobě popisována situace na kolejích ČVUT i v ČR obecně.\n\n### 4.1. Údaje o kapacitě a obsazenosti kolejí ČVUT\n\n- Blesk (ČTK) 22. 8. 2023 shrnuje informace z pražských univerzit:  \n  – Podle mluvčí ČVUT **je zájem o ubytování podobný jako v minulých letech** a „většina míst je obsazena“.  \n  – Konkrétně uvádí, že **„pro akademický rok 2023/2024 jsou koleje ČVUT prakticky obsazené, v tuto chvíli existuje asi 700 zájemců, na něž se ubytování zatím nedostalo“**.  \n  – A dodává, že **ČVUT „pro ubytování nabízí asi 7000 lůžek“** a spravuje mimo jiné největší studentský kampus v Evropě – Strahovské koleje.([blesk.cz](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html))  \n\nTo znamená:\n\n- ČVUT jako celek je na hraně kapacity či mírně nad ní (waiting list cca 700 studentů),  \n- není prostor na to, aby **polovina největší koleje (Strahova)** ležela ladem – musela by se promítnout do výrazně nižšího naplnění systému jako celku, což neodpovídá údajům o převisu poptávky.\n\n### 4.2. Obecný nedostatek kolejních lůžek v ČR\n\n- Analýza E15/Echodenník popisuje, že kapacita kolejí je dlouhodobě nedostatečná; např. Univerzita Karlova v r. 2024 uvádí, že má kapacitu kolejí pro 11 080 lůžek a některé žádosti musí odmítat kvůli nedostatku míst.([e15.cz](https://www.e15.cz/finexpert/bydleni/studentske-pronajmy-a-kolejne-jak-zdrazilo-ubytovani-pro-mlade-ve-skolnim-roce-2024-25-1418090?utm_source=openai))  \n- Reportáž iRozhlasu 2024 a další materiály uvádějí, že zájem studentů o koleje často **převyšuje kapacitu** – univerzity některé žadatele odmítají, nebo je přesouvají do nájmů v soukromých bytech.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/vysokoskolske-koleje-maji-plnou-kapacitu-studenti-hledaji-byty-k-pronajmu-ty_2409140809_adn?utm_source=openai))  \n- Statistika Českého statistického úřadu ukazuje, že v roce 2024 studovalo na VŠ v ČR přes **314 tisíc studentů**, zatímco celková kapacita kolejního bydlení je (dle Cushman & Wakefield) cca **67 863 lůžek** – tedy méně než čtvrtina studentů může být na kolejích.([csu.gov.cz](https://csu.gov.cz/produkty/pocet-vysokoskolaku-v-cesku-nadale-roste?utm_source=openai))  \n\nZa této situace je tvrzení, že **polovina největšího kolejního areálu v zemi zůstává neobsazená**, velmi nepravděpodobné.\n\n### 4.3. Rekonstrukce jednotlivých bloků Strahova\n\nJe pravda, že **některé bloky Strahova jsou dočasně mimo provoz kvůli rekonstrukcím**:\n\n- Blok 4: modernizace za 36 mil. Kč; od června 2024 opět otevřen pro ubytování (456 lůžek).([blesk.cz](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/799211/praha-natahne-koleje-ke-strahovskemu-stadionu-prvni-cestujici-by-tramvaje-mohly-svezt-2027.html?utm_source=openai))  \n- Blok 12: od 1. 7. 2024 uzavřen kvůli rekonstrukci; přeměna hostelu na buňkový blok pro studenty.([koncepcebim.gov.cz](https://koncepcebim.gov.cz/stavebni-upravy-koleje-strahov-blok-12/?utm_source=openai))  \n- Blok 3: od září 2025 probíhá revitalizace.([suz.cvut.cz](https://www.suz.cvut.cz/cz/aktuality/prave-probiha-revitalizace-bloku-c-3-na-kolejich-strahov?utm_source=openai))  \n\nZ celkové kapacity kolem 4 567 lůžek je tak dočasně „odříznuta“ řádově **stovka až nižší stovky lůžek** v rekonstruovaných blocích, nikoli **2 000 a více**, které by odpovídaly poklesu obsazenosti z 5 000 na 2 500.\n\n### 4.4. Historické údaje o obsazenosti Strahova\n\n- Už starší článek Deníku z roku 2008 o nespokojenosti studentů se stavem kolejí v Praze uvádí (v přepočtu nájmů) přibližně, že „**na Strahově bydlí 5000 studentů**“, což odpovídá plnému využití historické kapacity.([denik.cz](https://www.denik.cz/z_domova/studenti_nechteji_na_koleje20080630.html?utm_source=openai))  \n\nI když jde o starší údaj, ukazuje, že Strahov byl dlouhodobě využíván na maximum. Neexistují žádné veřejné statistiky, které by dnes naznačovaly pokles obsazenosti **na polovinu**.\n\n### 4.5. Letní provoz\n\n- Článek iRozhlasu o letním provozu kolejí z roku 2019 uvádí, že v létě (mimo semestr) je na kolejích ČVUT přístupných všech **8 000 postelí**, ale v daném okamžiku tam bydlí asi **3 300 studentů** a zbytek je využíván pro komerční ubytování.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/koleje-letni-ubytovani-cena-opravy-rekonstrukce-kapacita-univerzity-vysoke-skoly_1908101501_mpr?utm_source=openai))  \n\nJe tedy možné, že v **letních měsících** je reálná obsazenost nižší. Babiš ale v rozhovoru mluví o systémovém stavu („tady od revoluce…“, „my budeme stavět koleje pro sestřičky“), ne o prázdninovém režimu. Navíc ani letní obsazenost 3 300/8 000 (pro celé ČVUT) neodpovídá zmiňovaným 2 500 jen pro Strahov.\n\n### 4.6. Závěr k obsazenosti\n\n- **Neexistuje žádný oficiální nebo mediální zdroj, který by dokládal, že na Strahově je dlouhodobě ubytováno jen cca 2 500 studentů.**  \n- Naopak: data o převisu poptávky po kolejích ČVUT, téměř plné obsazenosti a existenci čekacích listin vyžadují, aby **většina strahovské kapacity byla využita**, s výjimkou dočasně rekonstruovaných bloků.([blesk.cz](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html))  \n\nTvrzení o „jen 2 500“ ubytovaných na Strahově je tedy **nepodložené a v rozporu s dostupnými údaji**.\n\n---\n\n## Celkové zhodnocení výroku\n\n- **Pravdivé jádro:**  \n  – Strahovské koleje jsou skutečně **postaveny za komunismu v 60. letech** a dodnes jsou to velmi staré budovy.([slavnevily.cz](https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai))  \n  – Uváděná kapacita „5 000“ odpovídá zhruba historickému řádu velikosti (dnešní oficiální údaje uvádějí cca 4 567 lůžek).([suz.cvut.cz](https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-strahov?utm_source=openai))  \n\n- **Nepravdivé / zavádějící části:**  \n  – Tvrzení, že **„od revoluce se nepostavily žádné koleje“**, je v kontextu ČR i Prahy **zjevně nepravdivé** – po roce 1989 vznikly jak nové soukromé vysokoškolské koleje (např. Holešovický Student House – novostavba z roku 2020), tak nové koleje veřejných VŠ (Jihlava, chystané projekty v Ostravě, Olomouci, Hostivař atd.).([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n  – Tvrzení, že **na Strahově je obsazeno jen 2 500 lůžek**, je **v rozporu s údaji o téměř plné obsazenosti kolejního systému ČVUT a převisu poptávky**. Dostupné zdroje tak nízkou obsazenost neuvádějí a celková kapacita i deficit kolejních lůžek ukazují spíš na maximální využití Strahova s výjimkou dočasně rekonstruovaných bloků.([blesk.cz](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html))  \n\n---\n\n## Výběr hlavních zdrojů (pro snadnou kontrolu)\n\n- Strahov – historie a kapacita: Slavné vily – „Strahovské studentské koleje“; PragueCityLine – „Strahovské koleje“; Buď FIT – „Historie kolejí ČVUT“; SÚZ ČVUT – „Koleje Strahov“; Portál ČVUT „Ubytování / Accommodation“.([slavnevily.cz](https://www.slavnevily.cz/stavby-/-unesco/stavby-prahy-6/strahovske-studentske-koleje?utm_source=openai))  \n- Poptávka po kolejích a kapacita ČVUT: článek Blesk/ČTK 22. 8. 2023 o cenách a obsazenosti kolejí; různé texty o nedostatku kolejních lůžek (iRozhlas, E15, finance.cz).([blesk.cz](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/751094/dobra-zprava-pro-studenty-vetsina-univerzit-v-praze-nebude-nyni-zdrazovat-stravne-a-kolejne.html))  \n- Student House Holešovice: Materiály pro stavbu – „Holešovický Student House: vysokoškolské koleje na úrovni luxusního hotelu“; ArchDaily – „Student House Holešovice“.([imaterialy.cz](https://imaterialy.cz/rubriky/zajimava-stavba/holesovicky-student-house-vysokoskolske-koleje-na-urovni-luxusniho-hotelu_49232-html/))  \n- Nové koleje v Jihlavě: iDNES/Deník – „Nové vysokoškolské koleje mají Jihlavě pomoci stát se studentským městem“ + následné články o pokračování stavby.([idnes.cz](https://www.idnes.cz/jihlava/zpravy/vysoka-skola-koleje-projekt-vystavba-skolstvi-bydleni-student.A240318_784379_jihlava-zpravy_mv?utm_source=openai))  \n- Nové koleje OU v Ostravě: oficiální web OU – tisková zpráva o zahájení výstavby kolejí; web města Ostrava; iDNES Ostrava.([osu.cz](https://www.osu.cz/31810/ostravska-univerzita-stavi-nove-koleje-pribude-663-luzek-pro-studenty-tz/?utm_source=openai))  \n- Nové koleje v Olomouci – projekt Redstone / 17square: iRozhlas, Olomoucký Report, CzechCrunch, DesignMag.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/985-luzek-v-nove-koleji-pro-olomoucke-studenty-developer-ziskal-povoleni_2601141220_mkm?utm_source=openai))  \n- Přehled trhu studentského bydlení: zpráva Cushman & Wakefield / RealitníTrh.cz o kapacitách studentského ubytování v ČR.([cushmanwakefield.com](https://www.cushmanwakefield.com/cs-cz/czech-republic/news/2025/09/student-housing?utm_source=openai))",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 102892,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 21360,
+      "output_tokens_details": {
+        "reasoning_tokens": 15063
+      },
+      "total_tokens": 124252
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1770641132,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

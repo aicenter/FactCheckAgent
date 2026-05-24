@@ -1,0 +1,727 @@
+{
+  "claim_id": "24601",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260220_173536",
+  "source_md": "experiments/gpt5.1_h_20260220_173536/brief_fact_check_id24601.md",
+  "fact_check": "# Fact Check for Statement ID 24601\n\n## Statement\nV současnosti je průměrný plat u policie 60 tisíc korun.\n\n---\n## AI Fact Check\n## 0. Tvrzení\n\nTvrzení k ověření (Lubomír Metnar, rozhovor pro iDNES.cz, 18. 2. 2026):  \n\n> „V současnosti je průměrný plat u policie 60 tisíc korun.“\n\n---\n\n## 1. Rozklad tvrzení\n\nAby šlo tvrzení ověřit, je potřeba upřesnit:\n\n1. **Koho se „průměrný plat u policie“ týká**\n   - obvykle jde o **příslušníky Policie ČR ve služebním poměru** (ne občanské zaměstnance),\n   - v oficiální terminologii jde o **„hrubý průměrný měsíční služební příjem“**.\n\n2. **Časové období**\n   - „V současnosti“ v rozhovoru z 18. 2. 2026 může znamenat:\n     - poslední ukončený rok, za který jsou k dispozici data (realisticky **rok 2024**, max. předběžně 2025), nebo\n     - stav **po posledním zvýšení platů na začátku roku 2026** (politicky to tak může být myšleno).\n\n3. **Číselná hodnota**\n   - tvrzení je, že **aktuální průměrný hrubý měsíční příjem policistů = 60 000 Kč**.\n\nNíže proto:\n- vysvětluji, jak stát „průměrný plat“ policistů oficiálně měří,\n- shrnuji nejnovější dostupná **tvrdá statistická čísla**,\n- popisuji známé zvýšení platů 2025–2026 a predikce,\n- porovnávám tato data s číslem 60 000 Kč.\n\n---\n\n## 2. Jak stát měří „průměrný plat“ policistů\n\n### 2.1 Oficiální pojem: „hrubý průměrný měsíční služební příjem“\n\nPolicie ČR ve vyžádaných informacích podle zákona č. 106/1999 Sb. používá pojem:  \n\n> „Hrubý průměrný měsíční služební příjem (Kč)“ – průměr za všechny příslušníky Policie ČR v daném roce. ([policie.gov.cz](https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai))  \n\nStarší přehled pro roky 2000–2019 (veřejně dostupná odpověď PČR) ukazuje například: ([policie.gov.cz](https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai))  \n\n- 2018: 44 451 Kč  \n- 2019 (1. pololetí): 46 348 Kč  \n\nTo je jasný indikátor, že stát standardně sleduje **hrubý průměrný měsíční služební příjem** (tj. součet základního tarifu + příplatků + odměn atd. / počet příslušníků).\n\n### 2.2 Potvrzení definice v novější FOIA odpovědi\n\nV odpovědi „Ženy v Policii České republiky“ (zveřejněné informace 2025) Policie ČR výslovně vysvětluje, že příslušníkům není vyplácena mzda, ale **služební příjem** tvořený: základním tarifem, příplatkem za vedení, zahraniční službu, zvláštním příplatkem, osobním příplatkem, stabilizačním příplatkem, odměnami, přesčasy atd. ([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx))  \n\nNa stejném místě je uvedeno klíčové číslo pro rok 2024 (viz níže).\n\nZ hlediska ověřovaného výroku je tedy korektní chápat „průměrný plat u policie“ jako **průměrný hrubý měsíční služební příjem příslušníků Policie ČR**.\n\n---\n\n## 3. Nejnovější oficiální údaje o průměrném platu policistů\n\n### 3.1 Rok 2024 – přímý oficiální údaj Policie ČR\n\nVe výše zmíněné FOIA odpovědi „Ženy v Policii České republiky“ (Zveřejněné informace 2025) je uvedeno: ([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx))  \n\n> „Průměrný měsíční služební příjem příslušníků Policie České republiky bez rozlišení pohlaví v roce 2024 činil **55 981 Kč**.“\n\nTo je **nejpřímější a primární oficiální statistika** k průměrnému příjmu policistů za celý rok 2024.\n\n### 3.2 Další oficiální či polooficiální zdroje – 56 308 Kč\n\nŘada dalších zdrojů (včetně samotné Policie ČR) uvádí velmi blízkou hodnotu **56 308 Kč** jako „průměrný plat u policie“ za rok 2023 nebo 2024; všechny odkazují na náborové materiály Policie ČR:\n\n- Náborová stránka PČR „Nabízíme“ uvádí:  \n\n  > „Průměrný plat po třech letech služby je ve výši 49 000 Kč, přičemž **průměrný plat u Policie ČR za rok 2024 byl 56 308 Kč**.“ ([nabor.policie.gov.cz](https://nabor.policie.gov.cz/clanek/nabizime.aspx))  \n\n- Stejná formulace je na hlavním webu Policie ČR v sekci „Příjem, výsluhové nároky a další benefity“: ([policie.gov.cz](https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity))  \n\n  > „… průměrný plat po třech letech služby je ve výši 43 114 Kč, **přičemž průměrný plat u Policie ČR za rok 2024 byl 56 308 Kč**.“\n\n- Česká justice v článku o zvýšení platů bezpečnostních sborů (5. 6. 2025) přebírá údaj z náborové stránky Policie:  \n\n  > „V roce 2024 byl **průměrný plat u policie 56 308 korun**.“ ([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/))  \n\n- Auto.cz v analytickém článku o dopravní policii píše:  \n\n  > „Oficiální průměrný příjem příslušníků Policie ČR za rok 2024 **činil 56 308 Kč hrubého**…“ ([auto.cz](https://www.auto.cz/dopravni-policie-jede-na-doraz-a-dalnicni-tam-uz-bez-rezervy-158769))  \n\n- ČeskéNoviny.cz cituji Metnara a současně shrnují údaje z náborové stránky:  \n\n  > „… podle informací na náborové stránce … V roce 2024 byl **průměrný plat u policie 56 308 korun**.“ ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/rakusan-bez-migracniho-paktu-by-cr-prisla-o-nastroje-proti-ilegalni-migraci/2760950))  \n\n- Podobný údaj (56 308 Kč) pro „průměrný plat u policie“ se objevuje i v řadě dalších médií (Deník, Seznam Zprávy, NOS PČR apod.), obvykle explicitně s odkazem na náborové materiály nebo policejní statistiky. ([denik.cz](https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai))  \n\n**Závěr k roku 2024:**  \n- přímá FOIA odpověď Policie ČR uvádí **55 981 Kč**,  \n- oficiální náborové materiály a z nich odvozené mediální citace uvádějí **56 308 Kč**.  \n\nRozdíl (~327 Kč, tj. cca 0,6 %) je velmi malý a lze jej přičíst rozdílné metodice (zaokrouhlení, odlišná populace, použití odhadu vs. uzavřených účetních dat). Pro posouzení Metnarova výroku lze bezpečně říci, že **poslední známý průměrný hrubý měsíční příjem policistů v roce 2024 byl zhruba 56 tisíc Kč, nikoli 60 tisíc Kč.**\n\n---\n\n## 4. Starší údaje – trend růstu před rokem 2024\n\nPro kontext růstu:\n\n- FOIA přehled 2000–2019 ukazuje růst hrubého průměrného měsíčního služebního příjmu příslušníků PČR z 18 924 Kč (2000) na 44 451 Kč (2018) a 46 348 Kč (2019, 1. pololetí). ([policie.gov.cz](https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai))  \n\n- V roce 2022/2023 zmiňuje policejní prezident Vondrášek, že „**průměrný plat u policie převyšuje 50 000 korun**“ – bez přesného čísla, ale potvrzuje úroveň těsně nad 50 000 Kč před dalšími navýšeními. ([ceska-justice.cz](https://www.ceska-justice.cz/2023/01/pocet-policistu-loni-klesl-pod-40-tisic-projedna-to-bezpecnostni-rada-statu/?utm_source=openai))  \n\n- Řada médií a odborových materiálů uvádí pro **rok 2023** „průměrný plat u policie 56 308 Kč“ – což je zjevně stejná hodnota, jaká je později používána i pro 2024, pravděpodobně z téhož policejního statistického zdroje. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-kauzy-konec-policie-v-primem-prenosu-dostat-hlidku-ke-strelbe-trvalo-38-minut-262387?utm_source=openai))  \n\nTrend tedy odpovídá postupnému růstu z cca 46 tisíc (2019) na **něco přes 50 tisíc** (cca 2022) a dále na **cca 55–56 tisíc** (2023–2024).\n\n---\n\n## 5. Informace o zvýšení platů po roce 2024 (2025–2026)\n\nMetnarův výrok z února 2026 je zároveň zasazen do politického kontextu výraznějšího zvyšování platů bezpečnostních sborů v letech 2025–2026.\n\n### 5.1 Zvyšování v roce 2025\n\nNěkolik zdrojů popisuje konkrétní kroky vlády od roku 2025:\n\n- Článek KupníSíla.cz (30. 12. 2024) shrnuje, že od 1. 1. 2025:  \n  - základní platové tarify bezpečnostních sborů (včetně policistů) **rostou o 1 500 Kč**,  \n  - uvádí platové tabulky platné od 1. 1. 2025 (1. třída od 24 800 Kč, 11. třída 69 950 Kč). ([kupnisila.cz](https://www.kupnisila.cz/plat-policisty-hasice/))  \n\n- Česká justice (5. 6. 2025) popisuje další krok vlády:  \n  - od 1. 7. 2025 mají policisté a hasiči **o 3 000 Kč vyšší měsíční výplatu** díky navýšení stabilizačního příplatku,  \n  - ministr vnitra Rakušan současně oznámil, že **od roku 2026 se policistům a hasičům zvýší platové tarify**, výchozím bodem pro vyjednávání má být **+5 %**,  \n  - článek zároveň uvádí, že **průměrný plat u policie v roce 2024 byl 56 308 Kč** (citace z náborové stránky PČR). ([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/))  \n\n- Unie bezpečnostních složek (UBS) ve vyjádření z 27. 10. 2024, opřeném o informace policejního prezidia, uvádí: ([uniebs.cz](https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai))  \n  - „pro rok 2024 je průměrný plat všech policistů cca **55 000 Kč hrubého**“ (zjevně hrubý odhad na úrovni FOIA 55 981 Kč),  \n  - „Policejní prezidium aktuálně **predikuje, že průměrný plat policisty má v roce 2025 dosáhnout částky kolem 57 700 Kč hrubého**“,  \n  - k tomu dodává, že jde o nárůst o cca 2 700 Kč oproti 2024.\n\nTedy už před Metnarovým výrokem existuje **policejní interní predikce**, že v roce 2025 by průměrný plat policistů měl být **asi 57 700 Kč**.\n\n### 5.2 Plánovaná zvýšení v letech 2026–2027\n\n- Deník.cz v článku o platech policistů a hasičů uvádí, že mají **„garantovaný růst platů i v letech 2026 a 2027“**, přičemž **„navýšení objemu prostředků na platy má být o 5 procent“**. ([denik.cz](https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai))  \n\n- Seznam Zprávy už v srpnu 2024 připomínají slib ministra vnitra Rakušana, že **platy policistů budou v následujících třech letech růst o 5 % ročně**. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-kauzy-konec-policie-v-primem-prenosu-dostat-hlidku-ke-strelbe-trvalo-38-minut-262387?utm_source=openai))  \n\n- Po nástupu Lubomíra Metnara do funkce ministra vnitra (prosinec 2025) Českénoviny.cz shrnují, že:  \n  - od července 2025 už proběhlo zvýšení o 3 000 Kč (stabilizační příplatek),  \n  - **od příštího roku (2026) se mají policistům a hasičům zvýšit platové tarify o 5 %**,  \n  - současně uvádějí, že „v roce 2024 byl průměrný plat u policie 56 308 korun“. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/rakusan-bez-migracniho-paktu-by-cr-prisla-o-nastroje-proti-ilegalni-migraci/2760950))  \n\n---\n\n## 6. Jak blízko k 60 000 Kč se podle dostupných údajů reálně nacházíme?\n\n### 6.1 Poslední oficiálně doložený průměr (rok 2024)\n\n- **FOIA Policie ČR (Women in Police)**: 55 981 Kč (průměrný měsíční služební příjem v roce 2024). ([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx))  \n- **Náborové materiály PČR a z nich odvozené mediální citace**: 56 308 Kč (průměrný plat u Policie ČR za rok 2024). ([policie.gov.cz](https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity))  \n\nRozdíl mezi 55 981 a 56 308 Kč je zanedbatelný (řádově 0,5–1 %). Lze tedy zjednodušeně říci, že **reálně doložený průměrný plat u policie v roce 2024 byl ~56 tis. Kč**.\n\nVe vztahu k Metnarovu tvrzení 60 000 Kč:\n\n- 60 000 Kč je oproti 56 000 cca **o 7 % vyšší**.\n- V okamžiku, kdy byla tato data známa (FOIA z března 2025, náborová stránka aktualizovaná 2025/2026), **oficiální průměr nebyl 60 tisíc, ale zhruba 56 tisíc**.\n\n### 6.2 Predikce a odhady pro rok 2025\n\nPodle vyjádření Unie bezpečnostních složek, opírajícího se o predikci policejního prezidia: ([uniebs.cz](https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai))  \n\n- Průměrný plat všech policistů v roce 2024: cca 55 000 Kč,  \n- Predikovaný průměrný plat v roce 2025: cca **57 700 Kč**.\n\nPokud tento odhad odpovídá realitě, pak:\n\n- Další nárůst z 55 981–56 308 na cca 57 700 Kč by představoval růst zhruba **o 3–4 %** mezi 2024 a 2025.\n- Hodnota **57–58 tisíc Kč v roce 2025** je stále **pod hranicí 60 000 Kč**, ale už relativně blízko (rozdíl cca 4 %).\n\n### 6.3 Možný dopad plánovaného navýšení v roce 2026\n\nPlán vlády a MV (ještě za ministra Rakušana) i následné potvrzení Metnarem počítají s tím, že **od roku 2026 se platové tarify policistů zvýší o cca 5 %**, přičemž stabilizační příplatky přidané v roce 2025 mají zůstat zachovány. ([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/))  \n\nPokud čistě **orientačně** vezmeme:\n\n- predikovaný průměr pro 2025: 57 700 Kč,  \n- a aplikujeme navýšení 5 % (pouze jako hrubý odhad, i když ve skutečnosti se 5 % vztahuje na tarif, ne na celkový příjem),\n\ndostaneme:\n\n- 57 700 Kč × 1,05 ≈ **60 600 Kč**.\n\nTedy **po navýšení v roce 2026 by se teoretický průměrný plat policisty opravdu mohl pohybovat kolem 60 tisíc Kč**. Tato hodnota je však:\n\n- **zatím nikde oficiálně statisticky zveřejněná** (k 18. 2. 2026 nejsou pro rok 2025 ani 2026 veřejné kompletní statistiky obdobné FOIA „Women in Police“),  \n- jde o **odhad založený na kombinaci predikce policejního prezidia pro 2025 a politického slibu +5 % od 2026**.\n\n---\n\n## 7. Shrnutí důkazů ve vztahu k tvrzení „v současnosti je průměrný plat u policie 60 tisíc korun“\n\n### 7.1 Co říkají tvrdá, oficiální data\n\n- **Nejnovější oficiálně publikovaná statistika PČR (FOIA, březen 2025) pro celý rok 2024**:  \n  - „Průměrný měsíční služební příjem příslušníků PČR v roce 2024 činil 55 981 Kč.“ ([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx))  \n\n- **Oficiální náborové materiály Policie ČR a četné mediální citace** uvádějí „průměrný plat u Policie ČR za rok 2024 byl 56 308 Kč“. ([policie.gov.cz](https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity))  \n\n=> Podle **posledních skutečných účetních dat** se průměrný plat u policie **v roce 2024 pohyboval kolem 56 000 Kč**, nikoli 60 000 Kč.\n\n### 7.2 Co říkají predikce a politické plány\n\n- Policejní prezidium podle UBS predikovalo, že **průměrný plat policisty v roce 2025 má být cca 57 700 Kč hrubého**. ([uniebs.cz](https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai))  \n- Vláda (ještě za ministra Rakušana) i Metnar plánují/počítají s **navýšením platových tarifů policistů o cca 5 % od roku 2026**, nad rámec již realizovaných zvýšení v roce 2025. ([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/))  \n\nČistě početně tedy:\n\n- **2024**: doložený průměr ~56 tis. Kč,  \n- **2025 (predikce)**: ~57,7 tis. Kč,  \n- **2026 (hrubý teoretický odhad po +5 % na tarify)**: kolem 60 tis. Kč.\n\n### 7.3 Interpretace tvrzení\n\n- **Doslovně vůči posledním známým tvrdým datům (rok 2024)**  \n  – tvrzení „v současnosti je průměrný plat u policie 60 tisíc korun“ **neodpovídá zveřejněným statistikám**. Poslední známý průměr je přibližně 56 tisíc Kč, tedy zhruba o 7 % méně.\n\n- **Pokud však „v současnosti“ ministr chápe jako novou úroveň po plánovaném navýšení v roce 2026 a zaokrouhluje**:  \n  – dostupné predikce (57,7 tis. pro rok 2025 + 5 % navýšení tarifů) implikují **teoretickou průměrnou úroveň kolem 60 tisíc Kč**,  \n  – pro takový odhad ale **zatím (k datu výroku) neexistují oficiálně publikovaná statistická čísla**, jde o **politicko-odhadový údaj**, nikoli o potvrzenou statistiku.\n\n---\n\n## 8. Přehled klíčových použitých zdrojů (výběr)\n\n1. **Policie ČR – Ženy v Policii České republiky (Zveřejněné informace 2025)** – FOIA odpověď, kde je uvedeno „Průměrný měsíční služební příjem příslušníků Policie ČR v roce 2024 činil 55 981 Kč.“ ([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx))  \n\n2. **Policie ČR – Příjem, výsluhové nároky a další benefity / Náborová stránka „Nabízíme“** – náborové texty uvádějící „průměrný plat u Policie ČR za rok 2024 byl 56 308 Kč“. ([policie.gov.cz](https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity))  \n\n3. **Policie ČR – Služební příjem (Zveřejněné informace 2019)** – přehled „Hrubý průměrný měsíční služební příjem“ příslušníků Policie ČR 2000–2019. ([policie.gov.cz](https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai))  \n\n4. **Česká justice (5. 6. 2025) – „Nepřijatelné! Policisté dostanou přidáno. A co Vězeňská služba?“** – popis navýšení o 3 000 Kč od července 2025, plánovaného navýšení tarifů o 5 % od 2026 a převzetí údaje „v roce 2024 byl průměrný plat u policie 56 308 Kč“. ([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/))  \n\n5. **ČeskéNoviny.cz (15. 12. 2025) – „Metnar: Na zvýšení platů policistů a hasičů v rozpočtu na příští rok peníze jsou“** – shrnutí, že 2024 průměrný plat u policie 56 308 Kč a že v rozpočtu jsou peníze na zvýšení o 5 % od roku 2026. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/rakusan-bez-migracniho-paktu-by-cr-prisla-o-nastroje-proti-ilegalni-migraci/2760950))  \n\n6. **Unie bezpečnostních složek (UBS) – „Vyjádření Lukáše Valeše k aktuální situaci v bezpečnostních sborech“ (27. 10. 2024)** – odhad průměrného platu policistů v roce 2024 cca 55 000 Kč a predikce policejního prezidia, že v roce 2025 má průměrný plat dosáhnout cca 57 700 Kč. ([uniebs.cz](https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai))  \n\n7. **Auto.cz (30. 10. 2025) – „Dopravní policie jede na doraz. A dálniční? Tam už bez rezervy“** – uvádí „oficiální průměrný příjem příslušníků Policie ČR za rok 2024 činil 56 308 Kč“, zároveň upozorňuje, že jde o průměr včetně vyšších funkcí. ([auto.cz](https://www.auto.cz/dopravni-policie-jede-na-doraz-a-dalnicni-tam-uz-bez-rezervy-158769))  \n\n8. **Seznam Zprávy (7. 8. 2024) – „‚Konec policie v přímém přenosu.‘ …“** – rekapituluje, že v předchozím roce byl u policie průměrný plat 56 308 Kč a že Rakušan oznámil růst platů policistů o 5 % ročně v následujících třech letech. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-kauzy-konec-policie-v-primem-prenosu-dostat-hlidku-ke-strelbe-trvalo-38-minut-262387?utm_source=openai))  \n\n9. **Deník.cz – článek o platech policistů a hasičů v roce 2025** – uvádí, že průměrný plat policistů za rok 2023 se odhaduje na 56 308 Kč a že policisté a hasiči mají garantovaný růst platu o 5 % v letech 2026 a 2027. ([denik.cz](https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai))  \n\n10. **KupníSíla.cz (30. 12. 2024) – „Plat policisty, hasiče a dalších příslušníků v roce 2025“** – shrnuje navýšení tarifů o 1 500 Kč od 1. 1. 2025 a uvádí vlastní odhad průměrného platu policisty 52 638 Kč (odlišná metodika, sekundární zdroj). ([kupnisila.cz](https://www.kupnisila.cz/plat-policisty-hasice/))  \n\nTyto zdroje společně poskytují obraz o tom, že:\n\n- **ověřitelná oficiální průměrná hodnota pro rok 2024 je kolem 56 tis. Kč**,  \n- **politické a interní predikce naznačují přibližný posun k hranici 60 tis. Kč až po navýšení v roce 2026**,  \n- tvrzení, že „už nyní“ (v době výroku) je průměrný plat 60 tisíc Kč, **není v dostupných oficiálních statistikách přímo podloženo** a opírá se spíše o zaokrouhlení a anticipaci budoucího stavu než o zveřejněná data.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in iDNES.cz released on 2026-02-18 available from https://www.idnes.cz/zpravy/domaci/lubomir-metnar-zvysovani-platu-policie-zbranova-legislativa-bezpecnost-migranti.A260217_204844_domaci_krou?zdroj=otvirak.\\n\\n\\nThe claim was made by: Lubomír Metnar, Ministr vnitra\\n\\n\\nThe claim appears in the following immediate context in the source:\\nVláda chystá zpřísnění azylového zákona. Podle ministra vnitra Lubomíra Metnara (ANO) je problém zejména v chybějící digitalizaci agend, kvůli které stát v podstatě neví, kdo se v něm pohybuje. „Těžko se mi to říká, ale Česko nemá přehled o tom, kdo je na jeho území. Agendy nejsou digitalizované a je to velké bezpečnostní riziko,“ říká v rozhovoru pro iDNES.cz Metnar. Mluví i o platech policistů a hasičů či budoucnosti policejního prezidenta.\\nZačněme otázkou, která teď zajímá policisty, hasiče a další členy bezpečnostních sborů. V programovém prohlášení jim všem slibujete přidání, nástupní plat chcete zvednout hromadně na 50 tisíc korun. Kdy se tak podle vás stane?\\nNejdřív řeknu, proč to děláme. My tím hasíme chaos, který vytvořila minulá vláda, když jednostranně navýšila platy vojákům, a to poměrně skokově, a tím se rozevřely nůžky mezi nimi a příslušníky bezpečnostních sborů. Je to reálný problém a my potřebujeme, aby se ty nůžky přivřely a platově byla tato zaměstnání konkurenceschopná.\\nJak na to tedy půjdete?\\nNavýšení nástupních platů policistů a hasičů plánujeme v rámci celého volebního období, protože jsme proti tomu, aby docházelo ke skokovému navýšení, které by vytvářelo rozdíly a mohlo i ohrozit stabilitu rozpočtu. Těch 50 tisíc korun u nástupních platů není částka vycucaná z prstu, děláme to s ohledem na konkurenceschopnost i s přihlédnutím k situaci v zahraničí. V současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun. Celkově to máme spočítané tak, že po celé naše volební období budeme přidávat každý rok na platy bezpečnostních sborů 2,5 miliardy korun.\\nTakže platy porostou začínajícím policistům a hasičům postupně. Ale o kolik?\\nJen vysvětlím, ten rozdíl mezi aktuálním platem a tou naší avizovanou částkou je dnes zhruba 20 procent. Letos se přidalo pět procent, a když každý rok přidáme plus minus dalších pět procent, tak bychom měli za celé volební období smáznout ten rozdíl, aby se nástupním platem dostali na 50 tisíc. Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.\\nZatím se bavíme o platech nově příchozích. Dočkají se ale navýšení platů do budoucna plošně i ostatní policisté a hasiči, kteří ve sboru působí už řadu let?\\nNavyšování platů se musí propsat i do vyšších tříd všem policistům, protože nemůže dojít k situaci, aby měl nastupující policista vyšší plat než ten, který slouží třeba pět let. Takže to se propíše, ale bude to proporcionální. V současnosti je průměrný plat u policie 60 tisíc korun, což je zase na druhou stranu pěkný plat. Nejvíc ale potřebují přidat policisté v nízkých platových třídách, a úplně nejmíň naopak vysocí funkcionáři, u nich s nějakým enormním navýšením nepočítám.\\nTakže to pětiprocentní navýšení za rok podle vás nebude pro všechny?\\nVůbec ne, tak to ani nelze udělat.\\n\\nProvide a structured, citation-backed verification of the claim: 'V současnosti je průměrný plat u policie 60 tisíc korun.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 502.01 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Dostupná oficiální data ukazují, že průměrný hrubý měsíční služební příjem policistů v roce 2024 činil zhruba 56 tisíc korun. Hodnota 60 tisíc je zatím jen hrubým odhadem budoucího stavu, nikoli doloženým aktuálním průměrem.</p>\n\n<p>Lubomír Metnar jako nový ministr vnitra v rozhovoru pro server iDNES.cz 18. února 2026 mluvil o platech policistů a uvedl, že průměrný plat u policie „v současnosti“ dosahuje 60 tisíc korun. Ověřovali jsme, zda tento údaj odpovídá nejnovějším dostupným oficiálním statistikám o odměňování příslušníků Policie ČR.</p>\n\n<p>Policie ČR v oficiálních materiálech nepoužívá pojem mzda, ale služební příjem. V odpovědi na žádost podle zákona č. 106/1999 Sb. o ženách v Policii ČR, zveřejněné na stránkách <a href=\"https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx\">Policie ČR</a>, je popsáno, že příslušníkům není vyplácena mzda, ale souhrnný služební příjem tvořený tarifem a různými příplatky a odměnami. Stejný dokument pak pracuje s ukazatelem „průměrný měsíční služební příjem“ pro všechny příslušníky v daném roce. Starší přehled služebních příjmů za roky 2000–2019 na webu <a href=\"https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai\">Policie ČR</a> používá obdobný termín „hrubý průměrný měsíční služební příjem“. Je tedy přiměřené chápat výraz „průměrný plat u policie“ tak, jak ho běžně používá sama Policie ČR – jako hrubý průměrný měsíční služební příjem příslušníků Policie ČR ve služebním poměru, bez civilních zaměstnanců.</p>\n\n<p>Nejnovější kompletní oficiální číslo, které jsme dohledali, se týká roku 2024. V uvedené odpovědi o ženách v Policii ČR se píše, že <i>„průměrný měsíční služební příjem příslušníků Policie České republiky bez rozlišení pohlaví v roce 2024 činil 55&nbsp;981&nbsp;Kč“</i>, jak uvádí <a href=\"https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx\">Policie ČR</a>. Toto číslo představuje hrubý průměr za všechny příslušníky za celý rok 2024.</p>\n\n<p>Vedle toho náborové materiály Policie ČR pracují s velmi blízkou hodnotou. V sekci <a href=\"https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity\">„Příjem, výsluhové nároky a další benefity“</a> se uvádí, že <i>„průměrný plat u Policie ČR za rok 2024 byl 56&nbsp;308&nbsp;Kč“</i>. Stejné číslo přebírají i náborové stránky <a href=\"https://nabor.policie.gov.cz/clanek/nabizime.aspx\">nabor.policie.gov.cz</a> a dále například server <a href=\"https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/\">Česká justice</a> či portál <a href=\"https://www.auto.cz/dopravni-policie-jede-na-doraz-a-dalnicni-tam-uz-bez-rezervy-158769\">Auto.cz</a>, které výslovně píší, že oficiální průměrný příjem příslušníků Policie ČR za rok 2024 činil 56&nbsp;308&nbsp;Kč hrubého. Rozdíl mezi 55&nbsp;981 a 56&nbsp;308&nbsp;Kč je menší než jedno procento a lze ho vysvětlit odlišnou metodikou či zaokrouhlováním; v obou případech jde ale zjevně o tentýž statistický ukazatel.</p>\n\n<p>Starší přehled služebních příjmů, který Policie ČR zveřejnila v rámci zodpovězení žádosti podle zákona 106/1999 Sb. pro roky 2000–2019, potvrzuje dlouhodobý růst mezd. V tabulce na stránce <a href=\"https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai\">„Služební příjem“</a> je uvedeno, že hrubý průměrný měsíční služební příjem vzrostl z 18&nbsp;924&nbsp;Kč v roce 2000 na 44&nbsp;451&nbsp;Kč v roce 2018 a 46&nbsp;348&nbsp;Kč v první polovině roku 2019. To odpovídá tomu, že se průměr policistů v posledních letech postupně přibližoval hranici kolem 50 tisíc a poté ji překročil až k úrovni zhruba 56 tisíc korun v roce 2024.</p>\n\n<p>Další informace přinášejí odborové organizace. Unie bezpečnostních složek ve vyjádření zveřejněném na svém webu <a href=\"https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai\">Unie bezpečnostních složek</a> v říjnu 2024 píše, že podle informací od policejního prezidia je pro rok 2024 průměrný plat všech policistů „cca 55&nbsp;000&nbsp;Kč hrubého“ a že prezidium predikuje pro rok 2025 průměrný plat kolem 57&nbsp;700&nbsp;Kč hrubého. Jde tedy výslovně o predikci pro následující rok, nikoli o již uzavřená účetní data.</p>\n\n<p>Současně vláda v posledních letech platy policistů postupně navyšuje. Podle přehledu na portálu <a href=\"https://www.kupnisila.cz/plat-policisty-hasice/\">KupníSíla.cz</a>, který shrnuje platové tabulky bezpečnostních sborů, vzrostly od 1. ledna 2025 tarifní platy příslušníků bezpečnostních sborů včetně policistů o 1&nbsp;500&nbsp;Kč měsíčně. Server <a href=\"https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/\">Česká justice</a> pak popisuje, že od 1. července 2025 se policistům a hasičům zvýšil stabilizační příplatek o 3&nbsp;000&nbsp;Kč měsíčně a že ministerstvo vnitra zároveň oznámilo plánované zvýšení platových tarifů policistů od roku 2026, přičemž výchozím bodem pro vyjednávání má být nárůst o 5&nbsp;%. Deník v článku o platech policistů a hasičů pro rok 2025 připomíná, že zajištěn má být „garantovaný růst platů i v letech 2026 a 2027“ s navýšením objemu prostředků na platy o 5&nbsp;procent, jak uvádí text na serveru <a href=\"https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai\">Deník</a>. Podobně server <a href=\"https://www.seznamzpravy.cz/clanek/domaci-kauzy-konec-policie-v-primem-prenosu-dostat-hlidku-ke-strelbe-trvalo-38-minut-262387?utm_source=openai\">Seznam Zprávy</a> už v roce 2024 rekapituloval, že tehdejší ministr vnitra Vít Rakušan slíbil růst platů policistů o 5&nbsp;% ročně v následujících třech letech.</p>\n\n<p>Pokud shrneme tato čísla, máme k dispozici následující obraz. Oficiální statistika Policie ČR pro rok 2024 uvádí průměrný měsíční služební příjem zhruba 56 tisíc korun. Odborová organizace se s odkazem na policejní prezidium zmiňuje o predikci, že v roce 2025 má průměrný plat policistů dosáhnout přibližně 57&nbsp;700&nbsp;Kč hrubého. Vládní plány pak počítají s dalším růstem tarifních platů o 5&nbsp;% od roku 2026. Kdyby se tato predikce i plánované navýšení naplnily a promítly do celkového průměrného služebního příjmu, lze odhadovat, že se v roce 2026 může průměrné odměňování policistů skutečně přiblížit částce kolem 60 tisíc korun. Jde ale o teoretický odhad založený na očekávaném vývoji, nikoli o oficiálně zveřejněná statistická data za rok 2025 či 2026, která v době Metnarova výroku ještě k dispozici nebyla.</p>\n\n<p>Metnarův výrok obsahuje tři věcné prvky: kdo je započítán do „průměrného platu u policie“, k jakému okamžiku údaj platí („v současnosti“) a jaká je číselná hodnota (60&nbsp;000&nbsp;Kč). Výklad, že jde o průměrný hrubý měsíční služební příjem příslušníků Policie ČR včetně všech složek odměňování, odpovídá oficiální terminologii používané v dokumentech <a href=\"https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx\">Policie ČR</a> a sám o sobě není problematický.</p>\n\n<p>Rozpor nastává u časového a číselného vymezení. V době výroku (únor 2026) byla poslední kompletní oficiální statistika právě za rok 2024 a ta podle <a href=\"https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx\">Policie ČR</a> činila 55&nbsp;981&nbsp;Kč, případně podle náborových materiálů přibližně 56&nbsp;308&nbsp;Kč. Tato hodnota je zhruba o sedm procent nižší než Metnarem uváděných 60 tisíc korun. K dispozici máme sice interní predikci policejního prezidia pro rok 2025 i politický závazek vlády navyšovat tarify od roku 2026, tyto informace však mluví o budoucím očekávaném vývoji, nikoli o již dosaženém stavu. Žádný z veřejně dostupných oficiálních zdrojů neuvádí, že by v době výroku byl průměrný plat policistů skutečně na úrovni 60 tisíc korun.</p>\n\n<p>Metnar tak používá číslo, které odpovídá spíše odhadované budoucí úrovni po plánovaných navýšeních a současně zaokrouhluje směrem nahoru skutečný průměr, jenž je podle dostupných dat zatím výrazně nižší. Tím vytváří dojem, že stát už nyní policistům v průměru vyplácí 60 tisíc korun, přestože poslední ověřitelná statistika tento dojem nepotvrzuje. Výrok proto hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0fd42f6b0f9c5f0e006998956dac5881a088f5ec78f2ed8463",
+    "created_at": 1771607405.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895809d1081a0a0863d5fc82c1164",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e006998958a930081a0a701f6f1d1b058bc",
+        "action": {
+          "query": "\"průměrný službní příjem\" \"Policie České republiky\" 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"průměrný službní příjem\" \"Policie České republiky\" 2023",
+            "\"průměrný službní příjem příslušníků\" Policie Ďské republiky 2022",
+            "průměrný plat u policie 2024",
+            "\"průměrný službní příjem\" \"Policie ČR\" 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e006998958d5c5481a0a9a5e303631eee9d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e006998959f80b081a0a3563f33c724fa53",
+        "action": {
+          "query": "\"průměrný službní příjem\" \"příslušníků Policie\" 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"průměrný službní příjem\" \"příslušníků Policie\" 2023",
+            "\"průměrný roční službní příjem\" \"Policie\"",
+            "\"Průměrný plat u Policie\" \"56 308\"",
+            "\"průměrný službní příjem příslušníků Policie ČR\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895a23b0c81a088cbb9067c1aefa1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699895a508b881a0b6f4188f3a0ae506",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895a77a8481a0b85965e6659f66d2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699895b0a7b081a0be46399ab43a94fc",
+        "action": {
+          "query": "\"Průměrný službní příjem\" \"příslušníků Policie České republiky\" pdf",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Průměrný službní příjem\" \"příslušníků Policie České republiky\" pdf",
+            "\"Průměrný službní příjem\" \"příslušníků Policie ČR\" \"2023\"",
+            "\"Průměrný službní příjem příslušníků\" \"bezpečnostní sbor\"",
+            "\"Průměrný měsíční službní příjem\" \"Policie\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895b57a1081a09a2f8f47a66f622d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699895b5e5dc81a0bbbc0b8c1b45ec0a",
+        "action": {
+          "query": "\"průměrný plat u Policie ČR\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"průměrný plat u Policie ČR\"",
+            "\"průměrný plat policistů\" 2023 2024 56 308",
+            "\"průměrný službní příjem\" \"bezpečnostní sbory\"",
+            "\"Policie ČR\" \"průměrný službní\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895ba81dc81a0993b6375d4a6ffa2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699895bcc84881a0a0fad68bee7c0af8",
+        "action": {
+          "query": "\"průměrný plat u policie\" \"60 tisíc\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"průměrný plat u policie\" \"60 tisíc\"",
+            "\"průměrný plat u policie\" 60 000",
+            "\"průměrný plat\" \"u policie\" 56 308",
+            "\"56 308\" \"průměrný plat u policie\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895bf42dc81a0a8ddbef6540b8e0c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699895c6170881a09a3267b4942e975b",
+        "action": {
+          "query": "\"průměrný plat\" policistů \"2025\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"průměrný plat\" policistů \"2025\"",
+            "\"průměrný plat\" \"strážců zákona\" 2024 2025",
+            "\"průměrný plat policisty\" 2024 2025",
+            "\"průměrný plat\" \"strážců zákona\" \"60 tisíc\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895cbb30081a0a6ff6154037be3ef",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699895df44c481a0a1133f1883e97e7c",
+        "action": {
+          "query": "\"prumerny sluzebni prijem\" \"bezpecnostnich sboru\" site:mvcr.cz",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"prumerny sluzebni prijem\" \"bezpecnostnich sboru\" site:mvcr.cz",
+            "\"Průměrný službní příjem\" \"příslušníků\" \"Policie\" site:mvcr.cz",
+            "\"Prumerny mesicni sluzebni prijem\" \"Policie\"",
+            "\"Pr\\u016fm\\u011brny sluzebni prijem\" \"Policie\" pdf"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895e5a12c81a08e5c5945bb02477c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699895e6384081a095adc28aa2a3a40d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895e837fc81a0846e14fe3bd819d1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699895f0a16c81a0abae246c1367c764",
+        "action": {
+          "query": "\"Průměrný měsíční službní příjem příslušníků Policie\" 2025",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Průměrný měsíční službní příjem příslušníků Policie\" 2025",
+            "\"Průměrný měsíční službní příjem\" \"v roce 2023\" \"Policie ČR\"",
+            "\"Hrubý průměrný měsíční službní příjem\" \"Policie",
+            "\"průměrný měsíční službní příjem\" \"příslušníků\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895f4869081a0bad006e96b13ffbb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699895f4f00c81a0830316708dfab13c",
+        "action": {
+          "query": "\"Průměrný měsíční službní\" site:policie.gov.cz",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Průměrný měsíční službní\" site:policie.gov.cz",
+            "\"prumerny mesicni sluzebni prijem\" site:policie.gov.cz",
+            "\"Průměrný měsíční\" \"sluzebni prijem\" \"Policie\"",
+            "\"sluzebni prijem\" \"prumerny mesicni\" \"Policie\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699895fc8bc881a099e12fac327fda5c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e0069989622827081a0bd7a77da47c062fb",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e0069989627742481a0a72024efe80ade81",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e006998963483d081a09c6a17367d7a6842",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e0069989636b44481a08ee593ca2333b39c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e006998966ff00481a09a717df2e329546d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e0069989674d5cc81a0b1e49b3ffd7cd5c7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699896ae517c81a0a30f9174877b4c0d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699896b0046481a0bad4b56aca92e18d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699896b41d4c81a0933a6b39bbe4fe9d",
+        "action": {
+          "query": "\"57700\" \"průměrný plat\" policistu",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"57700\" \"průměrný plat\" policistu",
+            "\"57 700\" \"průměrný\" \"policist",
+            "\"57700 Kč\" \"průměrný plat\" \"policie\"",
+            "\"Průměrný plat policisty\" \"57\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699896b8046081a09f1dc478c3acb6da",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0fd42f6b0f9c5f0e00699896ba88cc81a0badd53f1e6eab853",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fd42f6b0f9c5f0e00699896be497481a087853245dc34f3c4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0fd42f6b0f9c5f0e00699896ecd61481a0bb7c1d0bb67b1180",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1513,
+                "start_index": 1399,
+                "title": "Služební příjem - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 1715,
+                "start_index": 1601,
+                "title": "Služební příjem - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 2408,
+                "start_index": 2323,
+                "title": "Ženy v Policii České republiky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx"
+              },
+              {
+                "end_index": 2940,
+                "start_index": 2855,
+                "title": "Ženy v Policii České republiky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx"
+              },
+              {
+                "end_index": 3683,
+                "start_index": 3608,
+                "title": "Nábor Policie České republiky | Nabízíme",
+                "type": "url_citation",
+                "url": "https://nabor.policie.gov.cz/clanek/nabizime.aspx"
+              },
+              {
+                "end_index": 3879,
+                "start_index": 3789,
+                "title": "Příjem, výsluhové nároky a další benefity - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity"
+              },
+              {
+                "end_index": 4298,
+                "start_index": 4200,
+                "title": "Nepřijatelné! Policisté dostanou přidáno. A co Vězeňská služba? - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/"
+              },
+              {
+                "end_index": 4557,
+                "start_index": 4457,
+                "title": "Dopravní policie jede na doraz. A dálniční? Tam už bez rezervy | Auto.cz",
+                "type": "url_citation",
+                "url": "https://www.auto.cz/dopravni-policie-jede-na-doraz-a-dalnicni-tam-uz-bez-rezervy-158769"
+              },
+              {
+                "end_index": 4882,
+                "start_index": 4745,
+                "title": "Metnar: Na zvýšení platů policistů a hasičů v rozpočtu na příští rok peníze jsou | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/rakusan-bez-migracniho-paktu-by-cr-prisla-o-nastroje-proti-ilegalni-migraci/2760950"
+              },
+              {
+                "end_index": 5196,
+                "start_index": 5095,
+                "title": "Policistům a hasičům příští rok porostou platy. Polepší si o dva a půl tisíce - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai"
+              },
+              {
+                "end_index": 6062,
+                "start_index": 5948,
+                "title": "Služební příjem - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 6421,
+                "start_index": 6268,
+                "title": "Počet policistů loni klesl pod 40 tisíc, projedná to Bezpečnostní rada státu - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2023/01/pocet-policistu-loni-klesl-pod-40-tisic-projedna-to-bezpecnostni-rada-statu/?utm_source=openai"
+              },
+              {
+                "end_index": 6811,
+                "start_index": 6646,
+                "title": "„Konec policie v přímém přenosu.“ Dostat hlídku ke střelbě trvalo 38 minut - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-konec-policie-v-primem-prenosu-dostat-hlidku-ke-strelbe-trvalo-38-minut-262387?utm_source=openai"
+              },
+              {
+                "end_index": 7569,
+                "start_index": 7504,
+                "title": "Plat policisty, hasiče a dalších příslušníků v roce 2025 - Kupní Síla",
+                "type": "url_citation",
+                "url": "https://www.kupnisila.cz/plat-policisty-hasice/"
+              },
+              {
+                "end_index": 8127,
+                "start_index": 8029,
+                "title": "Nepřijatelné! Policisté dostanou přidáno. A co Vězeňská služba? - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/"
+              },
+              {
+                "end_index": 8378,
+                "start_index": 8244,
+                "title": "Vyjádření Lukáše Valeše k aktuální situaci v bezpečnostních sborech – Unie bezpečnostních složek",
+                "type": "url_citation",
+                "url": "https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai"
+              },
+              {
+                "end_index": 9185,
+                "start_index": 9084,
+                "title": "Policistům a hasičům příští rok porostou platy. Polepší si o dva a půl tisíce - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai"
+              },
+              {
+                "end_index": 9505,
+                "start_index": 9340,
+                "title": "„Konec policie v přímém přenosu.“ Dostat hlídku ke střelbě trvalo 38 minut - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-konec-policie-v-primem-prenosu-dostat-hlidku-ke-strelbe-trvalo-38-minut-262387?utm_source=openai"
+              },
+              {
+                "end_index": 10001,
+                "start_index": 9864,
+                "title": "Metnar: Na zvýšení platů policistů a hasičů v rozpočtu na příští rok peníze jsou | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/rakusan-bez-migracniho-paktu-by-cr-prisla-o-nastroje-proti-ilegalni-migraci/2760950"
+              },
+              {
+                "end_index": 10323,
+                "start_index": 10238,
+                "title": "Ženy v Policii České republiky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx"
+              },
+              {
+                "end_index": 10532,
+                "start_index": 10442,
+                "title": "Příjem, výsluhové nároky a další benefity - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity"
+              },
+              {
+                "end_index": 11226,
+                "start_index": 11092,
+                "title": "Vyjádření Lukáše Valeše k aktuální situaci v bezpečnostních sborech – Unie bezpečnostních složek",
+                "type": "url_citation",
+                "url": "https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai"
+              },
+              {
+                "end_index": 12003,
+                "start_index": 11905,
+                "title": "Nepřijatelné! Policisté dostanou přidáno. A co Vězeňská služba? - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/"
+              },
+              {
+                "end_index": 13084,
+                "start_index": 12999,
+                "title": "Ženy v Policii České republiky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx"
+              },
+              {
+                "end_index": 13312,
+                "start_index": 13222,
+                "title": "Příjem, výsluhové nároky a další benefity - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity"
+              },
+              {
+                "end_index": 13751,
+                "start_index": 13617,
+                "title": "Vyjádření Lukáše Valeše k aktuální situaci v bezpečnostních sborech – Unie bezpečnostních složek",
+                "type": "url_citation",
+                "url": "https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai"
+              },
+              {
+                "end_index": 14031,
+                "start_index": 13933,
+                "title": "Nepřijatelné! Policisté dostanou přidáno. A co Vězeňská služba? - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/"
+              },
+              {
+                "end_index": 15248,
+                "start_index": 15163,
+                "title": "Ženy v Policii České republiky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx"
+              },
+              {
+                "end_index": 15517,
+                "start_index": 15427,
+                "title": "Příjem, výsluhové nároky a další benefity - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity"
+              },
+              {
+                "end_index": 15784,
+                "start_index": 15670,
+                "title": "Služební příjem - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 16146,
+                "start_index": 16048,
+                "title": "Nepřijatelné! Policisté dostanou přidáno. A co Vězeňská služba? - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/"
+              },
+              {
+                "end_index": 16521,
+                "start_index": 16384,
+                "title": "Metnar: Na zvýšení platů policistů a hasičů v rozpočtu na příští rok peníze jsou | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/rakusan-bez-migracniho-paktu-by-cr-prisla-o-nastroje-proti-ilegalni-migraci/2760950"
+              },
+              {
+                "end_index": 16937,
+                "start_index": 16803,
+                "title": "Vyjádření Lukáše Valeše k aktuální situaci v bezpečnostních sborech – Unie bezpečnostních složek",
+                "type": "url_citation",
+                "url": "https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai"
+              },
+              {
+                "end_index": 17285,
+                "start_index": 17185,
+                "title": "Dopravní policie jede na doraz. A dálniční? Tam už bez rezervy | Auto.cz",
+                "type": "url_citation",
+                "url": "https://www.auto.cz/dopravni-policie-jede-na-doraz-a-dalnicni-tam-uz-bez-rezervy-158769"
+              },
+              {
+                "end_index": 17687,
+                "start_index": 17522,
+                "title": "„Konec policie v přímém přenosu.“ Dostat hlídku ke střelbě trvalo 38 minut - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-konec-policie-v-primem-prenosu-dostat-hlidku-ke-strelbe-trvalo-38-minut-262387?utm_source=openai"
+              },
+              {
+                "end_index": 18011,
+                "start_index": 17910,
+                "title": "Policistům a hasičům příští rok porostou platy. Polepší si o dva a půl tisíce - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai"
+              },
+              {
+                "end_index": 18325,
+                "start_index": 18260,
+                "title": "Plat policisty, hasiče a dalších příslušníků v roce 2025 - Kupní Síla",
+                "type": "url_citation",
+                "url": "https://www.kupnisila.cz/plat-policisty-hasice/"
+              }
+            ],
+            "text": "## 0. Tvrzení\n\nTvrzení k ověření (Lubomír Metnar, rozhovor pro iDNES.cz, 18. 2. 2026):  \n\n> „V současnosti je průměrný plat u policie 60 tisíc korun.“\n\n---\n\n## 1. Rozklad tvrzení\n\nAby šlo tvrzení ověřit, je potřeba upřesnit:\n\n1. **Koho se „průměrný plat u policie“ týká**\n   - obvykle jde o **příslušníky Policie ČR ve služebním poměru** (ne občanské zaměstnance),\n   - v oficiální terminologii jde o **„hrubý průměrný měsíční služební příjem“**.\n\n2. **Časové období**\n   - „V současnosti“ v rozhovoru z 18. 2. 2026 může znamenat:\n     - poslední ukončený rok, za který jsou k dispozici data (realisticky **rok 2024**, max. předběžně 2025), nebo\n     - stav **po posledním zvýšení platů na začátku roku 2026** (politicky to tak může být myšleno).\n\n3. **Číselná hodnota**\n   - tvrzení je, že **aktuální průměrný hrubý měsíční příjem policistů = 60 000 Kč**.\n\nNíže proto:\n- vysvětluji, jak stát „průměrný plat“ policistů oficiálně měří,\n- shrnuji nejnovější dostupná **tvrdá statistická čísla**,\n- popisuji známé zvýšení platů 2025–2026 a predikce,\n- porovnávám tato data s číslem 60 000 Kč.\n\n---\n\n## 2. Jak stát měří „průměrný plat“ policistů\n\n### 2.1 Oficiální pojem: „hrubý průměrný měsíční služební příjem“\n\nPolicie ČR ve vyžádaných informacích podle zákona č. 106/1999 Sb. používá pojem:  \n\n> „Hrubý průměrný měsíční služební příjem (Kč)“ – průměr za všechny příslušníky Policie ČR v daném roce. ([policie.gov.cz](https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai))  \n\nStarší přehled pro roky 2000–2019 (veřejně dostupná odpověď PČR) ukazuje například: ([policie.gov.cz](https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai))  \n\n- 2018: 44 451 Kč  \n- 2019 (1. pololetí): 46 348 Kč  \n\nTo je jasný indikátor, že stát standardně sleduje **hrubý průměrný měsíční služební příjem** (tj. součet základního tarifu + příplatků + odměn atd. / počet příslušníků).\n\n### 2.2 Potvrzení definice v novější FOIA odpovědi\n\nV odpovědi „Ženy v Policii České republiky“ (zveřejněné informace 2025) Policie ČR výslovně vysvětluje, že příslušníkům není vyplácena mzda, ale **služební příjem** tvořený: základním tarifem, příplatkem za vedení, zahraniční službu, zvláštním příplatkem, osobním příplatkem, stabilizačním příplatkem, odměnami, přesčasy atd. ([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx))  \n\nNa stejném místě je uvedeno klíčové číslo pro rok 2024 (viz níže).\n\nZ hlediska ověřovaného výroku je tedy korektní chápat „průměrný plat u policie“ jako **průměrný hrubý měsíční služební příjem příslušníků Policie ČR**.\n\n---\n\n## 3. Nejnovější oficiální údaje o průměrném platu policistů\n\n### 3.1 Rok 2024 – přímý oficiální údaj Policie ČR\n\nVe výše zmíněné FOIA odpovědi „Ženy v Policii České republiky“ (Zveřejněné informace 2025) je uvedeno: ([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx))  \n\n> „Průměrný měsíční služební příjem příslušníků Policie České republiky bez rozlišení pohlaví v roce 2024 činil **55 981 Kč**.“\n\nTo je **nejpřímější a primární oficiální statistika** k průměrnému příjmu policistů za celý rok 2024.\n\n### 3.2 Další oficiální či polooficiální zdroje – 56 308 Kč\n\nŘada dalších zdrojů (včetně samotné Policie ČR) uvádí velmi blízkou hodnotu **56 308 Kč** jako „průměrný plat u policie“ za rok 2023 nebo 2024; všechny odkazují na náborové materiály Policie ČR:\n\n- Náborová stránka PČR „Nabízíme“ uvádí:  \n\n  > „Průměrný plat po třech letech služby je ve výši 49 000 Kč, přičemž **průměrný plat u Policie ČR za rok 2024 byl 56 308 Kč**.“ ([nabor.policie.gov.cz](https://nabor.policie.gov.cz/clanek/nabizime.aspx))  \n\n- Stejná formulace je na hlavním webu Policie ČR v sekci „Příjem, výsluhové nároky a další benefity“: ([policie.gov.cz](https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity))  \n\n  > „… průměrný plat po třech letech služby je ve výši 43 114 Kč, **přičemž průměrný plat u Policie ČR za rok 2024 byl 56 308 Kč**.“\n\n- Česká justice v článku o zvýšení platů bezpečnostních sborů (5. 6. 2025) přebírá údaj z náborové stránky Policie:  \n\n  > „V roce 2024 byl **průměrný plat u policie 56 308 korun**.“ ([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/))  \n\n- Auto.cz v analytickém článku o dopravní policii píše:  \n\n  > „Oficiální průměrný příjem příslušníků Policie ČR za rok 2024 **činil 56 308 Kč hrubého**…“ ([auto.cz](https://www.auto.cz/dopravni-policie-jede-na-doraz-a-dalnicni-tam-uz-bez-rezervy-158769))  \n\n- ČeskéNoviny.cz cituji Metnara a současně shrnují údaje z náborové stránky:  \n\n  > „… podle informací na náborové stránce … V roce 2024 byl **průměrný plat u policie 56 308 korun**.“ ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/rakusan-bez-migracniho-paktu-by-cr-prisla-o-nastroje-proti-ilegalni-migraci/2760950))  \n\n- Podobný údaj (56 308 Kč) pro „průměrný plat u policie“ se objevuje i v řadě dalších médií (Deník, Seznam Zprávy, NOS PČR apod.), obvykle explicitně s odkazem na náborové materiály nebo policejní statistiky. ([denik.cz](https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai))  \n\n**Závěr k roku 2024:**  \n- přímá FOIA odpověď Policie ČR uvádí **55 981 Kč**,  \n- oficiální náborové materiály a z nich odvozené mediální citace uvádějí **56 308 Kč**.  \n\nRozdíl (~327 Kč, tj. cca 0,6 %) je velmi malý a lze jej přičíst rozdílné metodice (zaokrouhlení, odlišná populace, použití odhadu vs. uzavřených účetních dat). Pro posouzení Metnarova výroku lze bezpečně říci, že **poslední známý průměrný hrubý měsíční příjem policistů v roce 2024 byl zhruba 56 tisíc Kč, nikoli 60 tisíc Kč.**\n\n---\n\n## 4. Starší údaje – trend růstu před rokem 2024\n\nPro kontext růstu:\n\n- FOIA přehled 2000–2019 ukazuje růst hrubého průměrného měsíčního služebního příjmu příslušníků PČR z 18 924 Kč (2000) na 44 451 Kč (2018) a 46 348 Kč (2019, 1. pololetí). ([policie.gov.cz](https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai))  \n\n- V roce 2022/2023 zmiňuje policejní prezident Vondrášek, že „**průměrný plat u policie převyšuje 50 000 korun**“ – bez přesného čísla, ale potvrzuje úroveň těsně nad 50 000 Kč před dalšími navýšeními. ([ceska-justice.cz](https://www.ceska-justice.cz/2023/01/pocet-policistu-loni-klesl-pod-40-tisic-projedna-to-bezpecnostni-rada-statu/?utm_source=openai))  \n\n- Řada médií a odborových materiálů uvádí pro **rok 2023** „průměrný plat u policie 56 308 Kč“ – což je zjevně stejná hodnota, jaká je později používána i pro 2024, pravděpodobně z téhož policejního statistického zdroje. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-kauzy-konec-policie-v-primem-prenosu-dostat-hlidku-ke-strelbe-trvalo-38-minut-262387?utm_source=openai))  \n\nTrend tedy odpovídá postupnému růstu z cca 46 tisíc (2019) na **něco přes 50 tisíc** (cca 2022) a dále na **cca 55–56 tisíc** (2023–2024).\n\n---\n\n## 5. Informace o zvýšení platů po roce 2024 (2025–2026)\n\nMetnarův výrok z února 2026 je zároveň zasazen do politického kontextu výraznějšího zvyšování platů bezpečnostních sborů v letech 2025–2026.\n\n### 5.1 Zvyšování v roce 2025\n\nNěkolik zdrojů popisuje konkrétní kroky vlády od roku 2025:\n\n- Článek KupníSíla.cz (30. 12. 2024) shrnuje, že od 1. 1. 2025:  \n  - základní platové tarify bezpečnostních sborů (včetně policistů) **rostou o 1 500 Kč**,  \n  - uvádí platové tabulky platné od 1. 1. 2025 (1. třída od 24 800 Kč, 11. třída 69 950 Kč). ([kupnisila.cz](https://www.kupnisila.cz/plat-policisty-hasice/))  \n\n- Česká justice (5. 6. 2025) popisuje další krok vlády:  \n  - od 1. 7. 2025 mají policisté a hasiči **o 3 000 Kč vyšší měsíční výplatu** díky navýšení stabilizačního příplatku,  \n  - ministr vnitra Rakušan současně oznámil, že **od roku 2026 se policistům a hasičům zvýší platové tarify**, výchozím bodem pro vyjednávání má být **+5 %**,  \n  - článek zároveň uvádí, že **průměrný plat u policie v roce 2024 byl 56 308 Kč** (citace z náborové stránky PČR). ([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/))  \n\n- Unie bezpečnostních složek (UBS) ve vyjádření z 27. 10. 2024, opřeném o informace policejního prezidia, uvádí: ([uniebs.cz](https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai))  \n  - „pro rok 2024 je průměrný plat všech policistů cca **55 000 Kč hrubého**“ (zjevně hrubý odhad na úrovni FOIA 55 981 Kč),  \n  - „Policejní prezidium aktuálně **predikuje, že průměrný plat policisty má v roce 2025 dosáhnout částky kolem 57 700 Kč hrubého**“,  \n  - k tomu dodává, že jde o nárůst o cca 2 700 Kč oproti 2024.\n\nTedy už před Metnarovým výrokem existuje **policejní interní predikce**, že v roce 2025 by průměrný plat policistů měl být **asi 57 700 Kč**.\n\n### 5.2 Plánovaná zvýšení v letech 2026–2027\n\n- Deník.cz v článku o platech policistů a hasičů uvádí, že mají **„garantovaný růst platů i v letech 2026 a 2027“**, přičemž **„navýšení objemu prostředků na platy má být o 5 procent“**. ([denik.cz](https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai))  \n\n- Seznam Zprávy už v srpnu 2024 připomínají slib ministra vnitra Rakušana, že **platy policistů budou v následujících třech letech růst o 5 % ročně**. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-kauzy-konec-policie-v-primem-prenosu-dostat-hlidku-ke-strelbe-trvalo-38-minut-262387?utm_source=openai))  \n\n- Po nástupu Lubomíra Metnara do funkce ministra vnitra (prosinec 2025) Českénoviny.cz shrnují, že:  \n  - od července 2025 už proběhlo zvýšení o 3 000 Kč (stabilizační příplatek),  \n  - **od příštího roku (2026) se mají policistům a hasičům zvýšit platové tarify o 5 %**,  \n  - současně uvádějí, že „v roce 2024 byl průměrný plat u policie 56 308 korun“. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/rakusan-bez-migracniho-paktu-by-cr-prisla-o-nastroje-proti-ilegalni-migraci/2760950))  \n\n---\n\n## 6. Jak blízko k 60 000 Kč se podle dostupných údajů reálně nacházíme?\n\n### 6.1 Poslední oficiálně doložený průměr (rok 2024)\n\n- **FOIA Policie ČR (Women in Police)**: 55 981 Kč (průměrný měsíční služební příjem v roce 2024). ([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx))  \n- **Náborové materiály PČR a z nich odvozené mediální citace**: 56 308 Kč (průměrný plat u Policie ČR za rok 2024). ([policie.gov.cz](https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity))  \n\nRozdíl mezi 55 981 a 56 308 Kč je zanedbatelný (řádově 0,5–1 %). Lze tedy zjednodušeně říci, že **reálně doložený průměrný plat u policie v roce 2024 byl ~56 tis. Kč**.\n\nVe vztahu k Metnarovu tvrzení 60 000 Kč:\n\n- 60 000 Kč je oproti 56 000 cca **o 7 % vyšší**.\n- V okamžiku, kdy byla tato data známa (FOIA z března 2025, náborová stránka aktualizovaná 2025/2026), **oficiální průměr nebyl 60 tisíc, ale zhruba 56 tisíc**.\n\n### 6.2 Predikce a odhady pro rok 2025\n\nPodle vyjádření Unie bezpečnostních složek, opírajícího se o predikci policejního prezidia: ([uniebs.cz](https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai))  \n\n- Průměrný plat všech policistů v roce 2024: cca 55 000 Kč,  \n- Predikovaný průměrný plat v roce 2025: cca **57 700 Kč**.\n\nPokud tento odhad odpovídá realitě, pak:\n\n- Další nárůst z 55 981–56 308 na cca 57 700 Kč by představoval růst zhruba **o 3–4 %** mezi 2024 a 2025.\n- Hodnota **57–58 tisíc Kč v roce 2025** je stále **pod hranicí 60 000 Kč**, ale už relativně blízko (rozdíl cca 4 %).\n\n### 6.3 Možný dopad plánovaného navýšení v roce 2026\n\nPlán vlády a MV (ještě za ministra Rakušana) i následné potvrzení Metnarem počítají s tím, že **od roku 2026 se platové tarify policistů zvýší o cca 5 %**, přičemž stabilizační příplatky přidané v roce 2025 mají zůstat zachovány. ([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/))  \n\nPokud čistě **orientačně** vezmeme:\n\n- predikovaný průměr pro 2025: 57 700 Kč,  \n- a aplikujeme navýšení 5 % (pouze jako hrubý odhad, i když ve skutečnosti se 5 % vztahuje na tarif, ne na celkový příjem),\n\ndostaneme:\n\n- 57 700 Kč × 1,05 ≈ **60 600 Kč**.\n\nTedy **po navýšení v roce 2026 by se teoretický průměrný plat policisty opravdu mohl pohybovat kolem 60 tisíc Kč**. Tato hodnota je však:\n\n- **zatím nikde oficiálně statisticky zveřejněná** (k 18. 2. 2026 nejsou pro rok 2025 ani 2026 veřejné kompletní statistiky obdobné FOIA „Women in Police“),  \n- jde o **odhad založený na kombinaci predikce policejního prezidia pro 2025 a politického slibu +5 % od 2026**.\n\n---\n\n## 7. Shrnutí důkazů ve vztahu k tvrzení „v současnosti je průměrný plat u policie 60 tisíc korun“\n\n### 7.1 Co říkají tvrdá, oficiální data\n\n- **Nejnovější oficiálně publikovaná statistika PČR (FOIA, březen 2025) pro celý rok 2024**:  \n  - „Průměrný měsíční služební příjem příslušníků PČR v roce 2024 činil 55 981 Kč.“ ([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx))  \n\n- **Oficiální náborové materiály Policie ČR a četné mediální citace** uvádějí „průměrný plat u Policie ČR za rok 2024 byl 56 308 Kč“. ([policie.gov.cz](https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity))  \n\n=> Podle **posledních skutečných účetních dat** se průměrný plat u policie **v roce 2024 pohyboval kolem 56 000 Kč**, nikoli 60 000 Kč.\n\n### 7.2 Co říkají predikce a politické plány\n\n- Policejní prezidium podle UBS predikovalo, že **průměrný plat policisty v roce 2025 má být cca 57 700 Kč hrubého**. ([uniebs.cz](https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai))  \n- Vláda (ještě za ministra Rakušana) i Metnar plánují/počítají s **navýšením platových tarifů policistů o cca 5 % od roku 2026**, nad rámec již realizovaných zvýšení v roce 2025. ([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/))  \n\nČistě početně tedy:\n\n- **2024**: doložený průměr ~56 tis. Kč,  \n- **2025 (predikce)**: ~57,7 tis. Kč,  \n- **2026 (hrubý teoretický odhad po +5 % na tarify)**: kolem 60 tis. Kč.\n\n### 7.3 Interpretace tvrzení\n\n- **Doslovně vůči posledním známým tvrdým datům (rok 2024)**  \n  – tvrzení „v současnosti je průměrný plat u policie 60 tisíc korun“ **neodpovídá zveřejněným statistikám**. Poslední známý průměr je přibližně 56 tisíc Kč, tedy zhruba o 7 % méně.\n\n- **Pokud však „v současnosti“ ministr chápe jako novou úroveň po plánovaném navýšení v roce 2026 a zaokrouhluje**:  \n  – dostupné predikce (57,7 tis. pro rok 2025 + 5 % navýšení tarifů) implikují **teoretickou průměrnou úroveň kolem 60 tisíc Kč**,  \n  – pro takový odhad ale **zatím (k datu výroku) neexistují oficiálně publikovaná statistická čísla**, jde o **politicko-odhadový údaj**, nikoli o potvrzenou statistiku.\n\n---\n\n## 8. Přehled klíčových použitých zdrojů (výběr)\n\n1. **Policie ČR – Ženy v Policii České republiky (Zveřejněné informace 2025)** – FOIA odpověď, kde je uvedeno „Průměrný měsíční služební příjem příslušníků Policie ČR v roce 2024 činil 55 981 Kč.“ ([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx))  \n\n2. **Policie ČR – Příjem, výsluhové nároky a další benefity / Náborová stránka „Nabízíme“** – náborové texty uvádějící „průměrný plat u Policie ČR za rok 2024 byl 56 308 Kč“. ([policie.gov.cz](https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity))  \n\n3. **Policie ČR – Služební příjem (Zveřejněné informace 2019)** – přehled „Hrubý průměrný měsíční služební příjem“ příslušníků Policie ČR 2000–2019. ([policie.gov.cz](https://policie.gov.cz/clanek/zverejnene-informace-2019-sluzebni-prijem.aspx?utm_source=openai))  \n\n4. **Česká justice (5. 6. 2025) – „Nepřijatelné! Policisté dostanou přidáno. A co Vězeňská služba?“** – popis navýšení o 3 000 Kč od července 2025, plánovaného navýšení tarifů o 5 % od 2026 a převzetí údaje „v roce 2024 byl průměrný plat u policie 56 308 Kč“. ([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/policiste-platy-vezenska-sluzba-odbory/))  \n\n5. **ČeskéNoviny.cz (15. 12. 2025) – „Metnar: Na zvýšení platů policistů a hasičů v rozpočtu na příští rok peníze jsou“** – shrnutí, že 2024 průměrný plat u policie 56 308 Kč a že v rozpočtu jsou peníze na zvýšení o 5 % od roku 2026. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/rakusan-bez-migracniho-paktu-by-cr-prisla-o-nastroje-proti-ilegalni-migraci/2760950))  \n\n6. **Unie bezpečnostních složek (UBS) – „Vyjádření Lukáše Valeše k aktuální situaci v bezpečnostních sborech“ (27. 10. 2024)** – odhad průměrného platu policistů v roce 2024 cca 55 000 Kč a predikce policejního prezidia, že v roce 2025 má průměrný plat dosáhnout cca 57 700 Kč. ([uniebs.cz](https://www.uniebs.cz/2024/10/27/vyjadreni-lukase-valese-k-aktualni-situaci-v-bezpecnostnich-sborech/?utm_source=openai))  \n\n7. **Auto.cz (30. 10. 2025) – „Dopravní policie jede na doraz. A dálniční? Tam už bez rezervy“** – uvádí „oficiální průměrný příjem příslušníků Policie ČR za rok 2024 činil 56 308 Kč“, zároveň upozorňuje, že jde o průměr včetně vyšších funkcí. ([auto.cz](https://www.auto.cz/dopravni-policie-jede-na-doraz-a-dalnicni-tam-uz-bez-rezervy-158769))  \n\n8. **Seznam Zprávy (7. 8. 2024) – „‚Konec policie v přímém přenosu.‘ …“** – rekapituluje, že v předchozím roce byl u policie průměrný plat 56 308 Kč a že Rakušan oznámil růst platů policistů o 5 % ročně v následujících třech letech. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-kauzy-konec-policie-v-primem-prenosu-dostat-hlidku-ke-strelbe-trvalo-38-minut-262387?utm_source=openai))  \n\n9. **Deník.cz – článek o platech policistů a hasičů v roce 2025** – uvádí, že průměrný plat policistů za rok 2023 se odhaduje na 56 308 Kč a že policisté a hasiči mají garantovaný růst platu o 5 % v letech 2026 a 2027. ([denik.cz](https://www.denik.cz/ekonomika/platy-policie-hasici-2025-tabulky.html?utm_source=openai))  \n\n10. **KupníSíla.cz (30. 12. 2024) – „Plat policisty, hasiče a dalších příslušníků v roce 2025“** – shrnuje navýšení tarifů o 1 500 Kč od 1. 1. 2025 a uvádí vlastní odhad průměrného platu policisty 52 638 Kč (odlišná metodika, sekundární zdroj). ([kupnisila.cz](https://www.kupnisila.cz/plat-policisty-hasice/))  \n\nTyto zdroje společně poskytují obraz o tom, že:\n\n- **ověřitelná oficiální průměrná hodnota pro rok 2024 je kolem 56 tis. Kč**,  \n- **politické a interní predikce naznačují přibližný posun k hranici 60 tis. Kč až po navýšení v roce 2026**,  \n- tvrzení, že „už nyní“ (v době výroku) je průměrný plat 60 tisíc Kč, **není v dostupných oficiálních statistikách přímo podloženo** a opírá se spíše o zaokrouhlení a anticipaci budoucího stavu než o zveřejněná data.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 97619,
+      "input_tokens_details": {
+        "cached_tokens": 6400
+      },
+      "output_tokens": 24403,
+      "output_tokens_details": {
+        "reasoning_tokens": 18253
+      },
+      "total_tokens": 122022
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1771607876,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

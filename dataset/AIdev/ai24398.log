@@ -1,0 +1,435 @@
+{
+  "claim_id": "24398",
+  "split": "old",
+  "source_experiment": "gpt-5-m_20251027_161428",
+  "source_md": "experiments/gpt-5-m_20251027_161428/brief_fact_check_id24398.md",
+  "fact_check": "# Fact Check for Statement ID 24398\n\n## Statement\nTakový zákon (o obecném referendu, pozn. Demagog.cz) potřebuje sehnat podporu i Senátu.\n\n---\n## OpenAI Deep Research Fact Check\nStručné shrnutí závěru\n- Výrok „Takový zákon (o obecném referendu) potřebuje sehnat podporu i Senátu.“ je v zásadě správný, ale přesnost závisí na tom, o jaký typ zákona jde:\n  - Pokud by šlo o ústavní zákon, který podle Ústavy upravuje „kdy lid vykonává státní moc přímo“ (tedy právě obecné referendové pravidlo), jeho přijetí skutečně vyžaduje souhlas Senátu (třípětinová většina přítomných senátorů). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n  - Pokud by šlo pouze o běžný (obyčejný) zákon, Senát jej projedná a může ho schválit, vrátit s pozměňovacími návrhy nebo zamítnout; Poslanecká sněmovna však může zamítavé rozhodnutí Senátu přehlasovat nadpoloviční většinou všech poslanců (tj. minimálně 101 hlasů). Tedy i u obyčejného zákona je zapojení Senátu povinné, ale jeho „podpora“ může být v některých případech přemožena Sněmovnou. ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\nDetailní rozklady tvrzení a relevantní právní texty (s přesnými citacemi)\n\n1) Jak Ústava výslovně nahlíží na instituty referenda\n- Ústava říká: „Ústavní zákon může stanovit, kdy lid vykonává státní moc přímo.“ Toto ustanovení se obvykle interpretuje tak, že obecné (trvalé) pravidlo pro celostátní referendum by mělo být upraveno ústavním zákonem. (Citát z textu Ústavy: „Ústavní zákon může stanovit, kdy lid vykonává státní moc přímo.“). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\n2) Požadovaná většina pro přijetí ústavního zákona (tedy když jde o ústavní zákon o referendu)\n- Ústava: „K přijetí ústavního zákona ... je třeba souhlasu třípětinové většiny všech poslanců a třípětinové většiny přítomných senátorů.“ (Čl. 39 odst. 4). To znamená, že ústavní zákon o obecném referendu by nutně vyžadoval značnou podporu také v Senátu (min. 3/5 z přítomných senátorů). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\n3) Procedura u „běžného“ (obyčejného) zákona a role Senátu\n- Po schválení Poslaneckou sněmovnou se návrh posílá do Senátu; Senát má 30 dnů na vyjádření (schválí / vrátí s pozměňovacími návrhy / zamítne / nebo se k němu nevyjádří – v tom případě platí, že je návrh přijat). (Čl. 45–46). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n- Pokud Senát návrh zamítne, hlasuje o něm Poslanecká sněmovna znovu; návrh je přijat, jestliže je schválen nadpoloviční většinou všech poslanců (tj. alespoň 101 hlasů). (Čl. 47). To znamená, že u obyčejného zákona je Senát součástí legislativního procesu, ale Sněmovna jej může v případě zamítnutí přehlasovat. ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\n4) Praxe a kontext z dosavadní legislativy (přehled)\n- V praxi se diskuze o obecném zákonu o referendu dlouhodobě vedla s tím, že Ústava naznačuje, že by šlo o ústavní řešení; v minulosti se Poslanecká sněmovna i Senát o podobné předlohy často neshodly a Senát měl reálnou možnost blokovat přijetí (pro ilustraci: návrhy z počátku 2000. let a debaty okolo „obecného“ zákona byly Senátem považovány za problém – viz komentáře a zprávy o tom, že Senát může návrhy blokovat). ([epravo.cz](https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546.html?utm_source=openai))\n- Konkrétní případ: celostátní (jednorázové) referendum o vstupu ČR do EU v roce 2003 bylo uskutečněno na základě zvláštního zákona k tomuto účelu (zákon o provádění referenda č. 114/2003 Sb. a prováděcí vyhláška), tedy ne na základě trvalého „obecného“ zákona o referendu. To dokládá, že zákonodárci v praxi řešili některé referenda jednorázovými zákony a že otázka obecného úpravy naráží na institucionální překážky včetně postavení Senátu. ([sagit.cz](https://www.sagit.cz/info/sb03114?utm_source=openai))\n\nZávěrečné posouzení tvrzení\n- Literalně a právně: tvrzení, že „takový zákon potřebuje sehnat podporu i Senátu“, je správné, pokud mluvíme o ústavním zákoně (kterým by podle Ústavy měla být upravena otázka obecného referenda): přijetí ústavního zákona vyžaduje souhlas třípětinové většiny přítomných senátorů, takže bez podpory Senátu ústavní zákon nepřijde. ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n- Pokud by někdo argumentoval, že stačí podpora Poslanecké sněmovny (bez Senátu), je třeba upřesnit, že u obyčejného zákona může Poslanecká sněmovna Senát v určitých situacích přehlasovat (nadpoloviční většina všech poslanců), avšak text Ústavy sám o sobě naznačuje, že klíčové věci týkající se přímé participace lidu mají být řešeny ústavním zákonem — a ten Senát „sehnat“ musí. ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\nSeznam všech relevatních nalezených zdrojů (s odkazy a přesnými místy citace)\n- Ústava České republiky – oficiální text na webu Senátu (s relevantními články citovanými výše: čl. 2 odst. 2; čl. 39 odst. 4; čl. 45–47). Viz zejména pasáže: „Ústavní zákon může stanovit, kdy lid vykonává státní moc přímo.“ a „K přijetí ústavního zákona ... třípětinové většiny všech poslanců a třípětinové většiny přítomných senátorů.“ ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n  - https://www.senat.cz/informace/zakon106/zakony/ustava.php (úvod + čl. 2, čl. 39, čl. 45–47). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n- EPRAVO (právní komentář / analýza) – o tom, že ústava předpokládá možnost ústavního zákona stanovujícího, kdy lid vykonává státní moc přímo (tj. koncepce obecného referenda). ([epravo.cz](https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546.html?utm_source=openai))\n  - https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546 (komentář k institutu referenda) ([epravo.cz](https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546.html?utm_source=openai))\n- Zprávy o praxi / mediální zázemí:\n  - Zpráva, že Sněmovna v minulosti schvalovala návrhy a Senát je mohl (a mohl by) zamítnout; diskuse o tom, že Senát má schopnost „zablokovat“ ústavní zákon o referendu. (komentář Euro.cz). ([euro.cz](https://www.euro.cz/clanky/zakon-o-referendu-asi-narazi-v-senatu-876033/?utm_source=openai))\n    - https://www.euro.cz/clanky/zakon-o-referendu-asi-narazi-v-senatu-876033/ ([euro.cz](https://www.euro.cz/clanky/zakon-o-referendu-asi-narazi-v-senatu-876033/?utm_source=openai))\n  - Historický právní text / příklad: zákon č. 114/2003 Sb. (zvláštní zákon o provádění referenda o přistoupení ČR k EU) a prováděcí předpisy; rozhodnutí prezidenta o vyhlášení referenda 2003. (dokládá, že v praxi byla některá referenda řešena zvláštními zákony, nikoli trvalým „obecným“ ústavním zákonem). ([sagit.cz](https://www.sagit.cz/info/sb03114?utm_source=openai))\n    - https://www.sagit.cz/info/sb03114 (zákon o provádění referenda o přistoupení ČR k EU). ([sagit.cz](https://www.sagit.cz/info/sb03114?utm_source=openai))\n- Mediální analýza / aktuální zpravodajství (kontext, že návrhy o obecném referendu narážely na postoj Senátu): Radio Prague / 20 minut atd. (přehledy a komentáře). ([cesky.radio.cz](https://cesky.radio.cz/zpravy-8096805?utm_source=openai))\n\nKrátké shrnutí pro fact-checkera (jedna věta)\n- Ano — pokud jde o ústavní zákon o obecném referendu (což Ústava sama naznačuje jako vhodný typ právní úpravy), je podpora Senátu nezbytná (3/5 přítomných senátorů). U obyčejného zákona Senát role má a jeho postoj může legislativní proces zpomalit nebo zablokovat, avšak Poslanecká sněmovna má možnost Senát v některých případech přehlasovat (nadpoloviční většina všech poslanců). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\n(koncové poznámky: použité zdroje jsou výhradně veřejné právní texty, právní komentáře a zpravodajské články; hlavní právní prameny jsou texty Ústavy dostupné na webu Senátu a konkrétní zákony z Sbírky zákonů citované výše).\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in 20 minut Radiožurnálu released on 2025-10-22 available from https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024.\\n\\n\\nThe claim was made by: Libor Vondráček, Poslanec\\n\\n\\nThe claim appears in the following immediate context in the source:\\n\\nLibor Vondráček,\\nzvolený poslanec, předseda strany /Svobodní/\\nA to nebude možné. Nemůže za to jenom skutečnost, že máme nějaký počet hlasů po volbách v Poslanecké sněmovně, ale je to i třeba reflektovat v rámci toho, že takový zákon potřebuje sehnat podporu i Senátu.\\n\\n00:14:23\\n\\nProvide a structured, citation-backed verification of the claim: 'Takový zákon (o obecném referendu, pozn. Demagog.cz) potřebuje sehnat podporu i Senátu.'\"\n  }\n]\n\nModel: gpt-5-mini-2025-08-07\nWall time: 175.46 seconds\n## Agent work log\n```\nREASONING: \nWEB SEARCH: Česká republika návrh zákona obecné referendum schvalování Senát potřeba\nREASONING: \nWEB SEARCH: Ústava České republiky legislativní proces Poslanecká sněmovna Senát schvalování zákona přehlasování Senátu článek Ústavy\nREASONING: \nWEB SEARCH: Ústava České republiky článek 39 zákon schvalování Parlament Poslanecká sněmovna Senát 'přehlasovat' 'vetovat' text\nREASONING: **Researching constitutional laws**\n\nI’m looking into citations from senat.cz that explain the legislative process, specifically Article 46. I need to find where the Constitution discusses special laws that require approval from both chambers, such as constitutional laws that need three-fifths majority from deputies and senators. There's a query about a law regarding general referendums: figuring out if it's ordinary or constitutional law. The preamble mentions something about constitutional laws, so I’ll search for \"obecné referendum ústava.\" Let’s use web.run for that!\nWEB SEARCH: Ústava ČR obecné referendum 'stav kdy lid vykonává státní moc přímo' 'obecné referendum' 'ústavní zákon' text\nREASONING: \nWEB SEARCH: Ústava České republiky čl. 2 odst. 2 text\nREASONING: **Searching for constitutional text**\n\nI need to find the exact text of Article 39(4) from the Constitution regarding constitutional law. It's important to be precise here. I’ll start by searching within the PSP page to locate the details of Article 39. Getting this right is necessary for clarity, so I’m interested in what the article states. I wonder what insights it might hold about constitutional law! Let's take a closer look.\nWEB SEARCH: None\nREASONING: \nWEB SEARCH: Čl. 39 Ústavy třípětinová většina 'K přijetí ústavního zákona' text 'Ústava České republiky čl. 39'\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: zákon o obecném referendu 2003 Poslanecká sněmovna schválila Senát zamítl 2003 'obecné referendum 2003 Senát zamítl' \nREASONING: \nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p><strong>Stručně (max 280 znaků):</strong> Tvrzení je v zásadě správné — pokud by šlo o ústavní zákon o obecném referendu, jeho přijetí skutečně vyžaduje podporu i Senátu; u běžného zákona Senát rozhoduje, ale Poslanecká sněmovna ho v určitých případech může přehlasovat.</p>\n\n<p>Kontext: Výrok mluví o „obecném zákonu o referendu“ — tedy o trvalé úpravě podmínek pro celostátní referendum. V právní debatě se tato otázka běžně spojuje s ústavní úpravou, protože Ústava připouští, že otázky, kdy lid vykonává státní moc přímo, lze upravit ústavním zákonem.</p>\n\n<p>Faktické tvrzení 1: „Pokud jde o ústavní zákon o obecném referendu, je potřeba získat podporu i Senátu.“ My v našem výzkumu konstatujeme, že Ústava říká: <i>„Ústavní zákon může stanovit, kdy lid vykonává státní moc přímo.“</i> a dále uvádí, že <i>„k přijetí ústavního zákona ... je třeba souhlasu třípětinové většiny všech poslanců a třípětinové většiny přítomných senátorů.“</i> To znamená, že pokud by obecné pravidlo pro referendum bylo přijímáno jako ústavní zákon, bez podpory Senátu by nemohlo být přijato. Podle textu Ústavy to plyne přímo z ustanovení dostupného na stránce Senátu, kde je celý text Ústavy uveden. (<a href=\"https://www.senat.cz/informace/zakon106/zakony/ustava.php\">Ústava ČR — Senát</a>).</p>\n\n<p>Faktické tvrzení 2: „U obyčejného zákona Senát není nutný / dá se obejít.“ U obyčejného (normálního) zákona Senát rovněž vstupuje do legislativního procesu: návrh schválený Poslaneckou sněmovnou se posílá do Senátu, který může zákon schválit, vrátit s pozměňovacími návrhy nebo zamítnout. Pokud Senát návrh zamítne, může jej Poslanecká sněmovna znovu projednat a zákon přijmout opětovným hlasováním nadpoloviční většinou všech poslanců (tj. minimálně 101 hlasů). To znamená, že i když Senát má v procesu rozhodující roli, v případě obyčejného zákona existuje procedura, jak jeho zamítavé rozhodnutí přehlasovat. Toto pravidlo vyplývá z ustanovení o zákonodárném procesu, které jsou k nalezení v textu Ústavy. (<a href=\"https://www.senat.cz/informace/zakon106/zakony/ustava.php\">Ústava ČR — Senát</a>).</p>\n\n<p>Kontext a praxe: V odborné debatě je časté poukazování, že otázka „obecného“ pravidla pro referenda má spíše ústavní rozměr — proto návrhy na trvalou úpravu obvykle narážely na potřebu kompromisu se Senátem. Ilustrativně byly některá referenda (např. referendum o vstupu ČR do EU v roce 2003) řešena zvláštním zákonem pro konkrétní případ, nikoli trvalým ústavním zákonem, což ukazuje, že v praxi zákonodárci volili i jiné cesty. Na tuto praxi a analýzy jsme narazili v komentářích právních portálů a médií. (<a href=\"https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546.html\">právní komentář epravo.cz</a>, <a href=\"https://www.euro.cz/clanky/zakon-o-referendu-asi-narazi-v-senatu-876033/\">analytický článek Euro.cz</a>, <a href=\"https://www.sagit.cz/info/sb03114\">zákon č. 114/2003 Sb. — provedení referenda o vstupu do EU</a>).</p>\n\n<p>Naše závěrečné posouzení: Tvrzení „Takový zákon potřebuje sehnat podporu i Senátu“ hodnotíme jako pravdivé za těchto vysvětlených podmínek: pokud mluvčí měl na mysli ústavní zákon upravující obecné pravidlo pro referenda, podpora Senátu je nezbytná (třípětinová většina přítomných senátorů). Pokud by šlo pouze o obyčejný zákon, Senát se procesu účastní a může návrh zablokovat nebo pozměnit, avšak poslanecká většina ho může v určitých případech přehlasovat; tedy role Senátu je u obyčejného zákona významná, ale ne absolutní (viz text Ústavy). (<a href=\"https://www.senat.cz/informace/zakon106/zakony/ustava.php\">Ústava ČR — Senát</a>).</p>\n\n<p>Verdikt: pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_08ea3a7e4a3809440068ff92a49390819db2ae62b154cda28e",
+    "created_at": 1761579684.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5-mini-2025-08-07",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92aa81c4819d92d662327f36e576",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08ea3a7e4a3809440068ff92adfac0819d815291ae0a5266fd",
+        "action": {
+          "query": "Česká republika návrh zákona obecné referendum schvalování Senát potřeba",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92b794d8819db586114fa392918b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08ea3a7e4a3809440068ff92b81878819d9ac8384c961c05b9",
+        "action": {
+          "query": "Ústava České republiky legislativní proces Poslanecká sněmovna Senát schvalování zákona přehlasování Senátu článek Ústavy",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92be7254819d81b08b6db3247d3c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08ea3a7e4a3809440068ff92becd34819da4accfe70626c87e",
+        "action": {
+          "query": "Ústava České republiky článek 39 zákon schvalování Parlament Poslanecká sněmovna Senát 'přehlasovat' 'vetovat' text",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92c3e780819da108543102f4239d",
+        "summary": [
+          {
+            "text": "**Researching constitutional laws**\n\nI’m looking into citations from senat.cz that explain the legislative process, specifically Article 46. I need to find where the Constitution discusses special laws that require approval from both chambers, such as constitutional laws that need three-fifths majority from deputies and senators. There's a query about a law regarding general referendums: figuring out if it's ordinary or constitutional law. The preamble mentions something about constitutional laws, so I’ll search for \"obecné referendum ústava.\" Let’s use web.run for that!",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08ea3a7e4a3809440068ff92c75594819db6490f98bcec81a9",
+        "action": {
+          "query": "Ústava ČR obecné referendum 'stav kdy lid vykonává státní moc přímo' 'obecné referendum' 'ústavní zákon' text",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92cccfd4819d85fd26186d7fbe55",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08ea3a7e4a3809440068ff92cfeb94819d978b4aa141574d97",
+        "action": {
+          "query": "Ústava České republiky čl. 2 odst. 2 text",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92d6def0819d9db6800c4777b421",
+        "summary": [
+          {
+            "text": "**Searching for constitutional text**\n\nI need to find the exact text of Article 39(4) from the Constitution regarding constitutional law. It's important to be precise here. I’ll start by searching within the PSP page to locate the details of Article 39. Getting this right is necessary for clarity, so I’m interested in what the article states. I wonder what insights it might hold about constitutional law! Let's take a closer look.",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08ea3a7e4a3809440068ff92d949f8819db92348c55dfff3d9",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92d9687c819d9b491cea68c9e149",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08ea3a7e4a3809440068ff92da0634819da0cddf904f2065fe",
+        "action": {
+          "query": "Čl. 39 Ústavy třípětinová většina 'K přijetí ústavního zákona' text 'Ústava České republiky čl. 39'",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92e4adac819d8541982a2dc6fc11",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08ea3a7e4a3809440068ff92e5b77c819db5dcd95529bb7835",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92e9cd28819dab8272f85f148a81",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08ea3a7e4a3809440068ff92ea2810819dbff0b45750f7a46d",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92ef713c819db2b6abc552630ddc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08ea3a7e4a3809440068ff92f1a8a8819d8dab7bb3c7a06a59",
+        "action": {
+          "query": "zákon o obecném referendu 2003 Poslanecká sněmovna schválila Senát zamítl 2003 'obecné referendum 2003 Senát zamítl' ",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08ea3a7e4a3809440068ff92fb3f7c819dba07a6d153308ed7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_08ea3a7e4a3809440068ff930bc51c819db0b8ce9924c0edcf",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 475,
+                "start_index": 404,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              },
+              {
+                "end_index": 940,
+                "start_index": 869,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              },
+              {
+                "end_index": 1452,
+                "start_index": 1381,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              },
+              {
+                "end_index": 1909,
+                "start_index": 1838,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              },
+              {
+                "end_index": 2268,
+                "start_index": 2197,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              },
+              {
+                "end_index": 2652,
+                "start_index": 2581,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              },
+              {
+                "end_index": 3229,
+                "start_index": 3127,
+                "title": "Referendum stojí za pokus",
+                "type": "url_citation",
+                "url": "https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546.html?utm_source=openai"
+              },
+              {
+                "end_index": 3738,
+                "start_index": 3673,
+                "title": "ZÁKON ze dne 17. dubna 2003 o provádění referenda o přistoupení České republiky k Evropské unii a o změně některých zákonů (zákon o provádění referenda) - Sbírka zákonů - Nakladatelství Sagit, a.s.",
+                "type": "url_citation",
+                "url": "https://www.sagit.cz/info/sb03114?utm_source=openai"
+              },
+              {
+                "end_index": 4169,
+                "start_index": 4098,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              },
+              {
+                "end_index": 4621,
+                "start_index": 4550,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              },
+              {
+                "end_index": 5111,
+                "start_index": 5040,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              },
+              {
+                "end_index": 5280,
+                "start_index": 5209,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              },
+              {
+                "end_index": 5560,
+                "start_index": 5458,
+                "title": "Referendum stojí za pokus",
+                "type": "url_citation",
+                "url": "https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546.html?utm_source=openai"
+              },
+              {
+                "end_index": 5765,
+                "start_index": 5663,
+                "title": "Referendum stojí za pokus",
+                "type": "url_citation",
+                "url": "https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546.html?utm_source=openai"
+              },
+              {
+                "end_index": 6096,
+                "start_index": 5993,
+                "title": "Zákon o referendu asi narazí v Senátu - Euro.cz",
+                "type": "url_citation",
+                "url": "https://www.euro.cz/clanky/zakon-o-referendu-asi-narazi-v-senatu-876033/?utm_source=openai"
+              },
+              {
+                "end_index": 6279,
+                "start_index": 6176,
+                "title": "Zákon o referendu asi narazí v Senátu - Euro.cz",
+                "type": "url_citation",
+                "url": "https://www.euro.cz/clanky/zakon-o-referendu-asi-narazi-v-senatu-876033/?utm_source=openai"
+              },
+              {
+                "end_index": 6652,
+                "start_index": 6587,
+                "title": "ZÁKON ze dne 17. dubna 2003 o provádění referenda o přistoupení České republiky k Evropské unii a o změně některých zákonů (zákon o provádění referenda) - Sbírka zákonů - Nakladatelství Sagit, a.s.",
+                "type": "url_citation",
+                "url": "https://www.sagit.cz/info/sb03114?utm_source=openai"
+              },
+              {
+                "end_index": 6811,
+                "start_index": 6746,
+                "title": "ZÁKON ze dne 17. dubna 2003 o provádění referenda o přistoupení České republiky k Evropské unii a o změně některých zákonů (zákon o provádění referenda) - Sbírka zákonů - Nakladatelství Sagit, a.s.",
+                "type": "url_citation",
+                "url": "https://www.sagit.cz/info/sb03114?utm_source=openai"
+              },
+              {
+                "end_index": 7052,
+                "start_index": 6977,
+                "title": "Zprávy | Radio Prague International",
+                "type": "url_citation",
+                "url": "https://cesky.radio.cz/zpravy-8096805?utm_source=openai"
+              },
+              {
+                "end_index": 7553,
+                "start_index": 7482,
+                "title": "Ústava České republiky : Senát PČR",
+                "type": "url_citation",
+                "url": "https://www.senat.cz/informace/zakon106/zakony/ustava.php"
+              }
+            ],
+            "text": "Stručné shrnutí závěru\n- Výrok „Takový zákon (o obecném referendu) potřebuje sehnat podporu i Senátu.“ je v zásadě správný, ale přesnost závisí na tom, o jaký typ zákona jde:\n  - Pokud by šlo o ústavní zákon, který podle Ústavy upravuje „kdy lid vykonává státní moc přímo“ (tedy právě obecné referendové pravidlo), jeho přijetí skutečně vyžaduje souhlas Senátu (třípětinová většina přítomných senátorů). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n  - Pokud by šlo pouze o běžný (obyčejný) zákon, Senát jej projedná a může ho schválit, vrátit s pozměňovacími návrhy nebo zamítnout; Poslanecká sněmovna však může zamítavé rozhodnutí Senátu přehlasovat nadpoloviční většinou všech poslanců (tj. minimálně 101 hlasů). Tedy i u obyčejného zákona je zapojení Senátu povinné, ale jeho „podpora“ může být v některých případech přemožena Sněmovnou. ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\nDetailní rozklady tvrzení a relevantní právní texty (s přesnými citacemi)\n\n1) Jak Ústava výslovně nahlíží na instituty referenda\n- Ústava říká: „Ústavní zákon může stanovit, kdy lid vykonává státní moc přímo.“ Toto ustanovení se obvykle interpretuje tak, že obecné (trvalé) pravidlo pro celostátní referendum by mělo být upraveno ústavním zákonem. (Citát z textu Ústavy: „Ústavní zákon může stanovit, kdy lid vykonává státní moc přímo.“). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\n2) Požadovaná většina pro přijetí ústavního zákona (tedy když jde o ústavní zákon o referendu)\n- Ústava: „K přijetí ústavního zákona ... je třeba souhlasu třípětinové většiny všech poslanců a třípětinové většiny přítomných senátorů.“ (Čl. 39 odst. 4). To znamená, že ústavní zákon o obecném referendu by nutně vyžadoval značnou podporu také v Senátu (min. 3/5 z přítomných senátorů). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\n3) Procedura u „běžného“ (obyčejného) zákona a role Senátu\n- Po schválení Poslaneckou sněmovnou se návrh posílá do Senátu; Senát má 30 dnů na vyjádření (schválí / vrátí s pozměňovacími návrhy / zamítne / nebo se k němu nevyjádří – v tom případě platí, že je návrh přijat). (Čl. 45–46). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n- Pokud Senát návrh zamítne, hlasuje o něm Poslanecká sněmovna znovu; návrh je přijat, jestliže je schválen nadpoloviční většinou všech poslanců (tj. alespoň 101 hlasů). (Čl. 47). To znamená, že u obyčejného zákona je Senát součástí legislativního procesu, ale Sněmovna jej může v případě zamítnutí přehlasovat. ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\n4) Praxe a kontext z dosavadní legislativy (přehled)\n- V praxi se diskuze o obecném zákonu o referendu dlouhodobě vedla s tím, že Ústava naznačuje, že by šlo o ústavní řešení; v minulosti se Poslanecká sněmovna i Senát o podobné předlohy často neshodly a Senát měl reálnou možnost blokovat přijetí (pro ilustraci: návrhy z počátku 2000. let a debaty okolo „obecného“ zákona byly Senátem považovány za problém – viz komentáře a zprávy o tom, že Senát může návrhy blokovat). ([epravo.cz](https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546.html?utm_source=openai))\n- Konkrétní případ: celostátní (jednorázové) referendum o vstupu ČR do EU v roce 2003 bylo uskutečněno na základě zvláštního zákona k tomuto účelu (zákon o provádění referenda č. 114/2003 Sb. a prováděcí vyhláška), tedy ne na základě trvalého „obecného“ zákona o referendu. To dokládá, že zákonodárci v praxi řešili některé referenda jednorázovými zákony a že otázka obecného úpravy naráží na institucionální překážky včetně postavení Senátu. ([sagit.cz](https://www.sagit.cz/info/sb03114?utm_source=openai))\n\nZávěrečné posouzení tvrzení\n- Literalně a právně: tvrzení, že „takový zákon potřebuje sehnat podporu i Senátu“, je správné, pokud mluvíme o ústavním zákoně (kterým by podle Ústavy měla být upravena otázka obecného referenda): přijetí ústavního zákona vyžaduje souhlas třípětinové většiny přítomných senátorů, takže bez podpory Senátu ústavní zákon nepřijde. ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n- Pokud by někdo argumentoval, že stačí podpora Poslanecké sněmovny (bez Senátu), je třeba upřesnit, že u obyčejného zákona může Poslanecká sněmovna Senát v určitých situacích přehlasovat (nadpoloviční většina všech poslanců), avšak text Ústavy sám o sobě naznačuje, že klíčové věci týkající se přímé participace lidu mají být řešeny ústavním zákonem — a ten Senát „sehnat“ musí. ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\nSeznam všech relevatních nalezených zdrojů (s odkazy a přesnými místy citace)\n- Ústava České republiky – oficiální text na webu Senátu (s relevantními články citovanými výše: čl. 2 odst. 2; čl. 39 odst. 4; čl. 45–47). Viz zejména pasáže: „Ústavní zákon může stanovit, kdy lid vykonává státní moc přímo.“ a „K přijetí ústavního zákona ... třípětinové většiny všech poslanců a třípětinové většiny přítomných senátorů.“ ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n  - https://www.senat.cz/informace/zakon106/zakony/ustava.php (úvod + čl. 2, čl. 39, čl. 45–47). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n- EPRAVO (právní komentář / analýza) – o tom, že ústava předpokládá možnost ústavního zákona stanovujícího, kdy lid vykonává státní moc přímo (tj. koncepce obecného referenda). ([epravo.cz](https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546.html?utm_source=openai))\n  - https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546 (komentář k institutu referenda) ([epravo.cz](https://www.epravo.cz/top/clanky/referendum-stoji-za-pokus-47546.html?utm_source=openai))\n- Zprávy o praxi / mediální zázemí:\n  - Zpráva, že Sněmovna v minulosti schvalovala návrhy a Senát je mohl (a mohl by) zamítnout; diskuse o tom, že Senát má schopnost „zablokovat“ ústavní zákon o referendu. (komentář Euro.cz). ([euro.cz](https://www.euro.cz/clanky/zakon-o-referendu-asi-narazi-v-senatu-876033/?utm_source=openai))\n    - https://www.euro.cz/clanky/zakon-o-referendu-asi-narazi-v-senatu-876033/ ([euro.cz](https://www.euro.cz/clanky/zakon-o-referendu-asi-narazi-v-senatu-876033/?utm_source=openai))\n  - Historický právní text / příklad: zákon č. 114/2003 Sb. (zvláštní zákon o provádění referenda o přistoupení ČR k EU) a prováděcí předpisy; rozhodnutí prezidenta o vyhlášení referenda 2003. (dokládá, že v praxi byla některá referenda řešena zvláštními zákony, nikoli trvalým „obecným“ ústavním zákonem). ([sagit.cz](https://www.sagit.cz/info/sb03114?utm_source=openai))\n    - https://www.sagit.cz/info/sb03114 (zákon o provádění referenda o přistoupení ČR k EU). ([sagit.cz](https://www.sagit.cz/info/sb03114?utm_source=openai))\n- Mediální analýza / aktuální zpravodajství (kontext, že návrhy o obecném referendu narážely na postoj Senátu): Radio Prague / 20 minut atd. (přehledy a komentáře). ([cesky.radio.cz](https://cesky.radio.cz/zpravy-8096805?utm_source=openai))\n\nKrátké shrnutí pro fact-checkera (jedna věta)\n- Ano — pokud jde o ústavní zákon o obecném referendu (což Ústava sama naznačuje jako vhodný typ právní úpravy), je podpora Senátu nezbytná (3/5 přítomných senátorů). U obyčejného zákona Senát role má a jeho postoj může legislativní proces zpomalit nebo zablokovat, avšak Poslanecká sněmovna má možnost Senát v některých případech přehlasovat (nadpoloviční většina všech poslanců). ([senat.cz](https://www.senat.cz/informace/zakon106/zakony/ustava.php))\n\n(koncové poznámky: použité zdroje jsou výhradně veřejné právní texty, právní komentáře a zpravodajské články; hlavní právní prameny jsou texty Ústavy dostupné na webu Senátu a konkrétní zákony z Sbírky zákonů citované výše).",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "medium",
+      "generate_summary": null,
+      "summary": "detailed"
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 43722,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 5782,
+      "output_tokens_details": {
+        "reasoning_tokens": 3264
+      },
+      "total_tokens": 49504
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "store": true
+  }
+}

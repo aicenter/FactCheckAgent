@@ -1,0 +1,930 @@
+{
+  "claim_id": "24621",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24621.md",
+  "fact_check": "# Fact Check for Statement ID 24621\n\n## Statement\nNa konci roku 2021, když jsme předávali vládu a podíval jste se do OECD, tak jste zjistil, že co se týká tzv. energetické inflace, tak víte, kde byla nejnižší ze všech zemí z OECD? Nejnižší byla v České republice.\n\n---\n## AI Fact Check\n## 1. Rozklad výroku\n\nVýrok Karla Havlíčka:\n\n> „Na konci roku 2021, když jsme předávali vládu a podíval jste se do OECD, tak jste zjistil, že co se týká tzv. energetické inflace, tak víte, kde byla nejnižší ze všech zemí z OECD? Nejnižší byla v České republice.“\n\nLze rozdělit na dílčí tvrzení:\n\n1. OECD publikuje ukazatel „energetická inflace“ (inflace cen energií) pro jednotlivé země.\n2. Na konci roku 2021 (v praxi prosinec 2021) byla energetická inflace v ČR velmi nízká.\n3. Podle dat OECD byla energetická inflace v ČR v tomto období **nejnižší ze všech zemí OECD**.\n\n---\n\n## 2. Jak OECD / EU měří „energetickou inflaci“\n\n### 2.1 OECD (dataset DP_LIVE – CPI, Energy)\n\nOECD má v datasetu **DP_LIVE** časové řady „Inflation (CPI) – Energy – Annual growth rate (%)“, v členění:\n\n- INDICATOR: `CPI` – Inflation (CPI)  \n- SUBJECT: `ENRG` – Energy  \n- MEASURE: `AGRWTH` – Annual growth rate (%)  \n- FREQUENCY: `M`, `Q`, `A` (měsíční, čtvrtletní, roční) ([db.nomics.world](https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A))  \n\nTo přesně odpovídá tomu, čemu politici říkají „energetická inflace“ – meziroční růst cen energií v rámci CPI / HICP.\n\n### 2.2 Eurostat / ECB – HICP Energy (používáno i pro ČR)\n\nPro členské země EU (včetně ČR) jsou stejné veličiny vedeny jako:\n\n- **HICP Inflation rate – Energy – Annual rate of change (HICP.M.CZ.N.NRGY00.4D0.ANR)**, měsíční meziroční změna cen energií podle harmonizovaného indexu spotřebitelských cen (HICP). ([data.ecb.europa.eu](https://data.ecb.europa.eu/data/datasets/HICP))  \n\nTyto řady (HICP energy) jsou pak zdrojem pro řadu sekundárních databází (včetně OECD a komerčních služeb jako YCharts).\n\n---\n\n## 3. Data pro Českou republiku – konec roku 2021\n\n### 3.1 Meziroční energetická inflace (HICP – Energy)\n\nDatový servis YCharts uvádí indikátor **„Czech Republic Inflation Rate: Energy“**, s poznámkou, že jde o harmonizovaná data Eurostatu (12‑měsíční míra změny):\n\n- **Prosinec 2021:** 1,7 %  \n- **Listopad 2021:** 2,7 % ([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy))  \n\nJde o **meziroční změnu** (12‑month rate), takže údaj 1,7 % znamená, že kompozitní index cen energií (elektřina, plyn, paliva atd.) byl v prosinci 2021 o 1,7 % vyšší než v prosinci 2020.\n\n### 3.2 Úroveň indexu energií (HICP, 2015=100)\n\nPodle indikátoru YCharts **„Czech Republic Consumer Price Index: Energy“** (zdroj Eurostat, HICP, index 2015=100):\n\n- Index energií v ČR:\n  - **prosinec 2021:** 105,20  \n  - **leden 2022:** 125,20 ([ycharts.com](https://ycharts.com/indicators/czech_republic_consumer_price_index_energy))  \n\nTo potvrzuje, že:\n\n- V **roce 2021** rostly ceny energií jen mírně (index 105,2 vs. základ 2015=100).\n- **Skokový nárůst** nastal až v roce 2022 (leden 2022 už 125,2), což souzní s tím, že vláda Andreje Babiše v listopadu–prosinci 2021 **dočasně snížila DPH na elektřinu a plyn na 0 %**, čímž krátkodobě tlumila měřený růst cen energií (tento krok je v českém veřejném prostoru dobře zdokumentovaný, i když v daném reportu neuvádíme konkrétní zdroj kvůli limitům vyhledávání).\n\n---\n\n## 4. Mezinárodní kontext – průměr OECD a příklady jiných zemí\n\n### 4.1 Průměrná energetická inflace v OECD (prosinec 2021)\n\nOficiální tisková zpráva OECD „Consumer Prices, OECD – Updated: 3 February 2022“ uvádí, že:\n\n- **„Energy prices soared by 25.6% in the OECD area in the 12 months to December 2021“** (energetická inflace v průměru OECD: +25,6 % meziročně). ([capital-media.mu](https://www.capital-media.mu/2022/02/consumer-prices-oecd-updated-3-february-2022/))  \n\nTj. průměrná energetická inflace v OECD (měřená konzistentně) byla v prosinci 2021 zhruba **15× vyšší** než českých 1,7 %.\n\n### 4.2 Příklady jiných zemí (HICP / Eurostat, přes YCharts)\n\nJako doklad, že v řadě jiných vyspělých ekonomik byla energetická inflace v prosinci 2021 **výrazně vyšší než v ČR**, lze uvést:\n\n- **Maďarsko – „Hungary Inflation Rate: Energy“ (Eurostat, HICP, 12‑měsíční míra):**  \n  - prosinec 2021: **14,9 %**  \n  - listopad 2021: 21,0 %   \n\n- **Švýcarsko – „Switzerland Inflation Rate: Energy“ (Eurostat, HICP, 12‑měsíční míra):**  \n  - prosinec 2021: **14,9 %**  \n  - listopad 2021: 17,8 %   \n\nV obou případech jde o země OECD, jejichž energetická inflace byla na konci roku 2021 **násobně vyšší** než v ČR.\n\n### 4.3 Doklad, že OECD skutečně publikuje žebříčky „energetické inflace“\n\nV rozpravě Poslanecké sněmovny z listopadu 2023 jeden z poslanců odkazuje na aktuální data OECD a uvádí, že pro září 2023:\n\n- průměrná „energetická inflace“ v zemích OECD byla **−0,5 %**,  \n- Česká republika měla **+12,5 %** a byla **„druhá nejhorší“**, před ní pouze Kolumbie. ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai))  \n\nTo dokládá, že:\n\n- OECD skutečně publikuje **meziroční energetickou inflaci** pro všechny členské státy,\n- čeští politici tento zdroj používají právě k **mezinárodnímu srovnávání** (nejlepší / nejhorší v OECD).\n\n---\n\n## 5. Hodnocení jednotlivých dílčích tvrzení\n\n### 5.1 „OECD měří tzv. energetickou inflaci“\n\n- **Evidentně ANO.**  \n  - OECD má v datasetu DP_LIVE sérii **Inflation (CPI) – Energy – Annual growth rate (%)** (`CPI.ENRG.AGRWTH.[M/Q/A]`). ([db.nomics.world](https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A))  \n  - Pro země EU se používají harmonizované HICP energie (Eurostat), které jsou přesně totéž, co v politické debatě označujeme jako „energetická inflace“. ([data.ecb.europa.eu](https://data.ecb.europa.eu/data/datasets/HICP/HICP.M.CZ.N.NRGY00.4D0.ANR))  \n\n**Toto dílčí tvrzení je fakticky správné.**\n\n---\n\n### 5.2 „Na konci roku 2021 byla energetická inflace v ČR velmi nízká“\n\n- Podle **HICP – Energy** (Eurostat, přes YCharts) byla v ČR:\n  - **1,7 % meziročně v prosinci 2021**,  \n  - **2,7 % v listopadu 2021**. ([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy))  \n- Průměr OECD pro stejný měsíc byl podle OECD **+25,6 %**. ([capital-media.mu](https://www.capital-media.mu/2022/02/consumer-prices-oecd-updated-3-february-2022/))  \n\nRelativně k průměru OECD a k většině příkladových zemí (Maďarsko, Švýcarsko) byla tedy energetická inflace v ČR **extrémně nízká**.\n\n**Toto dílčí tvrzení je velmi dobře podložené.**\n\n---\n\n### 5.3 „Energetická inflace v ČR byla NAJNIŽŠÍ ze všech zemí OECD“\n\nToto je klíčová, nejambicióznější část výroku – jde o **tvrdé pořadí** (1. místo) mezi všemi členskými státy OECD.\n\nDostupná evidence:\n\n- Máme **spolehlivě doloženou hodnotu pro ČR** (1,7 % v prosinci 2021). ([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy))  \n- Známe **průměr OECD** (25,6 %) a víme, že ve většině zemí byly hodnoty dvouciferné. ([capital-media.mu](https://www.capital-media.mu/2022/02/consumer-prices-oecd-updated-3-february-2022/))  \n- U několika konkrétních zemí OECD (Maďarsko, Švýcarsko) máme potvrzené dvouciferné hodnoty (14,9 %).   \n- Víme, že OECD skutečně publikuje **úroveň energetické inflace pro všechny členy** a že čeští poslanci tyto žebříčky používají (např. pro rok 2023, kde byla ČR 2. nejhorší). ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai))  \n\nCo **nemáme** v rámci dostupných online zdrojů:\n\n- Kompletní tabulku **„Inflation (CPI) – Energy – Annual growth rate (%)“ za prosinec 2021 pro všechny země OECD**.\n- Explicitní sekundární zdroj, který by výslovně konstatoval: „Česká republika měla v prosinci 2021 nejnižší energetickou inflaci v OECD.“\n\nBez této kompletní tabulky nelze striktně vyloučit, že:\n\n- některá jiná země OECD (např. s pevně regulovanými cenami paliv či energií, jako **Mexiko, Izrael, Maďarsko** atd.) neměla v prosinci 2021 energetickou inflaci **ještě nižší než 1,7 %**,  \n- nebo že některé země OECD neměly dokonce **nulovou či mírně zápornou** meziroční energetickou inflaci.\n\nNa druhou stranu:\n\n- z dostupných příkladů (Maďarsko, Švýcarsko) a z průměru OECD je zřejmé, že **většina zemí** měla hodnoty výrazně vyšší (většinou dvouciferné),\n- dočasné snížení DPH na energie v ČR v listopadu–prosinci 2021 je velmi specifické opatření, které mohlo skutečně posunout ČR **na samý spodní okraj rozdělení** energetické inflace v OECD.\n\n**Závěr pro tuto část:**\n\n- **Silně podložené je tvrzení, že ČR patřila na konci roku 2021 mezi země s vůbec nejnižší energetickou inflací v OECD (jedna z nejnižších).**\n- **Nemáme však přímý statistický důkaz**, že česká hodnota 1,7 % byla **absolutně nejnižší** ze všech 38 členských zemí OECD, protože kompletní žebříček za prosinec 2021 z datasetu `DP_LIVE` (CPI.ENRG.AGRWTH.M) zde není dostupný.\n\nProto je konkrétní formulace:\n\n> „Nejnižší byla v České republice.“\n\nz hlediska přísného ověření **neprokázaná** – je **plausibilní**, ale chybí nám datový důkaz, že žádná jiná země OECD neměla v prosinci 2021 energetickou inflaci ≤ 1,7 %.\n\n---\n\n## 6. Celkové hodnocení výroku\n\n- **Pravdivé:**\n  - OECD i Eurostat měří a publikují **meziroční inflaci cen energií** (CPI/HICP – Energy). ([db.nomics.world](https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A))  \n  - V prosinci 2021 byla energetická inflace v ČR **1,7 %**, což je **mimořádně nízké číslo** ve srovnání s průměrem OECD (25,6 %) i s řadou konkrétních zemí OECD, které měly dvouciferné hodnoty. ([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy))  \n\n- **Neprokázané (a potenciálně nadsazené):**\n  - Striktní tvrzení, že **ČR měla „nejnižší“ energetickou inflaci ze všech zemí OECD**.  \n    - K jeho potvrzení by bylo nutné analyzovat kompletní dataset OECD `DP_LIVE` pro všechny země (CPI.ENRG.AGRWTH.M, prosinec 2021). Tato data nejsou v rámci dostupných online výstupů kompletně viditelná.\n    - Dostupná evidence jasně ukazuje, že ČR byla „na úplném spodku“ žebříčku, ale **nikoli, že byla zcela první**.\n\nZ pohledu fact‑checkingu je tedy výrok:\n\n> „Nejnižší [energetická inflace v OECD] byla v České republice.“\n\n**podstatně nadsazený** – přesně doložit lze „jedna z nejnižších“, nikoli bezpečně „nejnižší“.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:05:47\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nTa zpráva je založena na číslech, tak ta se nedá ani rozporovat, ale co se týká toho, že se všem lidem určitě dobře nedaří a nedařilo, to jsem nikdy nezpochybňoval. Ta inflace byla velmi náročná, ceny energií rostly raketově. My jsme teda měli nejdražší energie už v době, kdy se o to staral pan Havlíček v Evropě. Ale ten problém tu je dlouhodobý, je strukturální. My jsme se s tím snažili něco dělat, snažili jsme se provést ty klíčové reformy a byli jsme v tom odvážní. Reforma důchodového systému, reforma vzdělávacího systému, reforma energií nebo struktury naší energetické soustavy, to všechno jsme dělali a myslím si, že to byly kroky, které jsou správné a je v nich potřeba pokračovat, abychom se už nedostali do těch problémů, do kterých jsme se dostali, protože třeba díky tomu, že tu vládl osm let Andrej Babiš v různých konstelacích před námi, tak se nic neudělalo s energetickou infrastrukturou. Zastavil se, nezastavila se dostavba Temelína, neposunuly se dál Dukovany, to jsme všechno museli udělat. A to, že jsme to udělali, se pozitivně projeví v budoucnosti.\\n00:06:53\\nTerezie Tománková,moderátorka\\nPojďme rozebrat ta jednotlivá subtémata, ať se už bavíme o konkrétních věcech. Pojďme k těm energiím, pane Havlíčku. Pouze 17 miliard navíc v rozpočtu, snižuje to inflaci, to říká statistický úřad i Česká národní banka, že to mělo přechodný, okamžitý dopad. Ty dotační závody s Německem ale nemůžeme vyhrát, nebo v tom bude Česko pokračovat, jak to bude dál?\\n00:07:14\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nNemůžeme, ani nebudeme soutěžit s Německem. To není možné. Jenom bych upravil, ono to není do rozpočtu dopad 17 miliard, ale 7 miliard, ale to je účetní pohled, že se tam započítávají některé věci, takže čistý dopad do rozpočtu je 7 miliard korun, ale za těch 7 miliard korun máme po dlouhé době srovnaný krok s cenou elektřiny s Evropou. Po dlouhé době mohou firmy říci, že mají přibližně podobné podmínky jako okolní země. A každý, kdo umí do 10 počítat, si dopočítá to, že se to tomu státu vrátí na té příjmové stránce. Proč? No, protože firmy budou zaměstnávat přirozeným způsobem, porostou příjmy těch zaměstnanců, bude se více investovat, budou se, světe, div se, odvádět vyšší daně, budou se odvádět vyšší sociální a zdravotní, to je jedna věc. A druhá věc je, naši lidé nebyli připraveni se dívat na to, že navzdory tomu, že zde energii poměrně levně vyrábíme a exportujeme, že ji budeme mít jednu z nejdražších, elektřinu v tomhle tom případě v celé Evropě. Byl to náš slib, byl to zásadní krok a budeme pokračovat zejména v energeticky náročných odvětvích, jako jsou výrobci cementu, výrobci vápna, výrobci keramiky, chemie a podobně, ocel. To jste úplně hodili přes palubu. A zeptejte se někdy těch firem. Já do nich jezdím dnes a denně. Ta situace u těch firem začíná být kritická a ten problém, který nastává, je v tom, že pochopitelně v Evropě neexistuje dnes jednotný energetický trh tedy pouze na papíře, ale různé země mají různé ceny a různé státy do toho různě zasahují. Akorát, že za vaší vlády jste se chovali tržně, nezasáhli jste do toho, výsledkem bylo to, že se vám to celé utrhlo a není pravda to, že jste to, co jste říkal, s ohledem nejvyšší ceny energií, že byly za nás. Na konci roku 2021, když jsme předávali vládu a podíval jste se do OECD, tak jste zjistil, že co se týká tzv. energetické inflace, tak víte, kde byla nejnižší ze všech zemí z OECD? Nejnižší byla v České republice. Ano, bylo to dáno tímto, uznávám, že jsme zatáhli za ruční brzdu a rychle jsme snížili DPH na nulu. Vy jste to mohli nechat potom třeba na 5 %. Neudělali jste vůbec nic, čekali jste na opatření Evropské unie. Nestalo se nic. Výsledek byl ten, že na konci roku 2021 jste měli nejvyšší energickou inflaci a ta inflace se stala, myslím, energická základem pro celkovou inflaci, proto jste odrbali lidi o 33 % v průběhu vaší vlády. Je třeba, pane poslanče, nedívat se jenom na aktuální čísla, protože logicky ten pokles či růst je ovlivněn tou základnou toho minulého roku. Jinými slovy, o co horší byl výsledek v minulém roce, o to je třeba lepší v tomto roce, ale součet...\\n00:09:43\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Na konci roku 2021, když jsme předávali vládu a podíval jste se do OECD, tak jste zjistil, že co se týká tzv. energetické inflace, tak víte, kde byla nejnižší ze všech zemí z OECD? Nejnižší byla v České republice.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 387.15 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Data OECD potvrzují mimořádně nízký růst cen energií v Česku na konci roku 2021. Chybí ale kompletní srovnání všech zemí OECD, proto tvrzení, že šlo o vůbec nejnižší hodnotu, nedokážeme ověřit; výrok zařazujeme do kategorie „neověřitelná“.</p>\n\n<p>Výrok Karla Havlíčka se týká mezinárodního srovnání růstu cen energií („energetické inflace“) na konci roku 2021, kdy v Česku končila vláda Andreje Babiše a zvyšovaly se ceny energií. Havlíček tvrdí, že tehdy podle údajů OECD vycházela energetická inflace v České republice jako vůbec nejnižší ze všech zemí OECD. Ve výroku lze odlišit tři faktická tvrzení: že OECD tento ukazatel publikuje, že energetická inflace byla v Česku na konci roku 2021 velmi nízká a že v rámci OECD byla úplně nejnižší. Tato tři části posuzujeme postupně.</p>\n\n<p>Nejprve je třeba ověřit, zda OECD skutečně měří a zveřejňuje tzv. energetickou inflaci. OECD má v databázi DP_LIVE časové řady označené jako <i>„Inflation (CPI) – Energy – Annual growth rate (%)“</i>, tedy meziroční růst cen energií v rámci indexu spotřebitelských cen. Tyto řady jsou veřejně dostupné například přes databázi <a href=\"https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A\">DB.nomics</a>, která zprostředkovává přímo data OECD včetně energetické složky CPI pro jednotlivé státy. Pro země Evropské unie, mezi něž patří i Česká republika, vychází OECD z harmonizovaných indexů spotřebitelských cen (HICP), jejichž energetickou složku publikuje Evropská centrální banka, například v sérii <a href=\"https://data.ecb.europa.eu/data/datasets/HICP/HICP.M.CZ.N.NRGY00.4D0.ANR\">HICP – Energy, annual rate of change pro Českou republiku</a>. Na tato čísla se odkazují i čeští zákonodárci: v rozpravě Poslanecké sněmovny v listopadu 2023 je podle stenozáznamu na webu <a href=\"https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm\">Poslanecké sněmovny</a> citováno, že podle údajů OECD byla Česká republika v září 2023 v ukazateli energetické inflace <i>„druhá nejhorší“</i> mezi zeměmi OECD. To potvrzuje, že OECD publikuje ukazatel energetické inflace použitelný pro mezinárodní srovnání. První dílčí tvrzení výroku je tedy fakticky správné.</p>\n\n<p>U druhé části výroku zkoumáme, jak vysoká byla energetická inflace v Česku na konci roku 2021. Podle harmonizovaných dat Eurostatu, která jsou pro přehlednost prezentována ve službě <a href=\"https://ycharts.com/indicators/czech_republic_inflation_rate_energy\">YCharts pod názvem „Czech Republic Inflation Rate: Energy“</a>, činila meziroční míra růstu cen energií v listopadu 2021 zhruba 2,7 % a v prosinci 2021 přibližně 1,7 %. Z téže databáze plyne, že index cen energií v HICP pro Česko byl v prosinci 2021 na úrovni okolo 105 bodů při základně roku 2015 rovné 100, jak ukazuje série <a href=\"https://ycharts.com/indicators/czech_republic_consumer_price_index_energy\">„Czech Republic Consumer Price Index: Energy“</a>. To odpovídá jen mírnému nárůstu cen energií v porovnání s rokem 2015 a potvrzuje, že energetická inflace v ČR byla na konci roku 2021 skutečně velmi nízká.</p>\n\n<p>Že šlo o mimořádně nízkou hodnotu i v mezinárodním srovnání, ukazuje průměrné číslo za celé OECD. V tiskové zprávě OECD o vývoji inflace, jejíž text přebírá například stránka <a href=\"https://www.capital-media.mu/2022/02/consumer-prices-oecd-updated-3-february-2022/\">Capital Media</a>, se uvádí, že <i>„energy prices soared by 25.6% in the OECD area in the 12 months to December 2021“</i>, tedy že ceny energií v zemích OECD v průměru meziročně vzrostly o 25,6 %. Ze stejné databáze YCharts, která přebírá harmonizovaná data Eurostatu, vyplývá, že podle řad <a href=\"https://ycharts.com/indicators/hungary_inflation_rate_energy\">„Hungary Inflation Rate: Energy“</a> a <a href=\"https://ycharts.com/indicators/switzerland_inflation_rate_energy\">„Switzerland Inflation Rate: Energy“</a> dosahovala energetická inflace v prosinci 2021 v Maďarsku i ve Švýcarsku zhruba 14,9 %. Tyto příklady dokládají, že mnoho zemí OECD čelilo na konci roku 2021 dvoucifernému růstu cen energií, zatímco v Česku šlo v té době o nárůst jen v jednotkách procent.</p>\n\n<p>Na základě uvedených údajů považujeme druhé dílčí tvrzení výroku – že energetická inflace byla v Česku na konci roku 2021 velmi nízká – za dobře doložené a fakticky správné. Číslo 1,7 % nejen výrazně zaostává za průměrem OECD, ale je také pod úrovní, kterou ve stejném období vykazovala řada jiných členských států.</p>\n\n<p>Nejambicióznější a zároveň nejproblematičtější je třetí část výroku, podle níž měla Česká republika v daném období nejnižší energetickou inflaci ze všech zemí OECD. K jednoznačnému ověření takového tvrzení by bylo potřeba mít k dispozici kompletní tabulku ukazatele „Inflation (CPI) – Energy – Annual growth rate (%)“ za prosinec 2021 pro všechny státy OECD, tak jak je evidován v databázi <a href=\"https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A\">DP_LIVE</a>. V rámci námi využitelných zdrojů máme spolehlivě doloženou hodnotu pro Českou republiku, několik konkrétních příkladů jiných zemí a celkový průměr OECD, nikoliv však úplný žebříček všech 38 členských států. Nemůžeme proto vyloučit, že některá jiná země OECD mohla mít v prosinci 2021 energetickou inflaci stejně nízkou nebo dokonce nižší než českých 1,7 %.</p>\n\n<p>Z dostupných dat tak lze s vysokou mírou jistoty říci pouze to, že Česko patřilo na samý spodní okraj rozdělení energetické inflace v OECD, tedy mezi země s nejnižším růstem cen energií v daném období. Nenalezli jsme žádný spolehlivý zdroj, který by výslovně uváděl, že česká hodnota byla ze všech zemí OECD skutečně nejnižší, ani agregovaný statistický přehled, z něhož by to bylo možné jednoznačně vyčíst. Stejně tak ale nemáme zdroj, který by naopak přímo dokládal existenci země s nižší energetickou inflací než v ČR. Konkrétní tvrzení o absolutně „nejnižší“ energetické inflaci v celé OECD proto na základě veřejně dostupných informací nedokážeme ani potvrdit, ani vyvrátit.</p>\n\n<p>V souhrnu tedy platí, že první dvě dílčí tvrzení výroku – existence ukazatele energetické inflace v datech OECD a velmi nízká úroveň tohoto ukazatele v Česku na konci roku 2021 – jsou podle citovaných zdrojů podložená a pravdivá. Klíčová část výroku, že energetická inflace byla v tomto období vůbec nejnižší ze všech zemí OECD, však z dostupných dat jednoznačně nevyplývá a nelze ji ani spolehlivě vyvrátit. Celkově proto výrok Karla Havlíčka zařazujeme do kategorie „neověřitelná“.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0366facee62c677c0069a6bf7cbaec81a3b3aeb51ec3cddfca",
+    "created_at": 1772535676.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0366facee62c677c0069a6bf84d82881a3b200fad1bd80bb35",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bf8e16d881a3989f3765e978270a",
+        "action": {
+          "query": "OECD \"energy\" consumer price index 2021 Czech Republic",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "OECD \"energy\" consumer price index 2021 Czech Republic",
+            "OECD data energy price inflation 2021 December",
+            "\"energy\" inflation CPI OECD 2021 Czech Republic lowest",
+            "OECD Stat consumer prices energy 2021 Czech Republic"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bf91518081a39da1d53cca7d9c90",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bf927ae881a3b2090c5e4ad94ed3",
+        "action": {
+          "query": "\"Consumer prices\" \"energy\" \"OECD\" \"December 2021\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Consumer prices\" \"energy\" \"OECD\" \"December 2021\"",
+            "\"CPI\" \"Energy\" \"OECD\" 2021 December Czech Republic",
+            "\"energy inflation\" 2021 \"OECD\" country energy prices",
+            "\"Consumer Prices, OECD - Updated 2022\" energy inflation 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bf951c6c81a3b5f7796d3d3711f1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bf964c2481a3b9e156d407a0f212",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bf9852a081a3a2b844aeae713a64",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bf994be481a38f0db700f648204b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bf9afe6481a389f353d6a98cdef1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bf9b454c81a396bbe932fbf705eb",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bf9d6f3881a3af972aa242a25a68",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bf9e6bbc81a3859c4768127aba2f",
+        "action": {
+          "query": "\"Consumer Prices, OECD\" \"3 February 2022\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Consumer Prices, OECD\" \"3 February 2022\"",
+            "\"consumer-prices-oecd-updated-3-february-2022\"",
+            "\"inflation in the OECD area\" \"December 2021\" \"energy\"",
+            "\"Table 1\" \"Consumer Prices, OECD\" \"December 2021\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfa0ee3081a3bb5aaaa2ad5a984d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfa1308081a3996132438b355d9e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfa3fa2081a3a053a6db30848106",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfa8480881a3a86daf2ae91edc08",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfa94fc881a380867fc99f7f4d1c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfb65b5c81a3a3c86715006c8c45",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfb7bfb081a3a3a20b96048fc46a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfb8c75881a39e842f0dcdac7579",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfb9af7481a3b4ee76d156b29271",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfbb036881a3888ff44e28362d3f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfbcd2f881a3a391dcae3ebe611d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfc133c881a3b2c109fb732bed50",
+        "action": {
+          "query": "\"PRICES_CPI\" \"Energy\" \"Annual growth rate (%)\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"PRICES_CPI\" \"Energy\" \"Annual growth rate (%)\"",
+            "\"Inflation (CPI) - Energy\" \"OECD\"",
+            "\"Inflation (CPI), Energy, Annual growth rate (%)\"",
+            "\"Inflation (CPI), Energy, Annual growth rate (%)\" \"Czech\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfc6708881a38a86e3288375f020",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfc7e47881a3ba696b11924a0433",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfcb34c481a39f575ffefec349ca",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfcd289481a3b9f5d1736d9959ae",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfceebec81a3a8065898bb83741c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfd0944c81a3abf5b3aa1176f733",
+        "action": {
+          "query": "\"CPI.ENRG.AGRWTH\" site:db.nomics.world",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"CPI.ENRG.AGRWTH\" site:db.nomics.world",
+            "\"CPI.ENRG.AGRWTH.A\" \"OECD/DP_LIVE\"",
+            "\"CPI.ENRG.AGRWTH.M\"",
+            "\"CPI.ENRG.INDEX2015\" \"DP_LIVE\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfd4477c81a39087e5e2eac463b7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfd5878081a3a899512770437386",
+        "action": {
+          "query": "\"OECD/DP_LIVE\" \"CPI.ENRG\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"OECD/DP_LIVE\" \"CPI.ENRG\"",
+            "\"CPI.ENRG\" \"DP_LIVE\"",
+            "\"Inflation (CPI) – Energy\" \"DP_LIVE\"",
+            "\"Subject [ENRG]\" \"DP_LIVE\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfda557881a3af0d5c111c67a2d4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfdb867481a3b3b3dace64c69271",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfdfb6a481a3a81b59cb7df7ad73",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfe21d9081a3a7064cc2c61e1ee8",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfe4d52081a3a9f43dafc8bad35d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfe50db481a39cc9faa7c32f99a3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfe7f4d081a3aa8d8393cc4321eb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bfed5db081a3a79ca21f426661c6",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bfee9e9881a39a982b887b7af4df",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bff27cfc81a394545bbbcd374575",
+        "action": {
+          "query": "\"CZE.CPI.ENRG.AGRWTH.M\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"CZE.CPI.ENRG.AGRWTH.M\"",
+            "\"CZE – Inflation (CPI) – Energy – Annual growth rate (%) – Monthly\"",
+            "\"Czech Republic – Inflation (CPI) – Energy – Annual growth rate (%) – Monthly\" \"DP_LIVE\"",
+            "\"Czech Republic – Inflation (CPI) – Energy – Annual growth rate (%)\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6bff859fc81a3b3a13727cf3014d5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6bffb63c481a3a4e259cfb2f006d6",
+        "action": {
+          "query": "\"Energy Inflation\" \"December 2021\" \"Czech Republic\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Energy Inflation\" \"December 2021\" \"Czech Republic\"",
+            "Czech Republic energy inflation 2021 Trading Economics",
+            "Hungary energy inflation 2021 OECD",
+            "\"Energy Inflation\" \"Hungary\" 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c00529dc81a3b11bc84b522e3544",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c006035881a385a0f873b6571b88",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c007b2e081a3b42d51b417e17612",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c00f856c81a38df91e98a7c80a41",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c010f27881a391ea85bd56295b5e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c014f03481a3a19472900791d3ae",
+        "action": {
+          "query": "\"Inflation Rate: Energy\" \"Hungary\" \"ycharts\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Inflation Rate: Energy\" \"Hungary\" \"ycharts\"",
+            "\"Inflation Rate: Energy\" \"Mexico\" \"ycharts\"",
+            "\"Inflation Rate: Energy\" \"Poland\" \"ycharts\"",
+            "\"Inflation Rate: Energy\" \"Eurostat\" \"HICP\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c01803e881a384b6f5e61ee20924",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c019b66c81a3abefa934e27ef808",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "HICP.M.CZ.N.NRGY00.4D0.ANR"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c01bc97881a386eaa453cf9fb7f8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c0216fa481a3aa61538e5d687267",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c02402bc81a3bf55a6ec765cfa3e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c02684a481a38fe3920c25452aeb",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c02a033481a39112070ee7c6345f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c02af26881a38863b92d46c733b1",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "service/data"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c02eb96c81a3b59d3be5d70d8a9b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c02f3f1081a3a189c62bfbc25211",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c031b19481a39f4d55d04965269e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c037981081a393115439fd45b459",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "service/data/HICP"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c03c991081a3a35de652edb026fa",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c042e16481a38f4a4489f9a4760d",
+        "action": {
+          "query": "\"Hungary Inflation Rate: Energy (I:HIRENM)\" \"indicators\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Hungary Inflation Rate: Energy (I:HIRENM)\" \"indicators\"",
+            "\"Hungary Inflation Rate: Energy\" \"I:HIRENM\"",
+            "site:ycharts.com \"Hungary Inflation Rate: Energy (I:HIRENM)\"",
+            "\"HIRENM\" ycharts"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c047ba6081a382af5e9fad4904a3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c04c62bc81a3baf317ccc69eb49e",
+        "action": {
+          "query": "\"Inflation Rate: Energy\" \"Luxembourg\" \"ycharts\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Inflation Rate: Energy\" \"Luxembourg\" \"ycharts\"",
+            "\"Inflation Rate: Energy\" \"Malta\" \"ycharts\"",
+            "\"Inflation Rate: Energy\" \"Switzerland\" \"ycharts\"",
+            "\"Inflation Rate: Energy\" \"Mexico\" \"ycharts\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c050e94881a39cc10461425f2818",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c0516f8481a3b4723009cddd78f0",
+        "action": {
+          "query": "\"Luxembourg Inflation Rate: Energy\" ycharts",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Luxembourg Inflation Rate: Energy\" ycharts",
+            "\"Malta Inflation Rate: Energy\" ycharts",
+            "\"France Inflation Rate: Energy\" ycharts",
+            "\"Switzerland Inflation Rate: Energy\" ycharts"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c056927481a3abe812672920fdcf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c05d7aac81a38fb152d2aab1748b",
+        "action": {
+          "query": "\"Mexico\" \"energy inflation\" \"December 2021\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Mexico\" \"energy inflation\" \"December 2021\"",
+            "\"Energy inflation\" \"OECD\" \"2021\" \"Mexico\"",
+            "\"Inflation (CPI) – Energy – Annual growth rate (%) – Monthly\" Mexico December 2021",
+            "\"Mexico – Inflation (CPI) – Energy – Annual growth rate (%) – Monthly\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c06c157481a3a32a15420bdde68e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0366facee62c677c0069a6c089960881a38b47916b20565eeb",
+        "action": {
+          "query": "\"nejnižší\" \"energetickou inflaci\" \"OECD\" \"Česko\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nejnižší\" \"energetickou inflaci\" \"OECD\" \"Česko\"",
+            "\"energetická inflace\" \"OECD\" \"Ceská republika\" 2021",
+            "\"energetickou inflaci\" \"OECD\" \"konec roku 2021\"",
+            "\"energetická inflace\" \"konec roku 2021\" \"ČR\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0366facee62c677c0069a6c0914e0881a3933cff06727ea876",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0366facee62c677c0069a6c0b8780881a3aa975ece3473b86d",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1033,
+                "start_index": 953,
+                "title": "OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A | DBnomics",
+                "type": "url_citation",
+                "url": "https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A"
+              },
+              {
+                "end_index": 1533,
+                "start_index": 1464,
+                "title": "HICP | ECB Data Portal",
+                "type": "url_citation",
+                "url": "https://data.ecb.europa.eu/data/datasets/HICP"
+              },
+              {
+                "end_index": 2069,
+                "start_index": 1985,
+                "title": "\n        \n        Czech Republic Inflation Rate: Energy (Monthly) - Historica…\n        \n        ",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/czech_republic_inflation_rate_energy"
+              },
+              {
+                "end_index": 2596,
+                "start_index": 2506,
+                "title": "\n        \n        Czech Republic Consumer Price Index: Energy (Monthly) - His…\n        \n        ",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/czech_republic_consumer_price_index_energy"
+              },
+              {
+                "end_index": 3551,
+                "start_index": 3447,
+                "title": "Consumer Prices, OECD - Updated: 3 February 2022 - Capital",
+                "type": "url_citation",
+                "url": "https://www.capital-media.mu/2022/02/consumer-prices-oecd-updated-3-february-2022/"
+              },
+              {
+                "end_index": 4733,
+                "start_index": 4642,
+                "title": "PČR, PS 2021-..., 83. schůze, část 8 (16. 11. 2023)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai"
+              },
+              {
+                "end_index": 5270,
+                "start_index": 5190,
+                "title": "OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A | DBnomics",
+                "type": "url_citation",
+                "url": "https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A"
+              },
+              {
+                "end_index": 5523,
+                "start_index": 5427,
+                "title": "HICP.M.CZ.N.NRGY00.4D0.ANR | ECB Data Portal",
+                "type": "url_citation",
+                "url": "https://data.ecb.europa.eu/data/datasets/HICP/HICP.M.CZ.N.NRGY00.4D0.ANR"
+              },
+              {
+                "end_index": 5870,
+                "start_index": 5786,
+                "title": "\n        \n        Czech Republic Inflation Rate: Energy (Monthly) - Historica…\n        \n        ",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/czech_republic_inflation_rate_energy"
+              },
+              {
+                "end_index": 6036,
+                "start_index": 5932,
+                "title": "Consumer Prices, OECD - Updated: 3 February 2022 - Capital",
+                "type": "url_citation",
+                "url": "https://www.capital-media.mu/2022/02/consumer-prices-oecd-updated-3-february-2022/"
+              },
+              {
+                "end_index": 6589,
+                "start_index": 6505,
+                "title": "\n        \n        Czech Republic Inflation Rate: Energy (Monthly) - Historica…\n        \n        ",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/czech_republic_inflation_rate_energy"
+              },
+              {
+                "end_index": 6782,
+                "start_index": 6678,
+                "title": "Consumer Prices, OECD - Updated: 3 February 2022 - Capital",
+                "type": "url_citation",
+                "url": "https://www.capital-media.mu/2022/02/consumer-prices-oecd-updated-3-february-2022/"
+              },
+              {
+                "end_index": 7156,
+                "start_index": 7065,
+                "title": "PČR, PS 2021-..., 83. schůze, část 8 (16. 11. 2023)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai"
+              },
+              {
+                "end_index": 9042,
+                "start_index": 8962,
+                "title": "OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A | DBnomics",
+                "type": "url_citation",
+                "url": "https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A"
+              },
+              {
+                "end_index": 9325,
+                "start_index": 9241,
+                "title": "\n        \n        Czech Republic Inflation Rate: Energy (Monthly) - Historica…\n        \n        ",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/czech_republic_inflation_rate_energy"
+              }
+            ],
+            "text": "## 1. Rozklad výroku\n\nVýrok Karla Havlíčka:\n\n> „Na konci roku 2021, když jsme předávali vládu a podíval jste se do OECD, tak jste zjistil, že co se týká tzv. energetické inflace, tak víte, kde byla nejnižší ze všech zemí z OECD? Nejnižší byla v České republice.“\n\nLze rozdělit na dílčí tvrzení:\n\n1. OECD publikuje ukazatel „energetická inflace“ (inflace cen energií) pro jednotlivé země.\n2. Na konci roku 2021 (v praxi prosinec 2021) byla energetická inflace v ČR velmi nízká.\n3. Podle dat OECD byla energetická inflace v ČR v tomto období **nejnižší ze všech zemí OECD**.\n\n---\n\n## 2. Jak OECD / EU měří „energetickou inflaci“\n\n### 2.1 OECD (dataset DP_LIVE – CPI, Energy)\n\nOECD má v datasetu **DP_LIVE** časové řady „Inflation (CPI) – Energy – Annual growth rate (%)“, v členění:\n\n- INDICATOR: `CPI` – Inflation (CPI)  \n- SUBJECT: `ENRG` – Energy  \n- MEASURE: `AGRWTH` – Annual growth rate (%)  \n- FREQUENCY: `M`, `Q`, `A` (měsíční, čtvrtletní, roční) ([db.nomics.world](https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A))  \n\nTo přesně odpovídá tomu, čemu politici říkají „energetická inflace“ – meziroční růst cen energií v rámci CPI / HICP.\n\n### 2.2 Eurostat / ECB – HICP Energy (používáno i pro ČR)\n\nPro členské země EU (včetně ČR) jsou stejné veličiny vedeny jako:\n\n- **HICP Inflation rate – Energy – Annual rate of change (HICP.M.CZ.N.NRGY00.4D0.ANR)**, měsíční meziroční změna cen energií podle harmonizovaného indexu spotřebitelských cen (HICP). ([data.ecb.europa.eu](https://data.ecb.europa.eu/data/datasets/HICP))  \n\nTyto řady (HICP energy) jsou pak zdrojem pro řadu sekundárních databází (včetně OECD a komerčních služeb jako YCharts).\n\n---\n\n## 3. Data pro Českou republiku – konec roku 2021\n\n### 3.1 Meziroční energetická inflace (HICP – Energy)\n\nDatový servis YCharts uvádí indikátor **„Czech Republic Inflation Rate: Energy“**, s poznámkou, že jde o harmonizovaná data Eurostatu (12‑měsíční míra změny):\n\n- **Prosinec 2021:** 1,7 %  \n- **Listopad 2021:** 2,7 % ([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy))  \n\nJde o **meziroční změnu** (12‑month rate), takže údaj 1,7 % znamená, že kompozitní index cen energií (elektřina, plyn, paliva atd.) byl v prosinci 2021 o 1,7 % vyšší než v prosinci 2020.\n\n### 3.2 Úroveň indexu energií (HICP, 2015=100)\n\nPodle indikátoru YCharts **„Czech Republic Consumer Price Index: Energy“** (zdroj Eurostat, HICP, index 2015=100):\n\n- Index energií v ČR:\n  - **prosinec 2021:** 105,20  \n  - **leden 2022:** 125,20 ([ycharts.com](https://ycharts.com/indicators/czech_republic_consumer_price_index_energy))  \n\nTo potvrzuje, že:\n\n- V **roce 2021** rostly ceny energií jen mírně (index 105,2 vs. základ 2015=100).\n- **Skokový nárůst** nastal až v roce 2022 (leden 2022 už 125,2), což souzní s tím, že vláda Andreje Babiše v listopadu–prosinci 2021 **dočasně snížila DPH na elektřinu a plyn na 0 %**, čímž krátkodobě tlumila měřený růst cen energií (tento krok je v českém veřejném prostoru dobře zdokumentovaný, i když v daném reportu neuvádíme konkrétní zdroj kvůli limitům vyhledávání).\n\n---\n\n## 4. Mezinárodní kontext – průměr OECD a příklady jiných zemí\n\n### 4.1 Průměrná energetická inflace v OECD (prosinec 2021)\n\nOficiální tisková zpráva OECD „Consumer Prices, OECD – Updated: 3 February 2022“ uvádí, že:\n\n- **„Energy prices soared by 25.6% in the OECD area in the 12 months to December 2021“** (energetická inflace v průměru OECD: +25,6 % meziročně). ([capital-media.mu](https://www.capital-media.mu/2022/02/consumer-prices-oecd-updated-3-february-2022/))  \n\nTj. průměrná energetická inflace v OECD (měřená konzistentně) byla v prosinci 2021 zhruba **15× vyšší** než českých 1,7 %.\n\n### 4.2 Příklady jiných zemí (HICP / Eurostat, přes YCharts)\n\nJako doklad, že v řadě jiných vyspělých ekonomik byla energetická inflace v prosinci 2021 **výrazně vyšší než v ČR**, lze uvést:\n\n- **Maďarsko – „Hungary Inflation Rate: Energy“ (Eurostat, HICP, 12‑měsíční míra):**  \n  - prosinec 2021: **14,9 %**  \n  - listopad 2021: 21,0 %   \n\n- **Švýcarsko – „Switzerland Inflation Rate: Energy“ (Eurostat, HICP, 12‑měsíční míra):**  \n  - prosinec 2021: **14,9 %**  \n  - listopad 2021: 17,8 %   \n\nV obou případech jde o země OECD, jejichž energetická inflace byla na konci roku 2021 **násobně vyšší** než v ČR.\n\n### 4.3 Doklad, že OECD skutečně publikuje žebříčky „energetické inflace“\n\nV rozpravě Poslanecké sněmovny z listopadu 2023 jeden z poslanců odkazuje na aktuální data OECD a uvádí, že pro září 2023:\n\n- průměrná „energetická inflace“ v zemích OECD byla **−0,5 %**,  \n- Česká republika měla **+12,5 %** a byla **„druhá nejhorší“**, před ní pouze Kolumbie. ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai))  \n\nTo dokládá, že:\n\n- OECD skutečně publikuje **meziroční energetickou inflaci** pro všechny členské státy,\n- čeští politici tento zdroj používají právě k **mezinárodnímu srovnávání** (nejlepší / nejhorší v OECD).\n\n---\n\n## 5. Hodnocení jednotlivých dílčích tvrzení\n\n### 5.1 „OECD měří tzv. energetickou inflaci“\n\n- **Evidentně ANO.**  \n  - OECD má v datasetu DP_LIVE sérii **Inflation (CPI) – Energy – Annual growth rate (%)** (`CPI.ENRG.AGRWTH.[M/Q/A]`). ([db.nomics.world](https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A))  \n  - Pro země EU se používají harmonizované HICP energie (Eurostat), které jsou přesně totéž, co v politické debatě označujeme jako „energetická inflace“. ([data.ecb.europa.eu](https://data.ecb.europa.eu/data/datasets/HICP/HICP.M.CZ.N.NRGY00.4D0.ANR))  \n\n**Toto dílčí tvrzení je fakticky správné.**\n\n---\n\n### 5.2 „Na konci roku 2021 byla energetická inflace v ČR velmi nízká“\n\n- Podle **HICP – Energy** (Eurostat, přes YCharts) byla v ČR:\n  - **1,7 % meziročně v prosinci 2021**,  \n  - **2,7 % v listopadu 2021**. ([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy))  \n- Průměr OECD pro stejný měsíc byl podle OECD **+25,6 %**. ([capital-media.mu](https://www.capital-media.mu/2022/02/consumer-prices-oecd-updated-3-february-2022/))  \n\nRelativně k průměru OECD a k většině příkladových zemí (Maďarsko, Švýcarsko) byla tedy energetická inflace v ČR **extrémně nízká**.\n\n**Toto dílčí tvrzení je velmi dobře podložené.**\n\n---\n\n### 5.3 „Energetická inflace v ČR byla NAJNIŽŠÍ ze všech zemí OECD“\n\nToto je klíčová, nejambicióznější část výroku – jde o **tvrdé pořadí** (1. místo) mezi všemi členskými státy OECD.\n\nDostupná evidence:\n\n- Máme **spolehlivě doloženou hodnotu pro ČR** (1,7 % v prosinci 2021). ([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy))  \n- Známe **průměr OECD** (25,6 %) a víme, že ve většině zemí byly hodnoty dvouciferné. ([capital-media.mu](https://www.capital-media.mu/2022/02/consumer-prices-oecd-updated-3-february-2022/))  \n- U několika konkrétních zemí OECD (Maďarsko, Švýcarsko) máme potvrzené dvouciferné hodnoty (14,9 %).   \n- Víme, že OECD skutečně publikuje **úroveň energetické inflace pro všechny členy** a že čeští poslanci tyto žebříčky používají (např. pro rok 2023, kde byla ČR 2. nejhorší). ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai))  \n\nCo **nemáme** v rámci dostupných online zdrojů:\n\n- Kompletní tabulku **„Inflation (CPI) – Energy – Annual growth rate (%)“ za prosinec 2021 pro všechny země OECD**.\n- Explicitní sekundární zdroj, který by výslovně konstatoval: „Česká republika měla v prosinci 2021 nejnižší energetickou inflaci v OECD.“\n\nBez této kompletní tabulky nelze striktně vyloučit, že:\n\n- některá jiná země OECD (např. s pevně regulovanými cenami paliv či energií, jako **Mexiko, Izrael, Maďarsko** atd.) neměla v prosinci 2021 energetickou inflaci **ještě nižší než 1,7 %**,  \n- nebo že některé země OECD neměly dokonce **nulovou či mírně zápornou** meziroční energetickou inflaci.\n\nNa druhou stranu:\n\n- z dostupných příkladů (Maďarsko, Švýcarsko) a z průměru OECD je zřejmé, že **většina zemí** měla hodnoty výrazně vyšší (většinou dvouciferné),\n- dočasné snížení DPH na energie v ČR v listopadu–prosinci 2021 je velmi specifické opatření, které mohlo skutečně posunout ČR **na samý spodní okraj rozdělení** energetické inflace v OECD.\n\n**Závěr pro tuto část:**\n\n- **Silně podložené je tvrzení, že ČR patřila na konci roku 2021 mezi země s vůbec nejnižší energetickou inflací v OECD (jedna z nejnižších).**\n- **Nemáme však přímý statistický důkaz**, že česká hodnota 1,7 % byla **absolutně nejnižší** ze všech 38 členských zemí OECD, protože kompletní žebříček za prosinec 2021 z datasetu `DP_LIVE` (CPI.ENRG.AGRWTH.M) zde není dostupný.\n\nProto je konkrétní formulace:\n\n> „Nejnižší byla v České republice.“\n\nz hlediska přísného ověření **neprokázaná** – je **plausibilní**, ale chybí nám datový důkaz, že žádná jiná země OECD neměla v prosinci 2021 energetickou inflaci ≤ 1,7 %.\n\n---\n\n## 6. Celkové hodnocení výroku\n\n- **Pravdivé:**\n  - OECD i Eurostat měří a publikují **meziroční inflaci cen energií** (CPI/HICP – Energy). ([db.nomics.world](https://db.nomics.world/OECD/DP_LIVE/AUT.CPI.ENRG.IDX2015.A))  \n  - V prosinci 2021 byla energetická inflace v ČR **1,7 %**, což je **mimořádně nízké číslo** ve srovnání s průměrem OECD (25,6 %) i s řadou konkrétních zemí OECD, které měly dvouciferné hodnoty. ([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy))  \n\n- **Neprokázané (a potenciálně nadsazené):**\n  - Striktní tvrzení, že **ČR měla „nejnižší“ energetickou inflaci ze všech zemí OECD**.  \n    - K jeho potvrzení by bylo nutné analyzovat kompletní dataset OECD `DP_LIVE` pro všechny země (CPI.ENRG.AGRWTH.M, prosinec 2021). Tato data nejsou v rámci dostupných online výstupů kompletně viditelná.\n    - Dostupná evidence jasně ukazuje, že ČR byla „na úplném spodku“ žebříčku, ale **nikoli, že byla zcela první**.\n\nZ pohledu fact‑checkingu je tedy výrok:\n\n> „Nejnižší [energetická inflace v OECD] byla v České republice.“\n\n**podstatně nadsazený** – přesně doložit lze „jedna z nejnižších“, nikoli bezpečně „nejnižší“.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 121387,
+      "input_tokens_details": {
+        "cached_tokens": 6912
+      },
+      "output_tokens": 16806,
+      "output_tokens_details": {
+        "reasoning_tokens": 13437
+      },
+      "total_tokens": 138193
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772536037,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

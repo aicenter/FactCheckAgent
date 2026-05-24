@@ -1,0 +1,576 @@
+{
+  "claim_id": "24546",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20260116_143820",
+  "source_md": "experiments/gpt-5.1h_20260116_143820/brief_fact_check_id24546.md",
+  "fact_check": "# Fact Check for Statement ID 24546\n\n## Statement\n(...) vláda musí přestoupit před Sněmovnu do 30 dnů, to je ústavní princip.\n\n---\n## OpenAI Deep Research Fact Check\n## 1. Rozklad tvrzení\n\nSporná část výroku Marka Bendy:\n\n> „… vláda musí přestoupit před Sněmovnu do 30 dnů, to je ústavní princip.“\n\nMožné interpretace:\n\n1. **Nejpravděpodobnější (vzhledem ke kontextu)**  \n   Nově jmenovaná vláda České republiky je povinna do 30 dnů od svého jmenování vystoupit před Poslaneckou sněmovnou a požádat ji o vyslovení důvěry; tato povinnost vyplývá přímo z Ústavy (má ústavní sílu).\n\n2. **Přesnější právní formulace**  \n   Povinnost se vztahuje jen na *nově jmenovanou* vládu, lhůta běží *od jejího jmenování* prezidentem republiky.\n\nDalší možné, ale méně pravděpodobné výklady (např. že by šlo o každou parciálně rekonstruovanou vládu) neodpovídají textu Ústavy; vše nasvědčuje tomu, že Benda má na mysli standardní situaci nově jmenované vlády po volbách.\n\n---\n\n## 2. Právní úprava v Ústavě\n\n### 2.1 Přímé ustanovení Ústavy\n\nÚstavní zákon č. 1/1993 Sb., Ústava České republiky, v hlavě o vládě uvádí:\n\n- Čl. 68 odst. 1:  \n  „Vláda je odpovědna Poslanecké sněmovně.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod))  \n\n- Čl. 68 odst. 3:  \n  „Vláda předstoupí do třiceti dnů po svém jmenování před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod))  \n\nTotéž znění čl. 68 odst. 3 uvádí i odborná databáze ASPI (Wolters Kluwer): ([aspi.cz](https://www.aspi.cz/products/lawText/1/40450/1/2/ustavni-zakon-c-1-1993-sb-ustava-ceske-republiky/ustavni-zakon-c-1-1993-sb-ustava-ceske-republiky?utm_source=openai))  \n\nZ těchto ustanovení plyne:\n\n- jde o **povinnost vlády („předstoupí“)**, nikoli o možnost,\n- povinnost vztahuje se k **nově jmenované vládě**,  \n- **lhůta je 30 dnů od jejího jmenování** prezidentem republiky,\n- povinnost zahrnuje **jak „předstoupení před sněmovnu“, tak podání žádosti o vyslovení důvěry**.\n\nBendův výrok stručně reprodukuje první část tohoto ustanovení („vláda musí přestoupit před Sněmovnu do 30 dnů“); druhá část („a požádá ji o vyslovení důvěry“) je v textu Ústavy, ale Benda ji v citovaném úseku pouze implicitně předpokládá.\n\n### 2.2 Potvrzení dlouhodobé parlamentní praxe\n\nV různých obdobích se při projednávání žádosti nově jmenované vlády o důvěru opakovaně odkazuje na stejnou ústavní povinnost:\n\n- 1998 – vláda Josefa Tošovského:  \n  Předseda sněmovny připomíná, že **„Ústava České republiky předepisuje vládě předstoupit do 30 dnů po jejím jmenování před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry“**. ([psp.cz](https://www.psp.cz/eknih/1996ps/stenprot/019schuz/s019006.htm?utm_source=openai))  \n\n- 2005 – vláda Jiřího Paroubka:  \n  Předseda sněmovny uvádí, že **„Ústava České republiky předepisuje vládě předstoupit do 30 dnů po jejím jmenování před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry“**. ([psp.cz](https://www.psp.cz/eknih/2002ps/stenprot/044schuz/s044230.htm?utm_source=openai))  \n\n- 2014 – vláda Bohuslava Sobotky:  \n  Místopředsedkyně sněmovny upozorňuje, že **„Ústava České republiky předepisuje učinit tak do 30 dnů po jejím jmenování“**, když oznamuje projednání žádosti vlády o důvěru. ([psp.cz](https://www.psp.cz/eknih/2013ps/stenprot/006schuz/bqbs/b26906001.htm?utm_source=openai))  \n\n- 2017 – první vláda Andreje Babiše:  \n  Místopředseda sněmovny obdobně konstatuje, že **„Ústava České republiky předepisuje učinit tak do 30 dní po jejím jmenování“**. ([psp.cz](https://www.psp.cz/eknih/2017ps/stenprot/005schuz/s005008.htm?utm_source=openai))  \n\n- 2018 – druhá vláda Andreje Babiše:  \n  Při zařazení bodu „Žádost vlády České republiky o vyslovení důvěry“ zazní formulace, že **„Ústava České republiky předepisuje učinit tak do 30 dnů od jmenování. Lhůta je splněna.“** ([psp.cz](https://www.psp.cz/eknih/2017ps/stenprot/017schuz/bqbs/b00100101.htm?utm_source=openai))  \n\n- 2022 – vláda Petra Fialy:  \n  Předsedkyně sněmovny říká, že vláda **„je připravena předstoupit před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry. Ústava České republiky předepisuje učinit tak do 30 dnů po jejím jmenování.“** ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/006schuz/s006032.htm?utm_source=openai))  \n\nTyto stenozáznamy z různých volebních období potvrzují ustálený výklad: **nově jmenovaná vláda má podle Ústavy povinnost do 30 dnů předstoupit před Poslaneckou sněmovnu a požádat o důvěru**.\n\n---\n\n## 3. Hierarchie právních norem – proč „ústavní princip“\n\nBenda výslovně kontrastuje:\n\n- povinnost vlády předstoupit do 30 dnů před Sněmovnu (podle Ústavy)  \nversus\n- pravidla zákona o střetu zájmů (běžný zákon).\n\n### 3.1 Ústava jako právní předpis nejvyšší právní síly\n\nOficiální stránka Portálu evropské e-Justice (část pro Českou republiku) vysvětluje:\n\n- „Právní řád České republiky je hierarchicky uspořádán. V čele stojí Ústava a další ústavní zákony, které mají nejvyšší právní sílu…“ ([e-justice.europa.eu](https://e-justice.europa.eu/topics/legislation-and-case-law/national-legislation/cz_cs))  \n\nDále uvádí, že **pod ústavními zákony stojí zákony**, a že **předpis nižší právní síly musí být vždy v souladu s předpisem vyšší právní síly**. ([e-justice.europa.eu](https://e-justice.europa.eu/topics/legislation-and-case-law/national-legislation/cz_cs))  \n\nZ toho plyne:\n\n- pravidla obsažená v Ústavě (včetně čl. 68 odst. 3) mají **vyšší právní sílu** než běžné zákony, jako je zákon o střetu zájmů,\n- běžný zákon **nemůže platně stanovit povinnosti nebo překážky**, které by Ústavě odporovaly; v případě kolize musí být vykládán nebo změněn tak, aby byl s Ústavou v souladu, případně by musel být zrušen Ústavním soudem.\n\nJe tedy korektní označit povinnost podle čl. 68 odst. 3 jako **„ústavní princip“ či ústavní pravidlo vyšší právní síly**, které má přednost před podústavní právní úpravou.\n\n---\n\n## 4. Závěr k dílčím tvrzením\n\n### 4.1 „Vláda musí přestoupit před Sněmovnu do 30 dnů“\n\n- **Obsah Ústavy:** čl. 68 odst. 3 přímo ukládá, že vláda **do 30 dnů po svém jmenování** předstoupí před Poslaneckou sněmovnu a požádá ji o důvěru. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod))  \n- **Parlamentní praxe** opakovaně a konzistentně toto ustanovení takto cituje a aplikuje (vlády Tošovského, Paroubka, Sobotky, Babiše, Fialy aj.). ([psp.cz](https://www.psp.cz/eknih/1996ps/stenprot/019schuz/s019006.htm?utm_source=openai))  \n\n**Hodnocení:** Tvrzení (ve smyslu „nově jmenovaná vláda musí do 30 dnů od svého jmenování předstoupit před Sněmovnu“) je plně v souladu s Ústavou. Jediným zpřesněním by mohlo být výslovné doplnění, že jde o *nově jmenovanou* vládu a že současně musí požádat o vyslovení důvěry.\n\n### 4.2 „…to je ústavní princip“ (pravidlo vyšší právní síly)\n\n- Povinnost 30denní lhůty je zakotvena přímo v **Ústavě České republiky** (čl. 68 odst. 3). ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod))  \n- Podle oficiálního přehledu právního řádu ČR platí, že **„v čele stojí Ústava a další ústavní zákony, které mají nejvyšší právní sílu“**, zatímco běžné zákony (včetně zákona o střetu zájmů) mají nižší právní sílu a musí s Ústavou souhlasit. ([e-justice.europa.eu](https://e-justice.europa.eu/topics/legislation-and-case-law/national-legislation/cz_cs))  \n\n**Hodnocení:** Označení této povinnosti jako „ústavní princip“ je z hlediska právní síly a hierarchie norem věcně správné – jde o pravidlo zakotvené v Ústavě, které má vyšší právní sílu než zákon o střetu zájmů.\n\n---\n\n## 5. Celkové shrnutí\n\n- **Jádro Bendova tvrzení – že vláda musí do 30 dnů předstoupit před Poslaneckou sněmovnu – je přesný popis čl. 68 odst. 3 Ústavy, s implicitním předpokladem, že při tom žádá o důvěru.**\n- **Charakterizace této povinnosti jako „ústavního principu“ odpovídá tomu, že je přímo v Ústavě, která má podle standardního výkladu nejvyšší právní sílu a stojí nad běžnými zákony.**\n\nNa základě dostupných právních předpisů a praxe ve Sněmovně není nalezeno nic, co by tomuto tvrzení odporovalo.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Pro a proti released on 2026-01-13 available from https://plus.rozhlas.cz/debata-o-okamurovi-bude-zajimavejsi-nez-hlasovani-o-duvere-mini-benda-nacher-na-9588540.\\n\\n\\nThe claim was made by: Marek Benda, Poslanec\\n\\n\\nThe claim appears in the following immediate context in the source:\\nInformuje...\\n00:12:25\\nPatrik Nacher,\\nposlanec, místopředseda Poslanecké sněmovny /ANO/\\n...informuje, myslím si, že v tomhle tom jako problém není.\\n00:12:28\\nLukáš Matoška,moderátor\\nToto zdůvodnění berete, pane poslanče Bendo, tedy, že složením akcií Agrofertu do fondu musí pan Babiš vyčkat ještě na souhlasy ze zahraničí a že o tom informuje.\\n00:12:42\\nMarek Benda,předseda poslaneckého klubu /ODS/\\nJá nevím, jestli je to pravda samozřejmě, ale jinak souhlasím s kolegou Nacherem, že vláda musí přestoupit před sněmovnu do 30 dnů, to je ústavní princip. Střet zájmů je princip nižší právní síly, zákona o střetu zájmů a tam případně nastupují jiné sankce. Asi se o tom budeme zítra, pozítří ve sněmovně také bavit, jak to bude s vyřešením střetu zájmů pana premiéra, ale určitě je jasné, že vláda musí před sněmovnu předstoupit.\\n00:13:12\\nLukáš Matoška,moderátor\\n\\nProvide a structured, citation-backed verification of the claim: '(...) vláda musí přestoupit před Sněmovnu do 30 dnů, to je ústavní princip.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 277.11 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Ověřované tvrzení, že vláda musí do 30 dnů od jmenování předstoupit před Poslaneckou sněmovnu, vyplývá přímo z čl. 68 odst. 3 Ústavy a má vyšší právní sílu než běžné zákony. Výrok proto hodnotíme jako pravdivý.</p>\n\n<p>Předmětem ověření je tvrzení, podle něhož vláda musí do 30 dnů předstoupit před Poslaneckou sněmovnu a že tato povinnost má povahu ústavního principu, tedy pravidla zakotveného přímo v Ústavě České republiky a nadřazeného běžným zákonům.</p>\n\n<p>Podle článku 68 odst. 3 <a href=\"https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod\">Ústavy České republiky</a> platí: <i>„Vláda předstoupí do třiceti dnů po svém jmenování před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry.“</i> Toto znění potvrzuje i odborný systém <a href=\"https://www.aspi.cz/products/lawText/1/40450/1/2/ustavni-zakon-c-1-1993-sb-ustava-ceske-republiky/ustavni-zakon-c-1-1993-sb-ustava-ceske-republiky\">ASPI</a>. Z citovaného ustanovení vyplývá, že jde o právní povinnost vlády (nikoli jen možnost), že se tato povinnost vztahuje na nově jmenovanou vládu jako celek a že třicetidenní lhůta běží od jejího jmenování prezidentem republiky.</p>\n\n<p>Stejný výklad se dlouhodobě promítá i do praxe Poslanecké sněmovny. Při projednávání žádosti vlády Josefa Tošovského o vyslovení důvěry v roce 1998 předsedající výslovně uvedl, že <i>„Ústava České republiky předepisuje vládě předstoupit do 30 dnů po jejím jmenování před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry“</i>, jak je zachyceno ve <a href=\"https://www.psp.cz/eknih/1996ps/stenprot/019schuz/s019006.htm\">stenozáznamu schůze Poslanecké sněmovny z roku 1998</a>. Obdobně při projednávání důvěry vládě Petra Fialy v roce 2022 předsedkyně Sněmovny připomněla, že vláda je připravena předstoupit před Poslaneckou sněmovnu a požádat ji o důvěru a že <i>„Ústava České republiky předepisuje učinit tak do 30 dnů po jejím jmenování“</i>, což dokládá <a href=\"https://www.psp.cz/eknih/2021ps/stenprot/006schuz/s006032.htm\">stenozáznam schůze z roku 2022</a>. Tyto příklady ukazují, že třicetidenní lhůta i povinnost vlády vystoupit před Sněmovnou a žádat důvěru jsou vnímány a uplatňovány přesně tak, jak je stanoví Ústava.</p>\n\n<p>První část ověřovaného výroku – že vláda „musí“ do 30 dnů předstoupit před Sněmovnu – tedy přesně odpovídá čl. 68 odst. 3 Ústavy. Výrok je jen zestručněním: nezdůrazňuje, že jde o nově jmenovanou vládu a že při tomto vystoupení zároveň žádá o vyslovení důvěry, obě tyto skutečnosti však ze znění Ústavy jasně vyplývají a z kontextu výroku jsou zjevně předpokládány. Věcnou správnost tvrzení to nenarušuje.</p>\n\n<p>Druhá část výroku označuje tuto povinnost jako „ústavní princip“. Pravidlo třicetidenní lhůty je skutečně zakotveno přímo v Ústavě, která má v českém právním řádu nejvyšší právní sílu. Oficiální přehled právního řádu na <a href=\"https://e-justice.europa.eu/topics/legislation-and-case-law/national-legislation/cz_cs\">Portálu evropské e-Justice</a> uvádí, že právní řád České republiky je hierarchicky uspořádán a v jeho čele stojí Ústava a další ústavní zákony, jež mají nejvyšší právní sílu, zatímco zákony stojí níže a musí být s ústavními zákony v souladu. Z toho plyne, že povinnost vlády předstoupit do 30 dnů před Poslaneckou sněmovnu a požádat o důvěru je normou ústavní síly – tedy právě tím, co je běžně označováno jako ústavní princip či ústavní pravidlo, nadřazené běžným zákonům, včetně zákona o střetu zájmů.</p>\n\n<p>Souhrnně tedy platí, že článek 68 odst. 3 <a href=\"https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod\">Ústavy České republiky</a> výslovně stanoví povinnost nově jmenované vlády do 30 dnů od jmenování předstoupit před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry, a že jde o pravidlo ústavní síly potvrzené i dlouhodobou parlamentní praxí, doloženou například ve <a href=\"https://www.psp.cz/eknih/1996ps/stenprot/019schuz/s019006.htm\">stenozáznamu z roku 1998</a> či <a href=\"https://www.psp.cz/eknih/2021ps/stenprot/006schuz/s006032.htm\">stenozáznamu z roku 2022</a>. Ověřované tvrzení je proto v obou svých částech v souladu s právní úpravou i s praxí a hodnotíme je jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_012fb0c64d7d09ec00696a4274cbf4819c8a35e19acfdec00d",
+    "created_at": 1768571508.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_012fb0c64d7d09ec00696a427c787c819ca79b513679ba9f3d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42876ac0819c93276c13b3fceec3",
+        "action": {
+          "query": "\"Do třiceti dnů po svém jmenování předstoupí vláda před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Do třiceti dnů po svém jmenování předstoupí vláda před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a4289151c819cb8099df1eb25a9f0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42944dfc819c9f4d09880e2c81cc",
+        "action": {
+          "query": "\"Vláda předstoupí do třiceti dnů po svém jmenování\" Ústava",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Vláda předstoupí do třiceti dnů po svém jmenování\" Ústava",
+            "nově jmenovaná vláda do 30 dnů po svém jmenování předstoupí před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a42964414819cbd2293f5337cdc73",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42980d0c819c9a50ac81b674ebdf",
+        "action": {
+          "query": "\"Ústava České republiky je základní zákon státu\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Ústava České republiky je základní zákon státu\"",
+            "prameny práva v ČR hierarchie Ústava zákony"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a429a0178819ca1efa52df5c2c427",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a429a5168819ca10a48bebf5e72c1",
+        "action": {
+          "query": "\"základní zákon státu\" \"Ústava České republiky\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"základní zákon státu\" \"Ústava České republiky\"",
+            "hierarchie právních předpisů ústava zákony nařízení vlády vyhlášky\",\"Ústava\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a429e1744819c9c2686925b343174",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a429f20e0819c8c9e953b7e07ef0d",
+        "action": {
+          "query": "hierarchie pramenů práva v ČR ústava zákon vyhláška",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "hierarchie pramenů práva v ČR ústava zákon vyhláška",
+            "\"Ústava má nejvyšší právní sílu\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a42a14388819c84885a7543850e07",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42a20990819cb5eb3ef82a227b01",
+        "action": {
+          "query": "\"nejvyšší právní sílu\" \"Ústava\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nejvyšší právní sílu\" \"Ústava\"",
+            "\"hierarchie právních norem\" \"Ústava\" \"zákon\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a42a41334819cb2b79469a5af54c8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42a47c78819cbdc31781dc3a31dc",
+        "action": {
+          "query": "\"právní sílu\" \"Ústava České republiky\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"právní sílu\" \"Ústava České republiky\"",
+            "\"Na vrcholu hierarchie právních norem stojí ústava\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a42a63410819cbd8a270b78f99303",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42a6a9a8819cb0a71c6cb9f5994c",
+        "action": {
+          "query": "\"na vrcholu hierarchie právních\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"na vrcholu hierarchie právních\"",
+            "\"Ústava České republiky\" \"nejvyšší právní sílu\"",
+            "\"Ústava\" \"základní zákon státu\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a42a94b68819c8855f64ccd4f8cd7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42d736cc819c8a3c7aa3a270afee",
+        "action": {
+          "query": "\"1/1993 Sb.\" \"Ústava České republiky\" úplné znění",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"1/1993 Sb.\" \"Ústava České republiky\" úplné znění",
+            "\"1/1993 Sb., Ústava České republiky\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a42daa050819c8ebf2b21f0ff04cd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42dbbbe8819cabb592a0276e76f1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a42dce578819c892ec1c0d52e4c08",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42f507a8819ca73565bc5abfab48",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a42f8f2bc819ca55d728a44720205",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42f9c910819ca14f880ca43b9ea3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a42fd3dac819c876f1562dfeff66b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a42fdf74c819c93482924043341ac",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a4300e2a8819cb0e018cb6ecec5c6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a43021940819c84728bea99267ffd",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a430a4234819c840ede3c403020b5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a430f7bc0819c92f5f6326fbdd2ec",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a4312bbec819ca2866eea48649696",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a431dd0ec819ca91097aa39ce23ce",
+        "action": {
+          "query": "\"čl. 68\" \"Vláda předstoupí do třiceti dnů\" \"1/1993\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"čl. 68\" \"Vláda předstoupí do třiceti dnů\" \"1/1993\"",
+            "novela čl. 68 Ústavy České republiky 68 3"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a43217b10819c894292ec87a5d29e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a4327bda4819ca9ab45f9c3e51010",
+        "action": {
+          "query": "\"do třiceti dnů po svém jmenování\" vláda \"nedodržela\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"do třiceti dnů po svém jmenování\" vláda \"nedodržela\"",
+            "porušení lhůty 30 dnů vláda požádat Poslaneckou sněmovnu o důvěru",
+            "lhůta 30 dnů vláda požádat o důvěru ústava čl. 68 výklad"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a432cdac4819c8be1159b6d79a453",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_012fb0c64d7d09ec00696a43506e08819ca22983b4e02c3988",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_012fb0c64d7d09ec00696a43545d80819ca96ad0accbbb625d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_012fb0c64d7d09ec00696a43642328819cbbf3cea1e1761b86",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1111,
+                "start_index": 998,
+                "title": "\n1/1993 Sb. Ústava České republiky\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod"
+              },
+              {
+                "end_index": 1360,
+                "start_index": 1247,
+                "title": "\n1/1993 Sb. Ústava České republiky\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod"
+              },
+              {
+                "end_index": 1616,
+                "start_index": 1439,
+                "title": "Ústavní zákon 1/1993 Sb. - Ústava České republiky úplné a aktualní znění | ASPI | Wolters Kluwer ČR, a. s.",
+                "type": "url_citation",
+                "url": "https://www.aspi.cz/products/lawText/1/40450/1/2/ustavni-zakon-c-1-1993-sb-ustava-ceske-republiky/ustavni-zakon-c-1-1993-sb-ustava-ceske-republiky?utm_source=openai"
+              },
+              {
+                "end_index": 2651,
+                "start_index": 2560,
+                "title": "PČR, PS 1996-1998, 19. schůze, část 6 (27. 1. 1998)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/1996ps/stenprot/019schuz/s019006.htm?utm_source=openai"
+              },
+              {
+                "end_index": 2957,
+                "start_index": 2866,
+                "title": "PČR, PS 2002-2006, 44. schůze, část 230 (13. 5. 2005)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2002ps/stenprot/044schuz/s044230.htm?utm_source=openai"
+              },
+              {
+                "end_index": 3269,
+                "start_index": 3171,
+                "title": "PČR, PS 2013-2017, 6. schůze, část 269 (18. 2. 2014)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2013ps/stenprot/006schuz/bqbs/b26906001.htm?utm_source=openai"
+              },
+              {
+                "end_index": 3533,
+                "start_index": 3442,
+                "title": "PČR, PS 2017-2021, 5. schůze, část 8 (10. 1. 2018)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2017ps/stenprot/005schuz/s005008.htm?utm_source=openai"
+              },
+              {
+                "end_index": 3858,
+                "start_index": 3760,
+                "title": "PČR, PS 2017-2021, 17. schůze, část 1 (11. 7. 2018)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2017ps/stenprot/017schuz/bqbs/b00100101.htm?utm_source=openai"
+              },
+              {
+                "end_index": 4188,
+                "start_index": 4097,
+                "title": "PČR, PS 2021-2025, 6. schůze, část 32",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2021ps/stenprot/006schuz/s006032.htm?utm_source=openai"
+              },
+              {
+                "end_index": 4992,
+                "start_index": 4881,
+                "title": "Vnitrostátní právní předpisy | Portál evropské e-Justice",
+                "type": "url_citation",
+                "url": "https://e-justice.europa.eu/topics/legislation-and-case-law/national-legislation/cz_cs"
+              },
+              {
+                "end_index": 5251,
+                "start_index": 5140,
+                "title": "Vnitrostátní právní předpisy | Portál evropské e-Justice",
+                "type": "url_citation",
+                "url": "https://e-justice.europa.eu/topics/legislation-and-case-law/national-legislation/cz_cs"
+              },
+              {
+                "end_index": 6149,
+                "start_index": 6036,
+                "title": "\n1/1993 Sb. Ústava České republiky\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod"
+              },
+              {
+                "end_index": 6390,
+                "start_index": 6299,
+                "title": "PČR, PS 1996-1998, 19. schůze, část 6 (27. 1. 1998)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/1996ps/stenprot/019schuz/s019006.htm?utm_source=openai"
+              },
+              {
+                "end_index": 6941,
+                "start_index": 6828,
+                "title": "\n1/1993 Sb. Ústava České republiky\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod"
+              },
+              {
+                "end_index": 7297,
+                "start_index": 7186,
+                "title": "Vnitrostátní právní předpisy | Portál evropské e-Justice",
+                "type": "url_citation",
+                "url": "https://e-justice.europa.eu/topics/legislation-and-case-law/national-legislation/cz_cs"
+              }
+            ],
+            "text": "## 1. Rozklad tvrzení\n\nSporná část výroku Marka Bendy:\n\n> „… vláda musí přestoupit před Sněmovnu do 30 dnů, to je ústavní princip.“\n\nMožné interpretace:\n\n1. **Nejpravděpodobnější (vzhledem ke kontextu)**  \n   Nově jmenovaná vláda České republiky je povinna do 30 dnů od svého jmenování vystoupit před Poslaneckou sněmovnou a požádat ji o vyslovení důvěry; tato povinnost vyplývá přímo z Ústavy (má ústavní sílu).\n\n2. **Přesnější právní formulace**  \n   Povinnost se vztahuje jen na *nově jmenovanou* vládu, lhůta běží *od jejího jmenování* prezidentem republiky.\n\nDalší možné, ale méně pravděpodobné výklady (např. že by šlo o každou parciálně rekonstruovanou vládu) neodpovídají textu Ústavy; vše nasvědčuje tomu, že Benda má na mysli standardní situaci nově jmenované vlády po volbách.\n\n---\n\n## 2. Právní úprava v Ústavě\n\n### 2.1 Přímé ustanovení Ústavy\n\nÚstavní zákon č. 1/1993 Sb., Ústava České republiky, v hlavě o vládě uvádí:\n\n- Čl. 68 odst. 1:  \n  „Vláda je odpovědna Poslanecké sněmovně.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod))  \n\n- Čl. 68 odst. 3:  \n  „Vláda předstoupí do třiceti dnů po svém jmenování před Poslaneckou sněmovnu a požádá ji o vyslovení důvěry.“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod))  \n\nTotéž znění čl. 68 odst. 3 uvádí i odborná databáze ASPI (Wolters Kluwer): ([aspi.cz](https://www.aspi.cz/products/lawText/1/40450/1/2/ustavni-zakon-c-1-1993-sb-ustava-ceske-republiky/ustavni-zakon-c-1-1993-sb-ustava-ceske-republiky?utm_source=openai))  \n\nZ těchto ustanovení plyne:\n\n- jde o **povinnost vlády („předstoupí“)**, nikoli o možnost,\n- povinnost vztahuje se k **nově jmenované vládě**,  \n- **lhůta je 30 dnů od jejího jmenování** prezidentem republiky,\n- povinnost zahrnuje **jak „předstoupení před sněmovnu“, tak podání žádosti o vyslovení důvěry**.\n\nBendův výrok stručně reprodukuje první část tohoto ustanovení („vláda musí přestoupit před Sněmovnu do 30 dnů“); druhá část („a požádá ji o vyslovení důvěry“) je v textu Ústavy, ale Benda ji v citovaném úseku pouze implicitně předpokládá.\n\n### 2.2 Potvrzení dlouhodobé parlamentní praxe\n\nV různých obdobích se při projednávání žádosti nově jmenované vlády o důvěru opakovaně odkazuje na stejnou ústavní povinnost:\n\n- 1998 – vláda Josefa Tošovského:  \n  Předseda sněmovny připomíná, že **„Ústava České republiky předepisuje vládě předstoupit do 30 dnů po jejím jmenování před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry“**. ([psp.cz](https://www.psp.cz/eknih/1996ps/stenprot/019schuz/s019006.htm?utm_source=openai))  \n\n- 2005 – vláda Jiřího Paroubka:  \n  Předseda sněmovny uvádí, že **„Ústava České republiky předepisuje vládě předstoupit do 30 dnů po jejím jmenování před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry“**. ([psp.cz](https://www.psp.cz/eknih/2002ps/stenprot/044schuz/s044230.htm?utm_source=openai))  \n\n- 2014 – vláda Bohuslava Sobotky:  \n  Místopředsedkyně sněmovny upozorňuje, že **„Ústava České republiky předepisuje učinit tak do 30 dnů po jejím jmenování“**, když oznamuje projednání žádosti vlády o důvěru. ([psp.cz](https://www.psp.cz/eknih/2013ps/stenprot/006schuz/bqbs/b26906001.htm?utm_source=openai))  \n\n- 2017 – první vláda Andreje Babiše:  \n  Místopředseda sněmovny obdobně konstatuje, že **„Ústava České republiky předepisuje učinit tak do 30 dní po jejím jmenování“**. ([psp.cz](https://www.psp.cz/eknih/2017ps/stenprot/005schuz/s005008.htm?utm_source=openai))  \n\n- 2018 – druhá vláda Andreje Babiše:  \n  Při zařazení bodu „Žádost vlády České republiky o vyslovení důvěry“ zazní formulace, že **„Ústava České republiky předepisuje učinit tak do 30 dnů od jmenování. Lhůta je splněna.“** ([psp.cz](https://www.psp.cz/eknih/2017ps/stenprot/017schuz/bqbs/b00100101.htm?utm_source=openai))  \n\n- 2022 – vláda Petra Fialy:  \n  Předsedkyně sněmovny říká, že vláda **„je připravena předstoupit před Poslaneckou sněmovnu a požádat ji o vyslovení důvěry. Ústava České republiky předepisuje učinit tak do 30 dnů po jejím jmenování.“** ([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/006schuz/s006032.htm?utm_source=openai))  \n\nTyto stenozáznamy z různých volebních období potvrzují ustálený výklad: **nově jmenovaná vláda má podle Ústavy povinnost do 30 dnů předstoupit před Poslaneckou sněmovnu a požádat o důvěru**.\n\n---\n\n## 3. Hierarchie právních norem – proč „ústavní princip“\n\nBenda výslovně kontrastuje:\n\n- povinnost vlády předstoupit do 30 dnů před Sněmovnu (podle Ústavy)  \nversus\n- pravidla zákona o střetu zájmů (běžný zákon).\n\n### 3.1 Ústava jako právní předpis nejvyšší právní síly\n\nOficiální stránka Portálu evropské e-Justice (část pro Českou republiku) vysvětluje:\n\n- „Právní řád České republiky je hierarchicky uspořádán. V čele stojí Ústava a další ústavní zákony, které mají nejvyšší právní sílu…“ ([e-justice.europa.eu](https://e-justice.europa.eu/topics/legislation-and-case-law/national-legislation/cz_cs))  \n\nDále uvádí, že **pod ústavními zákony stojí zákony**, a že **předpis nižší právní síly musí být vždy v souladu s předpisem vyšší právní síly**. ([e-justice.europa.eu](https://e-justice.europa.eu/topics/legislation-and-case-law/national-legislation/cz_cs))  \n\nZ toho plyne:\n\n- pravidla obsažená v Ústavě (včetně čl. 68 odst. 3) mají **vyšší právní sílu** než běžné zákony, jako je zákon o střetu zájmů,\n- běžný zákon **nemůže platně stanovit povinnosti nebo překážky**, které by Ústavě odporovaly; v případě kolize musí být vykládán nebo změněn tak, aby byl s Ústavou v souladu, případně by musel být zrušen Ústavním soudem.\n\nJe tedy korektní označit povinnost podle čl. 68 odst. 3 jako **„ústavní princip“ či ústavní pravidlo vyšší právní síly**, které má přednost před podústavní právní úpravou.\n\n---\n\n## 4. Závěr k dílčím tvrzením\n\n### 4.1 „Vláda musí přestoupit před Sněmovnu do 30 dnů“\n\n- **Obsah Ústavy:** čl. 68 odst. 3 přímo ukládá, že vláda **do 30 dnů po svém jmenování** předstoupí před Poslaneckou sněmovnu a požádá ji o důvěru. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod))  \n- **Parlamentní praxe** opakovaně a konzistentně toto ustanovení takto cituje a aplikuje (vlády Tošovského, Paroubka, Sobotky, Babiše, Fialy aj.). ([psp.cz](https://www.psp.cz/eknih/1996ps/stenprot/019schuz/s019006.htm?utm_source=openai))  \n\n**Hodnocení:** Tvrzení (ve smyslu „nově jmenovaná vláda musí do 30 dnů od svého jmenování předstoupit před Sněmovnu“) je plně v souladu s Ústavou. Jediným zpřesněním by mohlo být výslovné doplnění, že jde o *nově jmenovanou* vládu a že současně musí požádat o vyslovení důvěry.\n\n### 4.2 „…to je ústavní princip“ (pravidlo vyšší právní síly)\n\n- Povinnost 30denní lhůty je zakotvena přímo v **Ústavě České republiky** (čl. 68 odst. 3). ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/1993-1?text=listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod))  \n- Podle oficiálního přehledu právního řádu ČR platí, že **„v čele stojí Ústava a další ústavní zákony, které mají nejvyšší právní sílu“**, zatímco běžné zákony (včetně zákona o střetu zájmů) mají nižší právní sílu a musí s Ústavou souhlasit. ([e-justice.europa.eu](https://e-justice.europa.eu/topics/legislation-and-case-law/national-legislation/cz_cs))  \n\n**Hodnocení:** Označení této povinnosti jako „ústavní princip“ je z hlediska právní síly a hierarchie norem věcně správné – jde o pravidlo zakotvené v Ústavě, které má vyšší právní sílu než zákon o střetu zájmů.\n\n---\n\n## 5. Celkové shrnutí\n\n- **Jádro Bendova tvrzení – že vláda musí do 30 dnů předstoupit před Poslaneckou sněmovnu – je přesný popis čl. 68 odst. 3 Ústavy, s implicitním předpokladem, že při tom žádá o důvěru.**\n- **Charakterizace této povinnosti jako „ústavního principu“ odpovídá tomu, že je přímo v Ústavě, která má podle standardního výkladu nejvyšší právní sílu a stojí nad běžnými zákony.**\n\nNa základě dostupných právních předpisů a praxe ve Sněmovně není nalezeno nic, co by tomuto tvrzení odporovalo.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 75149,
+      "input_tokens_details": {
+        "cached_tokens": 5760
+      },
+      "output_tokens": 14400,
+      "output_tokens_details": {
+        "reasoning_tokens": 11833
+      },
+      "total_tokens": 89549
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1768571782,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

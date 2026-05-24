@@ -1,0 +1,763 @@
+{
+  "claim_id": "24635",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24635.md",
+  "fact_check": "# Fact Check for Statement ID 24635\n\n## Statement\nCeny energií v roce 2021 v České republice byly nejdražší nebo druhé nejdražší v Evropě.\n\n---\n## AI Fact Check\n## Shrnutí hodnocení\n\n**Výrok „Ceny energií v roce 2021 v České republice byly nejdražší nebo druhé nejdražší v Evropě“ neodpovídá dostupným datům.**  \nPodle primárních statistik Eurostatu a jejich odborného zpracování:\n\n- **Ceny elektřiny pro domácnosti v roce 2021 (ani v eurech, ani po přepočtu na PPS)** nebyly v ČR ani první, ani druhé nejvyšší v EU.\n- **Ceny plynu pro domácnosti v roce 2021** také nepatřily k 1.–2. nejvyšším.\n- U žádného standardního ukazatele (elektřina, plyn, „energie pro bydlení“ v HICP) se pro rok 2021 nepotvrdilo, že by ČR byla 1. nebo 2. nejdražší v Evropě.\n\nVýrok proto hodnotitelný jako **NEPRAVDIVÝ** (s poznámkou, že pro jiné roky a jinou metodiku – zejména 2022–2024 a při použití PPS – už ČR skutečně vychází mezi nejdražšími).\n\n---\n\n## 1. Co může „ceny energií“ v tomto kontextu znamenat\n\nReálné datové interpretace, které dávají smysl:\n\n1. **Ceny elektřiny pro domácnosti** (nejčastější v mediálním i politickém diskurzu).\n2. **Ceny plynu pro domácnosti.**\n3. **Souhrnná položka „energie pro bydlení“** (elektřina, plyn, pevná paliva, teplo) v harmonizovaném indexu spotřebitelských cen (HICP).\n4. Vše výše **v nominálních eurech** (€/kWh, €/100 kWh) nebo **po přepočtu na paritu kupní síly / PPS** (tedy „reálná“ finanční zátěž).\n\nFiala mluví o „stejné metodice“ jako Havlíček, který se odvolával na mezinárodní statistiky (OECD/Eurostat). Je proto rozumné ověřit:\n\n- **(A)** elektřinu v eurech,  \n- **(B)** elektřinu v PPS,  \n- **(C)** plyn v eurech i PPS,  \n- **(D)** souhrnnou položku „energie pro bydlení“ v HICP.\n\n---\n\n## 2. Elektřina pro domácnosti 2021 – nominální ceny (euro/kWh)\n\n### Eurostat – oficiální přehled za 2. pololetí 2021\n\nEurostat ve zprávě o cenách elektřiny a plynu za 2. pololetí 2021 uvádí:\n\n- „…průměrné ceny elektřiny pro domácnosti… byly **nejnižší v Maďarsku (10,0 €/100 kWh), Bulharsku (10,9) a Chorvatsku (13,1)** a **nejvyšší v Dánsku (34,5), Německu (32,3), Belgii (29,9) a Irsku (29,7)**.“ ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai))  \n\nČeská republika v tomto výčtu **mezi nejdražšími nefiguruje**.\n\n### Detailní tabulka (Eurostat, pásmo DC 2 500–5 000 kWh)\n\nAgregátor countryeconomy.com zveřejňuje pro rok 2021 tabulku „Household electricity prices in Europe“, která je přímo založená na datech Eurostatu (kód nrg_pc_204, pásmo DC). Pro 2. pololetí 2021 uvádí: ([countryeconomy.com](https://countryeconomy.com/energy-and-environment/electricity-price-household?year=2021))  \n\n- **Česko:** 0,1883 €/kWh (vč. daní)  \n- Vyšší ceny mají například:\n\n  - Dánsko: 0,3448 €/kWh  \n  - Německo: 0,3234 €/kWh  \n  - Belgie: 0,2994 €/kWh  \n  - Irsko: 0,2974 €/kWh  \n  - Španělsko: 0,2816 €/kWh  \n  - Itálie: 0,2360 €/kWh  \n  - Portugalsko: 0,2170 €/kWh  \n  - Rakousko: 0,2285 €/kWh  \n  - Norsko: 0,2206 €/kWh  \n\nZ těchto čísel je zřejmé, že **ČR je v nominálních cenách spíše kolem průměru až mírně nadprůměrná**, nikoli v TOP 2.\n\n**Závěr pro dílčí tvrzení A (elektřina, €):**  \nTvrzení, že v roce 2021 byly české ceny elektřiny pro domácnosti **nejvyšší či druhé nejvyšší v Evropě v eurech**, je **v přímém rozporu** s oficiálními daty Eurostatu.\n\n---\n\n## 3. Elektřina pro domácnosti 2021 – po přepočtu na PPS (parita kupní síly)\n\nZde je důležité, protože:\n\n- Česká média opakovaně uvádějí, že **„po přepočtu na kupní sílu“** patří ČR mezi nejdražší země (zejména v letech 2022–2024). ([euronews.com](https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai))  \n- Petr Fiala mluví o „stejné metodice“ – může tedy jít o PPS.\n\n### Odborná studie založená na datech Eurostatu (PPS/kWh)\n\nStudie v časopise *Energies* (MDPI) „Differences in the Structure of Household Electricity Prices in EU Countries“ pracuje přímo s daty Eurostatu pro **„single national electricity prices“ v PPS/kWh za roky 2019–2021**. Tabulka 1 shrnuje průměrné ceny (PPS/kWh) v jednotlivých zemích: ([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636))  \n\nVybrané hodnoty pro **rok 2021 (PPS/kWh)**:\n\n- EU27 průměr: **0,2330 PPS/kWh**\n- **Španělsko:** 0,3074  \n- **Rumunsko:** 0,3036  \n- **Německo:** 0,2956  \n- **Polsko:** 0,2790  \n- **Portugalsko:** 0,2635  \n- **Belgie:** 0,2564  \n- …\n- **Česká republika:** **0,2363 PPS/kWh**\n\nAutoři explicitně shrnují, že v roce 2021 „domácnosti platily nejvíce za jednotku elektřiny ve Španělsku (0,3074), Rumunsku (0,3036), Německu (0,2956) a Polsku (0,279)“; Česko v tomto výčtu **není**. ([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636))  \n\nČeská hodnota (0,2363 PPS/kWh) je **jen mírně nad průměrem EU27 (0,2330)** a **pod úrovní řady zemí** (ES, RO, DE, PL, PT, BE, IT aj.).\n\n### Rozpor s některými mediálními interpretacemi\n\nMediální texty, které tvrdí, že **„Češi platí za elektřinu nejvíc v Evropě“**, se většinou:\n\n- vztahují k **jiným rokům** (zejm. 2022 a dále),  \n- nebo používají jiný výběr dat (např. jen hlavní města, jen určitá spotřebitelská pásma, případně index HEPI). ([expats.cz](https://www.expats.cz/czech-news/article/the-czech-republic-now-has-europe-s-most-expensive-electricity/1000?utm_source=openai))  \n\nPříklad pro rok 2020: článek Prague Monitor (15. 4. 2021) uvádí, že podle Eurostatu **za rok 2020** vychází elektřina po přepočtu na kupní sílu jako **nejdražší právě v ČR**. ([praguemonitor.com](https://praguemonitor.com/life/15/04/2021/czechs-pay-more-for-electricity-than-anyone-else-in-europe/?utm_source=openai))  \nTo ale **není rok 2021**, a navíc vychází z konkrétního výběru dat (pravděpodobně jiná metodika než „single national price“ v PPS).\n\n**Závěr pro dílčí tvrzení B (elektřina, PPS):**  \nI při sofistikovaném přepočtu na **PPS/kWh** nemá ČR v roce 2021 **nejvyšší ani druhou nejvyšší** cenu elektřiny. Je mírně nad průměrem EU, ale za Španělskem, Rumunskem, Německem, Polskem a dalšími zeměmi. Výrok je tedy **nepravdivý i v této „příznivější“ interpretaci**.\n\n---\n\n## 4. Plyn pro domácnosti 2021\n\n### Eurostat – 2. pololetí 2021 (euro/kWh)\n\nStejná zpráva Eurostatu uvádí, že: ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai))  \n\n- „Vyjádřeno v eurech byly průměrné ceny plynu pro domácnosti v druhé polovině 2021 **nejnižší v Maďarsku (3,1 €/100 kWh), Chorvatsku (4,0) a Litvě (4,1)** a **nejvyšší ve Švédsku (18,6), Dánsku (12,5), Nizozemsku (11,0) a Španělsku (10,8).**“\n\nČR zde **opět není mezi nejdražšími** zeměmi.\n\n### Plyn v PPS (parita kupní síly)\n\nU plynu je méně přímých textových shrnutí, ale jeden z materiálů založený na Eurostatu (nrg_pc_202) uvádí pro **1. pololetí 2021**: ([ondoclub.ru](https://ondoclub.ru/raznoe-2/statistika-rosta-czen-na-benzin-kak-podorozhal-benzin-za-20-let-sravnenie-czen-autonews.html?utm_source=openai))  \n\n- „Ceny plynu v PPS byly **nejvyšší v Portugalsku (9)** a **Nizozemsku (8)**;  \n- nejnižší v Lucembursku (3) a Litvě (4).“\n\nČeská republika tam mezi cenovými extrémy **nefiguruje** (detailní tabulka v citovaném fragmentu neuvedena, ale jmenovaná „nejvyšší“ dvojice je jiná).\n\n**Závěr pro dílčí tvrzení C (plyn):**  \nAni u **plynu** – ať v eurech, nebo v PPS – data za rok 2021 neukazují, že by ČR byla **1. nebo 2. nejdražší** zemí v Evropě.\n\n---\n\n## 5. Souhrnná položka „energie pro bydlení“ (HICP – elektřina, plyn, další paliva, teplo)\n\nZde vstupujeme na úroveň **cenových indexů (inflace)**, které používá jak OECD, tak Eurostat.\n\n### Vývoj cen energií podle ČSÚ a Eurostatu (2021)\n\nČSÚ ve své analýze „Co se skrývá za růstem cen?“ shrnuje, jak se v roce 2021 vyvíjely ceny energií pro domácnosti v jednotlivých zemích EU. Pro konec roku 2021 (prosinec) uvádí: ([statistikaamy.csu.gov.cz](https://statistikaamy.csu.gov.cz/co-se-skryva-za-rustem-cen?utm_source=openai))  \n\n- Nejvyšší meziroční růsty **cen elektřiny pro domácnosti** v prosinci 2021 byly v Norsku, Estonsku a Nizozemsku;  \n- „**Poklesy pak byly zaznamenány v Lucembursku o 0,2 %, na Slovensku o 4,3 % a v České republice o 15 %.**“  \n- U souhrnných **cen energií pro bydlení** (elektřina, plyn, pevná paliva, teplo) byly **nejvyšší růsty** v Norsku, Estonsku, Nizozemsku, Belgii a Španělsku,  \n- „**K nejsilnějšímu poklesu došlo v Česku o 8,5 % a na Slovensku o 3,9 %.**“\n\nTo znamená:\n\n- V roce 2021 ČR **nezažívala ani zdaleka nejvyšší růsty cen energií**; naopak **měla největší pokles** této položky mezi sledovanými evropskými zeměmi.  \n- To je v přímém rozporu s představou, že by právě v tomto roce měla mít ČR **nejdražší** nebo **druhé nejdražší** „ceny energií“ v Evropě – pokud by to bylo pravda, musela by z předchozího roku vycházet ze zcela extrémně vysoké úrovně, což neukazují ani data k roku 2019–2020 (viz výše u elektřiny).\n\n**Závěr pro dílčí tvrzení D (souhrnná energie pro bydlení):**  \nIndexové údaje HICP pro „energie pro bydlení“ neukazují, že by ČR měla v roce 2021 nejvyšší či druhou nejvyšší cenovou hladinu v Evropě. Naopak, **rok 2021 byl u energií pro bydlení v ČR rokem poklesu cen**, zatímco extrémní nárůsty byly jinde.\n\n---\n\n## 6. Odkud mohl výrok pocházet (možné zdroje záměny)\n\n### 6.1 Starší data / jiná pásma (zejména 2020)\n\n- Článek Prague Monitor (15. 4. 2021) na základě dat Eurostatu tvrdí, že **v předchozím roce (2020)** platily české domácnosti **„nejvíce za elektřinu ze všech evropských zemí“ po přepočtu na paritu kupní síly (PPP)**. ([praguemonitor.com](https://praguemonitor.com/life/15/04/2021/czechs-pay-more-for-electricity-than-anyone-else-in-europe/?utm_source=openai))  \n- To je zjevně **jiná metodika i jiný rok (2020)**, než o kterém Fiala mluví (2021).  \n- Navíc akademická rekonstrukce dat v PPS/kWh (see MDPI Tab. 1) pro roky 2019–2021 tomu přímo neodpovídá – jako „nejdražší“ vycházejí jiné země (Španělsko, Rumunsko, Německo, Polsko). ([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636))  \n\nJe tedy možné, že některé mediální výstupy zjednodušily či chybně interpretovaly dílčí Eurostat statistiky a tento obraz se následně přenesl do politické debaty.\n\n### 6.2 Pozdější období (2022–2024)\n\nPro **roky po 2021** naopak existují **velmi silná data**, že ČR patří k absolutní špičce:\n\n- **HEPI / VaasaETT, léto 2022:** domácnosti v Praze platily podle indexu HEPI **nejvyšší cenu elektřiny v Evropě** po přepočtu na paritu kupní síly; i nominálně byla Praha v EU na 4. místě. ([expats.cz](https://www.expats.cz/czech-news/article/the-czech-republic-now-has-europe-s-most-expensive-electricity/1000?utm_source=openai))  \n- **Eurostat, 2. pololetí 2022:** podle zpravodajství Expats.cz byli Češi po přepočtu na kupní sílu u elektřiny **druzí nejdražší v EU**, u plynu dokonce **nejdražší**. ([expats.cz](https://www.expats.cz/czech-news/article/people-in-czechia-paid-the-most-for-energy-in-the-second-half-of-last-year?utm_source=openai))  \n- **Eurostat, 2. pololetí 2024 – oficiální zpráva:** po přepočtu na **PPS/100 kWh** byly ceny elektřiny pro domácnosti **nejvyšší v Česku (41,0), následuje Kypr (35,7) a Německo (35,23)**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\nTyto pozdější výsledky už odpovídají tvrzení typu „Česko má nejdražší elektřinu v EU (po přepočtu na kupní sílu)“. Nicméně:\n\n- To se týká **hlavně období od roku 2022 dále**,  \n- nikoliv **konkrétně roku 2021**, jak uvádí Fiala.\n\n### 6.3 Metodické spory (původní vs. nová metodika)\n\nSeznam Zprávy v září 2023 upozornily, že původní výpočty Eurostatu (pro 2. pololetí 2022) vycházely z **ceníků**, nikoli z reálně placených cen; podle nich pak ČR působila jako jedna z nejdražších zemí EU. Po přechodu na novou metodiku se ČR posunula spíše k průměru EU. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-firmy-cesko-uz-nema-nejdrazsi-energie-v-evrope-zmenila-se-metodika-237305?utm_source=openai))  \n\nI to ukazuje, že různé metodiky mohou dávat velmi odlišný obraz, ale **pro rok 2021** se tento spor netýká tak zásadně – tehdejší rozdíly mezi zeměmi nebyly tak extrémní jako v roce 2022.\n\n---\n\n## 7. Shrnutí po jednotlivých dílčích tvrzeních\n\n1. **Elektřina, rok 2021, ceny v eurech (€/kWh):**  \n   - Podle Eurostatu byly nejdražší Dánsko, Německo, Belgie, Irsko; ČR s cca 0,188 €/kWh je v širším středu pole. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai))  \n   → Výrok „nejdražší či druhé nejdražší“ je **nepravdivý**.\n\n2. **Elektřina, rok 2021, ceny v PPS/kWh:**  \n   - Akademická analýza na základě Eurostatu ukazuje jako nejdražší Španělsko, Rumunsko, Německo, Polsko; ČR je jen mírně nad průměrem EU. ([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636))  \n   → Výrok je **nepravdivý** i při této metodice.\n\n3. **Plyn, rok 2021:**  \n   - Nejvyšší nominální ceny pro domácnosti: Švédsko, Dánsko, Nizozemsko, Španělsko.  \n   - V PPS mají pro 1. pololetí 2021 nejvyšší hodnoty Portugalsko a Nizozemsko. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai))  \n   → Ani zde ČR není 1.–2. nejdražší.\n\n4. **Souhrnné „energie pro bydlení“, rok 2021 (HICP):**  \n   - ČSÚ na základě Eurostatu uvádí, že v roce 2021 byly **nejvyšší růsty cen energií pro bydlení** v Norsku, Estonsku, Nizozemsku, Belgii, Španělsku;  \n   - v ČR naopak **největší pokles (-8,5 %)**. ([statistikaamy.csu.gov.cz](https://statistikaamy.csu.gov.cz/co-se-skryva-za-rustem-cen?utm_source=openai))  \n   → Nelze z toho odvodit, že by ČR měla v roce 2021 nejvyšší nebo druhou nejvyšší cenovou hladinu energií v Evropě.\n\n---\n\n## 8. Celkový závěr\n\n- Pro žádnou standardní a transparentně dokumentovanou definici „cen energií“ (elektřina, plyn, energie pro bydlení; v eurech nebo v PPS) se **pro rok 2021** nepotvrdilo, že by Česká republika byla **nejdražší nebo druhá nejdražší v Evropě**.\n- Existují **jiné roky (zejména 2022–2024)** a **jiné datové výběry** (HEPI, specifická pásma spotřeby, kapitálová města), kde ČR skutečně vychází jako země s nejvyšší zátěží za elektřinu po přepočtu na kupní sílu. Fiala ale explicitně mluví o **roce 2021**, kde tato tvrzení neplatí.\n- Výrok „Ceny energií v roce 2021 v České republice byly nejdražší nebo druhé nejdražší v Evropě“ je proto podle dostupných důkazů **nepravdivý**.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Petr Fiala, Poslanec\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:07:14\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nNemůžeme, ani nebudeme soutěžit s Německem. To není možné. Jenom bych upravil, ono to není do rozpočtu dopad 17 miliard, ale 7 miliard, ale to je účetní pohled, že se tam započítávají některé věci, takže čistý dopad do rozpočtu je 7 miliard korun, ale za těch 7 miliard korun máme po dlouhé době srovnaný krok s cenou elektřiny s Evropou. Po dlouhé době mohou firmy říci, že mají přibližně podobné podmínky jako okolní země. A každý, kdo umí do 10 počítat, si dopočítá to, že se to tomu státu vrátí na té příjmové stránce. Proč? No, protože firmy budou zaměstnávat přirozeným způsobem, porostou příjmy těch zaměstnanců, bude se více investovat, budou se, světe, div se, odvádět vyšší daně, budou se odvádět vyšší sociální a zdravotní, to je jedna věc. A druhá věc je, naši lidé nebyli připraveni se dívat na to, že navzdory tomu, že zde energii poměrně levně vyrábíme a exportujeme, že ji budeme mít jednu z nejdražších, elektřinu v tomhle tom případě v celé Evropě. Byl to náš slib, byl to zásadní krok a budeme pokračovat zejména v energeticky náročných odvětvích, jako jsou výrobci cementu, výrobci vápna, výrobci keramiky, chemie a podobně, ocel. To jste úplně hodili přes palubu. A zeptejte se někdy těch firem. Já do nich jezdím dnes a denně. Ta situace u těch firem začíná být kritická a ten problém, který nastává, je v tom, že pochopitelně v Evropě neexistuje dnes jednotný energetický trh tedy pouze na papíře, ale různé země mají různé ceny a různé státy do toho různě zasahují. Akorát, že za vaší vlády jste se chovali tržně, nezasáhli jste do toho, výsledkem bylo to, že se vám to celé utrhlo a není pravda to, že jste to, co jste říkal, s ohledem nejvyšší ceny energií, že byly za nás. Na konci roku 2021, když jsme předávali vládu a podíval jste se do OECD, tak jste zjistil, že co se týká tzv. energetické inflace, tak víte, kde byla nejnižší ze všech zemí z OECD? Nejnižší byla v České republice. Ano, bylo to dáno tímto, uznávám, že jsme zatáhli za ruční brzdu a rychle jsme snížili DPH na nulu. Vy jste to mohli nechat potom třeba na 5 %. Neudělali jste vůbec nic, čekali jste na opatření Evropské unie. Nestalo se nic. Výsledek byl ten, že na konci roku 2021 jste měli nejvyšší energickou inflaci a ta inflace se stala, myslím, energická základem pro celkovou inflaci, proto jste odrbali lidi o 33 % v průběhu vaší vlády. Je třeba, pane poslanče, nedívat se jenom na aktuální čísla, protože logicky ten pokles či růst je ovlivněn tou základnou toho minulého roku. Jinými slovy, o co horší byl výsledek v minulém roce, o to je třeba lepší v tomto roce, ale součet...\\n00:09:43\\nTerezie Tománková,moderátorka\\nDěkuju, pane ministře. Pane Fialo, já se k tomu vrátím. Pojďte reagovat, já se potom vrátím k OZE a k tomu, co lidé mají ve fakturách.\\n00:09:50\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nJe potřeba třeba se vrátit k těm tabulkám, se kterými tady chodil pan vicepremiér Havlíček. A podle stejné metodiky ceny energií v roce 2021 v České republice byly nejdražší nebo druhé nejdražší v Evropě. Tak to prostě je a z toho se prostě nevymluvíte. To, co se teď děje s tím OZE, to jsou vlastně účetní operace. A vy jste použil takový ten příměr. Každý, kdo umí do 10 napočítat nebo co, no každý, kdo umí do 10 napočítat, tak chápe, že teď to platí stát, ale zase to zpátky zaplatí ti podnikatelé a ti lidé, ty peníze se prostě někde musí vzít.\\n00:10:26\\nKarel Havlíček,\\n\\nProvide a structured, citation-backed verification of the claim: 'Ceny energií v roce 2021 v České republice byly nejdražší nebo druhé nejdražší v Evropě.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 387.97 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Dostupná data Eurostatu ani odborné analýzy neukazují, že by ceny energií pro domácnosti v ČR v roce 2021 byly nejvyšší či druhé nejvyšší v Evropě. Výrok proto hodnotíme jako nepravdivý.</p>\n\n<p>Výrok o „nejdražších“ energiích zazněl v kontextu politické debaty o dopadech zdražování energií na české domácnosti. Mluvčí se přitom odvolává na mezinárodní statistiky (Eurostat, případně OECD) a tvrdí, že v roce 2021 byly ceny energií v Česku nejvyšší nebo druhé nejvyšší v Evropě.</p>\n\n<p>Formulace „ceny energií“ ale není přesná. V našem hodnocení jsme proto postupně ověřili několik možných faktických tvrzení, která mohou z výroku plynout: že v roce 2021 byly v ČR (1) ceny elektřiny pro domácnosti v eurech nejvyšší nebo druhé nejvyšší v Evropě, (2) totéž po přepočtu na paritu kupní síly (PPS), (3) ceny plynu pro domácnosti nejvyšší nebo druhé nejvyšší, a (4) celkové ceny energií pro bydlení (elektřina, plyn, další paliva, teplo) nejvyšší nebo druhé nejvyšší. Každé z těchto dílčích tvrzení posuzujeme zvlášť.</p>\n\n<p>Nejprve jsme se zaměřili na ceny elektřiny pro domácnosti v nominálních eurech. Zpráva <a href=\"https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2\">Eurostatu o cenách elektřiny a plynu za druhé pololetí 2021</a> uvádí, že průměrné ceny elektřiny pro domácnosti byly tehdy nejvyšší v Dánsku, Německu, Belgii a Irsku; Eurostat doslova píše, že byly *„nejvyšší v Dánsku (34,5 €/100 kWh), Německu (32,3), Belgii (29,9) a Irsku (29,7)“*. Česká republika mezi nejdražšími zeměmi vůbec nefiguruje. V této interpretaci (elektřina v eurech) proto tvrzení, že ČR byla v roce 2021 první nebo druhá nejdražší v Evropě, neodpovídá oficiálním datům a je nepravdivé.</p>\n\n<p>Druhou běžnou metodou je přepočet cen elektřiny na paritu kupní síly (PPS), který má lépe zachytit reálnou finanční zátěž pro domácnosti. Vědecká studie v časopise <a href=\"https://www.mdpi.com/1996-1073/16/18/6636\">Energies</a>, založená přímo na datech Eurostatu pro roky 2019–2021, uvádí pro rok 2021 průměrné ceny elektřiny v PPS pro jednotlivé státy EU. Autoři shrnují, že domácnosti platily za jednotku elektřiny v PPS nejvíce ve Španělsku, Rumunsku, Německu a Polsku, zatímco Česká republika se tohoto výčtu netýká. Pro ČR uvádějí hodnotu 0,2363 PPS/kWh, jen mírně nad průměrem EU 0,2330 PPS/kWh. Ani po přepočtu na kupní sílu tedy Česko v roce 2021 nevychází jako nejdražší nebo druhé nejdražší a druhé dílčí tvrzení je rovněž nepravdivé.</p>\n\n<p>Další možnou interpretací výroku jsou ceny plynu pro domácnosti. Ve stejné zprávě <a href=\"https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2\">Eurostat</a> uvádí, že v druhém pololetí 2021 byly průměrné ceny plynu pro domácnosti nejnižší v Maďarsku, Chorvatsku a Litvě a naopak nejvyšší ve Švédsku, Dánsku, Nizozemsku a Španělsku; v originále: *„nejvyšší ve Švédsku (18,6 €/100 kWh), Dánsku (12,5), Nizozemsku (11,0) a ve Španělsku (10,8)”*. Česká republika se ani u plynu mezi nejdražšími zeměmi neobjevuje. Neexistuje tedy opora pro tvrzení, že by ceny plynu pro domácnosti byly v ČR v roce 2021 první nebo druhé nejvyšší v Evropě, a třetí dílčí tvrzení je nepravdivé.</p>\n\n<p>Výrok lze vztáhnout i na souhrnnou položku „energie pro bydlení“ (elektřina, plyn, pevná paliva a teplo) sledovanou v harmonizovaném indexu spotřebitelských cen (HICP). Analýza Českého statistického úřadu „Co se skrývá za růstem cen?“ zveřejněná na portálu <a href=\"https://statistikaamy.csu.gov.cz/co-se-skryva-za-rustem-cen\">Statistika&amp;My</a> ukazuje, jak se v roce 2021 vyvíjely ceny energií pro bydlení v zemích EU. Podle této analýzy měly v prosinci 2021 nejvyšší meziroční růst cen energií pro bydlení země jako Norsko, Estonsko, Nizozemsko, Belgie a Španělsko, zatímco v České republice se tato položka naopak meziročně snížila o 8,5 %, což byl největší pokles v EU. Rok 2021 tak v ČR nebyl rokem extrémně drahých energií, ale naopak rokem poklesu cen této položky. Ani ve smyslu celkové cenové hladiny energií pro bydlení tedy nelze tvrdit, že by Česko mělo v roce 2021 nejvyšší či druhé nejvyšší ceny v Evropě; čtvrté dílčí tvrzení je proto nepravdivé.</p>\n\n<p>Vysvětlení, odkud se takový výrok mohl vzít, nacházíme v jiných obdobích a jiných metodikách. Některé starší mediální texty, například článek na serveru <a href=\"https://praguemonitor.com/life/15/04/2021/czechs-pay-more-for-electricity-than-anyone-else-in-europe/\">Prague Monitor</a>, interpretovaly data Eurostatu tak, že po přepočtu na paritu kupní síly platili Češi za elektřinu nejvíce v Evropě ovšem za rok 2020, nikoliv 2021, a navíc při použití specifického způsobu výběru a přepočtu dat. Takové zobecnění se snadno přenese do politické debaty, i když se rok nebo metodika změní.</p>\n\n<p>Další zdroj záměny spočívá v tom, že pro roky po roce 2021 skutečně existují období, kdy Česko vychází jako jedna z nejdražších zemí v EU. Například index HEPI a analýzy, o nichž informoval server <a href=\"https://www.expats.cz/czech-news/article/the-czech-republic-now-has-europe-s-most-expensive-electricity\">Expats.cz</a>, ukazují, že v létě 2022 měly české domácnosti podle přepočtu na kupní sílu nejdražší elektřinu v Evropě. Jiný článek téhož serveru popisuje, že podle dat Eurostatu za druhé pololetí 2022 platili obyvatelé Česka po přepočtu na kupní sílu nejvíce za energie v celé EU. Tyto výsledky se však týkají let 2022 a později, nikoli roku 2021, o němž zní ověřovaný výrok.</p>\n\n<p>Novější zprávy přímo od <a href=\"https://ec.europa.eu/eurostat\">Eurostatu</a> navíc ukazují, že po přepočtu na paritu kupní síly se Česko opravdu dostalo mezi nejdražší státy v EU až v dalších letech, zejména po energetickém šoku v roce 2022. To sice dokládá, že formulace „nejdražší energie v Evropě“ může být v určitém období (a při určité metodice) částečně oprávněná, ale časově se míjí s tvrzením vztahovaným k roku 2021.</p>\n\n<p>Souhrnně tedy platí, že ať už výrok vztáhneme k cenám elektřiny, plynu nebo celkovým nákladům na energie pro bydlení, ani v nominálních eurech, ani po přepočtu na paritu kupní síly nevyplývá z oficiálních statistik, že by Česká republika v roce 2021 měla první nebo druhé nejvyšší ceny energií v Evropě. Naopak, v řadě ukazatelů se tehdy pohybovala blízko průměru EU, a u souhrnné položky energií pro bydlení dokonce zaznamenala největší meziroční pokles cen v Evropské unii.</p>\n\n<p>Na základě dostupných dat a jejich odborného zpracování proto hodnotíme výrok „Ceny energií v roce 2021 v České republice byly nejdražší nebo druhé nejdražší v Evropě“ jako nepravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_031f40904ae386880069a6c6f7ede88194b99c8ba5186ed7e9",
+    "created_at": 1772537592.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_031f40904ae386880069a6c704f8ec81949873cc342bb8c8c9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c709ef4881948b1e37c7ffe21dc0",
+        "action": {
+          "query": "OECD energy prices 2021 Czech Republic highest in Europe",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "OECD energy prices 2021 Czech Republic highest in Europe",
+            "2021 household electricity prices Czech Republic comparison Europe Eurostat",
+            "\"energetická inflace\" OECD 2021 Česká republika",
+            "HDP Partie Tomankove Fiala ceny energii 2021 nejdrazsi nebo druhe nejdrazsi Evrope metodika tabulky"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c70d2d2c8194be0acd1d131253bf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c70f4ec08194a7d28cee687147c0",
+        "action": {
+          "query": "\"Electricity prices for household consumers\" \"purchasing power standard\" 2021 Czechia highest",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Electricity prices for household consumers\" \"purchasing power standard\" 2021 Czechia highest",
+            "nrg_pc_204 PPS 2021 electricity prices for household consumers Czechia 41.5",
+            "\"Czechia\" \"electricity prices\" \"purchasing power\" 2021 Eurostat",
+            "Czechia highest household electricity prices in PPS 2021 Eurostat"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c712437c8194aa8f7f8ceb121536",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c712e28481949b7b4874eac14ddd",
+        "action": {
+          "query": "\"Electricity prices for household consumers\" \"2021\" \"purchasing power standard\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Electricity prices for household consumers\" \"2021\" \"purchasing power standard\"",
+            "\"Electricity prices for household consumers\" \"second half of 2021\" Eurostat",
+            "\"Electricity prices for household consumers\" \"Czechia\" \"2021\"",
+            "\"Energy prices\" \"Czechia\" \"2021\" \"Eurostat\" PPS"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c716a39c81949a562ba5aaf0b9c1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c71a4d848194b079be7fcdcc684c",
+        "action": {
+          "query": "\"Electricity price statistics\" \"Statistics Explained\" 2021 PPS Czechia",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Electricity price statistics\" \"Statistics Explained\" 2021 PPS Czechia",
+            "\"electricity price statistics\" second half of 2021 PPS",
+            "\"nrg_pc_204\" \"PPS\" \"2021\"",
+            "\"Prices of household electricity\", PPS, per 100 kWh, Czechia 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c71d26e08194ae343e0a3b9fb451",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c723ed0c81949ee37ce6bbb91944",
+        "action": {
+          "query": "\"energeticka inflace\" OECD 2021 \"Ceska republika\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"energeticka inflace\" OECD 2021 \"Ceska republika\"",
+            "\"energy price inflation\" OECD Czech Republic 2021 lowest",
+            "\"energy price\" 2021 \"Czech Republic\" \"second highest\" Europe",
+            "\"highest energy prices\" \"Czech Republic\" 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c7273d048194ac7c88d0077a4fef",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c727b3b48194938467494490fe38",
+        "action": {
+          "query": "\"ceny energií v roce 2021\" \"nejdražší\" \"Evropě\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"ceny energií v roce 2021\" \"nejdražší\" \"Evropě\"",
+            "\"nejdražší\" \"ceny energií\" \"Ceská republika\" 2021",
+            "\"ceny energií\" \"tabulky\" \"Havlíček\" \"Fiala\"",
+            "\"energetická inflace\" \"Havlíček\" tabulky"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c72e55f08194802fd4aa8d5eaae7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c73a8cd08194ab9e42235f45d1ba",
+        "action": {
+          "query": "\"paritu kupní síly\" \"elektřiny\" \"Česko\" 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"paritu kupní síly\" \"elektřiny\" \"Česko\" 2021",
+            "\"Czechs pay more for electricity\" \"purchasing power\" 2021 2020 Eurostat",
+            "\"Electricity price statistics\" Czechia PPS 2020",
+            "\"statistický úřad\" \"parita kupní síly\" \"cena elektřiny\" Česko 2020"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c73e20a48194bf34aa7d63949acb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c740d04c8194b0bb1202ec4cdc30",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c741d69481948385822bf55b095e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c7426cb4819488da829d356a431c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c745a3588194b0b66daffa9cd4c4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c74bc8c08194b254848e8ec81a8c",
+        "action": {
+          "query": "\"Czech households\" \"highest electricity\" \"purchasing power\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Czech households\" \"highest electricity\" \"purchasing power\"",
+            "\"Czech Republic\" \"highest\" \"electricity\" \"purchasing power standards\"",
+            "\"domácnosti v Česku\" \"nejvíce za elektřinu\" \"parita kupní síly\"",
+            "\"Eurostat\" \"cena elektřiny\" \"parita kupní síly\" \"Česko\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c74eab908194b928998a580db349",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c75141d081948282fa98845ee54f",
+        "action": {
+          "query": "\"Electricity price statistics\" \"Eurostat\" \"second half of 2021\" \"Czechia\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Electricity price statistics\" \"Eurostat\" \"second half of 2021\" \"Czechia\"",
+            "\"Electricity price statistics\" \"Electricity prices for household consumers\" 2021 Czechia PPS per 100 kWh",
+            "\"Statistics Explained\" \"Electricity price statistics\" 2022 2021",
+            "\"Electricity prices for household consumers\" 2021 PPS \"nrg_pc_204\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c755850881949c99cbdf9978ac63",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c75833508194968a8ff34d220def",
+        "action": {
+          "query": "\"Household Energy Price Index\" 2021 Prague highest",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Household Energy Price Index\" 2021 Prague highest",
+            "\"HEPI\" \"Praha\" 2021 elektřina",
+            "\"HEPI index\" 2021 \"Czech\" electricity prices",
+            "\"Household Energy Price Index (HEPI)\" 2021 Czechia"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c761aff88194949e51da3031f9ce",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c76d0b348194894f1363a79fab0b",
+        "action": {
+          "query": "\"Residential electricity prices including taxes in PPS\" 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Residential electricity prices including taxes in PPS\" 2021",
+            "\"PPS per 100 kWh\" \"Czechia\" 2021 electricity",
+            "\"Czechia\" \"PPS\" \"100 kWh\" \"electricity\" 2021",
+            "\"EU-27\" \"PPS per 100 kWh\" \"electricity\" 2021 Czechia"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c773144081949efd1a8765e01c26",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c78fc2188194a37db620e1d9a277",
+        "action": {
+          "query": "\"energetic inflation\" \"Czech Republic\" OECD",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"energetic inflation\" \"Czech Republic\" OECD",
+            "\"energy inflation\" \"Czechia\" OECD lowest",
+            "\"HICP energy\" 2021 \"Czechia\" \"Europe\" ranking",
+            "\"energy component\" \"HICP\" Czechia 2021 compared EU"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c799e97c8194a795a6b7f538bed0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c79baeac81948cec8d15d0fe5826",
+        "action": {
+          "query": "\"nejdražší elektřinu\" \"v Evropě\" \"Česko\" 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nejdražší elektřinu\" \"v Evropě\" \"Česko\" 2021",
+            "\"Česko\" \"nejdražší\" \"energi\" \"v Evropě\" 2021",
+            "\"ceny elektřiny\" \"nejdražší\" \"v Evropě\" \"Česko\" 2020",
+            "\"Czechia\" \"most expensive electricity\" \"Europe\" 2020"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c7a18ff481948e61a79cd899712b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c7ad00c48194b194ac12a572e8f3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c7afa4288194b9c532502ae2b8b8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c7b059448194bfcb5eab15c77b80",
+        "action": {
+          "query": "\"nrg_pc_204\" \"csv\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nrg_pc_204\" \"csv\"",
+            "\"nrg_pc_204\" \"Electricity prices for household consumers\"",
+            "\"nrg_pc_204\" \"pps\"",
+            "\"prices for household consumers\" \"nrg_pc_204\" \"PPS\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c7b56e048194b54833f90cbebf8f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c7ca2dc08194af25bf8d46a3da83",
+        "action": {
+          "query": "\"energy\" \"price level\" \"HICP\" \"Czech\" 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"energy\" \"price level\" \"HICP\" \"Czech\" 2021",
+            "\"harmonised index of consumer prices\" \"energy\" Czech 2021 lowest \"OECD\"",
+            "\"energetická inflace\" \"OECD\" \"Česká republika\" 2021 nejnižší",
+            "\"energy price inflation\" \"OECD\" \"Czech Republic\" 2021 lowest among"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c7cfc0a08194b09f0f4291204bff",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c7dd625481949f0b585cc1b1ddf5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c7df84588194b7b89a4bd64c497a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c7dfbfa48194b5ba6f3e71f0aa1d",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Table 3."
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c7e1a0a88194a21e664f83c465fb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c7e27c388194b74fa41acab5788c",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Table 1."
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c7e4d7408194bb467ebd6f0c8228",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c7e899488194914d7d1d367b3994",
+        "action": {
+          "query": "\"Natural gas price statistics\" Statistics Explained 2021 PPS households",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Natural gas price statistics\" Statistics Explained 2021 PPS households",
+            "\"natural gas price statistics\" 2021 PPS Czechia",
+            "\"nrg_pc_202\" 2019 2021 PPS",
+            "\"household gas prices\" 2021 \"Czechia\" Eurostat PPS"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c7efff90819488421aa2de32daaa",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_031f40904ae386880069a6c8090c4c8194ac00471f74e4a02c",
+        "action": {
+          "query": "\"Ceny elektřiny\" \"pro domácnosti\" 2021 \"Eurostat\" \"ČSÚ\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Ceny elektřiny\" \"pro domácnosti\" 2021 \"Eurostat\" \"ČSÚ\"",
+            "\"průměrná cena elektřiny\" 2021 \"Český statistický úřad\"",
+            "\"Cena elektřiny pro domácnosti\" 2021 \"mezinárodní srovnání\"",
+            "\"Eurostat\" \"ceny energií\" \"Česká republika\" \"2021\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_031f40904ae386880069a6c80e23d481949dc65448e125549c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_031f40904ae386880069a6c8203bc88194b9b04ab66455b8f3",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 2075,
+                "start_index": 1966,
+                "title": "Electricity and gas prices in the second half of 2021 - Products Eurostat News - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai"
+              },
+              {
+                "end_index": 2516,
+                "start_index": 2405,
+                "title": "Household electricity prices in Europe 2021 | countryeconomy.com",
+                "type": "url_citation",
+                "url": "https://countryeconomy.com/energy-and-environment/electricity-price-household?year=2021"
+              },
+              {
+                "end_index": 3584,
+                "start_index": 3417,
+                "title": "Energy crisis in Europe: Which countries have the cheapest and most expensive electricity and gas? | Euronews",
+                "type": "url_citation",
+                "url": "https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai"
+              },
+              {
+                "end_index": 4049,
+                "start_index": 3994,
+                "title": "Differences in the Structure of Household Electricity Prices in EU Countries",
+                "type": "url_citation",
+                "url": "https://www.mdpi.com/1996-1073/16/18/6636"
+              },
+              {
+                "end_index": 4583,
+                "start_index": 4528,
+                "title": "Differences in the Structure of Household Electricity Prices in EU Countries",
+                "type": "url_citation",
+                "url": "https://www.mdpi.com/1996-1073/16/18/6636"
+              },
+              {
+                "end_index": 5172,
+                "start_index": 5031,
+                "title": "The Czech Republic now has Europe's most expensive electricity - Prague, Czech Republic",
+                "type": "url_citation",
+                "url": "https://www.expats.cz/czech-news/article/the-czech-republic-now-has-europe-s-most-expensive-electricity/1000?utm_source=openai"
+              },
+              {
+                "end_index": 5493,
+                "start_index": 5351,
+                "title": "Czechs Pay More For Electricity Than Anyone Else In Europe",
+                "type": "url_citation",
+                "url": "https://praguemonitor.com/life/15/04/2021/czechs-pay-more-for-electricity-than-anyone-else-in-europe/?utm_source=openai"
+              },
+              {
+                "end_index": 6177,
+                "start_index": 6068,
+                "title": "Electricity and gas prices in the second half of 2021 - Products Eurostat News - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai"
+              },
+              {
+                "end_index": 6797,
+                "start_index": 6641,
+                "title": "Статистика роста цен на бензин: Как подорожал бензин за 20 лет. Сравнение цен :: Autonews",
+                "type": "url_citation",
+                "url": "https://ondoclub.ru/raznoe-2/statistika-rosta-czen-na-benzin-kak-podorozhal-benzin-za-20-let-sravnenie-czen-autonews.html?utm_source=openai"
+              },
+              {
+                "end_index": 7773,
+                "start_index": 7666,
+                "title": "Co se skrývá za růstem cen? | Statistika a my",
+                "type": "url_citation",
+                "url": "https://statistikaamy.csu.gov.cz/co-se-skryva-za-rustem-cen?utm_source=openai"
+              },
+              {
+                "end_index": 9493,
+                "start_index": 9351,
+                "title": "Czechs Pay More For Electricity Than Anyone Else In Europe",
+                "type": "url_citation",
+                "url": "https://praguemonitor.com/life/15/04/2021/czechs-pay-more-for-electricity-than-anyone-else-in-europe/?utm_source=openai"
+              },
+              {
+                "end_index": 9822,
+                "start_index": 9767,
+                "title": "Differences in the Structure of Household Electricity Prices in EU Countries",
+                "type": "url_citation",
+                "url": "https://www.mdpi.com/1996-1073/16/18/6636"
+              },
+              {
+                "end_index": 10450,
+                "start_index": 10309,
+                "title": "The Czech Republic now has Europe's most expensive electricity - Prague, Czech Republic",
+                "type": "url_citation",
+                "url": "https://www.expats.cz/czech-news/article/the-czech-republic-now-has-europe-s-most-expensive-electricity/1000?utm_source=openai"
+              },
+              {
+                "end_index": 10770,
+                "start_index": 10622,
+                "title": "Czechia paid higher energy bills than any other EU country in second half of last year - Prague, Czech Republic",
+                "type": "url_citation",
+                "url": "https://www.expats.cz/czech-news/article/people-in-czechia-paid-the-most-for-energy-in-the-second-half-of-last-year?utm_source=openai"
+              },
+              {
+                "end_index": 11071,
+                "start_index": 10962,
+                "title": "Household electricity prices in the EU stable in 2024 - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai"
+              },
+              {
+                "end_index": 11786,
+                "start_index": 11629,
+                "title": "Česko už nemá nejdražší energie v Evropě. Změnila se metodika - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-cesko-uz-nema-nejdrazsi-energie-v-evrope-zmenila-se-metodika-237305?utm_source=openai"
+              },
+              {
+                "end_index": 12309,
+                "start_index": 12200,
+                "title": "Electricity and gas prices in the second half of 2021 - Products Eurostat News - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai"
+              },
+              {
+                "end_index": 12614,
+                "start_index": 12559,
+                "title": "Differences in the Structure of Household Electricity Prices in EU Countries",
+                "type": "url_citation",
+                "url": "https://www.mdpi.com/1996-1073/16/18/6636"
+              },
+              {
+                "end_index": 12969,
+                "start_index": 12860,
+                "title": "Electricity and gas prices in the second half of 2021 - Products Eurostat News - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai"
+              },
+              {
+                "end_index": 13376,
+                "start_index": 13269,
+                "title": "Co se skrývá za růstem cen? | Statistika a my",
+                "type": "url_citation",
+                "url": "https://statistikaamy.csu.gov.cz/co-se-skryva-za-rustem-cen?utm_source=openai"
+              }
+            ],
+            "text": "## Shrnutí hodnocení\n\n**Výrok „Ceny energií v roce 2021 v České republice byly nejdražší nebo druhé nejdražší v Evropě“ neodpovídá dostupným datům.**  \nPodle primárních statistik Eurostatu a jejich odborného zpracování:\n\n- **Ceny elektřiny pro domácnosti v roce 2021 (ani v eurech, ani po přepočtu na PPS)** nebyly v ČR ani první, ani druhé nejvyšší v EU.\n- **Ceny plynu pro domácnosti v roce 2021** také nepatřily k 1.–2. nejvyšším.\n- U žádného standardního ukazatele (elektřina, plyn, „energie pro bydlení“ v HICP) se pro rok 2021 nepotvrdilo, že by ČR byla 1. nebo 2. nejdražší v Evropě.\n\nVýrok proto hodnotitelný jako **NEPRAVDIVÝ** (s poznámkou, že pro jiné roky a jinou metodiku – zejména 2022–2024 a při použití PPS – už ČR skutečně vychází mezi nejdražšími).\n\n---\n\n## 1. Co může „ceny energií“ v tomto kontextu znamenat\n\nReálné datové interpretace, které dávají smysl:\n\n1. **Ceny elektřiny pro domácnosti** (nejčastější v mediálním i politickém diskurzu).\n2. **Ceny plynu pro domácnosti.**\n3. **Souhrnná položka „energie pro bydlení“** (elektřina, plyn, pevná paliva, teplo) v harmonizovaném indexu spotřebitelských cen (HICP).\n4. Vše výše **v nominálních eurech** (€/kWh, €/100 kWh) nebo **po přepočtu na paritu kupní síly / PPS** (tedy „reálná“ finanční zátěž).\n\nFiala mluví o „stejné metodice“ jako Havlíček, který se odvolával na mezinárodní statistiky (OECD/Eurostat). Je proto rozumné ověřit:\n\n- **(A)** elektřinu v eurech,  \n- **(B)** elektřinu v PPS,  \n- **(C)** plyn v eurech i PPS,  \n- **(D)** souhrnnou položku „energie pro bydlení“ v HICP.\n\n---\n\n## 2. Elektřina pro domácnosti 2021 – nominální ceny (euro/kWh)\n\n### Eurostat – oficiální přehled za 2. pololetí 2021\n\nEurostat ve zprávě o cenách elektřiny a plynu za 2. pololetí 2021 uvádí:\n\n- „…průměrné ceny elektřiny pro domácnosti… byly **nejnižší v Maďarsku (10,0 €/100 kWh), Bulharsku (10,9) a Chorvatsku (13,1)** a **nejvyšší v Dánsku (34,5), Německu (32,3), Belgii (29,9) a Irsku (29,7)**.“ ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai))  \n\nČeská republika v tomto výčtu **mezi nejdražšími nefiguruje**.\n\n### Detailní tabulka (Eurostat, pásmo DC 2 500–5 000 kWh)\n\nAgregátor countryeconomy.com zveřejňuje pro rok 2021 tabulku „Household electricity prices in Europe“, která je přímo založená na datech Eurostatu (kód nrg_pc_204, pásmo DC). Pro 2. pololetí 2021 uvádí: ([countryeconomy.com](https://countryeconomy.com/energy-and-environment/electricity-price-household?year=2021))  \n\n- **Česko:** 0,1883 €/kWh (vč. daní)  \n- Vyšší ceny mají například:\n\n  - Dánsko: 0,3448 €/kWh  \n  - Německo: 0,3234 €/kWh  \n  - Belgie: 0,2994 €/kWh  \n  - Irsko: 0,2974 €/kWh  \n  - Španělsko: 0,2816 €/kWh  \n  - Itálie: 0,2360 €/kWh  \n  - Portugalsko: 0,2170 €/kWh  \n  - Rakousko: 0,2285 €/kWh  \n  - Norsko: 0,2206 €/kWh  \n\nZ těchto čísel je zřejmé, že **ČR je v nominálních cenách spíše kolem průměru až mírně nadprůměrná**, nikoli v TOP 2.\n\n**Závěr pro dílčí tvrzení A (elektřina, €):**  \nTvrzení, že v roce 2021 byly české ceny elektřiny pro domácnosti **nejvyšší či druhé nejvyšší v Evropě v eurech**, je **v přímém rozporu** s oficiálními daty Eurostatu.\n\n---\n\n## 3. Elektřina pro domácnosti 2021 – po přepočtu na PPS (parita kupní síly)\n\nZde je důležité, protože:\n\n- Česká média opakovaně uvádějí, že **„po přepočtu na kupní sílu“** patří ČR mezi nejdražší země (zejména v letech 2022–2024). ([euronews.com](https://www.euronews.com/next/2023/03/29/energy-crisis-in-europe-which-countries-have-the-cheapest-and-most-expensive-electricity-a?utm_source=openai))  \n- Petr Fiala mluví o „stejné metodice“ – může tedy jít o PPS.\n\n### Odborná studie založená na datech Eurostatu (PPS/kWh)\n\nStudie v časopise *Energies* (MDPI) „Differences in the Structure of Household Electricity Prices in EU Countries“ pracuje přímo s daty Eurostatu pro **„single national electricity prices“ v PPS/kWh za roky 2019–2021**. Tabulka 1 shrnuje průměrné ceny (PPS/kWh) v jednotlivých zemích: ([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636))  \n\nVybrané hodnoty pro **rok 2021 (PPS/kWh)**:\n\n- EU27 průměr: **0,2330 PPS/kWh**\n- **Španělsko:** 0,3074  \n- **Rumunsko:** 0,3036  \n- **Německo:** 0,2956  \n- **Polsko:** 0,2790  \n- **Portugalsko:** 0,2635  \n- **Belgie:** 0,2564  \n- …\n- **Česká republika:** **0,2363 PPS/kWh**\n\nAutoři explicitně shrnují, že v roce 2021 „domácnosti platily nejvíce za jednotku elektřiny ve Španělsku (0,3074), Rumunsku (0,3036), Německu (0,2956) a Polsku (0,279)“; Česko v tomto výčtu **není**. ([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636))  \n\nČeská hodnota (0,2363 PPS/kWh) je **jen mírně nad průměrem EU27 (0,2330)** a **pod úrovní řady zemí** (ES, RO, DE, PL, PT, BE, IT aj.).\n\n### Rozpor s některými mediálními interpretacemi\n\nMediální texty, které tvrdí, že **„Češi platí za elektřinu nejvíc v Evropě“**, se většinou:\n\n- vztahují k **jiným rokům** (zejm. 2022 a dále),  \n- nebo používají jiný výběr dat (např. jen hlavní města, jen určitá spotřebitelská pásma, případně index HEPI). ([expats.cz](https://www.expats.cz/czech-news/article/the-czech-republic-now-has-europe-s-most-expensive-electricity/1000?utm_source=openai))  \n\nPříklad pro rok 2020: článek Prague Monitor (15. 4. 2021) uvádí, že podle Eurostatu **za rok 2020** vychází elektřina po přepočtu na kupní sílu jako **nejdražší právě v ČR**. ([praguemonitor.com](https://praguemonitor.com/life/15/04/2021/czechs-pay-more-for-electricity-than-anyone-else-in-europe/?utm_source=openai))  \nTo ale **není rok 2021**, a navíc vychází z konkrétního výběru dat (pravděpodobně jiná metodika než „single national price“ v PPS).\n\n**Závěr pro dílčí tvrzení B (elektřina, PPS):**  \nI při sofistikovaném přepočtu na **PPS/kWh** nemá ČR v roce 2021 **nejvyšší ani druhou nejvyšší** cenu elektřiny. Je mírně nad průměrem EU, ale za Španělskem, Rumunskem, Německem, Polskem a dalšími zeměmi. Výrok je tedy **nepravdivý i v této „příznivější“ interpretaci**.\n\n---\n\n## 4. Plyn pro domácnosti 2021\n\n### Eurostat – 2. pololetí 2021 (euro/kWh)\n\nStejná zpráva Eurostatu uvádí, že: ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai))  \n\n- „Vyjádřeno v eurech byly průměrné ceny plynu pro domácnosti v druhé polovině 2021 **nejnižší v Maďarsku (3,1 €/100 kWh), Chorvatsku (4,0) a Litvě (4,1)** a **nejvyšší ve Švédsku (18,6), Dánsku (12,5), Nizozemsku (11,0) a Španělsku (10,8).**“\n\nČR zde **opět není mezi nejdražšími** zeměmi.\n\n### Plyn v PPS (parita kupní síly)\n\nU plynu je méně přímých textových shrnutí, ale jeden z materiálů založený na Eurostatu (nrg_pc_202) uvádí pro **1. pololetí 2021**: ([ondoclub.ru](https://ondoclub.ru/raznoe-2/statistika-rosta-czen-na-benzin-kak-podorozhal-benzin-za-20-let-sravnenie-czen-autonews.html?utm_source=openai))  \n\n- „Ceny plynu v PPS byly **nejvyšší v Portugalsku (9)** a **Nizozemsku (8)**;  \n- nejnižší v Lucembursku (3) a Litvě (4).“\n\nČeská republika tam mezi cenovými extrémy **nefiguruje** (detailní tabulka v citovaném fragmentu neuvedena, ale jmenovaná „nejvyšší“ dvojice je jiná).\n\n**Závěr pro dílčí tvrzení C (plyn):**  \nAni u **plynu** – ať v eurech, nebo v PPS – data za rok 2021 neukazují, že by ČR byla **1. nebo 2. nejdražší** zemí v Evropě.\n\n---\n\n## 5. Souhrnná položka „energie pro bydlení“ (HICP – elektřina, plyn, další paliva, teplo)\n\nZde vstupujeme na úroveň **cenových indexů (inflace)**, které používá jak OECD, tak Eurostat.\n\n### Vývoj cen energií podle ČSÚ a Eurostatu (2021)\n\nČSÚ ve své analýze „Co se skrývá za růstem cen?“ shrnuje, jak se v roce 2021 vyvíjely ceny energií pro domácnosti v jednotlivých zemích EU. Pro konec roku 2021 (prosinec) uvádí: ([statistikaamy.csu.gov.cz](https://statistikaamy.csu.gov.cz/co-se-skryva-za-rustem-cen?utm_source=openai))  \n\n- Nejvyšší meziroční růsty **cen elektřiny pro domácnosti** v prosinci 2021 byly v Norsku, Estonsku a Nizozemsku;  \n- „**Poklesy pak byly zaznamenány v Lucembursku o 0,2 %, na Slovensku o 4,3 % a v České republice o 15 %.**“  \n- U souhrnných **cen energií pro bydlení** (elektřina, plyn, pevná paliva, teplo) byly **nejvyšší růsty** v Norsku, Estonsku, Nizozemsku, Belgii a Španělsku,  \n- „**K nejsilnějšímu poklesu došlo v Česku o 8,5 % a na Slovensku o 3,9 %.**“\n\nTo znamená:\n\n- V roce 2021 ČR **nezažívala ani zdaleka nejvyšší růsty cen energií**; naopak **měla největší pokles** této položky mezi sledovanými evropskými zeměmi.  \n- To je v přímém rozporu s představou, že by právě v tomto roce měla mít ČR **nejdražší** nebo **druhé nejdražší** „ceny energií“ v Evropě – pokud by to bylo pravda, musela by z předchozího roku vycházet ze zcela extrémně vysoké úrovně, což neukazují ani data k roku 2019–2020 (viz výše u elektřiny).\n\n**Závěr pro dílčí tvrzení D (souhrnná energie pro bydlení):**  \nIndexové údaje HICP pro „energie pro bydlení“ neukazují, že by ČR měla v roce 2021 nejvyšší či druhou nejvyšší cenovou hladinu v Evropě. Naopak, **rok 2021 byl u energií pro bydlení v ČR rokem poklesu cen**, zatímco extrémní nárůsty byly jinde.\n\n---\n\n## 6. Odkud mohl výrok pocházet (možné zdroje záměny)\n\n### 6.1 Starší data / jiná pásma (zejména 2020)\n\n- Článek Prague Monitor (15. 4. 2021) na základě dat Eurostatu tvrdí, že **v předchozím roce (2020)** platily české domácnosti **„nejvíce za elektřinu ze všech evropských zemí“ po přepočtu na paritu kupní síly (PPP)**. ([praguemonitor.com](https://praguemonitor.com/life/15/04/2021/czechs-pay-more-for-electricity-than-anyone-else-in-europe/?utm_source=openai))  \n- To je zjevně **jiná metodika i jiný rok (2020)**, než o kterém Fiala mluví (2021).  \n- Navíc akademická rekonstrukce dat v PPS/kWh (see MDPI Tab. 1) pro roky 2019–2021 tomu přímo neodpovídá – jako „nejdražší“ vycházejí jiné země (Španělsko, Rumunsko, Německo, Polsko). ([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636))  \n\nJe tedy možné, že některé mediální výstupy zjednodušily či chybně interpretovaly dílčí Eurostat statistiky a tento obraz se následně přenesl do politické debaty.\n\n### 6.2 Pozdější období (2022–2024)\n\nPro **roky po 2021** naopak existují **velmi silná data**, že ČR patří k absolutní špičce:\n\n- **HEPI / VaasaETT, léto 2022:** domácnosti v Praze platily podle indexu HEPI **nejvyšší cenu elektřiny v Evropě** po přepočtu na paritu kupní síly; i nominálně byla Praha v EU na 4. místě. ([expats.cz](https://www.expats.cz/czech-news/article/the-czech-republic-now-has-europe-s-most-expensive-electricity/1000?utm_source=openai))  \n- **Eurostat, 2. pololetí 2022:** podle zpravodajství Expats.cz byli Češi po přepočtu na kupní sílu u elektřiny **druzí nejdražší v EU**, u plynu dokonce **nejdražší**. ([expats.cz](https://www.expats.cz/czech-news/article/people-in-czechia-paid-the-most-for-energy-in-the-second-half-of-last-year?utm_source=openai))  \n- **Eurostat, 2. pololetí 2024 – oficiální zpráva:** po přepočtu na **PPS/100 kWh** byly ceny elektřiny pro domácnosti **nejvyšší v Česku (41,0), následuje Kypr (35,7) a Německo (35,23)**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250506-2?utm_source=openai))  \n\nTyto pozdější výsledky už odpovídají tvrzení typu „Česko má nejdražší elektřinu v EU (po přepočtu na kupní sílu)“. Nicméně:\n\n- To se týká **hlavně období od roku 2022 dále**,  \n- nikoliv **konkrétně roku 2021**, jak uvádí Fiala.\n\n### 6.3 Metodické spory (původní vs. nová metodika)\n\nSeznam Zprávy v září 2023 upozornily, že původní výpočty Eurostatu (pro 2. pololetí 2022) vycházely z **ceníků**, nikoli z reálně placených cen; podle nich pak ČR působila jako jedna z nejdražších zemí EU. Po přechodu na novou metodiku se ČR posunula spíše k průměru EU. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-firmy-cesko-uz-nema-nejdrazsi-energie-v-evrope-zmenila-se-metodika-237305?utm_source=openai))  \n\nI to ukazuje, že různé metodiky mohou dávat velmi odlišný obraz, ale **pro rok 2021** se tento spor netýká tak zásadně – tehdejší rozdíly mezi zeměmi nebyly tak extrémní jako v roce 2022.\n\n---\n\n## 7. Shrnutí po jednotlivých dílčích tvrzeních\n\n1. **Elektřina, rok 2021, ceny v eurech (€/kWh):**  \n   - Podle Eurostatu byly nejdražší Dánsko, Německo, Belgie, Irsko; ČR s cca 0,188 €/kWh je v širším středu pole. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai))  \n   → Výrok „nejdražší či druhé nejdražší“ je **nepravdivý**.\n\n2. **Elektřina, rok 2021, ceny v PPS/kWh:**  \n   - Akademická analýza na základě Eurostatu ukazuje jako nejdražší Španělsko, Rumunsko, Německo, Polsko; ČR je jen mírně nad průměrem EU. ([mdpi.com](https://www.mdpi.com/1996-1073/16/18/6636))  \n   → Výrok je **nepravdivý** i při této metodice.\n\n3. **Plyn, rok 2021:**  \n   - Nejvyšší nominální ceny pro domácnosti: Švédsko, Dánsko, Nizozemsko, Španělsko.  \n   - V PPS mají pro 1. pololetí 2021 nejvyšší hodnoty Portugalsko a Nizozemsko. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220429-2?utm_source=openai))  \n   → Ani zde ČR není 1.–2. nejdražší.\n\n4. **Souhrnné „energie pro bydlení“, rok 2021 (HICP):**  \n   - ČSÚ na základě Eurostatu uvádí, že v roce 2021 byly **nejvyšší růsty cen energií pro bydlení** v Norsku, Estonsku, Nizozemsku, Belgii, Španělsku;  \n   - v ČR naopak **největší pokles (-8,5 %)**. ([statistikaamy.csu.gov.cz](https://statistikaamy.csu.gov.cz/co-se-skryva-za-rustem-cen?utm_source=openai))  \n   → Nelze z toho odvodit, že by ČR měla v roce 2021 nejvyšší nebo druhou nejvyšší cenovou hladinu energií v Evropě.\n\n---\n\n## 8. Celkový závěr\n\n- Pro žádnou standardní a transparentně dokumentovanou definici „cen energií“ (elektřina, plyn, energie pro bydlení; v eurech nebo v PPS) se **pro rok 2021** nepotvrdilo, že by Česká republika byla **nejdražší nebo druhá nejdražší v Evropě**.\n- Existují **jiné roky (zejména 2022–2024)** a **jiné datové výběry** (HEPI, specifická pásma spotřeby, kapitálová města), kde ČR skutečně vychází jako země s nejvyšší zátěží za elektřinu po přepočtu na kupní sílu. Fiala ale explicitně mluví o **roce 2021**, kde tato tvrzení neplatí.\n- Výrok „Ceny energií v roce 2021 v České republice byly nejdražší nebo druhé nejdražší v Evropě“ je proto podle dostupných důkazů **nepravdivý**.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 105726,
+      "input_tokens_details": {
+        "cached_tokens": 5376
+      },
+      "output_tokens": 17834,
+      "output_tokens_details": {
+        "reasoning_tokens": 13040
+      },
+      "total_tokens": 123560
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772537956,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

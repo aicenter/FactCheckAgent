@@ -1,0 +1,423 @@
+{
+  "claim_id": "24583",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260209_115155",
+  "source_md": "experiments/gpt5.1_h_20260209_115155/brief_fact_check_id24583.md",
+  "fact_check": "# Fact Check for Statement ID 24583\n\n## Statement\nNárodní rozpočtová rada, předseda (...) ten nás stojí 27 miliard ročně.\n\n---\n## AI Fact Check\n## Shrnutí\n\nTvrzení Andreje Babiše, že „Národní rozpočtová rada, předseda (…) ten nás stojí 27 miliard ročně“, je v rozporu s oficiálními údaji o rozpočtu i o platu předsedy Národní rozpočtové rady (NRR).  \nSkutečné roční náklady na NRR se pohybují v řádu **desítek milionů korun**, nikoli **desítek miliard**. Předseda NRR má roční hrubý příjem zhruba **2,7 mil. Kč**.\n\n**Závěr:** tvrzení je fakticky **nepravdivé** (řádově přestřelené zhruba o tři až čtyři řády).\n\n---\n\n## 1. Dílčí tvrzení a interpretace\n\n1. **Tvrzení A:** Existuje Národní rozpočtová rada jako státní instituce s předsedou, financovaná ze státního rozpočtu.  \n2. **Tvrzení B:** NRR (resp. její provoz) „nás stojí 27 miliard korun ročně“.  \n3. **Tvrzení C (alternativní čtení):** Samotný předseda NRR stojí veřejné rozpočty 27 miliard korun ročně.\n\nNíže jsou pro každé dílčí tvrzení uvedeny důkazy.\n\n---\n\n## 2. Důkazy\n\n### 2.1 Postavení a financování Národní rozpočtové rady\n\n**Zákonný rámec NRR**\n\nZákon č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti, v § 1 stanoví, že zákon „…upravuje pravidla rozpočtové odpovědnosti … a působnost Národní rozpočtové rady“ – tedy zakládá NRR jako orgán dohledu nad rozpočtovou odpovědností. ([krajta.slv.cz](https://krajta.slv.cz/2017/23/par_1?utm_source=openai))  \n\n**Úřad NRR jako organizační složka státu a rozpočtová kapitola**\n\nNa webu NRR, v sekci „Rozpočet Úřadu NRR“, se uvádí, že:\n\n> „Úřad Národní rozpočtové rady je organizační složkou státu a účetní jednotkou. **Výdaje na činnost Národní rozpočtové rady a Úřadu jsou hrazeny ze samostatné kapitoly státního rozpočtu.**“ ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n\nPortál veřejné správy gov.cz dále uvádí, že NRR:\n\n> „…má povinnost předkládat výroční zprávu a zprávu o plnění rozpočtu **kapitoly 359 státního rozpočtu** …“ a dodává, že kapitola č. 359 je **„Úřad Národní rozpočtové rady“**. ([portal.gov.cz](https://portal.gov.cz/sluzby-vs/vyrocni-zprava-a-plneni-rozpoctu-uradu-narodni-rozpoctove-rady-S13261?utm_source=openai))  \n\n**Hodnocení tvrzení A:**  \nAno, NRR je zákonem zřízený orgán, její činnost je financována ze samostatné kapitoly státního rozpočtu (č. 359). Tvrzení A je **pravdivé**.\n\n---\n\n### 2.2 Skutečná výše ročních nákladů na NRR (kapitola 359)\n\n#### a) Oficiální rozpočet Úřadu NRR (zdroj: NRR)\n\nNa stránce „Rozpočet Úřadu NRR“ jsou uvedeny schválené výdaje kapitoly 359 pro jednotlivé roky. Pro nejnovější roky (před a v době výroku) jsou:\n\n- **2022 – schválený rozpočet: výdaje 23 775 531 Kč** ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n- **2023 – schválený rozpočet: výdaje 26 286 994 Kč** ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n- **2024 – schválený rozpočet: výdaje 25 688 149 Kč** ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n- **2025 – schválený rozpočet: výdaje 27 194 002 Kč** ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n\nVe všech letech od vzniku Úřadu NRR (2018–2025) se schválené výdaje kapitoly 359 pohybují kolem **20–27 milionů Kč ročně**, nikdy ne v řádu miliard. ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n\n#### b) Nezávislé potvrzení z Ministerstva financí (státní rozpočet 2025)\n\nMinisterstvo financí ČR ve své tiskové zprávě „Sněmovna schválila státní rozpočet na rok 2025“ uvádí tabulku „Celkové výdaje státního rozpočtu podle kapitol“. V ní je řádek:\n\n> „**Úřad Národní rozpočtové rady  |  25 688 149  |  27 194 002  |  105,9**“\n\nkde první číslo je výdaj pro rok 2024, druhé pro rok 2025 (v Kč). ([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/snemovna-schvalila-statni-rozpocet-na-rok-2025-57982))  \n\nTo přesně odpovídá údajům z webu NRR (cca 25,7 mil. Kč v roce 2024 a 27,2 mil. Kč v roce 2025). ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n\n#### c) Historická data (příklad pro rok 2022)\n\nStarší tiskové zprávy MF (resp. jejich přetisk na Daně pro lidi) k novele státního rozpočtu 2022 uvádějí v tabulce kapitol řádek:\n\n> „359  | Úřad Národní rozpočtové rady  | 23 775 531  | 23 775 531  | 23 775 531“  \n\ntj. výdaje kapitoly 359 ve výši **23 775 531 Kč**. ([daneprolidi.cz](https://www.daneprolidi.cz/aktualita/snemovna-schvalila-novelu-rozpoctu-2022-se-schodkem-375-mld-kc-ak.htm))  \n\nTo opět potvrzuje, že rozpočet NRR je řádově **desítky milionů Kč**.\n\n#### d) Porovnání s tvrzenými „27 miliardami“\n\n- Skutečný schválený rozpočet kapitoly 359 pro rok 2025: **27 194 002 Kč** (≈ **27,2 milionu Kč**). ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n- 1 miliarda Kč = 1 000 000 000 Kč.  \n- **27 miliard Kč = 27 000 000 000 Kč.**  \n\nVe skutečnosti tedy NRR stojí zhruba **0,027 miliardy Kč ročně**, nikoli **27 miliard Kč**. Babišovo číslo je přibližně **1 000× vyšší**, než odpovídá skutečnému rozpočtu NRR.\n\n**Hodnocení tvrzení B:**  \nTvrzení, že Národní rozpočtová rada „nás stojí 27 miliard ročně“, je **v zásadním rozporu s oficiálními rozpočtovými údaji**. Skutečné náklady jsou v řádu **desítek milionů korun ročně (cca 20–27 mil. Kč)**, nikoliv desítek miliard.  \nDílčí tvrzení B je tedy **nepravdivé**.\n\n---\n\n### 2.3 Náklady na předsedu NRR (plat)\n\nZ kontextu výroku („předseda… ten nás stojí 27 miliard ročně“) lze tvrzení chápat i tak, že se vztahuje přímo k osobě předsedy NRR.\n\nPřímá oficiální tabulka platů předsedy NRR na vládním webu není formou jednoduché tabulky publikována, ale existují veřejně přístupná data o platech ústavních činitelů a vedoucích úřadů, která agreguje server Hlídač státu na základě státního registru platů.\n\nPro pozici **„Předseda NRR“** v Úřadu NRR uvádí Hlídač státu pro rok 2024:\n\n- „Pozice Předseda NRR měla za rok 2024 **celkový hrubý příjem 2 719 200 Kč**.“ ([platy.hlidacstatu.cz](https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai))  \n\n(Tentýž řád uvádí hrubý měsíční plat cca 226 600 Kč a potvrzuje 12 odpracovaných měsíců.) ([platy.hlidacstatu.cz](https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai))  \n\nTo je roční náklad na hrubý plat předsedy ve výši cca **2,7 milionu Kč**. I kdybychom připočetli odvody a další související náklady, stále se jedná o řádově **jednotky milionů korun ročně**, nikoli miliardy.\n\n**Porovnání:**\n\n- Předseda NRR – hrubý příjem 2024: cca **2,7 mil. Kč**. ([platy.hlidacstatu.cz](https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai))  \n- Tvrzených 27 miliard Kč = 27 000 mil. Kč.  \n\nRozdíl je tedy zhruba **10 000×** (čtyři řády).\n\n**Hodnocení tvrzení C:**  \nAni při výkladu, že „ten nás stojí 27 miliard“ se vztahuje na samotného předsedu, není tvrzení v žádném myslitelném smyslu přesné. Reálné náklady na jeho plat jsou **řádově miliony**, nikoliv desítky miliard.  \nDílčí tvrzení C je rovněž **nepravdivé**.\n\n---\n\n## 3. Celkové zhodnocení výroku\n\n- NRR je zákonem zřízený orgán financovaný z vlastní kapitoly státního rozpočtu (č. 359). ([krajta.slv.cz](https://krajta.slv.cz/2017/23/par_1?utm_source=openai))  \n- Oficiální údaje Úřadu NRR i Ministerstva financí ukazují, že **roční výdaje na činnost NRR se v letech 2022–2025 pohybují mezi cca 23,8 a 27,2 milionu Kč**. ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n- Roční hrubý příjem předsedy NRR je řádově **2–3 miliony Kč**. ([platy.hlidacstatu.cz](https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai))  \n\nTvrzení Andreje Babiše, že Národní rozpočtová rada (resp. její předseda) „nás stojí 27 miliard ročně“, **nemá oporu v žádném z dostupných oficiálních údajů** a **nadhodnocuje skutečné náklady přibližně o tři až čtyři řády**.\n\n**Celkový verdikt:** tvrzení je **nepravdivé**.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-02-07 available from https://www.youtube.com/watch?v=CRryWLn2KSs.\\n\\n\\nThe claim was made by: Andrej Babiš, Předseda vlády ČR, předseda hnutí ANO\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:32:00\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nNení to pravda, jako může to stokrát říct ten pán, my říkáme, to není pravda. Tečka.\\n00:32:05\\nBára Divišová,moderátorka\\nI Národní rozpočtová rada to říká...\\n00:32:07\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nNárodní rozpočtová rada, předseda, nevím, jestli mluví za ODS stále, jo, a my ho nebudeme poslouchat, ten nás stojí 27 miliard ročně a je to úplně zbytečná instituce.\\n00:32:18\\nBára Divišová,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Národní rozpočtová rada, předseda (...) ten nás stojí 27 miliard ročně.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 291.65 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Národní rozpočtová rada existuje jako orgán placený ze státního rozpočtu, ale její provoz stojí desítky milionů korun ročně, nikoli 27 miliard. Předseda má roční hrubý příjem okolo 2,7 milionu Kč. Výrok proto hodnotíme jako nepravdu.</p>\n\n<p>Hodnocený výrok zní: <i>„Národní rozpočtová rada, předseda (…) ten nás stojí 27 miliard ročně.“</i> Směřuje proti existenci Národní rozpočtové rady (NRR) a jejím údajně vysokým nákladům. Výrok obsahuje několik faktických tvrzení, která ověřujeme postupně.</p>\n\n<p><strong>Dílčí tvrzení 1: Existuje Národní rozpočtová rada jako státní instituce s předsedou, financovaná ze státního rozpočtu.</strong></p>\n\n<p>Postavení NRR vyplývá ze zákona č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti. § 1 tohoto zákona dostupný např. na stránkách <a href=\"https://krajta.slv.cz/2017/23/par_1\">krajta.slv.cz</a> stanoví, že zákon upravuje rozpočtovou odpovědnost a působnost Národní rozpočtové rady, tedy že tento orgán zákonem skutečně existuje.</p>\n\n<p>Samotný úřad, který NRR zajišťuje zázemí, je popsán na oficiálním webu rady. Stránka <a href=\"https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/\">„Rozpočet Úřadu NRR“</a> uvádí, že <i>„Úřad Národní rozpočtové rady je organizační složkou státu a účetní jednotkou. Výdaje na činnost Národní rozpočtové rady a Úřadu jsou hrazeny ze samostatné kapitoly státního rozpočtu.“</i> Údaje veřejné správy na portálu <a href=\"https://portal.gov.cz/sluzby-vs/vyrocni-zprava-a-plneni-rozpoctu-uradu-narodni-rozpoctove-rady-S13261\">gov.cz</a> potvrzují, že jde o rozpočtovou kapitolu č. 359 „Úřad Národní rozpočtové rady“.</p>\n\n<p>NRR má tříčlennou radu v čele s předsedou, což plyne jak ze zákona, tak z organizační struktury na stránkách <a href=\"https://www.rozpoctovarada.cz/\">rozpoctovarada.cz</a>. Dílčí tvrzení, že NRR existuje jako orgán se samostatnou rozpočtovou kapitolou a předsedou placeným ze státního rozpočtu, tedy hodnotíme jako pravdivé.</p>\n\n<p><strong>Dílčí tvrzení 2: NRR (její provoz) „nás stojí 27 miliard korun ročně“.</strong></p>\n\n<p>Podle údajů na stránce <a href=\"https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/\">Rozpočet Úřadu NRR</a> se schválené výdaje kapitoly 359 v jednotlivých letech pohybují v řádu desítek milionů korun. Konkrétně jsou pro nedávná období uvedeny tyto částky (v Kč): pro rok 2022 výdaje 23&nbsp;775&nbsp;531, pro rok 2023 výdaje 26&nbsp;286&nbsp;994, pro rok 2024 výdaje 25&nbsp;688&nbsp;149 a pro rok 2025 výdaje 27&nbsp;194&nbsp;002. Ve všech letech od vzniku úřadu se tedy rozpočet pohybuje přibližně mezi 20 a 27 miliony Kč ročně.</p>\n\n<p>Tyto částky potvrzuje i Ministerstvo financí. V tiskové zprávě ke schválení státního rozpočtu na rok 2025 na webu <a href=\"https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/snemovna-schvalila-statni-rozpocet-na-rok-2025-57982\">mfcr.cz</a> je v tabulce kapitol řádek „Úřad Národní rozpočtové rady“, kde jsou jako celkové výdaje pro rok 2024 uvedeny 25&nbsp;688&nbsp;149 Kč a pro rok 2025 právě 27&nbsp;194&nbsp;002 Kč. Starší tisková zpráva o novele rozpočtu na rok 2022, přetištěná na webu <a href=\"https://www.daneprolidi.cz/aktualita/snemovna-schvalila-novelu-rozpoctu-2022-se-schodkem-375-mld-kc-ak.htm\">Daneprolidi.cz</a>, uvádí pro kapitolu 359 částku 23&nbsp;775&nbsp;531 Kč, což se shoduje s údaji NRR.</p>\n\n<p>Pro srovnání: 1 miliarda Kč je 1&nbsp;000&nbsp;000&nbsp;000 Kč. Tvrzených 27 miliard Kč tedy znamená 27&nbsp;000&nbsp;000&nbsp;000 Kč. Skutečné výdaje na činnost NRR podle citovaných oficiálních zdrojů dosahují přibližně 27 milionů Kč ročně, tedy 0,027 miliardy Kč. Výrok tak nadhodnocuje skutečné náklady zhruba tisíckrát.</p>\n\n<p>Dílčí tvrzení, že NRR „nás stojí 27 miliard ročně“, je proto v příkrém rozporu s oficiálními daty státního rozpočtu a hodnotíme je jako nepravdivé.</p>\n\n<p><strong>Dílčí tvrzení 3 (možné alternativní čtení): Samotný předseda NRR stojí veřejné rozpočty 27 miliard korun ročně.</strong></p>\n\n<p>Z formulace výroku <i>„předseda (…) ten nás stojí 27 miliard ročně“</i> lze také vyčíst, že částka má odkazovat přímo k osobě předsedy. I tuto variantu proto ověřujeme.</p>\n\n<p>Informace o odměňování vedoucích představitelů úřadů shromažďuje na základě oficiálních podkladů server <a href=\"https://platy.hlidacstatu.cz\">Hlídač státu</a>. Pro pozici „Předseda NRR“ v Úřadu NRR uvádí přehled platů za rok 2024, podle kterého tato pozice měla za rok 2024 <i>„celkový hrubý příjem 2&nbsp;719&nbsp;200 Kč“</i>, jak je uvedeno v profilu funkce na adrese <a href=\"https://platy.hlidacstatu.cz/urednici/Plat/27885\">platy.hlidacstatu.cz</a>. Tomu odpovídá měsíční hrubý příjem přibližně 226 tisíc Kč po dobu 12 měsíců.</p>\n\n<p>I kdybychom k hrubému platu předsedy připočetli zákonné odvody a další mzdové náklady, zůstáváme řádově v jednotkách milionů korun ročně. Tvrzených 27 miliard Kč (27&nbsp;000&nbsp;000&nbsp;000) by bylo přibližně deset tisíckrát více, než činí skutečný roční hrubý příjem předsedy (cca 2,7&nbsp;milionu Kč).</p>\n\n<p>Tvrzení, že samotný předseda NRR „nás stojí 27 miliard ročně“, proto rovněž neodpovídá realitě a hodnotíme ho jako nepravdivé.</p>\n\n<p><strong>Závěr</strong></p>\n\n<p>Národní rozpočtová rada je zákonem zřízený orgán dohledu nad rozpočtovou odpovědností, financovaný z vlastní rozpočtové kapitoly státního rozpočtu, což potvrzuje jak znění <a href=\"https://krajta.slv.cz/2017/23/par_1\">zákona č. 23/2017 Sb.</a>, tak údaje z webů <a href=\"https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/\">rozpoctovarada.cz</a> a <a href=\"https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/snemovna-schvalila-statni-rozpocet-na-rok-2025-57982\">mfcr.cz</a>. Skutečné roční náklady na její činnost se v posledních letech pohybují kolem 20–27 milionů korun, nikoli v řádu desítek miliard. Roční hrubý příjem předsedy podle <a href=\"https://platy.hlidacstatu.cz/urednici/Plat/27885\">Hlídače státu</a> činí zhruba 2,7 milionu Kč.</p>\n\n<p>Výrok, podle kterého „Národní rozpočtová rada, předseda (…) ten nás stojí 27 miliard ročně“, tedy výrazně a řádově nadhodnocuje skutečné náklady. Jde o fakticky nesprávné tvrzení. Výsledek ověření: <strong>nepravda</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_03b6607b78d34648006989bc4cb000819f90a7bb3afda7b8b5",
+    "created_at": 1770634316.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_03b6607b78d34648006989bc5d6e28819f882a864a05519593",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03b6607b78d34648006989bc672524819f9952a3a2f31b6999",
+        "action": {
+          "query": "\"Národní rozpočtová rada\" rozpočet 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Národní rozpočtová rada\" rozpočet 2023",
+            "\"Úrad Národní rozpočtové rady\" rozpočet",
+            "\"Národní rozpočtová rada\" výroční zpráva hospodaření",
+            "zákon o pravidlech rozpočtové odpovědnosti Národní rozpočtová rada"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03b6607b78d34648006989bc6aa224819f809f369813b03b22",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03b6607b78d34648006989bc86e108819fa81b802f7949cbe6",
+        "action": {
+          "query": "\"kapitola 359\" \"Úrad Národní rozpočtové rady\" schvaleny rozpocet 2025",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"kapitola 359\" \"Úrad Národní rozpočtové rady\" schvaleny rozpocet 2025",
+            "\"kapitola 359 Úrad Národní rozpočtové rady\" 2024",
+            "\"359 - Úrad Národní rozpočtové rady\" statni rozpocet",
+            "\"schválený rozpočet\" \"Úrad Národní rozpočtové rady\" 2023"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03b6607b78d34648006989bc8ba344819fb0a0a03122561411",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03b6607b78d34648006989bc968948819fa2648363dfad632f",
+        "action": {
+          "query": "\"Výroční zpráva\" \"Úřad Národní rozpočtové rady\" 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Výroční zpráva\" \"Úřad Národní rozpočtové rady\" 2023",
+            "\"Výroční zpráva\" \"Úřadu NRR\" hospodaření 2022",
+            "\"Výroční zpráva\" \"Národní rozpočtová rada\" hospodaření",
+            "\"Návrh závěrečného účtu\" \"Úřadu Národní rozpočtové rady\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03b6607b78d34648006989bc9ad934819f9d77343eecd64053",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03b6607b78d34648006989bc9e270c819fb3f552b744f305c3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03b6607b78d34648006989bc9feaac819f8884154cf05d014e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03b6607b78d34648006989bca46550819f8ef44cb3a77655e1",
+        "action": {
+          "query": "\"zákon o státním rozpočtu\" 2025 359 \"Úrad Národní rozpočtové rady\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"zákon o státním rozpočtu\" 2025 359 \"Úrad Národní rozpočtové rady\"",
+            "zákon č. 418/2024 Sb. státní rozpočet na rok 2025",
+            "\"státní rozpočet České republiky na rok 2025\" Sb.",
+            "\"359 – Úřad Národní rozpočtové rady\" \"zákon o státním rozpočtu\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03b6607b78d34648006989bca84fb4819f9fbf8098d9c4ebcc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03b6607b78d34648006989bca9163c819fb43bcd018f6ed393",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03b6607b78d34648006989bcababa8819f90acb6fda8af3308",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03b6607b78d34648006989bcabf364819fadb3436cbc410c61",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03b6607b78d34648006989bcae7588819f80ed70b4846c8bf4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03b6607b78d34648006989bcb2e4a0819fb09488b3bd5a811a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03b6607b78d34648006989bcb4428c819f88a94f03fac3612a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03b6607b78d34648006989bcc7e694819fa524297921aa730f",
+        "action": {
+          "query": "\"předseda Národní rozpočtové rady\" plat",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"předseda Národní rozpočtové rady\" plat",
+            "\"předsedkyně Národní rozpočtové rady\" plat",
+            "\"Úřad Národní rozpočtové rady\" mzdové náklady",
+            "\"Národní rozpočtová rada\" \"plat předsedy\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03b6607b78d34648006989bcce9f0c819f8cf4fea906f19ace",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_03b6607b78d34648006989bd30d510819fb6a1999d967144d8",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1275,
+                "start_index": 1203,
+                "title": "§ 1, 23/2017 Sb. - Zákon o pravidlech rozpočtové odpovědnosti",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/2017/23/par_1?utm_source=openai"
+              },
+              {
+                "end_index": 1671,
+                "start_index": 1594,
+                "title": "Rozpočet Úřadu NRR | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/"
+              },
+              {
+                "end_index": 2039,
+                "start_index": 1901,
+                "title": "gov.cz - Portál veřejné správy",
+                "type": "url_citation",
+                "url": "https://portal.gov.cz/sluzby-vs/vyrocni-zprava-a-plneni-rozpoctu-uradu-narodni-rozpoctove-rady-S13261?utm_source=openai"
+              },
+              {
+                "end_index": 2606,
+                "start_index": 2529,
+                "title": "Rozpočet Úřadu NRR | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/"
+              },
+              {
+                "end_index": 2740,
+                "start_index": 2663,
+                "title": "Rozpočet Úřadu NRR | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/"
+              },
+              {
+                "end_index": 2874,
+                "start_index": 2797,
+                "title": "Rozpočet Úřadu NRR | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/"
+              },
+              {
+                "end_index": 3008,
+                "start_index": 2931,
+                "title": "Rozpočet Úřadu NRR | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/"
+              },
+              {
+                "end_index": 3238,
+                "start_index": 3161,
+                "title": "Rozpočet Úřadu NRR | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/"
+              },
+              {
+                "end_index": 3759,
+                "start_index": 3636,
+                "title": "Sněmovna schválila státní rozpočet na rok 2025 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/snemovna-schvalila-statni-rozpocet-na-rok-2025-57982"
+              },
+              {
+                "end_index": 3936,
+                "start_index": 3859,
+                "title": "Rozpočet Úřadu NRR | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/"
+              },
+              {
+                "end_index": 4381,
+                "start_index": 4255,
+                "title": "\nDaně pro lidi – Sněmovna schválila novelu rozpočtu 2022 se schodkem 375 mld. Kč\n",
+                "type": "url_citation",
+                "url": "https://www.daneprolidi.cz/aktualita/snemovna-schvalila-novelu-rozpoctu-2022-se-schodkem-375-mld-kc-ak.htm"
+              },
+              {
+                "end_index": 4679,
+                "start_index": 4602,
+                "title": "Rozpočet Úřadu NRR | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/"
+              },
+              {
+                "end_index": 5929,
+                "start_index": 5837,
+                "title": "Plat Předseda NRR v Úřad Národní rozpočtové rady - platy politiků a úředníků.",
+                "type": "url_citation",
+                "url": "https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai"
+              },
+              {
+                "end_index": 6115,
+                "start_index": 6023,
+                "title": "Plat Předseda NRR v Úřad Národní rozpočtové rady - platy politiků a úředníků.",
+                "type": "url_citation",
+                "url": "https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai"
+              },
+              {
+                "end_index": 6493,
+                "start_index": 6401,
+                "title": "Plat Předseda NRR v Úřad Národní rozpočtové rady - platy politiků a úředníků.",
+                "type": "url_citation",
+                "url": "https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai"
+              },
+              {
+                "end_index": 7073,
+                "start_index": 7001,
+                "title": "§ 1, 23/2017 Sb. - Zákon o pravidlech rozpočtové odpovědnosti",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/2017/23/par_1?utm_source=openai"
+              },
+              {
+                "end_index": 7312,
+                "start_index": 7235,
+                "title": "Rozpočet Úřadu NRR | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/"
+              },
+              {
+                "end_index": 7471,
+                "start_index": 7379,
+                "title": "Plat Předseda NRR v Úřad Národní rozpočtové rady - platy politiků a úředníků.",
+                "type": "url_citation",
+                "url": "https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai"
+              }
+            ],
+            "text": "## Shrnutí\n\nTvrzení Andreje Babiše, že „Národní rozpočtová rada, předseda (…) ten nás stojí 27 miliard ročně“, je v rozporu s oficiálními údaji o rozpočtu i o platu předsedy Národní rozpočtové rady (NRR).  \nSkutečné roční náklady na NRR se pohybují v řádu **desítek milionů korun**, nikoli **desítek miliard**. Předseda NRR má roční hrubý příjem zhruba **2,7 mil. Kč**.\n\n**Závěr:** tvrzení je fakticky **nepravdivé** (řádově přestřelené zhruba o tři až čtyři řády).\n\n---\n\n## 1. Dílčí tvrzení a interpretace\n\n1. **Tvrzení A:** Existuje Národní rozpočtová rada jako státní instituce s předsedou, financovaná ze státního rozpočtu.  \n2. **Tvrzení B:** NRR (resp. její provoz) „nás stojí 27 miliard korun ročně“.  \n3. **Tvrzení C (alternativní čtení):** Samotný předseda NRR stojí veřejné rozpočty 27 miliard korun ročně.\n\nNíže jsou pro každé dílčí tvrzení uvedeny důkazy.\n\n---\n\n## 2. Důkazy\n\n### 2.1 Postavení a financování Národní rozpočtové rady\n\n**Zákonný rámec NRR**\n\nZákon č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti, v § 1 stanoví, že zákon „…upravuje pravidla rozpočtové odpovědnosti … a působnost Národní rozpočtové rady“ – tedy zakládá NRR jako orgán dohledu nad rozpočtovou odpovědností. ([krajta.slv.cz](https://krajta.slv.cz/2017/23/par_1?utm_source=openai))  \n\n**Úřad NRR jako organizační složka státu a rozpočtová kapitola**\n\nNa webu NRR, v sekci „Rozpočet Úřadu NRR“, se uvádí, že:\n\n> „Úřad Národní rozpočtové rady je organizační složkou státu a účetní jednotkou. **Výdaje na činnost Národní rozpočtové rady a Úřadu jsou hrazeny ze samostatné kapitoly státního rozpočtu.**“ ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n\nPortál veřejné správy gov.cz dále uvádí, že NRR:\n\n> „…má povinnost předkládat výroční zprávu a zprávu o plnění rozpočtu **kapitoly 359 státního rozpočtu** …“ a dodává, že kapitola č. 359 je **„Úřad Národní rozpočtové rady“**. ([portal.gov.cz](https://portal.gov.cz/sluzby-vs/vyrocni-zprava-a-plneni-rozpoctu-uradu-narodni-rozpoctove-rady-S13261?utm_source=openai))  \n\n**Hodnocení tvrzení A:**  \nAno, NRR je zákonem zřízený orgán, její činnost je financována ze samostatné kapitoly státního rozpočtu (č. 359). Tvrzení A je **pravdivé**.\n\n---\n\n### 2.2 Skutečná výše ročních nákladů na NRR (kapitola 359)\n\n#### a) Oficiální rozpočet Úřadu NRR (zdroj: NRR)\n\nNa stránce „Rozpočet Úřadu NRR“ jsou uvedeny schválené výdaje kapitoly 359 pro jednotlivé roky. Pro nejnovější roky (před a v době výroku) jsou:\n\n- **2022 – schválený rozpočet: výdaje 23 775 531 Kč** ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n- **2023 – schválený rozpočet: výdaje 26 286 994 Kč** ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n- **2024 – schválený rozpočet: výdaje 25 688 149 Kč** ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n- **2025 – schválený rozpočet: výdaje 27 194 002 Kč** ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n\nVe všech letech od vzniku Úřadu NRR (2018–2025) se schválené výdaje kapitoly 359 pohybují kolem **20–27 milionů Kč ročně**, nikdy ne v řádu miliard. ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n\n#### b) Nezávislé potvrzení z Ministerstva financí (státní rozpočet 2025)\n\nMinisterstvo financí ČR ve své tiskové zprávě „Sněmovna schválila státní rozpočet na rok 2025“ uvádí tabulku „Celkové výdaje státního rozpočtu podle kapitol“. V ní je řádek:\n\n> „**Úřad Národní rozpočtové rady  |  25 688 149  |  27 194 002  |  105,9**“\n\nkde první číslo je výdaj pro rok 2024, druhé pro rok 2025 (v Kč). ([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/snemovna-schvalila-statni-rozpocet-na-rok-2025-57982))  \n\nTo přesně odpovídá údajům z webu NRR (cca 25,7 mil. Kč v roce 2024 a 27,2 mil. Kč v roce 2025). ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n\n#### c) Historická data (příklad pro rok 2022)\n\nStarší tiskové zprávy MF (resp. jejich přetisk na Daně pro lidi) k novele státního rozpočtu 2022 uvádějí v tabulce kapitol řádek:\n\n> „359  | Úřad Národní rozpočtové rady  | 23 775 531  | 23 775 531  | 23 775 531“  \n\ntj. výdaje kapitoly 359 ve výši **23 775 531 Kč**. ([daneprolidi.cz](https://www.daneprolidi.cz/aktualita/snemovna-schvalila-novelu-rozpoctu-2022-se-schodkem-375-mld-kc-ak.htm))  \n\nTo opět potvrzuje, že rozpočet NRR je řádově **desítky milionů Kč**.\n\n#### d) Porovnání s tvrzenými „27 miliardami“\n\n- Skutečný schválený rozpočet kapitoly 359 pro rok 2025: **27 194 002 Kč** (≈ **27,2 milionu Kč**). ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n- 1 miliarda Kč = 1 000 000 000 Kč.  \n- **27 miliard Kč = 27 000 000 000 Kč.**  \n\nVe skutečnosti tedy NRR stojí zhruba **0,027 miliardy Kč ročně**, nikoli **27 miliard Kč**. Babišovo číslo je přibližně **1 000× vyšší**, než odpovídá skutečnému rozpočtu NRR.\n\n**Hodnocení tvrzení B:**  \nTvrzení, že Národní rozpočtová rada „nás stojí 27 miliard ročně“, je **v zásadním rozporu s oficiálními rozpočtovými údaji**. Skutečné náklady jsou v řádu **desítek milionů korun ročně (cca 20–27 mil. Kč)**, nikoliv desítek miliard.  \nDílčí tvrzení B je tedy **nepravdivé**.\n\n---\n\n### 2.3 Náklady na předsedu NRR (plat)\n\nZ kontextu výroku („předseda… ten nás stojí 27 miliard ročně“) lze tvrzení chápat i tak, že se vztahuje přímo k osobě předsedy NRR.\n\nPřímá oficiální tabulka platů předsedy NRR na vládním webu není formou jednoduché tabulky publikována, ale existují veřejně přístupná data o platech ústavních činitelů a vedoucích úřadů, která agreguje server Hlídač státu na základě státního registru platů.\n\nPro pozici **„Předseda NRR“** v Úřadu NRR uvádí Hlídač státu pro rok 2024:\n\n- „Pozice Předseda NRR měla za rok 2024 **celkový hrubý příjem 2 719 200 Kč**.“ ([platy.hlidacstatu.cz](https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai))  \n\n(Tentýž řád uvádí hrubý měsíční plat cca 226 600 Kč a potvrzuje 12 odpracovaných měsíců.) ([platy.hlidacstatu.cz](https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai))  \n\nTo je roční náklad na hrubý plat předsedy ve výši cca **2,7 milionu Kč**. I kdybychom připočetli odvody a další související náklady, stále se jedná o řádově **jednotky milionů korun ročně**, nikoli miliardy.\n\n**Porovnání:**\n\n- Předseda NRR – hrubý příjem 2024: cca **2,7 mil. Kč**. ([platy.hlidacstatu.cz](https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai))  \n- Tvrzených 27 miliard Kč = 27 000 mil. Kč.  \n\nRozdíl je tedy zhruba **10 000×** (čtyři řády).\n\n**Hodnocení tvrzení C:**  \nAni při výkladu, že „ten nás stojí 27 miliard“ se vztahuje na samotného předsedu, není tvrzení v žádném myslitelném smyslu přesné. Reálné náklady na jeho plat jsou **řádově miliony**, nikoliv desítky miliard.  \nDílčí tvrzení C je rovněž **nepravdivé**.\n\n---\n\n## 3. Celkové zhodnocení výroku\n\n- NRR je zákonem zřízený orgán financovaný z vlastní kapitoly státního rozpočtu (č. 359). ([krajta.slv.cz](https://krajta.slv.cz/2017/23/par_1?utm_source=openai))  \n- Oficiální údaje Úřadu NRR i Ministerstva financí ukazují, že **roční výdaje na činnost NRR se v letech 2022–2025 pohybují mezi cca 23,8 a 27,2 milionu Kč**. ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/urad-nrr/rozpocet-uradu/))  \n- Roční hrubý příjem předsedy NRR je řádově **2–3 miliony Kč**. ([platy.hlidacstatu.cz](https://platy.hlidacstatu.cz/urednici/Plat/27885?utm_source=openai))  \n\nTvrzení Andreje Babiše, že Národní rozpočtová rada (resp. její předseda) „nás stojí 27 miliard ročně“, **nemá oporu v žádném z dostupných oficiálních údajů** a **nadhodnocuje skutečné náklady přibližně o tři až čtyři řády**.\n\n**Celkový verdikt:** tvrzení je **nepravdivé**.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 60912,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 10594,
+      "output_tokens_details": {
+        "reasoning_tokens": 8005
+      },
+      "total_tokens": 71506
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1770634591,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

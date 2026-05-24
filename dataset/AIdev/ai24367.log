@@ -1,0 +1,526 @@
+{
+  "claim_id": "24367",
+  "split": "old",
+  "source_experiment": "gpt-5-m_20251027_161428",
+  "source_md": "experiments/gpt-5-m_20251027_161428/brief_fact_check_id24367.md",
+  "fact_check": "# Fact Check for Statement ID 24367\n\n## Statement\nVláda schválila v rámci toho balíčku Fit for 55 v původním znění emisní povolenky ETS 2 pro domácnosti, ale taky pro malé a střední firmy.\n\n---\n## OpenAI Deep Research Fact Check\nZpráva k ověření výroku (atomizovaná):  \n„Vláda schválila v rámci toho balíčku Fit for 55 v původním znění emisní povolenky ETS2 pro domácnosti, ale taky pro malé a střední firmy.“\n\nShrnutí závěru (stručně)\n- Část výroku o „původním znění balíčku Fit for 55“ — že Fit for 55 / návrh EK skutečně navrhoval rozšíření systému o ETS2, které se týká vytápění (domácností) a silniční dopravy a které v návrzích počítalo se sociální podporou pro zranitelné domácnosti a mikro/malé a střední podniky — má oporu v primárních dokumentech Evropské komise. (PRAVDA / PODLOŽENO)\n- Tvrzení, že „vláda schválila“ toto původní znění (interpretace: česká vláda údajně schválila nebo podpořila zavedení ETS2 v původním znění) není podpořeno dostupnými oficiálními zdroji; naopak česká vláda se v dokumentech a tiskových prohlášeních prezentuje jako snaha systém změnit/odložit a v létě 2025 iniciovala společný „non‑paper“ s dalšími státy žádající úpravy ETS2. Výrok o tom, že vláda původní znění „schválila“, je tedy zavádějící / NEPRAVDIVÝ v tomto smyslu. (NEPODLOŽENO / ZAVÁDĚJÍCÍ)\n\nRozklad výroku na sub‑tvrzení a důkazy\n1) Sub‑tvrzení A: „V původním znění balíčku Fit for 55 návrh EU/Komise obsahoval ETS2 (rozšíření ETS) vztahující se na domácnosti (budovy) a dopravu.“\n- Důkaz (primární zdroj — návrhy Komise / vysvětlení):\n  - Explanatory Memorandum k návrhu revize ETS (COM(2021)551): text výslovně uvádí, že Komise „navrhuje začlenění sektoru budov a silniční dopravy do obchodování s emisemi“ a popisuje, že se to má zavést „prostřednictvím samostatného, přilehlého obchodování s emisemi“ (viz části „As already considered … the Commission is proposing to include the building sector and road transport into emissions trading“). Zdroj: EUR‑Lex / COM(2021)551. Link + konkrétní pasáž.  \n    - URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0551 (viz sekce „Context of the proposal“ a odstavce uvádějící začlenění budov a silniční dopravy do ETS). ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai))\n  - Doprovodné materiály Komise / „Fit for 55“ (COM(2021)550, COM(2021)568 — Social Climate Fund) vysvětlují, že rozšíření povede k nárůstu nákladů pro domácnosti a proto je navržen Sociální klimatický fond (Social Climate Fund) cílený na zranitelné domácnosti a mikro‑, malé a střední podniky. (viz definice „vulnerable households“, „vulnerable micro‑enterprises“ apod.).  \n    - URL (Social Climate Fund proposal, definice znění): https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0568 (viz čl. 3 a definice). ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0568&utm_source=openai))\n  - Shrnutí z hodnocení dopadů / provázaných dokumentů Komise také explicitně uvádí, že ETS2 má dopad na domácnosti a transport users a že Sociální klimatický fond má podporovat „vulnerable households, micro‑enterprises and transport users“. (viz doprovodný materiál COM(2021)550 / SWD atd.). ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/CS/ALL/?uri=CELEX%3A52021DC0550&utm_source=openai))\n\nZ toho plyne: původní (komisní) návrh v rámci Fit for 55 skutečně obsahoval rozšíření obchodování s emisními povolenkami na sektory budov (domácnosti/ vytápění) a silniční dopravy a souvisle s tím návrh Sociálního klimatického fondu, který explicitně zmiňuje zranitelné domácnosti a mikro / malé a střední podniky. (podložené primárními zdroji EU). ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai))\n\n2) Sub‑tvrzení B: „Vláda (Česká republika) schválila v rámci Fit for 55 v původním znění ETS2 pro domácnosti i pro malé a střední firmy.“\n- Co lze prověřit (možné interpretace tvrzení):\n  a) Autor myslel, že „Komise schválila/předložila v původním znění“ — v tom případě je tvrzení přesné (viz bod 1).  \n  b) Autor myslel, že „česká vláda (vláda ČR) schválila/podpořila toto původní znění (tj. že ČR souhlasila s rozsahem ETS2 v původní podobě)“ — to lze fakticky ověřit proti prohlášením vlády / MŽP / CTK apod.\n\n- Důkazy proti interpretaci (b) — oficiální české/mediální zdroje:\n  - Tisková zpráva vlády / materiál vlády (vlada.gov.cz) — aktualizovaný Národní energeticko‑klimatický plán (NECP) schválený vládou 18. 10. 2023 uvádí, že ČR naplní závazky Fit for 55, nicméně dokument a následná komunikace vládních představitelů deklarovala, že vláda nebude jednostranně zavádět náklady na domácnosti a bude na evropské úrovni usilovat o změny/odklad u některých opatření; zpráva explicitně reaguje na dopady Fit for 55. (vlada.gov.cz, 18.10.2023). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/?utm_source=openai))\n  - ČTK / ČT24 a další zpravodajské služby (červenec 2025): Česko spolu s dalšími 17 státy zaslalo EK „non‑paper“ s požadavky na úpravy ETS2 a snaží se mechanismus změnit/odložit — tj. vláda aktivně nesouhlasila s původním zněním a usilovala o změnu. (CTK, iDNES, ČT24 2.–3.7.2025). Konkrétně: „Česko zaslalo Evropské komisi požadavky na změnu obchodování s emisními povolenkami … dokument podepsalo dalších 17 států … Pro český návrh na zrušení či odsunutí systému ETS2 se nepodařilo v EU dojednat dostatečnou podporu. Česká republika proto vypracovala non‑paper…“ (CTK/iDNES/ČT24). ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai))\n  - Mediální shrnutí (Aktuálně.cz) z října 2023 uvádí, že do NECP „vypadla tak například část o kontroverzním systému s emisními povolenkami ETS2, který měl rozšiřovat povolenky i na paliva či vytápění budov. Vláda se bude snažit systém na evropské úrovni odložit a změnit.“ To ukazuje postoj vlády skeptický vůči zavedení ETS2 v původní nesnahé podobě. ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/vlada-schvalila-klimaticko-energeticky-plan-vymezuje-rozvoj/r~c80f6822bd6c11efb589ac1f6b220ee8/?utm_source=openai))\n\n- Dále: v české veřejné debatě během roku 2025 (ČTK/ministrstvo) vláda opakovaně zdůrazňovala, že bude usilovat o změny/posun ETS2 a podpořila společný dokument s dalšími státy s žádostí o změny mechanismů (stabilizace trhu, aukce apod.). To je důkazem opoziční/negativní pozice vlády vůči „původnímu znění“ ETS2, nikoli jeho „schválení“. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai))\n\nCelkové hodnocení pravdivosti výroku\n- Pokud se výrok chápe tak, že „v původním znění Fit for 55 Komise navrhovala ETS2, které by zasáhlo domácnosti i MSME (malé a střední podniky)“ — tvrzení je pravdivé a má primární dokumentární oporu (komisní návrhy a návrh Sociálního klimatického fondu). ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai))\n- Pokud se výrok chápe tak, že „česká vláda (vláda ČR) schválila (podpořila) v původním znění zavedení ETS2 vůči domácnostem a malým a středním firmám“ — tvrzení není podloženo; veřejné oficiální informace ukazují spíše opak: vláda usilovala o změnu/odklad či zrušení takového postupu a v létě 2025 iniciovala společný non‑paper s dalšími státy, žádající úpravy. Proto tato interpretace výroku je zavádějící/nepravdivá. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/?utm_source=openai))\n\nSeznam použitých (relevantních) zdrojů (včetně přesných částí, kde je informace k nalezení)\n- European Commission, Proposal for a DIRECTIVE amending Directive 2003/87/EC (COM(2021)551) — Explanatory memorandum / context: text uvádějící, že Komise „is proposing to include the building sector and road transport into emissions trading“. (EUR‑Lex). URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0551. ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai))\n  - Konkrétní pasáž: „As already considered in the European Green Deal Communication, the Commission is proposing to include the building sector and road transport into emissions trading.“ (viz část „Context of the proposal“).\n- European Commission, Proposal for a Regulation establishing a Social Climate Fund (COM(2021)568) — definice skupin a povinností: obsahuje definice „vulnerable households“, „vulnerable micro‑enterprises“ a požadavek na národní Social Climate Plans. URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0568. ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0568&utm_source=openai))\n  - Konkrétní pasáže: definice „micro‑enterprise“ a články o Social Climate Plans (Article 3 atd.) (viz COM(2021)568).\n- EUR‑Lex / doprovodné materiály (Impact Assessment, SWD): rozbory dopadů rozšíření ETS. URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023SC0088. ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023SC0088&utm_source=openai))\n- Vlada.cz — tisková zpráva vlády ČR: „Vláda schválila nový energetický a klimatický plán…“ (18. 10. 2023). (ukazuje, že ČR aktualizovala NECP a ve vládní komunikaci se objevila snaha upravit některé dopady Fit for 55). URL: https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/ . ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/?utm_source=openai))\n- ČTK / ČT24 / iDNES (2.–3.7.2025): zprávy „Česko a dalších 17 států žádají o změnu obchodování s povolenkami ETS2“ — informují, že ČR zaslala EK non‑paper požadující úpravy a že vláda neschvaluje původní znění bez změn. (příklady: CT24: https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zadaji-o-zmenu-obchodovani-s-povolenkami-ets-2-362554; iDNES: https://www.idnes.cz/ekonomika/domaci/ets2-eu-povolenky.A250702_172800_ekonomika_hyk). ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai))\n- Radiožurnál (zdroj výroku): „Vondráček: Povolenky jsou škodlivý nástroj…“ rozhovor vydaný 22.10.2025, kde je výrok citován. URL: https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024 . (zdroj citovaného výroku). ([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024?utm_source=openai))\n- Další přehledné shrnutí (Council / trilogues / dohody) o tom, jak se návrhy rozvíjely (např. Orlen report, zprávy o předběžných dohodách, rozhodnutích Rady) — viz např. texty popisující, že Rada/Parlament dospěly k variantám obsahu (souhrn). (viz turn7search1/turn7search0). ([raportzintegrowany2022.orlen.pl](https://raportzintegrowany2022.orlen.pl/en/our-environment/regulatory-environment?utm_source=openai))\n\nKrátké závěrečné shrnutí pro rozhodnutí faktcheckera\n- Ano — v „původním znění“ balíčku Fit for 55 (tj. v návrhu Komise z roku 2021 a souvisejících návrzích) byla navržena samostatná ETS pro budovy a silniční dopravu („ETS2“) a součástí návrhu byla i reflexe dopadů na domácnosti a mikro/malé a střední podniky (Social Climate Fund cílený mj. na „vulnerable households“ a „vulnerable micro‑enterprises“). To je dokumentovatelný fakt. ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai))\n- Ne — dostupné oficiální zdroje nekonfirmují, že by „vláda (ČR) schválila“ původní znění (tj. že česká vláda původní návrh Komise podpořila beze změn). Naopak: vláda v komunikaci a v praxi usilovala o změny/odklad a v létě 2025 iniciovala společný dokument (non‑paper) s dalšími státy požadujícími úpravy ETS2. Proto tvrzení ve formě „vláda schválila …“ je v kontextu české vlády neopodstatněné. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai))\n\nPoznámka k pojmovému rozlišení (důležité pro interpretaci výroku)\n- „Schválila“ může být chápáno různě: (i) Komise nebo orgán EU „předložil/schválil návrh v původním znění“ (platí pro Komisi — viz bod 1); (ii) národní vláda „schválila/podporovala“ návrh (to v českém případě neplatí). Výrok hovoří o „vládě“, tedy o národní vládě — v tom smyslu je nepravdivý / zavádějící.\n\n(Hotovo — konec reportu.)\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in 20 minut Radiožurnálu released on 2025-10-22 available from https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024.\\n\\n\\nThe claim was made by: Libor Vondráček, Poslanec\\n\\n\\nThe claim appears in the following immediate context in the source:\\n\\nLibor Vondráček,\\nzvolený poslanec, předseda strany /Svobodní/\\nNemá to na ni žádný vliv. protože my považujeme ten nástroj za nástroj škodlivý. Vemte si to, že vláda tady schválila v rámci toho balíčku Fit for 55 v původním znění emisní povolenky ETS 2 pro domácnosti, ale taky pro malé a střední firmy. Což v podstatě, kdybych to měl nějak obrazně vysvětlit, schválila, že občané dostanou osmkrát pěstí mezi oči. A teď vyjednala v Bruselu, že dostanou jenom čtyřikrát. My nechceme, aby dostávali naši občané pěstí ani jednou. A jestli budou platit 50 000 Kč za emisní povolenky anebo kdyby náhodou fungoval ten strop na 45 eurech, budou platit jenom 25 000 navíc. Pořád je to podle nás zbytečných 25 000 Kč, které si prostě řada domácností v České republice nemůže dovolit. A je třeba si říct, že ten strop, to přece není žádný strop, to je o tom, že pokud cena.\\n\\n00:16:53\\n\\nProvide a structured, citation-backed verification of the claim: 'Vláda schválila v rámci toho balíčku Fit for 55 v původním znění emisní povolenky ETS 2 pro domácnosti, ale taky pro malé a střední firmy.'\"\n  }\n]\n\nModel: gpt-5-mini-2025-08-07\nWall time: 294.98 seconds\n## Agent work log\n```\nREASONING: **Searching for government approval**\n\nI need to confirm the Czech government's position on the Fit for 55 initial package, which seems to include the ETS2 covering buildings, road transport, and small combustion installations. To gather accurate information, I’ll perform a search using the web tool. This should help me find the latest updates and any official statements regarding their approval of the package. Let’s see what I can uncover!\nWEB SEARCH: ETS2 Fit for 55 původní návrh emisní povolenky domácnosti malé a střední podniky 'ETS2' 'Fit for 55' domácnosti malé a střední podniky původní návrh\nREASONING: **Researching Czech government approval**\n\nI need to find evidence regarding whether the Czech government approved the original package for ETS2 emission allowances for households and SMEs. First, I'll look for the official EU Fit for 55 proposal text, which includes sectors like buildings and road transport. I also need to check if SMEs are covered under this. Additionally, the social climate fund targets vulnerable households and small businesses. It sounds like there may be a negotiation position from the Czech government that I should verify.; **Searching for Czech government approval**\n\nI need to look for a Czech government press release that discusses their approval of the initial Fit for 55 proposal or their position on ETS2. This should give me a clearer understanding of their stance on emission allowances for households and SMEs. It’ll be important to find reliable information directly from the government to ensure accuracy. Let's see what I can uncover from their official communications regarding this topic!\nWEB SEARCH: Česká vláda schválila stanovisko k balíčku Fit for 55 'ETS2' 'domácnosti' 'malé a střední podniky' stanovisko vlády 2021 2022 2023 'ministr životního prostředí' 'vláda schválila' 'Fit for 55' 'ETS2' ČR stanovisko\nREASONING: **Searching for EU sources**\n\nI’m getting a bit of noise from the search results, so I need to focus on primary sources from the EU. Specifically, I want to find the Commission proposal text for the Fit for 55 package and the specific ETS2 proposal. I need the exact regulations related to emissions trading for buildings and road transport, not just directives. So, I’ll search through the EU Commission documents to get this information clearly.\nWEB SEARCH: European Commission proposal 'ETS2' 'buildings and road transport' legislative proposal '2021' 'Fit for 55' 'EU ETS 2' proposal text 'scope' 'small and medium enterprises' 'households' 'buildings' 'transport' 'small installations' 'SMEs' 'micro enterprises' \nREASONING: **Verifying EU proposals**\n\nIt seems the EU sources indicate that the Commission proposed including buildings and road transport in ETS2, along with the Social Climate Fund for vulnerable households and small to medium enterprises. There’s a claim about the Czech government approving the original wording of this in the Fit for 55 package. I'm curious if it's specifically the Czech government we're talking about or if it refers to an EU-level approval. I need to verify what's actually been approved by the Czech government.; **Researching Fit for 55 approval**\n\nI need to search for Czech government press releases about the approval of the Fit for 55 package, especially regarding whether they support the inclusion of ETS2 for households and SMEs. The claim is a bit ambiguous. I should explore two main points: First, did the original proposal indeed include these elements, and second, did the Czech government explicitly approve the original wording? I’ll check the Commission's proposal texts for evidence and also look into past decisions or votes by the Czech government.; **Investigating Czech government's position**\n\nI should look into the Czech government's stance on ETS2 during EU Council votes and see if there’s any record of their approved negotiating position. Understanding how they’ve voted or negotiated can give me insight into their overall support and strategy regarding this topic. It seems important to gather official statements or documents that detail their involvement and position in past discussions. Let’s see what I can find!\nWEB SEARCH: Česká republika stanovisko ke 'ETS2' 'Fit for 55' stanovisko vlády ČR 'ETS2' 'domácnosti' 'malé a střední podniky' 'ministerstvo průmyslu' 'ministr životního prostředí' 'stanovisko vlády' 'rada EU' 'position' 'Czech Republic' 'ETS2' 'Council' \nREASONING: \nWEB SEARCH: \"vláda schválila\" \"Fit for 55\" povolenky ETS2 domácnosti malé a střední firmy\nREASONING: **Searching for European Council decisions**\n\nI need to cite the Commission texts about the new system targeting buildings and road transport, with the Social Climate Fund supporting vulnerable households and small businesses. I should look for the Czech government's approval of the Fit for 55 package, likely from 2021 or 2023. The Czech Republic held the Council presidency in the first half of 2022, while Hungary has it in 2024. I’ll also check votes regarding the emissions trading agreement during that period.; **Verifying Czech government's actions**\n\nI need to confirm if the Czech government approved the original wording regarding the Fit for 55 package when updating their national Energy and Climate Plan (NECP). This package should include details about ETS2 affecting households and SMEs. I’ll break it into two parts: First, I'll gather support from the EU Commission’s proposals and documents. Second, I’ll look for evidence that the Czech government approved the updated NECP on October 18, 2023, which reflected Fit for 55 while removing ETS2 concerns.; **Investigating Czech government's stance on ETS2**\n\nIt seems there's conflicting information about the Czech government's position on ETS2. Some sources suggest they've dropped the ETS2 language, while others indicate plans to modify or postpone it at the EU level. A press release from vlada.gov.cz states that the updated NECP reflects Fit for 55 and may include attempts to amend ETS2. However, Aktuálně.cz points out that part of the ETS2 system was omitted. I need to determine if the government ever explicitly approved the original Fit for 55, including ETS2, by searching for relevant resolutions.\nWEB SEARCH: vláda ČR schválila stanovisko k balíčku Fit for 55 'stanovisko vlády' 'Fit for 55' 'Council position' 'členský stát stanovisko' 'Česká republika' 'ETS2' 'pro' 'prohlášení' \nREASONING: **Gathering evidence for proposals**\n\nThe search results are a bit messy, but I see clear evidence for part A regarding the Commission proposal. It includes buildings and road transport, while the Social Climate Fund refers to households, micro, and SMEs. I should provide specific citations, like COM(2021) 551 and relevant recitals or paragraphs. I’ve noted the EUR-Lex entries quoting the inclusion of building and road transport and the details in the Commission's proposal for the Social Climate Fund regulation. I’ll search specifically for \"Social Climate Fund\" proposal next.\nWEB SEARCH: Proposal for a regulation establishing a Social Climate Fund 'Social Climate Fund' 'COM' 'Fit for 55' 'proposal' 'households micro enterprises small and medium' 'EUR-Lex' \nREASONING: \nWEB SEARCH: Council 'general approach' 'EU ETS' 'buildings and road transport' 'ETS2' Council conclusions 'general approach' 'EU ETS' 2023 2024\nREASONING: **Examining Council agreements**\n\nThe Orlen report indicates that the Council has reached preliminary agreements, including buildings and road transport in ETS2 starting in 2027, along with a social fund. It seems the original Fit for 55 proposal indeed included household and small enterprise coverage in ETS2. I need to check whether the Czech government approved the initial Commission proposal, as they might have agreed to the Council’s approach. I’ll look into how the approval process works between the Commission, Parliament, and Council.; **Analyzing the Fit for 55 proposal**\n\nThe original Fit for 55 proposal included ETS2, which covers buildings and road transport, impacting households and small and medium enterprises (SMEs). I need to find citations like COM(2021)551 and related documents specifically mentioning vulnerable households and SMEs, complete with quotes and links. \n\nNext, I should verify whether the Czech government approved the ETS2 adoption. I'll look for their press release from October 18, 2023, regarding the NECP and any statements opposing ETS2 from government officials.\nWEB SEARCH: Česká republika 'ETS2' 'odmítá' 'vláda' 'statement' 'ministr životního prostředí' 'ETS2' '2023' '2024' '2025' 'ČR vůči ETS2' 'postoj' \nREASONING: \nWEB SEARCH: ČR postoj k ETS2 'Česká republika' 'ETS2' postoj 'domácnosti' 'malé podniky' 'social climate fund' 'stanovisko' 'vláda' '2023' '2024' '2025' Czech news\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: Česko a dalších 17 států EU žádají o změnu obchodování s povolenkami ETS2 ČTK 2. července 2025 'Česko zaslalo Evropské komisi požadavky' 'ETS2' 'ČTK' \nREASONING: **Clarifying government positions**\n\nI’m noticing that the Czech government didn’t support the original plan for ETS2 and pushed for changes instead. Vondráček's claim about the government approving the original details doesn’t hold up—while the original Fit for 55 did include ETS2 for households and small businesses, the Czech government actually sought adjustments. I need to present a balanced view, using primary EU sources to confirm the inclusion while highlighting the government's opposition and actions, including recent press releases and articles.; **Preparing a structured report**\n\nI need to provide precise citations and quotes from EU documents related to households and SMEs, along with references to the Czech government’s press releases showing their opposition. I should also ensure to include URL links and format everything in Czech. The excerpts from non-lyrical sources should be under 25 words since that's the limit from the Decision boundary. While I can paraphrase and provide links, I need to maintain clarity in my conclusion, stating that while the EU proposal included ETS2 for households and SMEs, it’s misleading to say the Czech government approved it; they sought changes instead.; **Crafting the final message in Czech**\n\nI need to prepare the final message in Czech, structured with bullet points, sub-claims, and evidence, including URLs and exact citations for the most relevant sections. I’ll use markdown since the developer requested that format. I’ll cite key EU documents, such as COM(2021)551, COM(2021)568, COM(2021)550, and the EUR-Lex impact assessment, along with sources from the Czech government, like vlada.gov.cz and various news outlets. I must include links, exact citations, and ensure all relevant sources are presented clearly. Alright, let’s craft that message!\nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p><strong>Stručně (max. 280 znaků):</strong> Původní návrh balíčku Fit for 55 skutečně navrhoval rozšíření ETS o sektor budov a silniční dopravu (tzv. ETS2) a obsahoval opatření pro „vulnerable households“ a mikro/malé a střední podniky. Tvrdění, že česká vláda toto „původní znění schválila“, však neodpovídá dostupným oficiálním zdrojům; vláda naopak usilovala o změny/odklad. (zavádějící)</p>\n\n<p>Kontext: Balíček Fit for 55 předložila Evropská komise jako soubor právních návrhů ke snížení emisí. V rámci něho Komise navrhla rozšíření systému obchodování s emisními povolenkami o sektor budov a silniční dopravy (označované jako ETS2) a současně předložila návrh Sociálního klimatického fondu určeného na zmírnění dopadů na zranitelné domácnosti a malé podniky. Tyto skutečnosti jsou uvedeny v návrzích Komise dostupných na EUR‑Lex.</p>\n\n<p><strong>Hodnocení tvrzení 1:</strong> „V původním znění balíčku Fit for 55 návrh EU/Komise obsahoval ETS2 vztahující se na domácnosti (budovy) a dopravu a řešil dopady na zranitelné domácnosti a mikro/malé a střední podniky.“ Tvrzení je podloženo. V návrhu Komise k revizi směrnice o obchodování s emisemi je explicitně uvedeno, že Komise „<em>„is proposing to include the building sector and road transport into emissions trading“</em>“ (viz návrh Komise COM(2021)551). Opatření týkající se podpory zranitelných domácností a mikro/malých a středních podniků jsou obsažena v návrhu Sociálního klimatického fondu (COM(2021)568), kde jsou mj. definovány skupiny jako „vulnerable households“ a „vulnerable micro‑enterprises“. Obojí lze ověřit v dokumentech Komise na EUR‑Lex: návrh ETS/COM(2021)551 a návrh Social Climate Fund/COM(2021)568.</p>\n\n<p><a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0551\">Návrh Komise COM(2021)551</a> obsahuje pasáž o zařazení budov a silniční dopravy do obchodování s emisemi. <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0568\">Návrh Sociálního klimatického fondu COM(2021)568</a> pak explicitně zmiňuje cílení podpory na „vulnerable households“ a mikro‑/malé podniky.</p>\n\n<p><strong>Hodnocení tvrzení 2:</strong> „Vláda schválila v rámci toho balíčku Fit for 55 v původním znění emisní povolenky ETS2 pro domácnosti, ale taky pro malé a střední firmy.“ Pokud tvrzení interpretuje slovo „vláda“ jako českou vládu (tj. že Česká republika oficiálně podpořila původní, nezměněné znění ETS2), dostupné oficiální zdroje tuto interpretaci nepotvrzují a naopak ukazují opak. Vláda ČR v dokumentech a komunikaci deklarovala záměr usilovat o změny či odklad u některých opatření Fit for 55; v rámci aktualizace NECP z října 2023 komunikovala, že bude řešit dopady a snažit se o změny. Navíc v létě 2025 Česká republika spolu s dalšími státy zaslala Evropské komisi „non‑paper“ požadující úpravy obchodování povolenkami ETS2, což dokládá, že vláda původní znění neschválila beze změn, ale aktivně usilovala o jeho změnu či odklad.</p>\n\n<p>Oficiální vládní komunikaci o NECP lze najít ve vládní tiskové zprávě z 18. 10. 2023: <a href=\"https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/\">vláda schválila aktualizaci NECP</a>, kde je zmíněna i snaha řešit dopady Fit for 55. Zprávy médií z července 2025 popisují, že Česko spolu s dalšími 17 státy zaslalo EK non‑paper s požadavky na změnu ETS2 (<a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554\">ČT24</a>), což potvrzuje, že vláda původní komisi‑navržené znění nepodpořila beze změn.</p>\n\n<p>Shrnujeme naše zjištění: část výroku, která popisuje obsah „původního znění“ návrhu Komise (rozšíření ETS na budovy a silniční dopravu a existence Social Climate Fund zaměřeného mimo jiné na zranitelné domácnosti a mikro/malé podniky), je pravdivá a doložitelná v dokumentech Komise. Ale tvrzení, že „vláda schválila“ toto původní znění (tj. že česká vláda schválila či podpořila ETS2 v původní podobě), není podloženo; dostupné oficiální dokumenty a vládní kroky ukazují, že vláda spíše usilovala o změny nebo odklad. Proto hodnotíme původní výrok jako zavádějící.</p>\n\n<p>Závěr: zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_06326a53a9ede2d30068ff96119e30819d87715d8cede58d38",
+    "created_at": 1761580561.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5-mini-2025-08-07",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_06326a53a9ede2d30068ff961c3ab8819dbd7fcdd3ccf3a979",
+        "summary": [
+          {
+            "text": "**Searching for government approval**\n\nI need to confirm the Czech government's position on the Fit for 55 initial package, which seems to include the ETS2 covering buildings, road transport, and small combustion installations. To gather accurate information, I’ll perform a search using the web tool. This should help me find the latest updates and any official statements regarding their approval of the package. Let’s see what I can uncover!",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff962328d4819d8b7c3c3f6e297e1f",
+        "action": {
+          "query": "ETS2 Fit for 55 původní návrh emisní povolenky domácnosti malé a střední podniky 'ETS2' 'Fit for 55' domácnosti malé a střední podniky původní návrh",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff96341824819dba67ee8095a36b12",
+        "summary": [
+          {
+            "text": "**Researching Czech government approval**\n\nI need to find evidence regarding whether the Czech government approved the original package for ETS2 emission allowances for households and SMEs. First, I'll look for the official EU Fit for 55 proposal text, which includes sectors like buildings and road transport. I also need to check if SMEs are covered under this. Additionally, the social climate fund targets vulnerable households and small businesses. It sounds like there may be a negotiation position from the Czech government that I should verify.",
+            "type": "summary_text"
+          },
+          {
+            "text": "**Searching for Czech government approval**\n\nI need to look for a Czech government press release that discusses their approval of the initial Fit for 55 proposal or their position on ETS2. This should give me a clearer understanding of their stance on emission allowances for households and SMEs. It’ll be important to find reliable information directly from the government to ensure accuracy. Let's see what I can uncover from their official communications regarding this topic!",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff963b14e0819dabf204b60391b9a6",
+        "action": {
+          "query": "Česká vláda schválila stanovisko k balíčku Fit for 55 'ETS2' 'domácnosti' 'malé a střední podniky' stanovisko vlády 2021 2022 2023 'ministr životního prostředí' 'vláda schválila' 'Fit for 55' 'ETS2' ČR stanovisko",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff964607b4819dbfab6a6de3727f57",
+        "summary": [
+          {
+            "text": "**Searching for EU sources**\n\nI’m getting a bit of noise from the search results, so I need to focus on primary sources from the EU. Specifically, I want to find the Commission proposal text for the Fit for 55 package and the specific ETS2 proposal. I need the exact regulations related to emissions trading for buildings and road transport, not just directives. So, I’ll search through the EU Commission documents to get this information clearly.",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff964ab460819da19f31dda91f2769",
+        "action": {
+          "query": "European Commission proposal 'ETS2' 'buildings and road transport' legislative proposal '2021' 'Fit for 55' 'EU ETS 2' proposal text 'scope' 'small and medium enterprises' 'households' 'buildings' 'transport' 'small installations' 'SMEs' 'micro enterprises' ",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff96645b3c819d86cc598755da14a8",
+        "summary": [
+          {
+            "text": "**Verifying EU proposals**\n\nIt seems the EU sources indicate that the Commission proposed including buildings and road transport in ETS2, along with the Social Climate Fund for vulnerable households and small to medium enterprises. There’s a claim about the Czech government approving the original wording of this in the Fit for 55 package. I'm curious if it's specifically the Czech government we're talking about or if it refers to an EU-level approval. I need to verify what's actually been approved by the Czech government.",
+            "type": "summary_text"
+          },
+          {
+            "text": "**Researching Fit for 55 approval**\n\nI need to search for Czech government press releases about the approval of the Fit for 55 package, especially regarding whether they support the inclusion of ETS2 for households and SMEs. The claim is a bit ambiguous. I should explore two main points: First, did the original proposal indeed include these elements, and second, did the Czech government explicitly approve the original wording? I’ll check the Commission's proposal texts for evidence and also look into past decisions or votes by the Czech government.",
+            "type": "summary_text"
+          },
+          {
+            "text": "**Investigating Czech government's position**\n\nI should look into the Czech government's stance on ETS2 during EU Council votes and see if there’s any record of their approved negotiating position. Understanding how they’ve voted or negotiated can give me insight into their overall support and strategy regarding this topic. It seems important to gather official statements or documents that detail their involvement and position in past discussions. Let’s see what I can find!",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff966ee51c819da2d967a43b2d20ce",
+        "action": {
+          "query": "Česká republika stanovisko ke 'ETS2' 'Fit for 55' stanovisko vlády ČR 'ETS2' 'domácnosti' 'malé a střední podniky' 'ministerstvo průmyslu' 'ministr životního prostředí' 'stanovisko vlády' 'rada EU' 'position' 'Czech Republic' 'ETS2' 'Council' ",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff967030b0819d80eb7218a3736b72",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff9670b7e4819d8cdcedde86f8d790",
+        "action": {
+          "query": "\"vláda schválila\" \"Fit for 55\" povolenky ETS2 domácnosti malé a střední firmy",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff967c61ac819d85cd1530637a2773",
+        "summary": [
+          {
+            "text": "**Searching for European Council decisions**\n\nI need to cite the Commission texts about the new system targeting buildings and road transport, with the Social Climate Fund supporting vulnerable households and small businesses. I should look for the Czech government's approval of the Fit for 55 package, likely from 2021 or 2023. The Czech Republic held the Council presidency in the first half of 2022, while Hungary has it in 2024. I’ll also check votes regarding the emissions trading agreement during that period.",
+            "type": "summary_text"
+          },
+          {
+            "text": "**Verifying Czech government's actions**\n\nI need to confirm if the Czech government approved the original wording regarding the Fit for 55 package when updating their national Energy and Climate Plan (NECP). This package should include details about ETS2 affecting households and SMEs. I’ll break it into two parts: First, I'll gather support from the EU Commission’s proposals and documents. Second, I’ll look for evidence that the Czech government approved the updated NECP on October 18, 2023, which reflected Fit for 55 while removing ETS2 concerns.",
+            "type": "summary_text"
+          },
+          {
+            "text": "**Investigating Czech government's stance on ETS2**\n\nIt seems there's conflicting information about the Czech government's position on ETS2. Some sources suggest they've dropped the ETS2 language, while others indicate plans to modify or postpone it at the EU level. A press release from vlada.gov.cz states that the updated NECP reflects Fit for 55 and may include attempts to amend ETS2. However, Aktuálně.cz points out that part of the ETS2 system was omitted. I need to determine if the government ever explicitly approved the original Fit for 55, including ETS2, by searching for relevant resolutions.",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff968bd8ac819daf6e101feb2e7371",
+        "action": {
+          "query": "vláda ČR schválila stanovisko k balíčku Fit for 55 'stanovisko vlády' 'Fit for 55' 'Council position' 'členský stát stanovisko' 'Česká republika' 'ETS2' 'pro' 'prohlášení' ",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff96971a28819dbd7da3af87c557c0",
+        "summary": [
+          {
+            "text": "**Gathering evidence for proposals**\n\nThe search results are a bit messy, but I see clear evidence for part A regarding the Commission proposal. It includes buildings and road transport, while the Social Climate Fund refers to households, micro, and SMEs. I should provide specific citations, like COM(2021) 551 and relevant recitals or paragraphs. I’ve noted the EUR-Lex entries quoting the inclusion of building and road transport and the details in the Commission's proposal for the Social Climate Fund regulation. I’ll search specifically for \"Social Climate Fund\" proposal next.",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff9699bc58819d8f4b7aa0f24306c0",
+        "action": {
+          "query": "Proposal for a regulation establishing a Social Climate Fund 'Social Climate Fund' 'COM' 'Fit for 55' 'proposal' 'households micro enterprises small and medium' 'EUR-Lex' ",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff96a11544819d86e41cf2c259a252",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff96a3bc44819d825e2299854a2d47",
+        "action": {
+          "query": "Council 'general approach' 'EU ETS' 'buildings and road transport' 'ETS2' Council conclusions 'general approach' 'EU ETS' 2023 2024",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff96e12854819d8819c75d1f2c1488",
+        "summary": [
+          {
+            "text": "**Examining Council agreements**\n\nThe Orlen report indicates that the Council has reached preliminary agreements, including buildings and road transport in ETS2 starting in 2027, along with a social fund. It seems the original Fit for 55 proposal indeed included household and small enterprise coverage in ETS2. I need to check whether the Czech government approved the initial Commission proposal, as they might have agreed to the Council’s approach. I’ll look into how the approval process works between the Commission, Parliament, and Council.",
+            "type": "summary_text"
+          },
+          {
+            "text": "**Analyzing the Fit for 55 proposal**\n\nThe original Fit for 55 proposal included ETS2, which covers buildings and road transport, impacting households and small and medium enterprises (SMEs). I need to find citations like COM(2021)551 and related documents specifically mentioning vulnerable households and SMEs, complete with quotes and links. \n\nNext, I should verify whether the Czech government approved the ETS2 adoption. I'll look for their press release from October 18, 2023, regarding the NECP and any statements opposing ETS2 from government officials.",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff96ea4cf4819db4d2067975d33214",
+        "action": {
+          "query": "Česká republika 'ETS2' 'odmítá' 'vláda' 'statement' 'ministr životního prostředí' 'ETS2' '2023' '2024' '2025' 'ČR vůči ETS2' 'postoj' ",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff96eb3874819db8d1ce8bbbeacf91",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff96eb9d20819da0bb9ae7ebf3e7e7",
+        "action": {
+          "query": "ČR postoj k ETS2 'Česká republika' 'ETS2' postoj 'domácnosti' 'malé podniky' 'social climate fund' 'stanovisko' 'vláda' '2023' '2024' '2025' Czech news",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff96f4b620819d869e90eed556b539",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff96f64b4c819dbdc080c99c43d34d",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff96f86c78819d864961c6b980f67d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06326a53a9ede2d30068ff96f94984819d801935fdedf5aef0",
+        "action": {
+          "query": "Česko a dalších 17 států EU žádají o změnu obchodování s povolenkami ETS2 ČTK 2. července 2025 'Česko zaslalo Evropské komisi požadavky' 'ETS2' 'ČTK' ",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06326a53a9ede2d30068ff9705c42c819db3a2fc441e74512c",
+        "summary": [
+          {
+            "text": "**Clarifying government positions**\n\nI’m noticing that the Czech government didn’t support the original plan for ETS2 and pushed for changes instead. Vondráček's claim about the government approving the original details doesn’t hold up—while the original Fit for 55 did include ETS2 for households and small businesses, the Czech government actually sought adjustments. I need to present a balanced view, using primary EU sources to confirm the inclusion while highlighting the government's opposition and actions, including recent press releases and articles.",
+            "type": "summary_text"
+          },
+          {
+            "text": "**Preparing a structured report**\n\nI need to provide precise citations and quotes from EU documents related to households and SMEs, along with references to the Czech government’s press releases showing their opposition. I should also ensure to include URL links and format everything in Czech. The excerpts from non-lyrical sources should be under 25 words since that's the limit from the Decision boundary. While I can paraphrase and provide links, I need to maintain clarity in my conclusion, stating that while the EU proposal included ETS2 for households and SMEs, it’s misleading to say the Czech government approved it; they sought changes instead.",
+            "type": "summary_text"
+          },
+          {
+            "text": "**Crafting the final message in Czech**\n\nI need to prepare the final message in Czech, structured with bullet points, sub-claims, and evidence, including URLs and exact citations for the most relevant sections. I’ll use markdown since the developer requested that format. I’ll cite key EU documents, such as COM(2021)551, COM(2021)568, COM(2021)550, and the EUR-Lex impact assessment, along with sources from the Czech government, like vlada.gov.cz and various news outlets. I must include links, exact citations, and ensure all relevant sources are presented clearly. Alright, let’s craft that message!",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_06326a53a9ede2d30068ff9714ffa4819d83fd61425b2a9d9c",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 2074,
+                "start_index": 1962,
+                "title": "EUR-Lex - 52021PC0551 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai"
+              },
+              {
+                "end_index": 2714,
+                "start_index": 2602,
+                "title": "EUR-Lex - 52021PC0568 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0568&utm_source=openai"
+              },
+              {
+                "end_index": 3120,
+                "start_index": 3008,
+                "title": "EUR-Lex - 52021DC0550 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/legal-content/CS/ALL/?uri=CELEX%3A52021DC0550&utm_source=openai"
+              },
+              {
+                "end_index": 3583,
+                "start_index": 3471,
+                "title": "EUR-Lex - 52021PC0551 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai"
+              },
+              {
+                "end_index": 4833,
+                "start_index": 4634,
+                "title": "Vláda schválila nový energetický a klimatický plán, pokračovat bude také reforma sociálních služeb | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 5592,
+                "start_index": 5418,
+                "title": "Česko spolu se sedmnácti státy EU žádá o změnu obchodování s povolenkami ETS 2 — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai"
+              },
+              {
+                "end_index": 6118,
+                "start_index": 5947,
+                "title": "Obnovitelné zdroje z 18 na 30 procent. Vláda schválila klimaticko-energetický plán - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/domaci/vlada-schvalila-klimaticko-energeticky-plan-vymezuje-rozvoj/r~c80f6822bd6c11efb589ac1f6b220ee8/?utm_source=openai"
+              },
+              {
+                "end_index": 6633,
+                "start_index": 6459,
+                "title": "Česko spolu se sedmnácti státy EU žádá o změnu obchodování s povolenkami ETS 2 — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai"
+              },
+              {
+                "end_index": 7040,
+                "start_index": 6928,
+                "title": "EUR-Lex - 52021PC0551 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai"
+              },
+              {
+                "end_index": 7660,
+                "start_index": 7461,
+                "title": "Vláda schválila nový energetický a klimatický plán, pokračovat bude také reforma sociálních služeb | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 8197,
+                "start_index": 8085,
+                "title": "EUR-Lex - 52021PC0551 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai"
+              },
+              {
+                "end_index": 8863,
+                "start_index": 8751,
+                "title": "EUR-Lex - 52021PC0568 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0568&utm_source=openai"
+              },
+              {
+                "end_index": 9260,
+                "start_index": 9148,
+                "title": "EUR-Lex - 52023SC0088 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023SC0088&utm_source=openai"
+              },
+              {
+                "end_index": 9851,
+                "start_index": 9652,
+                "title": "Vláda schválila nový energetický a klimatický plán, pokračovat bude také reforma sociálních služeb | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 10491,
+                "start_index": 10317,
+                "title": "Česko spolu se sedmnácti státy EU žádá o změnu obchodování s povolenkami ETS 2 — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai"
+              },
+              {
+                "end_index": 10935,
+                "start_index": 10771,
+                "title": "Vondráček: Povolenky jsou škodlivý nástroj. Pokud ETS 2 odmítneme, Unie bude postupovat jako u kvót | Radiožurnál",
+                "type": "url_citation",
+                "url": "https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024?utm_source=openai"
+              },
+              {
+                "end_index": 11349,
+                "start_index": 11213,
+                "title": "Regulatory environment - Orlen Raport",
+                "type": "url_citation",
+                "url": "https://raportzintegrowany2022.orlen.pl/en/our-environment/regulatory-environment?utm_source=openai"
+              },
+              {
+                "end_index": 11897,
+                "start_index": 11785,
+                "title": "EUR-Lex - 52021PC0551 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai"
+              },
+              {
+                "end_index": 12469,
+                "start_index": 12295,
+                "title": "Česko spolu se sedmnácti státy EU žádá o změnu obchodování s povolenkami ETS 2 — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai"
+              }
+            ],
+            "text": "Zpráva k ověření výroku (atomizovaná):  \n„Vláda schválila v rámci toho balíčku Fit for 55 v původním znění emisní povolenky ETS2 pro domácnosti, ale taky pro malé a střední firmy.“\n\nShrnutí závěru (stručně)\n- Část výroku o „původním znění balíčku Fit for 55“ — že Fit for 55 / návrh EK skutečně navrhoval rozšíření systému o ETS2, které se týká vytápění (domácností) a silniční dopravy a které v návrzích počítalo se sociální podporou pro zranitelné domácnosti a mikro/malé a střední podniky — má oporu v primárních dokumentech Evropské komise. (PRAVDA / PODLOŽENO)\n- Tvrzení, že „vláda schválila“ toto původní znění (interpretace: česká vláda údajně schválila nebo podpořila zavedení ETS2 v původním znění) není podpořeno dostupnými oficiálními zdroji; naopak česká vláda se v dokumentech a tiskových prohlášeních prezentuje jako snaha systém změnit/odložit a v létě 2025 iniciovala společný „non‑paper“ s dalšími státy žádající úpravy ETS2. Výrok o tom, že vláda původní znění „schválila“, je tedy zavádějící / NEPRAVDIVÝ v tomto smyslu. (NEPODLOŽENO / ZAVÁDĚJÍCÍ)\n\nRozklad výroku na sub‑tvrzení a důkazy\n1) Sub‑tvrzení A: „V původním znění balíčku Fit for 55 návrh EU/Komise obsahoval ETS2 (rozšíření ETS) vztahující se na domácnosti (budovy) a dopravu.“\n- Důkaz (primární zdroj — návrhy Komise / vysvětlení):\n  - Explanatory Memorandum k návrhu revize ETS (COM(2021)551): text výslovně uvádí, že Komise „navrhuje začlenění sektoru budov a silniční dopravy do obchodování s emisemi“ a popisuje, že se to má zavést „prostřednictvím samostatného, přilehlého obchodování s emisemi“ (viz části „As already considered … the Commission is proposing to include the building sector and road transport into emissions trading“). Zdroj: EUR‑Lex / COM(2021)551. Link + konkrétní pasáž.  \n    - URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0551 (viz sekce „Context of the proposal“ a odstavce uvádějící začlenění budov a silniční dopravy do ETS). ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai))\n  - Doprovodné materiály Komise / „Fit for 55“ (COM(2021)550, COM(2021)568 — Social Climate Fund) vysvětlují, že rozšíření povede k nárůstu nákladů pro domácnosti a proto je navržen Sociální klimatický fond (Social Climate Fund) cílený na zranitelné domácnosti a mikro‑, malé a střední podniky. (viz definice „vulnerable households“, „vulnerable micro‑enterprises“ apod.).  \n    - URL (Social Climate Fund proposal, definice znění): https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0568 (viz čl. 3 a definice). ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0568&utm_source=openai))\n  - Shrnutí z hodnocení dopadů / provázaných dokumentů Komise také explicitně uvádí, že ETS2 má dopad na domácnosti a transport users a že Sociální klimatický fond má podporovat „vulnerable households, micro‑enterprises and transport users“. (viz doprovodný materiál COM(2021)550 / SWD atd.). ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/CS/ALL/?uri=CELEX%3A52021DC0550&utm_source=openai))\n\nZ toho plyne: původní (komisní) návrh v rámci Fit for 55 skutečně obsahoval rozšíření obchodování s emisními povolenkami na sektory budov (domácnosti/ vytápění) a silniční dopravy a souvisle s tím návrh Sociálního klimatického fondu, který explicitně zmiňuje zranitelné domácnosti a mikro / malé a střední podniky. (podložené primárními zdroji EU). ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai))\n\n2) Sub‑tvrzení B: „Vláda (Česká republika) schválila v rámci Fit for 55 v původním znění ETS2 pro domácnosti i pro malé a střední firmy.“\n- Co lze prověřit (možné interpretace tvrzení):\n  a) Autor myslel, že „Komise schválila/předložila v původním znění“ — v tom případě je tvrzení přesné (viz bod 1).  \n  b) Autor myslel, že „česká vláda (vláda ČR) schválila/podpořila toto původní znění (tj. že ČR souhlasila s rozsahem ETS2 v původní podobě)“ — to lze fakticky ověřit proti prohlášením vlády / MŽP / CTK apod.\n\n- Důkazy proti interpretaci (b) — oficiální české/mediální zdroje:\n  - Tisková zpráva vlády / materiál vlády (vlada.gov.cz) — aktualizovaný Národní energeticko‑klimatický plán (NECP) schválený vládou 18. 10. 2023 uvádí, že ČR naplní závazky Fit for 55, nicméně dokument a následná komunikace vládních představitelů deklarovala, že vláda nebude jednostranně zavádět náklady na domácnosti a bude na evropské úrovni usilovat o změny/odklad u některých opatření; zpráva explicitně reaguje na dopady Fit for 55. (vlada.gov.cz, 18.10.2023). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/?utm_source=openai))\n  - ČTK / ČT24 a další zpravodajské služby (červenec 2025): Česko spolu s dalšími 17 státy zaslalo EK „non‑paper“ s požadavky na úpravy ETS2 a snaží se mechanismus změnit/odložit — tj. vláda aktivně nesouhlasila s původním zněním a usilovala o změnu. (CTK, iDNES, ČT24 2.–3.7.2025). Konkrétně: „Česko zaslalo Evropské komisi požadavky na změnu obchodování s emisními povolenkami … dokument podepsalo dalších 17 států … Pro český návrh na zrušení či odsunutí systému ETS2 se nepodařilo v EU dojednat dostatečnou podporu. Česká republika proto vypracovala non‑paper…“ (CTK/iDNES/ČT24). ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai))\n  - Mediální shrnutí (Aktuálně.cz) z října 2023 uvádí, že do NECP „vypadla tak například část o kontroverzním systému s emisními povolenkami ETS2, který měl rozšiřovat povolenky i na paliva či vytápění budov. Vláda se bude snažit systém na evropské úrovni odložit a změnit.“ To ukazuje postoj vlády skeptický vůči zavedení ETS2 v původní nesnahé podobě. ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/vlada-schvalila-klimaticko-energeticky-plan-vymezuje-rozvoj/r~c80f6822bd6c11efb589ac1f6b220ee8/?utm_source=openai))\n\n- Dále: v české veřejné debatě během roku 2025 (ČTK/ministrstvo) vláda opakovaně zdůrazňovala, že bude usilovat o změny/posun ETS2 a podpořila společný dokument s dalšími státy s žádostí o změny mechanismů (stabilizace trhu, aukce apod.). To je důkazem opoziční/negativní pozice vlády vůči „původnímu znění“ ETS2, nikoli jeho „schválení“. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai))\n\nCelkové hodnocení pravdivosti výroku\n- Pokud se výrok chápe tak, že „v původním znění Fit for 55 Komise navrhovala ETS2, které by zasáhlo domácnosti i MSME (malé a střední podniky)“ — tvrzení je pravdivé a má primární dokumentární oporu (komisní návrhy a návrh Sociálního klimatického fondu). ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai))\n- Pokud se výrok chápe tak, že „česká vláda (vláda ČR) schválila (podpořila) v původním znění zavedení ETS2 vůči domácnostem a malým a středním firmám“ — tvrzení není podloženo; veřejné oficiální informace ukazují spíše opak: vláda usilovala o změnu/odklad či zrušení takového postupu a v létě 2025 iniciovala společný non‑paper s dalšími státy, žádající úpravy. Proto tato interpretace výroku je zavádějící/nepravdivá. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/?utm_source=openai))\n\nSeznam použitých (relevantních) zdrojů (včetně přesných částí, kde je informace k nalezení)\n- European Commission, Proposal for a DIRECTIVE amending Directive 2003/87/EC (COM(2021)551) — Explanatory memorandum / context: text uvádějící, že Komise „is proposing to include the building sector and road transport into emissions trading“. (EUR‑Lex). URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0551. ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai))\n  - Konkrétní pasáž: „As already considered in the European Green Deal Communication, the Commission is proposing to include the building sector and road transport into emissions trading.“ (viz část „Context of the proposal“).\n- European Commission, Proposal for a Regulation establishing a Social Climate Fund (COM(2021)568) — definice skupin a povinností: obsahuje definice „vulnerable households“, „vulnerable micro‑enterprises“ a požadavek na národní Social Climate Plans. URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0568. ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0568&utm_source=openai))\n  - Konkrétní pasáže: definice „micro‑enterprise“ a články o Social Climate Plans (Article 3 atd.) (viz COM(2021)568).\n- EUR‑Lex / doprovodné materiály (Impact Assessment, SWD): rozbory dopadů rozšíření ETS. URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023SC0088. ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023SC0088&utm_source=openai))\n- Vlada.cz — tisková zpráva vlády ČR: „Vláda schválila nový energetický a klimatický plán…“ (18. 10. 2023). (ukazuje, že ČR aktualizovala NECP a ve vládní komunikaci se objevila snaha upravit některé dopady Fit for 55). URL: https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/ . ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-novy-energeticky-a-klimaticky-plan--pokracovat-bude-take-reforma-socialnich-sluzeb-209199/tmplid-47/?utm_source=openai))\n- ČTK / ČT24 / iDNES (2.–3.7.2025): zprávy „Česko a dalších 17 států žádají o změnu obchodování s povolenkami ETS2“ — informují, že ČR zaslala EK non‑paper požadující úpravy a že vláda neschvaluje původní znění bez změn. (příklady: CT24: https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zadaji-o-zmenu-obchodovani-s-povolenkami-ets-2-362554; iDNES: https://www.idnes.cz/ekonomika/domaci/ets2-eu-povolenky.A250702_172800_ekonomika_hyk). ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai))\n- Radiožurnál (zdroj výroku): „Vondráček: Povolenky jsou škodlivý nástroj…“ rozhovor vydaný 22.10.2025, kde je výrok citován. URL: https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024 . (zdroj citovaného výroku). ([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024?utm_source=openai))\n- Další přehledné shrnutí (Council / trilogues / dohody) o tom, jak se návrhy rozvíjely (např. Orlen report, zprávy o předběžných dohodách, rozhodnutích Rady) — viz např. texty popisující, že Rada/Parlament dospěly k variantám obsahu (souhrn). (viz turn7search1/turn7search0). ([raportzintegrowany2022.orlen.pl](https://raportzintegrowany2022.orlen.pl/en/our-environment/regulatory-environment?utm_source=openai))\n\nKrátké závěrečné shrnutí pro rozhodnutí faktcheckera\n- Ano — v „původním znění“ balíčku Fit for 55 (tj. v návrhu Komise z roku 2021 a souvisejících návrzích) byla navržena samostatná ETS pro budovy a silniční dopravu („ETS2“) a součástí návrhu byla i reflexe dopadů na domácnosti a mikro/malé a střední podniky (Social Climate Fund cílený mj. na „vulnerable households“ a „vulnerable micro‑enterprises“). To je dokumentovatelný fakt. ([eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0551&utm_source=openai))\n- Ne — dostupné oficiální zdroje nekonfirmují, že by „vláda (ČR) schválila“ původní znění (tj. že česká vláda původní návrh Komise podpořila beze změn). Naopak: vláda v komunikaci a v praxi usilovala o změny/odklad a v létě 2025 iniciovala společný dokument (non‑paper) s dalšími státy požadujícími úpravy ETS2. Proto tvrzení ve formě „vláda schválila …“ je v kontextu české vlády neopodstatněné. ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/cesko-spolu-se-sedmnacti-staty-eu-zada-o-zmenu-obchodovani-s-povolenkami-ets-2-362554?utm_source=openai))\n\nPoznámka k pojmovému rozlišení (důležité pro interpretaci výroku)\n- „Schválila“ může být chápáno různě: (i) Komise nebo orgán EU „předložil/schválil návrh v původním znění“ (platí pro Komisi — viz bod 1); (ii) národní vláda „schválila/podporovala“ návrh (to v českém případě neplatí). Výrok hovoří o „vládě“, tedy o národní vládě — v tom smyslu je nepravdivý / zavádějící.\n\n(Hotovo — konec reportu.)",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "medium",
+      "generate_summary": null,
+      "summary": "detailed"
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 45147,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 7963,
+      "output_tokens_details": {
+        "reasoning_tokens": 4224
+      },
+      "total_tokens": 53110
+    },
+    "user": null,
+    "billing": {
+      "payer": "openai"
+    },
+    "store": true
+  }
+}

@@ -1,0 +1,637 @@
+{
+  "claim_id": "24616",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24616.md",
+  "fact_check": "# Fact Check for Statement ID 24616\n\n## Statement\nOsmá nejzdravější ekonomika v Evropské unii (Česká republika, pozn. Demagog.cz).\n\n---\n## AI Fact Check\n### 1. Přehled výroku a jeho smysl\n\nKontrolovaný výrok (Petr Fiala, pořad *K věci*, 18. 9. 2025):  \n\n> „…osmá nejzdravější ekonomika v Evropské unii (Česká republika)…“\n\nNejpřirozenější interpretace:\n\n1. Existuje mezinárodní žebříček, který hodnotí „zdraví“ ekonomik členských států EU.  \n2. V tomto žebříčku je Česká republika **8. nejzdravější ekonomikou v EU** (tedy 8. ze 27 států) v době výroku.\n\nVzhledem k používané terminologii („nejzdravější ekonomika“) a dobovému mediálnímu kontextu jde prakticky jistě o odkaz na **pilíř „Stav ekonomiky“ v projektu Index prosperity a finančního zdraví (Česká spořitelna + Evropa v datech)**. Níže proto ověřujeme, jaké pořadí tomuto pilíři skutečně vychází.\n\n---\n\n### 2. Co je „Index prosperity a finančního zdraví“ a jak měří „zdraví ekonomiky“\n\nIndex prosperity a finančního zdraví:\n\n- je projekt České spořitelny a datového portálu **Evropa v datech**, spuštěný v roce 2022;  \n- porovnává země **EU‑27** v deseti pilířích (stav ekonomiky, trh práce, životní prostředí, bydlení, atd.);  \n- u každého pilíře používá cca deset indikátorů z oficiálních databází (Eurostat, OECD, Světová banka, OSN, WHO aj.).([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n\nPilíř **„Stav ekonomiky“** (v médiích často shrnován jako žebříček „nejzdravějších ekonomik“):\n\n- pro rok 2022 Index uvádí: „Pozice Česka v Evropě 9.“ a shrnuje, že **„Česká ekonomika je devátá nejlepší v Evropě“**.([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n- metodika vysvětluje, že výsledky pilíře se počítají jako kombinace ~10 indikátorů (inflace, veřejný dluh, investice, ekonomická komplexita, podíl národního důchodu na HDP, hrubá přidaná hodnota, aj.), přepočtených na pořadí mezi **27 členskými státy EU**.([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n\nMédia tento pilíř od začátku interpretují právě jako srovnání „zdraví ekonomiky“:\n\n- Seznam Zprávy při představení indexu píší, že podle těchto metrik má Česko „**devátou nejzdravější ekonomiku** [v EU]“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-b2b-david-navratil-z-ceske-sporitelny-predstavil-novy-index-prosperity-ceska-187739))  \n- iDNES a další média mluví o tom, že „česká ekonomika je devátá nejzdravější v EU“ podle Indexu prosperity.([idnes.cz](https://www.idnes.cz/ekonomika/domaci/ekonomika-index-prosperita-roboti-limitu-rustu-srovnani.A220209_174054_ekonomika_map1?utm_source=openai))  \n\nZ hlediska ověřovaného výroku je tedy klíčové: **v jaké pozici se ČR v tomto pilíři nacházela v době výroku (září 2025)**.\n\n---\n\n### 3. Výsledky pilíře „Stav ekonomiky“ pro Česko (2022–2025)\n\n#### 3.1 Rok 2022 – 1. vydání indexu\n\nPrimární zdroj (Index prosperity, pilíř „Stav ekonomiky“, leden 2022):\n\n- stránka uvádí u mapy „Pozice Česka v Evropě 9.“ a v textu shrnuje:  \n  > „Česká ekonomika je **devátá nejlepší v Evropě**…“ ([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n\nMediální sekundární zdroje tento výsledek potvrzují:\n\n- **Peníze.cz**: „Česko je **devátou nejvyspělejší ekonomikou v Evropské unii**“ a přebírá tabulku „Index prosperity – stav ekonomiky“, kde je Česko 9. ze 27 zemí.([penize.cz](https://www.penize.cz/makroekonomika/432145-ceska-ekonomika-je-devata-nejlepsi-v-eu-ma-123-trestnych-bodu))  \n- **Seznam Zprávy (Ondřej Katz, 10. 2. 2022)**: otázka na Davida Navrátila mluví o tom, že podle jejich metrik má Česko „**devátou nejzdravější ekonomiku**“ v EU.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-b2b-david-navratil-z-ceske-sporitelny-predstavil-novy-index-prosperity-ceska-187739))  \n- **iDNES / Novinky / další média** opakovaně referují, že podle Indexu prosperity má Česko **„devátou nejzdravější ekonomiku v rámci EU“**.([idnes.cz](https://www.idnes.cz/ekonomika/domaci/ekonomika-index-prosperita-roboti-limitu-rustu-srovnani.A220209_174054_ekonomika_map1?utm_source=openai))  \n\nZávěr pro rok 2022:  \n**Česko je v pilíři „Stav ekonomiky“ hodnoceno jako 9. nejzdravější ekonomika v EU, nikoli 8.**\n\n---\n\n#### 3.2 Roky 2023–2024 – propad kvůli inflaci\n\nZ tiskových zpráv projektu (sekce „Pro média“ na webu Index prosperity):\n\n- **2. 3. 2023, „Stav ekonomiky“**:  \n  Tisková zpráva shrnuje, že **„Česká ekonomika je 12. nejsilnější v EU“** a oproti roku 2022 se propadla o 3 místa.([indexprosperity.cz](https://www.indexprosperity.cz/pro-media/))  \n- **28. 2. 2024, „Stav ekonomiky“**:  \n  Další tisková zpráva uvádí, že „Ekonomika ČR meziročně oslabila. **Na 14. místo v EU nás stáhla vysoká inflace i nízká přidaná hodnota**.“([indexprosperity.cz](https://www.indexprosperity.cz/pro-media/))  \n\nZávěr:  \nV letech **2023 a 2024** nejsme ani 8., ani 9.; pilíř „Stav ekonomiky“ řadí Česko na **12. (2023)** a **14. (2024)** místo v EU.\n\n---\n\n#### 3.3 Rok 2025 – návrat na 9. místo\n\nV únoru 2025 vychází nová data Indexu prosperity pro pilíř „Stav ekonomiky“. Primární zdroj:\n\n- Stránka „Stav ekonomiky“ pro rok 2025 shrnuje, že:  \n  > „Česká ekonomika se po utlumení inflace znovu zařadila mezi **deset nejzdravějších ekonomik EU**. Její kondice nyní **odpovídá 9. místu z evropské sedmadvacítky**.“ ([indexprosperity.cz](https://www.indexprosperity.cz/2025/stav-ekonomiky-2/?utm_source=openai))  \n- V přehledu výsledků na stránce Index prosperity je pro rok 2025 uvedeno:  \n  > „Index prosperity Česka 2025 – **Stav ekonomiky 9.**“ ([indexprosperity.cz](https://www.indexprosperity.cz/2025/stav-ekonomiky-2/))  \n\nTento výsledek (9. místo) potvrzují nezávisle i další zdroje:\n\n- **Novinky.cz (11. 2. 2025)**:  \n  > „S ústupem inflace se Česká republika vrátila zpět do **desítky nejzdravějších ekonomik Evropské unie**. Stejně jako v roce 2022 se … umístila na **devátém místě**.“ ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-index-prosperity-cesko-ma-devatou-nejzdravejsi-ekonomiku-v-eu-40508527))  \n- **Seznam Zprávy (11. 2. 2025)**:  \n  > „Podle Indexu prosperity už je česká ekonomika **devátá nejzdravější v EU**.“ ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-b2b-ceska-ekonomika-se-zveda-ale-jsou-oblasti-kde-tomu-lide-neuveri-269770?utm_source=openai))  \n- **E15 (14. 2. 2025)**:  \n  > „Česko má **devátou nejzdravější ekonomiku v EU**. Ukazují to data, která zveřejnil Index prosperity a finančního zdraví.“ ([e15.cz](https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai))  \n- **Deník (30. 7. 2025)**:  \n  Deník shrnuje, že „Česká republika zaujala **devátou pozici mezi nejzdravějšími ekonomikami v Evropské unii**“ a znovu připisuje tento údaj Indexu prosperity.([denik.cz](https://www.denik.cz/podnikani/deficit-ekonomika-eu-vlada.html?utm_source=openai))  \n- **Expats.cz (11. 2. 2025, anglicky)**:  \n  uvádí, že Česko podle Prosperity and Financial Health Index „**ranks ninth** [among] the EU’s ‘top 10 healthiest economies’“.([expats.cz](https://www.expats.cz/czech-news/article/czechia-bounces-back-to-join-eu-s-top-10-healthiest-economies?utm_source=openai))  \n- **CzechTrade (12. 2. 2025, státní agentura)**:  \n  „According to the Prosperity Index … the country has **secured the ninth position**, matching its 2022 ranking“ mezi „EU’s healthiest economies“.([czechtradeoffices.com](https://www.czechtradeoffices.com/cn/news/czech-republic-claims-9th-spot-among-eu%E2%80%99s-healthiest-economies?utm_source=openai))  \n\nZávěr pro rok 2025:  \nVe **všech** nalezených primárních i sekundárních zdrojích se pro pilíř „Stav ekonomiky“ objevuje **stále 9. místo**, nikoli 8. místo.\n\n---\n\n### 4. Co se změnilo po výroku – rok 2026 (kontext, nikoli podklad pro hodnocení)\n\nAž **v dalším ročníku indexu** (publikovaném v únoru 2026, tedy **po** výroku z 18. 9. 2025) se v přehledu výsledků objevuje u roku 2026 položka:\n\n- „Index prosperity Česka 2026 – **Stav ekonomiky 8.**“ ([indexprosperity.cz](https://www.indexprosperity.cz/2025/stav-ekonomiky-2/))  \n\nTo znamená, že podle **Indexu prosperity 2026** (s daty za rok 2025) je Česko **8. nejzdravější ekonomikou EU**, ale tato informace **v době výroku (září 2025) ještě nebyla publikována** a nemohla být známá.\n\nPodle zadání ale máme posuzovat výrok podle stavu poznání **v době, kdy byl pronesen**; proto tento novější výsledek slouží jen jako doplňující kontext.\n\n---\n\n### 5. Hledání alternativních interpretací a jiných žebříčků\n\n#### 5.1 Mohlo „8. místo“ pocházet z jiného indexu?\n\nPokusili jsme se najít jiné mezinárodní či evropské žebříčky, které:\n\n- hodnotí **„zdraví“ ekonomiky** členských států EU, a  \n- řadí Českou republiku na **8. místo** v rámci EU.\n\nProšli jsme:\n\n- česká i zahraniční média a analytické texty,  \n- starší indexy konkurenceschopnosti, makroekonomické přehřátosti, apod.,  \n- zmínky typu „8. nejvyspělejší / nejsilnější ekonomika EU“.  \n\nŽádný relevantní a často citovaný index nebo statistika, která by **označovala přímo „zdraví ekonomiky“ a stavěla Česko na 8. místo v rámci EU**, se nepodařilo dohledat. Naopak, prakticky všechny zmínky o „nejzdravější ekonomice“ jednoznačně odkazují právě na **Index prosperity a finančního zdraví**, kde má ČR **9. místo**.([e15.cz](https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai))  \n\n#### 5.2 Vnitřní detaily Indexu prosperity\n\nUvnitř pilíře „Stav ekonomiky“ jsou i dílčí indikátory, kde Česko skutečně může mít **8. místo** – např. v odchylce inflace od 2% cíle je v textu pro rok 2022 uvedeno, že se ČR umísťuje na „8. nejlepší příčce“ mezi státy EU.([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n\nToto se však vztahuje pouze na **jeden dílčí ukazatel**, nikoli na **celkový pilíř „Stav ekonomiky“**, který je v médiích i v politických vystoupeních interpretován jako žebříček „nejzdravějších ekonomik“. Žádný zdroj nenazývá tento dílčí indikátor „osmou nejzdravější ekonomikou v EU“.\n\n---\n\n### 6. Shrnutí pro rozhodnutí fact‑checkera\n\n- Projekt **Index prosperity a finančního zdraví** je hlavním, fakticky jediným systematickým mezinárodním žebříčkem, který v českém prostředí hodnotí **„zdraví ekonomik“** členských států EU a je běžně citován médii i politiky.([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n- V tomto indexu:\n\n  | Rok (pilíř „Stav ekonomiky“) | Pořadí ČR v EU | Klíčový zdroj |\n  |------------------------------|---------------:|---------------|\n  | 2022                         | 9.             | Index prosperity, „Stav ekonomiky 2022“ + Peníze.cz, Seznam Zprávy, iDNES ([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/)) |\n  | 2023                         | 12.            | Tisková zpráva „Česká ekonomika je 12. nejsilnější v EU“ ([indexprosperity.cz](https://www.indexprosperity.cz/pro-media/)) |\n  | 2024                         | 14.            | Tisková zpráva „Ekonomika ČR meziročně oslabila. Na 14. místo v EU…“ ([indexprosperity.cz](https://www.indexprosperity.cz/pro-media/)) |\n  | 2025 (stav známý k 18. 9. 2025) | **9.**    | Index prosperity 2025, „Stav ekonomiky 9.“ + Novinky, Seznam Zprávy, E15, Deník, Expats.cz, CzechTrade ([indexprosperity.cz](https://www.indexprosperity.cz/2025/stav-ekonomiky-2/?utm_source=openai)) |\n\n- **Žádný** nalezený relevantní zdroj před 18. 9. 2025 neuvádí, že by byla česká ekonomika podle nějakého uznávaného srovnání **„osmou nejzdravější“** v EU. Naopak všechny odkazy k „nejzdravější ekonomice“ explicitně uvádějí **9. místo**.([e15.cz](https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai))  \n- Až **v ročníku Indexu prosperity 2026**, publikovaném v únoru 2026 (po výroku), je v přehledu výsledků uvedeno, že pilíř „Stav ekonomiky“ řadí Česko na **8. místo** v EU; to však nelze zpětně použít jako podklad pro výrok z roku 2025.([indexprosperity.cz](https://www.indexprosperity.cz/2025/stav-ekonomiky-2/))  \n\nNa základě dostupných dat tedy lze pro fact‑checkování shrnout:\n\n> V době výroku (září 2025) označoval hlavní používaný index „zdraví“ ekonomik (Index prosperity a finančního zdraví) Českou republiku jako **9.**, nikoli **8. nejzdravější ekonomiku EU**. Výrok se proto opírá o reálný žebříček, ale **číselně jej posouvá o jedno místo k lepšímu**.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Petr Fiala, Poslanec\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:03:09\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nTo jsou nesrovnatelné věci. Jedna, v jedné chvíli jsme byli po pandemii, teď jsme byli samozřejmě asi, já nevím, po energetické krizi atd., ale v každém případě já tvrdím, že ten motor té ekonomiky je privátní sektor. Zeptejme se podnikatelů, jak se jim zaměstnávalo, zeptejme se, jak se vypořádávali s vysokými cenami energií, proč se snížily investice právě v privátním sektoru, a to jsou důsledky toho, co vláda Petra Fialy zde čtyři roky činila. Já neříkám, že všechno, co dělali, byla jejich vina. To zase není možné takhle to říct, že jsme byli v komplikovaném období, byli jsme v době energetické krize, ale opatření, které dělala tato vláda a která mohla dělat, tak to bylo to, co bylo terčem naší kritiky.\\n00:03:50\\nTerezie Tománková,moderátorka\\nDěkuju. A slibuju, že se k inflaci a energiím vrátíme k těm detailům. Pane poslanče Fialo, bylo to opravdu všechno tak růžové, v jakém stavu je ekonomika Česka a celé Česko?\\n00:04:00\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nJá jsem nikdy neříkal, že to je celé růžové, ale říkal jsem, že jdeme správným směrem a že se ekonomice daří, což je pravda a dokládají to čísla. Pan Havlíček se k tomu nemůže vracet, protože by se ukázalo, že to, co říkali před volbami, byla lež, že lhali lidem. A na základě lží o tom, jak je na tom naše ekonomika, jak je naše země spálená, tak vlastně vyhráli volby, a to já nezpochybňuju, že vyhráli volby a nechci se k tomu vracet. Ale když se podíváme na čísla, osmá nejzdravější ekonomika v Evropské unii, jedna z nejnižších inflací, máme teď už dokonce i Alena Schillerová nebo, nebo sám pan Babiš, nevím kdo, říkají, že ta země není tolik zadlužená, předtím říkali, že jsme katastrofálně zadlužení. Deficit veřejných financí z 5 %, když jsme ho přebírali po Babišově vládě, pod 2 % HDP, což je prokazatelný úspěch konsolidační politiky naší vlády. A pokud jde o ty investice, vždyť jsme druhá nejvíce investující země v Evropské unii, a to je samozřejmě dáno vládními investicemi, ale je to dáno investicemi soukromého sektoru. Zaměstnávání zaměstnanců nebo zaměstnávání lidí, vždyť máme jednu z nejnižších nezaměstnaností v EU. Tak já myslím, že pan Havlíček nemůže na základě čísel líčit výsledky naší vlády jako špatné. Té zemi se daří, daří se ekonomicky a mám z toho radost.\\n00:05:21\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Osmá nejzdravější ekonomika v Evropské unii (Česká republika, pozn. Demagog.cz).'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 331.45 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Podle Indexu prosperity a finančního zdraví byla česká ekonomika v době výroku devátá, nikoliv osmá nejzdravější v EU. Jiný zdroj osmou příčku nepotvrzuje. Výrok proto hodnotíme jako nepravda.</p>\n\n<p>Premiér Petr Fiala v pořadu K věci 18. září 2025 označil Českou republiku za <i>„osmou nejzdravější ekonomiku v Evropské unii“</i>. V našem ověření se zaměřujeme na to, zda takové tvrzení odpovídalo tehdy dostupným mezinárodním žebříčkům.</p>\n\n<p>Ověřovaným faktickým tvrzením je, že podle existujícího mezinárodního srovnání byla Česká republika v době výroku osmou nejzdravější ekonomikou z 27 států EU.</p>\n\n<p>V českém prostředí se pojem „nejzdravější ekonomika“ běžně pojí s projektem <a href=\"https://www.indexprosperity.cz/2022/ceska-ekonomika/\">Index prosperity a finančního zdraví</a>, který připravuje Česká spořitelna společně s analytickým portálem Evropa v datech. Tento index porovnává všech 27 zemí Evropské unie v deseti tematických pilířích (například stav ekonomiky, trh práce či vzdělání) a vychází z dat Eurostatu, OECD a dalších institucí, jak popisuje metodika uvedená přímo na stránkách indexu.</p>\n\n<p>Jedním z pilířů je „Stav ekonomiky“, který média i samotní autoři často zjednodušeně popisují jako žebříček „nejzdravějších ekonomik“. V prvním vydání indexu pro rok 2022 tento pilíř označuje Českou republiku za devátou nejlepší ekonomiku v Evropě; autoři přímo píší, že <i>„Česká ekonomika je devátá nejlepší v Evropě“</i> a u ČR je v mapě uvedeno pořadí 9, jak je vidět na stránce <a href=\"https://www.indexprosperity.cz/2022/ceska-ekonomika/\">Indexu prosperity 2022</a>.</p>\n\n<p>V následujících letech se pozice Česka zhoršila. Tisková zpráva týmu Indexu z března 2023 shrnuje, že česká ekonomika je „12. nejsilnější v EU“, tedy na 12. místě mezi 27 státy, což potvrzuje text v sekci „Pro média“ na webu <a href=\"https://www.indexprosperity.cz/pro-media/\">Indexu prosperity</a>. Další tisková zpráva z února 2024 pak uvádí, že se Česko propadlo na 14. místo v EU, mimo jiné kvůli vysoké inflaci a nízké přidané hodnotě, jak je popsáno ve stejné mediální sekci <a href=\"https://www.indexprosperity.cz/pro-media/\">Indexu prosperity</a>.</p>\n\n<p>V únoru 2025 byl zveřejněn další ročník indexu. Stránka věnovaná pilíři „Stav ekonomiky“ uvádí, že se česká ekonomika po ústupu inflace znovu zařadila mezi deset nejzdravějších ekonomik EU a že její kondice <i>„odpovídá 9. místu z evropské sedmadvacítky“</i>, jak je uvedeno na stránce <a href=\"https://www.indexprosperity.cz/2025/stav-ekonomiky-2/?utm_source=openai\">Stav ekonomiky 2025</a>. V přehledu výsledků pro rok 2025 je u pilíře „Stav ekonomiky“ výslovně uvedeno pořadí 9.</p>\n\n<p>Toto deváté místo potvrzují i nezávislá média. Server <a href=\"https://www.novinky.cz/clanek/ekonomika-index-prosperity-cesko-ma-devatou-nejzdravejsi-ekonomiku-v-eu-40508527\">Novinky.cz</a> například informuje, že podle Indexu prosperity má Česko <i>„devátou nejzdravější ekonomiku v EU“</i>. Podobně píší i <a href=\"https://www.seznamzpravy.cz/clanek/ekonomika-b2b-ceska-ekonomika-se-zveda-ale-jsou-oblasti-kde-tomu-lide-neuveri-269770?utm_source=openai\">Seznam Zprávy</a> a komentář v deníku <a href=\"https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai\">E15</a>, které rovněž uvádějí devátou příčku mezi nejzdravějšími ekonomikami EU.</p>\n\n<p>Z hlediska data výroku, tedy 18. září 2025, byla proto poslední dostupná oficiální data v pilíři „Stav ekonomiky“ taková, že česká ekonomika zaujímala 9. místo v Evropské unii, nikoliv 8. místo. To plyne jak z výsledkové stránky <a href=\"https://www.indexprosperity.cz/2025/stav-ekonomiky-2/?utm_source=openai\">Indexu prosperity 2025</a>, tak z výše citovaných mediálních článků.</p>\n\n<p>Zkoumali jsme, zda by „osmou nejzdravější ekonomiku“ nemohl ukazovat nějaký jiný relevantní index či mezinárodní žebříček používající pojem „zdraví ekonomiky“. V českých i zahraničních médiích a analytických textech se však všechny zmínky o „nejzdravější ekonomice“ vztahují právě k Indexu prosperity a mluví o devátém, nikoliv osmém místě, jak dokládá například komentář v deníku <a href=\"https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai\">E15</a>.</p>\n\n<p>Až v následujícím ročníku Indexu prosperity, publikovaném v roce 2026, se v přehledu výsledků objevuje, že pilíř „Stav ekonomiky“ řadí Česko na 8. místo v EU; tato informace se objevila až po Fialově výroku a v době jeho pronesení ještě nebyla veřejně k dispozici. V aktuální podobě stránky <a href=\"https://www.indexprosperity.cz/2025/stav-ekonomiky-2/?utm_source=openai\">Stav ekonomiky</a> je patrné, že pro rok 2025 je uvedeno 9. místo, zatímco pro rok 2026 již 8. místo.</p>\n\n<p>Uvnitř pilíře „Stav ekonomiky“ existují i dílčí ukazatele, například odchylka inflace od 2% cíle, u nichž autoři u některých ročníků uvádějí, že se Česko umístilo kolem 8. příčky mezi státy EU, jak je popsáno v detailní analýze na stránce <a href=\"https://www.indexprosperity.cz/2022/ceska-ekonomika/\">Indexu prosperity 2022</a>. Tyto dílčí výsledky se však vztahují jen ke konkrétním indikátorům a žádný zdroj je neinterpretuje tak, že by z nich plynulo celkové postavení Česka jako „osmé nejzdravější ekonomiky EU“.</p>\n\n<p>Faktické tvrzení, že Česká republika je „osmou nejzdravější ekonomikou v EU“, tedy neodpovídá datům hlavního používaného indexu v době výroku. Podle dostupných zdrojů byla česká ekonomika v září 2025 hodnocena jako devátá nejzdravější v EU a nenašli jsme jiný relevantní žebříček, který by potvrzoval osmou příčku.</p>\n\n<p>Výrok se sice opírá o reálný index, avšak číselně si o jedno místo polepšuje. Celkově proto náš závěr zní: nepravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0715d0fe37335fae0069a6ad2fce448195a85edaae97b88d68",
+    "created_at": 1772530991.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad3b24608195a2c637f6dfddb24a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad44216081959fdb080924334373",
+        "action": {
+          "query": "\"osma nejzdravejsi ekonomika\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"osma nejzdravejsi ekonomika\"",
+            "\"osmá nejzdravější ekonomika\" Evropské unie",
+            "\"nejzdravější ekonomika\" \"Česká republika\"",
+            "\"eighth healthiest economy\" \"Czech\" \"EU\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad4633008195a43d60102d2e8bb8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad4852648195a59a2b1250f143b4",
+        "action": {
+          "query": "\"Index prosperity a finančního zdraví\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Index prosperity a finančního zdraví\"",
+            "\"Index prosperity Ceska\" zdraví ekonomiky poradi v EU",
+            "\"Index prosperity\" \"finanční zdraví\" \"Evropa v datech\" Česko poradi v EU",
+            "\"nejzdravejsi ekonomiku\" \"index prosperity a financniho zdravi\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad4b0ec4819593cb69facce35a8a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad4d421c819590b17e506e60f4e1",
+        "action": {
+          "query": "\"devatou nejzdravejsi ekonomiku v EU\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"devatou nejzdravejsi ekonomiku v EU\"",
+            "\"8. nejzdravejsi\" ekonomika EU Cesko",
+            "\"osma nejzdravější\" ekonomika EU",
+            "\"osmou nejzdravější\" ekonomiku v EU"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad501d048195a428e8002fda057f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad50a46881959d4652e30b5c683c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad51cc0c8195bff466dfd4c688ec",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad5ba30c8195a6d035e3fca32811",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad5c99d481959fa7b16c9613c446",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad624fe48195994b9a84710c1037",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad655390819593e18b7bae7dc9f5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad68464c8195ba703bc0c4f79acb",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad7145048195882ba5bda1929545",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad7275ec81958116f1f8105e6f7f",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "devata"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad74cc608195b3f2e7cc4241c7df",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad76e2848195b0591dd8237d1ac8",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad7a51508195836c256f419895e7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad8497e4819595de16fff1ec8ede",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "devatou"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad86013c8195b2501582147bb65b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad896a1881958e0ada521c85fc19",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad8ca394819589a4f8fd9fcbf696",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad8f70188195beb4bf641b1b23c2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ad920c88819583dfb6259b993fa9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ad98ab00819591451ceb80045a4a",
+        "action": {
+          "query": "\"8. nejvyspělejší\" ekonomika EU Česko",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"8. nejvyspělejší\" ekonomika EU Česko",
+            "\"osmá nejvyspělejší ekonomika\" \"Česko\"",
+            "\"8. nejsilnější\" ekonomika EU \"Česká\"",
+            "\"osma nejvyspela\" \"ceska ekonomika\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ada059b08195889b8d28864c8d28",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6ada378e081958e80062615e3b30f",
+        "action": {
+          "query": "\"8. nejzdravější\" ekonomika",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"8. nejzdravější\" ekonomika",
+            "\"osmá nejzdravější\" \"ekonomika\"",
+            "\"osmá nejzdravější ekonomika\" \"Evropy\"",
+            "\"osmá nejzdravější ekonomika v Evropě\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6ada8b1c0819589af872c77e87e43",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6adacfba88195a42f18a79f1cef81",
+        "action": {
+          "query": "\"devátou nejzdravější ekonomiku\" \"Česko\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"devátou nejzdravější ekonomiku\" \"Česko\"",
+            "\"nejzdravější ekonomiku\" \"Index prosperity\"",
+            "\"nejzdravější ekonomika\" \"Index prosperity\"",
+            "\"8. nejzdravější ekonomika\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6adbaab6881959749b8633584954f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0715d0fe37335fae0069a6add71ea08195a1de6a1bb9cea04c",
+        "action": {
+          "query": "\"Czech economy\" \"ninth healthiest\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Czech economy\" \"ninth healthiest\"",
+            "\"Czech Republic\" \"healthiest economies\" index",
+            "\"healthiest economy\" \"Czech\"",
+            "\"eighth healthiest economy\" \"Czech Republic\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0715d0fe37335fae0069a6addc92b88195aa1e752731dffa9e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0715d0fe37335fae0069a6ae3d927481959b018a2a66c09e44",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1229,
+                "start_index": 1153,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2022/ceska-ekonomika/"
+              },
+              {
+                "end_index": 1524,
+                "start_index": 1448,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2022/ceska-ekonomika/"
+              },
+              {
+                "end_index": 1860,
+                "start_index": 1784,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2022/ceska-ekonomika/"
+              },
+              {
+                "end_index": 2217,
+                "start_index": 2068,
+                "title": "Česko mezi Irskem a Belgií. Jak se měří index české prosperity - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-b2b-david-navratil-z-ceske-sporitelny-predstavil-novy-index-prosperity-ceska-187739"
+              },
+              {
+                "end_index": 2483,
+                "start_index": 2328,
+                "title": "Česká ekonomika je devátá nejzdravější v EU. Mizí však porevoluční drajv - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/ekonomika/domaci/ekonomika-index-prosperita-roboti-limitu-rustu-srovnani.A220209_174054_ekonomika_map1?utm_source=openai"
+              },
+              {
+                "end_index": 2991,
+                "start_index": 2915,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2022/ceska-ekonomika/"
+              },
+              {
+                "end_index": 3332,
+                "start_index": 3212,
+                "title": "Česká ekonomika je devátá nejlepší v EU. Má 123 trestných bodů | Peníze.cz",
+                "type": "url_citation",
+                "url": "https://www.penize.cz/makroekonomika/432145-ceska-ekonomika-je-devata-nejlepsi-v-eu-ma-123-trestnych-bodu"
+              },
+              {
+                "end_index": 3646,
+                "start_index": 3497,
+                "title": "Česko mezi Irskem a Belgií. Jak se měří index české prosperity - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-b2b-david-navratil-z-ceske-sporitelny-predstavil-novy-index-prosperity-ceska-187739"
+              },
+              {
+                "end_index": 3944,
+                "start_index": 3789,
+                "title": "Česká ekonomika je devátá nejzdravější v EU. Mizí však porevoluční drajv - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/ekonomika/domaci/ekonomika-index-prosperita-roboti-limitu-rustu-srovnani.A220209_174054_ekonomika_map1?utm_source=openai"
+              },
+              {
+                "end_index": 4413,
+                "start_index": 4348,
+                "title": "Pro média | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/pro-media/"
+              },
+              {
+                "end_index": 4660,
+                "start_index": 4595,
+                "title": "Pro média | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/pro-media/"
+              },
+              {
+                "end_index": 5261,
+                "start_index": 5166,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2025/stav-ekonomiky-2/?utm_source=openai"
+              },
+              {
+                "end_index": 5476,
+                "start_index": 5399,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2025/stav-ekonomiky-2/"
+              },
+              {
+                "end_index": 5873,
+                "start_index": 5747,
+                "title": "Index prosperity: Česko má devátou nejzdravější ekonomiku v EU - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-index-prosperity-cesko-ma-devatou-nejzdravejsi-ekonomiku-v-eu-40508527"
+              },
+              {
+                "end_index": 6153,
+                "start_index": 5995,
+                "title": "Česká ekonomika se zvedá. Ale jsou oblasti, kde tomu lidé neuvěří - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-b2b-ceska-ekonomika-se-zveda-ale-jsou-oblasti-kde-tomu-lide-neuveri-269770?utm_source=openai"
+              },
+              {
+                "end_index": 6462,
+                "start_index": 6310,
+                "title": "Česko vzkvétá, tvrdí premiér i index. Mezitím se na nás dotahují Poláci a Rumuni | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai"
+              },
+              {
+                "end_index": 6748,
+                "start_index": 6654,
+                "title": "Česko je devátá nejzdravější ekonomika v EU, vláda chce dále snižovat deficit - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/podnikani/deficit-ekonomika-eu-vlada.html?utm_source=openai"
+              },
+              {
+                "end_index": 7056,
+                "start_index": 6921,
+                "title": "Czechia bounces back to join EU's 'top 10 healthiest economies' - Prague, Czech Republic",
+                "type": "url_citation",
+                "url": "https://www.expats.cz/czech-news/article/czechia-bounces-back-to-join-eu-s-top-10-healthiest-economies?utm_source=openai"
+              },
+              {
+                "end_index": 7414,
+                "start_index": 7257,
+                "title": "CzechTrade Offices - Czech Republic Claims 9th Spot Among EU’s Healthiest Economies",
+                "type": "url_citation",
+                "url": "https://www.czechtradeoffices.com/cn/news/czech-republic-claims-9th-spot-among-eu%E2%80%99s-healthiest-economies?utm_source=openai"
+              },
+              {
+                "end_index": 7944,
+                "start_index": 7867,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2025/stav-ekonomiky-2/"
+              },
+              {
+                "end_index": 9291,
+                "start_index": 9139,
+                "title": "Česko vzkvétá, tvrdí premiér i index. Mezitím se na nás dotahují Poláci a Rumuni | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai"
+              },
+              {
+                "end_index": 9639,
+                "start_index": 9563,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2022/ceska-ekonomika/"
+              },
+              {
+                "end_index": 10285,
+                "start_index": 10209,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2022/ceska-ekonomika/"
+              },
+              {
+                "end_index": 10645,
+                "start_index": 10569,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2022/ceska-ekonomika/"
+              },
+              {
+                "end_index": 10822,
+                "start_index": 10757,
+                "title": "Pro média | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/pro-media/"
+              },
+              {
+                "end_index": 11011,
+                "start_index": 10946,
+                "title": "Pro média | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/pro-media/"
+              },
+              {
+                "end_index": 11262,
+                "start_index": 11167,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2025/stav-ekonomiky-2/?utm_source=openai"
+              },
+              {
+                "end_index": 11656,
+                "start_index": 11504,
+                "title": "Česko vzkvétá, tvrdí premiér i index. Mezitím se na nás dotahují Poláci a Rumuni | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai"
+              },
+              {
+                "end_index": 11972,
+                "start_index": 11895,
+                "title": "Stav ekonomiky | Index prosperity Česka",
+                "type": "url_citation",
+                "url": "https://www.indexprosperity.cz/2025/stav-ekonomiky-2/"
+              }
+            ],
+            "text": "### 1. Přehled výroku a jeho smysl\n\nKontrolovaný výrok (Petr Fiala, pořad *K věci*, 18. 9. 2025):  \n\n> „…osmá nejzdravější ekonomika v Evropské unii (Česká republika)…“\n\nNejpřirozenější interpretace:\n\n1. Existuje mezinárodní žebříček, který hodnotí „zdraví“ ekonomik členských států EU.  \n2. V tomto žebříčku je Česká republika **8. nejzdravější ekonomikou v EU** (tedy 8. ze 27 států) v době výroku.\n\nVzhledem k používané terminologii („nejzdravější ekonomika“) a dobovému mediálnímu kontextu jde prakticky jistě o odkaz na **pilíř „Stav ekonomiky“ v projektu Index prosperity a finančního zdraví (Česká spořitelna + Evropa v datech)**. Níže proto ověřujeme, jaké pořadí tomuto pilíři skutečně vychází.\n\n---\n\n### 2. Co je „Index prosperity a finančního zdraví“ a jak měří „zdraví ekonomiky“\n\nIndex prosperity a finančního zdraví:\n\n- je projekt České spořitelny a datového portálu **Evropa v datech**, spuštěný v roce 2022;  \n- porovnává země **EU‑27** v deseti pilířích (stav ekonomiky, trh práce, životní prostředí, bydlení, atd.);  \n- u každého pilíře používá cca deset indikátorů z oficiálních databází (Eurostat, OECD, Světová banka, OSN, WHO aj.).([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n\nPilíř **„Stav ekonomiky“** (v médiích často shrnován jako žebříček „nejzdravějších ekonomik“):\n\n- pro rok 2022 Index uvádí: „Pozice Česka v Evropě 9.“ a shrnuje, že **„Česká ekonomika je devátá nejlepší v Evropě“**.([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n- metodika vysvětluje, že výsledky pilíře se počítají jako kombinace ~10 indikátorů (inflace, veřejný dluh, investice, ekonomická komplexita, podíl národního důchodu na HDP, hrubá přidaná hodnota, aj.), přepočtených na pořadí mezi **27 členskými státy EU**.([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n\nMédia tento pilíř od začátku interpretují právě jako srovnání „zdraví ekonomiky“:\n\n- Seznam Zprávy při představení indexu píší, že podle těchto metrik má Česko „**devátou nejzdravější ekonomiku** [v EU]“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-b2b-david-navratil-z-ceske-sporitelny-predstavil-novy-index-prosperity-ceska-187739))  \n- iDNES a další média mluví o tom, že „česká ekonomika je devátá nejzdravější v EU“ podle Indexu prosperity.([idnes.cz](https://www.idnes.cz/ekonomika/domaci/ekonomika-index-prosperita-roboti-limitu-rustu-srovnani.A220209_174054_ekonomika_map1?utm_source=openai))  \n\nZ hlediska ověřovaného výroku je tedy klíčové: **v jaké pozici se ČR v tomto pilíři nacházela v době výroku (září 2025)**.\n\n---\n\n### 3. Výsledky pilíře „Stav ekonomiky“ pro Česko (2022–2025)\n\n#### 3.1 Rok 2022 – 1. vydání indexu\n\nPrimární zdroj (Index prosperity, pilíř „Stav ekonomiky“, leden 2022):\n\n- stránka uvádí u mapy „Pozice Česka v Evropě 9.“ a v textu shrnuje:  \n  > „Česká ekonomika je **devátá nejlepší v Evropě**…“ ([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n\nMediální sekundární zdroje tento výsledek potvrzují:\n\n- **Peníze.cz**: „Česko je **devátou nejvyspělejší ekonomikou v Evropské unii**“ a přebírá tabulku „Index prosperity – stav ekonomiky“, kde je Česko 9. ze 27 zemí.([penize.cz](https://www.penize.cz/makroekonomika/432145-ceska-ekonomika-je-devata-nejlepsi-v-eu-ma-123-trestnych-bodu))  \n- **Seznam Zprávy (Ondřej Katz, 10. 2. 2022)**: otázka na Davida Navrátila mluví o tom, že podle jejich metrik má Česko „**devátou nejzdravější ekonomiku**“ v EU.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-b2b-david-navratil-z-ceske-sporitelny-predstavil-novy-index-prosperity-ceska-187739))  \n- **iDNES / Novinky / další média** opakovaně referují, že podle Indexu prosperity má Česko **„devátou nejzdravější ekonomiku v rámci EU“**.([idnes.cz](https://www.idnes.cz/ekonomika/domaci/ekonomika-index-prosperita-roboti-limitu-rustu-srovnani.A220209_174054_ekonomika_map1?utm_source=openai))  \n\nZávěr pro rok 2022:  \n**Česko je v pilíři „Stav ekonomiky“ hodnoceno jako 9. nejzdravější ekonomika v EU, nikoli 8.**\n\n---\n\n#### 3.2 Roky 2023–2024 – propad kvůli inflaci\n\nZ tiskových zpráv projektu (sekce „Pro média“ na webu Index prosperity):\n\n- **2. 3. 2023, „Stav ekonomiky“**:  \n  Tisková zpráva shrnuje, že **„Česká ekonomika je 12. nejsilnější v EU“** a oproti roku 2022 se propadla o 3 místa.([indexprosperity.cz](https://www.indexprosperity.cz/pro-media/))  \n- **28. 2. 2024, „Stav ekonomiky“**:  \n  Další tisková zpráva uvádí, že „Ekonomika ČR meziročně oslabila. **Na 14. místo v EU nás stáhla vysoká inflace i nízká přidaná hodnota**.“([indexprosperity.cz](https://www.indexprosperity.cz/pro-media/))  \n\nZávěr:  \nV letech **2023 a 2024** nejsme ani 8., ani 9.; pilíř „Stav ekonomiky“ řadí Česko na **12. (2023)** a **14. (2024)** místo v EU.\n\n---\n\n#### 3.3 Rok 2025 – návrat na 9. místo\n\nV únoru 2025 vychází nová data Indexu prosperity pro pilíř „Stav ekonomiky“. Primární zdroj:\n\n- Stránka „Stav ekonomiky“ pro rok 2025 shrnuje, že:  \n  > „Česká ekonomika se po utlumení inflace znovu zařadila mezi **deset nejzdravějších ekonomik EU**. Její kondice nyní **odpovídá 9. místu z evropské sedmadvacítky**.“ ([indexprosperity.cz](https://www.indexprosperity.cz/2025/stav-ekonomiky-2/?utm_source=openai))  \n- V přehledu výsledků na stránce Index prosperity je pro rok 2025 uvedeno:  \n  > „Index prosperity Česka 2025 – **Stav ekonomiky 9.**“ ([indexprosperity.cz](https://www.indexprosperity.cz/2025/stav-ekonomiky-2/))  \n\nTento výsledek (9. místo) potvrzují nezávisle i další zdroje:\n\n- **Novinky.cz (11. 2. 2025)**:  \n  > „S ústupem inflace se Česká republika vrátila zpět do **desítky nejzdravějších ekonomik Evropské unie**. Stejně jako v roce 2022 se … umístila na **devátém místě**.“ ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-index-prosperity-cesko-ma-devatou-nejzdravejsi-ekonomiku-v-eu-40508527))  \n- **Seznam Zprávy (11. 2. 2025)**:  \n  > „Podle Indexu prosperity už je česká ekonomika **devátá nejzdravější v EU**.“ ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-b2b-ceska-ekonomika-se-zveda-ale-jsou-oblasti-kde-tomu-lide-neuveri-269770?utm_source=openai))  \n- **E15 (14. 2. 2025)**:  \n  > „Česko má **devátou nejzdravější ekonomiku v EU**. Ukazují to data, která zveřejnil Index prosperity a finančního zdraví.“ ([e15.cz](https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai))  \n- **Deník (30. 7. 2025)**:  \n  Deník shrnuje, že „Česká republika zaujala **devátou pozici mezi nejzdravějšími ekonomikami v Evropské unii**“ a znovu připisuje tento údaj Indexu prosperity.([denik.cz](https://www.denik.cz/podnikani/deficit-ekonomika-eu-vlada.html?utm_source=openai))  \n- **Expats.cz (11. 2. 2025, anglicky)**:  \n  uvádí, že Česko podle Prosperity and Financial Health Index „**ranks ninth** [among] the EU’s ‘top 10 healthiest economies’“.([expats.cz](https://www.expats.cz/czech-news/article/czechia-bounces-back-to-join-eu-s-top-10-healthiest-economies?utm_source=openai))  \n- **CzechTrade (12. 2. 2025, státní agentura)**:  \n  „According to the Prosperity Index … the country has **secured the ninth position**, matching its 2022 ranking“ mezi „EU’s healthiest economies“.([czechtradeoffices.com](https://www.czechtradeoffices.com/cn/news/czech-republic-claims-9th-spot-among-eu%E2%80%99s-healthiest-economies?utm_source=openai))  \n\nZávěr pro rok 2025:  \nVe **všech** nalezených primárních i sekundárních zdrojích se pro pilíř „Stav ekonomiky“ objevuje **stále 9. místo**, nikoli 8. místo.\n\n---\n\n### 4. Co se změnilo po výroku – rok 2026 (kontext, nikoli podklad pro hodnocení)\n\nAž **v dalším ročníku indexu** (publikovaném v únoru 2026, tedy **po** výroku z 18. 9. 2025) se v přehledu výsledků objevuje u roku 2026 položka:\n\n- „Index prosperity Česka 2026 – **Stav ekonomiky 8.**“ ([indexprosperity.cz](https://www.indexprosperity.cz/2025/stav-ekonomiky-2/))  \n\nTo znamená, že podle **Indexu prosperity 2026** (s daty za rok 2025) je Česko **8. nejzdravější ekonomikou EU**, ale tato informace **v době výroku (září 2025) ještě nebyla publikována** a nemohla být známá.\n\nPodle zadání ale máme posuzovat výrok podle stavu poznání **v době, kdy byl pronesen**; proto tento novější výsledek slouží jen jako doplňující kontext.\n\n---\n\n### 5. Hledání alternativních interpretací a jiných žebříčků\n\n#### 5.1 Mohlo „8. místo“ pocházet z jiného indexu?\n\nPokusili jsme se najít jiné mezinárodní či evropské žebříčky, které:\n\n- hodnotí **„zdraví“ ekonomiky** členských států EU, a  \n- řadí Českou republiku na **8. místo** v rámci EU.\n\nProšli jsme:\n\n- česká i zahraniční média a analytické texty,  \n- starší indexy konkurenceschopnosti, makroekonomické přehřátosti, apod.,  \n- zmínky typu „8. nejvyspělejší / nejsilnější ekonomika EU“.  \n\nŽádný relevantní a často citovaný index nebo statistika, která by **označovala přímo „zdraví ekonomiky“ a stavěla Česko na 8. místo v rámci EU**, se nepodařilo dohledat. Naopak, prakticky všechny zmínky o „nejzdravější ekonomice“ jednoznačně odkazují právě na **Index prosperity a finančního zdraví**, kde má ČR **9. místo**.([e15.cz](https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai))  \n\n#### 5.2 Vnitřní detaily Indexu prosperity\n\nUvnitř pilíře „Stav ekonomiky“ jsou i dílčí indikátory, kde Česko skutečně může mít **8. místo** – např. v odchylce inflace od 2% cíle je v textu pro rok 2022 uvedeno, že se ČR umísťuje na „8. nejlepší příčce“ mezi státy EU.([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n\nToto se však vztahuje pouze na **jeden dílčí ukazatel**, nikoli na **celkový pilíř „Stav ekonomiky“**, který je v médiích i v politických vystoupeních interpretován jako žebříček „nejzdravějších ekonomik“. Žádný zdroj nenazývá tento dílčí indikátor „osmou nejzdravější ekonomikou v EU“.\n\n---\n\n### 6. Shrnutí pro rozhodnutí fact‑checkera\n\n- Projekt **Index prosperity a finančního zdraví** je hlavním, fakticky jediným systematickým mezinárodním žebříčkem, který v českém prostředí hodnotí **„zdraví ekonomik“** členských států EU a je běžně citován médii i politiky.([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/))  \n- V tomto indexu:\n\n  | Rok (pilíř „Stav ekonomiky“) | Pořadí ČR v EU | Klíčový zdroj |\n  |------------------------------|---------------:|---------------|\n  | 2022                         | 9.             | Index prosperity, „Stav ekonomiky 2022“ + Peníze.cz, Seznam Zprávy, iDNES ([indexprosperity.cz](https://www.indexprosperity.cz/2022/ceska-ekonomika/)) |\n  | 2023                         | 12.            | Tisková zpráva „Česká ekonomika je 12. nejsilnější v EU“ ([indexprosperity.cz](https://www.indexprosperity.cz/pro-media/)) |\n  | 2024                         | 14.            | Tisková zpráva „Ekonomika ČR meziročně oslabila. Na 14. místo v EU…“ ([indexprosperity.cz](https://www.indexprosperity.cz/pro-media/)) |\n  | 2025 (stav známý k 18. 9. 2025) | **9.**    | Index prosperity 2025, „Stav ekonomiky 9.“ + Novinky, Seznam Zprávy, E15, Deník, Expats.cz, CzechTrade ([indexprosperity.cz](https://www.indexprosperity.cz/2025/stav-ekonomiky-2/?utm_source=openai)) |\n\n- **Žádný** nalezený relevantní zdroj před 18. 9. 2025 neuvádí, že by byla česká ekonomika podle nějakého uznávaného srovnání **„osmou nejzdravější“** v EU. Naopak všechny odkazy k „nejzdravější ekonomice“ explicitně uvádějí **9. místo**.([e15.cz](https://www.e15.cz/nazory-a-analyzy/cesko-vzkveta-tvrdi-premier-i-index-mezitim-se-na-nas-dotahuji-polaci-a-rumuni-1422309?utm_source=openai))  \n- Až **v ročníku Indexu prosperity 2026**, publikovaném v únoru 2026 (po výroku), je v přehledu výsledků uvedeno, že pilíř „Stav ekonomiky“ řadí Česko na **8. místo** v EU; to však nelze zpětně použít jako podklad pro výrok z roku 2025.([indexprosperity.cz](https://www.indexprosperity.cz/2025/stav-ekonomiky-2/))  \n\nNa základě dostupných dat tedy lze pro fact‑checkování shrnout:\n\n> V době výroku (září 2025) označoval hlavní používaný index „zdraví“ ekonomik (Index prosperity a finančního zdraví) Českou republiku jako **9.**, nikoli **8. nejzdravější ekonomiku EU**. Výrok se proto opírá o reálný žebříček, ale **číselně jej posouvá o jedno místo k lepšímu**.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 105109,
+      "input_tokens_details": {
+        "cached_tokens": 5376
+      },
+      "output_tokens": 15534,
+      "output_tokens_details": {
+        "reasoning_tokens": 11714
+      },
+      "total_tokens": 120643
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772531312,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

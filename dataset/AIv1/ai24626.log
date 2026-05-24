@@ -1,0 +1,710 @@
+{
+  "claim_id": "24626",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24626.md",
+  "fact_check": "# Fact Check for Statement ID 24626\n\n## Statement\n(Uhlí jako zdroj energie, pozn. Demagog.cz) je zatížen cenou emisní povolenky naprosto brutálně, to činí 90 % ceny.\n\n---\n## AI Fact Check\n## 1. Rozklad výroku\n\nVýrok Karla Havlíčka:\n\n> „[Uhlí] je zatížen cenou emisní povolenky naprosto brutálně, **to činí 90 % ceny**.“\n\nMožné interpretace:\n\n1. **Výrobní cena elektřiny z uhlí** – emisní povolenky tvoří cca 90 % nákladů na výrobu 1 MWh z uhelné elektrárny.  \n2. **Koncová cena elektřiny** – emisní povolenky tvoří cca 90 % ceny, kterou platí odběratelé.  \n\nDále ověřuji obě interpretace zvlášť. Hodnotící přídomek „naprosto brutálně“ je hodnotový soud, ten fakticky neověřujeme – zaměřuji se na číselný údaj „90 %“.\n\n---\n\n## 2. Jak drahé byly emisní povolenky v době výroku\n\n### 2.1 Oficiální průměrná cena povolenky\n\nEnergetický regulační úřad (ERÚ) stanovil pro rok 2023 průměrnou tržní cenu emisní povolenky:\n\n- **2 004,49 Kč/t CO₂** (cca 80 €/t) jako vážený průměr cen na burze EEX. ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/prumerna-trzni-cena-povolenky-na-emise-sklenikovych-plynu-za-rok-2023?utm_source=openai))  \n\nTo ukazuje, že v letech těsně před výrokem byly povolenky velmi drahé.\n\n### 2.2 Tržní cena 2024–2025\n\n- Web Elektřina.cz uvádí, že po roce 2023, kdy se povolenky prodávaly až za **100 €/t**, klesla cena v březnu 2024 k cca **61 €/t**. ([elektrina.cz](https://www.elektrina.cz/emisni-povolenky?utm_source=openai))  \n- Dodavatel SPP (ČR/SR) uvádí k 11. srpnu 2025 aktuální cenu povolenky kolem **72,96 €/t CO₂**. ([spp.cz](https://www.spp.cz/magazin/emisni-povolenky-co-to-je-jak-funguji-a-proc-ovlivnuji-ceny-energii?utm_source=openai))  \n\nV době kolem výroku tak vychází **typická cena EUA zhruba 60–80 €/t**.\n\n---\n\n## 3. Kolik povolenek potřebuje 1 MWh elektřiny z uhlí\n\n### 3.1 Emisní intenzita uhelné elektřiny\n\n- Energie.cz (odborný text k ekonomice uhelných elektráren) uvádí, že výroba **1 MWh elektřiny v uhelné elektrárně znamená emise 0,8–1 tuny CO₂**, tedy „je na ni třeba přibližně jedna emisní povolenka“. ([energie.cz](https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/))  \n- Podobně text pro Kurzy.cz/Bydlet.cz cituje manažera Sev.en Pavla Farkače: na výrobu 1 MWh z českých uhelných elektráren je potřeba „přibližně **jedna celá povolenka**“. ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/694552-cena-elektriny-na-kratkodobych-trzich-vzrostla-v-roce-2022-az-o-146--soucasnou-stabilizaci-cen/?utm_source=openai))  \n\n**Závěr:** Pro 1 MWh elektřiny z uhlí je nutné zhruba **1 EUA**, takže **náklad na povolenky ≈ aktuální cena EUA v €/MWh**.\n\nPři ceně 60–80 €/t tak samotná povolenka zdraží 1 MWh uhelné elektřiny o 60–80 €.\n\n---\n\n## 4. Podíl povolenek na *výrobní ceně* elektřiny z uhlí\n\nZde jde o náklady výrobce (uhelné elektrárny), nikoli o konečnou cenu pro domácnosti.\n\n### 4.1 Modelové výpočty a odhady\n\n#### a) Energie.cz (7. 3. 2024)\n\nČlánek o rentabilitě uhelných elektráren popisuje:\n\n- cena povolenky cca **60 €/MWh**,  \n- **provozní náklady včetně uhlí cca 20 €/MWh**,  \n- celkem tedy cca **80 €/MWh**. ([energie.cz](https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/))  \n\nPodíl povolenky na výrobní ceně:\n\n- 60 / (60 + 20) ≈ **75 % výrobních nákladů**.\n\n#### b) Plyn.cz (20. 5. 2025)\n\nModelový příklad nákladů uhelné elektrárny: ([plyn.cz](https://www.plyn.cz/uhelne-elektrarny-ztratove-uz-v-roce-2027))  \n\n- emisní povolenka: **70 €**,  \n- variabilní složka (uhlí a další vstupy): **6–8 €**,  \n- fixní náklady (mzdy, servis atp.): **10–15 €**,  \n- celkové náklady: **86–93 €/MWh**.\n\nPodíl povolenky:\n\n- 70 / 86 ≈ **81 %** (při dolní hranici),  \n- 70 / 93 ≈ **75 %** (při horní hranici).\n\nTakže **cca 75–81 % celkových nákladů**.\n\n#### c) Pavel Tykač (Počerady)\n\nPodnikatel v energetice Pavel Tykač (majitel skupiny Sev.en) popisuje ekonomiku Elektrárny Počerady:\n\n> „megawatthodinu elektřiny dnes vyrábějí za zhruba **86 eur**, z čehož **80 eur tvoří samotná povolenka** a pouhých **6 eur** skutečné výrobní náklady – uhlí, doprava a provoz“ ([parlamentnilisty.cz](https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499))  \n\nPodíl povolenky:\n\n- 80 / 86 ≈ **93 % výrobních nákladů**.\n\nJde o **extrémní případ** pro konkrétní starší elektrárnu, ale přímo odpovídá výroku „90 %“.\n\n#### d) Solární magazín (18. 2. 2026, Hynek Beran)\n\nAutor – energetický expert – odhaduje nákladovou cenu elektřiny z jednotlivých zdrojů. U uhlí píše:\n\n> u uhlí za výrobu „**stejnou cenu jako z jádra, tedy 25 haléřů za kWh**, zbytek ceny **1,95 Kč tvoří emisní povolenka**.“ ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\nCelková odhadovaná cena elektřiny z uhlí v jeho modelu:\n\n- **2,20 Kč/kWh**, z toho **1,95 Kč/kWh povolenka** a **0,25 Kč/kWh palivo a provoz**. ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\nPodíl povolenky:\n\n- 1,95 / 2,20 ≈ **89 % výrobní ceny z uhlí**.\n\n#### e) Další odhady\n\nKomentář v Epoch Times (5. 1. 2024) uvádí pro tehdejší poměry: ([epochtimes.cz](https://www.epochtimes.cz/2024/01/05/kolik-by-stala-elektrina-v-cesku-bez-zelenych-politik/?utm_source=openai))  \n\n- burzovní cena elektřiny: **2,30 Kč/kWh**,  \n- cena povolenky připadající na tuto MWh: **1,90 Kč/kWh**,  \n- což odpovídá podílu povolenky **82,6 % z tržní ceny**.\n\n---\n\n### 4.2 Shrnutí pro výrobní cenu uhelné elektřiny\n\nZ různých nezávislých výpočtů vychází podíl nákladů na povolenky na **výrobní nebo tržní ceně 1 MWh uhelné elektřiny** přibližně takto:\n\n| Zdroj / rok                | EUA náklad | Ostatní náklady | Celkem | Podíl povolenek |\n|---------------------------|-----------:|----------------:|-------:|----------------:|\n| Energie.cz (2024)        | 60 €       | 20 €            | 80 €   | ~**75 %**       |\n| Plyn.cz (2025)           | 70 €       | 16–23 €         | 86–93 €| ~**75–81 %**    |\n| Tykač, Počerady (2025)   | 80 €       | 6 €             | 86 €   | ~**93 %**       |\n| Solární magazín (2026)   | 1,95 Kč    | 0,25 Kč         | 2,20 Kč| ~**89 %**       |\n| Epoch Times (2024)       | 1,90 Kč    | 0,40 Kč         | 2,30 Kč| ~**83 %**       |\n\n**Závěr pro interpretaci „výrobní cena z uhlí“:**  \n- U většiny modelů a odhadů se podíl povolenek na výrobních nákladech **pohybuje kolem 75–85 %**.  \n- V některých konkrétních případech (Počerady, model Solárního magazínu) se dostáváme **téměř přesně k 90 %**.  \n\nTvrzení „činí 90 % ceny“ tak **odpovídá horní hraně reálně uváděných hodnot** pro některé uhelné bloky, ale **není typickou hodnotou pro celý uhelný sektor**.\n\n---\n\n## 5. Podíl povolenek na *koncové* ceně elektřiny pro zákazníky\n\nPokud by výrok měl být chápán tak, že povolenky tvoří 90 % ceny, kterou platí domácnosti či firmy, vyplývá něco jiného.\n\n### 5.1 Odhady odborníků a oficiálních institucí\n\n- **Jan Tůma**, vedoucí oddělení obchodování s emisemi na MŽP, v rozhovoru pro platformu Energie bez emisí říká:  \n  > „Cena povolenky je asi nějakých **10–20 % ceny elektřiny**… Za razantním zvýšením ceny elektřiny je jednoznačně **zvýšení ceny plynu**.“ ([energiebezemisi.cz](https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/))  \n\n- Článek Ekonews shrnuje analýzu think tanku **Ember**:  \n  emisní povolenky se za posledních 12 měsíců podílely na cenách energií „**maximálně šesti procenty**“, hlavním faktorem drahých energií byl plyn. ([ekonews.cz](https://www.ekonews.cz/stat-vybira-na-emisnich-povolenkach-miliardy-na-zivotni-prostredi-z-nich-vsak-jde-minimum/?utm_source=openai))  \n\nTyto odhady se vztahují k **celkové ceně elektřiny**, nikoli jen k elektřině z uhlí, ale ukazují, že **v koncové ceně** je podíl emisních povolenek mnohem menší.\n\n### 5.2 Příklad rozkladu ceny pro domácnosti (Solární magazín, 2026)\n\nSolární magazín rozepisuje typickou cenu silové elektřiny a odhaduje, jak se na ní podílí jednotlivé zdroje a povolenky: ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\n- Silová elektřina pro domácnost (bez distribuce a DPH): **3,20 Kč/kWh**.  \n- Z toho celkový náklad na **povolenky** (uhlí + plyn) autor odhaduje na **0,57 Kč/kWh** (0,48 Kč na uhlí, 0,09 Kč na plyn). ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\nPodíl povolenek:\n\n- 0,57 / 3,20 ≈ **18 %** z ceny silové elektřiny.  \n- Pokud vezmeme plnou koncovou cenu včetně distribuce a DPH (**6,84 Kč/kWh** podle stejného článku), činí povolenky zhruba **8 % konečné ceny**. ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\nTo je v souladu s výše citovaným rozmezím **10–20 %** od MŽP.\n\n### 5.3 Shrnutí pro koncovou cenu\n\n- V koncové ceně elektřiny (pro domácnosti) tvoří emisní povolenky **řádově jednotky až nižší desítky procent**, nikoli 90 %.  \n- Zdroje (MŽP, Ember, Solární magazín) se shodují na tom, že největší roli při vysokých cenách hrál **zemní plyn** a další faktory, ne samotné povolenky. ([energiebezemisi.cz](https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/))  \n\n**Pokud by tedy výrok „činí 90 % ceny“ byl vztahován ke koncové ceně elektřiny, je v rozporu s dostupnými odhady.**\n\n---\n\n## 6. Celkové hodnocení jednotlivých částí výroku\n\n### 6.1 „Uhlí je zatíženo cenou emisní povolenky naprosto brutálně“\n\n- Data o nákladech uhelných elektráren ukazují, že **náklad na povolenku (při ceně kolem 60–80 €/t)** tvoří dnes **dominantní část variabilních nákladů na výrobu elektřiny z uhlí**. ([energie.cz](https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/))  \n- Emisní povolenky jsou opakovaně zmiňovány jako **hlavní důvod, proč se provoz uhelných elektráren přestává ekonomicky vyplácet** (např. rozhodnutí Sev.en zavřít Počerady a Chvaletice). ([obnovitelne.cz](https://www.obnovitelne.cz/clanek/4373/uhelne-elektrarny-konci-protoze-se-prestaly-vyplacet-emisni-povolenky-funguji?utm_source=openai))  \n\nZ faktického hlediska je tedy tvrzení, že uhlí je „silně zatíženo“ povolenkami, dobře podložené.\n\n### 6.2 „…to činí 90 % ceny“ – interpretace jako **výrobní cena elektřiny z uhlí**\n\n- Modely a expertní odhady pro ČR dávají **podíl povolenek na výrobních nákladech MWh uhelné elektřiny mezi cca 75 a 85 %**. ([energie.cz](https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/))  \n- Některé konkrétní případy (Počerady podle Tykače, model Solárního magazínu) se dostávají **na úroveň ~90 % nebo mírně nad ni**. ([parlamentnilisty.cz](https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499))  \n\nZ tohoto pohledu je **číslo 90 % nadsazeným, ale ne zcela nereálným zjednodušením** pro nejhorší, silně ztrátové uhelné bloky; jako obecné tvrzení pro „uhlí jako takové“ však spíše odpovídá **horní hranici** než typické hodnotě.\n\n### 6.3 „…to činí 90 % ceny“ – interpretace jako **koncová cena elektřiny**\n\n- V koncové ceně elektřiny pro domácnosti či průměrné odběratele vychází podíl povolenek z dostupných odhadů jen na **cca 10–20 %**, resp. někdy i méně. ([energiebezemisi.cz](https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/))  \n- Devadesátiprocentní podíl povolenek na koncové ceně **není podpořen žádným z nalezených seriózních zdrojů**.\n\n---\n\n## 7. Přehled klíčových zdrojů (výběr)\n\n*(Citace jsou zkrácené, aby splňovaly limit, plné znění je dostupné po rozkliknutí odkazů v citacích.)*\n\n1. **Energetický regulační úřad – průměrná cena EUA 2023**  \n   – „…průměrnou tržní cenu povolenky… za rok 2023 ve výši **2 004,49 Kč/t CO₂**.“ ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/prumerna-trzni-cena-povolenky-na-emise-sklenikovych-plynu-za-rok-2023?utm_source=openai))  \n\n2. **Energie.cz – „Přežijí uhelné elektrárny rok 2025?“ (7. 3. 2024)**  \n   – 1 MWh z uhlí = „emise v objemu **0,8 až 1 tuny CO₂**… je na ni tedy třeba přibližně jedna emisní povolenka“, povolenka cca 60 €, provozní náklady cca 20 €. ([energie.cz](https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/))  \n\n3. **Plyn.cz – „Uhelné elektrárny ztrátové už v roce 2027?“ (20. 5. 2025)**  \n   – modelový příklad: „emisní povolenka: **70 EUR**; variabilní složka: **6–8 EUR**; fixní náklady: **10–15 EUR**; celkové náklady: **86–93 EUR/MWh**.“ ([plyn.cz](https://www.plyn.cz/uhelne-elektrarny-ztratove-uz-v-roce-2027))  \n\n4. **ParlamentníListy.cz – výrok Pavla Tykače (28. 11. 2025)**  \n   – „…megawatthodinu… vyrábějí za zhruba **86 eur**, z čehož **80 eur tvoří samotná povolenka a 6 eur cena výroby**.“ ([parlamentnilisty.cz](https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499))  \n\n5. **Solární magazín – Hynek Beran: „Co všechno platíme v ceně elektřiny“ (18. 2. 2026)**  \n   – pro uhlí: „stejná cena jako z jádra, tedy **25 haléřů za kWh**, zbytek ceny **1,95 Kč tvoří emisní povolenka**“ → 1,95 / 2,20 ≈ 89 %. ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n   – pro koncovou cenu: povolenky na uhlí + plyn 0,57 Kč z 3,20 Kč silové elektřiny (≈18 %) a z 6,84 Kč celkové ceny (≈8 %). ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\n6. **Energie bez emisí – rozhovor s Janem Tůmou (MŽP)**  \n   – „Cena povolenky je asi nějakých **10–20 % ceny elektřiny**… Za razantním zvýšením ceny elektřiny je jednoznačně **zvýšení ceny plynu**.“ ([energiebezemisi.cz](https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/))  \n\n7. **Ekonews – analýza think tanku Ember**  \n   – „…emisní povolenky mají jen **marginální vliv** na cenu elektřiny… **maximálně šesti procenty**.“ ([ekonews.cz](https://www.ekonews.cz/stat-vybira-na-emisnich-povolenkach-miliardy-na-zivotni-prostredi-z-nich-vsak-jde-minimum/?utm_source=openai))  \n\n8. **Kurzy.cz / Bydlet.cz – článek o cenách na trzích (2022)**  \n   – citace Pavla Farkače (Sev.en): „u výroby elektřiny v českých uhelných elektrárnách… na produkci **1 MWh** je třeba **jedna tuna uhlí** a… je zapotřebí pokrýt **jednou celou povolenkou**.“ ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/694552-cena-elektriny-na-kratkodobych-trzich-vzrostla-v-roce-2022-az-o-146--soucasnou-stabilizaci-cen/?utm_source=openai))  \n\n9. **SPP – „Emisní povolenky – jejich princip, cena a dopad na domácnosti“ (2025)**  \n   – uvádí aktuální cenu EUA kolem **72,96 €/t** (11. 8. 2025) a shrnuje historický růst k pásmu 70–80 €/t. ([spp.cz](https://www.spp.cz/magazin/emisni-povolenky-co-to-je-jak-funguji-a-proc-ovlivnuji-ceny-energii?utm_source=openai))  \n\n10. **Elektřina.cz – „Emisní povolenky zdražují. Jak ovlivňují cenu elektřiny?“ (2024)**  \n    – konstatuje, že v roce 2023 dosahovala cena EUA až **100 €/t**, v březnu 2024 kolem **61 €/t**. ([elektrina.cz](https://www.elektrina.cz/emisni-povolenky?utm_source=openai))  \n\n---\n\n### Shrnutí pro fakt‑checkera\n\n- **Jádro tvrzení**, že uhlí je silně zatíženo cenou povolenek, je čísly podloženo: povolenky dnes tvoří **většinu výrobních nákladů** uhelné elektřiny (cca ¾ a více).  \n- Konkrétní údaj **„90 % ceny“** je:\n  - **Blízký realitě** pro některé konkrétní, silně ztrátové uhelné bloky (Počerady, model Hynka Berana).  \n  - **Nadměrný** jako obecný popis uhelné výroby (typické hodnoty spíše 75–85 % výrobní ceny).  \n  - **Zjevně nepravdivý**, pokud by se vztahoval ke **koncové ceně elektřiny pro odběratele** (tam je podíl povolenek cca 10–20 % nebo méně).\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:16:33\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nJenom jedna věta, pane vicepremiére, samozřejmě záleží na tom, jak draze tu cenu prodáváte a samozřejmě také, vyrábíte, a samozřejmě taky záleží na tom, co se děje tam, kde se s tou cenou obchoduje, a to je další problém, o který jsme se snažili změnit ho v Evropě, že ta cena se vypočítává potom podle té nejdražší složky, to znamená, že cena energie, elektřiny je závislá na ceně plynu, což je špatně. My jsme se snažili o to, aby se to rozdělilo a já věřím, že v tomto byste mohli pokračovat a usilovat v Evropě o to, aby se toto oddělilo.\\n00:17:07\\nTerezie Tománková,moderátorka\\nPánové, děkuji. Já s dovolením, já půjdu, já půjdu do budoucna. Pane ministře, skončila těžba černého uhlí, bude končit hnědé uhlí, Dukovany, Temelín, obrovské projekty za obrovské peníze, nejsou na to povolení, peníze nejsou ani v rozpočtu, co nás zachrání do té doby? Budou to obnovitelné zdroje, poroste větší podíl obnovitelných zdrojů?\\n00:17:27\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nTady byly dotační závody o podporu obnovitelných zdrojů. Já netvrdím, že obnovitelný zdroj je principiálně špatně, je to jeden ze zdrojů do budoucnosti. V každém případě o co více vy jste dotačně podporovali obnovitelné zdroje, a byly to fakt závody, tak o to více se potom musí investovat právě do těch distribučních sítí a do přenosových soustav, a to zvyšuje tu regulovanou složku té elektřiny, takže bohužel to s sebou nese i stinné stránky. Co se týká toho uhlí, tak uhlí je samo o sobě velmi levný a stabilní zdroj. Problém je v tom, že je zatížen cenou emisní povolenky naprosto brutálně, to činí 90 % ceny. To nevyčítám vám, to je prostě dlouhodobá záležitost. Vy jste proti tomu příliš nebojovali, ale popravdě řečeno, Evropa s tímhle tím má obrovský problém. A to tažení proti cenám emisních povolenek jsme zahájili až za naší vlády. A co se týká těch nových bloků, ať už to jsou jaderné bloky v Dukovanech, asi jste zaregistrovali, že jsme zahájili rovněž přípravu temelínských bloků, i když o tom ještě není rozhodnuto a pochopitelně pracujeme dále na malých modulárních reaktorech. Tak to jsou investice, které nefinancuje přímo stát, jsou to investovány, jsou investovány prostřednictvím, v tomhle případě buď ČEZu nebo jeho dceřiné společnosti, kterou má stát sice pod kontrolou, ale pochopitelně jejich to, co se bude splácet za ty zdroje, bude hrazeno pochopitelně z výnosu z té energie, to znamená, je to dáno tzv. kontrahovanou cenou, tzv., tzv. systémem kontraktu /nesrozumitelné/, jinými slovy, kdy vykupujeme za předem danou cenu.\\n00:18:54\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: '(Uhlí jako zdroj energie, pozn. Demagog.cz) je zatížen cenou emisní povolenky naprosto brutálně, to činí 90 % ceny.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 387.16 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Emisní povolenky dnes tvoří většinu výrobních nákladů uhelných elektráren, zhruba 75–85 %. Číslo 90 % odpovídá jen některým extrémně ztrátovým blokům a rozhodně ne koncové ceně elektřiny. Výrok proto hodnotíme jako zavádějící.</p>\n\n<p>V posuzovaném výroku se tvrdí, že uhlí jako zdroj energie je emisní povolenkou zatíženo „naprosto brutálně“ a že tato povolenka tvoří 90 % ceny. Abychom výrok mohli ověřit, rozlišujeme dvě dílčí tvrzení: zaprvé hodnotový soud o „naprosto brutálním“ zatížení uhlí, zadruhé číselné tvrzení, že emisní povolenka tvoří 90 % ceny. U druhého tvrzení je navíc nejasné, zda se mluví o výrobní ceně elektřiny z uhlí, nebo o koncové ceně pro zákazníky, proto prověřujeme obě možné interpretace.</p>\n\n<p>Nejprve je potřeba připomenout, jak drahé emisní povolenky v posledních letech byly. Podle přehledu Energetického regulačního úřadu zveřejněného na portálu <a href=\"https://www.prumyslovaekologie.cz/info/prumerna-trzni-cena-povolenky-na-emise-sklenikovych-plynu-za-rok-2023?utm_source=openai\">Průmyslová ekologie</a> činila průměrná tržní cena povolenky za rok 2023 zhruba 2 004 Kč za tunu CO₂, tedy asi 80 eur. Analytický článek na serveru <a href=\"https://www.elektrina.cz/emisni-povolenky?utm_source=openai\">Elektřina.cz</a> popisuje, že v roce 2023 se ceny povolenek vyšplhaly až ke 100 eurům za tunu a v březnu 2024 se pohybovaly kolem 61 eur. Aktuální úroveň okolo 70 eur za tunu pak dokládá i přehled dodavatele SPP na stránce <a href=\"https://www.spp.cz/magazin/emisni-povolenky-co-to-je-jak-funguji-a-proc-ovlivnuji-ceny-energii?utm_source=openai\">SPP.cz</a>.</p>\n\n<p>Kolik povolenek je potřeba na výrobu 1 MWh elektřiny z uhlí, shrnuje odborný text na serveru <a href=\"https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/\">Energie.cz</a>. Podle něj vyvolá výroba 1 MWh v uhelné elektrárně emise zhruba 0,8–1 tuny CO₂, takže je k ní potřeba přibližně jedna povolenka; autor to formuluje slovy <i>„je na ni tedy třeba přibližně jedna emisní povolenka“</i>. Podobně manažer skupiny Sev.en Pavel Farkač v článku na portálu <a href=\"https://zpravy.kurzy.cz/694552-cena-elektriny-na-kratkodobych-trzich-vzrostla-v-roce-2022-az-o-146--soucasnou-stabilizaci-cen/?utm_source=openai\">Kurzy.cz</a> uvádí, že na výrobu 1 MWh v českých uhelných elektrárnách je třeba jedna povolenka. Náklad na povolenky se tedy prakticky rovná jejich tržní ceně přepočtené na 1 MWh.</p>\n\n<p>Stejný článek na <a href=\"https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/\">Energie.cz</a> nabízí i modelový příklad nákladové ceny uhelné elektřiny: při ceně povolenky okolo 60 eur připadá přibližně 60 eur na samotnou povolenku a asi 20 eur na uhlí a ostatní provozní náklady, tedy celkem 80 eur na 1 MWh. V tomto modelu tvoří povolenka asi tři čtvrtiny výrobních nákladů.</p>\n\n<p>Podrobný rozklad nákladů uhelné elektrárny přináší také server <a href=\"https://www.plyn.cz/uhelne-elektrarny-ztratove-uz-v-roce-2027\">Plyn.cz</a>. Autor zde počítá s povolenkou za 70 eur, variabilními náklady 6–8 eur a fixními náklady 10–15 eur na MWh, takže celkové náklady vycházejí na 86–93 eur. Z tohoto součtu tvoří povolenka přibližně 75–80 % výrobní ceny 1 MWh elektřiny z uhlí.</p>\n\n<p>Ještě vyšší podíl povolenek uvádějí některé konkrétní případy. V rozhovoru s podnikatelem Pavlem Tykačem na serveru <a href=\"https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499\">ParlamentníListy.cz</a> se například u Elektrárny Počerady uvádí, že 1 MWh elektřiny vyrábí za zhruba 86 eur, z čehož asi 80 eur připadá na povolenku a pouhých 6 eur na vlastní výrobu; Tykač to shrnuje větou <i>„80 eur z 86 je povolenka“</i>. Energetický analytik Hynek Beran v článku pro <a href=\"https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/\">Solární magazín</a> odhaduje, že u uhlí činí samotná výroba asi 0,25 Kč za kWh, kdežto náklad na povolenku 1,95 Kč za kWh; zhruba 1,95 Kč z celkových 2,20 Kč tak podle něj tvoří povolenka, tedy přibližně 89 % výrobní ceny. Komentář na serveru <a href=\"https://www.epochtimes.cz/2024/01/05/kolik-by-stala-elektrina-v-cesku-bez-zelenych-politik/?utm_source=openai\">Epoch Times</a> pak pro určité období uvádí burzovní cenu elektřiny kolem 2,30 Kč za kWh, z čehož asi 1,90 Kč připadá na povolenku, tedy něco přes 80 %.</p>\n\n<p>Z těchto nezávislých výpočtů vyplývá, že u běžné výroby elektřiny z uhlí v Česku tvoří náklad na emisní povolenky zhruba 75–85 % výrobní ceny 1 MWh, zatímco hodnoty kolem 90 % se objevují u některých konkrétních, ekonomicky nejproblematičtějších uhelných bloků. Zároveň platí, že právě vysoké ceny povolenek jsou jedním z hlavních důvodů, proč se provoz uhelných elektráren přestává vyplácet, jak popisuje například analytický text na portálu <a href=\"https://www.obnovitelne.cz/clanek/4373/uhelne-elektrarny-konci-protoze-se-prestaly-vyplacet-emisni-povolenky-funguji?utm_source=openai\">Obnovitelne.cz</a>.</p>\n\n<p>Pokud však tvrzení o „90 % ceny“ vztáhneme ke koncové ceně elektřiny, kterou platí domácnosti a firmy, data vypadají jinak. Vedoucí oddělení obchodování s emisemi na Ministerstvu životního prostředí Jan Tůma v rozhovoru pro projekt <a href=\"https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/\">Energie bez emisí</a> odhaduje, že emisní povolenky se podílejí na ceně elektřiny zhruba 10–20 % a že hlavním faktorem prudkého růstu cen byl drahý zemní plyn, nikoli samotné povolenky. Analýzu think-tanku Ember shrnutou serverem <a href=\"https://www.ekonews.cz/stat-vybira-na-emisnich-povolenkach-miliardy-na-zivotni-prostredi-z-nich-vsak-jde-minimum/?utm_source=openai\">Ekonews</a> pak vyznívá tak, že v posledních dvanácti měsících se povolenky na cenách energií podílely maximálně asi šesti procenty.</p>\n\n<p>Hynek Beran v již citovaném článku na <a href=\"https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/\">Solárním magazínu</a> rozepisuje i typickou koncovou cenu pro domácnosti. Uvádí, že u silové elektřiny bez distribučních poplatků a DPH s cenou kolem 3,20 Kč za kWh připadá na povolenky u uhlí a plynu dohromady přibližně 0,57 Kč, tedy asi 18 % ceny silové elektřiny. Po započtení distribuce a daní vychází celková koncová cena asi na 6,84 Kč za kWh, přičemž povolenky podle tohoto výpočtu tvoří jen zhruba 8 %.</p>\n\n<p>Nyní můžeme vyhodnotit jednotlivé části výroku. Hodnotová charakteristika, že je uhlí emisními povolenkami zatíženo „naprosto brutálně“, je subjektivní názor, nikoli ověřitelný fakt, a proto ji nehodnotíme.</p>\n\n<p>Faktické tvrzení, že náklad na emisní povolenku „činí 90 % ceny“, lze vyložit jako výrok o výrobní ceně elektřiny z uhlí. Jak ukazují modelové výpočty na serverech <a href=\"https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/\">Energie.cz</a> a <a href=\"https://www.plyn.cz/uhelne-elektrarny-ztratove-uz-v-roce-2027\">Plyn.cz</a>, běžný podíl povolenek na nákladech uhelných elektráren se pohybuje přibližně mezi třemi čtvrtinami a čtyřmi pětinami výrobní ceny. Hodnoty blížící se 90 % se objevují v některých konkrétních případech, například u Počerad popsaných na <a href=\"https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499\">ParlamentníchListech.cz</a> nebo v modelu Hynka Berana na <a href=\"https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/\">Solárním magazínu</a>, nejde však o typickou hodnotu pro „uhlí jako zdroj energie“ obecně. Z tohoto hlediska je číslo 90 % zřetelně nadsazené, i když má určitou oporu v extrémních případech.</p>\n\n<p>Pokud posluchač výrok chápe tak, že 90 % ceny představuje povolenka v koncové ceně elektřiny pro domácnosti či firmy, dostává se tento výklad do přímého rozporu s uvedenými odhady Jana Tůmy, analýzou Ember shrnutou na <a href=\"https://www.ekonews.cz/stat-vybira-na-emisnich-povolenekach-miliardy-na-zivotni-prostredi-z-nich-vsak-jde-minimum/?utm_source=openai\">Ekonews</a> i výpočty na <a href=\"https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/\">Solárním magazínu</a>, podle nichž tvoří povolenky jen jednotky až nižší desítky procent koncové ceny elektřiny. V této interpretaci je tvrzení fakticky nepravdivé.</p>\n\n<p>Celkově tedy dostupná data potvrzují, že emisní povolenky skutečně tvoří dominantní část výrobních nákladů uhelných elektráren a významně přispívají k jejich ekonomické nevýhodnosti, jak ukazují modely nákladů na serverech <a href=\"https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/\">Energie.cz</a> a <a href=\"https://www.plyn.cz/uhelne-elektrarny-ztratove-uz-v-roce-2027\">Plyn.cz</a>. Zároveň ale číslo 90 % neodpovídá běžnému průměru v sektoru a v případě koncových cen elektřiny je zcela mimo realitu. Výrok proto hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0b95879155dbb5620069a6d64d19d88195bdc901af933e0ddf",
+    "created_at": 1772541517.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0b95879155dbb5620069a6d656626081958766f83641a846a3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d6643a008195b8a0fe5b67e3ef89",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d664ec408195bb9051f81042b475",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d6655b008195a13a4d0097835640",
+        "action": {
+          "query": "\"90 % ceny\" \"emisní povolenky\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"90 % ceny\" \"emisní povolenky\"",
+            "podíl ceny emisních povolenek na ceně elektřiny z uhlí",
+            "\"emisní povolenka\" náklady na výrobu elektřiny z uhlí",
+            "ERU vliv ceny emisních povolenek na cenu elektřiny"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d667b75c819581dd193a98b4e4a6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d66f697c819590f147da85da32d1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d6709c148195a6e32c542c705682",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d675439881959ce22ed883182269",
+        "action": {
+          "query": "\"kolik z ceny elektřiny\" \"emisní povolenky\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"kolik z ceny elektřiny\" \"emisní povolenky\"",
+            "\"podíl\" \"emisní povolenky\" \"uhelné elektrárny\"",
+            "\"Fakta o klimatu\" \"uhelné\" \"emisní povolenky\"",
+            "\"náklady\" \"uhelné elektrárny\" \"emisní povolenky\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d67900ac819586624c2ef0b9c6df",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d6815cb48195b5c869bf3ebad92b",
+        "action": {
+          "query": "\"Fakta o klimatu\" \"uhelné\" \"cená\" \"povolenky\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Fakta o klimatu\" \"uhelné\" \"cená\" \"povolenky\"",
+            "\"cena povolenky\" \"Kčerál\" \"uhelné\"",
+            "\"Struktura ceny elektřiny\" \"emisní povolenky\"",
+            "\"kolik dělají povolenky\" \"cena elektřiny\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d686cba8819588b8cfb296a0cd94",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d68a3e40819594aa854545b2fce9",
+        "action": {
+          "query": "emisní faktor \"uhelné elektrárny\" t CO2/MWh",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "emisní faktor \"uhelné elektrárny\" t CO2/MWh",
+            "\"emise CO2\" \"hnědé uhlí\" \"MWh\"",
+            "\"emisní faktor\" \"hnědé uhlí\" MWh",
+            "\"kg CO2 na kWh\" \"hnědé uhlí\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d68fa66c81959b77f92310f4a747",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d6a0ed4c819593077d3a15c8761f",
+        "action": {
+          "query": "\"kolik tvoří emisní povolenky\" z ceny elektřiny",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"kolik tvoří emisní povolenky\" z ceny elektřiny",
+            "\"podil\" emisních povolenek na ceně elektřiny ERU",
+            "\"emisní povolenky\" \"struktura ceny elektřiny\"",
+            "\"vliv\" \"emisních povolenek\" \"cena elektřiny\" Česko"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d6a50e248195a5114e08833dc21d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d6b314b481959ecf0a852c74fc4f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d6b4a9cc8195b5c4969dbcb0cd5c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d6b56cc881959455831ea406c1cc",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d6b7df7081958af31e4b15f06a92",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d6b92e088195ac55ff1313becf2a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d6bbbd148195b718789cf11eb6d0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d6c062c4819590c2994ab104b448",
+        "action": {
+          "query": "\"Fakta o klimatu\" \"elektrinu prodrazuji emisni povolenky\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Fakta o klimatu\" \"elektrinu prodrazuji emisni povolenky\"",
+            "\"Fakta o klimatu\" \"výroba elektřiny z uhlí\" náklady",
+            "\"emise v objemu 0,8 až 1 tuny\" elektřiny Fakta o klimatu",
+            "\"do ceny elektřiny\" \"emisní povolenky\" \"Fakta o klimatu\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d6c55b348195be2afc7c9b845fe8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d6d199fc8195aa17eacb3412aebd",
+        "action": {
+          "query": "\"Michal Macenauer\" 0,7 Kč za kilowatthodinu povolenky",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Michal Macenauer\" 0,7 Kč za kilowatthodinu povolenky",
+            "\"0,7 Kč za kilowatthodinu\" \"emisní povolenky\"",
+            "\"Macenauer\" \"emisní povolenky\" \"cena elektřiny\"",
+            "\"0,7 Kč/kWh\" \"emisní\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d6d82c948195a22d8fd623542450",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d6dc4c1c8195b5ba60493a7a1c3a",
+        "action": {
+          "query": "\"povolenky\" \"0,7\" \"Kč\" \"kWh\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"povolenky\" \"0,7\" \"Kč\" \"kWh\"",
+            "\"emisni povolenky\" \"0,7 Kc\"",
+            "\"povolenky\" \"0,7 kc\" \"elektriny\"",
+            "\"Macenauer\" \"0,7\" \"K\\u010d\" \"kilowatthodinu\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d6e56a0881958ead8908ba36e75f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_0b95879155dbb5620069a6d7150b348195aa31518b9c471a22",
+        "code": "share_tykac = 80/86\nshare_plyn_low = 70/86\nshare_plyn_high = 70/93\nshare_energie = 60/(60+20)\nshare_solarnimag = 1.95/2.20\nshare_epoch = 1.9/2.3\nshare_tykac, share_plyn_low, share_plyn_high, share_energie, share_solarnimag, share_epoch",
+        "container_id": "cntr_69a6d655358c819399f9f9019284f33007a56c81adf1a3a5",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d719e9bc8195a72e52244caa7943",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_0b95879155dbb5620069a6d71c4870819595f0648724c3d9a1",
+        "code": "share_solmix = 0.57/3.20\nshare_solmix",
+        "container_id": "cntr_69a6d655358c819399f9f9019284f33007a56c81adf1a3a5",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d720203481959fcbdeb6e39dfced",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d72508408195b341e461b0073cc1",
+        "action": {
+          "query": "\"prumerná cena emisní povolenky\" 2023 61 eur",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"prumerná cena emisní povolenky\" 2023 61 eur",
+            "\"průměrná cena\" \"emisních povolenek\" 2023 ČEZ",
+            "\"průměrná cena emisní povolenky\" 2021 \"Energetický regulační úřad\"",
+            "\"Průměrná cena emisní povolenky v roce\" 2021 ERU"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d72a6f808195aa452e02ae1d9f8b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0b95879155dbb5620069a6d7430ea08195bd1d7377e3e98b7f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d744e55c81958181d4e81f782c6e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_0b95879155dbb5620069a6d750ee2081958297235bdf289e5f",
+        "code": "0.57/6.84",
+        "container_id": "cntr_69a6d655358c819399f9f9019284f33007a56c81adf1a3a5",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_0b95879155dbb5620069a6d7551fa081959b9e6b450592e532",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0b95879155dbb5620069a6d77e48248195867d490b439da1bb",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 953,
+                "start_index": 800,
+                "title": "Průměrná tržní cena povolenky na emise skleníkových plynů za rok 2023 | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/prumerna-trzni-cena-povolenky-na-emise-sklenikovych-plynu-za-rok-2023?utm_source=openai"
+              },
+              {
+                "end_index": 1269,
+                "start_index": 1192,
+                "title": "Emisní povolenky zdražují. Jak ovlivňují cenu elektřiny? | Elektřina.cz",
+                "type": "url_citation",
+                "url": "https://www.elektrina.cz/emisni-povolenky?utm_source=openai"
+              },
+              {
+                "end_index": 1492,
+                "start_index": 1368,
+                "title": "Emisní povolenky – jejich princip, cena a dopad na domácnosti | SPP",
+                "type": "url_citation",
+                "url": "https://www.spp.cz/magazin/emisni-povolenky-co-to-je-jak-funguji-a-proc-ovlivnuji-ceny-energii?utm_source=openai"
+              },
+              {
+                "end_index": 1949,
+                "start_index": 1875,
+                "title": "Přežijí uhelné elektrárny rok 2025? | Energie.cz",
+                "type": "url_citation",
+                "url": "https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/"
+              },
+              {
+                "end_index": 2288,
+                "start_index": 2123,
+                "title": "Cena elektřiny na krátkodobých trzích vzrostla v roce 2022 až o 146 %. Současnou stabilizaci cen pocítí koncoví zákazníci se zpožděním | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/694552-cena-elektriny-na-kratkodobych-trzich-vzrostla-v-roce-2022-az-o-146--soucasnou-stabilizaci-cen/?utm_source=openai"
+              },
+              {
+                "end_index": 2964,
+                "start_index": 2890,
+                "title": "Přežijí uhelné elektrárny rok 2025? | Energie.cz",
+                "type": "url_citation",
+                "url": "https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/"
+              },
+              {
+                "end_index": 3199,
+                "start_index": 3125,
+                "title": "Uhelné elektrárny ztrátové už v roce 2027? - Plyn.cz",
+                "type": "url_citation",
+                "url": "https://www.plyn.cz/uhelne-elektrarny-ztratove-uz-v-roce-2027"
+              },
+              {
+                "end_index": 3982,
+                "start_index": 3839,
+                "title": "\n\tTykač zavírá elektrárny: Výroba elektřiny? 80 eur z 86 je povolenka | ParlamentniListy.cz – politika ze všech stran\n",
+                "type": "url_citation",
+                "url": "https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499"
+              },
+              {
+                "end_index": 4500,
+                "start_index": 4415,
+                "title": "Co všechno platíme v ceně elektřiny | Solární magazín",
+                "type": "url_citation",
+                "url": "https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/"
+              },
+              {
+                "end_index": 4733,
+                "start_index": 4648,
+                "title": "Co všechno platíme v ceně elektřiny | Solární magazín",
+                "type": "url_citation",
+                "url": "https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/"
+              },
+              {
+                "end_index": 5015,
+                "start_index": 4887,
+                "title": "Kolik by stála elektřina v Česku bez zelených politik?",
+                "type": "url_citation",
+                "url": "https://www.epochtimes.cz/2024/01/05/kolik-by-stala-elektrina-v-cesku-bez-zelenych-politik/?utm_source=openai"
+              },
+              {
+                "end_index": 7010,
+                "start_index": 6913,
+                "title": "Emisní povolenky skončí, až budeme mít dekarbonizováno - Energie bez emisí",
+                "type": "url_citation",
+                "url": "https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/"
+              },
+              {
+                "end_index": 7367,
+                "start_index": 7220,
+                "title": "Stát vybírá na povolenkách miliardy. Na životní prostředí z nich však jde minimum",
+                "type": "url_citation",
+                "url": "https://www.ekonews.cz/stat-vybira-na-emisnich-povolenkach-miliardy-na-zivotni-prostredi-z-nich-vsak-jde-minimum/?utm_source=openai"
+              },
+              {
+                "end_index": 7810,
+                "start_index": 7725,
+                "title": "Co všechno platíme v ceně elektřiny | Solární magazín",
+                "type": "url_citation",
+                "url": "https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/"
+              },
+              {
+                "end_index": 8100,
+                "start_index": 8015,
+                "title": "Co všechno platíme v ceně elektřiny | Solární magazín",
+                "type": "url_citation",
+                "url": "https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/"
+              },
+              {
+                "end_index": 8404,
+                "start_index": 8319,
+                "title": "Co všechno platíme v ceně elektřiny | Solární magazín",
+                "type": "url_citation",
+                "url": "https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/"
+              },
+              {
+                "end_index": 8885,
+                "start_index": 8788,
+                "title": "Emisní povolenky skončí, až budeme mít dekarbonizováno - Energie bez emisí",
+                "type": "url_citation",
+                "url": "https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/"
+              },
+              {
+                "end_index": 9387,
+                "start_index": 9313,
+                "title": "Přežijí uhelné elektrárny rok 2025? | Energie.cz",
+                "type": "url_citation",
+                "url": "https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/"
+              },
+              {
+                "end_index": 9731,
+                "start_index": 9577,
+                "title": "Uhelné elektrárny končí, protože se přestaly vyplácet. Emisní povolenky fungují | Obnovitelně",
+                "type": "url_citation",
+                "url": "https://www.obnovitelne.cz/clanek/4373/uhelne-elektrarny-konci-protoze-se-prestaly-vyplacet-emisni-povolenky-funguji?utm_source=openai"
+              },
+              {
+                "end_index": 10116,
+                "start_index": 10042,
+                "title": "Přežijí uhelné elektrárny rok 2025? | Energie.cz",
+                "type": "url_citation",
+                "url": "https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/"
+              },
+              {
+                "end_index": 10392,
+                "start_index": 10249,
+                "title": "\n\tTykač zavírá elektrárny: Výroba elektřiny? 80 eur z 86 je povolenka | ParlamentniListy.cz – politika ze všech stran\n",
+                "type": "url_citation",
+                "url": "https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499"
+              },
+              {
+                "end_index": 10953,
+                "start_index": 10856,
+                "title": "Emisní povolenky skončí, až budeme mít dekarbonizováno - Energie bez emisí",
+                "type": "url_citation",
+                "url": "https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/"
+              },
+              {
+                "end_index": 11515,
+                "start_index": 11362,
+                "title": "Průměrná tržní cena povolenky na emise skleníkových plynů za rok 2023 | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/prumerna-trzni-cena-povolenky-na-emise-sklenikovych-plynu-za-rok-2023?utm_source=openai"
+              },
+              {
+                "end_index": 11827,
+                "start_index": 11753,
+                "title": "Přežijí uhelné elektrárny rok 2025? | Energie.cz",
+                "type": "url_citation",
+                "url": "https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/"
+              },
+              {
+                "end_index": 12136,
+                "start_index": 12062,
+                "title": "Uhelné elektrárny ztrátové už v roce 2027? - Plyn.cz",
+                "type": "url_citation",
+                "url": "https://www.plyn.cz/uhelne-elektrarny-ztratove-uz-v-roce-2027"
+              },
+              {
+                "end_index": 12467,
+                "start_index": 12324,
+                "title": "\n\tTykač zavírá elektrárny: Výroba elektřiny? 80 eur z 86 je povolenka | ParlamentniListy.cz – politika ze všech stran\n",
+                "type": "url_citation",
+                "url": "https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499"
+              },
+              {
+                "end_index": 12787,
+                "start_index": 12702,
+                "title": "Co všechno platíme v ceně elektřiny | Solární magazín",
+                "type": "url_citation",
+                "url": "https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/"
+              },
+              {
+                "end_index": 13000,
+                "start_index": 12915,
+                "title": "Co všechno platíme v ceně elektřiny | Solární magazín",
+                "type": "url_citation",
+                "url": "https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/"
+              },
+              {
+                "end_index": 13301,
+                "start_index": 13204,
+                "title": "Emisní povolenky skončí, až budeme mít dekarbonizováno - Energie bez emisí",
+                "type": "url_citation",
+                "url": "https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/"
+              },
+              {
+                "end_index": 13600,
+                "start_index": 13453,
+                "title": "Stát vybírá na povolenkách miliardy. Na životní prostředí z nich však jde minimum",
+                "type": "url_citation",
+                "url": "https://www.ekonews.cz/stat-vybira-na-emisnich-povolenkach-miliardy-na-zivotni-prostredi-z-nich-vsak-jde-minimum/?utm_source=openai"
+              },
+              {
+                "end_index": 14027,
+                "start_index": 13862,
+                "title": "Cena elektřiny na krátkodobých trzích vzrostla v roce 2022 až o 146 %. Současnou stabilizaci cen pocítí koncoví zákazníci se zpožděním | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/694552-cena-elektriny-na-kratkodobych-trzich-vzrostla-v-roce-2022-az-o-146--soucasnou-stabilizaci-cen/?utm_source=openai"
+              },
+              {
+                "end_index": 14349,
+                "start_index": 14225,
+                "title": "Emisní povolenky – jejich princip, cena a dopad na domácnosti | SPP",
+                "type": "url_citation",
+                "url": "https://www.spp.cz/magazin/emisni-povolenky-co-to-je-jak-funguji-a-proc-ovlivnuji-ceny-energii?utm_source=openai"
+              },
+              {
+                "end_index": 14622,
+                "start_index": 14545,
+                "title": "Emisní povolenky zdražují. Jak ovlivňují cenu elektřiny? | Elektřina.cz",
+                "type": "url_citation",
+                "url": "https://www.elektrina.cz/emisni-povolenky?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Rozklad výroku\n\nVýrok Karla Havlíčka:\n\n> „[Uhlí] je zatížen cenou emisní povolenky naprosto brutálně, **to činí 90 % ceny**.“\n\nMožné interpretace:\n\n1. **Výrobní cena elektřiny z uhlí** – emisní povolenky tvoří cca 90 % nákladů na výrobu 1 MWh z uhelné elektrárny.  \n2. **Koncová cena elektřiny** – emisní povolenky tvoří cca 90 % ceny, kterou platí odběratelé.  \n\nDále ověřuji obě interpretace zvlášť. Hodnotící přídomek „naprosto brutálně“ je hodnotový soud, ten fakticky neověřujeme – zaměřuji se na číselný údaj „90 %“.\n\n---\n\n## 2. Jak drahé byly emisní povolenky v době výroku\n\n### 2.1 Oficiální průměrná cena povolenky\n\nEnergetický regulační úřad (ERÚ) stanovil pro rok 2023 průměrnou tržní cenu emisní povolenky:\n\n- **2 004,49 Kč/t CO₂** (cca 80 €/t) jako vážený průměr cen na burze EEX. ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/prumerna-trzni-cena-povolenky-na-emise-sklenikovych-plynu-za-rok-2023?utm_source=openai))  \n\nTo ukazuje, že v letech těsně před výrokem byly povolenky velmi drahé.\n\n### 2.2 Tržní cena 2024–2025\n\n- Web Elektřina.cz uvádí, že po roce 2023, kdy se povolenky prodávaly až za **100 €/t**, klesla cena v březnu 2024 k cca **61 €/t**. ([elektrina.cz](https://www.elektrina.cz/emisni-povolenky?utm_source=openai))  \n- Dodavatel SPP (ČR/SR) uvádí k 11. srpnu 2025 aktuální cenu povolenky kolem **72,96 €/t CO₂**. ([spp.cz](https://www.spp.cz/magazin/emisni-povolenky-co-to-je-jak-funguji-a-proc-ovlivnuji-ceny-energii?utm_source=openai))  \n\nV době kolem výroku tak vychází **typická cena EUA zhruba 60–80 €/t**.\n\n---\n\n## 3. Kolik povolenek potřebuje 1 MWh elektřiny z uhlí\n\n### 3.1 Emisní intenzita uhelné elektřiny\n\n- Energie.cz (odborný text k ekonomice uhelných elektráren) uvádí, že výroba **1 MWh elektřiny v uhelné elektrárně znamená emise 0,8–1 tuny CO₂**, tedy „je na ni třeba přibližně jedna emisní povolenka“. ([energie.cz](https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/))  \n- Podobně text pro Kurzy.cz/Bydlet.cz cituje manažera Sev.en Pavla Farkače: na výrobu 1 MWh z českých uhelných elektráren je potřeba „přibližně **jedna celá povolenka**“. ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/694552-cena-elektriny-na-kratkodobych-trzich-vzrostla-v-roce-2022-az-o-146--soucasnou-stabilizaci-cen/?utm_source=openai))  \n\n**Závěr:** Pro 1 MWh elektřiny z uhlí je nutné zhruba **1 EUA**, takže **náklad na povolenky ≈ aktuální cena EUA v €/MWh**.\n\nPři ceně 60–80 €/t tak samotná povolenka zdraží 1 MWh uhelné elektřiny o 60–80 €.\n\n---\n\n## 4. Podíl povolenek na *výrobní ceně* elektřiny z uhlí\n\nZde jde o náklady výrobce (uhelné elektrárny), nikoli o konečnou cenu pro domácnosti.\n\n### 4.1 Modelové výpočty a odhady\n\n#### a) Energie.cz (7. 3. 2024)\n\nČlánek o rentabilitě uhelných elektráren popisuje:\n\n- cena povolenky cca **60 €/MWh**,  \n- **provozní náklady včetně uhlí cca 20 €/MWh**,  \n- celkem tedy cca **80 €/MWh**. ([energie.cz](https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/))  \n\nPodíl povolenky na výrobní ceně:\n\n- 60 / (60 + 20) ≈ **75 % výrobních nákladů**.\n\n#### b) Plyn.cz (20. 5. 2025)\n\nModelový příklad nákladů uhelné elektrárny: ([plyn.cz](https://www.plyn.cz/uhelne-elektrarny-ztratove-uz-v-roce-2027))  \n\n- emisní povolenka: **70 €**,  \n- variabilní složka (uhlí a další vstupy): **6–8 €**,  \n- fixní náklady (mzdy, servis atp.): **10–15 €**,  \n- celkové náklady: **86–93 €/MWh**.\n\nPodíl povolenky:\n\n- 70 / 86 ≈ **81 %** (při dolní hranici),  \n- 70 / 93 ≈ **75 %** (při horní hranici).\n\nTakže **cca 75–81 % celkových nákladů**.\n\n#### c) Pavel Tykač (Počerady)\n\nPodnikatel v energetice Pavel Tykač (majitel skupiny Sev.en) popisuje ekonomiku Elektrárny Počerady:\n\n> „megawatthodinu elektřiny dnes vyrábějí za zhruba **86 eur**, z čehož **80 eur tvoří samotná povolenka** a pouhých **6 eur** skutečné výrobní náklady – uhlí, doprava a provoz“ ([parlamentnilisty.cz](https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499))  \n\nPodíl povolenky:\n\n- 80 / 86 ≈ **93 % výrobních nákladů**.\n\nJde o **extrémní případ** pro konkrétní starší elektrárnu, ale přímo odpovídá výroku „90 %“.\n\n#### d) Solární magazín (18. 2. 2026, Hynek Beran)\n\nAutor – energetický expert – odhaduje nákladovou cenu elektřiny z jednotlivých zdrojů. U uhlí píše:\n\n> u uhlí za výrobu „**stejnou cenu jako z jádra, tedy 25 haléřů za kWh**, zbytek ceny **1,95 Kč tvoří emisní povolenka**.“ ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\nCelková odhadovaná cena elektřiny z uhlí v jeho modelu:\n\n- **2,20 Kč/kWh**, z toho **1,95 Kč/kWh povolenka** a **0,25 Kč/kWh palivo a provoz**. ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\nPodíl povolenky:\n\n- 1,95 / 2,20 ≈ **89 % výrobní ceny z uhlí**.\n\n#### e) Další odhady\n\nKomentář v Epoch Times (5. 1. 2024) uvádí pro tehdejší poměry: ([epochtimes.cz](https://www.epochtimes.cz/2024/01/05/kolik-by-stala-elektrina-v-cesku-bez-zelenych-politik/?utm_source=openai))  \n\n- burzovní cena elektřiny: **2,30 Kč/kWh**,  \n- cena povolenky připadající na tuto MWh: **1,90 Kč/kWh**,  \n- což odpovídá podílu povolenky **82,6 % z tržní ceny**.\n\n---\n\n### 4.2 Shrnutí pro výrobní cenu uhelné elektřiny\n\nZ různých nezávislých výpočtů vychází podíl nákladů na povolenky na **výrobní nebo tržní ceně 1 MWh uhelné elektřiny** přibližně takto:\n\n| Zdroj / rok                | EUA náklad | Ostatní náklady | Celkem | Podíl povolenek |\n|---------------------------|-----------:|----------------:|-------:|----------------:|\n| Energie.cz (2024)        | 60 €       | 20 €            | 80 €   | ~**75 %**       |\n| Plyn.cz (2025)           | 70 €       | 16–23 €         | 86–93 €| ~**75–81 %**    |\n| Tykač, Počerady (2025)   | 80 €       | 6 €             | 86 €   | ~**93 %**       |\n| Solární magazín (2026)   | 1,95 Kč    | 0,25 Kč         | 2,20 Kč| ~**89 %**       |\n| Epoch Times (2024)       | 1,90 Kč    | 0,40 Kč         | 2,30 Kč| ~**83 %**       |\n\n**Závěr pro interpretaci „výrobní cena z uhlí“:**  \n- U většiny modelů a odhadů se podíl povolenek na výrobních nákladech **pohybuje kolem 75–85 %**.  \n- V některých konkrétních případech (Počerady, model Solárního magazínu) se dostáváme **téměř přesně k 90 %**.  \n\nTvrzení „činí 90 % ceny“ tak **odpovídá horní hraně reálně uváděných hodnot** pro některé uhelné bloky, ale **není typickou hodnotou pro celý uhelný sektor**.\n\n---\n\n## 5. Podíl povolenek na *koncové* ceně elektřiny pro zákazníky\n\nPokud by výrok měl být chápán tak, že povolenky tvoří 90 % ceny, kterou platí domácnosti či firmy, vyplývá něco jiného.\n\n### 5.1 Odhady odborníků a oficiálních institucí\n\n- **Jan Tůma**, vedoucí oddělení obchodování s emisemi na MŽP, v rozhovoru pro platformu Energie bez emisí říká:  \n  > „Cena povolenky je asi nějakých **10–20 % ceny elektřiny**… Za razantním zvýšením ceny elektřiny je jednoznačně **zvýšení ceny plynu**.“ ([energiebezemisi.cz](https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/))  \n\n- Článek Ekonews shrnuje analýzu think tanku **Ember**:  \n  emisní povolenky se za posledních 12 měsíců podílely na cenách energií „**maximálně šesti procenty**“, hlavním faktorem drahých energií byl plyn. ([ekonews.cz](https://www.ekonews.cz/stat-vybira-na-emisnich-povolenkach-miliardy-na-zivotni-prostredi-z-nich-vsak-jde-minimum/?utm_source=openai))  \n\nTyto odhady se vztahují k **celkové ceně elektřiny**, nikoli jen k elektřině z uhlí, ale ukazují, že **v koncové ceně** je podíl emisních povolenek mnohem menší.\n\n### 5.2 Příklad rozkladu ceny pro domácnosti (Solární magazín, 2026)\n\nSolární magazín rozepisuje typickou cenu silové elektřiny a odhaduje, jak se na ní podílí jednotlivé zdroje a povolenky: ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\n- Silová elektřina pro domácnost (bez distribuce a DPH): **3,20 Kč/kWh**.  \n- Z toho celkový náklad na **povolenky** (uhlí + plyn) autor odhaduje na **0,57 Kč/kWh** (0,48 Kč na uhlí, 0,09 Kč na plyn). ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\nPodíl povolenek:\n\n- 0,57 / 3,20 ≈ **18 %** z ceny silové elektřiny.  \n- Pokud vezmeme plnou koncovou cenu včetně distribuce a DPH (**6,84 Kč/kWh** podle stejného článku), činí povolenky zhruba **8 % konečné ceny**. ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\nTo je v souladu s výše citovaným rozmezím **10–20 %** od MŽP.\n\n### 5.3 Shrnutí pro koncovou cenu\n\n- V koncové ceně elektřiny (pro domácnosti) tvoří emisní povolenky **řádově jednotky až nižší desítky procent**, nikoli 90 %.  \n- Zdroje (MŽP, Ember, Solární magazín) se shodují na tom, že největší roli při vysokých cenách hrál **zemní plyn** a další faktory, ne samotné povolenky. ([energiebezemisi.cz](https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/))  \n\n**Pokud by tedy výrok „činí 90 % ceny“ byl vztahován ke koncové ceně elektřiny, je v rozporu s dostupnými odhady.**\n\n---\n\n## 6. Celkové hodnocení jednotlivých částí výroku\n\n### 6.1 „Uhlí je zatíženo cenou emisní povolenky naprosto brutálně“\n\n- Data o nákladech uhelných elektráren ukazují, že **náklad na povolenku (při ceně kolem 60–80 €/t)** tvoří dnes **dominantní část variabilních nákladů na výrobu elektřiny z uhlí**. ([energie.cz](https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/))  \n- Emisní povolenky jsou opakovaně zmiňovány jako **hlavní důvod, proč se provoz uhelných elektráren přestává ekonomicky vyplácet** (např. rozhodnutí Sev.en zavřít Počerady a Chvaletice). ([obnovitelne.cz](https://www.obnovitelne.cz/clanek/4373/uhelne-elektrarny-konci-protoze-se-prestaly-vyplacet-emisni-povolenky-funguji?utm_source=openai))  \n\nZ faktického hlediska je tedy tvrzení, že uhlí je „silně zatíženo“ povolenkami, dobře podložené.\n\n### 6.2 „…to činí 90 % ceny“ – interpretace jako **výrobní cena elektřiny z uhlí**\n\n- Modely a expertní odhady pro ČR dávají **podíl povolenek na výrobních nákladech MWh uhelné elektřiny mezi cca 75 a 85 %**. ([energie.cz](https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/))  \n- Některé konkrétní případy (Počerady podle Tykače, model Solárního magazínu) se dostávají **na úroveň ~90 % nebo mírně nad ni**. ([parlamentnilisty.cz](https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499))  \n\nZ tohoto pohledu je **číslo 90 % nadsazeným, ale ne zcela nereálným zjednodušením** pro nejhorší, silně ztrátové uhelné bloky; jako obecné tvrzení pro „uhlí jako takové“ však spíše odpovídá **horní hranici** než typické hodnotě.\n\n### 6.3 „…to činí 90 % ceny“ – interpretace jako **koncová cena elektřiny**\n\n- V koncové ceně elektřiny pro domácnosti či průměrné odběratele vychází podíl povolenek z dostupných odhadů jen na **cca 10–20 %**, resp. někdy i méně. ([energiebezemisi.cz](https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/))  \n- Devadesátiprocentní podíl povolenek na koncové ceně **není podpořen žádným z nalezených seriózních zdrojů**.\n\n---\n\n## 7. Přehled klíčových zdrojů (výběr)\n\n*(Citace jsou zkrácené, aby splňovaly limit, plné znění je dostupné po rozkliknutí odkazů v citacích.)*\n\n1. **Energetický regulační úřad – průměrná cena EUA 2023**  \n   – „…průměrnou tržní cenu povolenky… za rok 2023 ve výši **2 004,49 Kč/t CO₂**.“ ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/prumerna-trzni-cena-povolenky-na-emise-sklenikovych-plynu-za-rok-2023?utm_source=openai))  \n\n2. **Energie.cz – „Přežijí uhelné elektrárny rok 2025?“ (7. 3. 2024)**  \n   – 1 MWh z uhlí = „emise v objemu **0,8 až 1 tuny CO₂**… je na ni tedy třeba přibližně jedna emisní povolenka“, povolenka cca 60 €, provozní náklady cca 20 €. ([energie.cz](https://www.energie.cz/preziji-uhelne-elektrarny-rok-2025/))  \n\n3. **Plyn.cz – „Uhelné elektrárny ztrátové už v roce 2027?“ (20. 5. 2025)**  \n   – modelový příklad: „emisní povolenka: **70 EUR**; variabilní složka: **6–8 EUR**; fixní náklady: **10–15 EUR**; celkové náklady: **86–93 EUR/MWh**.“ ([plyn.cz](https://www.plyn.cz/uhelne-elektrarny-ztratove-uz-v-roce-2027))  \n\n4. **ParlamentníListy.cz – výrok Pavla Tykače (28. 11. 2025)**  \n   – „…megawatthodinu… vyrábějí za zhruba **86 eur**, z čehož **80 eur tvoří samotná povolenka a 6 eur cena výroby**.“ ([parlamentnilisty.cz](https://www.parlamentnilisty.cz/arena/monitor/Tykac-zavira-elektrarny-Vyroba-elektriny-80-eur-z-86-je-povolenka-783499))  \n\n5. **Solární magazín – Hynek Beran: „Co všechno platíme v ceně elektřiny“ (18. 2. 2026)**  \n   – pro uhlí: „stejná cena jako z jádra, tedy **25 haléřů za kWh**, zbytek ceny **1,95 Kč tvoří emisní povolenka**“ → 1,95 / 2,20 ≈ 89 %. ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n   – pro koncovou cenu: povolenky na uhlí + plyn 0,57 Kč z 3,20 Kč silové elektřiny (≈18 %) a z 6,84 Kč celkové ceny (≈8 %). ([solarnimagazin.cz](https://solarnimagazin.cz/co-vsechno-platime-v-cene-elektriny/))  \n\n6. **Energie bez emisí – rozhovor s Janem Tůmou (MŽP)**  \n   – „Cena povolenky je asi nějakých **10–20 % ceny elektřiny**… Za razantním zvýšením ceny elektřiny je jednoznačně **zvýšení ceny plynu**.“ ([energiebezemisi.cz](https://energiebezemisi.cz/novinky-v-oboru/podcast-tuma-emisni-povolenky/))  \n\n7. **Ekonews – analýza think tanku Ember**  \n   – „…emisní povolenky mají jen **marginální vliv** na cenu elektřiny… **maximálně šesti procenty**.“ ([ekonews.cz](https://www.ekonews.cz/stat-vybira-na-emisnich-povolenkach-miliardy-na-zivotni-prostredi-z-nich-vsak-jde-minimum/?utm_source=openai))  \n\n8. **Kurzy.cz / Bydlet.cz – článek o cenách na trzích (2022)**  \n   – citace Pavla Farkače (Sev.en): „u výroby elektřiny v českých uhelných elektrárnách… na produkci **1 MWh** je třeba **jedna tuna uhlí** a… je zapotřebí pokrýt **jednou celou povolenkou**.“ ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/694552-cena-elektriny-na-kratkodobych-trzich-vzrostla-v-roce-2022-az-o-146--soucasnou-stabilizaci-cen/?utm_source=openai))  \n\n9. **SPP – „Emisní povolenky – jejich princip, cena a dopad na domácnosti“ (2025)**  \n   – uvádí aktuální cenu EUA kolem **72,96 €/t** (11. 8. 2025) a shrnuje historický růst k pásmu 70–80 €/t. ([spp.cz](https://www.spp.cz/magazin/emisni-povolenky-co-to-je-jak-funguji-a-proc-ovlivnuji-ceny-energii?utm_source=openai))  \n\n10. **Elektřina.cz – „Emisní povolenky zdražují. Jak ovlivňují cenu elektřiny?“ (2024)**  \n    – konstatuje, že v roce 2023 dosahovala cena EUA až **100 €/t**, v březnu 2024 kolem **61 €/t**. ([elektrina.cz](https://www.elektrina.cz/emisni-povolenky?utm_source=openai))  \n\n---\n\n### Shrnutí pro fakt‑checkera\n\n- **Jádro tvrzení**, že uhlí je silně zatíženo cenou povolenek, je čísly podloženo: povolenky dnes tvoří **většinu výrobních nákladů** uhelné elektřiny (cca ¾ a více).  \n- Konkrétní údaj **„90 % ceny“** je:\n  - **Blízký realitě** pro některé konkrétní, silně ztrátové uhelné bloky (Počerady, model Hynka Berana).  \n  - **Nadměrný** jako obecný popis uhelné výroby (typické hodnoty spíše 75–85 % výrobní ceny).  \n  - **Zjevně nepravdivý**, pokud by se vztahoval ke **koncové ceně elektřiny pro odběratele** (tam je podíl povolenek cca 10–20 % nebo méně).",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 92413,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 18693,
+      "output_tokens_details": {
+        "reasoning_tokens": 13823
+      },
+      "total_tokens": 111106
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772541898,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

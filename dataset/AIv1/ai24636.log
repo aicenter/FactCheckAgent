@@ -1,0 +1,641 @@
+{
+  "claim_id": "24636",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24636.md",
+  "fact_check": "# Fact Check for Statement ID 24636\n\n## Statement\nZatímco Andrej Babiš zastavil Temelín, tak (...) my jsme vypsali tendr na Dukovany i s opcí na dva reaktory v Temelíně.\n\n---\n## AI Fact Check\n## 1. Tvrzení a jeho rozklad\n\nCitovaný výrok Petra Fialy:\n\n> „Zatímco Andrej Babiš zastavil Temelín, tak (…) my jsme vypsali tendr na Dukovany i s opcí na dva reaktory v Temelíně.“\n\nLze jej rozdělit na tři dílčí tvrzení:\n\n1. **T1:** „Andrej Babiš zastavil Temelín.“\n2. **T2:** „My (vláda Petra Fialy) jsme vypsali tendr na (nový blok v) Dukovanech.“\n3. **T3:** „Tento tendr byl vypsán s opcí na dva reaktory v Temelíně.“\n\nNíže je pro každé dílčí tvrzení shrnuta dostupná evidence.\n\n---\n\n## 2. T1 – „Andrej Babiš zastavil Temelín“\n\n### 2.1 Co se fakticky stalo s Temelínem\n\n- **10. 4. 2014** společnost ČEZ oficiálně **zrušila zadávací řízení na dostavbu dvou bloků Jaderné elektrárny Temelín**. To je doloženo tiskovou zprávou ČEZ:\n\n  - „Společnost ČEZ zrušil zadávací řízení (…) na dostavbu dvou jaderných bloků v lokalitě Jaderné elektrárny Temelín.“ ([cez.cz](https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817?utm_source=openai))  \n\n- Deník.cz (článek „ČEZ zrušil zadávací řízení na dostavbu dvou bloků Jaderné elektrárny Temelín“) uvádí, že:\n  - zadávací řízení zrušil ČEZ 10. 4. 2014,\n  - „Rozhodnutí ČEZ předcházela i komunikace s vládou premiéra Bohuslava Sobotky (ČSSD),“  \n  - a že **vláda odmítla dát státní garance**, bez nichž podle ředitele ČEZ Daniela Beneše nebyla dostavba v dané době možná. ([denik.cz](https://www.denik.cz/ekonomika/cez-zrusil-zadavaci-rizeni-na-dostavbu-dvou-bloku-temelina-20140410.html?utm_source=openai))  \n\n- Shrnutí roku 2014 v energetice v Deníku.cz konstatuje, že **„tendr na dostavbu (…) Temelína zrušil ČEZ v polovině dubna“ a hlavním důvodem bylo, že „vláda neposkytla státní garance“**. ([denik.cz](https://www.denik.cz/ekonomika/rok-2014-v-energetice-zruseni-tendru-na-dostavbu-temelina-20141231.html?utm_source=openai))  \n\n- iDNES.cz ve zpětném hodnocení „Sobotkových sto dnů“ píše:  \n  - „Vláda odmítla dát garanci ČEZ a firma zastavila tendr na dostavbu Temelína.“ ([idnes.cz](https://www.idnes.cz/zpravy/domaci/premier-sobotka-je-ve-funkci-sto-dnu.A140425_173021_domaci_kop?utm_source=openai))  \n\n**Závěr ke skutkovému ději:**  \nFormálním subjektem, který „zastavil Temelín“ ve smyslu zrušení tendru na bloky 3 a 4, byla v dubnu 2014 **firma ČEZ**. Rozhodnutí však úzce souviselo s politikou vlády premiéra **Bohuslava Sobotky**, která **odmítla poskytnout státní garance**.\n\n### 2.2 Role vlády a Andreje Babiše\n\nV době zrušení tendru (duben 2014):\n\n- premiérem byl **Bohuslav Sobotka (ČSSD)**,\n- **Andrej Babiš** byl **1. místopředseda vlády a ministr financí** (ANO) v Sobotkově koaliční vládě.\n\nNa konci roku 2014 Deník připomíná, že zrušení tendru souviselo s tím, že stát neposkytl záruky, a že se dále diskutovalo o kombinaci nových bloků v Temelíně a Dukovanech. ([denik.cz](https://www.denik.cz/ekonomika/rok-2014-v-energetice-zruseni-tendru-na-dostavbu-temelina-20141231.html?utm_source=openai))  \n\nV rozhovoru s Andrejem Babišem v časopise Ekonom (přetištěném na webu Ministerstva financí) je Babiš nařčen, že „hnutí ANO dostavbu Temelína zařízlo“. Babiš odpovídá:\n\n> „To není pravda. Jak jste na to přišel?“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2014/rozhovor-s-ministrem-financi-v-casopise-18455?utm_source=openai))  \n\nSoučasně v tomto rozhovoru zdůrazňuje, že **podporuje jadernou energetiku** a že „musíme ty dva bloky jednoduše postavit“, jeden v Temelíně a jeden v Dukovanech nebo oba v Temelíně. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2014/rozhovor-s-ministrem-financi-v-casopise-18455?utm_source=openai))  \n\nPozději (článek z roku 2021) Babiš sám říká, že **zrušení tendru na nové temelínské bloky „v éře vlády premiéra Bohuslava Sobotky (na které se však coby koaliční partner podílelo i hnutí ANO) byla velká chyba“** a jako hlavní důvod uvádí požadavek ČEZ na státní garance. ([epenize.eu](https://www.epenize.eu/po-dostavbe-dukovan-prijde-na-radu-temelin/?utm_source=openai))  \n\nTo naznačuje:\n\n- Politické rozhodnutí **neposkytnout garance** bylo výsledkem postoje **celé koaliční vlády Sobotka–ANO–KDU‑ČSL**, nikoli výhradně Andreje Babiše.\n- Andrej Babiš měl jako **ministr financí a šéf koaliční strany** na rozhodování významný vliv, ale **neexistuje oficiální akt, kde by právě on osobně rozhodl o zrušení tendru**; zrušení provedla správní rada ČEZ.\n\n### 2.3 Závěr k T1\n\n- **Fakticky pravdivé je:**\n  - Tendr na dostavbu bloků 3 a 4 v Temelíně byl v dubnu 2014 zrušen,\n  - stalo se tak v době, kdy byl Andrej Babiš klíčovým členem Sobotkovy vlády a kdy vláda odmítla poskytnout požadované státní garance.\n\n- **Zjednodušující/přesný výklad:**\n  - Formálně Temelín „nezastavil Andrej Babiš“, ale **ČEZ po jednání s vládou Bohuslava Sobotky**. ([cez.cz](https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817?utm_source=openai))  \n  - Výrok „Andrej Babiš zastavil Temelín“ tedy **personifikuje** rozhodnutí celé vlády (a orgánů ČEZ) do osoby jednoho politika.\n\nPro posouzení pravdivosti je klíčové, jak doslovně výrok vyložit:\n\n- jako politicko‑rétorickou zkratku „za vlády, v níž hrál Babiš klíčovou roli, byla dostavba Temelína zastavena“ – pak odpovídá zhruba realitě, ale **připisuje Babišovi větší individuální roli, než jakou dokládají oficiální dokumenty**;\n- jako tvrzení, že **Babiš sám a sám rozhodl o zastavení** – to **není doloženo**, rozhodnutí učinil ČEZ v návaznosti na postoj celé vlády.\n\n---\n\n## 3. T2 – „my jsme vypsali tendr na Dukovany“\n\nToto tvrzení se vztahuje k **tendru na nový jaderný blok v Dukovanech (Dukovany II)**.\n\n### 3.1 Příprava za vlády Andreje Babiše\n\n- V letech 2019–2021 vláda Andreje Babiše posouvala projekt do fáze povolování a bezpečnostního posouzení uchazečů (EIA, povolení k umístění, autorizace výrobny). ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/zahajeno-detailni-bezpecnostni-posouzeni-uchazecu-o-dodavku-noveho-jaderneho-bloku-v-dukovanech?utm_source=openai))  \n\n- V prosinci 2020 Stálý výbor pro výstavbu nových jaderných zdrojů (za účasti premiéra Babiše a ministra Havlíčka) projednával varianty, jak tender vypsat, včetně tzv. **modelu „3+2“**. Premiér Babiš je citován: „Jaderná energetika má klíčový význam…“ a ministr Havlíček popisuje možné varianty účasti dodavatelů. ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/o-bezpecnostnich-pozadavcich-na-novy-jaderny-zdroj-v-dukovanech-budu-jednat-sefove-parlamentnich-stran))  \n\n- V červnu 2021 Deník popisuje fázi bezpečnostních dotazníků pro tři uchazeče (Westinghouse, EDF, KHNP) a plánovaný harmonogram, kde se počítá s tím, že **samotný tendr a výběr dodavatele už proběhne za „nové vlády“ po volbách 2021**. ([denik.cz](https://www.denik.cz/ekonomika/uchazeci-o-dostavbu-dukovan-musi-do-listopadu-vyplnit-bezpecnostni-dotaznik-2021.html?utm_source=openai))  \n\n### 3.2 Formální vypsání (zahájení) tendru za vlády Petra Fialy\n\nPo volbách 2021 nastoupila vláda Petra Fialy (prosinec 2021).\n\n- **3. 3. 2022**: Podle serveru oEnergetice.cz Petr Fiala oznamuje, že **vláda odsouhlasila, aby ministr průmyslu Jozef Síkela „podnikl potřebné kroky k vyhlášení tendru na výstavbu nového bloku Jaderné elektrárny Dukovany“**. ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany?utm_source=openai))  \n\n- **13. 3. 2022**: oEnergetice.cz informuje, že **vláda v následujícím týdnu prostřednictvím MPO dá pokyn k zahájení tendru na výstavbu nového bloku v Dukovanech** a že z účasti jsou vyloučeny ruské a čínské firmy. ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/vlada-pristi-tyden-odstartuje-tendr-na-vystavbu-noveho-bloku-v-dukovanech?utm_source=openai))  \n\n- **17. 3. 2022**: při akci přímo v JE Dukovany je podle článku „Zahájení tendru na nový jaderný zdroj v JE Dukovany“ popsáno, že se premiér Fiala, ministr Síkela a ministr financí Stanjura setkali s vedením ČEZ a že:\n\n  > „Zahájení výstavby nových bloků v Dukovanech je jednou z priorit naší vlády. Dnes uděláme významný krok, abychom se k této stavbě přiblížili,“ uvádí Fiala během **zahájení tendru**. ([winczech.cz](https://www.winczech.cz/l/zahajeni-tendru-na-novy-jaderny-zdroj-v-je-dukovany-17-brezna-2022/?utm_source=openai))  \n\n- Několik pozdějších přehledových článků (2022–2024) konstatuje, že **výběrové řízení (tendr) bylo oficiálně zahájeno v březnu 2022**:\n\n  - portál proelektrotechniky.cz: „Výběrové řízení bylo zahájeno v březnu 2022. Ministerstvo průmyslu a obchodu udělilo k tomuto kroku souhlas…“ ([proelektrotechniky.cz](https://www.proelektrotechniky.cz/vyroba-a-prenos/266.php?utm_source=openai))  \n  - Ekonomický deník (2023 a 2024): „Tendr na nový jaderný blok v Dukovanech byl oficiálně zahájen v březnu 2022.“ ([ekonomickydenik.cz](https://ekonomickydenik.cz/den-pred-nabidkami-cez-ziskal-uzemni-rozhodnuti-pro-dva-nove-jaderne-bloky-v-dukovanech/))  \n\n- Články z roku 2022 uvádějí, že ČEZ v návaznosti na vládní rozhodnutí **vyzval tři uchazeče k podání nabídek** a že předběžné nabídky měly být podány do konce listopadu 2022. ([ekonomickydenik.cz](https://ekonomickydenik.cz/dnes-je-den-d-soutezici-podaji-sve-nabidky-na-stavbu-pateho-bloku-v-dukovanech/?utm_source=openai))  \n\n### 3.3 Závěr k T2\n\n- **Nejpozději v březnu 2022** bylo výběrové řízení/tendr na nový jaderný blok v Dukovanech **oficiálně zahájeno** a zdroje tento krok výslovně spojují s rozhodnutími a vystoupeními vlády **Petra Fialy**. ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany?utm_source=openai))  \n\n- Předchozí vláda Andreje Babiše připravila právní rámec, smlouvy se státem a fázi bezpečnostního posuzování, ale **k samotnému vyhlášení/„rozběhnutí“ tendru došlo až za Fialovy vlády**.\n\nV tomto smyslu odpovídá tvrzení „my jsme vypsali tendr na Dukovany“ faktickému průběhu událostí, byť zjednodušuje roli předchozí vlády, která připravila většinu podkladů.\n\n---\n\n## 4. T3 – „(tendr) s opcí na dva reaktory v Temelíně“\n\n### 4.1 Obsah zadávací dokumentace – opce na Temelín\n\n- **13. 1. 2022** (tedy krátce po nástupu vlády Petra Fialy) informují média na základě vyjádření mluvčího ČEZ Ladislava Kříže, že:\n\n  - „Součástí zadávací dokumentace je **nezávazná opce na stavbu třetího a čtvrtého bloku Jaderné elektrárny Temelín a šestého bloku v Dukovanech**.“ ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n\n  - Kříž zároveň vysvětluje, že Ministerstvo průmyslu a obchodu (MPO) požádalo ČEZ **„loni v létě“** (tj. v létě 2021, ještě za vlády Andreje Babiše) o doplnění **nezávazných nabídek** na tyto další bloky do poptávkové dokumentace. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n\n- Stejnou informaci přináší další zdroje (Patria.cz, stavebniserver.cz, CNN Prima NEWS), které opakují, že součástí nabídek bude **možná nezávazná opce na stavbu Temelín 3 a 4 a Dukovany 6**. ([patria.cz](https://www.patria.cz/zpravodajstvi/4884726/westinghouse-ma-zajem-o-stavbu-vicero-bloku-normou-jsou-alespon-dva-najednou-existuje-tak-potencial-uspory-nakladu.html?utm_source=openai))  \n\n- Při samotném zahájení tendru (březen 2022) iRozhlas explicitně uvádí: „Součástí nabídek bude také možná nezávazná opce na stavbu třetího a čtvrtého bloku Jaderné elektrárny Temelín a šestého bloku v Dukovanech.“ ([irozhlas.cz](https://www.irozhlas.cz/ekonomika/tendru-jaderna-elektrarna-dukovany-cez-jozef-sikela_2203171522_miz?utm_source=openai))  \n\n- Pozdější články a tiskové zprávy k průběhu tendru dále potvrzují, že:\n  - dodavatelé předkládají nabídky nejen na **pátý blok v Dukovanech**, ale též na **další tři bloky (šestý blok v Dukovanech a dva bloky v Temelíně)**, ([cez.cz](https://www.cez.cz/cs/pro-media/tiskove-zpravy/spolecnost-elektrarna-dukovany-ii-ze-skupiny-cez-obdrzela-doplnene-nabidky-od-uchazecu-na-stavbu-noveho-jaderneho-zdroje-v-dukovanech-i-na-tri-dalsi-jaderne-blo-190889))  \n  - ve hře je tedy **výstavba až čtyř nových jaderných bloků: dvou v Dukovanech a dvou v Temelíně**. ([ekonomickydenik.cz](https://ekonomickydenik.cz/den-pred-nabidkami-cez-ziskal-uzemni-rozhodnuti-pro-dva-nove-jaderne-bloky-v-dukovanech/))  \n\n### 4.2 Kdo opci připravil a kdo ji „nese“\n\nZ časového sledu:\n\n- **Koncept opce** (nezávazné nabídky na EDU6 a ETE3+4) byl podle mluvčího ČEZ Kříže do poptávkové dokumentace vložen **na žádost MPO v létě 2021**, tedy ještě za vlády Andreje Babiše. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n- Fyzicky se tato opce stala **součástí zadávací dokumentace a nabídek** v rámci výběrového řízení, které **bylo oficiálně zahájeno v březnu 2022 za vlády Petra Fialy**. ([proelektrotechniky.cz](https://www.proelektrotechniky.cz/vyroba-a-prenos/266.php?utm_source=openai))  \n\nJinými slovy:\n\n- **Politické rozhodnutí vložit do projektové dokumentace opci na dva bloky v Temelíně vzniklo ještě za Babišovy vlády**,  \n- ale **tendr, v němž tato opce fakticky figuruje, vyhlásila a spustila vláda Petra Fialy**.\n\n### 4.3 Závěr k T3\n\n- Zadávací dokumentace a nabídky v dukovanském tendru **skutečně obsahují nezávaznou opci na dva reaktory v Temelíně (Temelín 3 a 4)**; navíc i na **šestý blok v Dukovanech**. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n\n- Fialova formulace „tendr na Dukovany i s opcí na dva reaktory v Temelíně“ je tedy **věcně přesná**, jen **nezmiňuje**, že opce se týká ještě jednoho dalšího bloku (Dukovany 6) a že samotný koncept opce byl připraven už v roce 2021.\n\n---\n\n## 5. Celkové shrnutí důkazů k výroku\n\n### T1 – „Andrej Babiš zastavil Temelín“\n\n- **Ano, v dubnu 2014 byl zrušen tendr na dostavbu Temelína**, což média často popisují jako „zastavení Temelína“. Formálně rozhodl **ČEZ**, a to v situaci, kdy **vláda Bohuslava Sobotky (v níž byl Andrej Babiš vicepremiérem a ministrem financí) odmítla poskytnout státní garance pro projekt**. ([cez.cz](https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817?utm_source=openai))  \n\n- Tvrzení, že „Andrej Babiš zastavil Temelín“, je tedy **rétorická zkratka**, která personifikuje kolektivní rozhodnutí vlády a orgánů ČEZ. Fakticky neexistuje dokument, že by **Babiš osobně** vydal rozhodnutí o zastavení tendru; na druhou stranu **byl členem vlády, jejíž politika (odmítnutí garancí) ke zrušení tendru vedla**.\n\n### T2 – „my jsme vypsali tendr na Dukovany“\n\n- **Výběrové řízení/tendr na nový jaderný blok v Dukovanech bylo oficiálně zahájeno v březnu 2022**, po rozhodnutí vlády **Petra Fialy** a po pokynu ministra průmyslu Jozefa Síkely společnosti Elektrárna Dukovany II (ČEZ). To potvrzují vládní prohlášení i odborné články. ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany?utm_source=openai))  \n\n- Předchozí vláda Andreje Babiše provedla přípravné kroky (bezpečnostní posouzení, smlouvy se státem, EIA, povolení k umístění), ale k samotnému vypsání tendru nedošlo před volbami – harmonogram sám předpokládal, že **tendr spustí až nová vláda**. ([denik.cz](https://www.denik.cz/ekonomika/uchazeci-o-dostavbu-dukovan-musi-do-listopadu-vyplnit-bezpecnostni-dotaznik-2021.html?utm_source=openai))  \n\n→ **Věcně odpovídá realitě**, že „tendr na Dukovany“ byl skutečně vypsán až za vlády Petra Fialy.\n\n### T3 – „(tendr) s opcí na dva reaktory v Temelíně“\n\n- V zadávací dokumentaci dukovanského tendru je **nezávazná opce na výstavbu dvou nových bloků v Temelíně (3. a 4. blok) a jednoho dalšího bloku v Dukovanech (6. blok)**. To potvrzují vyjádření mluvčího ČEZ Ladislava Kříže a řada následných článků. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n\n- Koncept této opce vznikl už v roce 2021 na žádost MPO (za vlády Andreje Babiše), ale **součástí reálně vyhlášeného tendru se stal až v rámci výběrového řízení zahájeného v březnu 2022 za vlády Petra Fialy**. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n\n→ Fialovo tvrzení, že **„jsme vypsali tendr na Dukovany i s opcí na dva reaktory v Temelíně“**, je z hlediska obsahu tendru **věcně podložené**, ale **opomíjí**, že samotná idea této opce byla připravena už předchozí vládou.\n\n---\n\nTato zpráva shrnuje relevantní oficiální dokumenty (ČEZ, vláda ČR, MPO) a hlavní mediální zdroje, aby bylo možné učinit finální fakt‑checkerské hodnocení celého výroku.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Petr Fiala, Poslanec\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:20:01\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nAno, ale jenomže je to dáno geograficky, jestliže Německo má prostě tak obrovský podíl ve větrnících, tak k tomu má předpoklady, má moře. My u nás nikdy nebudeme mít energetiku závislou z větší části na větrnících. Takže, jestli to bude 1 % nebo 1,5 nebo 2 %, o tom můžeme diskutovat, ale v každém případě dělejme to tam, kde ti lidé k tomu budou mít nějaký rozumný přístup.\\n00:20:23\\nTerezie Tománková,moderátorka\\nDěkuju. Pane expremiére, zazněla tady kritika, že ty akcelerační zóny na obnovitelné zdroje byly připravené necitlivě, že to prostě nějak ministerstvo rozmístilo a není to životaschopné.\\n00:20:31\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nTak za prvé, já nechci být fakt malicherný, ale zatímco Andrej Babiš zastavil Temelín, tak my jsme, a na to můžete navázat, ne, že vy jste začali dělat, my jsme vypsali tendr na Dukovany i s opcí na dva reaktory v Temelíně. Můžete ji využít. Doufám, že ji využijete a těším se na to, protože je to potřeba. Já souhlasím s jednou věcí, my ne, a říkal jsem to mnohokrát, my nemáme takové přírodní podmínky, abychom náš energetický mix mohli postavit jenom na obnovitelných zdrojích. Prostě není tu tolik dnů slunečního svitu, nemáme tady ty planiny, kde pořád je vítr, prostě musíme to dělat jinak. Potřebujeme jádro a potřebujeme ho víc, včetně malých modulárních reaktorů, potřebujeme obnovitelné zdroje, které jste zanedbali. I v tom Polsku, které bylo hodně postaveno na uhlí, se postavilo mnohem víc slunečních zdrojů a větrných než u nás. Je s tím potřeba něco udělat, proto akcelerační zóny a pak je tu ještě jedna věc, pro kterou vám připravili legislativu a doufám, že toho využijete. A to je, že potřebujeme, abychom nahradili uhlí, budovat plynové elektrárny, paroplynové elektrárny a mimochodem proto, že vlastně, když si to představíte, tak jádro běží pořád, nedá se zapnout, vypnout. Obnovitelné zdroje vlastně taky a potřebujete ještě nějaký zdroj, který můžete podle potřeby vypínat a zapínat. A jenom ještě, aby diváci fakt nebyli uvedeni v omyl, to, co tady říkal pan vicepremiér, on to určitě ví. Dneska ta energie a ten trh s ní funguje tak, že my třeba část dne vyvážíme, ale část dne taky dovážíme. Proto je potřeba ale posílit jak distribuční soustavu, tak ještě propojení s dalšími zeměmi, abychom vytvořili opravdu stabilní a levné, levné zásobování energií.\\n00:22:20\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Zatímco Andrej Babiš zastavil Temelín, tak (...) my jsme vypsali tendr na Dukovany i s opcí na dva reaktory v Temelíně.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 358.39 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Fiala správně uvádí, že jeho vláda zahájila tendr na nový blok v Dukovanech a že tento tendr obsahuje opci na dva bloky v Temelíně. Nepřesně ale připisuje „zastavení Temelína“ přímo Andreji Babišovi. Celkově je výrok zavádějící.</p>\n\n<p>Výrok padl v politickém kontextu, kdy premiér Petr Fiala porovnává jadernou politiku své vlády s předchozími vládami, kterých se účastnil Andrej Babiš. Fiala tvrdí, že zatímco Babiš „zastavil Temelín“, současná vláda vypsala tendr na nový blok v Dukovanech s opcí na dva temelínské reaktory. Následující text hodnotí tři dílčí faktická tvrzení obsažená v tomto výroku.</p>\n\n<p><strong>První dílčí tvrzení: „Andrej Babiš zastavil Temelín“</strong></p>\n\n<p>Fakticky šlo o zrušení tendru na dostavbu 3. a 4. bloku Jaderné elektrárny Temelín. Podle oficiální tiskové zprávy společnosti <a href=\"https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817\">ČEZ</a> dne 10. dubna 2014 <i>„společnost ČEZ zrušila zadávací řízení (…) na dostavbu dvou jaderných bloků v lokalitě Jaderné elektrárny Temelín“</i>. Formálním subjektem, který tendr ukončil, tedy byla akciová společnost ČEZ, nikoliv konkrétní politik.</p>\n\n<p>Deník popisuje, že tomuto kroku předcházela jednání s vládou premiéra Bohuslava Sobotky, přičemž kabinet odmítl poskytnout pro projekt státní garance. Podle článku <a href=\"https://www.denik.cz/ekonomika/cez-zrusil-zadavaci-rizeni-na-dostavbu-dvou-bloku-temelina-20140410.html\">Deníku</a> bylo hlavním důvodem zrušení právě to, že <i>„vláda neposkytla státní garance“</i>. Shrnutí roku 2014 v energetice v tomtéž médiu znovu uvádí, že tendr na Temelín zrušil ČEZ poté, co vláda odmítla garance poskytnout, a zmiňuje vládu Bohuslava Sobotky jako celek, nikoliv konkrétně Andreje Babiše.</p>\n\n<p>Stejný vztah mezi krokem vlády a rozhodnutím ČEZ popisuje i server iDNES.cz, který v hodnocení prvních sto dní Sobotkovy vlády píše, že kabinet odmítl dát garanci a „firma zastavila tendr na dostavbu Temelína“. Tento vztah mezi odmítnutím garancí a zrušením tendru je popsán v článku iDNES o Sobotkově vládě, který uvádí, že vláda garanci neposkytla a následně ČEZ tendr ukončil.</p>\n\n<p>V době zrušení tendru byl premiérem Bohuslav Sobotka, Andrej Babiš působil jako první místopředseda vlády a ministr financí za hnutí ANO; tuto roli potvrzuje mj. rozhovor s ním na webu <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2014/rozhovor-s-ministrem-financi-v-casopise-18455\">Ministerstva financí</a>, kde je titulován jako ministr financí. Rozhodování o státních garancích tak bylo rozhodnutím celé koaliční vlády (ČSSD, ANO, KDU‑ČSL), v níž měl Babiš důležitý vliv, nikoliv aktem jednoho člena vlády.</p>\n\n<p>Sám Andrej Babiš se v roce 2014 v uvedeném rozhovoru ohrazuje proti tvrzení, že hnutí ANO Temelín „zařízlo“, když na otázku tohoto typu odpovídá slovy, že to není pravda a zároveň zdůrazňuje podporu jaderné energetice. V pozdějším rozhovoru citovaném serverem <a href=\"https://www.epenize.eu/po-dostavbe-dukovan-prijde-na-radu-temelin/\">ePeníze</a> pak Babiš s odstupem času označuje zrušení temelínského tendru „v éře vlády Bohuslava Sobotky, na které se podílelo i ANO“, za velkou chybu. Toto hodnocení je však již hodnotícím názorem politika, nikoliv ověřitelným faktickým tvrzením.</p>\n\n<p>Z dostupných zdrojů vyplývá, že: zaprvé, tendr na dostavbu Temelína skutečně skončil v dubnu 2014; zadruhé, formálně jej zrušila společnost ČEZ; zatřetí, k tomuto kroku vedlo politické rozhodnutí vlády jako celku neposkytnout požadované státní garance. Nenalezli jsme žádný oficiální dokument, podle kterého by právě Andrej Babiš osobně rozhodl o zrušení tendru; na druhou stranu byl klíčovým členem vlády, jejíž politika k ukončení vedla.</p>\n\n<p>Formulace „Andrej Babiš zastavil Temelín“ proto představuje politickou zkratku: personifikuje kolektivní rozhodnutí vlády a vedení ČEZ do jedné osoby. V doslovném smyslu (že Babiš jako jednotlivec učinil rozhodnutí o zrušení tendru) není tvrzení podloženo, v přeneseném smyslu („za vlády, v níž Babiš hrál zásadní roli, byl temelínský tendr zastaven“) je ale zhruba v souladu s časovou posloupností. Jako faktické tvrzení je tak tato část výroku zavádějící.</p>\n\n<p><strong>Druhé dílčí tvrzení: „my jsme vypsali tendr na Dukovany“</strong></p>\n\n<p>Výrok míří na projekt nového jaderného bloku v Dukovanech (Dukovany II). Za vlády Andreje Babiše se připravovaly podmínky pro projekt – probíhala například environmentální řízení a povolování, vznikl Stálý výbor pro výstavbu nových jaderných zdrojů a řešila se mimo jiné otázka bezpečnostního posouzení potenciálních dodavatelů. Tyto přípravné kroky shrnuje odborný server <a href=\"https://www.prumyslovaekologie.cz/info/zahajeno-detailni-bezpecnostni-posouzeni-uchazecu-o-dodavku-noveho-jaderneho-bloku-v-dukovanech\">Průmyslová ekologie</a>, který popisuje např. zahájení detailního bezpečnostního posuzování uchazečů v roce 2021.</p>\n\n<p>Deník v červnu 2021 uvádí, že tři uchazeči o dostavbu Dukovan (Westinghouse, EDF, KHNP) obdrželi bezpečnostní dotazníky a že harmonogram počítal s tím, že samotné výběrové řízení a výběr dodavatele proběhne již za nové vlády po sněmovních volbách 2021. Tento vývoj popisuje článek <a href=\"https://www.denik.cz/ekonomika/uchazeci-o-dostavbu-dukovan-musi-do-listopadu-vyplnit-bezpecnostni-dotaznik-2021.html\">Deníku</a>, který zmiňuje, že uchazeči mají dotazníky vyplnit do listopadu 2021 a že další kroky budou na příštím kabinetu.</p>\n\n<p>Po nástupu vlády Petra Fialy v prosinci 2021 pak skutečně došlo k formálnímu vyhlášení tendru. Podle serveru <a href=\"https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany\">oEnergetice.cz</a> vláda 3. března 2022 schválila, aby ministr průmyslu Jozef Síkela podnikl potřebné kroky k vyhlášení tendru na výstavbu nového bloku v Dukovanech. Následně stejné médium informovalo, že vláda v týdnu od 13. března 2022 prostřednictvím Ministerstva průmyslu a obchodu (MPO) oficiálně odstartuje výběrové řízení a zároveň z účasti v tendru vyloučí ruské a čínské firmy.</p>\n\n<p>Samotné zahájení tendru proběhlo 17. března 2022 přímo v lokalitě elektrárny. Podle zprávy o této akci, která popisuje účast premiéra Fialy, ministra průmyslu Síkely a ministra financí Stanjury, se vláda spolu se společností ČEZ shodně prezentuje, že tímto krokem tendr začíná a že jde o významný milník ve výstavbě nového bloku. Událost shrnuje například text na webu <a href=\"https://www.winczech.cz/l/zahajeni-tendru-na-novy-jaderny-zdroj-v-je-dukovany-17-brezna-2022/\">WinCzech</a>, podle nějž se v březnu 2022 výběrové řízení oficiálně rozběhlo.</p>\n\n<p>Pozdější přehledové články k jaderné energetice, například na portálu <a href=\"https://www.proelektrotechniky.cz/vyroba-a-prenos/266.php\">Proelektrotechniky</a>, shrnují, že výběrové řízení na nový blok v Dukovanech bylo zahájeno v březnu 2022, a přímo uvádějí, že k tomuto kroku dal souhlas resort průmyslu a obchodu v čele s ministrem Síkely a vládou Petra Fialy.</p>\n\n<p>Z těchto zdrojů plyne, že přípravná fáze projektu probíhala už za vlády Andreje Babiše, ale samotné oficiální vyhlášení a zahájení tendru na nový dukovanský blok proběhlo až v březnu 2022 za vlády Petra Fialy. Tvrzení „my jsme vypsali tendr na Dukovany“ je proto z hlediska faktů správné, byť Fiala v řeči nezmiňuje, že jeho kabinet navázal na rozsáhlou přípravu předchozí vlády.</p>\n\n<p><strong>Třetí dílčí tvrzení: „(tendr) i s opcí na dva reaktory v Temelíně“</strong></p>\n\n<p>Klíčové je, zda dukovanský tendr skutečně obsahuje opci na dva nové bloky v Temelíně. Česká tisková kancelář s odkazem na mluvčího ČEZ Ladislava Kříže v lednu 2022 informovala, že součástí zadávací dokumentace je nezávazná opce na výstavbu dalších tří bloků: šestého bloku v Dukovanech a třetího a čtvrtého bloku v Temelíně. Podle článku na <a href=\"https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226\">Českých novinách</a> mluvčí uvádí, že vítěz tendru by „mohl v ČR postavit až další tři jaderné bloky“, přičemž jde právě o ETE 3 a 4 a EDU 6.</p>\n\n<p>Tentýž článek cituje Kříže i k tomu, jak se opce do dokumentace dostala: podle jeho slov Ministerstvo průmyslu a obchodu požádalo ČEZ už v létě 2021, tedy ještě za vlády Andreje Babiše, aby doplnil do poptávkové dokumentace možnost nezávazných nabídek na tyto další bloky. To znamená, že politické rozhodnutí pracovat s opcí na Temelín 3 a 4 a Dukovany 6 padlo už před nástupem Fialovy vlády, a nový kabinet tuto koncepci převzal.</p>\n\n<p>Při samotném zahájení tendru v březnu 2022 server <a href=\"https://www.irozhlas.cz/ekonomika/tendru-jaderna-elektrarna-dukovany-cez-jozef-sikela_2203171522_miz\">iROZHLAS</a> výslovně uvádí, že součástí nabídek bude také nezávazná opce na výstavbu třetího a čtvrtého bloku Temelína a šestého bloku Dukovan. Tím potvrzuje, že opce není jen abstraktní úvaha, ale konkrétní součást zadávacích podmínek v už vyhlášeném výběrovém řízení.</p>\n\n<p>Následný průběh soutěže tento rámec dále potvrzuje. Tisková zpráva skupiny ČEZ o doručení aktualizovaných nabídek uvádí, že společnost Elektrárna Dukovany II obdržela od uchazečů nabídky nejen na pátý blok v Dukovanech, ale i na tři další bloky, tedy na šestý dukovanský blok a dva další temelínské bloky. Tuto informaci shrnuje například tisková zpráva na webu <a href=\"https://www.cez.cz/cs/pro-media/tiskove-zpravy/spolecnost-elektrarna-dukovany-ii-ze-skupiny-cez-obdrzela-doplnene-nabidky-od-uchazecu-na-stavbu-noveho-jaderneho-zdroje-v-dukovanech-i-na-tri-dalsi-jaderne-blo-190889\">ČEZ</a>, která popisuje, že nabídky pokrývají až čtyři nové bloky v ČR.</p>\n\n<p>Ekonomický deník v souhrnném článku ke stavu projektu uvádí, že ve hře je výstavba až čtyř reaktorů – dvou v Dukovanech a dvou v Temelíně – a že uchazeči předkládají nabídky v souladu se zadávací dokumentací, která takovou opci obsahuje. Tuto konfiguraci popisuje například text na <a href=\"https://ekonomickydenik.cz/den-pred-nabidkami-cez-ziskal-uzemni-rozhodnuti-pro-dva-nove-jaderne-bloky-v-dukovanech/\">Ekonomickém deníku</a>.</p>\n\n<p>Z časového sledu tedy plyne, že koncept nezávazné opce na Temelín 3 a 4 a Dukovany 6 vznikl už v létě 2021 za vlády Andreje Babiše, kdy MPO požádalo ČEZ o jeho zapracování do dokumentace. Samotný tendr, v němž je tato opce fakticky uplatněna (tj. v němž uchazeči skutečně podávají i nabídky na temelínské bloky), byl však oficiálně vyhlášen až v březnu 2022 za vlády Petra Fialy.</p>\n\n<p>Formulace premiéra, že jeho vláda vypsala „tendr na Dukovany i s opcí na dva reaktory v Temelíně“, odpovídá obsahu probíhajícího výběrového řízení: tendr skutečně zahrnuje opci na dva nové bloky v Temelíně. Neúplné je pouze to, že Fiala nezmiňuje, že opce byla původně připravena ještě předchozí vládou a že se týká také šestého bloku v Dukovanech.</p>\n\n<p><strong>Shrnutí a celkové hodnocení</strong></p>\n\n<p>Výrok Petra Fialy obsahuje tři podstatná faktická tvrzení. První, že „Andrej Babiš zastavil Temelín“, je založeno na tom, že v roce 2014 byl zrušen tendr na nové temelínské bloky v době, kdy byl Andrej Babiš ministrem financí a místopředsedou vlády. Tendr však formálně zrušila společnost ČEZ po rozhodnutí vlády Bohuslava Sobotky neposkytnout státní garance, jak popisují oficiální zpráva <a href=\"https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817\">ČEZ</a> i články v <a href=\"https://www.denik.cz/ekonomika/rok-2014-v-energetice-zruseni-tendru-na-dostavbu-temelina-20141231.html\">Deníku</a> a <a href=\"https://www.idnes.cz/zpravy/domaci/premier-sobotka-je-ve-funkci-sto-dnu.A140425_173021_domaci_kop\">iDNES</a>. Připsání celého rozhodnutí jediné osobě je proto zjednodušující.</p>\n\n<p>Druhé tvrzení, že Fialova vláda vypsala tendr na nový blok v Dukovanech, odpovídá skutečnosti: oficiální zahájení tendru proběhlo v březnu 2022 na základě usnesení vlády Petra Fialy a kroků MPO, jak vyplývá z informací serveru <a href=\"https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany\">oEnergetice</a> a dalších odborných médií. Třetí tvrzení, že tento tendr je spojen s opcí na dva reaktory v Temelíně, je rovněž fakticky správné: zadávací dokumentace skutečně obsahuje nezávaznou opci na Temelín 3 a 4 (a navíc na Dukovany 6), jak uvádějí <a href=\"https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226\">České noviny</a>, <a href=\"https://www.irozhlas.cz/ekonomika/tendru-jaderna-elektrarna-dukovany-cez-jozef-sikela_2203171522_miz\">iROZHLAS</a> a <a href=\"https://www.cez.cz/cs/pro-media/tiskove-zpravy/spolecnost-elektrarna-dukovany-ii-ze-skupiny-cez-obdrzela-doplnene-nabidky-od-uchazecu-na-stavbu-noveho-jaderneho-zdroje-v-dukovanech-i-na-tri-dalsi-jaderne-blo-190889\">ČEZ</a>.</p>\n\n<p>Jádro problému tedy spočívá v první části výroku: Fiala výrazně personifikuje rozhodnutí o zrušení temelínského tendru a přisuzuje jej přímo Andreji Babišovi, ačkoliv šlo o krok společnosti ČEZ v návaznosti na politiku celé Sobotkovy vlády. Zbylé části výroku jsou věcně správné, ale současně opomíjejí, že část práce (včetně konceptu opce na další bloky) připravila již předchozí vláda. V souhrnu tak výrok vytváří zkreslený obraz role Andreje Babiše i role Fialovy vlády v jaderné politice.</p>\n\n<p>Na základě těchto zjištění hodnotíme celý výrok Petra Fialy jako <strong>zavádějící</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_050b84d9028ca8690069a6dc102248819780d0781c0f2a89af",
+    "created_at": 1772542992.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_050b84d9028ca8690069a6dc1e21088197b8d3418ea5b68550",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc34785c8197afb8caa75e1c3c31",
+        "action": {
+          "query": "Babiš zastavil Temelín zrušení tendru na dostavbu JE Temelín 3. a 4. blok 2014",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Babiš zastavil Temelín zrušení tendru na dostavbu JE Temelín 3. a 4. blok 2014",
+            "zrušení tendru na dostavbu dvou bloků Temelín duben 2014 ČEZ",
+            "Andrej Babiš 'zastavil Temelín' 2014",
+            "vláda 2014 zrušený tendr dostavba Temelína role Andreje Babiše"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc38286881978d52563ef9c1b16a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc3b387081979ea7b96644bb7911",
+        "action": {
+          "query": "\"Babiš\" \"Temelín\" \"státní garance\" 2014",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Babiš\" \"Temelín\" \"státní garance\" 2014",
+            "Andrej Babiš \"dostavba Temelína\" 2014 2015",
+            "Babiš zrušený tendr Temelín 2014 role ministra financí",
+            "koaliční smlouva 2014 ANO postoj k dostavbě Temelína"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc3e68c08197b9db33e0863ac308",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc42091081979daf445b223eb15e",
+        "action": {
+          "query": "\"stop Temelínu\" \"Babiš\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"stop Temelínu\" \"Babiš\"",
+            "\"zastavil Temelín\" \"Andrej Babiš\"",
+            "\"Temelín\" \"zastavil\" \"Babiš\"",
+            "\"Temelín\" \"zrušení tendru\" \"vláda\" \"státní garance\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc45314c8197895eafbb65d5b5c0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc4bc4ac81979ef0ce0259ef87ca",
+        "action": {
+          "query": "\"Společnost ČEZ\" \"dnes zrušila\" \"tendr na dostavbu jaderné elektrárny Temelín\" tisková zpráva",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Společnost ČEZ\" \"dnes zrušila\" \"tendr na dostavbu jaderné elektrárny Temelín\" tisková zpráva",
+            "10. dubna 2014 tisková zpráva ČEZ zrušení zadávacího řízení na dostavbu dvou bloků Temelín",
+            "tisková zpráva ČEZ 10.4.2014 zrušení tendru Temelín",
+            "\"zadávací řízení\" \"dostavbu dvou bloků\" Temelín"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc50a58081978c888617a5c0da57",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc5ba4a881979ffd21d807aced88",
+        "action": {
+          "query": "\"tendr na Dukovany\" \"opce\" \"Temelín\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"tendr na Dukovany\" \"opce\" \"Temelín\"",
+            "\"zadávací řízení\" \"Jaderna elektrarna Dukovany II\"",
+            "\"Dukovany II\" \"opce na\" \"Temelín\"",
+            "vláda Petra Fialy zadávací řízení Dukovany II opce na až 4 další bloky"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc600c908197b44220721fb84211",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc64c1448197b0921a58cf9efdd7",
+        "action": {
+          "query": "\"vypsal tendr\" \"Dukovany\" 2022",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"vypsal tendr\" \"Dukovany\" 2022",
+            "\"vypsala zadavaci rizeni\" \"Dukovany II\"",
+            "\"zahajeni bezpečnostního posouzení\" \"nového jaderného zdroje\" Dukovany 2021",
+            "\"Elektrárna Dukovany II\" vyzvala uchazeče k podání nabídek 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc6bc4188197b103d36cae1ab6e3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc6df21481978f4ce0df91c67b2d",
+        "action": {
+          "query": "\"Elektrárna Dukovany II\" \"od uchazečů\" \"nabídek\" 2022",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Elektrárna Dukovany II\" \"od uchazečů\" \"nabídek\" 2022",
+            "\"výběrového řízení\" \"nového jaderného zdroje\" \"Dukovany\" \"předběžné nabídky\"",
+            "\"vyzvala\" \"Elektrárna Dukovany II\" \"k podání nabídek\"",
+            "\"zadávací dokumentace\" \"Dukovany II\" 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc72b8888197918a50b7c3afe1d7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc75bed08197854729bd4acf018c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc7994788197aad1613f0294bd07",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc863b948197a02b96a17616ab54",
+        "action": {
+          "query": "\"Tendr na výstavbu nového bloku\" \"Dukovany\" \"březen 2022\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Tendr na výstavbu nového bloku\" \"Dukovany\" \"březen 2022\"",
+            "\"vláda\" \"schválila\" \"vypsání\" \"tendru\" \"Dukovany\" \"březen 2022\"",
+            "\"zahájení\" \"výběrového řízení\" \"nový jaderný zdroj v Dukovanech\" 2022",
+            "\"ČEZ\" \"vyzval\" \"podání nabídek\" \"nový jaderný blok\" Dukovany březen 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc8a6a388197ba3adbc7002e51c1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc91715c8197850dbb1804490ee5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc9509ac81979e9cbadf878b1e0b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc97ff188197b37b2de530c4d7d7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc9b71bc819787643c3f06bbb435",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dc9e45ac8197ae10505ea05221c7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dc9fee648197a78710c5a4997443",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dca1405c8197989a2ad5a201fc84",
+        "action": {
+          "query": "\"tři další jaderné bloky\" \"šestý blok\" \"Dukovany\" \"Temelín\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"tři další jaderné bloky\" \"šestý blok\" \"Dukovany\" \"Temelín\"",
+            "\"opce\" \"šestého bloku\" \"Dukovany\" \"Temelín\"",
+            "\"až tři další bloky\" \"Dukovany\" \"Temelín\"",
+            "\"pátého bloku\" \"nový jaderný zdroj\" \"až tři další\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dca60c8c81979e16481d354673f7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_050b84d9028ca8690069a6dcfd6ab08197be9c55381f6a9994",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_050b84d9028ca8690069a6dcfe80948197b20c9dd629c4728d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_050b84d9028ca8690069a6dd17e63c819791d3693d09ed2ab2",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 981,
+                "start_index": 853,
+                "title": "ČEZ rozhodl o zrušení tendru na dostavbu Temelína | Skupina ČEZ",
+                "type": "url_citation",
+                "url": "https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817?utm_source=openai"
+              },
+              {
+                "end_index": 1492,
+                "start_index": 1357,
+                "title": "ČEZ zrušil tendr na dostavbu dvou bloků Temelína - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/cez-zrusil-zadavaci-rizeni-na-dostavbu-dvou-bloku-temelina-20140410.html?utm_source=openai"
+              },
+              {
+                "end_index": 1817,
+                "start_index": 1683,
+                "title": "Rok 2014 v energetice: Zrušení tendru na dostavbu Temelína - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/rok-2014-v-energetice-zruseni-tendru-na-dostavbu-temelina-20141231.html?utm_source=openai"
+              },
+              {
+                "end_index": 2094,
+                "start_index": 1965,
+                "title": "Sobotkových sto dnů: stop Temelínu, spory s Babišem i boj o miliardy - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/zpravy/domaci/premier-sobotka-je-ve-funkci-sto-dnu.A140425_173021_domaci_kop?utm_source=openai"
+              },
+              {
+                "end_index": 2905,
+                "start_index": 2771,
+                "title": "Rok 2014 v energetice: Zrušení tendru na dostavbu Temelína - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/rok-2014-v-energetice-zruseni-tendru-na-dostavbu-temelina-20141231.html?utm_source=openai"
+              },
+              {
+                "end_index": 3253,
+                "start_index": 3120,
+                "title": "Rozhovor s ministrem financí v časopise Ekonom dne 17.7.2014 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2014/rozhovor-s-ministrem-financi-v-casopise-18455?utm_source=openai"
+              },
+              {
+                "end_index": 3572,
+                "start_index": 3439,
+                "title": "Rozhovor s ministrem financí v časopise Ekonom dne 17.7.2014 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2014/rozhovor-s-ministrem-financi-v-casopise-18455?utm_source=openai"
+              },
+              {
+                "end_index": 3947,
+                "start_index": 3847,
+                "title": "Po dostavbě Dukovan přijde na řadu Temelín",
+                "type": "url_citation",
+                "url": "https://www.epenize.eu/po-dostavbe-dukovan-prijde-na-radu-temelin/?utm_source=openai"
+              },
+              {
+                "end_index": 4847,
+                "start_index": 4719,
+                "title": "ČEZ rozhodl o zrušení tendru na dostavbu Temelína | Skupina ČEZ",
+                "type": "url_citation",
+                "url": "https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817?utm_source=openai"
+              },
+              {
+                "end_index": 5950,
+                "start_index": 5771,
+                "title": "Zahájeno detailní bezpečnostní posouzení uchazečů o dodávku nového jaderného bloku v Dukovanech | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/zahajeno-detailni-bezpecnostni-posouzeni-uchazecu-o-dodavku-noveho-jaderneho-bloku-v-dukovanech?utm_source=openai"
+              },
+              {
+                "end_index": 6436,
+                "start_index": 6268,
+                "title": "O bezpečnostních požadavcích na nový jaderný zdroj v Dukovanech budu jednat šéfové parlamentních stran  | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/o-bezpecnostnich-pozadavcich-na-novy-jaderny-zdroj-v-dukovanech-budu-jednat-sefove-parlamentnich-stran"
+              },
+              {
+                "end_index": 6823,
+                "start_index": 6675,
+                "title": "Dostavba Dukovan: Uchazeči musí do listopadu vyplnit bezpečnostní dotazník - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/uchazeci-o-dostavbu-dukovan-musi-do-listopadu-vyplnit-bezpecnostni-dotaznik-2021.html?utm_source=openai"
+              },
+              {
+                "end_index": 7336,
+                "start_index": 7182,
+                "title": "Fiala: Ministr průmyslu podnikne nutné kroky k vyhlášení tendru na Dukovany",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany?utm_source=openai"
+              },
+              {
+                "end_index": 7708,
+                "start_index": 7555,
+                "title": "Vláda příští týden odstartuje tendr na výstavbu nového bloku v Dukovanech",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/vlada-pristi-tyden-odstartuje-tendr-na-vystavbu-noveho-bloku-v-dukovanech?utm_source=openai"
+              },
+              {
+                "end_index": 8245,
+                "start_index": 8117,
+                "title": "Zahájení tendru na nový jaderný zdroj v JE Dukovany 17. března 2022 :: Win-czech",
+                "type": "url_citation",
+                "url": "https://www.winczech.cz/l/zahajeni-tendru-na-novy-jaderny-zdroj-v-je-dukovany-17-brezna-2022/?utm_source=openai"
+              },
+              {
+                "end_index": 8632,
+                "start_index": 8530,
+                "title": "Westinghouse, EdF a KHNP: tři uchazeči o stavbu nového jaderného zdroje v Dukovanech předložili nabídky",
+                "type": "url_citation",
+                "url": "https://www.proelektrotechniky.cz/vyroba-a-prenos/266.php?utm_source=openai"
+              },
+              {
+                "end_index": 8889,
+                "start_index": 8750,
+                "title": "Den před nabídkami. ČEZ získal územní rozhodnutí pro dva nové jaderné bloky v Dukovanech - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/den-pred-nabidkami-cez-ziskal-uzemni-rozhodnuti-pro-dva-nove-jaderne-bloky-v-dukovanech/"
+              },
+              {
+                "end_index": 9217,
+                "start_index": 9069,
+                "title": "Dnes je den D. Soutěžící podají své nabídky na stavbu pátého bloku v Dukovanech - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/dnes-je-den-d-soutezici-podaji-sve-nabidky-na-stavbu-pateho-bloku-v-dukovanech/?utm_source=openai"
+              },
+              {
+                "end_index": 9600,
+                "start_index": 9446,
+                "title": "Fiala: Ministr průmyslu podnikne nutné kroky k vyhlášení tendru na Dukovany",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany?utm_source=openai"
+              },
+              {
+                "end_index": 10515,
+                "start_index": 10362,
+                "title": "Vítěz tendru na Dukovany by mohl v ČR postavit až další tři jaderné bloky | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai"
+              },
+              {
+                "end_index": 10904,
+                "start_index": 10751,
+                "title": "Vítěz tendru na Dukovany by mohl v ČR postavit až další tři jaderné bloky | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai"
+              },
+              {
+                "end_index": 11296,
+                "start_index": 11100,
+                "title": "Westinghouse má zájem o stavbu vícero bloků. Normou jsou alespoň dva najednou, existuje tak potenciál úspory nákladů - Patria.cz",
+                "type": "url_citation",
+                "url": "https://www.patria.cz/zpravodajstvi/4884726/westinghouse-ma-zajem-o-stavbu-vicero-bloku-normou-jsou-alespon-dva-najednou-existuje-tak-potencial-uspory-nakladu.html?utm_source=openai"
+              },
+              {
+                "end_index": 11649,
+                "start_index": 11514,
+                "title": "‚Největší investice v novodobých dějinách Česka.‘ ČEZ zahájil tendr na dostavbu Dukovan | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/ekonomika/tendru-jaderna-elektrarna-dukovany-cez-jozef-sikela_2203171522_miz?utm_source=openai"
+              },
+              {
+                "end_index": 12104,
+                "start_index": 11878,
+                "title": "Společnost Elektrárna Dukovany II ze Skupiny ČEZ obdržela doplněné nabídky od uchazečů na stavbu nového jaderného zdroje v Dukovanech i na tři další jaderné bloky | Skupina ČEZ",
+                "type": "url_citation",
+                "url": "https://www.cez.cz/cs/pro-media/tiskove-zpravy/spolecnost-elektrarna-dukovany-ii-ze-skupiny-cez-obdrzela-doplnene-nabidky-od-uchazecu-na-stavbu-noveho-jaderneho-zdroje-v-dukovanech-i-na-tri-dalsi-jaderne-blo-190889"
+              },
+              {
+                "end_index": 12347,
+                "start_index": 12208,
+                "title": "Den před nabídkami. ČEZ získal územní rozhodnutí pro dva nové jaderné bloky v Dukovanech - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/den-pred-nabidkami-cez-ziskal-uzemni-rozhodnuti-pro-dva-nove-jaderne-bloky-v-dukovanech/"
+              },
+              {
+                "end_index": 12752,
+                "start_index": 12599,
+                "title": "Vítěz tendru na Dukovany by mohl v ČR postavit až další tři jaderné bloky | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai"
+              },
+              {
+                "end_index": 13027,
+                "start_index": 12925,
+                "title": "Westinghouse, EdF a KHNP: tři uchazeči o stavbu nového jaderného zdroje v Dukovanech předložili nabídky",
+                "type": "url_citation",
+                "url": "https://www.proelektrotechniky.cz/vyroba-a-prenos/266.php?utm_source=openai"
+              },
+              {
+                "end_index": 13613,
+                "start_index": 13460,
+                "title": "Vítěz tendru na Dukovany by mohl v ČR postavit až další tři jaderné bloky | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai"
+              },
+              {
+                "end_index": 14361,
+                "start_index": 14233,
+                "title": "ČEZ rozhodl o zrušení tendru na dostavbu Temelína | Skupina ČEZ",
+                "type": "url_citation",
+                "url": "https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817?utm_source=openai"
+              },
+              {
+                "end_index": 15167,
+                "start_index": 15013,
+                "title": "Fiala: Ministr průmyslu podnikne nutné kroky k vyhlášení tendru na Dukovany",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany?utm_source=openai"
+              },
+              {
+                "end_index": 15567,
+                "start_index": 15419,
+                "title": "Dostavba Dukovan: Uchazeči musí do listopadu vyplnit bezpečnostní dotazník - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/uchazeci-o-dostavbu-dukovan-musi-do-listopadu-vyplnit-bezpecnostni-dotaznik-2021.html?utm_source=openai"
+              },
+              {
+                "end_index": 16126,
+                "start_index": 15973,
+                "title": "Vítěz tendru na Dukovany by mohl v ČR postavit až další tři jaderné bloky | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai"
+              },
+              {
+                "end_index": 16493,
+                "start_index": 16340,
+                "title": "Vítěz tendru na Dukovany by mohl v ČR postavit až další tři jaderné bloky | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Tvrzení a jeho rozklad\n\nCitovaný výrok Petra Fialy:\n\n> „Zatímco Andrej Babiš zastavil Temelín, tak (…) my jsme vypsali tendr na Dukovany i s opcí na dva reaktory v Temelíně.“\n\nLze jej rozdělit na tři dílčí tvrzení:\n\n1. **T1:** „Andrej Babiš zastavil Temelín.“\n2. **T2:** „My (vláda Petra Fialy) jsme vypsali tendr na (nový blok v) Dukovanech.“\n3. **T3:** „Tento tendr byl vypsán s opcí na dva reaktory v Temelíně.“\n\nNíže je pro každé dílčí tvrzení shrnuta dostupná evidence.\n\n---\n\n## 2. T1 – „Andrej Babiš zastavil Temelín“\n\n### 2.1 Co se fakticky stalo s Temelínem\n\n- **10. 4. 2014** společnost ČEZ oficiálně **zrušila zadávací řízení na dostavbu dvou bloků Jaderné elektrárny Temelín**. To je doloženo tiskovou zprávou ČEZ:\n\n  - „Společnost ČEZ zrušil zadávací řízení (…) na dostavbu dvou jaderných bloků v lokalitě Jaderné elektrárny Temelín.“ ([cez.cz](https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817?utm_source=openai))  \n\n- Deník.cz (článek „ČEZ zrušil zadávací řízení na dostavbu dvou bloků Jaderné elektrárny Temelín“) uvádí, že:\n  - zadávací řízení zrušil ČEZ 10. 4. 2014,\n  - „Rozhodnutí ČEZ předcházela i komunikace s vládou premiéra Bohuslava Sobotky (ČSSD),“  \n  - a že **vláda odmítla dát státní garance**, bez nichž podle ředitele ČEZ Daniela Beneše nebyla dostavba v dané době možná. ([denik.cz](https://www.denik.cz/ekonomika/cez-zrusil-zadavaci-rizeni-na-dostavbu-dvou-bloku-temelina-20140410.html?utm_source=openai))  \n\n- Shrnutí roku 2014 v energetice v Deníku.cz konstatuje, že **„tendr na dostavbu (…) Temelína zrušil ČEZ v polovině dubna“ a hlavním důvodem bylo, že „vláda neposkytla státní garance“**. ([denik.cz](https://www.denik.cz/ekonomika/rok-2014-v-energetice-zruseni-tendru-na-dostavbu-temelina-20141231.html?utm_source=openai))  \n\n- iDNES.cz ve zpětném hodnocení „Sobotkových sto dnů“ píše:  \n  - „Vláda odmítla dát garanci ČEZ a firma zastavila tendr na dostavbu Temelína.“ ([idnes.cz](https://www.idnes.cz/zpravy/domaci/premier-sobotka-je-ve-funkci-sto-dnu.A140425_173021_domaci_kop?utm_source=openai))  \n\n**Závěr ke skutkovému ději:**  \nFormálním subjektem, který „zastavil Temelín“ ve smyslu zrušení tendru na bloky 3 a 4, byla v dubnu 2014 **firma ČEZ**. Rozhodnutí však úzce souviselo s politikou vlády premiéra **Bohuslava Sobotky**, která **odmítla poskytnout státní garance**.\n\n### 2.2 Role vlády a Andreje Babiše\n\nV době zrušení tendru (duben 2014):\n\n- premiérem byl **Bohuslav Sobotka (ČSSD)**,\n- **Andrej Babiš** byl **1. místopředseda vlády a ministr financí** (ANO) v Sobotkově koaliční vládě.\n\nNa konci roku 2014 Deník připomíná, že zrušení tendru souviselo s tím, že stát neposkytl záruky, a že se dále diskutovalo o kombinaci nových bloků v Temelíně a Dukovanech. ([denik.cz](https://www.denik.cz/ekonomika/rok-2014-v-energetice-zruseni-tendru-na-dostavbu-temelina-20141231.html?utm_source=openai))  \n\nV rozhovoru s Andrejem Babišem v časopise Ekonom (přetištěném na webu Ministerstva financí) je Babiš nařčen, že „hnutí ANO dostavbu Temelína zařízlo“. Babiš odpovídá:\n\n> „To není pravda. Jak jste na to přišel?“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2014/rozhovor-s-ministrem-financi-v-casopise-18455?utm_source=openai))  \n\nSoučasně v tomto rozhovoru zdůrazňuje, že **podporuje jadernou energetiku** a že „musíme ty dva bloky jednoduše postavit“, jeden v Temelíně a jeden v Dukovanech nebo oba v Temelíně. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/v-mediich/2014/rozhovor-s-ministrem-financi-v-casopise-18455?utm_source=openai))  \n\nPozději (článek z roku 2021) Babiš sám říká, že **zrušení tendru na nové temelínské bloky „v éře vlády premiéra Bohuslava Sobotky (na které se však coby koaliční partner podílelo i hnutí ANO) byla velká chyba“** a jako hlavní důvod uvádí požadavek ČEZ na státní garance. ([epenize.eu](https://www.epenize.eu/po-dostavbe-dukovan-prijde-na-radu-temelin/?utm_source=openai))  \n\nTo naznačuje:\n\n- Politické rozhodnutí **neposkytnout garance** bylo výsledkem postoje **celé koaliční vlády Sobotka–ANO–KDU‑ČSL**, nikoli výhradně Andreje Babiše.\n- Andrej Babiš měl jako **ministr financí a šéf koaliční strany** na rozhodování významný vliv, ale **neexistuje oficiální akt, kde by právě on osobně rozhodl o zrušení tendru**; zrušení provedla správní rada ČEZ.\n\n### 2.3 Závěr k T1\n\n- **Fakticky pravdivé je:**\n  - Tendr na dostavbu bloků 3 a 4 v Temelíně byl v dubnu 2014 zrušen,\n  - stalo se tak v době, kdy byl Andrej Babiš klíčovým členem Sobotkovy vlády a kdy vláda odmítla poskytnout požadované státní garance.\n\n- **Zjednodušující/přesný výklad:**\n  - Formálně Temelín „nezastavil Andrej Babiš“, ale **ČEZ po jednání s vládou Bohuslava Sobotky**. ([cez.cz](https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817?utm_source=openai))  \n  - Výrok „Andrej Babiš zastavil Temelín“ tedy **personifikuje** rozhodnutí celé vlády (a orgánů ČEZ) do osoby jednoho politika.\n\nPro posouzení pravdivosti je klíčové, jak doslovně výrok vyložit:\n\n- jako politicko‑rétorickou zkratku „za vlády, v níž hrál Babiš klíčovou roli, byla dostavba Temelína zastavena“ – pak odpovídá zhruba realitě, ale **připisuje Babišovi větší individuální roli, než jakou dokládají oficiální dokumenty**;\n- jako tvrzení, že **Babiš sám a sám rozhodl o zastavení** – to **není doloženo**, rozhodnutí učinil ČEZ v návaznosti na postoj celé vlády.\n\n---\n\n## 3. T2 – „my jsme vypsali tendr na Dukovany“\n\nToto tvrzení se vztahuje k **tendru na nový jaderný blok v Dukovanech (Dukovany II)**.\n\n### 3.1 Příprava za vlády Andreje Babiše\n\n- V letech 2019–2021 vláda Andreje Babiše posouvala projekt do fáze povolování a bezpečnostního posouzení uchazečů (EIA, povolení k umístění, autorizace výrobny). ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/zahajeno-detailni-bezpecnostni-posouzeni-uchazecu-o-dodavku-noveho-jaderneho-bloku-v-dukovanech?utm_source=openai))  \n\n- V prosinci 2020 Stálý výbor pro výstavbu nových jaderných zdrojů (za účasti premiéra Babiše a ministra Havlíčka) projednával varianty, jak tender vypsat, včetně tzv. **modelu „3+2“**. Premiér Babiš je citován: „Jaderná energetika má klíčový význam…“ a ministr Havlíček popisuje možné varianty účasti dodavatelů. ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/o-bezpecnostnich-pozadavcich-na-novy-jaderny-zdroj-v-dukovanech-budu-jednat-sefove-parlamentnich-stran))  \n\n- V červnu 2021 Deník popisuje fázi bezpečnostních dotazníků pro tři uchazeče (Westinghouse, EDF, KHNP) a plánovaný harmonogram, kde se počítá s tím, že **samotný tendr a výběr dodavatele už proběhne za „nové vlády“ po volbách 2021**. ([denik.cz](https://www.denik.cz/ekonomika/uchazeci-o-dostavbu-dukovan-musi-do-listopadu-vyplnit-bezpecnostni-dotaznik-2021.html?utm_source=openai))  \n\n### 3.2 Formální vypsání (zahájení) tendru za vlády Petra Fialy\n\nPo volbách 2021 nastoupila vláda Petra Fialy (prosinec 2021).\n\n- **3. 3. 2022**: Podle serveru oEnergetice.cz Petr Fiala oznamuje, že **vláda odsouhlasila, aby ministr průmyslu Jozef Síkela „podnikl potřebné kroky k vyhlášení tendru na výstavbu nového bloku Jaderné elektrárny Dukovany“**. ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany?utm_source=openai))  \n\n- **13. 3. 2022**: oEnergetice.cz informuje, že **vláda v následujícím týdnu prostřednictvím MPO dá pokyn k zahájení tendru na výstavbu nového bloku v Dukovanech** a že z účasti jsou vyloučeny ruské a čínské firmy. ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/vlada-pristi-tyden-odstartuje-tendr-na-vystavbu-noveho-bloku-v-dukovanech?utm_source=openai))  \n\n- **17. 3. 2022**: při akci přímo v JE Dukovany je podle článku „Zahájení tendru na nový jaderný zdroj v JE Dukovany“ popsáno, že se premiér Fiala, ministr Síkela a ministr financí Stanjura setkali s vedením ČEZ a že:\n\n  > „Zahájení výstavby nových bloků v Dukovanech je jednou z priorit naší vlády. Dnes uděláme významný krok, abychom se k této stavbě přiblížili,“ uvádí Fiala během **zahájení tendru**. ([winczech.cz](https://www.winczech.cz/l/zahajeni-tendru-na-novy-jaderny-zdroj-v-je-dukovany-17-brezna-2022/?utm_source=openai))  \n\n- Několik pozdějších přehledových článků (2022–2024) konstatuje, že **výběrové řízení (tendr) bylo oficiálně zahájeno v březnu 2022**:\n\n  - portál proelektrotechniky.cz: „Výběrové řízení bylo zahájeno v březnu 2022. Ministerstvo průmyslu a obchodu udělilo k tomuto kroku souhlas…“ ([proelektrotechniky.cz](https://www.proelektrotechniky.cz/vyroba-a-prenos/266.php?utm_source=openai))  \n  - Ekonomický deník (2023 a 2024): „Tendr na nový jaderný blok v Dukovanech byl oficiálně zahájen v březnu 2022.“ ([ekonomickydenik.cz](https://ekonomickydenik.cz/den-pred-nabidkami-cez-ziskal-uzemni-rozhodnuti-pro-dva-nove-jaderne-bloky-v-dukovanech/))  \n\n- Články z roku 2022 uvádějí, že ČEZ v návaznosti na vládní rozhodnutí **vyzval tři uchazeče k podání nabídek** a že předběžné nabídky měly být podány do konce listopadu 2022. ([ekonomickydenik.cz](https://ekonomickydenik.cz/dnes-je-den-d-soutezici-podaji-sve-nabidky-na-stavbu-pateho-bloku-v-dukovanech/?utm_source=openai))  \n\n### 3.3 Závěr k T2\n\n- **Nejpozději v březnu 2022** bylo výběrové řízení/tendr na nový jaderný blok v Dukovanech **oficiálně zahájeno** a zdroje tento krok výslovně spojují s rozhodnutími a vystoupeními vlády **Petra Fialy**. ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany?utm_source=openai))  \n\n- Předchozí vláda Andreje Babiše připravila právní rámec, smlouvy se státem a fázi bezpečnostního posuzování, ale **k samotnému vyhlášení/„rozběhnutí“ tendru došlo až za Fialovy vlády**.\n\nV tomto smyslu odpovídá tvrzení „my jsme vypsali tendr na Dukovany“ faktickému průběhu událostí, byť zjednodušuje roli předchozí vlády, která připravila většinu podkladů.\n\n---\n\n## 4. T3 – „(tendr) s opcí na dva reaktory v Temelíně“\n\n### 4.1 Obsah zadávací dokumentace – opce na Temelín\n\n- **13. 1. 2022** (tedy krátce po nástupu vlády Petra Fialy) informují média na základě vyjádření mluvčího ČEZ Ladislava Kříže, že:\n\n  - „Součástí zadávací dokumentace je **nezávazná opce na stavbu třetího a čtvrtého bloku Jaderné elektrárny Temelín a šestého bloku v Dukovanech**.“ ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n\n  - Kříž zároveň vysvětluje, že Ministerstvo průmyslu a obchodu (MPO) požádalo ČEZ **„loni v létě“** (tj. v létě 2021, ještě za vlády Andreje Babiše) o doplnění **nezávazných nabídek** na tyto další bloky do poptávkové dokumentace. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n\n- Stejnou informaci přináší další zdroje (Patria.cz, stavebniserver.cz, CNN Prima NEWS), které opakují, že součástí nabídek bude **možná nezávazná opce na stavbu Temelín 3 a 4 a Dukovany 6**. ([patria.cz](https://www.patria.cz/zpravodajstvi/4884726/westinghouse-ma-zajem-o-stavbu-vicero-bloku-normou-jsou-alespon-dva-najednou-existuje-tak-potencial-uspory-nakladu.html?utm_source=openai))  \n\n- Při samotném zahájení tendru (březen 2022) iRozhlas explicitně uvádí: „Součástí nabídek bude také možná nezávazná opce na stavbu třetího a čtvrtého bloku Jaderné elektrárny Temelín a šestého bloku v Dukovanech.“ ([irozhlas.cz](https://www.irozhlas.cz/ekonomika/tendru-jaderna-elektrarna-dukovany-cez-jozef-sikela_2203171522_miz?utm_source=openai))  \n\n- Pozdější články a tiskové zprávy k průběhu tendru dále potvrzují, že:\n  - dodavatelé předkládají nabídky nejen na **pátý blok v Dukovanech**, ale též na **další tři bloky (šestý blok v Dukovanech a dva bloky v Temelíně)**, ([cez.cz](https://www.cez.cz/cs/pro-media/tiskove-zpravy/spolecnost-elektrarna-dukovany-ii-ze-skupiny-cez-obdrzela-doplnene-nabidky-od-uchazecu-na-stavbu-noveho-jaderneho-zdroje-v-dukovanech-i-na-tri-dalsi-jaderne-blo-190889))  \n  - ve hře je tedy **výstavba až čtyř nových jaderných bloků: dvou v Dukovanech a dvou v Temelíně**. ([ekonomickydenik.cz](https://ekonomickydenik.cz/den-pred-nabidkami-cez-ziskal-uzemni-rozhodnuti-pro-dva-nove-jaderne-bloky-v-dukovanech/))  \n\n### 4.2 Kdo opci připravil a kdo ji „nese“\n\nZ časového sledu:\n\n- **Koncept opce** (nezávazné nabídky na EDU6 a ETE3+4) byl podle mluvčího ČEZ Kříže do poptávkové dokumentace vložen **na žádost MPO v létě 2021**, tedy ještě za vlády Andreje Babiše. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n- Fyzicky se tato opce stala **součástí zadávací dokumentace a nabídek** v rámci výběrového řízení, které **bylo oficiálně zahájeno v březnu 2022 za vlády Petra Fialy**. ([proelektrotechniky.cz](https://www.proelektrotechniky.cz/vyroba-a-prenos/266.php?utm_source=openai))  \n\nJinými slovy:\n\n- **Politické rozhodnutí vložit do projektové dokumentace opci na dva bloky v Temelíně vzniklo ještě za Babišovy vlády**,  \n- ale **tendr, v němž tato opce fakticky figuruje, vyhlásila a spustila vláda Petra Fialy**.\n\n### 4.3 Závěr k T3\n\n- Zadávací dokumentace a nabídky v dukovanském tendru **skutečně obsahují nezávaznou opci na dva reaktory v Temelíně (Temelín 3 a 4)**; navíc i na **šestý blok v Dukovanech**. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n\n- Fialova formulace „tendr na Dukovany i s opcí na dva reaktory v Temelíně“ je tedy **věcně přesná**, jen **nezmiňuje**, že opce se týká ještě jednoho dalšího bloku (Dukovany 6) a že samotný koncept opce byl připraven už v roce 2021.\n\n---\n\n## 5. Celkové shrnutí důkazů k výroku\n\n### T1 – „Andrej Babiš zastavil Temelín“\n\n- **Ano, v dubnu 2014 byl zrušen tendr na dostavbu Temelína**, což média často popisují jako „zastavení Temelína“. Formálně rozhodl **ČEZ**, a to v situaci, kdy **vláda Bohuslava Sobotky (v níž byl Andrej Babiš vicepremiérem a ministrem financí) odmítla poskytnout státní garance pro projekt**. ([cez.cz](https://www.cez.cz/cs/pro-media/multimedia/cez-rozhodl-o-zruseni-tendru-na-dostavbu-temelina-44817?utm_source=openai))  \n\n- Tvrzení, že „Andrej Babiš zastavil Temelín“, je tedy **rétorická zkratka**, která personifikuje kolektivní rozhodnutí vlády a orgánů ČEZ. Fakticky neexistuje dokument, že by **Babiš osobně** vydal rozhodnutí o zastavení tendru; na druhou stranu **byl členem vlády, jejíž politika (odmítnutí garancí) ke zrušení tendru vedla**.\n\n### T2 – „my jsme vypsali tendr na Dukovany“\n\n- **Výběrové řízení/tendr na nový jaderný blok v Dukovanech bylo oficiálně zahájeno v březnu 2022**, po rozhodnutí vlády **Petra Fialy** a po pokynu ministra průmyslu Jozefa Síkely společnosti Elektrárna Dukovany II (ČEZ). To potvrzují vládní prohlášení i odborné články. ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/fiala-ministr-prumyslu-podnikne-nutne-kroky-k-vyhlaseni-tendru-na-dukovany?utm_source=openai))  \n\n- Předchozí vláda Andreje Babiše provedla přípravné kroky (bezpečnostní posouzení, smlouvy se státem, EIA, povolení k umístění), ale k samotnému vypsání tendru nedošlo před volbami – harmonogram sám předpokládal, že **tendr spustí až nová vláda**. ([denik.cz](https://www.denik.cz/ekonomika/uchazeci-o-dostavbu-dukovan-musi-do-listopadu-vyplnit-bezpecnostni-dotaznik-2021.html?utm_source=openai))  \n\n→ **Věcně odpovídá realitě**, že „tendr na Dukovany“ byl skutečně vypsán až za vlády Petra Fialy.\n\n### T3 – „(tendr) s opcí na dva reaktory v Temelíně“\n\n- V zadávací dokumentaci dukovanského tendru je **nezávazná opce na výstavbu dvou nových bloků v Temelíně (3. a 4. blok) a jednoho dalšího bloku v Dukovanech (6. blok)**. To potvrzují vyjádření mluvčího ČEZ Ladislava Kříže a řada následných článků. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n\n- Koncept této opce vznikl už v roce 2021 na žádost MPO (za vlády Andreje Babiše), ale **součástí reálně vyhlášeného tendru se stal až v rámci výběrového řízení zahájeného v březnu 2022 za vlády Petra Fialy**. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/vitez-tendru-na-dukovany-by-mohl-v-cr-postavit-az-dalsi-tri-jaderne-bloky/2145226?utm_source=openai))  \n\n→ Fialovo tvrzení, že **„jsme vypsali tendr na Dukovany i s opcí na dva reaktory v Temelíně“**, je z hlediska obsahu tendru **věcně podložené**, ale **opomíjí**, že samotná idea této opce byla připravena už předchozí vládou.\n\n---\n\nTato zpráva shrnuje relevantní oficiální dokumenty (ČEZ, vláda ČR, MPO) a hlavní mediální zdroje, aby bylo možné učinit finální fakt‑checkerské hodnocení celého výroku.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 64639,
+      "input_tokens_details": {
+        "cached_tokens": 5376
+      },
+      "output_tokens": 15946,
+      "output_tokens_details": {
+        "reasoning_tokens": 10808
+      },
+      "total_tokens": 80585
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772543325,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

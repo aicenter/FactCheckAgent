@@ -1,0 +1,474 @@
+{
+  "claim_id": "24710",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260421_113102",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/reports/report24710.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 98.4,
+        "prompt_length": 3373,
+        "input_tokens": 219913,
+        "cached_input_tokens": 124928,
+        "output_tokens": 4854,
+        "web_searches": 4,
+        "final_response": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/claim_interpretation.md).\n\nSoubor vychází z nejcharitativnějšího čtení výroku: ověřovat se má podíl plátců koncesionářských poplatků ve věku 75+, ne podíl této věkové skupiny v celé populaci. Zahrnul jsem i přesné datum výroku, časové okno pro další krok a konkrétní plán hledání primárních zdrojů.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Nejdřív si projdu kontext v repozitáři a ověřím přesné datum a význam výroku, abych zapsal interpretaci do `work/claim_interpretation.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc pwd",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'rg --files'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď si načítám lokální metodické soubory a metadata, ať interpretace odpovídá pipeline a nevychází jen z úryvku v zadání."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' AGENTS.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/prirucka.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' metadata.json\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:plus.rozhlas.cz koncesionarske-poplatky-jsou-zastarale plati je hlavne seniori spd opozice Nerušil 17. dubna 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://plus.rozhlas.cz/koncesionarske-poplatky-jsou-zastarale-plati-je-hlavne-seniori-zni-z-spd-opozice-9610185"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"jedna čtvrtina\" plátců koncesionářského poplatku přes 75 let"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "senioři nad 75 let osvobození od koncesionářských poplatků 2026 návrh SPD Motoristé ANO"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám už přesné znění a datum z pořadu. Ještě doplňuji, jak claim nejcharitativněji číst, aby další krok hledal správný typ zdrojů."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'find . -maxdepth 2 -type d | sort'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Před zápisem ještě kontroluji `work/`, abych nenavázal na už existující rozpracovaný soubor špatně."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la work'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zapisuji interpretaci do `work/claim_interpretation.md`. Zaměřím ji na to, že budeme ověřovat podíl plátců 75+ v databázi koncesionářských poplatků, ne podíl seniorů v celé populaci."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/claim_interpretation.md).\n\nSoubor vychází z nejcharitativnějšího čtení výroku: ověřovat se má podíl plátců koncesionářských poplatků ve věku 75+, ne podíl této věkové skupiny v celé populaci. Zahrnul jsem i přesné datum výroku, časové okno pro další krok a konkrétní plán hledání primárních zdrojů."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 255.6,
+        "prompt_length": 1771,
+        "input_tokens": 658292,
+        "cached_input_tokens": 338048,
+        "output_tokens": 15262,
+        "web_searches": 19,
+        "final_response": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/raw_sources.md).\n\nV souboru jsou primární zdroje k definici plátce a evidenci poplatníků i mediální a institucionální zdroje k debatě z března a dubna 2026. Průběžný závěr z rešerše je, že veřejně dostupné materiály zatím spíš dokládají „zhruba čtvrtinu domácností“ až po sečtení více skupin osvobozených od poplatků, ne jasně „čtvrtinu plátců starších 75 let“. ",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Nejdřív si znovu načtu interpretaci z `work/claim_interpretation.md` a pak budu hledat hlavně primární data ČT, ČRo, Sněmovny a ministerstva kultury. Cílem je nasbírat jak zdroje, které tvrzení podporují, tak i takové, které ho zpochybňují nebo ukazují jinou metodiku."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:ceskatelevize.cz poplatků 75 let plátců ČT"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/doc/cms_library/tk_velka-medialni-novela-18807.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz \"75 let\" \"koncesionář\" \"Česká televize\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"přes 75 let\" \"plátců\" \"koncesionářských poplatků\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:informace.rozhlas.cz \"75 let\" \"poplatníků\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"jedna čtvrtina plátců\" \"75 let\" SPD"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.irozhlas.cz/zpravy-domov/zavoral-k-navrhu-poslancu-rozhlas-prijde-o-tretinu-prijmu-dopadne-na-tvorbu_2603241556_ako"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:ceskatelevize.cz/vse-o-ct/api/media/documents výroční zpráva hospodaření 2024 televizní poplatky pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:ceskatelevize.cz \"47 procent\" \"65 let\" Chudárek"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:csu.gov.cz populace 75 let a více 2025 Česko"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz \"660 tisíc domácností\" poplatky"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Právě tato skupina starších občanů dává dohromady více než polovinu všech peněz\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz 348/2005 rozhlasových a televizních poplatcích § 4 osvobození"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:rozhlas.cz \"více než milion\" domácností poplatek rozhlas"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://rada.rozhlas.cz/sites/default/files/documents/d498d4013e85bebfd74d0e20420f2cde.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:rada.rozhlas.cz 75 let poplatníků pdf rozhlas"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"jedna čtvrtina plátců koncesionářského poplatku\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám už sadu primárních i sekundárních zdrojů. Teď je sepíšu do `work/raw_sources.md` tak, aby bylo vidět i to, že veřejně dostupné zdroje zatím spíš dokládají širší zásah na „čtvrtinu domácností“ než přesně „čtvrtinu plátců 75+“."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,320p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/raw_sources.md).\n\nV souboru jsou primární zdroje k definici plátce a evidenci poplatníků i mediální a institucionální zdroje k debatě z března a dubna 2026. Průběžný závěr z rešerše je, že veřejně dostupné materiály zatím spíš dokládají „zhruba čtvrtinu domácností“ až po sečtení více skupin osvobozených od poplatků, ne jasně „čtvrtinu plátců starších 75 let“. "
+          }
+        ]
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 114.2,
+        "prompt_length": 2274,
+        "input_tokens": 861297,
+        "cached_input_tokens": 518400,
+        "output_tokens": 21788,
+        "web_searches": 0,
+        "final_response": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/refined_sources.md).\n\nVyřadil jsem neověřený stenografický snippet, ponechal validované primární a tier-1 zdroje pro kontext a v závěru jsem výslovně poznamenal, že pro hlavní kvantitativní část výroku zatím chybí přímý veřejný podklad. To je teď hlavní limit pro další krok.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď projdu nasbírané zdroje proti rankingům a vyřadím ty, které jen opakují primární informaci bez lepší opory. Zaměřím se hlavně na to, jestli pro samotný podíl plátců 75+ máme opravdu použitelný tier-1 podklad, nebo jen nepřímé indicie."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,320p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď přepisuji výběr do `work/refined_sources.md`: nechám jen validované a užitečné zdroje, duplicitní mediální přepisy označím a neověřené citace vyřadím. Hlavní výsledek bude nejspíš ten, že pro samotné „25 % plátců 75+“ stále chybí přímý veřejný podklad."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,360p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/refined_sources.md).\n\nVyřadil jsem neověřený stenografický snippet, ponechal validované primární a tier-1 zdroje pro kontext a v závěru jsem výslovně poznamenal, že pro hlavní kvantitativní část výroku zatím chybí přímý veřejný podklad. To je teď hlavní limit pro další krok."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 63.2,
+        "prompt_length": 2388,
+        "input_tokens": 1124573,
+        "cached_input_tokens": 772480,
+        "output_tokens": 24896,
+        "web_searches": 0,
+        "final_response": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/draft.md).\n\nText je postavený jako výrok neověřitelný: dostupné zdroje vysvětlují, kdo je plátce a jak velké jsou evidence ČT a ČRo, ale nedávají přímý věkový rozpad plátců. Zároveň jsem do draftu zapracoval, že „čtvrtina“ se ve veřejných podkladech vztahovala spíš k širšímu součtu osvobozovaných domácností než k samotným lidem nad 75 let.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Nejdřív si načtu stylistická pravidla a pár hotových příkladů, ať draft sedí formátem Demagogu. Pak sepíšu text tak, aby bylo jasné, že problém není jen v datu, ale hlavně v absenci přímého veřejného podkladu pro tvrzených 25 %."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,320p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"python - <<'PY'\nfrom pathlib import Path\ntext = Path('guides/examples.txt').read_text()\nparts = text.split('\\\\n===\\\\n')\nfor i, part in enumerate(parts[:2], 1):\n    print(f'--- EXAMPLE {i} ---')\n    print(part[:6000])\nPY\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Píšu draft jako neověřitelný výrok. Opřu ho o dvě věci: veřejně dostupné zdroje mluví o plátci jako o domácnosti a dostupné oficiální materiály neobsahují věkový rozpad, zatímco „čtvrtina“ se v jiných zdrojích týká součtu více osvobozovaných skupin."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/draft.md).\n\nText je postavený jako výrok neověřitelný: dostupné zdroje vysvětlují, kdo je plátce a jak velké jsou evidence ČT a ČRo, ale nedávají přímý věkový rozpad plátců. Zároveň jsem do draftu zapracoval, že „čtvrtina“ se ve veřejných podkladech vztahovala spíš k širšímu součtu osvobozovaných domácností než k samotným lidem nad 75 let."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 112.4,
+        "prompt_length": 1226,
+        "input_tokens": 1555413,
+        "cached_input_tokens": 1168256,
+        "output_tokens": 31198,
+        "web_searches": 3,
+        "final_response": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/verification.md).\n\nBěhem kontroly jsem upravil [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/draft.md): odstranil jsem odkaz na název média a přepsal pasáž s PDF tak, aby draft stál na spot-checknutých HTML zdrojích. Výsledek verifikace je `PASS`.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď projdu checklist bod po bodu a udělám i spot-check odkazů přímo proti citovanému obsahu. Pokud něco neprojde, upravím jen dotčené místo v draftu a znovu přehodnotím jen selhané body."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/verification_checklist.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/rozhlasove-a-televizni-poplatky-cs-488"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.irozhlas.cz/zpravy-domov/zavoral-k-navrhu-poslancu-rozhlas-prijde-o-tretinu-prijmu-dopadne-na-tvorbu_2603241556_ako"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Domácnosti platí' in https://poplatky.ceskatelevize.cz/domacnost"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Na checklistu teď padly dvě věci: jeden odkaz je na jménu média místo na klíčovém slově a u PDF odkazů chybí stránky. Opravím to zjednodušením druhého důkazního odstavce tak, aby stál na HTML zdrojích, které jsme už spot-checkli."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Úprava draftu je hotová. Teď znovu kontroluji jen dříve problematické body a pak sepíšu kompletní checklist do `work/verification.md` s výsledkem PASS."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/verification.md).\n\nBěhem kontroly jsem upravil [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/work/draft.md): odstranil jsem odkaz na název média a přepsal pasáž s PDF tak, aby draft stál na spot-checknutých HTML zdrojích. Výsledek verifikace je `PASS`."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 24.4,
+        "prompt_length": 313,
+        "input_tokens": 1888499,
+        "cached_input_tokens": 1407872,
+        "output_tokens": 32942,
+        "web_searches": 0,
+        "final_response": "Hotovo. Finální report je v [output/report.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/output/report.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Nejdřív ověřím, že `work/verification.md` opravdu končí `## Result: PASS`, a pak sestavím finální report do `output/report.md` ze znění výroku a schváleného draftu."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 5 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"python - <<'PY'\nimport json\nfrom pathlib import Path\nprint(json.loads(Path('metadata.json').read_text())['claim'])\nPY\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikace končí `## Result: PASS`. Teď zapisuji finální sestavu do `output/report.md` bez dalších změn obsahu reportu."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' output/report.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Hotovo. Finální report je v [output/report.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24710/output/report.md)."
+          }
+        ]
+      }
+    }
+  ]
+}

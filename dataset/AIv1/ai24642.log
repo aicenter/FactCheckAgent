@@ -1,0 +1,502 @@
+{
+  "claim_id": "24642",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260304_092626",
+  "source_md": "experiments/gpt5.1_h_20260304_092626/brief_fact_check_id24642.md",
+  "fact_check": "# Fact Check for Statement ID 24642\n\n## Statement\nMáme jednu z nejnižších nezaměstnaností v EU.\n\n---\n## AI Fact Check\n## 1. Shrnutí hodnocení\n\n**Hodnocení výroku:**  \nVýrok „Máme jednu z nejnižších nezaměstnaností v EU“ je **pravdivý** při rozumné interpretaci jako tvrzení o celkové (harmonizované) míře nezaměstnanosti v ČR v porovnání s ostatními státy EU v době výroku (léto/podzim 2025).\n\nKolem září 2025 se Česko podle dat Eurostatu pohybovalo mezi 1.–4. místem z 27 členských zemí EU a dlouhodobě (od poloviny 2010s) patří mezi země s úplně nejnižší nezaměstnaností.\n\n---\n\n## 2. Interpretace a časové vymezení výroku\n\n- Výrok je citován z pořadu „K věci“ dne **18. 9. 2025**, následně použit v Partii 1. 3. 2026.  \n- Formulace „Máme jednu z nejnižších nezaměstnaností v EU“ je v přítomném čase a zjevně míří na **aktuální stav v roce 2025**, ne na konkrétní měsíc, ale z kontextu jde o „současnost“ okolo léta/podzimu 2025.\n- Proto porovnáváme:\n  - měsíční **harmonizovanou míru nezaměstnanosti Eurostatu (LFS, 15–74 let)** – to je standard pro mezinárodní srovnání v EU,  \n  - a případně česká data ČSÚ (VŠPS), která jsou zdrojem pro Eurostat.\n\n---\n\n## 3. Úroveň nezaměstnanosti v ČR kolem výroku (národní data)\n\n### 3.1 Duben 2025\n\nČeský statistický úřad (ČSÚ) uvádí pro duben 2025:\n\n- „Míra nezaměstnanosti … dosáhla v dubnu **2,7 %**“ (věk 15–64 let). ([csu.gov.cz](https://csu.gov.cz/rychle-informace/rates-of-employment-unemployment-and-economic-activity-april-2025?utm_source=openai))  \n\nTo je velmi nízká hodnota i v čistě národním kontextu (ČR má dlouhodobě „plnou zaměstnanost“ kolem 2–3 %).\n\n### 3.2 Srpen 2025\n\nČSÚ pro srpen 2025 (VŠPS) uvádí:\n\n- „Podíl nezaměstnaných k ekonomicky aktivním … dosáhl v srpnu **3,1 %**“ (15–64 let). ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n- Pro srovnatelný věkový interval 15–74 let, který používá Eurostat, byla podle stejné zprávy míra nezaměstnanosti **3,2 %**. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/rates-of-employment-unemployment-and-economic-activity-august-2025))  \n\nSoučasně ČSÚ výslovně konstatuje, že:\n\n> „Nezaměstnanost se v Česku letos mírně zvyšuje, nicméně stále je ve srovnání s mírou nezaměstnanosti v Evropské unii na zhruba **poloviční úrovni**. Česko se již od roku 2015 udržuje v přehledech Eurostatu **mezi třemi státy s nejnižší mírou nezaměstnanosti**.“ ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n\nTo je přímé potvrzení, že i v roce 2025 ČR patří v přehledech Eurostatu k úplné špičce s nejnižší nezaměstnaností.\n\n---\n\n## 4. Srovnání v rámci EU (Eurostat)\n\n### 4.1 Duben 2025 – ČR úplně nejnižší (sdílí 1. místo)\n\nMaďarský statistický úřad (HCSO) publikuje přehled „Unemployment trends in the EU Member States, April 2025“ založený na datech Eurostatu (sezonně očištěná míra nezaměstnanosti, 15–74 let):\n\n- EU průměr: **5,9 %**  \n- „Unemployment was **lowest in Czechia and Malta (both 2.7%)**, highest in Spain (10.9%) and Finland (9.1%).“ ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/))  \n- V tabulce je pro Česko uvedeno **2,7 %**, pro Maltu také 2,7 %, další nejnižší státy (Polsko, Bulharsko) mají 3,3 %. ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/))  \n\n=> V dubnu 2025 měla ČR **spolu s Maltou nejnižší nezaměstnanost v celé EU**.\n\n### 4.2 Červenec 2025 – ČR druhá nejnižší\n\nČlánek ČTK na Novinky.cz shrnuje červencová data Eurostatu:\n\n- „Míra nezaměstnanosti v Evropské unii v červenci klesla na **5,9 %**… Druhá nejnižší zůstala míra nezaměstnanosti v Česku.“ ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-nezamestnanost-v-eu-klesla-na-59-procenta-v-cesku-je-druha-nejnizsi-40536572))  \n- „V Česku bylo bez práce **2,8 %** lidí… Nejnižší míru nezaměstnanosti hlásí opět **Malta, 2,6 %**.“ ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-nezamestnanost-v-eu-klesla-na-59-procenta-v-cesku-je-druha-nejnizsi-40536572))  \n\n=> V červenci 2025 má ČR **druhou nejnižší** nezaměstnanost v EU (2,8 % vs. maltských 2,6 %), hluboko pod průměrem EU (5,9 %).\n\n### 4.3 Srpen 2025 – ČR třetí–čtvrtá nejnižší\n\nPřehled HCSO pro srpen 2025 (opět Eurostat, sezonně očištěná míra nezaměstnanosti 15–74 let) uvádí:\n\n- EU průměr: **5,9 %**. ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/))  \n- „Unemployment was lowest in **Malta and Slovenia (2.9% in both)**, highest in Spain (10.3%) and Finland (9.8%).“ ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/))  \n- V tabulce jsou pro vybrané státy hodnoty:  \n  - Malta: **2,9 %**  \n  - Slovinsko: **2,9 %**  \n  - **Czechia: 3,2 %**  \n  - Polsko: 3,2 %  \n  - Bulharsko: 3,6 %  \n  - Německo: 3,7 %  \n  - Nizozemsko: 3,9 % ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/))  \n\n=> V srpnu 2025 je ČR **ve skupině zemí s 3.–4. nejnižší nezaměstnaností** v EU:  \n2,9 % (Malta, Slovinsko) < **3,2 % (Česko, Polsko)** < 3,6 % (Bulharsko), 3,7 % (Německo), 3,9 % (Nizozemsko) atd.\n\nV kombinaci s údajem ČSÚ, že česká míra nezaměstnanosti je „zhruba na polovině průměru EU“, jde jednoznačně o **„jednu z nejnižších“** v Unii. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n\n---\n\n## 5. Dlouhodobý kontext (před rokem 2025)\n\nVýrok implicitně navazuje na dlouhodobou pozici ČR v rámci EU. K tomu existuje řada oficiálních potvrzení:\n\n- **ČSÚ (srpen 2025):**  \n  „Česko se již od roku 2015 udržuje v přehledech Eurostatu mezi **třemi státy s nejnižší mírou nezaměstnanosti**.“ ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n\n- **Mezinárodní organizace práce (ILO, červenec 2024):**  \n  ILO píše, že Česko má „**nejnižší míru nezaměstnanosti v EU a OECD** – 2,4 % v roce 2022, oproti průměru EU 6,2 % (Eurostat).“ ([ilo.org](https://www.ilo.org/ilo-czechia?utm_source=openai))  \n\n- **EURES (Evropská služba zaměstnanosti):**  \n  U profilu ČR uvádí, že podle posledních dat Eurostatu (březen 2024) má ČR „**jednu z nejnižších měr nezaměstnanosti v EU**, 2,1 % oproti průměru EU 6,0 %.“ ([europeanjobdays.eu](https://europeanjobdays.eu/en/eures-country/czechia?utm_source=openai))  \n\nTyto zdroje dokládají, že **nejde o krátkodobý výkyv**, ale o dlouhodobý stav – ČR se skutečně už řadu let pohybuje na prvních místech žebříčků EU podle nízké nezaměstnanosti.\n\n---\n\n## 6. Registrace nezaměstnanosti (Úřad práce) vs. harmonizovaná míra (Eurostat)\n\nPolitici i média někdy míchají dva různé ukazatele:\n\n1. **Harmonizovaná míra nezaměstnanosti (LFS, VŠPS)** – používaná Eurostatem pro srovnání států EU.  \n2. **Podíl nezaměstnaných osob / registrovaná nezaměstnanost (Úřad práce ČR)** – národní administrativní ukazatel, mezinárodně hůře srovnatelný.\n\nKolem srpna 2025:\n\n- Ministerstvo práce a sociálních věcí (přes média) uvádělo, že podíl nezaměstnaných osob podle Úřadu práce v srpnu 2025 činil **4,5 %** a „i přes nárůst zůstává jednou z nejnižších v rámci Evropské unie“. ([hrnews.cz](https://www.hrnews.cz/lidske-zdroje/nabor-id-2698717/nezamestnanost-v-cesku-v-srpnu-mirne-vzrostla-na-4-5-zustava-id-4474860?utm_source=openai))  \n\nČSÚ ale zároveň zdůrazňuje, že pro mezinárodní srovnání v EU se používá **VŠPS/LFS**, nikoli administrativa ÚP. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n\nKlíčové však je, že **obě** sady údajů (LFS i registrace ÚP) mluví o tom, že ČR zůstává „mezi zeměmi s nejnižší nezaměstnaností v EU“, byť přesné hodnoty se liší podle metodiky.\n\n---\n\n## 7. Závěrečné zhodnocení výroku\n\n### Co výrok tvrdí – v nejpravděpodobnější interpretaci\n\n1. **Subjekt:** Česko.  \n2. **Ukazatel:** celková míra nezaměstnanosti (standardní „nezaměstnanost“ v politické debatě; pro srovnání v EU obvykle harmonizovaná míra podle Eurostatu).  \n3. **Čas:** aktuální stav v době výroku (konec léta / začátek podzimu 2025).  \n4. **Srovnání:** v rámci všech členských států EU (EU‑27) máme „jednu z nejnižších“ hodnot.\n\n### Jak to sedí na data\n\n- V **dubnu 2025** byla nezaměstnanost v ČR **nejnižší v EU (spolu s Maltou)** – 2,7 % vs. průměr EU 5,9 %. ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/))  \n- V **červenci 2025** měla ČR **druhou nejnižší** nezaměstnanost v EU – 2,8 % vs. EU 5,9 %, pod ČR byla už jen Malta (2,6 %). ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-nezamestnanost-v-eu-klesla-na-59-procenta-v-cesku-je-druha-nejnizsi-40536572))  \n- V **srpnu 2025** byla ČR **ve skupině zemí s 3.–4. nejnižší** nezaměstnaností – 3,2 %, nižší hodnoty pouze Malta a Slovinsko (2,9 %), shodná hodnota Polsko (3,2 %), zatímco průměr EU byl 5,9 %. ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/))  \n- Oficiální český statistický úřad výslovně potvrzuje, že Česko se **od roku 2015 drží mezi třemi státy s nejnižší mírou nezaměstnanosti v přehledech Eurostatu**. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n- I mezinárodní instituce (ILO, EURES) popisují ČR jako stát s **nejnižší nebo jednou z nejnižších měr nezaměstnanosti v EU** v předchozích letech. ([ilo.org](https://www.ilo.org/ilo-czechia?utm_source=openai))  \n\n### Verdikt\n\nNa základě harmonizovaných dat Eurostatu i národních dat ČSÚ platí, že v době výroku (rok 2025) měla Česká republika **jednu z nejnižších měr nezaměstnanosti v Evropské unii** – konkrétně se pohybovala na **1.–4. místě** mezi členskými státy EU.\n\nVýrok „Máme jednu z nejnižších nezaměstnaností v EU“ je tedy **podložen dostupnými daty a lze jej hodnotit jako pravdivý** (s obvyklou metodickou podmínkou, že jde o harmonizovanou míru nezaměstnanosti podle Eurostatu).\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Petr Fiala, Poslanec\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:03:09\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nTo jsou nesrovnatelné věci. Jedna, v jedné chvíli jsme byli po pandemii, teď jsme byli samozřejmě asi, já nevím, po energetické krizi atd., ale v každém případě já tvrdím, že ten motor té ekonomiky je privátní sektor. Zeptejme se podnikatelů, jak se jim zaměstnávalo, zeptejme se, jak se vypořádávali s vysokými cenami energií, proč se snížily investice právě v privátním sektoru, a to jsou důsledky toho, co vláda Petra Fialy zde čtyři roky činila. Já neříkám, že všechno, co dělali, byla jejich vina. To zase není možné takhle to říct, že jsme byli v komplikovaném období, byli jsme v době energetické krize, ale opatření, které dělala tato vláda a která mohla dělat, tak to bylo to, co bylo terčem naší kritiky.\\n00:03:50\\nTerezie Tománková,moderátorka\\nDěkuju. A slibuju, že se k inflaci a energiím vrátíme k těm detailům. Pane poslanče Fialo, bylo to opravdu všechno tak růžové, v jakém stavu je ekonomika Česka a celé Česko?\\n00:04:00\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nJá jsem nikdy neříkal, že to je celé růžové, ale říkal jsem, že jdeme správným směrem a že se ekonomice daří, což je pravda a dokládají to čísla. Pan Havlíček se k tomu nemůže vracet, protože by se ukázalo, že to, co říkali před volbami, byla lež, že lhali lidem. A na základě lží o tom, jak je na tom naše ekonomika, jak je naše země spálená, tak vlastně vyhráli volby, a to já nezpochybňuju, že vyhráli volby a nechci se k tomu vracet. Ale když se podíváme na čísla, osmá nejzdravější ekonomika v Evropské unii, jedna z nejnižších inflací, máme teď už dokonce i Alena Schillerová nebo, nebo sám pan Babiš, nevím kdo, říkají, že ta země není tolik zadlužená, předtím říkali, že jsme katastrofálně zadlužení. Deficit veřejných financí z 5 %, když jsme ho přebírali po Babišově vládě, pod 2 % HDP, což je prokazatelný úspěch konsolidační politiky naší vlády. A pokud jde o ty investice, vždyť jsme druhá nejvíce investující země v Evropské unii, a to je samozřejmě dáno vládními investicemi, ale je to dáno investicemi soukromého sektoru. Zaměstnávání zaměstnanců nebo zaměstnávání lidí, vždyť máme jednu z nejnižších nezaměstnaností v EU. Tak já myslím, že pan Havlíček nemůže na základě čísel líčit výsledky naší vlády jako špatné. Té zemi se daří, daří se ekonomicky a mám z toho radost.\\n00:05:21\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Máme jednu z nejnižších nezaměstnaností v EU.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 269.74 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Míra nezaměstnanosti v ČR se v roce 2025 podle ČSÚ a Eurostatu pohybovala kolem 3 % a patřila k nejnižším v EU (1.–4. místo z 27 zemí). Výrok, že máme jednu z nejnižších nezaměstnaností v EU, proto hodnotíme jako pravda.</p>\n\n<p>Ověřovali jsme výrok: <i>„Máme jednu z nejnižších nezaměstnaností v EU.“</i> Týká se porovnání celkové míry nezaměstnanosti v České republice se stavem v ostatních členských státech Evropské unie v době, kdy byl výrok pronesen, tedy v nedávné „současnosti“ kolem roku 2025.</p>\n\n<p>Pro mezinárodní srovnání se v rámci EU standardně používá harmonizovaná míra nezaměstnanosti podle metodiky šetření pracovních sil (LFS). V Česku tuto statistiku publikuje Český statistický úřad (VŠPS) a na její základě vytváří své přehledy i Eurostat. Na národní úrovni pak existuje ještě odlišný ukazatel registrované nezaměstnanosti z Úřadu práce, který je ale pro srovnání mezi státy méně vhodný. V našem hodnocení proto vycházíme především z harmonizovaných dat, jak je používají <a href=\"https://csu.gov.cz/rychle-informace/rates-of-employment-unemployment-and-economic-activity-april-2025\" target=\"_blank\">ČSÚ</a> a přehledy založené na údajích Eurostatu.</p>\n\n<p>Podle Rychlé informace <a href=\"https://csu.gov.cz/rychle-informace/rates-of-employment-unemployment-and-economic-activity-april-2025\" target=\"_blank\">ČSÚ o zaměstnanosti a nezaměstnanosti za duben 2025</a> dosáhla míra nezaměstnanosti v ČR (věk 15–64 let) hodnoty 2,7 %. V pozdějším období, ve srpnu 2025, uvádí jiná zpráva <a href=\"https://csu.gov.cz/rychle-informace/rates-of-employment-unemployment-and-economic-activity-august-2025\" target=\"_blank\">ČSÚ pro srovnatelnou věkovou skupinu 15–74 let</a> míru nezaměstnanosti 3,2 %. Jde tedy o velmi nízké hodnoty i v čistě českém kontextu.</p>\n\n<p>Tyto národní údaje zapadají do celoevropského srovnání. Přehled maďarského statistického úřadu založený na datech Eurostatu pro duben 2025 uvádí, že průměrná míra nezaměstnanosti v EU činila 5,9 %, zatímco v Česku a na Maltě byla shodně 2,7 %. V obou zemích tak byla nezaměstnanost nejnižší v celé EU, jak shrnuje <a href=\"https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/\" target=\"_blank\">přehled „Unemployment trends in the EU Member States, April 2025“</a>.</p>\n\n<p>Červencová data Eurostatu komentovaný článek na serveru <a href=\"https://www.novinky.cz/clanek/ekonomika-nezamestnanost-v-eu-klesla-na-59-procenta-v-cesku-je-druha-nejnizsi-40536572\" target=\"_blank\">Novinky.cz</a> popisuje tak, že průměr EU byl opět 5,9 %, zatímco v Česku činila míra nezaměstnanosti 2,8 %. Nejnižší nezaměstnanost měla Malta (2,6 %), Česko bylo podle téhož přehledu druhé nejnižší v celé EU. I zde tedy platí, že Česká republika patří do úplné evropské špičky s nejnižší nezaměstnaností.</p>\n\n<p>Silné postavení ČR mezi státy EU potvrzují i srpnová čísla. Přehled maďarského statistického úřadu založený na údajích Eurostatu pro srpen 2025 uvádí průměrnou míru nezaměstnanosti v EU opět 5,9 %, přičemž nejnižší nezaměstnanost měly Malta a Slovinsko (2,9 %). Česká republika a Polsko měly shodně 3,2 %, jak ukazuje tabulka v materiálu <a href=\"https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/\" target=\"_blank\">„Unemployment trends in the EU Member States, August 2025“</a>. V žebříčku 27 zemí tak Česko zaujímá přibližně 3.–4. místo, stále výrazně pod průměrem EU.</p>\n\n<p>Stejná srpnová zpráva <a href=\"https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025\" target=\"_blank\">ČSÚ o mírách zaměstnanosti a nezaměstnanosti</a> zároveň ukazuje dlouhodobý kontext. Úřad zde doslova uvádí, že <i>„Česko se již od roku 2015 udržuje v přehledech Eurostatu … mezi třemi státy s nejnižší mírou nezaměstnanosti.“</i> To potvrzuje, že nejde o krátkodobý výkyv, ale o trvalejší pozici České republiky mezi zeměmi s nejnižší nezaměstnaností v EU.</p>\n\n<p>Na dlouhodobě velmi nízkou nezaměstnanost v ČR poukazují i mezinárodní instituce. Profil České republiky na stránkách Mezinárodní organizace práce uvádí, že v roce 2022 měla ČR podle Eurostatu nejnižší míru nezaměstnanosti v EU i v OECD, když činila 2,4 % oproti průměru EU 6,2 %, jak shrnuje profil země na webu <a href=\"https://www.ilo.org/ilo-czechia\" target=\"_blank\">ILO</a>. Informační stránka o ČR na portálu <a href=\"https://europeanjobdays.eu/en/eures-country/czechia\" target=\"_blank\">EURES</a> zase popisuje, že podle dat Eurostatu z března 2024 dosahovala míra nezaměstnanosti v ČR 2,1 %, zatímco průměr EU byl 6,0 %, a označuje ji za „jednu z nejnižších“ v Unii.</p>\n\n<p>Jiný úhel pohledu nabízí registry Úřadu práce. Podle článku shrnujícího údaje Ministerstva práce a sociálních věcí činil v srpnu 2025 podíl nezaměstnaných osob evidovaných Úřadem práce 4,5 %. V textu se zároveň uvádí, že tato hodnota <i>„zůstává jednou z nejnižších v rámci Evropské unie“</i>, jak píše server <a href=\"https://www.hrnews.cz/lidske-zdroje/nabor-id-2698717/nezamestnanost-v-cesku-v-srpnu-mirne-vzrostla-na-4-5-zustava-id-4474860\" target=\"_blank\">HR News</a>. I administrativní ukazatel tedy potvrzuje, že se Česko řadí mezi členské státy s nejnižší nezaměstnaností.</p>\n\n<p>Výrok, který ověřujeme, obsahuje v zásadě dvě ověřitelné části. Zaprvé, že se mluví o nezaměstnanosti v České republice v porovnání s ostatními státy Evropské unie. Zadruhé, že tato nezaměstnanost patří mezi vůbec nejnižší v celé EU, což lze z hlediska dat přeložit tak, že ČR je dlouhodobě na prvních několika příčkách žebříčku 27 zemí.</p>\n\n<p>Harmonizovaná míra nezaměstnanosti podle Eurostatu ukazuje, že v roce 2025 se Česko v jednotlivých měsících pohybovalo kolem 3 % a podle dostupných přehledů bylo v dubnu společně s Maltou na prvním místě, v červenci druhé a v srpnu ve skupině zemí se třetí až čtvrtou nejnižší nezaměstnaností v EU. Ve všech těchto měsících byla česká nezaměstnanost zhruba na polovině průměru Evropské unie, jak ukazují přehledy <a href=\"https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/\" target=\"_blank\">maďarského statistického úřadu založené na datech Eurostatu</a> i komentář <a href=\"https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025\" target=\"_blank\">ČSÚ</a>.</p>\n\n<p>Pokud výraz „jednu z nejnižších“ chápeme v běžném smyslu jako „patřící mezi několik málo nejlépe hodnocených zemí“, pak situace, kdy se ČR stabilně pohybuje mezi prvním a čtvrtým místem ze 27 států, tuto podmínku jednoznačně splňuje. Stejný závěr podporují i dlouhodobé charakteristiky od ČSÚ, ILO a EURES, které všechny popisují Česko jako zemi s nejnižší či jednou z nejnižších měr nezaměstnanosti v Evropské unii.</p>\n\n<p>Na základě těchto údajů uzavíráme, že výrok „Máme jednu z nejnižších nezaměstnaností v EU“ odpovídá realitě v době, kdy zazněl. Česká republika skutečně patří mezi členské státy s nejnižší nezaměstnaností, a to dlouhodobě. Celkově proto výrok hodnotíme jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0acf480b38b102790069a7ecb3676481a183fdf06ddf137c69",
+    "created_at": 1772612787.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0acf480b38b102790069a7ecc39da881a1b4b96e3dbd07c342",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ecd115f881a1a07cce730bec39c4",
+        "action": {
+          "query": "Eurostat unemployment rate Czechia July 2025 one of lowest in EU",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Eurostat unemployment rate Czechia July 2025 one of lowest in EU",
+            "\"Czechia\" unemployment rate Eurostat 2025 EU lowest unemployment",
+            "Eurostat unemployment rates by country 2024 EU Czechia lowest unemployment"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ecd4466081a19c217918f7c037ee",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ecd6938081a197e406d9ec895205",
+        "action": {
+          "query": "Eurostat une_rt_m unemployment rate by sex and age monthly data Czechia August 2025",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Eurostat une_rt_m unemployment rate by sex and age monthly data Czechia August 2025",
+            "\"une_rt_m\" Czechia 2025 unemployment monthly",
+            "Eurostat Czechia unemployment rate 15-74 August 2025",
+            "\"Czechia\" \"unemployment rate\" \"August 2025\" Eurostat"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ecd8c71081a1ad7c95dcac8c1d3e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ecdbb2f881a19437776bca04016c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ecdce04c81a194d4b01e13aad1d4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ecdd2f6081a19890861ac5028d50",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ecde603881a1b3a0edc4866602be",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ece3922c81a1a5dbbf92a21f7135",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ece50a9481a1bbbdc4ac6f1b5f79",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7eceaed5881a185cba59667d5b8e8",
+        "action": {
+          "query": "\"Euro area unemployment\" \"July 2025\" Eurostat 30 August 2025",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Euro area unemployment\" \"July 2025\" Eurostat 30 August 2025",
+            "\"Euro area unemployment at\" 30 August 2025 Eurostat"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7eced867881a19c37dee70dbb4931",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ecf0bc9481a19d48dc5effba963c",
+        "action": {
+          "query": "Czechia lowest unemployment rate EU 2024 Eurostat",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Czechia lowest unemployment rate EU 2024 Eurostat",
+            "\"Czechia\" \"lowest unemployment\" \"EU\" 2023 2024 Eurostat",
+            "\"Czech Republic\" \"lowest unemployment rate\" in the EU 2023"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ecf35fe881a19be6879d30649a64",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ed00e97c81a1adc847e3564d87c0",
+        "action": {
+          "query": "\"Eurostat\" \"unemployment\" \"April 2025\" \"Czechia\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Eurostat\" \"unemployment\" \"April 2025\" \"Czechia\"",
+            "\"Euro area unemployment at\" \"April 2025\" Eurostat 2025",
+            "\"unemployment was lowest in\" \"Czechia\" 2025 \"Eurostat\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ed033fdc81a19706967c93f0e22b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ed0a913c81a1bb36d1b8849b966b",
+        "action": {
+          "query": "\"podil nezamestnanych osob\" EU srovnani 2025",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"podil nezamestnanych osob\" EU srovnani 2025",
+            "Míra nezaměstnanosti ČR v EU srovnání Eurostat 2023 2024 2025"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ed0d480081a1b3b8e705a89cd238",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ed16033081a18b24eed8f49e2c0a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ed19979c81a1aeef63e5f6cffb13",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ed1daae481a1813621d4a3e79da1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ed1f52dc81a1ba346d8bc5400913",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0acf480b38b102790069a7ed1f898c81a193e8013881329c00",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0acf480b38b102790069a7ed22497081a1981a231565f81bf9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0acf480b38b102790069a7ed75cec081a181c730a67cc04c2a",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1380,
+                "start_index": 1245,
+                "title": "Rates of employment, unemployment and economic activity - April 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/rates-of-employment-unemployment-and-economic-activity-april-2025?utm_source=openai"
+              },
+              {
+                "end_index": 1770,
+                "start_index": 1633,
+                "title": "Míry zaměstnanosti, nezaměstnanosti a ekonomické aktivity - srpen 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai"
+              },
+              {
+                "end_index": 2017,
+                "start_index": 1899,
+                "title": "Rates of employment, unemployment and economic activity - August 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/rates-of-employment-unemployment-and-economic-activity-august-2025"
+              },
+              {
+                "end_index": 2461,
+                "start_index": 2324,
+                "title": "Míry zaměstnanosti, nezaměstnanosti a ekonomické aktivity - srpen 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai"
+              },
+              {
+                "end_index": 3148,
+                "start_index": 3008,
+                "title": "Unemployment trends in the European Union Member States, April 2025 – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/"
+              },
+              {
+                "end_index": 3410,
+                "start_index": 3270,
+                "title": "Unemployment trends in the European Union Member States, April 2025 – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/"
+              },
+              {
+                "end_index": 3855,
+                "start_index": 3723,
+                "title": "Nezaměstnanost v EU klesla na 5,9 procenta. V Česku je druhá nejnižší - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-nezamestnanost-v-eu-klesla-na-59-procenta-v-cesku-je-druha-nejnizsi-40536572"
+              },
+              {
+                "end_index": 4092,
+                "start_index": 3960,
+                "title": "Nezaměstnanost v EU klesla na 5,9 procenta. V Česku je druhá nejnižší - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-nezamestnanost-v-eu-klesla-na-59-procenta-v-cesku-je-druha-nejnizsi-40536572"
+              },
+              {
+                "end_index": 4537,
+                "start_index": 4396,
+                "title": "Unemployment trends in the European Union Member States, August 2025 – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/"
+              },
+              {
+                "end_index": 4796,
+                "start_index": 4655,
+                "title": "Unemployment trends in the European Union Member States, August 2025 – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/"
+              },
+              {
+                "end_index": 5147,
+                "start_index": 5006,
+                "title": "Unemployment trends in the European Union Member States, August 2025 – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/"
+              },
+              {
+                "end_index": 5630,
+                "start_index": 5493,
+                "title": "Míry zaměstnanosti, nezaměstnanosti a ekonomické aktivity - srpen 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai"
+              },
+              {
+                "end_index": 6070,
+                "start_index": 5933,
+                "title": "Míry zaměstnanosti, nezaměstnanosti a ekonomické aktivity - srpen 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai"
+              },
+              {
+                "end_index": 6324,
+                "start_index": 6262,
+                "title": "The ILO in Czechia | International Labour Organization",
+                "type": "url_citation",
+                "url": "https://www.ilo.org/ilo-czechia?utm_source=openai"
+              },
+              {
+                "end_index": 6626,
+                "start_index": 6533,
+                "title": "Czechia | EURES - European Job Days",
+                "type": "url_citation",
+                "url": "https://europeanjobdays.eu/en/eures-country/czechia?utm_source=openai"
+              },
+              {
+                "end_index": 7576,
+                "start_index": 7419,
+                "title": "Nezaměstnanost v Česku v srpnu mírně vzrostla na 4,5 %, zůstává jedna z nejnižších v EU | HR News",
+                "type": "url_citation",
+                "url": "https://www.hrnews.cz/lidske-zdroje/nabor-id-2698717/nezamestnanost-v-cesku-v-srpnu-mirne-vzrostla-na-4-5-zustava-id-4474860?utm_source=openai"
+              },
+              {
+                "end_index": 7829,
+                "start_index": 7692,
+                "title": "Míry zaměstnanosti, nezaměstnanosti a ekonomické aktivity - srpen 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai"
+              },
+              {
+                "end_index": 8739,
+                "start_index": 8599,
+                "title": "Unemployment trends in the European Union Member States, April 2025 – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/"
+              },
+              {
+                "end_index": 9000,
+                "start_index": 8868,
+                "title": "Nezaměstnanost v EU klesla na 5,9 procenta. V Česku je druhá nejnižší - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-nezamestnanost-v-eu-klesla-na-59-procenta-v-cesku-je-druha-nejnizsi-40536572"
+              },
+              {
+                "end_index": 9340,
+                "start_index": 9199,
+                "title": "Unemployment trends in the European Union Member States, August 2025 – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/"
+              },
+              {
+                "end_index": 9643,
+                "start_index": 9506,
+                "title": "Míry zaměstnanosti, nezaměstnanosti a ekonomické aktivity - srpen 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai"
+              },
+              {
+                "end_index": 9856,
+                "start_index": 9794,
+                "title": "The ILO in Czechia | International Labour Organization",
+                "type": "url_citation",
+                "url": "https://www.ilo.org/ilo-czechia?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Shrnutí hodnocení\n\n**Hodnocení výroku:**  \nVýrok „Máme jednu z nejnižších nezaměstnaností v EU“ je **pravdivý** při rozumné interpretaci jako tvrzení o celkové (harmonizované) míře nezaměstnanosti v ČR v porovnání s ostatními státy EU v době výroku (léto/podzim 2025).\n\nKolem září 2025 se Česko podle dat Eurostatu pohybovalo mezi 1.–4. místem z 27 členských zemí EU a dlouhodobě (od poloviny 2010s) patří mezi země s úplně nejnižší nezaměstnaností.\n\n---\n\n## 2. Interpretace a časové vymezení výroku\n\n- Výrok je citován z pořadu „K věci“ dne **18. 9. 2025**, následně použit v Partii 1. 3. 2026.  \n- Formulace „Máme jednu z nejnižších nezaměstnaností v EU“ je v přítomném čase a zjevně míří na **aktuální stav v roce 2025**, ne na konkrétní měsíc, ale z kontextu jde o „současnost“ okolo léta/podzimu 2025.\n- Proto porovnáváme:\n  - měsíční **harmonizovanou míru nezaměstnanosti Eurostatu (LFS, 15–74 let)** – to je standard pro mezinárodní srovnání v EU,  \n  - a případně česká data ČSÚ (VŠPS), která jsou zdrojem pro Eurostat.\n\n---\n\n## 3. Úroveň nezaměstnanosti v ČR kolem výroku (národní data)\n\n### 3.1 Duben 2025\n\nČeský statistický úřad (ČSÚ) uvádí pro duben 2025:\n\n- „Míra nezaměstnanosti … dosáhla v dubnu **2,7 %**“ (věk 15–64 let). ([csu.gov.cz](https://csu.gov.cz/rychle-informace/rates-of-employment-unemployment-and-economic-activity-april-2025?utm_source=openai))  \n\nTo je velmi nízká hodnota i v čistě národním kontextu (ČR má dlouhodobě „plnou zaměstnanost“ kolem 2–3 %).\n\n### 3.2 Srpen 2025\n\nČSÚ pro srpen 2025 (VŠPS) uvádí:\n\n- „Podíl nezaměstnaných k ekonomicky aktivním … dosáhl v srpnu **3,1 %**“ (15–64 let). ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n- Pro srovnatelný věkový interval 15–74 let, který používá Eurostat, byla podle stejné zprávy míra nezaměstnanosti **3,2 %**. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/rates-of-employment-unemployment-and-economic-activity-august-2025))  \n\nSoučasně ČSÚ výslovně konstatuje, že:\n\n> „Nezaměstnanost se v Česku letos mírně zvyšuje, nicméně stále je ve srovnání s mírou nezaměstnanosti v Evropské unii na zhruba **poloviční úrovni**. Česko se již od roku 2015 udržuje v přehledech Eurostatu **mezi třemi státy s nejnižší mírou nezaměstnanosti**.“ ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n\nTo je přímé potvrzení, že i v roce 2025 ČR patří v přehledech Eurostatu k úplné špičce s nejnižší nezaměstnaností.\n\n---\n\n## 4. Srovnání v rámci EU (Eurostat)\n\n### 4.1 Duben 2025 – ČR úplně nejnižší (sdílí 1. místo)\n\nMaďarský statistický úřad (HCSO) publikuje přehled „Unemployment trends in the EU Member States, April 2025“ založený na datech Eurostatu (sezonně očištěná míra nezaměstnanosti, 15–74 let):\n\n- EU průměr: **5,9 %**  \n- „Unemployment was **lowest in Czechia and Malta (both 2.7%)**, highest in Spain (10.9%) and Finland (9.1%).“ ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/))  \n- V tabulce je pro Česko uvedeno **2,7 %**, pro Maltu také 2,7 %, další nejnižší státy (Polsko, Bulharsko) mají 3,3 %. ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/))  \n\n=> V dubnu 2025 měla ČR **spolu s Maltou nejnižší nezaměstnanost v celé EU**.\n\n### 4.2 Červenec 2025 – ČR druhá nejnižší\n\nČlánek ČTK na Novinky.cz shrnuje červencová data Eurostatu:\n\n- „Míra nezaměstnanosti v Evropské unii v červenci klesla na **5,9 %**… Druhá nejnižší zůstala míra nezaměstnanosti v Česku.“ ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-nezamestnanost-v-eu-klesla-na-59-procenta-v-cesku-je-druha-nejnizsi-40536572))  \n- „V Česku bylo bez práce **2,8 %** lidí… Nejnižší míru nezaměstnanosti hlásí opět **Malta, 2,6 %**.“ ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-nezamestnanost-v-eu-klesla-na-59-procenta-v-cesku-je-druha-nejnizsi-40536572))  \n\n=> V červenci 2025 má ČR **druhou nejnižší** nezaměstnanost v EU (2,8 % vs. maltských 2,6 %), hluboko pod průměrem EU (5,9 %).\n\n### 4.3 Srpen 2025 – ČR třetí–čtvrtá nejnižší\n\nPřehled HCSO pro srpen 2025 (opět Eurostat, sezonně očištěná míra nezaměstnanosti 15–74 let) uvádí:\n\n- EU průměr: **5,9 %**. ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/))  \n- „Unemployment was lowest in **Malta and Slovenia (2.9% in both)**, highest in Spain (10.3%) and Finland (9.8%).“ ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/))  \n- V tabulce jsou pro vybrané státy hodnoty:  \n  - Malta: **2,9 %**  \n  - Slovinsko: **2,9 %**  \n  - **Czechia: 3,2 %**  \n  - Polsko: 3,2 %  \n  - Bulharsko: 3,6 %  \n  - Německo: 3,7 %  \n  - Nizozemsko: 3,9 % ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/))  \n\n=> V srpnu 2025 je ČR **ve skupině zemí s 3.–4. nejnižší nezaměstnaností** v EU:  \n2,9 % (Malta, Slovinsko) < **3,2 % (Česko, Polsko)** < 3,6 % (Bulharsko), 3,7 % (Německo), 3,9 % (Nizozemsko) atd.\n\nV kombinaci s údajem ČSÚ, že česká míra nezaměstnanosti je „zhruba na polovině průměru EU“, jde jednoznačně o **„jednu z nejnižších“** v Unii. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n\n---\n\n## 5. Dlouhodobý kontext (před rokem 2025)\n\nVýrok implicitně navazuje na dlouhodobou pozici ČR v rámci EU. K tomu existuje řada oficiálních potvrzení:\n\n- **ČSÚ (srpen 2025):**  \n  „Česko se již od roku 2015 udržuje v přehledech Eurostatu mezi **třemi státy s nejnižší mírou nezaměstnanosti**.“ ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n\n- **Mezinárodní organizace práce (ILO, červenec 2024):**  \n  ILO píše, že Česko má „**nejnižší míru nezaměstnanosti v EU a OECD** – 2,4 % v roce 2022, oproti průměru EU 6,2 % (Eurostat).“ ([ilo.org](https://www.ilo.org/ilo-czechia?utm_source=openai))  \n\n- **EURES (Evropská služba zaměstnanosti):**  \n  U profilu ČR uvádí, že podle posledních dat Eurostatu (březen 2024) má ČR „**jednu z nejnižších měr nezaměstnanosti v EU**, 2,1 % oproti průměru EU 6,0 %.“ ([europeanjobdays.eu](https://europeanjobdays.eu/en/eures-country/czechia?utm_source=openai))  \n\nTyto zdroje dokládají, že **nejde o krátkodobý výkyv**, ale o dlouhodobý stav – ČR se skutečně už řadu let pohybuje na prvních místech žebříčků EU podle nízké nezaměstnanosti.\n\n---\n\n## 6. Registrace nezaměstnanosti (Úřad práce) vs. harmonizovaná míra (Eurostat)\n\nPolitici i média někdy míchají dva různé ukazatele:\n\n1. **Harmonizovaná míra nezaměstnanosti (LFS, VŠPS)** – používaná Eurostatem pro srovnání států EU.  \n2. **Podíl nezaměstnaných osob / registrovaná nezaměstnanost (Úřad práce ČR)** – národní administrativní ukazatel, mezinárodně hůře srovnatelný.\n\nKolem srpna 2025:\n\n- Ministerstvo práce a sociálních věcí (přes média) uvádělo, že podíl nezaměstnaných osob podle Úřadu práce v srpnu 2025 činil **4,5 %** a „i přes nárůst zůstává jednou z nejnižších v rámci Evropské unie“. ([hrnews.cz](https://www.hrnews.cz/lidske-zdroje/nabor-id-2698717/nezamestnanost-v-cesku-v-srpnu-mirne-vzrostla-na-4-5-zustava-id-4474860?utm_source=openai))  \n\nČSÚ ale zároveň zdůrazňuje, že pro mezinárodní srovnání v EU se používá **VŠPS/LFS**, nikoli administrativa ÚP. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n\nKlíčové však je, že **obě** sady údajů (LFS i registrace ÚP) mluví o tom, že ČR zůstává „mezi zeměmi s nejnižší nezaměstnaností v EU“, byť přesné hodnoty se liší podle metodiky.\n\n---\n\n## 7. Závěrečné zhodnocení výroku\n\n### Co výrok tvrdí – v nejpravděpodobnější interpretaci\n\n1. **Subjekt:** Česko.  \n2. **Ukazatel:** celková míra nezaměstnanosti (standardní „nezaměstnanost“ v politické debatě; pro srovnání v EU obvykle harmonizovaná míra podle Eurostatu).  \n3. **Čas:** aktuální stav v době výroku (konec léta / začátek podzimu 2025).  \n4. **Srovnání:** v rámci všech členských států EU (EU‑27) máme „jednu z nejnižších“ hodnot.\n\n### Jak to sedí na data\n\n- V **dubnu 2025** byla nezaměstnanost v ČR **nejnižší v EU (spolu s Maltou)** – 2,7 % vs. průměr EU 5,9 %. ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-april-2025/))  \n- V **červenci 2025** měla ČR **druhou nejnižší** nezaměstnanost v EU – 2,8 % vs. EU 5,9 %, pod ČR byla už jen Malta (2,6 %). ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-nezamestnanost-v-eu-klesla-na-59-procenta-v-cesku-je-druha-nejnizsi-40536572))  \n- V **srpnu 2025** byla ČR **ve skupině zemí s 3.–4. nejnižší** nezaměstnaností – 3,2 %, nižší hodnoty pouze Malta a Slovinsko (2,9 %), shodná hodnota Polsko (3,2 %), zatímco průměr EU byl 5,9 %. ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/unemployment-trends-in-the-european-union-member-states-august-2025/))  \n- Oficiální český statistický úřad výslovně potvrzuje, že Česko se **od roku 2015 drží mezi třemi státy s nejnižší mírou nezaměstnanosti v přehledech Eurostatu**. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/miry-zamestnanosti-nezamestnanosti-a-ekonomicke-aktivity-srpen-2025?utm_source=openai))  \n- I mezinárodní instituce (ILO, EURES) popisují ČR jako stát s **nejnižší nebo jednou z nejnižších měr nezaměstnanosti v EU** v předchozích letech. ([ilo.org](https://www.ilo.org/ilo-czechia?utm_source=openai))  \n\n### Verdikt\n\nNa základě harmonizovaných dat Eurostatu i národních dat ČSÚ platí, že v době výroku (rok 2025) měla Česká republika **jednu z nejnižších měr nezaměstnanosti v Evropské unii** – konkrétně se pohybovala na **1.–4. místě** mezi členskými státy EU.\n\nVýrok „Máme jednu z nejnižších nezaměstnaností v EU“ je tedy **podložen dostupnými daty a lze jej hodnotit jako pravdivý** (s obvyklou metodickou podmínkou, že jde o harmonizovanou míru nezaměstnanosti podle Eurostatu).",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 54351,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 14326,
+      "output_tokens_details": {
+        "reasoning_tokens": 11111
+      },
+      "total_tokens": 68677
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772613026,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

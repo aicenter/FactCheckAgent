@@ -1,0 +1,858 @@
+{
+  "claim_id": "24606",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260220_173536",
+  "source_md": "experiments/gpt5.1_h_20260220_173536/brief_fact_check_id24606.md",
+  "fact_check": "# Fact Check for Statement ID 24606\n\n## Statement\nKaždý rok, až na výjimky, je rozpočet Ministerstva vnitra vždy navyšován. Třeba letos je oproti roku 2025 navýšen o 14,2 miliardy.\n\n---\n## AI Fact Check\n### Shrnutí\n\n- **Trend rozpočtu MV:** V letech 2019–2026 se nominální „celkové výdaje“ kapitoly 314 – Ministerstvo vnitra (tj. včetně prostředků z EU a finančních mechanismů) zvyšovaly **ve všech letech kromě roku 2024**, kdy došlo k meziročnímu poklesu. Tvrzení „každý rok, až na výjimky, je rozpočet… navyšován“ je tedy v nedávném období fakticky přiměřeně podložené – s jednou jasnou výjimkou v roce 2024.  \n- **Konkrétní číslo 14,2 mld.:** Pokud se srovnávají **celkové výdaje včetně EU a FM**, pak je rozpočet MV pro rok 2026 přibližně **o 14,2 mld. Kč vyšší než v roce 2025**. To odpovídá číslům Ministerstva financí i oficiální tiskové zprávě Ministerstva vnitra. Při srovnání pouze **národních prostředků (bez EU a FM)** je navýšení menší, asi **10,8 mld. Kč**.  \n\nNíže jsou detailní podklady.\n\n---\n\n## 1. Jak rozumět pojmu „rozpočet Ministerstva vnitra“\n\n### 1.1. Používaná metodika\n\nMinisterstvo financí ve svých tiskových zprávách standardně zveřejňuje tabulku:\n\n> „Celkové výdaje státního rozpočtu podle kapitol – včetně peněz z EU a finančních mechanismů (v Kč)“\n\nkde je pro **kapitolu 314 – Ministerstvo vnitra** uvedena částka „Státní rozpočet“ pro daný rok. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137))  \n\nSoučasně MF pro revizi rozpočtu 2026 zveřejnilo také tabulku:\n\n> „Navržené výdaje státního rozpočtu podle kapitol (bez EU a FM, v Kč)“ ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672?utm_source=openai))  \n\nMinisterstvo vnitra ve vlastní tiskové zprávě k prioritám resortu explicitně pracuje s údajem, že **rozpočet MV na rok 2026 je „téměř 122 mld. Kč“ a že je „o 14,2 mld. vyšší než v roce 2025“** – tedy zjevně vychází z **celkových výdajů kapitoly včetně unijních prostředků**, nikoli pouze z národních zdrojů. ([mv.gov.cz](https://mv.gov.cz/clanek/bezpecnost-stabilita-policie-i-hasicu-digitalizace-nebo-pobytova-agenda-ministr-metnar-predstavil-priority-resortu.aspx?utm_source=openai))  \n\nV následující analýze proto:\n\n- pro **hlavní posouzení** používám **celkové výdaje včetně EU a FM**, protože přesně tato metodika odpovídá oficiálním vyjádřením MV a MF,  \n- zároveň doplňuji i přepočet **bez EU a FM**, kde jsou meziroční rozdíly jiné.\n\n---\n\n## 2. Sub‑tvrzení A: „Každý rok, až na výjimky, je rozpočet Ministerstva vnitra navyšován“\n\n### 2.1. Vývoj rozpočtu MV 2019–2026 (včetně prostředků EU a FM)\n\nNíže jsou „celkové výdaje“ kapitoly 314 – Ministerstvo vnitra dle tiskových zpráv MF a odvození pro rok 2026 (zaokrouhleno na 0,1 mld. Kč):\n\n| Rok | Celkové výdaje MV (mld. Kč, vč. EU a FM) | Zdroj |\n|-----|-----------------------------------------|-------|\n| 2019 | 76,7 | Návrh SR 2019 – tabulka výdajů podle kapitol ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2018/ministerstvo-financi-predklada-vlade-nav-32802)) |\n| 2020 | 80,7 | Návrh SR 2020 – „VÝDAJE PODLE KAPITOL (VČETNĚ PROSTŘEDKŮ Z ROZPOČTU EU A FM)“, u MV 80 742 436 015 Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2019/ministerstvo-financi-predklada-vlade-nav-36115)) |\n| 2021 | 85,9 | Tisková zpráva ke schválenému rozpočtu 2022 – tabulka „Celkové výdaje SR podle kapitol“, sloupec „Státní rozpočet 2021“, u MV 85 897 415 182 Kč ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/)) |\n| 2022 | 92,4 | Stejná tabulka, sloupec „Státní rozpočet 2022 (aktuální)“, u MV 92 396 321 158 Kč ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/)) |\n| 2023 | 99,7 | Tisková zpráva k SR 2024 – tabulka „Celkové výdaje…“, sloupec „Státní rozpočet 2023“, u MV 99 733 224 285 Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137)) |\n| 2024 | 97,4 | Stejná tabulka, „Státní rozpočet 2024“, u MV 97 446 613 586 Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137)) |\n| 2025 | 107,8 | Tisková zpráva k SR 2025 – tabulka „Celkové výdaje…“, u MV 107 766 228 906 Kč ([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817)) |\n| 2026 | 122,0 | Článek Ekonomický deník s odkazem na ukazatele MF: „bude ministerstvo vnitra v roce 2026 hospodařit s celkovými výdaji ve výši 121 992 220 414 Kč. Tato suma se skládá ze státního rozpočtu (114 788 410 873 Kč) a z příjmů z EU.“ ([ekonomickydenik.cz](https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/?utm_source=openai)) |\n\nZ těchto čísel (přepočet v mil. Kč) plyne meziroční změna:\n\n- 2019 → 2020: **+4,1 mld. Kč**  \n- 2020 → 2021: **+5,2 mld. Kč**  \n- 2021 → 2022: **+6,5 mld. Kč**  \n- 2022 → 2023: **+7,3 mld. Kč**  \n- 2023 → 2024: **–2,3 mld. Kč (pokles)**  \n- 2024 → 2025: **+10,3 mld. Kč**  \n- 2025 → 2026: **+14,2 mld. Kč** (podrobněji v části 3)\n\nTedy v období 2019–2026:\n\n- ve **šesti** letech z **celkem sedmi** meziročních přechodů rozpočet **rostl**,  \n- pouze **jednou (2024 vůči 2023)** došlo k **nominálnímu snížení** rozpočtu MV.\n\nTo odpovídá tomu, že **„standardem“ je růst**, a **rok 2024 je zjevnou výjimkou**, kterou tvrzení připouští formulací „až na výjimky“.\n\n### 2.2. Starší období a alternativní pohled\n\n- Starší rozpočtová data (např. 1990. léta) také ukazují nominální růst kapitoly MV v řadě let, ale obsahují i další roky se snížením nebo stagnací – nejde tedy o „železné pravidlo“ platné ahistoricky. Např. v polovině 90. let kapitola MV meziročně výrazně rostla, jindy stagnovala či klesala. ([psp.cz](https://www.psp.cz/eknih/1993ps/tisky/t1936_08.htm?utm_source=openai))  \n- V letech 2022–2023 MF operovalo s několika verzemi rozpočtu (původní návrh, přepracovaný a novelizovaný rozpočet s jinými částkami u jednotlivých kapitol). I v roce 2022 byly původní návrhy pro MV o něco vyšší než později schválený „aktuální“ rozpočet, ale i tak výdaje MV mezi 2021 a 2022 nominálně vzrostly. ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/))  \n\nZ pohledu posledních cca 7–8 let však platí, že **převažují roky s růstem** a **rok 2024 je viditelnou výjimkou, kdy rozpočet MV klesl**.\n\n### 2.3. Zhodnocení sub‑tvrzení A\n\n- Pokud se hodnotí **nedávný vývoj (2019–2026)** a **nominální „celkové výdaje“ MV**, pak **většina let skutečně znamenala meziroční navyšování rozpočtu**.  \n- Existují **nejméně jedny jasné „výjimky“ (pokles v roce 2024)** a v delším časovém horizontu i další roky s poklesem nebo stagnací.  \n- Formulace „každý rok, až na výjimky“ je proto **přesná jako zjednodušený popis trendu posledních let**, ale **neplatí absolutně pro všechna období** a nezmiňuje konkrétně, že jednou z čerstvých výjimek je právě rok 2024.\n\n---\n\n## 3. Sub‑tvrzení B: „Letos [2026] je [rozpočet MV] oproti roku 2025 navýšen o 14,2 miliardy“\n\n### 3.1. Číslo pro rok 2025\n\nMinisterstvo financí ve zprávě k projednání státního rozpočtu na rok 2025 (2. čtení) uvádí v tabulce „Celkové výdaje státního rozpočtu podle kapitol – včetně peněz z EU a FM (v Kč)“ u kapitoly Ministerstvo vnitra: ([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817))  \n\n- **Státní rozpočet 2025 – Ministerstvo vnitra: 107 766 228 906 Kč.**  \n\nTento údaj budeme používat jako základ pro srovnání s rokem 2026.\n\n### 3.2. Čísla pro rok 2026 – dvě různé metodiky\n\n#### 3.2.1. Rozpočet „bez EU a FM“ (národní zdroje)\n\nPo převzetí moci novou vládou MF zveřejnilo revidovaný návrh rozpočtu 2026. V tiskové zprávě z 26. 1. 2026 je tabulka:\n\n> „Navržené výdaje státního rozpočtu podle kapitol (bez EU a FM, v Kč)“\n\nZde je pro kapitolu 314 – Ministerstvo vnitra uvedeno: ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672?utm_source=openai))  \n\n- **2025: 104 025 893 334 Kč**  \n- **2026: 114 788 410 873 Kč**\n\nRozdíl (2026 – 2025) v této **„bez-EU“** metodice:\n\n- ≈ **10,76 mld. Kč** (≈ 114,79 – 104,03 mld.)\n\n#### 3.2.2. Celkové výdaje včetně EU a FM\n\nEkonomický deník, s odkazem na „ukazatele ministerstva financí“, uvádí, že MV bude v roce 2026 hospodařit: ([ekonomickydenik.cz](https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/?utm_source=openai))  \n\n- s **celkovými výdaji 121 992 220 414 Kč**,  \n- které se skládají ze státního rozpočtu (**114 788 410 873 Kč**) a z příjmů z EU (cca 7,2 mld. Kč).\n\nMinisterstvo vnitra ve vlastní tiskové zprávě k prioritám resortu (18. 2. 2026) říká: ([mv.gov.cz](https://mv.gov.cz/clanek/bezpecnost-stabilita-policie-i-hasicu-digitalizace-nebo-pobytova-agenda-ministr-metnar-predstavil-priority-resortu.aspx?utm_source=openai))  \n\n- „Rozpočet [MV] je na letošní rok téměř 122 mld., **tedy o 14,2 mld. vyšší než v roce 2025**.“\n\nPokud porovnáme:\n\n- **2025 – celkové výdaje MV (vč. EU a FM): 107,77 mld. Kč** ([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817?utm_source=openai))  \n- **2026 – celkové výdaje MV (vč. EU a FM): 121,99 mld. Kč** ([ekonomickydenik.cz](https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/?utm_source=openai))  \n\npak rozdíl:\n\n- 121,99 – 107,77 ≈ **14,23 mld. Kč**, což po zaokrouhlení odpovídá tvrzeným **14,2 mld. Kč**.\n\nJinými slovy:\n\n- **z národního rozpočtu** (bez EU a FM) roste kapitola MV mezi 2025 a 2026 o cca **10,8 mld. Kč**,  \n- **včetně evropských prostředků** však **„celkové výdaje“ MV rostou o zhruba 14,2 mld. Kč**, což přesně odpovídá číslu, které používá MV i ministr Metnar.\n\n### 3.3. Původní návrh rozpočtu 2026 (Fialova vláda)\n\nJeště před revizí za minulé vlády Petra Fialy MF zveřejnilo návrh rozpočtu 2026, v němž tabulka „Navržené výdaje státního rozpočtu podle kapitol“ udává pro MV: ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/vlada-schvalila-navrh-statniho-rozpoctu-na-rok-202-61433?utm_source=openai))  \n\n- 2025: 107 766 228 906 Kč  \n- 2026: 123 355 014 085 Kč  \n\nZde byl meziroční nárůst **cca 15,6 mld. Kč (včetně EU a FM)**. Tento návrh však byl novou politickou většinou ve Sněmovně vrácen k přepracování a následně nahrazen revidovaným návrhem s jinými parametry (včetně nižšího celkového objemu výdajů státu). ([idnes.cz](https://www.idnes.cz/zpravy/domaci/snemovna-rozpocet-na-2026-koalice-ano-spd-motoriste-ho-vrati-k-prepracovani.A251126_041849_domaci_kop?utm_source=openai))  \n\nTento údaj tak **nevypovídá o platném rozpočtu**, ale ukazuje, že v různých fázích přípravy rozpočtu 2026 se pracovalo s různě vysokými navýšeními kapitoly MV.\n\n### 3.4. Zhodnocení sub‑tvrzení B\n\n- **Při použití stejné definice „rozpočtu“ jako Ministerstvo vnitra**, tj. **celkové výdaje kapitoly včetně prostředků EU a finančních mechanismů**, skutečně platí, že **rozpočet MV pro rok 2026 je oproti roku 2025 vyšší zhruba o 14,2 mld. Kč**.  \n- **Při pohledu pouze na národní zdroje (bez EU a FM)** je však nárůst menší – **cca 10,8 mld. Kč**, nikoli 14,2 mld. Kč.  \n- Metnar ani v citovaném rozhovoru, ani v tiskové zprávě MV nespecifikuje, že číslo 14,2 mld. zahrnuje i evropské peníze; to ale odpovídá běžné praxi, kdy resorty hovoří o „rozpočtu ministerstva“ právě v tomto širším smyslu.\n\n---\n\n## 4. Celkové zhodnocení tvrzení\n\n1. **„Každý rok, až na výjimky, je rozpočet Ministerstva vnitra navyšován“**  \n   - V nominálním vyjádření a při pohledu na poslední roky (2019–2026) platí, že **rozpočet MV rostl v šesti z osmi sledovaných let, resp. ve všech meziročních přechodech kromě 2023→2024**, kde byl zaznamenán **pokles cca 2,3 mld. Kč**. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137))  \n   - Tvrzení tak **odpovídá základnímu trendu posledních let**, ale zamlčuje, že jednou z čerstvých „výjimek“ je rok 2024 a že při širším historickém pohledu existují i další roky s poklesem nebo stagnací.\n\n2. **„Letos [2026] je [rozpočet MV] oproti roku 2025 navýšen o 14,2 mld. Kč“**  \n   - **Při srovnání „celkových výdajů včetně EU a FM“ (107,77 mld. v roce 2025 vs. 121,99 mld. v roce 2026) je navýšení ≈ 14,2 mld. Kč**, jak uvádějí jak MF, tak oficiální tisková zpráva MV. ([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817?utm_source=openai))  \n   - **Při srovnání pouze národních prostředků (bez EU a FM)** je ale nárůst jen **cca 10,8 mld. Kč**.  \n   - Číslo 14,2 mld. je tedy **matematicky přesné pro celkové výdaje kapitoly (včetně EU)**, ale **není přesné, pokud by někdo pod „rozpočtem ministerstva“ rozuměl jen prostředky ze státního rozpočtu ČR**.\n\nPro fakt‑checkerku/fakt‑checkera to znamená:\n\n- Obecná část tvrzení o postupném „navyšování rozpočtu (až na výjimky)“ je při rozumné interpretaci posledních let **věcně podložená**,  \n- konkrétní údaj **„o 14,2 mld.“ je přesný ve smyslu, v jakém ho používá samo Ministerstvo vnitra (celkové výdaje včetně EU)**, ale může být vnímán jako **mírně zavádějící**, pokud není čtenáři vysvětleno, že zahrnuje i prostředky z evropských fondů.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in iDNES.cz released on 2026-02-18 available from https://www.idnes.cz/zpravy/domaci/lubomir-metnar-zvysovani-platu-policie-zbranova-legislativa-bezpecnost-migranti.A260217_204844_domaci_krou?zdroj=otvirak.\\n\\n\\nThe claim was made by: Lubomír Metnar, Ministr vnitra\\n\\n\\nThe claim appears in the following immediate context in the source:\\nJen vysvětlím, ten rozdíl mezi aktuálním platem a tou naší avizovanou částkou je dnes zhruba 20 procent. Letos se přidalo pět procent, a když každý rok přidáme plus minus dalších pět procent, tak bychom měli za celé volební období smáznout ten rozdíl, aby se nástupním platem dostali na 50 tisíc. Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.\\nZatím se bavíme o platech nově příchozích. Dočkají se ale navýšení platů do budoucna plošně i ostatní policisté a hasiči, kteří ve sboru působí už řadu let?\\nNavyšování platů se musí propsat i do vyšších tříd všem policistům, protože nemůže dojít k situaci, aby měl nastupující policista vyšší plat než ten, který slouží třeba pět let. Takže to se propíše, ale bude to proporcionální. V současnosti je průměrný plat u policie 60 tisíc korun, což je zase na druhou stranu pěkný plat. Nejvíc ale potřebují přidat policisté v nízkých platových třídách, a úplně nejmíň naopak vysocí funkcionáři, u nich s nějakým enormním navýšením nepočítám.\\nTakže to pětiprocentní navýšení za rok podle vás nebude pro všechny?\\nVůbec ne, tak to ani nelze udělat.\\nChcete také zvýšit počty policistů. Dočkají se nováčci kromě navýšení základního platu i nějakých dalších výhod?\\nNechci se vracet do minulosti, ale v tomto musím. V minulém období totiž v roce 2024 vzala předchozí vláda z rozpočtu ministerstva vnitra dvě miliardy a došlo k propadu minimálně o 150 korun u každého příslušníka místo toho, aby se jim přidalo. A také přišli o školkovné a další benefity. To také příslušníkům nepřispělo a vedlo to k tomu, že v tom roce dokonce klesl počet příslušníků pod 40 tisíc. My jim všechny tyto benefity chceme vrátit.\\nV souvislosti s vojáky nepočítáte s náborovým příspěvkem také pro nově příchozí policisty?\\nNáborový příspěvek u policie již je, jak u obecní, tak u policie České republiky. Ale to není to, co by situaci řešilo, protože oni potřebují mít dostatečně vysoký a konkurenceschopný plat a musí mít perspektivu, že dosáhnou na bankovní produkty, kterými by si mohli pomoct k založení rodiny a bydlení.\\nTo postupné přidávání by mělo vyjít na 2,5 miliardy ročně. Kde na to vezmete v rámci rozpočtu?\\nKdyž si to vezmete, tak každý rok, až na výjimky, je rozpočet ministerstva vnitra vždy navyšován. Třeba letos je oproti roku 2025 navýšen o 14,2 miliardy. Takže těch 2,5 miliardy by měl rozpočet unést a nemělo by to pro něj být zatěžující.\\nŘíkal jste, že chcete navyšovat počty policistů, takže s žádným propouštěním v rámci bezpečnostních složek nebo na ministerstvu nepočítáte?\\nTo musíme rozdělit. Co se týče bezpečnostních sborů, tam se určitě s propouštěním nepočítá. Ale co se týče ministerstva, tam to nemohu zaručit. Protože ještě stále po dvou měsících probíhají analýzy jednotlivých agend z hlediska efektivity a z hlediska hledání úspor. Takže to zaručit nemohu.\\n\\nProvide a structured, citation-backed verification of the claim: 'Každý rok, až na výjimky, je rozpočet Ministerstva vnitra vždy navyšován. Třeba letos je oproti roku 2025 navýšen o 14,2 miliardy.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 527.78 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Rozpočet Ministerstva vnitra v posledních letech většinou roste, výjimkou je zejména rok 2024 s poklesem. Pro rok 2026 skutečně celkové výdaje kapitoly (včetně peněz z EU) stoupají oproti roku 2025 zhruba o 14,2 mld. Kč.</p>\n\n<p>Výrok se týká státního rozpočtu kapitoly Ministerstvo vnitra a zazněl v souvislosti s prezentací priorit a rozpočtu resortu pro rok 2026. Ministerstvo vnitra ve své vlastní <a href=\"https://mv.gov.cz/clanek/bezpecnost-stabilita-policie-i-hasicu-digitalizace-nebo-pobytova-agenda-ministr-metnar-predstavil-priority-resortu.aspx\">tiskové zprávě</a> cituje ministra Radka Metnara slovy, že <i>„rozpočet ministerstva vnitra je na letošní rok téměř 122 miliard, tedy o 14,2 miliardy vyšší než v roce 2025“</i>. Na tomto tvrzení následně staví i ověřovaný výrok o každoročním navyšování rozpočtu „až na výjimky“.</p>\n\n<p>Nejprve je potřeba vysvětlit, co se v tomto kontextu myslí „rozpočtem ministerstva“. Ministerstvo financí ve svých tiskových zprávách k návrhům a ke schváleným rozpočtům běžně zveřejňuje tabulku s názvem <i>„Celkové výdaje státního rozpočtu podle kapitol – včetně prostředků z rozpočtu EU a FM“</i>, kde je pro kapitolu 314 – Ministerstvo vnitra uveden souhrnný objem financí, s nímž má resort v daném roce hospodařit. Taková tabulka je například v tiskové zprávě k rozpočtu na rok 2024 na webu <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137\">Ministerstva financí</a>. Při revizi rozpočtu na rok 2026 pak Ministerstvo financí zveřejnilo i samostatnou tabulku <i>„Navržené výdaje státního rozpočtu podle kapitol (bez EU a FM, v Kč)“</i>, kde jsou pro každé ministerstvo uvedeny jen prostředky ze státního rozpočtu bez evropských peněz <a href=\"https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672\">(bez EU a FM)</a>. Ministerstvo vnitra ve své komunikaci o rozpočtu pro rok 2026 zjevně pracuje s širší definicí, tedy s celkovými výdaji kapitoly včetně prostředků z EU.</p>\n\n<p><strong>První dílčí tvrzení:</strong> „Každý rok, až na výjimky, je rozpočet Ministerstva vnitra navyšován.“</p>\n\n<p>Pro ověření tohoto tvrzení jsme se zaměřili na poslední roky, kdy jsou strukturovaná data k dispozici v tiskových zprávách Ministerstva financí. Podle tiskové zprávy k návrhu rozpočtu na rok 2019 jsou celkové výdaje kapitoly Ministerstvo financí pro rok 2019 uvedeny v objemu přibližně 76,7 mld. Kč <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2018/ministerstvo-financi-predklada-vlade-nav-32802\">pro rok 2019</a>. V návrhu rozpočtu na rok 2020 jsou pak celkové výdaje kapitoly 314 – Ministerstvo vnitra vyčísleny na zhruba 80,7 mld. Kč <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2019/ministerstvo-financi-predklada-vlade-nav-36115\">pro rok 2020</a>. Tisková zpráva k novelizovanému rozpočtu pro rok 2022 uvádí v tabulce celkových výdajů podle kapitol u Ministerstva vnitra částku asi 85,9 mld. Kč pro rok 2021 a 92,4 mld. Kč pro rok 2022 <a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/\">pro roky 2021 a 2022</a>. V tiskové zprávě k návrhu rozpočtu na rok 2024 jsou pak pro kapitolu Ministerstvo vnitra uvedeny celkové výdaje zhruba 99,7 mld. Kč pro rok 2023 a 97,4 mld. Kč pro rok 2024 <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137\">pro roky 2023 a 2024</a>. Pro rok 2025 uvádí Ministerstvo financí v tabulce celkových výdajů podle kapitol 107 766 228 906 Kč pro Ministerstvo vnitra <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817\">pro rok 2025</a>. A konečně článek Ekonomického deníku s odkazem na ukazatele Ministerstva financí informuje, že v roce 2026 má Ministerstvo vnitra hospodařit s celkovými výdaji 121 992 220 414 Kč, složenými ze státního rozpočtu 114 788 410 873 Kč a z prostředků EU <a href=\"https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/\">pro rok 2026</a>.</p>\n\n<p>Z těchto oficiálních čísel vyplývá, že mezi roky 2019 a 2020, 2020 a 2021, 2021 a 2022 i 2022 a 2023 se celkové výdaje kapitoly Ministerstvo vnitra nominálně vždy zvýšily, zatímco mezi roky 2023 a 2024 klesly zhruba z 99,7 na 97,4 mld. Kč a následně mezi roky 2024 a 2025 opět vzrostly přibližně z 97,4 na 107,8 mld. Kč na základě téhož souboru tabulek <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137\">pro roky 2023–2024</a> a <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817\">pro rok 2025</a>. Pro rok 2026 se pak celkové výdaje podle údajů převzatých Ekonomickým deníkem dále zvyšují na téměř 122 mld. Kč <a href=\"https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/\">v roce 2026</a>. V období 2019–2026 tedy rozpočet Ministerstva vnitra (měřený celkovými výdaji kapitoly včetně evropských zdrojů) meziročně roste ve většině let, s jasnou výjimkou poklesu mezi roky 2023 a 2024.</p>\n\n<p>Starší rozpočtové materiály Poslanecké sněmovny z 90. let ale ukazují, že v delším historickém horizontu neplatí, že by kapitola Ministerstva vnitra byla každoročně navyšována; v některých letech docházelo k nominálnímu poklesu nebo stagnaci výdajů, v jiných k růstu <a href=\"https://www.psp.cz/eknih/1993ps/tisky/t1936_08.htm\">v rozpočtové dokumentaci z 90. let</a>. Výrok však nepracuje s přesně vymezeným časovým obdobím a používá formulaci „až na výjimky“. Pro poslední zhruba dekádu, z níž máme podrobná data, skutečně platí, že převažují roky s růstem rozpočtu a rok 2024 je v tomto trendu viditelnou výjimkou. První dílčí tvrzení proto podle našeho hodnocení zjednodušeně, ale věcně odpovídá vývoji nominálních celkových výdajů kapitoly Ministerstvo vnitra v posledních letech.</p>\n\n<p><strong>Druhé dílčí tvrzení:</strong> „Letos [2026] je rozpočet Ministerstva vnitra oproti roku 2025 navýšen o 14,2 miliardy.“</p>\n\n<p>U tohoto tvrzení je klíčové, zda se srovnávají pouze národní prostředky, nebo celkové výdaje včetně financí z Evropské unie. Ve zprávě Ministerstva financí k projednání státního rozpočtu na rok 2025 ve 2. čtení je v tabulce celkových výdajů podle kapitol (včetně prostředků z rozpočtu EU a finančních mechanismů) pro kapitolu Ministerstvo vnitra uvedena částka 107 766 228 906 Kč; jde o součet prostředků ze státního rozpočtu a očekávaných příjmů z EU <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817\">pro rok 2025</a>. Článek Ekonomického deníku, který vychází z ukazatelů Ministerstva financí, uvádí, že v roce 2026 bude Ministerstvo vnitra hospodařit s celkovými výdaji 121 992 220 414 Kč, z čehož 114 788 410 873 Kč má pocházet ze státního rozpočtu a zbytek z fondů EU <a href=\"https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/\">pro rok 2026</a>. Rozdíl mezi těmito dvěma částkami (cca 121,99 mld. minus 107,77 mld. Kč) činí zhruba 14,2 mld. Kč, což odpovídá číslu uváděnému ministrem Metnarem i Ministerstvem vnitra v citované tiskové zprávě <a href=\"https://mv.gov.cz/clanek/bezpecnost-stabilita-policie-i-hasicu-digitalizace-nebo-pobytova-agenda-ministr-metnar-predstavil-priority-resortu.aspx\">k prioritám resortu</a>.</p>\n\n<p>Současně ale existují i údaje, které počítají pouze s národními prostředky. V tiskové zprávě Ministerstva financí k revizi rozpočtu na rok 2026 je v tabulce <i>„Navržené výdaje státního rozpočtu podle kapitol (bez EU a FM, v Kč)“</i> pro kapitolu 314 – Ministerstvo vnitra uvedeno 104 025 893 334 Kč pro rok 2025 a 114 788 410 873 Kč pro rok 2026 <a href=\"https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672\">bez evropských zdrojů</a>. Meziroční nárůst pouze z národních prostředků tak činí přibližně 10,8 mld. Kč, nikoliv 14,2 mld. Kč. Tento nižší rozdíl ale nijak nevyvrací číslo 14,2 mld. uvedené ministrem – to se vztahuje k širšímu, v praxi běžnému pojetí „rozpočtu ministerstva“ coby celkových výdajů kapitoly včetně peněz z Evropské unie, v němž se počítají stejné kategorie jako v tabulce celkových výdajů podle kapitol, z níž vychází i Ministerstvo financí.</p>\n\n<p>Za zmínku stojí, že původní návrh rozpočtu na rok 2026 ještě z doby vlády Petra Fialy počítal pro kapitolu Ministerstvo vnitra s celkovými výdaji 123 355 014 085 Kč, tedy s meziročním navýšením asi o 15,6 mld. Kč; tyto parametry jsou zachyceny v tehdejší tiskové zprávě Ministerstva financí <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/vlada-schvalila-navrh-statniho-rozpoctu-na-rok-202-61433\">k návrhu rozpočtu 2026</a>. Poslanecká sněmovna však tento návrh na konci roku 2025 vrátila k přepracování a nová politická většina schválila nižší celkové výdaje, což popisuje například zpravodajství serveru iDNES.cz <a href=\"https://www.idnes.cz/zpravy/domaci/snemovna-rozpocet-na-2026-koalice-ano-spd-motoriste-ho-vrati-k-prepracovani.A251126_041849_domaci_kop\">o vrácení rozpočtu 2026</a>. Pro posuzovaný výrok je tedy rozhodující revidovaný, skutečně platný rozpočet, v němž rozdíl mezi roky 2025 a 2026 u celkových výdajů kapitoly Ministerstvo vnitra odpovídá tvrzeným 14,2 mld. Kč.</p>\n\n<p><strong>Shrnutí a hodnocení</strong></p>\n\n<p>První část výroku, podle níž je rozpočet Ministerstva vnitra „každý rok, až na výjimky“ navyšován, odpovídá vývoji nominálních celkových výdajů kapitoly v posledních letech: mezi roky 2019 a 2026 opravdu převládají roky s růstem, přičemž rok 2024 představuje zřetelnou výjimku s mírným poklesem. Druhá část výroku, že v roce 2026 je rozpočet oproti roku 2025 navýšen o 14,2 mld. Kč, je matematicky přesná, pokud se „rozpočtem“ rozumí celkové výdaje kapitoly včetně prostředků z Evropské unie, jak s nimi standardně pracují Ministerstvo financí i Ministerstvo vnitra. Při započtení pouze národních prostředků je nárůst menší, to ale na pravdivosti uvedeného čísla v kontextu používané definice rozpočtu nic nemění.</p>\n\n<p>Z těchto důvodů hodnotíme ověřovaný výrok jako <strong>pravda</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0cb38aaad4ec84dc0069989fad39048197827b96967fdb925a",
+    "created_at": 1771610029.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0cb38aaad4ec84dc0069989fb7d0bc819795dc1d6786253849",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc0069989fd72eec8197aeb6b076b845e004",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc0069989fd7c7588197a6c8e60b4c70a10a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc0069989fd7ffe08197952e85d27e376d89",
+        "action": {
+          "query": "\"výdaje státního rozpočtu podle kapitol\" Ministerstvo financí kapitola 314 Ministerstvo vnitra 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"výdaje státního rozpočtu podle kapitol\" Ministerstvo financí kapitola 314 Ministerstvo vnitra 2024",
+            "kapitola 314 Ministerstvo vnitra rozpočet 2024 2023 2022",
+            "\"kapitola 314 - Ministerstvo vnitra\" státní rozpočet na rok 2025",
+            "\"kapitola 314\" \"Ministerstvo vnitra\" \"státní rozpočet na rok 2026\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc0069989fda8dd4819791cf3b48e5f1cb53",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc0069989fe291d08197a512e20612f5f08d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc0069989fe494a481979543b29aed2132a3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc0069989fe4e8b881979b41484bfec2b5d7",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Celkové výdaje státního rozpočtu podle kapitol"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc0069989fe69fe081978030034b79c14957",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc0069989fe726588197af9ab86c880064bf",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc0069989fe832fc819789fa9a9cbdabb563",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc0069989feecb1c8197bd4ab7f158a2c85c",
+        "action": {
+          "query": "\"Státní rozpočet v kostce\" 2026 kapitol",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Státní rozpočet v kostce\" 2026 kapitol",
+            "\"Celkové výdaje státního rozpočtu podle kapitol\" \"SR 2026\"",
+            "\"Ministerstvo vnitra\" 123,4 mld 2026 rozpočet",
+            "\"Ministerstva vnitra\" rozpočet 2026 123,4"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc0069989ff509d081979d2b64e990c70384",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a00cf320819799d2faa8886aaf8a",
+        "action": {
+          "query": "\"Státní rozpočet České republiky na rok 2026\" \"kapitola 314\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Státní rozpočet České republiky na rok 2026\" \"kapitola 314\"",
+            "\"zákon o státním rozpočtu\" 2026 kapitola 314",
+            "\"státní rozpočet\" 2026 \"kapitola 314 - Ministerstvo vnitra\"",
+            "\"Navržené výdaje státního rozpočtu podle kapitol\" 314 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a01096048197b33ae647730555c6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a013e7148197aed8b50658583018",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a01505848197b9729cd0b7debb5b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a01b0fc88197bba7f7b5528718e1",
+        "action": {
+          "query": "\"rozpočet Ministerstva vnitra\" \"14,2 miliardy\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"rozpočet Ministerstva vnitra\" \"14,2 miliardy\"",
+            "\"navýšení o 14,2 miliardy\" \"Ministerstvo vnitra\"",
+            "\"14,2 mld\" \"Ministerstvo vnitra\"",
+            "\"14,2\" \"mld. Kč\" \"vnitro\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a01ffe088197b83d52472bb188e0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a023687081979268039483a989d3",
+        "action": {
+          "query": "\"Rozpočet Ministerstva vnitra pro rok 2026\" \"14,2\" site:mvcr.cz",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Rozpočet Ministerstva vnitra pro rok 2026\" \"14,2\" site:mvcr.cz",
+            "\"je na letošní rok téměř 122 mld\" \"14,2 mld\"",
+            "\"Ke stabilnímu fungování resortu je dle ministra\" \"14,2 mld.\"",
+            "\"rozpočet Ministerstva vnitra\" \"téměř 122 mld\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a027acc0819789bd772da2f0a85b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a03427b8819782fde17fdbef4bf8",
+        "action": {
+          "query": "\"Navržené výdaje státního rozpočtu podle kapitol (bez EU a FM, v Kč)\" \"314 Ministerstvo vnitra\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Navržené výdaje státního rozpočtu podle kapitol (bez EU a FM, v Kč)\" \"314 Ministerstvo vnitra\"",
+            "\"114 788 410 873\" \"Ministerstvo vnitra\"",
+            "\"104 025 893 334\" \"Ministerstvo vnitra\"",
+            "\"121,992 mld\" \"Ministerstvo vnitra\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a038eee48197a89404ed5589a85f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a04807bc8197a3b77af4f50ea97d",
+        "action": {
+          "query": "\"Celkové výdaje státního rozpočtu podle kapitol\" \"Ministerstvo vnitra\" 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Celkové výdaje státního rozpočtu podle kapitol\" \"Ministerstvo vnitra\" 2023",
+            "\"Ministerstvo vnitra\" \"Celkové výdaje\" 2022 2023 kapitola 314",
+            "\"Celkové výdaje státního rozpočtu podle kapitol\" \"státní rozpočet 2023\"",
+            "\"kapitola 314\" \"státní rozpočet 2024\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a05371988197bb3effb45ebe19f5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a055775c8197a6c1d614baf05b03",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a05ce2008197af886e19858dd0c7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a05e62d88197b4d8daf5cfe51de1",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Celkové výdaje státního rozpočtu podle kapitol"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a062a70881978ae9f9361f54fcbb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a069de208197a6c20b16542d5f34",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a0730aa48197a8845891f0254fc7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a09238208197a0fc8b35cbd3356b",
+        "action": {
+          "query": "\"Výdaje kapitol\" \"Ministerstvo vnitra\" 2019 státní rozpočet",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Výdaje kapitol\" \"Ministerstvo vnitra\" 2019 státní rozpočet",
+            "\"Výdaje kapitol r. 2019\" \"Ministerstvo vnitra\"",
+            "\"Výdaje kapitoly 314\" 2018 2019",
+            "\"Ministerstvo vnitra\" \"Výdaje kapitol r. 2018\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a096c4808197b160a353a794d949",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a097bdb8819794ce31181549ad66",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a09a0cc8819798f59f1ee7179ef8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a09a8c34819783913f4ad144dd6c",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Tabulka výdajů jednotlivých rozpočtových kapitol"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a09d10048197a0d242119e647544",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a09ec16c8197bd025d1baea5659d",
+        "action": {
+          "query": "\"Tabulka výdajů jednotlivých rozpočtových kapitol\" \"Ministerstvo vnitra\" 2020",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Tabulka výdajů jednotlivých rozpočtových kapitol\" \"Ministerstvo vnitra\" 2020",
+            "\"státní rozpočet na rok 2020\" \"Ministerstvo vnitra\" 314",
+            "\"Ministerstvo vnitra\" \"výdaje kapitol r. 2020\"",
+            "\"Ministerstvo financí předkládá vládě návrh zákona o státním rozpočtu na rok 2020\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a0a6d5b881979ea3a6043ed26a18",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a0a761dc81978e400d809ef68eaa",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a0ac452881979943eb53e2fe68e2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a0b781e88197993e95989ee4c541",
+        "action": {
+          "query": "\"MF předkládá vládě návrh zákona o státním rozpočtu na rok 2021\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"MF předkládá vládě návrh zákona o státním rozpočtu na rok 2021\"",
+            "\"státního rozpočtu na rok 2021\" \"VÝDAJE PODLE KAPITOL\"",
+            "\"VÝDAJE PODLE KAPITOL (VČETNĚ PROSTŘEDKŮ Z ROZPOČTU EU A FM)\" \"2021\"",
+            "\"Ministerstvo vnitra\" \"VÝDAJE PODLE KAPITOL\" 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a0c1f5e4819785066bcd8eb36052",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a0d895e48197a4d306188e35a231",
+        "action": {
+          "query": "\"Celkové výdaje státního rozpočtu podle kapitol (v Kč)\" \"státní rozpočet 2022\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Celkové výdaje státního rozpočtu podle kapitol (v Kč)\" \"státní rozpočet 2022\"",
+            "\"Celkové výdaje státního rozpočtu podle kapitol na rok 2022\"",
+            "\"státní rozpočet pro rok 2022\" \"Ministerstvo financí\" \"celkové výdaje\"",
+            "\"kapitola 314\" \"státní rozpočet 2022\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a0e3795081979739bb5468eb0d79",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a0e42bec8197aa9da7ed69be2b74",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Celkové výdaje SR podle kapitol"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a0e6fad081979364a14f34bc7f9f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a0e76328819783f23f035d38de26",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a0ebbc688197885469f23125b9d4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a0ecea548197a3ea110a81bef687",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Celkové výdaje SR podle kapitol"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a0f100a48197acf53f26ea721019",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cb38aaad4ec84dc006998a1049cf48197aa68ccf49adc9192",
+        "action": {
+          "query": "\"VÝDAJE PODLE KAPITOL (VČETNĚ PROSTŘEDKŮ Z ROZPOČTU EU A FM)\" \"2018\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"VÝDAJE PODLE KAPITOL (VČETNĚ PROSTŘEDKŮ Z ROZPOČTU EU A FM)\" \"2018\"",
+            "\"Ministerstvo financí předkládá vládě návrh zákona o státním rozpočtu na rok 2018\"",
+            "\"Kapitola 314 Ministerstvo vnitra\" \"státní rozpočet 2018\"",
+            "\"Ministerstvo vnitra\" \"80 742 436 015\" \"2020\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a10c2a908197840d6f89f6d62694",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_0cb38aaad4ec84dc006998a147b38c81979113f413fd4c60e1",
+        "code": "mv_budgets = {\n    2019: 76658869236,\n    2020: 80742436015,\n    2021: 85897415182,\n    2022: 92396321158,\n    2023: 99733224285,\n    2024: 97446613586,\n    2025: 107766228906,\n    2026: 121992220414\n}\nfor year in range(2019, 2026):\n    diff = mv_budgets[year+1] - mv_budgets[year]\n    print(year+1, diff, \"≈\", round(diff/1e9,2), \"mld\")",
+        "container_id": "cntr_69989fb66fec81939806ad53ecc59d130ae907f0f8f8782e",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a14c0ecc8197be1282e4346e5a72",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_0cb38aaad4ec84dc006998a14cd34c8197972b4aae271abc44",
+        "code": "y2025_bez = 104_025_893_334\ny2026_bez = 114_788_410_873\ndiff_bez = y2026_bez - y2025_bez\ndiff_bez, diff_bez/1e9",
+        "container_id": "cntr_69989fb66fec81939806ad53ecc59d130ae907f0f8f8782e",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a14f8e4481979c12247109d2cc34",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_0cb38aaad4ec84dc006998a15014108197b60d9b3dc9a5b2fc",
+        "code": "y2025_full = 107_766_228_906\ny2026_full_original = 123_355_014_085\ndiff_full = y2026_full_original - y2025_full\ndiff_full, diff_full/1e9",
+        "container_id": "cntr_69989fb66fec81939806ad53ecc59d130ae907f0f8f8782e",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_0cb38aaad4ec84dc006998a1565ac881978969935d26dd3b4a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0cb38aaad4ec84dc006998a175c608819797dfc768272155bc",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1305,
+                "start_index": 1174,
+                "title": "Státní rozpočet pro rok 2024 míří do třetího čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137"
+              },
+              {
+                "end_index": 1578,
+                "start_index": 1444,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672?utm_source=openai"
+              },
+              {
+                "end_index": 2067,
+                "start_index": 1890,
+                "title": "Bezpečnost, stabilita policie i hasičů, digitalizace nebo pobytová agenda. Ministr Metnar představil priority resortu - Ministerstvo vnitra České republiky",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/clanek/bezpecnost-stabilita-policie-i-hasicu-digitalizace-nebo-pobytova-agenda-ministr-metnar-predstavil-priority-resortu.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 2927,
+                "start_index": 2806,
+                "title": "Ministerstvo financí předkládá vládě návrh zákona o státním rozpočtu na rok 2019 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2018/ministerstvo-financi-predklada-vlade-nav-32802"
+              },
+              {
+                "end_index": 3169,
+                "start_index": 3048,
+                "title": "Ministerstvo financí předkládá vládě návrh zákona o státním rozpočtu na rok 2020 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2019/ministerstvo-financi-predklada-vlade-nav-36115"
+              },
+              {
+                "end_index": 3444,
+                "start_index": 3332,
+                "title": "Sněmovna schválila nový rozpočet s deficitem 280 mld. Kč, o 97 mld. Kč menším než plánovala minulá vláda | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/"
+              },
+              {
+                "end_index": 3657,
+                "start_index": 3545,
+                "title": "Sněmovna schválila nový rozpočet s deficitem 280 mld. Kč, o 97 mld. Kč menším než plánovala minulá vláda | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/"
+              },
+              {
+                "end_index": 3916,
+                "start_index": 3785,
+                "title": "Státní rozpočet pro rok 2024 míří do třetího čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137"
+              },
+              {
+                "end_index": 4129,
+                "start_index": 3998,
+                "title": "Státní rozpočet pro rok 2024 míří do třetího čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137"
+              },
+              {
+                "end_index": 4354,
+                "start_index": 4227,
+                "title": "Poslanecká sněmovna projednala státní rozpočet pro rok 2025 ve druhém čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817"
+              },
+              {
+                "end_index": 4703,
+                "start_index": 4601,
+                "title": "Metnar nechce nechat hasiče ve štychu. Kam půjde 122 miliard z vnitra? - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/?utm_source=openai"
+              },
+              {
+                "end_index": 5786,
+                "start_index": 5706,
+                "title": "PČR, PS 1993-1996, tisk 1936, část č. 8",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/1993ps/tisky/t1936_08.htm?utm_source=openai"
+              },
+              {
+                "end_index": 6213,
+                "start_index": 6101,
+                "title": "Sněmovna schválila nový rozpočet s deficitem 280 mld. Kč, o 97 mld. Kč menším než plánovala minulá vláda | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/"
+              },
+              {
+                "end_index": 7379,
+                "start_index": 7252,
+                "title": "Poslanecká sněmovna projednala státní rozpočet pro rok 2025 ve druhém čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817"
+              },
+              {
+                "end_index": 8008,
+                "start_index": 7874,
+                "title": "Ministerstvo financí zrevidovalo rozpočet na rok 2026 podle usnesení Poslanecké Sněmovny | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672?utm_source=openai"
+              },
+              {
+                "end_index": 8429,
+                "start_index": 8327,
+                "title": "Metnar nechce nechat hasiče ve štychu. Kam půjde 122 miliard z vnitra? - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/?utm_source=openai"
+              },
+              {
+                "end_index": 8845,
+                "start_index": 8668,
+                "title": "Bezpečnost, stabilita policie i hasičů, digitalizace nebo pobytová agenda. Ministr Metnar představil priority resortu - Ministerstvo vnitra České republiky",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/clanek/bezpecnost-stabilita-policie-i-hasicu-digitalizace-nebo-pobytova-agenda-ministr-metnar-predstavil-priority-resortu.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 9170,
+                "start_index": 9025,
+                "title": "Poslanecká sněmovna projednala státní rozpočet pro rok 2025 ve druhém čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817?utm_source=openai"
+              },
+              {
+                "end_index": 9336,
+                "start_index": 9234,
+                "title": "Metnar nechce nechat hasiče ve štychu. Kam půjde 122 miliard z vnitra? - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/?utm_source=openai"
+              },
+              {
+                "end_index": 10086,
+                "start_index": 9937,
+                "title": "Vláda schválila návrh státního rozpočtu na rok 2026 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/vlada-schvalila-navrh-statniho-rozpoctu-na-rok-202-61433?utm_source=openai"
+              },
+              {
+                "end_index": 10569,
+                "start_index": 10401,
+                "title": "Poslanci vrátili k přepracování návrh rozpočtu na příští rok - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/zpravy/domaci/snemovna-rozpocet-na-2026-koalice-ano-spd-motoriste-ho-vrati-k-prepracovani.A251126_041849_domaci_kop?utm_source=openai"
+              },
+              {
+                "end_index": 11853,
+                "start_index": 11722,
+                "title": "Státní rozpočet pro rok 2024 míří do třetího čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137"
+              },
+              {
+                "end_index": 12480,
+                "start_index": 12335,
+                "title": "Poslanecká sněmovna projednala státní rozpočet pro rok 2025 ve druhém čtení | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817?utm_source=openai"
+              }
+            ],
+            "text": "### Shrnutí\n\n- **Trend rozpočtu MV:** V letech 2019–2026 se nominální „celkové výdaje“ kapitoly 314 – Ministerstvo vnitra (tj. včetně prostředků z EU a finančních mechanismů) zvyšovaly **ve všech letech kromě roku 2024**, kdy došlo k meziročnímu poklesu. Tvrzení „každý rok, až na výjimky, je rozpočet… navyšován“ je tedy v nedávném období fakticky přiměřeně podložené – s jednou jasnou výjimkou v roce 2024.  \n- **Konkrétní číslo 14,2 mld.:** Pokud se srovnávají **celkové výdaje včetně EU a FM**, pak je rozpočet MV pro rok 2026 přibližně **o 14,2 mld. Kč vyšší než v roce 2025**. To odpovídá číslům Ministerstva financí i oficiální tiskové zprávě Ministerstva vnitra. Při srovnání pouze **národních prostředků (bez EU a FM)** je navýšení menší, asi **10,8 mld. Kč**.  \n\nNíže jsou detailní podklady.\n\n---\n\n## 1. Jak rozumět pojmu „rozpočet Ministerstva vnitra“\n\n### 1.1. Používaná metodika\n\nMinisterstvo financí ve svých tiskových zprávách standardně zveřejňuje tabulku:\n\n> „Celkové výdaje státního rozpočtu podle kapitol – včetně peněz z EU a finančních mechanismů (v Kč)“\n\nkde je pro **kapitolu 314 – Ministerstvo vnitra** uvedena částka „Státní rozpočet“ pro daný rok. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137))  \n\nSoučasně MF pro revizi rozpočtu 2026 zveřejnilo také tabulku:\n\n> „Navržené výdaje státního rozpočtu podle kapitol (bez EU a FM, v Kč)“ ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672?utm_source=openai))  \n\nMinisterstvo vnitra ve vlastní tiskové zprávě k prioritám resortu explicitně pracuje s údajem, že **rozpočet MV na rok 2026 je „téměř 122 mld. Kč“ a že je „o 14,2 mld. vyšší než v roce 2025“** – tedy zjevně vychází z **celkových výdajů kapitoly včetně unijních prostředků**, nikoli pouze z národních zdrojů. ([mv.gov.cz](https://mv.gov.cz/clanek/bezpecnost-stabilita-policie-i-hasicu-digitalizace-nebo-pobytova-agenda-ministr-metnar-predstavil-priority-resortu.aspx?utm_source=openai))  \n\nV následující analýze proto:\n\n- pro **hlavní posouzení** používám **celkové výdaje včetně EU a FM**, protože přesně tato metodika odpovídá oficiálním vyjádřením MV a MF,  \n- zároveň doplňuji i přepočet **bez EU a FM**, kde jsou meziroční rozdíly jiné.\n\n---\n\n## 2. Sub‑tvrzení A: „Každý rok, až na výjimky, je rozpočet Ministerstva vnitra navyšován“\n\n### 2.1. Vývoj rozpočtu MV 2019–2026 (včetně prostředků EU a FM)\n\nNíže jsou „celkové výdaje“ kapitoly 314 – Ministerstvo vnitra dle tiskových zpráv MF a odvození pro rok 2026 (zaokrouhleno na 0,1 mld. Kč):\n\n| Rok | Celkové výdaje MV (mld. Kč, vč. EU a FM) | Zdroj |\n|-----|-----------------------------------------|-------|\n| 2019 | 76,7 | Návrh SR 2019 – tabulka výdajů podle kapitol ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2018/ministerstvo-financi-predklada-vlade-nav-32802)) |\n| 2020 | 80,7 | Návrh SR 2020 – „VÝDAJE PODLE KAPITOL (VČETNĚ PROSTŘEDKŮ Z ROZPOČTU EU A FM)“, u MV 80 742 436 015 Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2019/ministerstvo-financi-predklada-vlade-nav-36115)) |\n| 2021 | 85,9 | Tisková zpráva ke schválenému rozpočtu 2022 – tabulka „Celkové výdaje SR podle kapitol“, sloupec „Státní rozpočet 2021“, u MV 85 897 415 182 Kč ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/)) |\n| 2022 | 92,4 | Stejná tabulka, sloupec „Státní rozpočet 2022 (aktuální)“, u MV 92 396 321 158 Kč ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/)) |\n| 2023 | 99,7 | Tisková zpráva k SR 2024 – tabulka „Celkové výdaje…“, sloupec „Státní rozpočet 2023“, u MV 99 733 224 285 Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137)) |\n| 2024 | 97,4 | Stejná tabulka, „Státní rozpočet 2024“, u MV 97 446 613 586 Kč ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137)) |\n| 2025 | 107,8 | Tisková zpráva k SR 2025 – tabulka „Celkové výdaje…“, u MV 107 766 228 906 Kč ([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817)) |\n| 2026 | 122,0 | Článek Ekonomický deník s odkazem na ukazatele MF: „bude ministerstvo vnitra v roce 2026 hospodařit s celkovými výdaji ve výši 121 992 220 414 Kč. Tato suma se skládá ze státního rozpočtu (114 788 410 873 Kč) a z příjmů z EU.“ ([ekonomickydenik.cz](https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/?utm_source=openai)) |\n\nZ těchto čísel (přepočet v mil. Kč) plyne meziroční změna:\n\n- 2019 → 2020: **+4,1 mld. Kč**  \n- 2020 → 2021: **+5,2 mld. Kč**  \n- 2021 → 2022: **+6,5 mld. Kč**  \n- 2022 → 2023: **+7,3 mld. Kč**  \n- 2023 → 2024: **–2,3 mld. Kč (pokles)**  \n- 2024 → 2025: **+10,3 mld. Kč**  \n- 2025 → 2026: **+14,2 mld. Kč** (podrobněji v části 3)\n\nTedy v období 2019–2026:\n\n- ve **šesti** letech z **celkem sedmi** meziročních přechodů rozpočet **rostl**,  \n- pouze **jednou (2024 vůči 2023)** došlo k **nominálnímu snížení** rozpočtu MV.\n\nTo odpovídá tomu, že **„standardem“ je růst**, a **rok 2024 je zjevnou výjimkou**, kterou tvrzení připouští formulací „až na výjimky“.\n\n### 2.2. Starší období a alternativní pohled\n\n- Starší rozpočtová data (např. 1990. léta) také ukazují nominální růst kapitoly MV v řadě let, ale obsahují i další roky se snížením nebo stagnací – nejde tedy o „železné pravidlo“ platné ahistoricky. Např. v polovině 90. let kapitola MV meziročně výrazně rostla, jindy stagnovala či klesala. ([psp.cz](https://www.psp.cz/eknih/1993ps/tisky/t1936_08.htm?utm_source=openai))  \n- V letech 2022–2023 MF operovalo s několika verzemi rozpočtu (původní návrh, přepracovaný a novelizovaný rozpočet s jinými částkami u jednotlivých kapitol). I v roce 2022 byly původní návrhy pro MV o něco vyšší než později schválený „aktuální“ rozpočet, ale i tak výdaje MV mezi 2021 a 2022 nominálně vzrostly. ([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/))  \n\nZ pohledu posledních cca 7–8 let však platí, že **převažují roky s růstem** a **rok 2024 je viditelnou výjimkou, kdy rozpočet MV klesl**.\n\n### 2.3. Zhodnocení sub‑tvrzení A\n\n- Pokud se hodnotí **nedávný vývoj (2019–2026)** a **nominální „celkové výdaje“ MV**, pak **většina let skutečně znamenala meziroční navyšování rozpočtu**.  \n- Existují **nejméně jedny jasné „výjimky“ (pokles v roce 2024)** a v delším časovém horizontu i další roky s poklesem nebo stagnací.  \n- Formulace „každý rok, až na výjimky“ je proto **přesná jako zjednodušený popis trendu posledních let**, ale **neplatí absolutně pro všechna období** a nezmiňuje konkrétně, že jednou z čerstvých výjimek je právě rok 2024.\n\n---\n\n## 3. Sub‑tvrzení B: „Letos [2026] je [rozpočet MV] oproti roku 2025 navýšen o 14,2 miliardy“\n\n### 3.1. Číslo pro rok 2025\n\nMinisterstvo financí ve zprávě k projednání státního rozpočtu na rok 2025 (2. čtení) uvádí v tabulce „Celkové výdaje státního rozpočtu podle kapitol – včetně peněz z EU a FM (v Kč)“ u kapitoly Ministerstvo vnitra: ([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817))  \n\n- **Státní rozpočet 2025 – Ministerstvo vnitra: 107 766 228 906 Kč.**  \n\nTento údaj budeme používat jako základ pro srovnání s rokem 2026.\n\n### 3.2. Čísla pro rok 2026 – dvě různé metodiky\n\n#### 3.2.1. Rozpočet „bez EU a FM“ (národní zdroje)\n\nPo převzetí moci novou vládou MF zveřejnilo revidovaný návrh rozpočtu 2026. V tiskové zprávě z 26. 1. 2026 je tabulka:\n\n> „Navržené výdaje státního rozpočtu podle kapitol (bez EU a FM, v Kč)“\n\nZde je pro kapitolu 314 – Ministerstvo vnitra uvedeno: ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/mf-zrevidovalo-rozpocet-na-rok-2026-62672?utm_source=openai))  \n\n- **2025: 104 025 893 334 Kč**  \n- **2026: 114 788 410 873 Kč**\n\nRozdíl (2026 – 2025) v této **„bez-EU“** metodice:\n\n- ≈ **10,76 mld. Kč** (≈ 114,79 – 104,03 mld.)\n\n#### 3.2.2. Celkové výdaje včetně EU a FM\n\nEkonomický deník, s odkazem na „ukazatele ministerstva financí“, uvádí, že MV bude v roce 2026 hospodařit: ([ekonomickydenik.cz](https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/?utm_source=openai))  \n\n- s **celkovými výdaji 121 992 220 414 Kč**,  \n- které se skládají ze státního rozpočtu (**114 788 410 873 Kč**) a z příjmů z EU (cca 7,2 mld. Kč).\n\nMinisterstvo vnitra ve vlastní tiskové zprávě k prioritám resortu (18. 2. 2026) říká: ([mv.gov.cz](https://mv.gov.cz/clanek/bezpecnost-stabilita-policie-i-hasicu-digitalizace-nebo-pobytova-agenda-ministr-metnar-predstavil-priority-resortu.aspx?utm_source=openai))  \n\n- „Rozpočet [MV] je na letošní rok téměř 122 mld., **tedy o 14,2 mld. vyšší než v roce 2025**.“\n\nPokud porovnáme:\n\n- **2025 – celkové výdaje MV (vč. EU a FM): 107,77 mld. Kč** ([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817?utm_source=openai))  \n- **2026 – celkové výdaje MV (vč. EU a FM): 121,99 mld. Kč** ([ekonomickydenik.cz](https://ekonomickydenik.cz/metnar-hasici-122-miliard-vnitra/?utm_source=openai))  \n\npak rozdíl:\n\n- 121,99 – 107,77 ≈ **14,23 mld. Kč**, což po zaokrouhlení odpovídá tvrzeným **14,2 mld. Kč**.\n\nJinými slovy:\n\n- **z národního rozpočtu** (bez EU a FM) roste kapitola MV mezi 2025 a 2026 o cca **10,8 mld. Kč**,  \n- **včetně evropských prostředků** však **„celkové výdaje“ MV rostou o zhruba 14,2 mld. Kč**, což přesně odpovídá číslu, které používá MV i ministr Metnar.\n\n### 3.3. Původní návrh rozpočtu 2026 (Fialova vláda)\n\nJeště před revizí za minulé vlády Petra Fialy MF zveřejnilo návrh rozpočtu 2026, v němž tabulka „Navržené výdaje státního rozpočtu podle kapitol“ udává pro MV: ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/vlada-schvalila-navrh-statniho-rozpoctu-na-rok-202-61433?utm_source=openai))  \n\n- 2025: 107 766 228 906 Kč  \n- 2026: 123 355 014 085 Kč  \n\nZde byl meziroční nárůst **cca 15,6 mld. Kč (včetně EU a FM)**. Tento návrh však byl novou politickou většinou ve Sněmovně vrácen k přepracování a následně nahrazen revidovaným návrhem s jinými parametry (včetně nižšího celkového objemu výdajů státu). ([idnes.cz](https://www.idnes.cz/zpravy/domaci/snemovna-rozpocet-na-2026-koalice-ano-spd-motoriste-ho-vrati-k-prepracovani.A251126_041849_domaci_kop?utm_source=openai))  \n\nTento údaj tak **nevypovídá o platném rozpočtu**, ale ukazuje, že v různých fázích přípravy rozpočtu 2026 se pracovalo s různě vysokými navýšeními kapitoly MV.\n\n### 3.4. Zhodnocení sub‑tvrzení B\n\n- **Při použití stejné definice „rozpočtu“ jako Ministerstvo vnitra**, tj. **celkové výdaje kapitoly včetně prostředků EU a finančních mechanismů**, skutečně platí, že **rozpočet MV pro rok 2026 je oproti roku 2025 vyšší zhruba o 14,2 mld. Kč**.  \n- **Při pohledu pouze na národní zdroje (bez EU a FM)** je však nárůst menší – **cca 10,8 mld. Kč**, nikoli 14,2 mld. Kč.  \n- Metnar ani v citovaném rozhovoru, ani v tiskové zprávě MV nespecifikuje, že číslo 14,2 mld. zahrnuje i evropské peníze; to ale odpovídá běžné praxi, kdy resorty hovoří o „rozpočtu ministerstva“ právě v tomto širším smyslu.\n\n---\n\n## 4. Celkové zhodnocení tvrzení\n\n1. **„Každý rok, až na výjimky, je rozpočet Ministerstva vnitra navyšován“**  \n   - V nominálním vyjádření a při pohledu na poslední roky (2019–2026) platí, že **rozpočet MV rostl v šesti z osmi sledovaných let, resp. ve všech meziročních přechodech kromě 2023→2024**, kde byl zaznamenán **pokles cca 2,3 mld. Kč**. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2023/vlada-schvalila-statni-rozpocet-pro-rok-2024-defic-53137))  \n   - Tvrzení tak **odpovídá základnímu trendu posledních let**, ale zamlčuje, že jednou z čerstvých „výjimek“ je rok 2024 a že při širším historickém pohledu existují i další roky s poklesem nebo stagnací.\n\n2. **„Letos [2026] je [rozpočet MV] oproti roku 2025 navýšen o 14,2 mld. Kč“**  \n   - **Při srovnání „celkových výdajů včetně EU a FM“ (107,77 mld. v roce 2025 vs. 121,99 mld. v roce 2026) je navýšení ≈ 14,2 mld. Kč**, jak uvádějí jak MF, tak oficiální tisková zpráva MV. ([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2024/poslanecka-snemovna-projednala-statni-rozpocet-pro-57817?utm_source=openai))  \n   - **Při srovnání pouze národních prostředků (bez EU a FM)** je ale nárůst jen **cca 10,8 mld. Kč**.  \n   - Číslo 14,2 mld. je tedy **matematicky přesné pro celkové výdaje kapitoly (včetně EU)**, ale **není přesné, pokud by někdo pod „rozpočtem ministerstva“ rozuměl jen prostředky ze státního rozpočtu ČR**.\n\nPro fakt‑checkerku/fakt‑checkera to znamená:\n\n- Obecná část tvrzení o postupném „navyšování rozpočtu (až na výjimky)“ je při rozumné interpretaci posledních let **věcně podložená**,  \n- konkrétní údaj **„o 14,2 mld.“ je přesný ve smyslu, v jakém ho používá samo Ministerstvo vnitra (celkové výdaje včetně EU)**, ale může být vnímán jako **mírně zavádějící**, pokud není čtenáři vysvětleno, že zahrnuje i prostředky z evropských fondů.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 116723,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 23558,
+      "output_tokens_details": {
+        "reasoning_tokens": 19262
+      },
+      "total_tokens": 140281
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1771610550,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

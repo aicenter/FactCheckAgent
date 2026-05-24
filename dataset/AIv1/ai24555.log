@@ -1,0 +1,422 @@
+{
+  "claim_id": "24555",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260127_092648",
+  "source_md": "experiments/gpt5.1_h_20260127_092648/brief_fact_check_id24555.md",
+  "fact_check": "# Fact Check for Statement ID 24555\n\n## Statement\nKdyž se (Filip Turek, pozn. Demagog.cz) vyjadřuje (...) například formou toho, že největší chybou 20. století bylo dát ženám volební právo.\n\n---\n## AI Fact Check\n\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-01-24 available from https://www.youtube.com/watch?v=LLdTdaQK-Y4.\\n\\n\\nThe claim was made by: Petr Pavel, Prezident České republiky\\n\\n\\nThe claim appears in the following immediate context in the source:\\nJá vás vítám, pane prezidente, děkujeme, že jste nás přijal na Pražském hradě.\\nPetr Pavel, prezident republiky\\nDobrý den.\\nMartin Čermák, moderátor\\nJá začnu tématem, které kolem vás je posledních několik týdnů a je to téma nejmenování Filipa Turka ministrem, to oficiální hradní vyjádření je takový právnický nebo méně odborný text. Mohl byste mi trošku lidsky vašimi slovy říct ty důvody hlavní?\\nPetr Pavel, prezident republiky\\nTy hlavní důvody spočívají v dlouhodobém sledování Filipa Turka, rozhodně nejsou dílem nějakého náhlého popudu. A já jsem Filipa Turka sledoval i na jeho starších sociálních sítích, na jeho vystoupeních, sledoval jsem i ty aféry kolem něho, ať už to bylo známé fotografování za rychlosti vyšší než 200 km, ať to byla například výstavba dvou objektů v zóně, kde se stavět nesmí a následná legalizace, ať to byly jeho výroky na adresu žen, menšin, některých politiků nebo celých zemí. A dospěl jsem k závěru, že člověk takového profilu by rozhodně neměl být ve vysoké politické funkci. A když jsem samozřejmě si to procházel i na základě Ústavy, tak prezident je jedním z garantů ústavnosti. A měl by dohlížet i na to, že lidé, kteří jsou jmenovaní, mimo jiné i jím do vysokých politických funkcí, naplňují alespoň ta základní kritéria. A já jsem opravdu na základě všeho toho sledování dlouhodobého dospěl k závěru, že nemohu s klidným svědomím jmenovat do funkce někoho, kdo dává ostatním špatný příklad.\\nMartin Čermák, moderátor\\nJá chápu, že vy máte nějaké vaše vidění světa, do kterého Filip Turek nezapadá, na to máme asi každý nějaké osobní občanské právo si každého zařadit do nějaké škatulky, nebo si o něm něco myslet. Nicméně ve chvíli, kdy jste v té funkci prezidenta, který jmenuje člena vlády na návrh premiéra, neměl by ten osobní názor jít do jisté míry stranou a respektovat to, co vám navrhuje zvolený premiér?\\nPetr Pavel, prezident republiky\\nOn to právě není tak úplně osobní názor, protože můj názor je v této věci v podstatě irelevantní, ale jde o to, jakým způsobem se ten nominovaný kandidát srovnává nebo nesrovnává s naším právním řádem a s Ústavou. Když jsem se opravdu díval na některé ty případy, člověk, který se dlouhodobě hlásí, ať už formou přímé podpory, nebo jak Filip Turek říkal, černým humorem k režimu, který skutečně napáchal mnoho zla, když se vyjadřuje s takovým despektem o ženách, například formou toho, že největší chybou 20. století bylo dát ženám volební právo, nebo o menšinách, o černoších, o Židech a dalších, no, pak samozřejmě, pokud by takový člověk měl být ministrem, pak běžný občan si řekne, všechno to, co reprezentuje Filip Turek, je akceptovatelné. A já mám nejenom svůj názor, ale opírám to i o znění Ústavy, to se opravdu neztotožňuje. A tím základním filtrem, aby se lidé tohoto profilu nedostali do vysokých funkcí, by měly být na prvním místě politické strany, které by je neměly nominovat, protože by si měly být vědomy toho rizika. Na druhou stranu Motoristé na kontroverzi Filipa Turka v podstatě postavili volební kampaň, a to, že to oslovilo necelých 7 % obyvatelstva, ještě neznamená, že ta zbylá procenta se s tím mají smířit. A i proto jsem považoval za správné, i když jsem si byl vědom, že to vyvolá velkou debatu, že jsem-li tím posledním, kdo tomu může zabránit, tak to v souladu s ústavou udělat musím.\\nMartin Čermák, moderátor\\nKdyž mluvíte o tom, že měl Filip Turek adorovat nacistický režim a mluvíte o těch všech kauzách, tak když bych se podíval na vás, tak vy jste až do roku 1989 byl členem komunistické strany, vlastně také zlého režimu, který napáchal mnoho zlého v České republice, v Československu, pardon, když budeme si projíždět ty články předvolebních kampaní, tak existuje fotografie, na které řídíte bez helmy. V jednom rozhovoru jste říkal, že jste řídil pod vlivem alkoholu, nebo že jste si dal alkohol před jízdou, když bych měl uplatnit nějaký takový pohled na vás jako naprosto nezaujatý pozorovatel, nemohl bych říct něco podobného o vás, když bych chtěl být ve vaší pozici?\\n\\nProvide a structured, citation-backed verification of the claim: 'Když se (Filip Turek, pozn. Demagog.cz) vyjadřuje (...) například formou toho, že největší chybou 20. století bylo dát ženám volební právo.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 467.50 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Z dostupných zdrojů vyplývá, že Filip Turek ve svých starších příspěvcích na sociálních sítích skutečně napsal, že volební právo pro ženy je „největší chyba 20. století“. Výrok proto hodnotíme jako pravdivý.</p>\n\n<p>Výrok se týká veřejně činného Filipa Turka a jeho starších internetových příspěvků, které se v posledních měsících staly předmětem politických sporů. Novináři zmapovali jeho někdejší, dnes již smazané profily na sociálních sítích a popsali na nich mimo jiné urážky menšin, adoraci totalitních režimů a misogynní výroky, jež se následně promítly do veřejné debaty o jeho vhodnosti pro výkon veřejných funkcí. Takovou rekonstrukci publikoval například server <a href=\"https://denikn.cz/1867309/motoriste-stoji-na-kultu-osobnosti-filipa-turka-jeho-postu-ve-vlade-se-nevzdaji-jake-moznosti-ma-andrej-babis-na-stole/\">Deník N</a>.</p>\n\n<p>Posuzovaný výrok obsahuje dvě části. První je konkrétní tvrzení, že Filip Turek veřejně napsal (případně řekl), že největší chybou 20. století bylo dát ženám volební právo. Druhou je hodnotící komentář o tom, „jak se vyjadřuje“, který popisuje styl a povahu jeho veřejných projevů obecně. Tato druhá část je hodnotící a nelze ji přesně měřit či ověřit, proto ji v naší analýze nehodnotíme. Ověřujeme jen faktickou část, zda Turek skutečně formuloval myšlenku, že volební právo ženám bylo „největší chybou 20. století“.</p>\n\n<p>Investigativní novinářka Zdislava Pokorná v rozhovoru pro <a href=\"https://denikn.cz/1867309/motoriste-stoji-na-kultu-osobnosti-filipa-turka-jeho-postu-ve-vlade-se-nevzdaji-jake-moznosti-ma-andrej-babis-na-stole/\">Deník N</a> popisuje, že analyzovala Turovy profily na sociálních sítích z období zhruba 2009–2021. Uvádí, že na nich Turek dlouhodobě urážel menšiny a znevažoval ženy. V článku konkrétně říká, že Turek na sociálních sítích podle jejího zjištění mj. psal, že <i>„volební právo pro ženy je největší chybou 20. století“</i>. Tímto Deník N přímo potvrzuje existenci výroku v podobě velmi blízké větě, kterou cituje posuzovaný výrok.</p>\n\n<p>Podobný obraz přináší i bulvární server <a href=\"https://www.extra.cz/zpravy-obvineni-ktera-turka-mohou-stat-krk-podpora-nacismu-nenavist-k-zenam-a-sireni-rasismu-7e10a\">Extra.cz</a>, který na základě archivních materiálů souhrnně cituje řadu starších Turových příspěvků zaměřených proti ženám a dalším skupinám. Mezi těmito citacemi uvádí i větu připisovanou Filipu Turkovi: <i>„Volební právo ženám byla největší chyba 20. století, jednou to lidem dojde.“</i> Tato formulace obsahově odpovídá tvrzení, že „největší chybou 20. století bylo dát ženám volební právo“, pouze jde o jinou stylistickou podobu téže myšlenky.</p>\n\n<p>Oba citované články – seriózní <a href=\"https://denikn.cz/1867309/motoriste-stoji-na-kultu-osobnosti-filipa-turka-jeho-postu-ve-vlade-se-nevzdaji-jake-moznosti-ma-andrej-babis-na-stole/\">Deník N</a> i bulvárnější <a href=\"https://www.extra.cz/zpravy-obvineni-ktera-turka-mohou-stat-krk-podpora-nacismu-nenavist-k-zenam-a-sireni-rasismu-7e10a\">Extra.cz</a> – shodně uvádějí, že jde o Turovy starší příspěvky na sociálních sítích, které byly v minulosti veřejně dostupné a nyní jsou smazané. Protože původní profily už nejsou aktivní, nemůžeme tyto texty ověřit přímo na zdroji, ale máme k dispozici dvě na sobě nezávislé mediální rekonstrukce, které citují tutéž myšlenku v téměř totožném znění. To výrazně zvyšuje věrohodnost informace, že Turek takový výrok skutečně publikoval.</p>\n\n<p>Na základě těchto zdrojů lze uzavřít, že Filip Turek ve svých dřívějších příspěvcích na sociálních sítích opravdu vyjádřil postoj, podle kterého je volební právo žen „největší chybou 20. století“. Posuzovaný výrok tuto myšlenku nepřesně necituje, ale věcně ji správně parafrázuje. Z tohoto důvodu hodnotíme ověřitelnou faktickou část výroku jako <strong>pravda</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_046112bed65fe78a0069788370fa348192b925bdf7f7729fdd",
+    "created_at": 1769505649.0,
+    "error": {
+      "code": "server_error",
+      "message": "An error occurred while processing your request. You can retry your request, or contact us through our help center at help.openai.com if the error persists. Please include the request ID wfr_019bfec1879278a69f820a9ca6f96e00 in your message."
+    },
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_046112bed65fe78a006978838067248192b84f8982e8cb98d6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a0069788394d634819289c30fa9bd570e05",
+        "action": {
+          "query": "\"největší chybou 20. století\" \"Filip Turek\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"největší chybou 20. století\" \"Filip Turek\"",
+            "\"dát ženám volební právo\" \"Filip Turek\"",
+            "\"volební právo žen\" \"Filip Turek\"",
+            "\"Turek\" \"volební právo žen\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a006978839cd3748192b44c17a0a3909b17",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697883b395b88192862fbafa6f0377c6",
+        "action": {
+          "query": "\"Filip Turek\" \"volební právo žen\" \"největší chybou 20. století\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Filip Turek\" \"volební právo žen\" \"největší chybou 20. století\"",
+            "\"Filip Turek\" \"největší chyba 20. století\"",
+            "\"Turek\" \"volební právo žen\" Deník N",
+            "\"Turek\" \"volební právo žen\" \"Facebook\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a00697883bd8cf881928d8d7a356d653785",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697883cf5a348192bebd3e22e2df2f2e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a00697883d2c7d881928d05fdc3aa0c2917",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697883ddc7448192a2bfc94e59f87912",
+        "action": {
+          "query": "\"největší chybou 20. století bylo dát ženám volební právo\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"největší chybou 20. století bylo dát ženám volební právo\"",
+            "\"největší chybou 20. století\" \"volební právo žen\"",
+            "\"volební právo žen je největší chybou 20. století\"",
+            "\"nejvetsi chybou 20. stoleti\" \"volebni pravo zen\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a00697883e3cc4c81928208f9fa1319f499",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697883eb19348192bac2765f1f94f8b2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a00697883ed7aa4819289683b768ac65bbb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697883f0dc3c8192a40fa3686bd4d7b9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a00697883f4e9b48192964e576d5ccee44a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697883f8b12481929870acfe21433e44",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a00697883fe34c0819287ce26364650c3f6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697884009d608192be64500b8747ccd5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a0069788407de3881928bb7a3e27801b351",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a006978840c51888192bad3a9c53d576264",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a0069788413754081928833e5414ef84b83",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a006978844717d88192b7eb8d32f3a9522e",
+        "action": {
+          "query": "\"Filipa Turka\" \"volebni pravo zen\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Filipa Turka\" \"volebni pravo zen\"",
+            "\"volební právo žen\" \"Filip Turek\" screenshot",
+            "\"volební právo žen\" \"největší chyba\"",
+            "\"volebni pravo zen\" \"nejvetsi chyba\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a006978844ef7148192a0df653ce2de6e2f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697884532e18819297b0871f74cd58a3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a00697884576cf48192a03f7b67671263ac",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a006978845c4bb08192997d7c5c93a45182",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a006978845e80288192a766aaa1a562ff9f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697884803fc48192bb7a46930a3b0b42",
+        "action": {
+          "query": "\"Volební právo ženám byla největší chyba 20. století\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Volební právo ženám byla největší chyba 20. století\"",
+            "\"Volebni pravo zenam byla nejvetsi chyba 20. stoleti\"",
+            "\"Než svět zaplavilo volební právo žen, byl na planetě pořádek\"",
+            "\"Nez svet zaplavilo volebni pravo zen\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a006978848fc9fc8192b327dcaa774ceb51",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697884a1ff0c81928cfdbbdb37dc3503",
+        "action": {
+          "query": "\"Filip Turek\" \"volební právo ženám byla největší chyba\" hoax",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Filip Turek\" \"volební právo ženám byla největší chyba\" hoax",
+            "\"Volební právo ženám byla největší chyba 20. století\" \"podvrh\"",
+            "\"Turka\" \"volební právo ženám\" \"autenticita\"",
+            "\"Turkova\" \"volební právo žen\" \"manipulace\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a00697884a9ee78819291c1d50965533efe",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697884b1a36481929a5aeb8fc040a159",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a00697884b84bf88192807d1f4147255e14",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697884ced2f4819297a3f4ec296bb1ed",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a00697884d0bf5081929634046cd88e3884",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046112bed65fe78a00697884f8e38c8192b23c60833dac4781",
+        "action": {
+          "query": "\"smazany svet Filipa Turka\" \"prukazne\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"smazany svet Filipa Turka\" \"prukazne\"",
+            "\"filip turek\" \"popalit cikane\" \"podvrh\"",
+            "\"archiv smazanych prispevku\" \"Filip Turek\"",
+            "\"Turek\" \"Deník N\" \"trestní oznámení\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046112bed65fe78a0069788503c2888192ad24d02670264eef",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "failed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": null,
+    "user": null,
+    "completed_at": null,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

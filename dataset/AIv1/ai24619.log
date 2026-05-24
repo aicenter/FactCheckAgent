@@ -1,0 +1,686 @@
+{
+  "claim_id": "24619",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24619.md",
+  "fact_check": "# Fact Check for Statement ID 24619\n\n## Statement\nKdyž se na to podíváme s ohledem na elektřinu, tak jsme třetí nejlepší v tuto chvíli v Evropě (v meziměsíčním srovnání cen, pozn. Demagog.cz).\n\n---\n## AI Fact Check\n## 1. Rekonstrukce a rozklad tvrzení\n\nCitované tvrzení Karla Havlíčka (v interpretaci Demagog.cz):\n\n> „Když se na to podíváme s ohledem na elektřinu, tak jsme třetí nejlepší v tuto chvíli v Evropě (v meziměsíčním srovnání cen).“\n\nZ kontextu v pořadu:\n\n- předtím mluví o „meziměsíčním vývoji cen energií, jinými slovy, poklesly“ a říká, že „v posledních hodinách vyšla čísla z Eurostatu“,\n- u elektřiny dodává, že šlo o cca 10% změnu a že to „má okamžitý vliv na inflaci“.\n\nNejpřirozenější interpretace:\n\n1. **Zdroj:** Eurostat (nikoli ČSÚ).\n2. **Ukazatel:** harmonizovaný index spotřebitelských cen (HICP), podtřída „elektřina“.\n3. **Typ změny:** krátkodobá **meziměsíční procentní změna** (m/m) indexu pro elektřinu.\n4. **Srovnání:** všechny (nebo většina) evropských zemí, které Eurostat v HICP publikuje (EU27, případně + EFTA / kandidáti).\n5. **Výklad „nejlepší“:** v kontextu „poklesly“ je „nejlepší“ zjevně myšleno jako **největší pokles (nejnižší růst)** – tedy třetí největší meziměsíční snížení cen elektřiny.\n\nNíže proto ověřuji:\n\n- jaký ukazatel Eurostat pro elektřinu skutečně publikuje,\n- jaké má Česko postavení v **úrovni** cen elektřiny,\n- jak v dostupných datech vypadá **meziměsíční změna** HICP pro elektřinu ve srovnání s jinými zeměmi,\n- zda existuje rozumná interpretace, při níž by ČR mohla být „třetí nejlepší v Evropě“.\n\n---\n\n## 2. Používané ukazatele a zdroje dat\n\n### 2.1 HICP Eurostatu a podtřída „elektřina“\n\nEurostat pro inflaci používá harmonizovaný index spotřebitelských cen (HICP), který:\n\n- je měsíční a zveřejňuje se s cca dvoutýdenním zpožděním, včetně **měsíční míry změny (m/m)**,  \n- je rozčleněn podle klasifikace ECOICOP až na pětimístné podtřídy (500+ podindexů) vč. elektřiny. ([ec.europa.eu](https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai))  \n\nPodle metodiky HICP:\n\n- existuje dataset **prc_hicp_midx** (měsíční indexy) a **prc_hicp_mmor** (měsíční míry změny m/m),  \n- HICP pokrývá všechny výdaje domácností na zboží a služby, včetně energie. ([ec.europa.eu](https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai))  \n\nPodle oficiálního slovníku ECOICOP je podtřída:\n\n- **„04.5.1 Electricity“** – spotřebitelské výdaje domácností na elektřinu; přesně je takto identifikována i pro HICP. ([op.europa.eu](https://op.europa.eu/en/web/eu-vocabularies/concept/-/resource?uri=http%3A%2F%2Fdata.europa.eu%2Fed1%2Fecoicop%2F0451&utm_source=openai))  \n\nEvropská centrální banka na svém datovém portálu publikuje HICP pro elektřinu pro jednotlivé země s klíči jako:\n\n- `ICP.M.AT.N.045100.4.INX` – „HICP – Electricity, Austria, Monthly, index 2015=100“ ([data.ecb.europa.eu](https://data.ecb.europa.eu/data/datasets/ICP/ICP.M.AT.N.045100.4.INX))  \n\nToto potvrzuje, že **Eurostat skutečně publikuje měsíční indexy HICP pro elektřinu** pro jednotlivé státy a lze z nich dopočítat meziměsíční změny.\n\n---\n\n## 3. Jak si vede ČR v cenách elektřiny podle Eurostatu\n\n### 3.1 Úroveň a meziroční změny cen elektřiny pro domácnosti (1. pololetí 2025)\n\nEurostat v news release k cenám elektřiny pro domácnosti za 1. pololetí 2025 uvádí:\n\n- průměrná cena elektřiny v EU byla **28,72 €/100 kWh**,  \n- mezi 1. pol. 2024 a 1. pol. 2025 byly **největší poklesy** cen elektřiny pro domácnosti v:\n  - Slovinsku **−13,1 %**,\n  - Finsku **−9,8 %**,\n  - Kypru **−9,5 %**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n\nSoučasně tentýž článek zdůrazňuje, že při přepočtu na **paritu kupní síly (PPS)**:\n\n- **nejdražší elektřinu v celé EU** mají domácnosti v **Česku (39,16 v PPS)**, následované Polskem (34,96) a Itálií (34,40),  \n- nejnižší ceny v PPS jsou na Maltě (13,68), v Maďarsku (15,01) a Finsku (18,70). ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n\nShrnutí:\n\n- pokud bychom „nejlepší“ chápali jako **největší meziroční zlevnění elektřiny**, ČR není v první trojce; naopak prvenství mají Slovinsko, Finsko a Kypr;\n- pokud bychom „nejlepší“ chápali jako **nejnižší cenovou úroveň**, ČR je podle PPS naopak **nejdražší v celé EU**.\n\n### 3.2 Potvrzení v českých sekundárních zdrojích\n\nČeské analýzy, které vycházejí z dat Eurostatu, opakovaně upozorňují, že v posledních letech patří elektřina v ČR k nejdražším v EU:\n\n- Analýza Parlamentních listů (květen 2025) konstatuje, že podle dat Eurostatu se Česko „opět umístilo na prvním místě v rámci evropských zemí s vůbec tou nejdražší elektřinou“ a že i po meziročním poklesu cen kolem 4–5 % platí Češi v evropském srovnání výrazně více než ostatní. ([parlamentnilisty.cz](https://www.parlamentnilisty.cz/arena/monitor/Ucet-za-elektrinu-klesne-Ale-po-srovnani-s-Evropou-radost-zmizi-773861?utm_source=openai))  \n- Komentář „Jak přestat platit nejdražší elektřinu v Evropě“ shrnuje, že Eurostat potvrdil, že v druhém pololetí minulého roku (2024) i nadále Češi platili nejvyšší ceny elektřiny v celé EU, a to navzdory tomu, že máme levnou domácí výrobu. ([zsch.cz](https://www.zsch.cz/news/jak-prestat-platit-nejdrazsi-elektrinu-v-evrope/?utm_source=openai))  \n\nTyto zdroje potvrzují: **v úrovni cen jsme na špici (nejdražší), nikoli „druzí nejlepší“ či „třetí nejlepší“**.\n\n---\n\n## 4. Meziměsíční vývoj HICP pro elektřinu – dostupná dílčí data\n\nProtože v tomto prostředí není možné přímo stáhnout celý eurostatovský dataset HICP pro elektřinu (prc_hicp_midx / prc_hicp_mmor) pro všechny státy, využil jsem veřejně dostupné replikace těchto dat (TradingEconomics), které čerpají přímo z Eurostatu a u každé řady to explicitně uvádějí jako zdroj. ([tradingeconomics.com](https://tradingeconomics.com/czech-republic/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai))  \n\n### 4.1 Příklad – květen 2025\n\nStránka „Czech Republic – Harmonised index of consumer prices (HICP): Electricity“ uvádí:\n\n- pro květen 2025 index HICP elektřiny v ČR **211,80 bodu**,\n- „předchozí“ hodnota (duben 2025) **212,20 bodu**,  \n- současně v tabulce srovnává pět zemí (Estonsko, Česko, Belgii, Itálii, Polsko) s jejich „Last“ a „Previous“ hodnotou. ([tradingeconomics.com](https://tradingeconomics.com/czech-republic/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai))  \n\nZ těchto pár zemí lze spočítat meziměsíční změnu HICP elektřiny mezi dubnem a květnem 2025:\n\n- Belgie: 203,11 → 194,98 (pokles cca **−4,0 %**),\n- Estonsko: 326,87 → 319,66 (pokles cca **−2,2 %**),\n- Itálie: 180,10 → 178,10 (pokles cca **−1,1 %**),\n- **ČR: 212,20 → 211,80 (pokles jen cca −0,2 %)**,\n- Polsko: beze změny (176,20 → 176,20).\n\nUž v tomto omezeném vzorku pěti států **Česko není ani třetí**, ale až **čtvrté v pořadí podle velikosti meziměsíčního poklesu** cen elektřiny.\n\n### 4.2 Příklad – listopad 2025\n\nStránka „Euro Area – HICP: Electricity“ na TradingEconomics obsahuje také tabulku srovnávající několik zemí v listopadu 2025:\n\n- Estonsko: 360,64 (předchozí 354,88),\n- Rumunsko: 244,25 (předchozí 250,66),\n- **ČR: 205,80 (předchozí 208,20)**,\n- Belgie: 197,64 (předchozí 194,90),\n- a další státy (tabulka je delší, ale ve výřezu jsou vidět tyto čtyři). ([tradingeconomics.com](https://tradingeconomics.com/euro-area/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai))  \n\nZ těchto čtyř:\n\n- Rumunsko zaznamenává pokles cca **−2,6 %**,\n- ČR pokles cca **−1,1 %**,\n- Belgie a Estonsko naopak **zdražují** (index roste).\n\nV tomto výřezu by tedy ČR byla **druhá nejlepší** (druhý největší pokles) – nikoli „třetí nejlepší“. Ostatní státy z tabulky ovšem v úryvku nejsou, a proto nelze určit přesné celkové pořadí.\n\n### 4.3 Co z dílčích dat plyne\n\nZ výše uvedeného:\n\n- Meziměsíční pokles HICP pro elektřinu **není v ČR nijak výjimečně velký**: v květnu 2025 je menší než v Belgii, Estonsku i Itálii; v listopadu 2025 je sice o něco výraznější, ale v daném vzorku není „třetí nejlepší“, nýbrž druhý (a nevíme, jaké poklesy mají ostatní země EU).\n- V žádném z těchto příkladů z roku 2025 **nevyplývá pořadí „ČR = třetí nejlepší v Evropě“** podle meziměsíčního vývoje HICP pro elektřinu.\n\n---\n\n## 5. Vyhodnocení různých možných interpretací tvrzení\n\n### 5.1 Interpretace 1 – „třetí největší meziměsíční pokles HICP – elektřina v posledním zveřejněném měsíci (pravděpodobně leden 2026)“\n\n- Metodicky dává smysl: Eurostat opravdu publikuje HICP po měsících a po podtřídách, včetně elektřiny, a i měsíční míry změny (prc_hicp_mmor). ([ec.europa.eu](https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai))  \n- V tomto prostředí ale **nemám přístup k plné tabulce prc_hicp_mmor / prc_hicp_midx pro všechny země a leden 2026**, takže nelze zkonstruovat přesný žebříček, na který se mohl Havlíček odkazovat.\n- V **dostupných měsících 2025** (viz příklady květen a listopad) však:\n  - ČR **ani jednou nevychází jako „třetí nejlepší“**,  \n  - v květnu je až **čtvrtá** v rámci viditelného vzorku, v listopadu v dílčím výřezu druhá;  \n  - nic nenasvědčuje tomu, že by se dlouhodobě pohybovala mezi „nejlepšími třemi“ v EU, pokud jde o meziměsíční zlevňování elektřiny.\n- Neexistuje ani žádný Eurostat‑či mediální výstup, který by takový „třetí nejlepší“ status ČR u elektřiny v dané době zmiňoval; oficiální eurostatovský článek o cenách elektřiny v 1. pol. 2025 naopak zdůrazňuje především to, že v PPS má Česko **nejdražší elektřinu v EU**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n\nZávěr: **Pro tuto interpretaci nenašel jsem žádný přímý důkaz, který by tvrzení podpořil, a dílčí data ji spíše zpochybňují.**\n\n### 5.2 Interpretace 2 – „třetí největší meziroční pokles cen elektřiny (např. mezi pololetími)“\n\nPokud bychom „nejlepší“ chápali jako **největší meziroční snížení cen elektřiny pro domácnosti**:\n\n- Z eurostatovského článku pro 1. pol. 2025 jasně plyne, že **největší meziroční poklesy** měly:\n  - Slovinsko (−13,1 %),\n  - Finsko (−9,8 %),\n  - Kypr (−9,5 %),  \n  - zatímco ČR mezi nimi **není uvedena**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n- Stejný článek zároveň říká, že v přepočtu na PPS má Česko **nejvyšší cenovou úroveň** elektřiny v celé EU. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n\nTedy: **podle meziročních změn ani podle cenové úrovně rozhodně nejsme „třetí nejlepší“**, naopak patříme k nejhorším.\n\n### 5.3 Interpretace 3 – „krátkodobá změna nějaké domácí (ne harmonizované) složky ceny elektřiny“\n\nTeoreticky by mohl mít na mysli:\n\n- např. **pokles regulované složky** ceny elektřiny v ČR v důsledku přesunu části nákladů (POZE) do státního rozpočtu,  \n- a ten srovnávat **pouze v rámci ČR**, případně bez skutečné vazby na data Eurostatu.\n\nTo ale naráží na dvě věci:\n\n- Sám se odkazuje výslovně na „čísla z Eurostatu“ a „Evropu“ – tedy ne na čistě národní index ani na domácí rozhodnutí o regulované složce.  \n- Přestože přesun financování POZE na stát vedl k výraznému **meziročnímu** snížení regulované složky v ČR (cca −15 % pro domácnosti v roce 2026), pro tvrzení o „třetí nejlepší“ pozici v **evropském meziměsíčním srovnání** to samo o sobě nestačí – potřebovali bychom skutečný eurostatovský žebříček, který ale k dispozici není.\n\nTato interpretace by navíc odporovala tomu, že se explicitně dovolává **Eurostatu**.\n\n---\n\n## 6. Shrnutí důkazů a hodnocení tvrzení\n\n### Co víme z dostupných dat\n\n1. **Eurostat HICP**:\n   - Publikuje měsíční indexy a míry změny pro elektřinu (ECOICOP 04.5.1 / 045100) pro všechny členské státy. ([ec.europa.eu](https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai))  \n   - Z těchto dat by bylo možné přesně spočítat meziměsíční změny a seřadit země podle velikosti poklesu/zvýšení, ale v tomto prostředí není možné tato data hromadně stáhnout.\n\n2. **Ceny elektřiny pro domácnosti podle Eurostatu (1. pol. 2025)**:\n   - Největší meziroční poklesy cen elektřiny mají Slovinsko, Finsko a Kypr; ČR mezi nimi není,  \n   - v PPS má naopak **Česko vůbec nejdražší elektřinu v EU**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n\n3. **Dílčí příklady meziměsíčního HICP pro elektřinu z TradingEconomics** (data přebírají z Eurostatu):\n   - **květen 2025**: pokles HICP pro elektřinu v ČR (−0,2 %) je menší než v Belgii (−4,0 %), Estonsku (−2,2 %) i Itálii (−1,1 %); mezi pěti viditelnými zeměmi je ČR až čtvrtá, ne třetí. ([tradingeconomics.com](https://tradingeconomics.com/czech-republic/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai))  \n   - **listopad 2025**: v zobrazeném výřezu (Estonsko, Rumunsko, ČR, Belgie) má větší pokles Rumunsko (−2,6 %), ČR je „druhá nejlepší“, nikoli třetí; ostatní státy z tabulky nejsou v úryvku vidět, ale už z tohoto je jasné, že „třetí nejlepší“ nevychází ani zde. ([tradingeconomics.com](https://tradingeconomics.com/euro-area/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai))  \n\n4. **Obecný obraz z veřejné debaty**:\n   - Řada analýz vycházejících z Eurostatu (včetně českých médií) opakovaně konstatuje, že v posledních letech patří ČR k zemím s **nejdražší elektřinou v EU**, nikoli k „nejlepším“ v jakémkoli příznivém smyslu. ([parlamentnilisty.cz](https://www.parlamentnilisty.cz/arena/monitor/Ucet-za-elektrinu-klesne-Ale-po-srovnani-s-Evropou-radost-zmizi-773861?utm_source=openai))  \n\n### Co naopak doložit nelze\n\n- Není možné v tomto prostředí **exaktně spočítat žebříček všech zemí EU** podle meziměsíční změny HICP pro elektřinu za poslední měsíc před výrokem (pravděpodobně leden 2026), protože k tomu chybí přímý přístup k celému datasetu prc_hicp_mmor/prc_hicp_midx.\n- Proto nelze se 100% jistotou vyloučit, že se v nějakém jednotlivém měsíci a konkrétní definici „elektřiny“ (např. širší agregát „elektřina, plyn a další paliva“) ČR opravdu v žebříčku dostala na 3. místo – ale **nenašel jsem k tomu žádný důkaz** ani zmínku v primárních (Eurostat) či sekundárních zdrojích.\n\n### Celkové hodnocení\n\nNa základě:\n\n- oficiálních eurostatovských údajů o cenách elektřiny (úroveň i meziroční změny),  \n- dílčích, ale reprezentativních příkladů meziměsíčního vývoje HICP elektřiny v roce 2025,  \n- a širšího kontextu, že Česko patří podle Eurostatu dlouhodobě k zemím s nejvyšší cenovou úrovní elektřiny v EU,\n\n**nenašel jsem žádný ukazatel z oficiálních statistik Eurostatu, u kterého by ČR vycházela jako „třetí nejlepší v Evropě“ ve smyslu meziměsíčního vývoje cen elektřiny. Naopak dostupná data takové tvrzení spíše vyvracejí.**\n\nPro fakt‑checkera to prakticky znamená:\n\n- pokud se tvrzení vztahuje k **meziročním změnám nebo k cenové úrovni elektřiny**, je s daty Eurostatu **v přímém rozporu**;\n- pokud se vztahuje ke konkrétnímu **meziměsíčnímu HICP pro elektřinu**, v dostupných měsících roku 2025 takové pořadí nevyplývá a pro měsíc těsně před výrokem (leden 2026) chybí otevřená, kompletní tabulka; tvrzení proto nelze na základě zveřejněných eurostatovských přehledů doložit a je velmi pravděpodobně **nepodložené / zavádějící**.\n\n---\n\n### Omezení této analýzy\n\n- Vzhledem k technickým omezením nebylo možné stáhnout celý dataset Eurostatu (prc_hicp_mmor / prc_hicp_midx) pro všechny země a měsíce až do ledna 2026, a tedy mechanicky zrekonstruovat přesný „žebříček“ meziměsíčního vývoje HICP pro elektřinu.\n- Použité sekundární zdroje (TradingEconomics, národní statistické úřady, česká média) však **přebírají přímo data Eurostatu** a poskytují reprezentativní obrázek meziměsíčního vývoje i kontext (cenová úroveň, meziroční změny), který s tvrzením „třetí nejlepší v Evropě“ nekoresponduje.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:01:34\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nNechte mě jenom v tom domluvit. Já jsem poukazoval na to, že firmy díky tomu přestávaly investovat, byly v nejistotě. Zhoršovala se situace domácností, chudí chudli ještě více, ale já jsem slíbil, že nebudeme stavět naše kroky na neúspěchu nebo neschopnosti té vlády minulé. Konečně vizitku nebo respektive vysvědčení, tu vám dali voliči a přesvědčovat je o tom, co mohlo být lepší nebo horší, je už dneska věc jiná. Každého dneska zajímá to, co bude. Jinými slovy, já vám tady ukážu dva grafy a na tom budu demonstrovat ten současný stav, který já myslím, že to ty lidi zajímá úplně...\\n00:02:13\\nTerezie Tománková,moderátorka\\nUrčitě to probereme i v detailu.\\n00:02:14\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nUrčitě, ale tady to je. V poslední hodinách vyšla čísla z Eurostatu a tady vidíte, že po mnoha a mnoha měsících, čtyřech letech, když jsme měli nejhorší ceny energií, tak Česká republika je druhá nejlepší po Dánsku ve smyslu meziměsíčního vývoje cen energií, jinými slovy, poklesly. Když se na to podíváme s ohledem na elektřinu, tak jsme třetí nejlepší v tuto chvíli v Evropě, o 10 % díky krokům, které jsme udělali, to má samozřejmě okamžitě vliv na inflaci. Určitě víte, že ji máme...\\n00:02:40\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Když se na to podíváme s ohledem na elektřinu, tak jsme třetí nejlepší v tuto chvíli v Evropě (v meziměsíčním srovnání cen, pozn. Demagog.cz).'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 479.05 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Výrok tvrdí, že podle meziměsíčních dat Eurostatu o cenách elektřiny je Česko „třetí nejlepší v Evropě“. V žádných dostupných statistikách takové umístění nevyplývá a jiné ukazatele řadí ČR k nejdražším. Výrok hodnotíme jako zavádějící.</p>\n\n<p>V televizní debatě Karel Havlíček mluví o vývoji cen energií, odvolává se na <i>„čísla z Eurostatu“</i> a tvrdí, že při meziměsíčním srovnání cen elektřiny je Česko <i>„třetí nejlepší v Evropě“</i>. V našem ověření výrok chápeme tak, že se týká meziměsíční procentní změny cen elektřiny v jednotlivých evropských zemích a údajného třetího nejlepšího umístění České republiky v tomto žebříčku.</p>\n\n<p>Nejprve ověřujeme, zda Eurostat takové meziměsíční srovnání vůbec publikuje. Eurostat skutečně zveřejňuje měsíční <a href=\"https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm\">harmonizovaný index spotřebitelských cen (HICP)</a>, který měří inflaci ve všech státech EU. Podle jeho metodického popisu je HICP členěn podle <a href=\"https://op.europa.eu/en/web/eu-vocabularies/concept/-/resource?uri=http%3A%2F%2Fdata.europa.eu%2Fed1%2Fecoicop%2F0451\">klasifikace ECOICOP</a> až na pětimístné podtřídy, mezi nimiž je samostatná položka „04.5.1 Electricity“ určená pro výdaje domácností na elektřinu. Řady HICP pro elektřinu pro jednotlivé státy přebírá a zveřejňuje i <a href=\"https://data.ecb.europa.eu/data/datasets/ICP/ICP.M.AT.N.045100.4.INX\">Evropská centrální banka</a>. První část výroku – že existují harmonizovaná meziměsíční data o cenách elektřiny v Evropě – tedy odpovídá skutečnosti.</p>\n\n<p>Druhá, podstatná část tvrzení říká, že z těchto dat vyplývá, že je Česko „třetí nejlepší v Evropě“. Proto jsme se zaměřili na oficiální eurostatovská přehledy k cenám elektřiny. V tiskové zprávě Eurostatu o cenách elektřiny pro domácnosti za 1. pololetí 2025 se uvádí, že největší meziroční pokles cen elektřiny zaznamenaly Slovinsko (−13,1 %), Finsko (−9,8 %) a Kypr (−9,5 %), zatímco Česká republika mezi zeměmi s největším zlevněním nefiguruje. Stejný dokument zároveň konstatuje, že po přepočtu na paritu kupní síly mají domácnosti v Česku vůbec nejvyšší cenu elektřiny v celé Evropské unii, následované Polskem a Itálií. Tyto údaje jsou uvedeny v oficiální <a href=\"https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2\">tiskové zprávě Eurostatu k cenám elektřiny</a>.</p>\n\n<p>Na tato data navazují i české sekundární analýzy. Komentář na serveru <a href=\"https://www.parlamentnilisty.cz/arena/monitor/Ucet-za-elektrinu-klesne-Ale-po-srovnani-s-Evropou-radost-zmizi-773861\">ParlamentníListy.cz</a> shrnuje, že podle údajů Eurostatu se Česko opakovaně umisťuje na prvním místě mezi evropskými zeměmi s nejdražší elektřinou, byť účty domácností meziročně mírně klesly. Podobně analýza na webu <a href=\"https://www.zsch.cz/news/jak-prestat-platit-nejdrazsi-elektrinu-v-evrope/\">Zelený svět Čechům</a> uvádí, že Eurostat v přehledech za rok 2024 potvrdil postavení České republiky jako země s nejvyšší cenovou úrovní elektřiny v EU. Tyto zdroje vycházejí z oficiálních statistik a potvrzují, že v cenové úrovni rozhodně nejsme „mezi nejlepšími“.</p>\n\n<p>Abychom ověřili přímo meziměsíční vývoj indexu HICP pro elektřinu, využili jsme databázi portálu <a href=\"https://tradingeconomics.com/czech-republic/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html\">TradingEconomics</a>, který explicitně čerpá z dat Eurostatu. U České republiky tato databáze uvádí, že mezi dubnem a květnem 2025 klesl index HICP pro elektřinu z 212,20 na 211,80 bodu, tedy zhruba o 0,2 %. Ve stejné tabulce jsou uvedeny i další státy: v Belgii poklesl index zhruba o 4 %, v Estonsku o 2,2 % a v Itálii přibližně o 1,1 %, zatímco v Polsku zůstal beze změny. V rámci tohoto vzorku pěti zemí se tak Česko podle velikosti meziměsíčního poklesu neumisťuje na třetím, ale až na čtvrtém místě.</p>\n\n<p>Další přehled na stejném portálu, tentokrát pro vybrané státy eurozóny, ukazuje hodnoty indexu HICP pro elektřinu v listopadu 2025. V Rumunsku podle <a href=\"https://tradingeconomics.com/euro-area/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html\">této tabulky</a> klesl index mezi říjnem a listopadem přibližně o 2,6 %, zatímco v České republice se snížil z 208,20 na 205,80 bodu, tedy asi o 1,1 %. V tomto výřezu dat má Česko druhý největší pokles, není však „třetí nejlepší“, a navíc nejsou v tabulce vidět všechny státy EU, takže bez dalšího nelze tvrdit, že by se v celoevropském pořadí umisťovalo právě na třetí příčce.</p>\n\n<p>Ve veřejně dostupných přehledech Eurostatu ani v sekundárních databázích založených na jeho datech jsme tedy nenašli žádný ukazatel meziměsíčního vývoje cen elektřiny, podle kterého by Česká republika vycházela jako třetí nejlepší země v Evropě. Naopak, oficiální <a href=\"https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2\">srovnání cen elektřiny v EU</a> opakovaně ukazují, že ČR patří k nejdražším zemím Unie a že mezi státy s největším meziročním poklesem cen elektřiny se neobjevuje.</p>\n\n<p>První dílčí tvrzení obsažené ve výroku – že Eurostat poskytuje harmonizovaná meziměsíční data o cenách elektřiny v evropských zemích – je tedy fakticky správné. Druhá, klíčová část výroku – že na základě těchto dat je Česká republika „třetí nejlepší v Evropě“, pokud jde o meziměsíční vývoj cen elektřiny – však neodpovídá dostupným statistikám a vytváří dojem, že si ČR vede výrazně lépe, než ukazují oficiální čísla. Tento závěr je hodnotícím shrnutím našich zjištění. Celkově proto výrok Karla Havlíčka hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0f59ea7634dcef780069a6aa71c6d88196877bcaa5ecbfb3b5",
+    "created_at": 1772530289.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0f59ea7634dcef780069a6aa7adfc08196afd7cc6876f3e56d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aa879ec48196a4d8d04a295632bd",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aa88d6c081968e2d1cb48971e33b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aa8913408196bf20571f4df1b4d5",
+        "action": {
+          "query": "Eurostat HICP electricity 04.5.1 month-on-month",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Eurostat HICP electricity 04.5.1 month-on-month",
+            "\"HICP (2015 = 100) - monthly data (index)\" electricity 04.5.1",
+            "Eurostat database HICP electricity 04.5.1 Czech Republic",
+            "Eurostat monthly HICP electricity 04.5.1 2025 CZ"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aa8b9618819685130fce44363ca2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aa8c1bb881968426af1695878484",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aa8cd940819687ec550e5cf24757",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aa902940819684d2e39dddf4efc6",
+        "action": {
+          "query": "\"prc_hicp_mmor\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"prc_hicp_mmor\"",
+            "\"prc_hicp_midx\" electricity 04.5.1",
+            "Eurostat dataset prc_hicp_mmor monthly rate of change electricity",
+            "Eurostat HICP 04.5.1 electricity prc_hicp"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aa927a648196abb7b436276e7bca",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aa98dc248196bfacd16fb923670b",
+        "action": {
+          "query": "\"CP0451\" electricity",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"CP0451\" electricity",
+            "Eurostat coicop CP0451 Electricity",
+            "\"CP0451\" \"electricity\" \"HICP\"",
+            "\"electricity (CP0451)\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aa9c3ee08196a2e1c63b7e5cfb6f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aa9dd8988196b954d1005eb29231",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aa9f70dc8196a2372cfc601e1167",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aaa0a1188196b900d0023c5434ae",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Electricity"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aaa2464c8196a3276e136c5babe7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aaa38b2081969fb5385f42ead013",
+        "action": {
+          "query": "\"Monthly – Monthly rate of change – CP0451\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Monthly – Monthly rate of change – CP0451\"",
+            "\"CP0451\" \"prc_hicp_mmor\"",
+            "\"M.RCH_M.CP0451\"",
+            "\"Electricity (CP0451)\" \"monthly rate of change\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aaa78acc8196adfba43da950a79f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aaad93c481968c1dbd1fbe71b751",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aab055ec81968bc3ee8c99e6d971",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aab842f481968ea9bf43b53877a9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aabae6e48196a6fd203ca81b9a9e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aabf57288196a3ab18dee76f37ae",
+        "action": {
+          "query": "\"třetí nejlepší\" elektřiny Eurostat",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"třetí nejlepší\" elektřiny Eurostat",
+            "\"třetí nejlepší\" \"ceny elektřiny\" \"Eurostat\"",
+            "\"druhá nejlepší\" \"ceny energií\" \"Eurostat\" \"Česká republika\"",
+            "\"Karel Havlíček\" Eurostat energie meziměsíční"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aac4260c81969771d1652a82a5b8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aac4dee08196ab7fb426bd4ef044",
+        "action": {
+          "query": "\"v tuto chvíli\" \"Evropě\" \"ceny elektřiny\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"v tuto chvíli\" \"Evropě\" \"ceny elektřiny\"",
+            "\"meziměsíční\" \"ceny elektřiny\" \"Eurostat\"",
+            "\"podíváme s ohledem na elektřinu\"",
+            "\"ve smyslu meziměsíčního vývoje cen energií\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aaca42b881968f0e3408500a4220",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aacd6ec08196bc2bca54cadf69c3",
+        "action": {
+          "query": "\"HICP - monthly data (monthly rate of change)\" \"Electricity\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"HICP - monthly data (monthly rate of change)\" \"Electricity\"",
+            "\"prc_hicp_mmor\" \"Electricity",
+            "\"Electricity (04.5.1)\" \"HICP\" \"monthly rate of change\"",
+            "\"M.RCH_M\" \"Electricity\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aad1a3388196a4d83996de8787dc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aad87868819682b9dc3d43a3d36d",
+        "action": {
+          "query": "\"HICP\" \"Electricity (04.5.1)\" \"Eurostat\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"HICP\" \"Electricity (04.5.1)\" \"Eurostat\"",
+            "\"04.5.1 Electricity\" \"Eurostat\"",
+            "\"CP0451\" \"HICP\" \"Czechia\"",
+            "\"Harmonised index of consumer prices: Electricity\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aae071a08196a5970cdc3a80f9b7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aae53c4081968941149481e24437",
+        "action": {
+          "query": "\"Czech Republic\" \"Harmonised index of consumer prices (HICP): Electricity\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Czech Republic\" \"Harmonised index of consumer prices (HICP): Electricity\"",
+            "\"Harmonised index of consumer prices (HICP): Electricity\" \"Czech Republic\"",
+            "\"HICP: Electricity\" \"Eurostat\" \"Czech Republic\"",
+            "\"Harmonised index of consumer prices: Electricity\" \"Czech Republic\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6aae9f3fc81969ea61bfd21dbfc4a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6aafcf9388196a1104ea85012a170",
+        "action": {
+          "query": "\"Harmonized Index of Consumer Prices: Electricity for the Czech Republic\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Harmonized Index of Consumer Prices: Electricity for the Czech Republic\"",
+            "\"Harmonized Index of Consumer Prices: Electricity for\" \"HICP\"",
+            "\"CP0451CZM086NEST\"",
+            "\"Harmonized Index of Consumer Prices: Electricity for\" \"Euro area\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6ab0683288196870d43e8421a5b62",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6ab1c3e148196ac1ea547c560c30f",
+        "action": {
+          "query": "\"HICP - Energy\" \"prc_hicp_mmor\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"HICP - Energy\" \"prc_hicp_mmor\"",
+            "\"Energy\" \"prc_hicp_mmor\" \"Czechia\"",
+            "\"monthly rate of change\" \"Energy\" \"HICP\" \"country\"",
+            "\"HICP: Energy (\" \"monthly\" \"Eurostat\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6ab2a909c8196a93d2d2bbaf58881",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6ab2ccfcc819694879b814d9f3ffd",
+        "action": {
+          "query": "\"Eurostat/teicp\" \"HICP - electricity\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Eurostat/teicp\" \"HICP - electricity\"",
+            "\"HICP - electricity\" \"db.nomics\"",
+            "\"HICP - electricity\" \"Eurostat\" dataset",
+            "\"HICP - electricity\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6ab37d1b48196af82fa192ead9365",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6ab438a1c8196a4d6dd7922290cb8",
+        "action": {
+          "query": "\"Harmonised index of consumer prices (HICP): Electricity\" \"Nov 2025\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Harmonised index of consumer prices (HICP): Electricity\" \"Nov 2025\"",
+            "\"HICP: Electricity\" \"Nov 2025\" EU",
+            "\"HICP - Electricity\" \"index\" 2025-11",
+            "\"HICP - Electricity\" \"Eurostat\" \"Czech\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6ab48bbb88196aa7cd7c331797037",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f59ea7634dcef780069a6ab4b8fc081969d87d2231b896165",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f59ea7634dcef780069a6ab4d872881968d1cb16e7616be10",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0f59ea7634dcef780069a6abe574188196b8b2cef630208cc4",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1822,
+                "start_index": 1721,
+                "title": "Harmonised index of consumer prices (HICP) (prc_hicp)",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai"
+              },
+              {
+                "end_index": 2127,
+                "start_index": 2026,
+                "title": "Harmonised index of consumer prices (HICP) (prc_hicp)",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai"
+              },
+              {
+                "end_index": 2452,
+                "start_index": 2299,
+                "title": "04.5.1 Electricity - EU Vocabularies - Publications Office of the EU",
+                "type": "url_citation",
+                "url": "https://op.europa.eu/en/web/eu-vocabularies/concept/-/resource?uri=http%3A%2F%2Fdata.europa.eu%2Fed1%2Fecoicop%2F0451&utm_source=openai"
+              },
+              {
+                "end_index": 2746,
+                "start_index": 2654,
+                "title": "ICP.M.AT.N.045100.4.INX | ECB Data Portal",
+                "type": "url_citation",
+                "url": "https://data.ecb.europa.eu/data/datasets/ICP/ICP.M.AT.N.045100.4.INX"
+              },
+              {
+                "end_index": 3461,
+                "start_index": 3352,
+                "title": "Household electricity prices in 1st half of 2025: -0.5% - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai"
+              },
+              {
+                "end_index": 3867,
+                "start_index": 3758,
+                "title": "Household electricity prices in 1st half of 2025: -0.5% - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai"
+              },
+              {
+                "end_index": 4776,
+                "start_index": 4617,
+                "title": "Účet za elektřinu klesne. Ale po srovnání s Evropou radost zmizí",
+                "type": "url_citation",
+                "url": "https://www.parlamentnilisty.cz/arena/monitor/Ucet-za-elektrinu-klesne-Ale-po-srovnani-s-Evropou-radost-zmizi-773861?utm_source=openai"
+              },
+              {
+                "end_index": 5124,
+                "start_index": 5020,
+                "title": "Jak přestat platit nejdražší elektřinu v Evropě :: Zemědělská společnost Chrášťany s.r.o.",
+                "type": "url_citation",
+                "url": "https://www.zsch.cz/news/jak-prestat-platit-nejdrazsi-elektrinu-v-evrope/?utm_source=openai"
+              },
+              {
+                "end_index": 5769,
+                "start_index": 5612,
+                "title": "Czech Republic - Harmonised index of consumer prices (HICP): Electricity - 2025 Data 2026 Forecast 1999 Historical",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/czech-republic/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai"
+              },
+              {
+                "end_index": 6287,
+                "start_index": 6130,
+                "title": "Czech Republic - Harmonised index of consumer prices (HICP): Electricity - 2025 Data 2026 Forecast 1999 Historical",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/czech-republic/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai"
+              },
+              {
+                "end_index": 7313,
+                "start_index": 7161,
+                "title": "Euro Area - Harmonised index of consumer prices (HICP): Electricity - 2026 Data 2027 Forecast 1999-2025 Historical",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/euro-area/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai"
+              },
+              {
+                "end_index": 8567,
+                "start_index": 8466,
+                "title": "Harmonised index of consumer prices (HICP) (prc_hicp)",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai"
+              },
+              {
+                "end_index": 9508,
+                "start_index": 9399,
+                "title": "Household electricity prices in 1st half of 2025: -0.5% - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai"
+              },
+              {
+                "end_index": 10153,
+                "start_index": 10044,
+                "title": "Household electricity prices in 1st half of 2025: -0.5% - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai"
+              },
+              {
+                "end_index": 10374,
+                "start_index": 10265,
+                "title": "Household electricity prices in 1st half of 2025: -0.5% - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai"
+              },
+              {
+                "end_index": 11736,
+                "start_index": 11635,
+                "title": "Harmonised index of consumer prices (HICP) (prc_hicp)",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai"
+              },
+              {
+                "end_index": 12255,
+                "start_index": 12146,
+                "title": "Household electricity prices in 1st half of 2025: -0.5% - News articles - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai"
+              },
+              {
+                "end_index": 12707,
+                "start_index": 12550,
+                "title": "Czech Republic - Harmonised index of consumer prices (HICP): Electricity - 2025 Data 2026 Forecast 1999 Historical",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/czech-republic/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai"
+              },
+              {
+                "end_index": 13124,
+                "start_index": 12972,
+                "title": "Euro Area - Harmonised index of consumer prices (HICP): Electricity - 2026 Data 2027 Forecast 1999-2025 Historical",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/euro-area/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai"
+              },
+              {
+                "end_index": 13537,
+                "start_index": 13378,
+                "title": "Účet za elektřinu klesne. Ale po srovnání s Evropou radost zmizí",
+                "type": "url_citation",
+                "url": "https://www.parlamentnilisty.cz/arena/monitor/Ucet-za-elektrinu-klesne-Ale-po-srovnani-s-Evropou-radost-zmizi-773861?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Rekonstrukce a rozklad tvrzení\n\nCitované tvrzení Karla Havlíčka (v interpretaci Demagog.cz):\n\n> „Když se na to podíváme s ohledem na elektřinu, tak jsme třetí nejlepší v tuto chvíli v Evropě (v meziměsíčním srovnání cen).“\n\nZ kontextu v pořadu:\n\n- předtím mluví o „meziměsíčním vývoji cen energií, jinými slovy, poklesly“ a říká, že „v posledních hodinách vyšla čísla z Eurostatu“,\n- u elektřiny dodává, že šlo o cca 10% změnu a že to „má okamžitý vliv na inflaci“.\n\nNejpřirozenější interpretace:\n\n1. **Zdroj:** Eurostat (nikoli ČSÚ).\n2. **Ukazatel:** harmonizovaný index spotřebitelských cen (HICP), podtřída „elektřina“.\n3. **Typ změny:** krátkodobá **meziměsíční procentní změna** (m/m) indexu pro elektřinu.\n4. **Srovnání:** všechny (nebo většina) evropských zemí, které Eurostat v HICP publikuje (EU27, případně + EFTA / kandidáti).\n5. **Výklad „nejlepší“:** v kontextu „poklesly“ je „nejlepší“ zjevně myšleno jako **největší pokles (nejnižší růst)** – tedy třetí největší meziměsíční snížení cen elektřiny.\n\nNíže proto ověřuji:\n\n- jaký ukazatel Eurostat pro elektřinu skutečně publikuje,\n- jaké má Česko postavení v **úrovni** cen elektřiny,\n- jak v dostupných datech vypadá **meziměsíční změna** HICP pro elektřinu ve srovnání s jinými zeměmi,\n- zda existuje rozumná interpretace, při níž by ČR mohla být „třetí nejlepší v Evropě“.\n\n---\n\n## 2. Používané ukazatele a zdroje dat\n\n### 2.1 HICP Eurostatu a podtřída „elektřina“\n\nEurostat pro inflaci používá harmonizovaný index spotřebitelských cen (HICP), který:\n\n- je měsíční a zveřejňuje se s cca dvoutýdenním zpožděním, včetně **měsíční míry změny (m/m)**,  \n- je rozčleněn podle klasifikace ECOICOP až na pětimístné podtřídy (500+ podindexů) vč. elektřiny. ([ec.europa.eu](https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai))  \n\nPodle metodiky HICP:\n\n- existuje dataset **prc_hicp_midx** (měsíční indexy) a **prc_hicp_mmor** (měsíční míry změny m/m),  \n- HICP pokrývá všechny výdaje domácností na zboží a služby, včetně energie. ([ec.europa.eu](https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai))  \n\nPodle oficiálního slovníku ECOICOP je podtřída:\n\n- **„04.5.1 Electricity“** – spotřebitelské výdaje domácností na elektřinu; přesně je takto identifikována i pro HICP. ([op.europa.eu](https://op.europa.eu/en/web/eu-vocabularies/concept/-/resource?uri=http%3A%2F%2Fdata.europa.eu%2Fed1%2Fecoicop%2F0451&utm_source=openai))  \n\nEvropská centrální banka na svém datovém portálu publikuje HICP pro elektřinu pro jednotlivé země s klíči jako:\n\n- `ICP.M.AT.N.045100.4.INX` – „HICP – Electricity, Austria, Monthly, index 2015=100“ ([data.ecb.europa.eu](https://data.ecb.europa.eu/data/datasets/ICP/ICP.M.AT.N.045100.4.INX))  \n\nToto potvrzuje, že **Eurostat skutečně publikuje měsíční indexy HICP pro elektřinu** pro jednotlivé státy a lze z nich dopočítat meziměsíční změny.\n\n---\n\n## 3. Jak si vede ČR v cenách elektřiny podle Eurostatu\n\n### 3.1 Úroveň a meziroční změny cen elektřiny pro domácnosti (1. pololetí 2025)\n\nEurostat v news release k cenám elektřiny pro domácnosti za 1. pololetí 2025 uvádí:\n\n- průměrná cena elektřiny v EU byla **28,72 €/100 kWh**,  \n- mezi 1. pol. 2024 a 1. pol. 2025 byly **největší poklesy** cen elektřiny pro domácnosti v:\n  - Slovinsku **−13,1 %**,\n  - Finsku **−9,8 %**,\n  - Kypru **−9,5 %**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n\nSoučasně tentýž článek zdůrazňuje, že při přepočtu na **paritu kupní síly (PPS)**:\n\n- **nejdražší elektřinu v celé EU** mají domácnosti v **Česku (39,16 v PPS)**, následované Polskem (34,96) a Itálií (34,40),  \n- nejnižší ceny v PPS jsou na Maltě (13,68), v Maďarsku (15,01) a Finsku (18,70). ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n\nShrnutí:\n\n- pokud bychom „nejlepší“ chápali jako **největší meziroční zlevnění elektřiny**, ČR není v první trojce; naopak prvenství mají Slovinsko, Finsko a Kypr;\n- pokud bychom „nejlepší“ chápali jako **nejnižší cenovou úroveň**, ČR je podle PPS naopak **nejdražší v celé EU**.\n\n### 3.2 Potvrzení v českých sekundárních zdrojích\n\nČeské analýzy, které vycházejí z dat Eurostatu, opakovaně upozorňují, že v posledních letech patří elektřina v ČR k nejdražším v EU:\n\n- Analýza Parlamentních listů (květen 2025) konstatuje, že podle dat Eurostatu se Česko „opět umístilo na prvním místě v rámci evropských zemí s vůbec tou nejdražší elektřinou“ a že i po meziročním poklesu cen kolem 4–5 % platí Češi v evropském srovnání výrazně více než ostatní. ([parlamentnilisty.cz](https://www.parlamentnilisty.cz/arena/monitor/Ucet-za-elektrinu-klesne-Ale-po-srovnani-s-Evropou-radost-zmizi-773861?utm_source=openai))  \n- Komentář „Jak přestat platit nejdražší elektřinu v Evropě“ shrnuje, že Eurostat potvrdil, že v druhém pololetí minulého roku (2024) i nadále Češi platili nejvyšší ceny elektřiny v celé EU, a to navzdory tomu, že máme levnou domácí výrobu. ([zsch.cz](https://www.zsch.cz/news/jak-prestat-platit-nejdrazsi-elektrinu-v-evrope/?utm_source=openai))  \n\nTyto zdroje potvrzují: **v úrovni cen jsme na špici (nejdražší), nikoli „druzí nejlepší“ či „třetí nejlepší“**.\n\n---\n\n## 4. Meziměsíční vývoj HICP pro elektřinu – dostupná dílčí data\n\nProtože v tomto prostředí není možné přímo stáhnout celý eurostatovský dataset HICP pro elektřinu (prc_hicp_midx / prc_hicp_mmor) pro všechny státy, využil jsem veřejně dostupné replikace těchto dat (TradingEconomics), které čerpají přímo z Eurostatu a u každé řady to explicitně uvádějí jako zdroj. ([tradingeconomics.com](https://tradingeconomics.com/czech-republic/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai))  \n\n### 4.1 Příklad – květen 2025\n\nStránka „Czech Republic – Harmonised index of consumer prices (HICP): Electricity“ uvádí:\n\n- pro květen 2025 index HICP elektřiny v ČR **211,80 bodu**,\n- „předchozí“ hodnota (duben 2025) **212,20 bodu**,  \n- současně v tabulce srovnává pět zemí (Estonsko, Česko, Belgii, Itálii, Polsko) s jejich „Last“ a „Previous“ hodnotou. ([tradingeconomics.com](https://tradingeconomics.com/czech-republic/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai))  \n\nZ těchto pár zemí lze spočítat meziměsíční změnu HICP elektřiny mezi dubnem a květnem 2025:\n\n- Belgie: 203,11 → 194,98 (pokles cca **−4,0 %**),\n- Estonsko: 326,87 → 319,66 (pokles cca **−2,2 %**),\n- Itálie: 180,10 → 178,10 (pokles cca **−1,1 %**),\n- **ČR: 212,20 → 211,80 (pokles jen cca −0,2 %)**,\n- Polsko: beze změny (176,20 → 176,20).\n\nUž v tomto omezeném vzorku pěti států **Česko není ani třetí**, ale až **čtvrté v pořadí podle velikosti meziměsíčního poklesu** cen elektřiny.\n\n### 4.2 Příklad – listopad 2025\n\nStránka „Euro Area – HICP: Electricity“ na TradingEconomics obsahuje také tabulku srovnávající několik zemí v listopadu 2025:\n\n- Estonsko: 360,64 (předchozí 354,88),\n- Rumunsko: 244,25 (předchozí 250,66),\n- **ČR: 205,80 (předchozí 208,20)**,\n- Belgie: 197,64 (předchozí 194,90),\n- a další státy (tabulka je delší, ale ve výřezu jsou vidět tyto čtyři). ([tradingeconomics.com](https://tradingeconomics.com/euro-area/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai))  \n\nZ těchto čtyř:\n\n- Rumunsko zaznamenává pokles cca **−2,6 %**,\n- ČR pokles cca **−1,1 %**,\n- Belgie a Estonsko naopak **zdražují** (index roste).\n\nV tomto výřezu by tedy ČR byla **druhá nejlepší** (druhý největší pokles) – nikoli „třetí nejlepší“. Ostatní státy z tabulky ovšem v úryvku nejsou, a proto nelze určit přesné celkové pořadí.\n\n### 4.3 Co z dílčích dat plyne\n\nZ výše uvedeného:\n\n- Meziměsíční pokles HICP pro elektřinu **není v ČR nijak výjimečně velký**: v květnu 2025 je menší než v Belgii, Estonsku i Itálii; v listopadu 2025 je sice o něco výraznější, ale v daném vzorku není „třetí nejlepší“, nýbrž druhý (a nevíme, jaké poklesy mají ostatní země EU).\n- V žádném z těchto příkladů z roku 2025 **nevyplývá pořadí „ČR = třetí nejlepší v Evropě“** podle meziměsíčního vývoje HICP pro elektřinu.\n\n---\n\n## 5. Vyhodnocení různých možných interpretací tvrzení\n\n### 5.1 Interpretace 1 – „třetí největší meziměsíční pokles HICP – elektřina v posledním zveřejněném měsíci (pravděpodobně leden 2026)“\n\n- Metodicky dává smysl: Eurostat opravdu publikuje HICP po měsících a po podtřídách, včetně elektřiny, a i měsíční míry změny (prc_hicp_mmor). ([ec.europa.eu](https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai))  \n- V tomto prostředí ale **nemám přístup k plné tabulce prc_hicp_mmor / prc_hicp_midx pro všechny země a leden 2026**, takže nelze zkonstruovat přesný žebříček, na který se mohl Havlíček odkazovat.\n- V **dostupných měsících 2025** (viz příklady květen a listopad) však:\n  - ČR **ani jednou nevychází jako „třetí nejlepší“**,  \n  - v květnu je až **čtvrtá** v rámci viditelného vzorku, v listopadu v dílčím výřezu druhá;  \n  - nic nenasvědčuje tomu, že by se dlouhodobě pohybovala mezi „nejlepšími třemi“ v EU, pokud jde o meziměsíční zlevňování elektřiny.\n- Neexistuje ani žádný Eurostat‑či mediální výstup, který by takový „třetí nejlepší“ status ČR u elektřiny v dané době zmiňoval; oficiální eurostatovský článek o cenách elektřiny v 1. pol. 2025 naopak zdůrazňuje především to, že v PPS má Česko **nejdražší elektřinu v EU**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n\nZávěr: **Pro tuto interpretaci nenašel jsem žádný přímý důkaz, který by tvrzení podpořil, a dílčí data ji spíše zpochybňují.**\n\n### 5.2 Interpretace 2 – „třetí největší meziroční pokles cen elektřiny (např. mezi pololetími)“\n\nPokud bychom „nejlepší“ chápali jako **největší meziroční snížení cen elektřiny pro domácnosti**:\n\n- Z eurostatovského článku pro 1. pol. 2025 jasně plyne, že **největší meziroční poklesy** měly:\n  - Slovinsko (−13,1 %),\n  - Finsko (−9,8 %),\n  - Kypr (−9,5 %),  \n  - zatímco ČR mezi nimi **není uvedena**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n- Stejný článek zároveň říká, že v přepočtu na PPS má Česko **nejvyšší cenovou úroveň** elektřiny v celé EU. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n\nTedy: **podle meziročních změn ani podle cenové úrovně rozhodně nejsme „třetí nejlepší“**, naopak patříme k nejhorším.\n\n### 5.3 Interpretace 3 – „krátkodobá změna nějaké domácí (ne harmonizované) složky ceny elektřiny“\n\nTeoreticky by mohl mít na mysli:\n\n- např. **pokles regulované složky** ceny elektřiny v ČR v důsledku přesunu části nákladů (POZE) do státního rozpočtu,  \n- a ten srovnávat **pouze v rámci ČR**, případně bez skutečné vazby na data Eurostatu.\n\nTo ale naráží na dvě věci:\n\n- Sám se odkazuje výslovně na „čísla z Eurostatu“ a „Evropu“ – tedy ne na čistě národní index ani na domácí rozhodnutí o regulované složce.  \n- Přestože přesun financování POZE na stát vedl k výraznému **meziročnímu** snížení regulované složky v ČR (cca −15 % pro domácnosti v roce 2026), pro tvrzení o „třetí nejlepší“ pozici v **evropském meziměsíčním srovnání** to samo o sobě nestačí – potřebovali bychom skutečný eurostatovský žebříček, který ale k dispozici není.\n\nTato interpretace by navíc odporovala tomu, že se explicitně dovolává **Eurostatu**.\n\n---\n\n## 6. Shrnutí důkazů a hodnocení tvrzení\n\n### Co víme z dostupných dat\n\n1. **Eurostat HICP**:\n   - Publikuje měsíční indexy a míry změny pro elektřinu (ECOICOP 04.5.1 / 045100) pro všechny členské státy. ([ec.europa.eu](https://ec.europa.eu/eurostat/cache/metadata/EN/prc_hicp_esms.htm?utm_source=openai))  \n   - Z těchto dat by bylo možné přesně spočítat meziměsíční změny a seřadit země podle velikosti poklesu/zvýšení, ale v tomto prostředí není možné tato data hromadně stáhnout.\n\n2. **Ceny elektřiny pro domácnosti podle Eurostatu (1. pol. 2025)**:\n   - Největší meziroční poklesy cen elektřiny mají Slovinsko, Finsko a Kypr; ČR mezi nimi není,  \n   - v PPS má naopak **Česko vůbec nejdražší elektřinu v EU**. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251029-2?utm_source=openai))  \n\n3. **Dílčí příklady meziměsíčního HICP pro elektřinu z TradingEconomics** (data přebírají z Eurostatu):\n   - **květen 2025**: pokles HICP pro elektřinu v ČR (−0,2 %) je menší než v Belgii (−4,0 %), Estonsku (−2,2 %) i Itálii (−1,1 %); mezi pěti viditelnými zeměmi je ČR až čtvrtá, ne třetí. ([tradingeconomics.com](https://tradingeconomics.com/czech-republic/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai))  \n   - **listopad 2025**: v zobrazeném výřezu (Estonsko, Rumunsko, ČR, Belgie) má větší pokles Rumunsko (−2,6 %), ČR je „druhá nejlepší“, nikoli třetí; ostatní státy z tabulky nejsou v úryvku vidět, ale už z tohoto je jasné, že „třetí nejlepší“ nevychází ani zde. ([tradingeconomics.com](https://tradingeconomics.com/euro-area/harmonised-idx-of-consumer-prices-hicp-electricity-eurostat-data.html?utm_source=openai))  \n\n4. **Obecný obraz z veřejné debaty**:\n   - Řada analýz vycházejících z Eurostatu (včetně českých médií) opakovaně konstatuje, že v posledních letech patří ČR k zemím s **nejdražší elektřinou v EU**, nikoli k „nejlepším“ v jakémkoli příznivém smyslu. ([parlamentnilisty.cz](https://www.parlamentnilisty.cz/arena/monitor/Ucet-za-elektrinu-klesne-Ale-po-srovnani-s-Evropou-radost-zmizi-773861?utm_source=openai))  \n\n### Co naopak doložit nelze\n\n- Není možné v tomto prostředí **exaktně spočítat žebříček všech zemí EU** podle meziměsíční změny HICP pro elektřinu za poslední měsíc před výrokem (pravděpodobně leden 2026), protože k tomu chybí přímý přístup k celému datasetu prc_hicp_mmor/prc_hicp_midx.\n- Proto nelze se 100% jistotou vyloučit, že se v nějakém jednotlivém měsíci a konkrétní definici „elektřiny“ (např. širší agregát „elektřina, plyn a další paliva“) ČR opravdu v žebříčku dostala na 3. místo – ale **nenašel jsem k tomu žádný důkaz** ani zmínku v primárních (Eurostat) či sekundárních zdrojích.\n\n### Celkové hodnocení\n\nNa základě:\n\n- oficiálních eurostatovských údajů o cenách elektřiny (úroveň i meziroční změny),  \n- dílčích, ale reprezentativních příkladů meziměsíčního vývoje HICP elektřiny v roce 2025,  \n- a širšího kontextu, že Česko patří podle Eurostatu dlouhodobě k zemím s nejvyšší cenovou úrovní elektřiny v EU,\n\n**nenašel jsem žádný ukazatel z oficiálních statistik Eurostatu, u kterého by ČR vycházela jako „třetí nejlepší v Evropě“ ve smyslu meziměsíčního vývoje cen elektřiny. Naopak dostupná data takové tvrzení spíše vyvracejí.**\n\nPro fakt‑checkera to prakticky znamená:\n\n- pokud se tvrzení vztahuje k **meziročním změnám nebo k cenové úrovni elektřiny**, je s daty Eurostatu **v přímém rozporu**;\n- pokud se vztahuje ke konkrétnímu **meziměsíčnímu HICP pro elektřinu**, v dostupných měsících roku 2025 takové pořadí nevyplývá a pro měsíc těsně před výrokem (leden 2026) chybí otevřená, kompletní tabulka; tvrzení proto nelze na základě zveřejněných eurostatovských přehledů doložit a je velmi pravděpodobně **nepodložené / zavádějící**.\n\n---\n\n### Omezení této analýzy\n\n- Vzhledem k technickým omezením nebylo možné stáhnout celý dataset Eurostatu (prc_hicp_mmor / prc_hicp_midx) pro všechny země a měsíce až do ledna 2026, a tedy mechanicky zrekonstruovat přesný „žebříček“ meziměsíčního vývoje HICP pro elektřinu.\n- Použité sekundární zdroje (TradingEconomics, národní statistické úřady, česká média) však **přebírají přímo data Eurostatu** a poskytují reprezentativní obrázek meziměsíčního vývoje i kontext (cenová úroveň, meziroční změny), který s tvrzením „třetí nejlepší v Evropě“ nekoresponduje.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 105380,
+      "input_tokens_details": {
+        "cached_tokens": 5888
+      },
+      "output_tokens": 20452,
+      "output_tokens_details": {
+        "reasoning_tokens": 15272
+      },
+      "total_tokens": 125832
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772530762,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

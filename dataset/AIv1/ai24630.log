@@ -1,0 +1,865 @@
+{
+  "claim_id": "24630",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24630.md",
+  "fact_check": "# Fact Check for Statement ID 24630\n\n## Statement\nVy jste tady slibovali, že to (k Petru Fialovy o plynových elektrárnách, pozn. Demagog.cz) bude během jednotek let, to jste říkali v roce 2022.\n\n---\n## AI Fact Check\n## 1. Shrnutí\n\n- Nenašel jsem žádný **primární výrok z roku 2022**, ve kterém by Petr Fiala nebo jeho vláda **slibovali**, že nové plynové / paroplynové elektrárny v ČR budou hotové „během jednotek let“.  \n- Vládní **programové prohlášení** Fialovy vlády z roku 2022–2023 sice počítá se zemním plynem jako přechodným zdrojem a s odklonem od uhlí, ale neobsahuje **ani konkrétní termíny výstavby nových plynových elektráren**, ani formulaci „v (řádu) jednotek let“. ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n- Časový horizont „v řádu jednotek let“ se v dostupných zdrojích objevuje:\n  - u **expertů / komentátorů** (např. Luděk Niedermayer) jako úvaha, zda je vůbec reálné během „jednotek let“ postavit několik velkých plynových elektráren, nikoli jako vládní slib, ([obnovitelne.cz](https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny))  \n  - v **analýzách ČEPS a článcích o Lex plyn**, které mluví o potřebě zprovoznit 3–4 nové paroplynové bloky „v řádu jednotek let“, ale jde o **odbornou projekci / záměr**, nikoli citaci Fialovy vlády z roku 2022. ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n- Naopak některé zdroje z let 2023–2024 konstatují, že **plynové elektrárny se fakticky nestaví** a vláda mluví jen o přípravě legislativy pro zrychlení povolování; ani zde však není odkaz na konkrétní Fialův výrok z roku 2022 o „jednotkách let“. ([echo24.cz](https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac))  \n\nNa základě dohledaných informací tedy **není doloženo**, že by Fialova vláda v roce 2022 takový časový slib u plynových elektráren veřejně dala.  \n\n---\n\n## 2. Interpretace výroku Karla Havlíčka\n\nVýrok:  \n> „Vy jste tady slibovali, že to (plynové elektrárny) bude během jednotek let, to jste říkali v roce 2022.“\n\nMožné interpretace:\n\n1. **Úzká (doslovná)**  \n   – V roce 2022 Fialova vláda nebo osobně Petr Fiala výslovně řekli (např. na tiskové konferenci, v programovém prohlášení, rozhovoru apod.), že **nové plynové / paroplynové elektrárny v ČR budou postaveny nebo uvedeny do provozu „během jednotek let“**.\n\n2. **Širší (volnější parafráze)**  \n   – Vláda v roce 2022 sice doslova neřekla „během jednotek let“, ale:\n     - schválila dokumenty (programové prohlášení, koncepce) nebo  \n     - komunikovala cíle (např. konec uhlí 2030–2033, doporučení ČEPS apod.),  \n     které **implikují**, že je nutné postavit plynové zdroje v horizontu jednoho desetiletí, a Havlíček toto v debatě volně převyprávěl formulací „během jednotek let“.\n\nV dalším textu ověřuji obě roviny:\n\n- zda existuje **přímá citace** z roku 2022, odpovídající Havlíčkově formulaci,  \n- a zda lze mluvit alespoň o **nepřímém politickém závazku** vlády z roku 2022, který by se dal rozumně shrnout jako „během jednotek let“.\n\n---\n\n## 3. Sub‑claim A: „Vy jste tady slibovali, že to (plynové elektrárny) bude během jednotek let“\n\n### 3.1 Vládní programové prohlášení Petra Fialy (2022/2023)\n\n**Zdroj:** Programové prohlášení vlády Petra Fialy, kapitola *Průmysl a obchod – Energetika*, schváleno 6. 1. 2022, upravená verze 1. 3. 2023  \n[https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/) ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n\nRelevantní pasáže:\n\n- Dokument stanovuje, že:\n  - budoucnost energetiky vláda vidí v **kombinaci jádra a decentralizovaných OZE**,  \n  - **zemní plyn má být přechodným zdrojem a transformačním palivem**,  \n  - uhlí bude odstavováno **pod podmínkou zajištění dostatečných záložních kapacit**,  \n  - do roku **2033** má být možný „odklon od uhlí“. ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n\n- Citace (zkráceně, zvýraznění doplněno):  \n  - „Zemní plyn však navzdory současné situaci zůstane stále významnou surovinou a částečně i **transformační palivo v procesu dekarbonizace**.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n  - „Uhelné elektrárny budou odstavovány **pod podmínkou zajištění dostatečných záložních kapacit**.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n  - „Budeme vytvářet podmínky pro energetickou transformaci a rozvoj uhelných regionů **tak, aby byl možný odklon od uhlí do roku 2033**.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n\nCo zde **není**:\n\n- Žádná zmínka o **konkrétním počtu** nových plynových / paroplynových elektráren.  \n- Žádný časový údaj typu „do roku 2030 postavíme X plynových zdrojů“.  \n- Žádná formulace jako „v řádu jednotek let“, „během několika málo let“ apod.  \n\nProgramové prohlášení tedy **nastavuje roli plynu**, ale **neobsahuje časově specifický slib výstavby plynových elektráren**, který by bylo možné shrnout tak, jak to dělá Havlíček.\n\n---\n\n### 3.2 Analýza ČEPS MAF CZ 2022 – potřeba tří paroplynových elektráren\n\n**Zdroj:** Shrnutí analýzy *MAF CZ 2022* od ČEPS na investičním portálu Investujeme.cz (květen 2023)  \n„Do začátku 30. let musí Česko podle ČEPS postavit tři paroplynové elektrárny“  \n[https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/) ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n\nKlíčové body:\n\n- Článek shrnuje výsledky **Hodnocení zdrojové přiměřenosti MAF CZ 2022**, které připravil **ČEPS**, nikoli vláda.  \n- Podle analýzy je nutné:\n  - „do začátku 30. let“ postavit **tři paroplynové elektrárny** jako náhradu za uhelné zdroje a  \n  - zavést **kapacitní mechanismus** pro podporu flexibilních zdrojů. ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n\nTento dokument:\n\n- formuluje **odborné doporučení ČEPS**,  \n- používá horizont „do začátku 30. let“ (tedy zhruba 7–10 let od roku 2023),  \n- **není** citací politického slibu vlády, ale spíše vstupem pro vládní rozhodování.\n\nHavlíčkův výrok může vycházet **z tohoto typu analýz**, ale jejich obsah **nelze automaticky připsat jako „slib vlády“**, tím méně konkrétně k roku 2022.\n\n---\n\n### 3.3 Odborné a mediální texty s formulací „v (řádu) jednotek let“ u plynu\n\n#### a) Niedermayer 2023 – úvaha o reálnosti postavit plynové elektrárny v řádu jednotek let\n\n**Zdroj:** Luděk Niedermayer, Obnovitelně.cz, 5. 6. 2023  \n„Česko nesmí v energetice zaspat, jinak hrozí zdražení elektřiny“  \n[https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny](https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny) ([obnovitelne.cz](https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny))  \n\nRelevantní pasáž:\n\n> „**Posuďte ale sami, jak reálné je v naší zemi, během jednotek let, postavit několik větších plynových elektráren – a bez nich se k potřebnému výkonu při těchto cenách nedostaneme…**“\n\n- Tato formulace:\n  - pochází od **europoslance Luďka Niedermayera**,  \n  - není citací Fialovy vlády, ale **kritickou otázkou**, zda je tak ambiciózní výstavba v „jednotkách let“ vůbec reálná.  \n- Nijak tedy nepotvrzuje, že by „slib v jednotkách let“ vyslovil premiér Fiala či jeho kabinet.\n\n#### b) Lex plyn – „v řádu jednotek let“ v článku Plyn.cz (2025)\n\n**Zdroj:** Plyn.cz, 8. 1. 2025 – článek o návrhu Lex plyn  \n[https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu](https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu) ([plyn.cz](https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu?utm_source=openai))  \n\nČlánek cituje ministra průmyslu (už z jiné vlády, v roce 2025), který se odvolává na analýzu ČEPS:\n\n> „…předpokládá, že (…) bude Česká republika potřebovat jako náhradu za uhelné elektrárny výkon v rozmezí 2 500 až 3 000 MW. **To by znamenalo zprovoznit tři nebo čtyři nové zdroje s paroplynovou technologií, a to v řádu jednotek let.**“\n\nCharakteristika:\n\n- Jde o **interpretaci analýzy ČEPS** v době, kdy už se projednává Lex plyn (2025).  \n- Nejde o citaci Fialovy vlády z roku 2022, ale o novější komunikaci jiné vládní garnitury a jejího ministra.\n\n#### c) Další výskyt „jednotek let“ – teplárenství (Hladík 2024)\n\n**Zdroj:** Český rozhlas Plus, 27. 6. 2024 – rozhovor s ministrem životního prostředí Petrem Hladíkem  \n[https://plus.rozhlas.cz/emisni-povolenky-funguji-teplarny-rychle-prechazeji-na-nizkoemisni-zdroje-9264437](https://plus.rozhlas.cz/emisni-povolenky-funguji-teplarny-rychle-prechazeji-na-nizkoemisni-zdroje-9264437) ([plus.rozhlas.cz](https://plus.rozhlas.cz/emisni-povolenky-funguji-teplarny-rychle-prechazeji-na-nizkoemisni-zdroje-9264437?utm_source=openai))  \n\nHladík zde říká, že:\n\n> „…zhruba polovina tepláren stále spaluje uhlí, ale **mílovými kroky v řádu jednotek let od něj odchází**…“\n\n- Tato věta se týká **teplárenství**, nikoli konkrétně **nových paroplynových elektráren** pro elektroenergetiku.  \n- Znovu nejde o výrok z roku 2022 ani o výrok premiéra Fialy.\n\n**Závěr k části 3.3:**  \nFormulace „v (řádu) jednotek let“ se v energetické debatě používá, ale:\n\n- buď jako **kritická úvaha expertů** (Niedermayer),  \n- nebo jako **přepis expertních analýz** (Lex plyn / ČEPS 2025),  \n- případně v jiných souvislostech (teplárny).  \n\nNikde se však neobjevila jako **přímý slib Fialovy vlády z roku 2022 ohledně plynových elektráren**.\n\n---\n\n### 3.4 Mediální shrnutí vládních plánů – ale bez citace „jednotek let“\n\n**Zdroj:** Echo24, 2. 8. 2024  \n„Vláda dluží odpovědi na klíčové otázky. Hrozí nebezpečná závislost na dovozu elektřiny z Německa“  \n[https://echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac](https://echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac) ([echo24.cz](https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac))  \n\nRelevantní pasáže:\n\n- Text popisuje, že:\n  - vláda chce nahradit uhlí **plynem, OZE a dovozem**,  \n  - přitom **„se v současnosti ani nestavíme plynové elektrárny“**,  \n  - „mluví se přitom o nutnosti postavit tři nové paroplynové elektrárny do roku 2030“. ([echo24.cz](https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac))  \n\nVýznam:\n\n- Článek konstatuje **obecně sdílený předpoklad**, že je nutné do roku 2030 postavit tři paroplynové elektrárny – **„mluví se o tom“**, ne však, že by šlo o **explicitní slib Fialovy vlády**.  \n- Ani zde není výrok typu „vláda v roce 2022 řekla, že… během jednotek let“.\n\n---\n\n### 3.5 Shrnutí k sub‑claimu A\n\n- V **oficiálních dokumentech Fialovy vlády** (programové prohlášení, obecné výroky k energetice) se:\n  - počítá se zemním plynem jako **přechodným zdrojem** a  \n  - s **odklonem od uhlí do roku 2033**,  \n  ale **není tam konkrétní slib** typu „nové plynové elektrárny budou během jednotek let“. ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n\n- **Expertní analýzy (ČEPS MAF 2022)** mluví o nutnosti **tří paroplynových bloků do začátku 30. let**, a pozdější politická komunikace (např. Lex plyn 2025) to přejímá formulací „v řádu jednotek let“. ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n  - To je však **doporučení a projekce**, nikoli doložený **slib vlády z roku 2022**.\n\n- Formulace „během jednotek let“ se u plynových zdrojů vyskytuje v **komentářích a článcích**, nikoli jako jednoznačný výrok Fialovy vlády v roce 2022.\n\nNa základě dostupných zdrojů **nelze podložit**, že by Fialova vláda v roce 2022 výslovně slibovala, že nové plynové elektrárny budou vybudovány „během jednotek let“.\n\n---\n\n## 4. Sub‑claim B: „…to jste říkali v roce 2022“\n\nTato část výroku přisuzuje konkrétní **čas** údajnému slibu – rok **2022**.\n\n### 4.1 Veřejné výroky Petra Fialy k energetice v roce 2022\n\nRelevantní, dobře zdokumentovaný výrok z roku 2022 se týká **malého modulárního reaktoru (SMR) v Temelíně**, nikoli plynových elektráren.\n\n**Zdroj 1:** ČTK / Oenergetice.cz – článek „V Temelíně vznikne do roku 2032 první malý modulární reaktor v ČR“, 21. 9. 2022  \n[https://oenergetice.cz/jaderne-elektrarny/v-temeline-vznikne-do-roku-2032-prvni-maly-modularni-reaktor-v-cr](https://oenergetice.cz/jaderne-elektrarny/v-temeline-vznikne-do-roku-2032-prvni-maly-modularni-reaktor-v-cr) ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/v-temeline-vznikne-do-roku-2032-prvni-maly-modularni-reaktor-v-cr?utm_source=openai))  \n\n- Premiér Fiala zde říká, že **malý modulární reaktor v Temelíně** by mohl být hotový „do roku 2032“ – tedy v horizontu cca 10 let od roku 2022.  \n- Nejde ale o plynové, nýbrž **jaderné zdroje**.\n\n**Zdroj 2:** iDNES.cz – „Jihočeský kraj podepsal smlouvu s ČEZ o postavení modulárního reaktoru“, 21. 9. 2022  \n[https://www.idnes.cz/ceske-budejovice/zpravy/temelin-jaderna-elektrarna-energie-reaktor-cez.A220921_131725_budejovice-zpravy_pkr](https://www.idnes.cz/ceske-budejovice/zpravy/temelin-jaderna-elektrarna-energie-reaktor-cez.A220921_131725_budejovice-zpravy_pkr) ([idnes.cz](https://www.idnes.cz/ceske-budejovice/zpravy/temelin-jaderna-elektrarna-energie-reaktor-cez.A220921_131725_budejovice-zpravy_pkr?utm_source=openai))  \n\n- Článek potvrzuje stejný časový rámec („do roku 2032“), opět pro **SMR**.\n\nTyto zdroje:\n\n- ukazují, že Fiala v roce 2022 **pracoval s horizontem cca 10 let** u jaderných SMR,  \n- neobsahují však žádnou formulaci o **plynových elektrárnách** v „jednotkách let“.\n\n### 4.2 Závěr k části „to jste říkali v roce 2022“\n\n- V dohledaných veřejných výrocích Petra Fialy a jeho vlády z roku 2022 se **nenachází žádná citace**, kde by:\n  - výslovně mluvili o nových **plynových elektrárnách** a  \n  - přidali časový rámec „během jednotek let“.  \n\n- Pokud Havlíček naráží na rok 2022 v souvislosti s MAF CZ 2022:\n  - je třeba připomenout, že jde o **analýzu ČEPS**, zveřejněnou a mediálně rozebíranou až v roce 2023, ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n  - a ani tato analýza neobsahuje citaci typu „vláda se zavazuje, že… během jednotek let“.\n\n---\n\n## 5. Celkové zhodnocení pro fact‑checkera\n\n### Co je doloženo\n\n1. **Fialova vláda v programu (2022/2023)**:\n   - počítá s **odklonem od uhlí do roku 2033**,  \n   - považuje **zemní plyn za významné přechodné palivo** a součást řešení,  \n   - avizuje **úpravy energetické legislativy**, ale **nekonkretizuje** počet a termíny výstavby plynových elektráren. ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n\n2. **ČEPS (MAF CZ 2022)**:\n   - doporučuje, aby ČR **do začátku 30. let** (tj. cca během jednoho desetiletí) postavila **tři paroplynové elektrárny**,  \n   - doporučuje **kapacitní mechanismus** pro podporu flexibilních zdrojů. ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n\n3. **Formulace „během jednotek let“** u plynu:\n   - používají **experti (Niedermayer)** jako otázku, zda je v ČR realistické v „jednotkách let“ takové elektrárny postavit; nikoli jako odkaz na vládní slib. ([obnovitelne.cz](https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny))  \n   - objevuje se ve **výkladu Lex plyn v roce 2025** (Plyn.cz), kde je „v řádu jednotek let“ spojeno s analýzou ČEPS a zjednodušením povolovacích procesů, nikoli s konkrétním výrokem Fialovy vlády z roku 2022. ([plyn.cz](https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu?utm_source=openai))  \n\n4. **Novinové komentáře (např. Echo24 2024)**:\n   - uvádějí, že se „mluví o nutnosti postavit tři nové paroplynové elektrárny do roku 2030“,  \n   - kritizují, že plynové elektrárny se ve skutečnosti nestaví a že vláda zatím pouze připravuje zjednodušení povolování. ([echo24.cz](https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac))  \n   - ani tyto texty **necituji** konkrétní Fialův slib z roku 2022.\n\n### Co doloženo není\n\n- **Nenalezl jsem žádný primární zdroj z roku 2022** (tisková konference, vládní dokument, rozhovor, parlamentní projev), ve kterém by Petr Fiala nebo člen jeho vlády:\n  - explicitně řekli, že **nové plynové / paroplynové elektrárny budou vybudovány „během jednotek let“**,  \n  - nebo formulovali jiný, srovnatelně konkrétní **časový slib** ohledně výstavby plynových elektráren, který by bylo férové parafrázovat touto větou.\n\n- Neexistuje ani **sekundární zdroj** (analýza, komentář), který by **jasně uváděl**, že takový výrok Fialova kabinetu v roce 2022 zazněl, a citoval by ho.\n\n### Možná interpretace výroku Karla Havlíčka\n\nNa základě kontextu lze Havlíčkův výrok chápat tak, že:\n\n- mixuje dohromady:\n  - **odborné závěry ČEPS (MAF CZ 2022)** o nutnosti nových plynových bloků do začátku 30. let ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n  - a **pozdější komunikaci** kolem Lex plyn (v níž se mluví o zprovoznění paroplynových zdrojů „v řádu jednotek let“), ([plyn.cz](https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu?utm_source=openai))  \n\na tyto odborné projekce zpětně **připisuje Fialově vládě jako „slib“ z roku 2022**.\n\nZ pohledu ověřitelných faktů ale:\n\n- **nelze doložit**, že by takový slib v roce 2022 skutečně zazněl v podobě, jakou Havlíček popisuje,  \n- existuje pouze obecná politická deklarace o roli plynu a odklonu od uhlí, **bez explicitního časového závazku k plynovým elektrárnám v „jednotkách let“**.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nAle v každém případě, v každém případě, jsou zdroje, které běží v létě nebo když fouká a naopak v zimě je to složitější.\\n00:22:43\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nTo je jasné.\\n00:22:43\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nSamozřejmě se obchoduje tak, že se kupují různé, různé přetoky. Co se týká toho plynu, samozřejmě plyn je důležitý zdroj, je to zdroj stabilní, který může nahradit ty uhelné elektrárny v nějakém čase, ale zodpovězte si, co jste udělali pro to, aby se ten plyn zde začal investovat? Vy jste sice přijali zákon tzv. Lex plyn, ale ten sám o sobě má na to minimální dopad. Že se o něco rychleji může stavět, je pravda. Podstatná je úplně jiná věc. Žádný z investorů do plynu nebude investovat, pokud nebude mít nějakou garanci založenou na nějakém výkupu nebo na nějaké jistotě toho, že se mu to vrátí. Bohužel dneska se nedá vůbec v energetice investovat jinak, proto jste neudělali vůbec nic. A ty tzv. kapacitní mechanismy, ty chceme v tuto chvíli zvládnout ideálně v tomto roce a teprve poté, co ty kapacitní mechanismy budou odsouhlaseny Evropskou unií, můžeme začít tendrovat a abychom si jenom ujasnili, kdy to bude, protože vy jste tady slibovali, že to bude během jednotek let, to jste říkali v roce 2022, nejdřív, kdy tady budou ty plynové elektrárny, a to už časově nejde zvládnout dřív, tak bude někdy v roce 31, možná 32 a do té doby tady budeme muset mít stabilní zdroje, částečně tedy ještě i uhelné, samozřejmě jaderné zdroje, a to musíme doplňovat pochopitelně zdroje...\\n00:23:53\\nPetr Fiala,\\n\\nProvide a structured, citation-backed verification of the claim: 'Vy jste tady slibovali, že to (k Petru Fialovy o plynových elektrárnách, pozn. Demagog.cz) bude během jednotek let, to jste říkali v roce 2022.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 423.12 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Nenašli jsme žádný výrok vlády Petra Fialy z roku 2022, kde by slibovala, že nové plynové elektrárny vzniknou „během jednotek let“. Tato formulace pochází z odborných analýz a pozdější debaty, nikoliv z tehdejšího vládního slibu. Výrok hodnotíme jako nepravda.</p>\n\n<p>Výrok Karla Havlíčka zazněl v debatě o tom, jak vláda Petra Fialy plánuje nahradit uhelné zdroje novými plynovými elektrárnami. Havlíček tvrdí, že Fialova vláda v minulosti – konkrétně v roce 2022 – slibovala, že tyto plynové elektrárny budou hotové „během jednotek let“.</p>\n\n<p>Výrok obsahuje dvě ověřitelné části: zaprvé tvrzení, že vláda takový časový horizont pro plynové elektrárny skutečně slibovala („bude během jednotek let“), a zadruhé tvrzení, že to zaznělo právě v roce 2022.</p>\n\n<p>Nejdříve jsme zkoumali, zda Fialova vláda vůbec explicitně slibovala výstavbu plynových či paroplynových elektráren v takto krátkém horizontu. V oficiálním <a href=\"https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/\">programovém prohlášení vlády Petra Fialy</a> schváleném na začátku roku 2022 (aktualizovaném v březnu 2023) se uvádí, že budoucnost české energetiky vláda vidí v kombinaci jádra a decentralizovaných obnovitelných zdrojů, přičemž zemní plyn má být dočasným transformačním palivem. Dokument například konstatuje, že <i>„zemní plyn (…) zůstane stále významnou surovinou a částečně i transformační palivo v procesu dekarbonizace“</i> a že uhelné elektrárny mají být odstavovány jen <i>„pod podmínkou zajištění dostatečných záložních kapacit“</i>. Současně zmiňuje cíl umožnit odklon od uhlí do roku 2033. Programové prohlášení však neobsahuje žádný konkrétní počet nových plynových elektráren, žádné konkrétní termíny jejich uvedení do provozu a neobjevuje se v něm ani formulace typu „během jednotek let“.</p>\n\n<p>Konkrétnější časové rámce pro plynové zdroje přicházejí z odborné sféry, nikoliv přímo od vlády. Analýza zdrojové přiměřenosti MAF CZ 2022, kterou zpracovala provozovatel přenosové soustavy ČEPS a jejíž závěry shrnuje například článek na webu <a href=\"https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/\">Investujeme.cz</a>, dospěla k závěru, že Česko musí do začátku 30. let postavit tři nové paroplynové elektrárny jako náhradu za uhelné zdroje a zřídit kapacitní mechanismus pro podporu flexibilních zdrojů. Jde ale o expertní doporučení ČEPS, nikoliv o politický slib vlády – analýza pouze říká, co by mělo být postaveno, aby byl systém bezpečný, ne co vláda konkrétně „slibuje“ udělat a kdy.</p>\n\n<p>Formulace „v (řádu) jednotek let“ se v debatě o plynových elektrárnách skutečně objevuje, ale v jiném kontextu, než jak jej popisuje Karel Havlíček. Europoslanec Luděk Niedermayer například v komentáři pro server <a href=\"https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny\">Obnovitelně.cz</a> kriticky poznamenává, zda je v českém prostředí vůbec reálné během „jednotek let“ postavit několik větších plynových elektráren, když píše v tom smyslu, že <i>„posuďte sami, jak reálné je v naší zemi, během jednotek let postavit několik větších plynových elektráren“</i>. Neodkazuje se tím na žádný konkrétní slib vlády, ale spíše zpochybňuje realističnost tak ambiciózních plánů.</p>\n\n<p>Podobně článek o návrhu zákona Lex plyn na serveru <a href=\"https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu\">Plyn.cz</a> cituje ministra průmyslu z roku 2025, který s odkazem na analýzu ČEPS hovoří o potřebě zprovoznit tři až čtyři paroplynové zdroje <i>„v řádu jednotek let“</i>. I zde se jedná o převzetí expertního odhadu a o pozdější politickou komunikaci, nikoliv o ověřitelný slib Fialovy vlády z roku 2022. Stejná slovní spojení se objevují i v jiném energetickém kontextu – například ministr životního prostředí Petr Hladík v rozhovoru pro <a href=\"https://plus.rozhlas.cz/emisni-povolenky-funguji-teplarny-rychle-prechazeji-na-nizkoemisni-zdroje-9264437\">Český rozhlas Plus</a> říká, že teplárny odcházejí od uhlí „v řádu jednotek let“, ale mluví o teplárenství, nikoliv o nových velkých paroplynových elektrárnách v elektroenergetice.</p>\n\n<p>O tom, že se „mluví o nutnosti“ postavit do roku 2030 tři nové paroplynové elektrárny jako náhradu uhlí, informuje i komentář serveru <a href=\"https://echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac\">Echo24</a>. Autor zde shrnuje obecně sdílené předpoklady energetické transformace a zároveň upozorňuje, že se plynové elektrárny reálně nestaví a vláda zatím hlavně mluví o zjednodušení povolovacích řízení. Ani tento text však necituje žádný konkrétní vládní výrok, v němž by Fialův kabinet výslovně slíbil vybudování plynových elektráren „během jednotek let“.</p>\n\n<p>Na základě těchto zdrojů tedy máme doloženo, že časové rozpětí „v řádu jednotek let“ se kolem plynových elektráren objevuje v expertních analýzách, mediálních komentářích a pozdějších politických prohlášeních jiných ministrů, ale nikoliv jako explicitní slib vlády Petra Fialy z roku 2022. První část Havlíčkova výroku – že vláda tehdy takový slib „tady“ dávala – proto nemůžeme potvrdit a neodpovídá obsahu vládních dokumentů ani běžně citovaným výrokům členů kabinetu.</p>\n\n<p>Druhá část výroku určuje přesný čas: podle Havlíčka měla vláda tuto časovou představu prezentovat v roce 2022. V dostupných veřejných vyjádřeních z roku 2022 se však Fialova vláda k plynovým elektrárnám v dané formulaci nevyjadřuje. V již zmíněném <a href=\"https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/\">programovém prohlášení vlády</a> z počátku roku 2022 žádná zmínka o plynových elektrárnách „během jednotek let“ není, dokument pouze rámcově upravuje roli plynu a cílový rok odklonu od uhlí.</p>\n\n<p>Výrok Petra Fialy z roku 2022, který je naopak dobře zdokumentován, se týká malých modulárních jaderných reaktorů. Podle článku ČTK na portálu <a href=\"https://oenergetice.cz/jaderne-elektrarny/v-temeline-vznikne-do-roku-2032-prvni-maly-modularni-reaktor-v-cr\">Oenergetice.cz</a> premiér mluvil o tom, že první malý modulární reaktor v Temelíně by mohl vzniknout do roku 2032, tedy v horizontu zhruba deseti let. Stejný časový rámec uvádí i reportáž serveru <a href=\"https://www.idnes.cz/ceske-budejovice/zpravy/temelin-jaderna-elektrarna-energie-reaktor-cez.A220921_131725_budejovice-zpravy_pkr\">iDNES.cz</a>. Tato vyjádření ale směřují k jaderné energetice, nikoliv k plynovým elektrárnám, a neobsahují formulaci „v jednotkách let“.</p>\n\n<p>Odborná analýza ČEPS MAF CZ 2022, na niž zřejmě navazují pozdější politické diskuse o Lex plyn a o třech paroplynových elektrárnách do začátku 30. let, byla podle článku na <a href=\"https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-eletrarny/\">Investujeme.cz</a> mediálně rozebírána až v roce 2023. Ani zde přitom nenacházíme výrok, že by vláda Petra Fialy tuto expertní projekci v roce 2022 převzala jako vlastní explicitní veřejný slib v podobě „během jednotek let“.</p>\n\n<p>Z těchto důvodů druhou část Havlíčkova výroku – že uvedený slib padl právě v roce 2022 – rovněž nemáme čím doložit. Pro rok 2022 umíme prokázat jen obecná vládní tvrzení o roli plynu a cíli odklonu od uhlí či časový horizont u modulárních jaderných reaktorů, nikoliv konkrétní časové zaslíbení ohledně plynových elektráren „v jednotkách let“.</p>\n\n<p>Domníváme se (a jde o naši interpretaci, nikoliv ověřitelný fakt), že Karel Havlíček ve svém výroku zřejmě směšuje odborné závěry společnosti ČEPS, pozdější politickou komunikaci kolem Lex plyn a obecnou shodu, že plynové zdroje je potřeba postavit relativně rychle, a zpětně je připisuje Fialově vládě jako výslovný „slib“ z roku 2022. Takové propojení však žádný konkrétní zdroj nepotvrzuje.</p>\n\n<p>Souhrnně platí, že Fialova vláda ve svém programovém prohlášení a dalších dokumentech vyzdvihuje roli zemního plynu jako přechodného paliva a zmiňuje cíl odklonu od uhlí do roku 2033, zatímco odborné analýzy (např. MAF CZ 2022 od ČEPS) doporučují postavit do začátku 30. let několik paroplynových elektráren. Nikde ale nenacházíme doložený výrok vlády z roku 2022, v němž by explicitně slibovala, že nové plynové elektrárny budou hotové „během jednotek let“. Havlíčkův výrok proto hodnotíme jako nepravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_03cab0458c278e730069a6e009be7481a1adb530a3afd88432",
+    "created_at": 1772544009.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_03cab0458c278e730069a6e01b663081a190e5886c6d816578",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e01e6ca881a18f7c8787940821dd",
+        "action": {
+          "query": "\"jednotek let\" plynové elektrárny 2022 Fiala",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"jednotek let\" plynové elektrárny 2022 Fiala",
+            "\"plynové elektrárny\" \"jednotky let\" 2022",
+            "\"plynových elektráren\" \"jednotek let\"",
+            "\"plynové elektrárny\" Fiala 2022 slib"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e021323081a1ba8e96b9323c1f13",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e02a67d081a1937ed76317c2e183",
+        "action": {
+          "query": "\"v řádu jednotek let\" \"plynové elektrárny\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"v řádu jednotek let\" \"plynové elektrárny\"",
+            "\"v řádu jednotek let\" \"paroplynové\"",
+            "\"v řádu jednotek let\" \"uhelné\" \"plynové\"",
+            "\"Petr Fiala\" \"plynové elektrárny\" 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e02ca4fc81a1b5b6b1f34f85f79f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e030634881a1b84f351baf9d7f49",
+        "action": {
+          "query": "\"Petr Fiala\" \"plynové elektrárny\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Petr Fiala\" \"plynové elektrárny\"",
+            "\"Petr Fiala\" \"paroplynové\"",
+            "\"v řádu jednotek let\" \"paroplynové elektrárny\"",
+            "\"v řádu jednotek let\" \"plynové\" \"uhelné\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e032d5ec81a1b8d7757b27ae25bf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e033d06481a1beb919cea3e39754",
+        "action": {
+          "query": "\"Petr Fiala\" \"plynové elektrárny\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Petr Fiala\" \"plynové elektrárny\"",
+            "\"Petr Fiala\" \"paroplynové elektrárny\"",
+            "\"v řádu jednotek let\" \"paroplynové elektrárny\"",
+            "\"v řádu jednotek let\" \"plynové\" \"uhelné\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0382f2881a198d326ec10439364",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e039491c81a1ba6e4bddd137e1e2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e03a7e3081a1b69ef957e5f6079e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e045a52c81a1b9fded89945cfc17",
+        "action": {
+          "query": "\"jednotek let\" \"paroplynové\" Síkela",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"jednotek let\" \"paroplynové\" Síkela",
+            "\"jednotek let\" \"plynové\" \"elektrárny\" \"Síkela\"",
+            "\"paroplynové elektrárny\" \"jednotky let\"",
+            "\"plynové zdroje\" \"jednotky let\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e048fdf081a1bae407bda37bd61b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e04bdcc481a1866a8e22e520940d",
+        "action": {
+          "query": "\"paroplynové\" \"Síkela\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"paroplynové\" \"Síkela\"",
+            "\"plynové elektrárny\" \"Síkela\"",
+            "\"plynových zdrojů\" \"Síkela\"",
+            "\"paroplynových elektraren\" Česko Síkela"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e04ed9e081a19ec438692db68be0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e050655081a1827d79f58b8db849",
+        "action": {
+          "query": "\"paroplynových\" \"elektráren\" \"do roku\" 2030",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"paroplynových\" \"elektráren\" \"do roku\" 2030",
+            "\"do roku 2030\" \"paroplynové\"",
+            "\"nových plynových\" \"elektráren\" \"České\"",
+            "\"postavit\" \"paroplynové elektrárny\" \"České\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e054de6881a1ba9e1b3fe81dae96",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e055ad8081a1944d2381cca02df6",
+        "action": {
+          "query": "\"paroplynové\" site:vlada.gov.cz 2022",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"paroplynové\" site:vlada.gov.cz 2022",
+            "\"plynové elektrárny\" site:vlada.gov.cz",
+            "\"plynové zdroje\" \"elektrárny\" site:vlada.gov.cz",
+            "\"paroplynové\" \"elektrárny\" \"Fiala\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e058efe881a18dd2599840b59eda",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e05c4c3081a1a69ceb5cd0fdb033",
+        "action": {
+          "query": "\"paroplynové\" \"2022\" site:oenergetice.cz",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"paroplynové\" \"2022\" site:oenergetice.cz",
+            "\"paroplynové\" \"jednotek let\" site:oenergetice.cz",
+            "\"paroplynové\" \"jednotek let\"",
+            "\"v řádu jednotek let\" \"elektráren\" \"uhlí\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e060f19c81a1932603359a61e5b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e061dbf881a195eb222e45eec111",
+        "action": {
+          "query": "\"plynové elektrárny\" site:vlada.gov.cz",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"plynové elektrárny\" site:vlada.gov.cz",
+            "\"paroplynové\" site:vlada.gov.cz",
+            "\"plynové zdroje\" site:vlada.gov.cz",
+            "\"nových plynových\" \"zdrojů\" site:vlada.gov.cz"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0658e5881a18655a50414c2c675",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e06bd44081a19033fe889c5ae83f",
+        "action": {
+          "query": "\"Zrychlíme výstavbu nových flexibilních zdrojů\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Zrychlíme výstavbu nových flexibilních zdrojů\"",
+            "\"Prevence blackoutů\" \"Zrychlíme výstavbu nových flexibilních zdrojů\"",
+            "\"kapacitní mechanismy\" \"programové prohlášení\"",
+            "\"Zrychlíme výstavbu\" \"plynových energetických zdrojů\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0717e8081a1b887ac08f9758156",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e07bc1e081a1a7b4c39efaf0d989",
+        "action": {
+          "query": "\"programové prohlášení\" \"vlády\" \"Petr Fiala\" energetika plyn",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"programové prohlášení\" \"vlády\" \"Petr Fiala\" energetika plyn",
+            "\"programové prohlášení\" \"vlády Petra Fialy\" energetika",
+            "\"vlada Petra Fialy\" \"kapacitní mechanismy\"",
+            "\"kapacitní mechanismy\" \"Fialova\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0812b9c81a1957d4975bacf2468",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e081c22481a18f9e1c076c7db9a6",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e084139881a1ba4399a96a3d5fa5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e084c1d481a19a10412bdfc3741b",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "plyn"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e089646481a188e3a315c414db70",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e08e032081a1ad0dee3e6ef60a56",
+        "action": {
+          "query": "\"v řádu jednotek let\" energetika",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"v řádu jednotek let\" energetika",
+            "\"v řádu jednotek let\" \"uhlí\"",
+            "\"v řádu jednotek let\" \"zdroje\" \"elektrárny\"",
+            "\"v řádu jednotek let\" \"v energetice\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e092704481a1b9d753793c59cccf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e09a02b881a1b4488a72cd9317ae",
+        "action": {
+          "query": "\"jednotek let\" \"plynovych\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"jednotek let\" \"plynovych\"",
+            "\"jednotky let\" \"plynovych\"",
+            "\"jednotek let\" \"plynové\" \"elektrárny\"",
+            "\"jednotky let\" \"paroplynové\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0a30ebc81a1aa72df663885da9a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e0a5023c81a1a4134171e94cc0b2",
+        "action": {
+          "query": "\"nahradit uhelné elektrárny\" \"paroplynovými\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nahradit uhelné elektrárny\" \"paroplynovými\"",
+            "\"nahradit uhelné\" \"plynovými\" \"elektrárnami\"",
+            "\"paroplynové\" \"nahradit\" \"uhelné\" \"české\"",
+            "\"náhrada za uhelné\" \"plynové\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0ab6cf481a1a1aca6df548aad4c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e0b27c8481a1915135fc793b68ff",
+        "action": {
+          "query": "\"paroplynové\" \"premiér\" \"Petr Fiala\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"paroplynové\" \"premiér\" \"Petr Fiala\"",
+            "\"paroplynové\" \"vláda Petra Fialy\"",
+            "\"Fialova vláda\" \"paroplynové\"",
+            "\"paroplynové\" \"Ekonomický deník\" \"Fiala\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0b7a0bc81a199da62b409f744d3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e0b864b081a19cd921e6385e1b18",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0ba369081a1b69059aa079e4863",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e0baba0881a18c82572f974133a2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0be506081a19d2b21d2b8fac9ce",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e0c73a5481a18752f959b3c0dfdf",
+        "action": {
+          "query": "\"2022\" \"paroplynové elektrárny\" \"Česko\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"2022\" \"paroplynové elektrárny\" \"Česko\"",
+            "\"2022\" \"plynové elektrárny\" \"České\"",
+            "\"jít z uhlí na plyn\" \"Síkela\" 2022",
+            "\"rychlejší výstavbu\" \"plynových\" \"2022\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0d11a4881a19338f41c361e1a10",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e0d1442c81a1af7a59df19dc82df",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0d7112c81a1af239d3c70e52a5c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e0eaf1dc81a19fb654295c641f2a",
+        "action": {
+          "query": "\"nekterych letech\"  \"plynové elektrárny\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nekterych letech\"  \"plynové elektrárny\"",
+            "\"během několika let\" \"plynové elektrárny\"",
+            "\"během několika let\" \"paroplynové\"",
+            "\"během několika let\" \"uhelné\" \"plynové\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e0f2dd2081a1a6f6382dd5183ba2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_03cab0458c278e730069a6e0fa3cf081a19f1b2dd36898c597",
+        "action": {
+          "query": "\"v řádu jednotek let\" \"Petr Fiala\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"v řádu jednotek let\" \"Petr Fiala\"",
+            "\"Petr Fiala\" \"jednotek let\"",
+            "\"Fiala\" \"jednotek let\" energetika",
+            "\"do roku 2032\" \"Petr Fiala\" \"Temelín\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_03cab0458c278e730069a6e102397481a18681e5830b5eb164",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_03cab0458c278e730069a6e14ac7d481a19d2e68fbd923b338",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 541,
+                "start_index": 465,
+                "title": "Programové prohlášení vlády Petra Fialy | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/"
+              },
+              {
+                "end_index": 935,
+                "start_index": 802,
+                "title": "Niedermayer: Česko nesmí v energetice zaspat, jinak hrozí zdražení elektřiny | Obnovitelně",
+                "type": "url_citation",
+                "url": "https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny"
+              },
+              {
+                "end_index": 1281,
+                "start_index": 1151,
+                "title": "Do začátku 30. let musí Česko podle ČEPS postavit tři paroplynové elektrárny - Investujeme.cz - odborný server společnosti Swiss Life Select a.s.",
+                "type": "url_citation",
+                "url": "https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/"
+              },
+              {
+                "end_index": 1673,
+                "start_index": 1531,
+                "title": "Vláda dluží odpovědi na klíčové otázky. Hrozí nebezpečná závislost na dovozu elektřiny z Německa - Echo24.cz",
+                "type": "url_citation",
+                "url": "https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac"
+              },
+              {
+                "end_index": 3480,
+                "start_index": 3404,
+                "title": "Programové prohlášení vlády Petra Fialy | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/"
+              },
+              {
+                "end_index": 3906,
+                "start_index": 3830,
+                "title": "Programové prohlášení vlády Petra Fialy | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/"
+              },
+              {
+                "end_index": 4175,
+                "start_index": 4099,
+                "title": "Programové prohlášení vlády Petra Fialy | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/"
+              },
+              {
+                "end_index": 4356,
+                "start_index": 4280,
+                "title": "Programové prohlášení vlády Petra Fialy | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/"
+              },
+              {
+                "end_index": 4574,
+                "start_index": 4498,
+                "title": "Programové prohlášení vlády Petra Fialy | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/"
+              },
+              {
+                "end_index": 5633,
+                "start_index": 5503,
+                "title": "Do začátku 30. let musí Česko podle ČEPS postavit tři paroplynové elektrárny - Investujeme.cz - odborný server společnosti Swiss Life Select a.s.",
+                "type": "url_citation",
+                "url": "https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/"
+              },
+              {
+                "end_index": 6094,
+                "start_index": 5964,
+                "title": "Do začátku 30. let musí Česko podle ČEPS postavit tři paroplynové elektrárny - Investujeme.cz - odborný server společnosti Swiss Life Select a.s.",
+                "type": "url_citation",
+                "url": "https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/"
+              },
+              {
+                "end_index": 7146,
+                "start_index": 7013,
+                "title": "Niedermayer: Česko nesmí v energetice zaspat, jinak hrozí zdražení elektřiny | Obnovitelně",
+                "type": "url_citation",
+                "url": "https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny"
+              },
+              {
+                "end_index": 7994,
+                "start_index": 7902,
+                "title": "Lex plyn pro paroplynky nad 100 MW výkonu - Plyn.cz",
+                "type": "url_citation",
+                "url": "https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu?utm_source=openai"
+              },
+              {
+                "end_index": 9081,
+                "start_index": 8937,
+                "title": "Díky emisním povolenkám teplárny rychle přecházejí na nízkoemisní zdroje, pochvaluje si Hladík | Plus",
+                "type": "url_citation",
+                "url": "https://plus.rozhlas.cz/emisni-povolenky-funguji-teplarny-rychle-prechazeji-na-nizkoemisni-zdroje-9264437?utm_source=openai"
+              },
+              {
+                "end_index": 10371,
+                "start_index": 10229,
+                "title": "Vláda dluží odpovědi na klíčové otázky. Hrozí nebezpečná závislost na dovozu elektřiny z Německa - Echo24.cz",
+                "type": "url_citation",
+                "url": "https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac"
+              },
+              {
+                "end_index": 10774,
+                "start_index": 10632,
+                "title": "Vláda dluží odpovědi na klíčové otázky. Hrozí nebezpečná závislost na dovozu elektřiny z Německa - Echo24.cz",
+                "type": "url_citation",
+                "url": "https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac"
+              },
+              {
+                "end_index": 11468,
+                "start_index": 11392,
+                "title": "Programové prohlášení vlády Petra Fialy | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/"
+              },
+              {
+                "end_index": 11804,
+                "start_index": 11674,
+                "title": "Do začátku 30. let musí Česko podle ČEPS postavit tři paroplynové elektrárny - Investujeme.cz - odborný server společnosti Swiss Life Select a.s.",
+                "type": "url_citation",
+                "url": "https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/"
+              },
+              {
+                "end_index": 13037,
+                "start_index": 12892,
+                "title": "V Temelíně vznikne do roku 2032 první malý modulární reaktor v ČR",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/jaderne-elektrarny/v-temeline-vznikne-do-roku-2032-prvni-maly-modularni-reaktor-v-cr?utm_source=openai"
+              },
+              {
+                "end_index": 13771,
+                "start_index": 13611,
+                "title": "Jihočeský kraj podepsal smlouvu s ČEZ o postavení modulárního reaktoru - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/ceske-budejovice/zpravy/temelin-jaderna-elektrarna-energie-reaktor-cez.A220921_131725_budejovice-zpravy_pkr?utm_source=openai"
+              },
+              {
+                "end_index": 14611,
+                "start_index": 14481,
+                "title": "Do začátku 30. let musí Česko podle ČEPS postavit tři paroplynové elektrárny - Investujeme.cz - odborný server společnosti Swiss Life Select a.s.",
+                "type": "url_citation",
+                "url": "https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/"
+              },
+              {
+                "end_index": 15144,
+                "start_index": 15068,
+                "title": "Programové prohlášení vlády Petra Fialy | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/"
+              },
+              {
+                "end_index": 15506,
+                "start_index": 15376,
+                "title": "Do začátku 30. let musí Česko podle ČEPS postavit tři paroplynové elektrárny - Investujeme.cz - odborný server společnosti Swiss Life Select a.s.",
+                "type": "url_citation",
+                "url": "https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/"
+              },
+              {
+                "end_index": 15849,
+                "start_index": 15716,
+                "title": "Niedermayer: Česko nesmí v energetice zaspat, jinak hrozí zdražení elektřiny | Obnovitelně",
+                "type": "url_citation",
+                "url": "https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny"
+              },
+              {
+                "end_index": 16154,
+                "start_index": 16062,
+                "title": "Lex plyn pro paroplynky nad 100 MW výkonu - Plyn.cz",
+                "type": "url_citation",
+                "url": "https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu?utm_source=openai"
+              },
+              {
+                "end_index": 16566,
+                "start_index": 16424,
+                "title": "Vláda dluží odpovědi na klíčové otázky. Hrozí nebezpečná závislost na dovozu elektřiny z Německa - Echo24.cz",
+                "type": "url_citation",
+                "url": "https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac"
+              },
+              {
+                "end_index": 17593,
+                "start_index": 17463,
+                "title": "Do začátku 30. let musí Česko podle ČEPS postavit tři paroplynové elektrárny - Investujeme.cz - odborný server společnosti Swiss Life Select a.s.",
+                "type": "url_citation",
+                "url": "https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/"
+              },
+              {
+                "end_index": 17808,
+                "start_index": 17716,
+                "title": "Lex plyn pro paroplynky nad 100 MW výkonu - Plyn.cz",
+                "type": "url_citation",
+                "url": "https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Shrnutí\n\n- Nenašel jsem žádný **primární výrok z roku 2022**, ve kterém by Petr Fiala nebo jeho vláda **slibovali**, že nové plynové / paroplynové elektrárny v ČR budou hotové „během jednotek let“.  \n- Vládní **programové prohlášení** Fialovy vlády z roku 2022–2023 sice počítá se zemním plynem jako přechodným zdrojem a s odklonem od uhlí, ale neobsahuje **ani konkrétní termíny výstavby nových plynových elektráren**, ani formulaci „v (řádu) jednotek let“. ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n- Časový horizont „v řádu jednotek let“ se v dostupných zdrojích objevuje:\n  - u **expertů / komentátorů** (např. Luděk Niedermayer) jako úvaha, zda je vůbec reálné během „jednotek let“ postavit několik velkých plynových elektráren, nikoli jako vládní slib, ([obnovitelne.cz](https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny))  \n  - v **analýzách ČEPS a článcích o Lex plyn**, které mluví o potřebě zprovoznit 3–4 nové paroplynové bloky „v řádu jednotek let“, ale jde o **odbornou projekci / záměr**, nikoli citaci Fialovy vlády z roku 2022. ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n- Naopak některé zdroje z let 2023–2024 konstatují, že **plynové elektrárny se fakticky nestaví** a vláda mluví jen o přípravě legislativy pro zrychlení povolování; ani zde však není odkaz na konkrétní Fialův výrok z roku 2022 o „jednotkách let“. ([echo24.cz](https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac))  \n\nNa základě dohledaných informací tedy **není doloženo**, že by Fialova vláda v roce 2022 takový časový slib u plynových elektráren veřejně dala.  \n\n---\n\n## 2. Interpretace výroku Karla Havlíčka\n\nVýrok:  \n> „Vy jste tady slibovali, že to (plynové elektrárny) bude během jednotek let, to jste říkali v roce 2022.“\n\nMožné interpretace:\n\n1. **Úzká (doslovná)**  \n   – V roce 2022 Fialova vláda nebo osobně Petr Fiala výslovně řekli (např. na tiskové konferenci, v programovém prohlášení, rozhovoru apod.), že **nové plynové / paroplynové elektrárny v ČR budou postaveny nebo uvedeny do provozu „během jednotek let“**.\n\n2. **Širší (volnější parafráze)**  \n   – Vláda v roce 2022 sice doslova neřekla „během jednotek let“, ale:\n     - schválila dokumenty (programové prohlášení, koncepce) nebo  \n     - komunikovala cíle (např. konec uhlí 2030–2033, doporučení ČEPS apod.),  \n     které **implikují**, že je nutné postavit plynové zdroje v horizontu jednoho desetiletí, a Havlíček toto v debatě volně převyprávěl formulací „během jednotek let“.\n\nV dalším textu ověřuji obě roviny:\n\n- zda existuje **přímá citace** z roku 2022, odpovídající Havlíčkově formulaci,  \n- a zda lze mluvit alespoň o **nepřímém politickém závazku** vlády z roku 2022, který by se dal rozumně shrnout jako „během jednotek let“.\n\n---\n\n## 3. Sub‑claim A: „Vy jste tady slibovali, že to (plynové elektrárny) bude během jednotek let“\n\n### 3.1 Vládní programové prohlášení Petra Fialy (2022/2023)\n\n**Zdroj:** Programové prohlášení vlády Petra Fialy, kapitola *Průmysl a obchod – Energetika*, schváleno 6. 1. 2022, upravená verze 1. 3. 2023  \n[https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/) ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n\nRelevantní pasáže:\n\n- Dokument stanovuje, že:\n  - budoucnost energetiky vláda vidí v **kombinaci jádra a decentralizovaných OZE**,  \n  - **zemní plyn má být přechodným zdrojem a transformačním palivem**,  \n  - uhlí bude odstavováno **pod podmínkou zajištění dostatečných záložních kapacit**,  \n  - do roku **2033** má být možný „odklon od uhlí“. ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n\n- Citace (zkráceně, zvýraznění doplněno):  \n  - „Zemní plyn však navzdory současné situaci zůstane stále významnou surovinou a částečně i **transformační palivo v procesu dekarbonizace**.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n  - „Uhelné elektrárny budou odstavovány **pod podmínkou zajištění dostatečných záložních kapacit**.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n  - „Budeme vytvářet podmínky pro energetickou transformaci a rozvoj uhelných regionů **tak, aby byl možný odklon od uhlí do roku 2033**.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n\nCo zde **není**:\n\n- Žádná zmínka o **konkrétním počtu** nových plynových / paroplynových elektráren.  \n- Žádný časový údaj typu „do roku 2030 postavíme X plynových zdrojů“.  \n- Žádná formulace jako „v řádu jednotek let“, „během několika málo let“ apod.  \n\nProgramové prohlášení tedy **nastavuje roli plynu**, ale **neobsahuje časově specifický slib výstavby plynových elektráren**, který by bylo možné shrnout tak, jak to dělá Havlíček.\n\n---\n\n### 3.2 Analýza ČEPS MAF CZ 2022 – potřeba tří paroplynových elektráren\n\n**Zdroj:** Shrnutí analýzy *MAF CZ 2022* od ČEPS na investičním portálu Investujeme.cz (květen 2023)  \n„Do začátku 30. let musí Česko podle ČEPS postavit tři paroplynové elektrárny“  \n[https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/) ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n\nKlíčové body:\n\n- Článek shrnuje výsledky **Hodnocení zdrojové přiměřenosti MAF CZ 2022**, které připravil **ČEPS**, nikoli vláda.  \n- Podle analýzy je nutné:\n  - „do začátku 30. let“ postavit **tři paroplynové elektrárny** jako náhradu za uhelné zdroje a  \n  - zavést **kapacitní mechanismus** pro podporu flexibilních zdrojů. ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n\nTento dokument:\n\n- formuluje **odborné doporučení ČEPS**,  \n- používá horizont „do začátku 30. let“ (tedy zhruba 7–10 let od roku 2023),  \n- **není** citací politického slibu vlády, ale spíše vstupem pro vládní rozhodování.\n\nHavlíčkův výrok může vycházet **z tohoto typu analýz**, ale jejich obsah **nelze automaticky připsat jako „slib vlády“**, tím méně konkrétně k roku 2022.\n\n---\n\n### 3.3 Odborné a mediální texty s formulací „v (řádu) jednotek let“ u plynu\n\n#### a) Niedermayer 2023 – úvaha o reálnosti postavit plynové elektrárny v řádu jednotek let\n\n**Zdroj:** Luděk Niedermayer, Obnovitelně.cz, 5. 6. 2023  \n„Česko nesmí v energetice zaspat, jinak hrozí zdražení elektřiny“  \n[https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny](https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny) ([obnovitelne.cz](https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny))  \n\nRelevantní pasáž:\n\n> „**Posuďte ale sami, jak reálné je v naší zemi, během jednotek let, postavit několik větších plynových elektráren – a bez nich se k potřebnému výkonu při těchto cenách nedostaneme…**“\n\n- Tato formulace:\n  - pochází od **europoslance Luďka Niedermayera**,  \n  - není citací Fialovy vlády, ale **kritickou otázkou**, zda je tak ambiciózní výstavba v „jednotkách let“ vůbec reálná.  \n- Nijak tedy nepotvrzuje, že by „slib v jednotkách let“ vyslovil premiér Fiala či jeho kabinet.\n\n#### b) Lex plyn – „v řádu jednotek let“ v článku Plyn.cz (2025)\n\n**Zdroj:** Plyn.cz, 8. 1. 2025 – článek o návrhu Lex plyn  \n[https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu](https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu) ([plyn.cz](https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu?utm_source=openai))  \n\nČlánek cituje ministra průmyslu (už z jiné vlády, v roce 2025), který se odvolává na analýzu ČEPS:\n\n> „…předpokládá, že (…) bude Česká republika potřebovat jako náhradu za uhelné elektrárny výkon v rozmezí 2 500 až 3 000 MW. **To by znamenalo zprovoznit tři nebo čtyři nové zdroje s paroplynovou technologií, a to v řádu jednotek let.**“\n\nCharakteristika:\n\n- Jde o **interpretaci analýzy ČEPS** v době, kdy už se projednává Lex plyn (2025).  \n- Nejde o citaci Fialovy vlády z roku 2022, ale o novější komunikaci jiné vládní garnitury a jejího ministra.\n\n#### c) Další výskyt „jednotek let“ – teplárenství (Hladík 2024)\n\n**Zdroj:** Český rozhlas Plus, 27. 6. 2024 – rozhovor s ministrem životního prostředí Petrem Hladíkem  \n[https://plus.rozhlas.cz/emisni-povolenky-funguji-teplarny-rychle-prechazeji-na-nizkoemisni-zdroje-9264437](https://plus.rozhlas.cz/emisni-povolenky-funguji-teplarny-rychle-prechazeji-na-nizkoemisni-zdroje-9264437) ([plus.rozhlas.cz](https://plus.rozhlas.cz/emisni-povolenky-funguji-teplarny-rychle-prechazeji-na-nizkoemisni-zdroje-9264437?utm_source=openai))  \n\nHladík zde říká, že:\n\n> „…zhruba polovina tepláren stále spaluje uhlí, ale **mílovými kroky v řádu jednotek let od něj odchází**…“\n\n- Tato věta se týká **teplárenství**, nikoli konkrétně **nových paroplynových elektráren** pro elektroenergetiku.  \n- Znovu nejde o výrok z roku 2022 ani o výrok premiéra Fialy.\n\n**Závěr k části 3.3:**  \nFormulace „v (řádu) jednotek let“ se v energetické debatě používá, ale:\n\n- buď jako **kritická úvaha expertů** (Niedermayer),  \n- nebo jako **přepis expertních analýz** (Lex plyn / ČEPS 2025),  \n- případně v jiných souvislostech (teplárny).  \n\nNikde se však neobjevila jako **přímý slib Fialovy vlády z roku 2022 ohledně plynových elektráren**.\n\n---\n\n### 3.4 Mediální shrnutí vládních plánů – ale bez citace „jednotek let“\n\n**Zdroj:** Echo24, 2. 8. 2024  \n„Vláda dluží odpovědi na klíčové otázky. Hrozí nebezpečná závislost na dovozu elektřiny z Německa“  \n[https://echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac](https://echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac) ([echo24.cz](https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac))  \n\nRelevantní pasáže:\n\n- Text popisuje, že:\n  - vláda chce nahradit uhlí **plynem, OZE a dovozem**,  \n  - přitom **„se v současnosti ani nestavíme plynové elektrárny“**,  \n  - „mluví se přitom o nutnosti postavit tři nové paroplynové elektrárny do roku 2030“. ([echo24.cz](https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac))  \n\nVýznam:\n\n- Článek konstatuje **obecně sdílený předpoklad**, že je nutné do roku 2030 postavit tři paroplynové elektrárny – **„mluví se o tom“**, ne však, že by šlo o **explicitní slib Fialovy vlády**.  \n- Ani zde není výrok typu „vláda v roce 2022 řekla, že… během jednotek let“.\n\n---\n\n### 3.5 Shrnutí k sub‑claimu A\n\n- V **oficiálních dokumentech Fialovy vlády** (programové prohlášení, obecné výroky k energetice) se:\n  - počítá se zemním plynem jako **přechodným zdrojem** a  \n  - s **odklonem od uhlí do roku 2033**,  \n  ale **není tam konkrétní slib** typu „nové plynové elektrárny budou během jednotek let“. ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n\n- **Expertní analýzy (ČEPS MAF 2022)** mluví o nutnosti **tří paroplynových bloků do začátku 30. let**, a pozdější politická komunikace (např. Lex plyn 2025) to přejímá formulací „v řádu jednotek let“. ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n  - To je však **doporučení a projekce**, nikoli doložený **slib vlády z roku 2022**.\n\n- Formulace „během jednotek let“ se u plynových zdrojů vyskytuje v **komentářích a článcích**, nikoli jako jednoznačný výrok Fialovy vlády v roce 2022.\n\nNa základě dostupných zdrojů **nelze podložit**, že by Fialova vláda v roce 2022 výslovně slibovala, že nové plynové elektrárny budou vybudovány „během jednotek let“.\n\n---\n\n## 4. Sub‑claim B: „…to jste říkali v roce 2022“\n\nTato část výroku přisuzuje konkrétní **čas** údajnému slibu – rok **2022**.\n\n### 4.1 Veřejné výroky Petra Fialy k energetice v roce 2022\n\nRelevantní, dobře zdokumentovaný výrok z roku 2022 se týká **malého modulárního reaktoru (SMR) v Temelíně**, nikoli plynových elektráren.\n\n**Zdroj 1:** ČTK / Oenergetice.cz – článek „V Temelíně vznikne do roku 2032 první malý modulární reaktor v ČR“, 21. 9. 2022  \n[https://oenergetice.cz/jaderne-elektrarny/v-temeline-vznikne-do-roku-2032-prvni-maly-modularni-reaktor-v-cr](https://oenergetice.cz/jaderne-elektrarny/v-temeline-vznikne-do-roku-2032-prvni-maly-modularni-reaktor-v-cr) ([oenergetice.cz](https://oenergetice.cz/jaderne-elektrarny/v-temeline-vznikne-do-roku-2032-prvni-maly-modularni-reaktor-v-cr?utm_source=openai))  \n\n- Premiér Fiala zde říká, že **malý modulární reaktor v Temelíně** by mohl být hotový „do roku 2032“ – tedy v horizontu cca 10 let od roku 2022.  \n- Nejde ale o plynové, nýbrž **jaderné zdroje**.\n\n**Zdroj 2:** iDNES.cz – „Jihočeský kraj podepsal smlouvu s ČEZ o postavení modulárního reaktoru“, 21. 9. 2022  \n[https://www.idnes.cz/ceske-budejovice/zpravy/temelin-jaderna-elektrarna-energie-reaktor-cez.A220921_131725_budejovice-zpravy_pkr](https://www.idnes.cz/ceske-budejovice/zpravy/temelin-jaderna-elektrarna-energie-reaktor-cez.A220921_131725_budejovice-zpravy_pkr) ([idnes.cz](https://www.idnes.cz/ceske-budejovice/zpravy/temelin-jaderna-elektrarna-energie-reaktor-cez.A220921_131725_budejovice-zpravy_pkr?utm_source=openai))  \n\n- Článek potvrzuje stejný časový rámec („do roku 2032“), opět pro **SMR**.\n\nTyto zdroje:\n\n- ukazují, že Fiala v roce 2022 **pracoval s horizontem cca 10 let** u jaderných SMR,  \n- neobsahují však žádnou formulaci o **plynových elektrárnách** v „jednotkách let“.\n\n### 4.2 Závěr k části „to jste říkali v roce 2022“\n\n- V dohledaných veřejných výrocích Petra Fialy a jeho vlády z roku 2022 se **nenachází žádná citace**, kde by:\n  - výslovně mluvili o nových **plynových elektrárnách** a  \n  - přidali časový rámec „během jednotek let“.  \n\n- Pokud Havlíček naráží na rok 2022 v souvislosti s MAF CZ 2022:\n  - je třeba připomenout, že jde o **analýzu ČEPS**, zveřejněnou a mediálně rozebíranou až v roce 2023, ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n  - a ani tato analýza neobsahuje citaci typu „vláda se zavazuje, že… během jednotek let“.\n\n---\n\n## 5. Celkové zhodnocení pro fact‑checkera\n\n### Co je doloženo\n\n1. **Fialova vláda v programu (2022/2023)**:\n   - počítá s **odklonem od uhlí do roku 2033**,  \n   - považuje **zemní plyn za významné přechodné palivo** a součást řešení,  \n   - avizuje **úpravy energetické legislativy**, ale **nekonkretizuje** počet a termíny výstavby plynových elektráren. ([vlada.gov.cz](https://vlada.gov.cz/cz/programoveprohlaseni-vlady-193547/))  \n\n2. **ČEPS (MAF CZ 2022)**:\n   - doporučuje, aby ČR **do začátku 30. let** (tj. cca během jednoho desetiletí) postavila **tři paroplynové elektrárny**,  \n   - doporučuje **kapacitní mechanismus** pro podporu flexibilních zdrojů. ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n\n3. **Formulace „během jednotek let“** u plynu:\n   - používají **experti (Niedermayer)** jako otázku, zda je v ČR realistické v „jednotkách let“ takové elektrárny postavit; nikoli jako odkaz na vládní slib. ([obnovitelne.cz](https://www.obnovitelne.cz/clanek/2528/niedermayer-cesko-nesmi-v-energetice-zaspat-jinak-hrozi-zdrazeni-elektriny))  \n   - objevuje se ve **výkladu Lex plyn v roce 2025** (Plyn.cz), kde je „v řádu jednotek let“ spojeno s analýzou ČEPS a zjednodušením povolovacích procesů, nikoli s konkrétním výrokem Fialovy vlády z roku 2022. ([plyn.cz](https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu?utm_source=openai))  \n\n4. **Novinové komentáře (např. Echo24 2024)**:\n   - uvádějí, že se „mluví o nutnosti postavit tři nové paroplynové elektrárny do roku 2030“,  \n   - kritizují, že plynové elektrárny se ve skutečnosti nestaví a že vláda zatím pouze připravuje zjednodušení povolování. ([echo24.cz](https://www.echo24.cz/a/HSCHF/jak-nahradime-uhli-elektrarny-dovoz-elektriny-z-nemecka-zavislost-solary-fiala-sikela-vlada-tykac))  \n   - ani tyto texty **necituji** konkrétní Fialův slib z roku 2022.\n\n### Co doloženo není\n\n- **Nenalezl jsem žádný primární zdroj z roku 2022** (tisková konference, vládní dokument, rozhovor, parlamentní projev), ve kterém by Petr Fiala nebo člen jeho vlády:\n  - explicitně řekli, že **nové plynové / paroplynové elektrárny budou vybudovány „během jednotek let“**,  \n  - nebo formulovali jiný, srovnatelně konkrétní **časový slib** ohledně výstavby plynových elektráren, který by bylo férové parafrázovat touto větou.\n\n- Neexistuje ani **sekundární zdroj** (analýza, komentář), který by **jasně uváděl**, že takový výrok Fialova kabinetu v roce 2022 zazněl, a citoval by ho.\n\n### Možná interpretace výroku Karla Havlíčka\n\nNa základě kontextu lze Havlíčkův výrok chápat tak, že:\n\n- mixuje dohromady:\n  - **odborné závěry ČEPS (MAF CZ 2022)** o nutnosti nových plynových bloků do začátku 30. let ([investujeme.cz](https://www.investujeme.cz/clanky/do-zacatku-30-let-musi-cesko-podle-ceps-postavit-tri-paroplynove-elektrarny/))  \n  - a **pozdější komunikaci** kolem Lex plyn (v níž se mluví o zprovoznění paroplynových zdrojů „v řádu jednotek let“), ([plyn.cz](https://www.plyn.cz/lex-plyn-pro-paroplynky-nad-100-mw-vykonu?utm_source=openai))  \n\na tyto odborné projekce zpětně **připisuje Fialově vládě jako „slib“ z roku 2022**.\n\nZ pohledu ověřitelných faktů ale:\n\n- **nelze doložit**, že by takový slib v roce 2022 skutečně zazněl v podobě, jakou Havlíček popisuje,  \n- existuje pouze obecná politická deklarace o roli plynu a odklonu od uhlí, **bez explicitního časového závazku k plynovým elektrárnám v „jednotkách let“**.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 107565,
+      "input_tokens_details": {
+        "cached_tokens": 6016
+      },
+      "output_tokens": 17650,
+      "output_tokens_details": {
+        "reasoning_tokens": 11871
+      },
+      "total_tokens": 125215
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772544410,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

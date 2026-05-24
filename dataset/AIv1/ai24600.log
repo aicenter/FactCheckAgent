@@ -1,0 +1,798 @@
+{
+  "claim_id": "24600",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260220_173536",
+  "source_md": "experiments/gpt5.1_h_20260220_173536/brief_fact_check_id24600.md",
+  "fact_check": "# Fact Check for Statement ID 24600\n\n## Statement\n(...) 50 tisíc. Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.\n\n---\n## AI Fact Check\n## 1. Identifikace a interpretace výroku\n\nSporný výrok (18. 2. 2026):\n\n> „Těch 50 tisíc… Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.“\n\nNejpravděpodobnější význam:\n\n- **Od roku 2026** mají **nově nastupující profesionální vojáci po absolvování kurzu základní přípravy (KZP)** měsíční „nástupní plat“ (resp. měsíční příjem před zdaněním) **ve výši 50 000 Kč**.\n\nMožné výklady:\n\n1. **Úzký výklad:** 50 000 Kč = **služební tarif / hrubý plat bez příspěvku na bydlení**.  \n2. **Širší výklad:** 50 000 Kč = **celkový měsíční příjem před zdaněním** po nástupu k útvaru, tj. služební tarif + stabilizační příplatek + příspěvek na bydlení (příp. další základní složky), tak jak to dlouhodobě prezentuje Ministerstvo obrany a média.\n\nNíže jsou ověřeny oba výklady.\n\n---\n\n## 2. Kontext: kdo je „začínající voják“ a jak se plat skládá\n\n### 2.1 „Začínající voják po absolvování základního výcviku“\n\nNáborový web Armády ČR popisuje:\n\n- V **kurzu základní přípravy ve Vyškově** mají všichni nováčci hodnost vojína a pobírají **nejnižší možný armádní plat odpovídající minimální mzdě**. Po úspěšném dokončení kurzu získají **bonus 15 000 Kč**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove))  \n  > „…nosí stejnou černou výložku s hodností vojína… pobírají nejnižší možný armádní plat odpovídající vládou stanovené výši minimální mzdy. Pakliže základní výcvik zdárně dokončí, dostanou k platu bonus 15 tisíc korun.“ ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove))  \n\n- Po skončení KZP nováček **nastupuje k útvaru jako profesionální voják** (typicky v nejnižších hodnostech, prakticky „svobodník“ a výše) – zde už se uplatní standardní tarif a příplatky. To koresponduje s textem „po nástupu k útvaru“ na náborovém webu (viz dále). ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vojak-z-povolani))  \n\nPro ověřovaný výrok tedy „začínající voják po absolvování základního výcviku“ = **čerstvý profesionální voják po KZP, nastupující k útvaru**.\n\n### 2.2 Jak se skládá plat profesionálního vojáka\n\nZákon č. 221/1999 Sb., o vojácích z povolání, a prováděcí nařízení stanoví, že **služební plat** tvoří zejména: služební tarif, výkonnostní příplatek, příplatek za službu v zahraničí, zvláštní příplatek, příplatek za zvýšenou odpovědnost, příplatek za pohotovost a odměny. ([podnikatel.cz](https://www.podnikatel.cz/zakony/zakon-o-vojacich-z-povolani/f1966606/?utm_source=openai))  \n\nStarší, ale stále relevantní vysvětlení Ministerstva obrany k systému profesních příplatků uvádí i **stabilizační příspěvek a služební příspěvek na bydlení**:\n\n- „Stabilizační příspěvek ve výši **7 000 Kč náleží všem vojákům**…“ ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai))  \n- „Služební příspěvek na bydlení činí 3 000 Kč měsíčně…“ (původní výše před pozdějším zvýšením). ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai))  \n\nV roce 2025 vláda Petra Fialy schválila výrazné zvýšení **tarifů i příspěvku na bydlení**, s účinností od 1. 7. 2025 a 1. 1. 2026:\n\n- Tisková zpráva vlády: pro hodnosti **svobodník–štábní praporčík tarify +7,5 % od 1. 7. 2025 a +7,5 % od 1. 1. 2026; pro vyšší hodnosti +5 % a +5 %**. Zároveň se **příspěvek na bydlení** zvyšuje pro vojáky v Praze na **7 000 Kč** a mimo Prahu na **6 000 Kč**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n\nTyto změny byly provedeny nařízením vlády č. 211/2025 Sb., které novelizovalo nařízení č. 59/2015 Sb. o služebních tarifech. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8078789.htm?utm_source=openai))  \n\n---\n\n## 3. Skutečná výše nástupního příjmu po 1. 1. 2026\n\n### 3.1 Oficiální tarifní tabulky od 1. 1. 2026\n\nAktuální znění § 2 nařízení vlády č. 59/2015 Sb. (ve znění po novele 211/2025 Sb.), účinné **od 1. 1. 2026**, stanoví služební tarify takto: ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n\n- **Svobodník**: 36 590 Kč / měsíc  \n- **Desátník**: 38 400 Kč  \n- **Četař**: 40 400 Kč  \n- … (dále vyšší hodnosti; pro úplnost viz tabulka v zákoně). ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n\nTyto částky jsou **čistý tarif (hrubý plat bez příspěvků)**.\n\n### 3.2 Stabilizační příspěvek a příspěvek na bydlení po reformě 2025/2026\n\nZ vládního a ministerského materiálu vyplývá:\n\n- Od července 2025/v návaznosti na novelu zákona o vojácích z povolání jsou:  \n  - **platové tarify** v nižších hodnostech (svobodník–štábní praporčík) navýšeny celkově o 15 %,  \n  - **příspěvek na bydlení minimálně 6 000 Kč, v Praze 7 000 Kč**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n- Z vyjádření MO a médií plyne, že **stabilizační příspěvek v základní výši 7 000 Kč měsíčně** zůstává pro všechny vojáky zachován (vyšší pro vybrané odbornosti). ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai))  \n\nNapříklad článek Newstream/Ekonomický deník (9. 4. 2025) shrnuje:  \n\n> „Podle platové kalkulačky na náborovém webu armády je nyní **minimální hrubý měsíční plat vojáka 38 810 korun**. Kromě něj vojáci dostávají také **stabilizační příspěvek ve výši minimálně 7 000 korun a příspěvek na bydlení**.“ ([newstream.cz](https://www.newstream.cz/politika/cernochova-chce-vyssi-platy-pro-vojaky-a-rakusan-pro-policisty?utm_source=openai))  \n\nTyto částky se pak zvyšují právě o popsané procento a nové bydlení od 7/2025 a 1/2026.\n\n### 3.3 Náborový web Armády ČR – kalkulačka platů od 1. 1. 2026\n\nNejdůležitější pro ověřovaný výrok je **oficiální náborový web Armády ČR – Doarmady.mo.gov.cz**, sekce „Kolik si vydělám“:\n\n- Stránka výslovně uvádí, že **zobrazené tarify platí od 1. ledna 2026**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n- Hlavní sdělení:  \n\n  > „Váš minimální příjem před zdaněním (po započtení základních příplatků a příspěvků, z nichž se část nedaní) **od 49 590 Kč**.“ ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n- Stránka zároveň rozepisuje, „z čeho se váš plat skládá“ – **ukázkový minimální scénář** (bez dětí, bez dojíždění, mimo Prahu): ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n  | Složka               | Částka (Kč/měsíc) |\n  |----------------------|-------------------|\n  | Služební tarif       | 36 590            |\n  | Stabilizační příplatek | 7 000           |\n  | **Celkem hrubý plat** | **43 590**       |\n  | Příspěvek na bydlení | 6 000             |\n  | **Minimální příjem před zdaněním** | **49 590** |\n\n  Text dále upozorňuje, že jde o **minimální orientační příjem**, který se zvyšuje podle dětí, dojíždění, dalších příplatků atd. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\nTento scénář **odpovídá novému služebnímu tarifu svobodníka od 1. 1. 2026 (36 590 Kč)** dle nařízení vlády. ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n\n> Tj. pro „nejhorší“ běžný případ (svobodník po KZP, bez dětí, nedojíždí, mimo Prahu) je **minimální měsíční příjem před zdaněním 49 590 Kč**, nikoli 50 000 Kč.\n\n### 3.4 Shodná čísla v médiích (nezávislé potvrzení)\n\nČlánek Armádních novin z 1. 1. 2026, využívající platovou kalkulačku Armády ČR, uvádí: ([armadninoviny.cz](https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html))  \n\n> „Podle platové kalkulačky pro vojáky bude od ledna **hrubý plat svobodníka… 43 590 korun**. Po započtení příspěvku na bydlení bude **příjem před zdaněním činit 49 590 korun**, k tomu armáda nabízí další speciální příplatky a bonusy.“ ([armadninoviny.cz](https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html))  \n\nDalší média předtím opakovaně cituji náborový web Armády ČR s „minimálním hrubým měsíčním platem“ (před navýšením na rok 2026 ještě 37 310–38 810 Kč + 7 000 stabilizační příspěvek + 3 000 příspěvek na bydlení). ([tyden.cz](https://www.tyden.cz/rubriky/domaci/ministryne-obrany-cernochova-chce-v-nekterych-regionech-navysit-stabilizacni-prispevky-pro-vojaky_566211.html?utm_source=openai))  \n\nTato nezávislá média tak **potvrzují validitu čísel, která nyní (od 1. 1. 2026) vedou k minimálnímu příjmu 49 590 Kč**.\n\n---\n\n## 4. Politický kontext: slib „50 tisíc“ pro vojáky\n\nJe užitečné doložit, odkud částka **50 000 Kč** pochází:\n\n- Program hnutí ANO k obraně (před volbami 2025) výslovně slibuje:  \n\n  > „Od roku 2026 budou mít vojáci z povolání po absolvování kurzu základní přípravy **nástupní plat 50 tisíc korun**.“ ([anobudelip.cz](https://www.anobudelip.cz/cs/bude-lip/nas-program/obranna-politika-a-armada?utm_source=openai))  \n\n- Ekonomický deník tento slib shrnuje:  \n\n  > „Od roku 2026 budou mít podle ANO vojáci z povolání po absolvování kurzu základní přípravy nástupní plat 50 tisíc korun.“ ([ekonomickydenik.cz](https://ekonomickydenik.cz/proti-migraci-nastupni-platy-50-tisic-sliby-politiku-obrana/?utm_source=openai))  \n\n- ČTK v článku o koaličních jednáních nové vlády ANO–SPD–Motoristé připomíná, že ANO slíbilo „od příštího roku nástupní plat 50 000 korun vojákům z povolání po absolvování kurzu základní přípravy“. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2737064?utm_source=openai))  \n\nČíslo 50 000 Kč je tedy **primárně politický cíl/volební slib**, který má být naplněn **od roku 2026**.\n\n---\n\n## 5. Rozklad výroku na dílčí tvrzení a jejich ověření\n\n### 5.1 Tvrzení A: „Od letošního roku“ (tj. 2026)\n\n- Na základě nařízení vlády č. 211/2025 Sb. a jeho provedení v nařízení č. 59/2015 Sb. je doloženo, že **nové tarify vojáků** (včetně svobodníka) i **zvýšený příspěvek na bydlení** (6 000 / 7 000 Kč) **platí k 1. 1. 2026**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n- Náborový web Armády ČR výslovně uvádí, že **služební tarif a vypočtený čistý plat platí od 1. ledna 2026**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n**Dílčí závěr A:** Časové tvrzení „od letošního roku (2026)“ je v souladu s legislativou a oficiálními materiály – nové tarify a příspěvky opravdu platí od 1. 1. 2026.\n\n---\n\n### 5.2 Tvrzení B: „začínající vojáci po absolvování základního výcviku“ = příslušníci se standardním nástupním platem dle kalkulačky\n\n- Během základního výcviku mají nováčci hodnost vojína a plat na úrovni **minimální mzdy**, nikoli kolem 50 tisíc. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove))  \n- Po úspěšném absolvování KZP (cca 6 týdnů) se stávají profesionálními vojáky a nastupují k útvaru – právě zde se na ně vztahují **tarifní tabulky (svobodník a výše) a náborová kalkulačka**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove))  \n- Náborová kalkulačka i mediální příklady pro rok 2026 používají pro minimální scénář **tarif svobodníka** a k němu 7 000 Kč stabilizačního příplatku a 6 000 Kč příspěvku na bydlení. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n**Dílčí závěr B:** Je rozumné a dobře podložené interpretovat „začínající voják po absolvování základního výcviku“ jako voják v hodnosti **svobodník (nebo vyšší)** po nástupu k útvaru, na něhož se vztahuje minimální příjem 49 590 Kč podle oficiální kalkulačky.\n\n---\n\n### 5.3 Tvrzení C (úzký výklad): „mají 50 000 Kč“ jako služební tarif / hrubý plat bez bydlení\n\nPorovnáme‑li číslo 50 000 Kč s **čistým služebním tarifem** nebo **hrubým platem bez příspěvku na bydlení**, dostaneme:\n\n- **Svobodník** od 1. 1. 2026: služební tarif 36 590 Kč. ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n- Hrubý plat „tarif + základní stabilizační příplatek“: 36 590 + 7 000 = **43 590 Kč**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\nV obou případech je to **výrazně méně než 50 000 Kč**.\n\n**Dílčí závěr C:** Pokud by výrok byl chápán tak, že **samotný služební tarif nebo hrubý plat bez příspěvku na bydlení** činí 50 000 Kč, je to **v rozporu s platnou tarifní tabulkou**. V tomto „úzkém“ smyslu je výrok **nesprávný**.\n\n---\n\n### 5.4 Tvrzení D (širší výklad): „mají 50 000 Kč“ jako celkový měsíční příjem před zdaněním (tarif + stabilizační + bydlení)\n\nPorovnáme‑li 50 000 Kč s **celkovým minimálním příjmem před zdaněním** podle oficiální kalkulačky:\n\n- Minimální scénář (svobodník, bez dětí, mimo Prahu, bez dojíždění):  \n  - tarif 36 590 + stabilizační 7 000 + bydlení 6 000 = **49 590 Kč před zdaněním**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n- V Praze (příspěvek na bydlení 7 000 Kč) by už stejný voják měl:  \n  - 36 590 + 7 000 + 7 000 = **50 590 Kč** před zdaněním. (Příspěvek 7 000 Kč pro Prahu potvrzuje vláda ve své tiskové zprávě.) ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n- Vojáci s dětmi nebo delším dojížděním mají díky zvýšenému příspěvku na bydlení a náhradě jízdních výdajů **ještě vyšší „příjem před zdaněním“**. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/-258646/))  \n\nZ toho plyne:\n\n- **Minimální garantovaný příjem** po nástupu k útvaru je **49 590 Kč**, tj. **o 410 Kč méně než 50 000 Kč**.  \n- Řadě začínajících vojáků (např. v Praze, s dětmi, s dojížděním, ve specifických posádkách nebo s vyšší počáteční hodností než svobodník) **reálný měsíční příjem hranici 50 000 Kč překračuje**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n**Dílčí závěr D:** V širokém výkladu („příjem před zdaněním včetně příspěvku na bydlení a základních příplatků“) je **reálný minimální příjem těsně pod 50 000 Kč** (49 590 Kč), ale **mnoho začínajících vojáků se nad 50 000 Kč dostává**. Částka 50 000 Kč tak **odpovídá politickému cíli a je velmi blízká skutečným minimálním hodnotám**, ale **není přesnou oficiální minimální částkou**.\n\n---\n\n## 6. Celková syntéza pro fact‑checking\n\n### Co je doloženo oficiálními zdroji\n\n1. **Od 1. 1. 2026** platí nové, vyšší služební tarify pro vojáky z povolání (svobodník 36 590 Kč) a zvýšený příspěvek na bydlení (6 000 / 7 000 Kč). ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n2. **Stabilizační příspěvek** v základní výši 7 000 Kč náleží všem vojákům, vyšší částky pro specifické odbornosti. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai))  \n3. Náborový web Armády ČR (oficiální MO) pro období od 1. 1. 2026 uvádí, že **„minimální příjem před zdaněním“ po nástupu k útvaru je „od 49 590 Kč“**, s ukázkovým rozpisem: tarif 36 590 + stabilizační 7 000 + bydlení 6 000. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n4. Mediální zdroje (Armádní noviny) tento údaj přebírají a potvrzují: **svobodník má od ledna 2026 hrubý plat 43 590 Kč a příjem před zdaněním po započtení bydlení 49 590 Kč**. ([armadninoviny.cz](https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html))  \n5. Program hnutí ANO i analýzy médií doložitelně pracují s politickým cílem, že **od roku 2026 má být „nástupní plat vojáka po základní přípravě 50 000 Kč“**. ([anobudelip.cz](https://www.anobudelip.cz/cs/bude-lip/nas-program/obranna-politika-a-armada?utm_source=openai))  \n\n### Jak to dopadá na ověřovaný výrok\n\n- **Časová část („od letošního roku“) a popis cílové skupiny (noví vojáci po základní přípravě)** odpovídají realitě – zvýšení tarifů a příspěvků skutečně vstoupilo v platnost od **1. 1. 2026** a týká se právě nově nastupujících profesionálních vojáků. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n- **Číselná část („mají 50 000 Kč“) však naráží na to, že:**\n  - **oficiálně deklarovaný minimální příjem** je **49 590 Kč**, nikoli 50 000 Kč,  \n  - částka 50 000 Kč je **politickým cílem/prográmovým číslem**, nikoli doslovně uvedeným parametrem ve vládním nařízení nebo na náborovém webu,  \n  - v praxi se ovšem **značná část začínajících vojáků** (Praha, děti, dojíždění, vyšší nástupní hodnost) **nad 50 000 Kč před zdaněním dostává**, zatímco absolutní minimum zůstává o 410 Kč nižší. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n### Shrnutí pro fact‑checkera\n\n- **Striktně vzato** (podle oficiálních čísel):  \n  - „Začínající vojáci po absolvování základního výcviku“ **nemají garantovaný nástupní měsíční příjem přesně 50 000 Kč**, ale minimálně **49 590 Kč před zdaněním**.  \n- **V aproximovaném / politickém jazyce:**  \n  - Výrok odpovídá tomu, že **politicky slíbených „50 tisíc“ se nástupní příjem velmi těsně přibližuje a v mnoha reálných situacích ho přesahuje**, avšak **formálně se oficiální minimální údaj uvádí o něco níže (49 590 Kč)**.\n\n---\n\n## 7. Přehled klíčových zdrojů\n\n1. **Nařízení vlády č. 59/2015 Sb. (ve znění č. 211/2025 Sb.) – tarifní tabulka od 1. 1. 2026** – služební tarif svobodníka 36 590 Kč atd. ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n2. **Tisková zpráva vlády 11. 6. 2025** – zvýšení tarifů a příspěvku na bydlení (6 000 / 7 000 Kč). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n3. **MO ČR – „Otázky a odpovědi k navýšení platů vojáků z povolání“ (4. 6. 2025)** – podrobný popis dvoufázového zvýšení platů a příspěvků. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/-258646/))  \n4. **MO ČR – „Reakce na nejčastější tvrzení o obraně“** – rekapitulace zvýšení tarifů od 1. 1. 2025 a navazujícího balíku opatření. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/na-pravou-miru/reakce-na-nejcastejsi-tvrzeni-o-obrane-na-jednom-miste-257233/?utm_source=openai))  \n5. **MO náborový web Doarmady.mo.gov.cz – „Kolik si vydělám“** – oficiální kalkulačka platů od 1. 1. 2026, minimální příjem před zdaněním od 49 590 Kč; rozpis složek. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n6. **MO náborový web – „Výcvik ve Vyškově“** – popis KZP, plat během výcviku (minimální mzda) a jednorázový bonus 15 000 Kč po dokončení. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove))  \n7. **NATOaktual.cz (11. 6. 2025)** – tabulka služebních tarifů od 1. 7. 2025 a 1. 1. 2026, včetně řádku pro svobodníka (36 590 Kč od 1. 1. 2026). ([natoaktual.cz](https://www.natoaktual.cz/zpravy/vojaci-dostanou-pridano-nejmene-8378-korun.A250611_182845_na_zpravy_m00?utm_source=openai))  \n8. **Armádní noviny (1. 1. 2026)** – příklad výpočtu: svobodník má od ledna hrubý plat 43 590 Kč, příjem před zdaněním 49 590 Kč. ([armadninoviny.cz](https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html))  \n9. **Starší materiály MO a médií (2023–2025)** – potvrzují stabilizační příspěvek 7 000 Kč a strukturu platu (např. Týden.cz, Seznam Zprávy, TN.cz, Měšec.cz). ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai))  \n10. **Program hnutí ANO (Obrana) a jeho mediální reflexe** – politický slib nástupního platu 50 000 Kč pro vojáky po absolvování KZP od roku 2026. ([anobudelip.cz](https://www.anobudelip.cz/cs/bude-lip/nas-program/obranna-politika-a-armada?utm_source=openai))\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in iDNES.cz released on 2026-02-18 available from https://www.idnes.cz/zpravy/domaci/lubomir-metnar-zvysovani-platu-policie-zbranova-legislativa-bezpecnost-migranti.A260217_204844_domaci_krou?zdroj=otvirak.\\n\\n\\nThe claim was made by: Lubomír Metnar, Ministr vnitra\\n\\n\\nThe claim appears in the following immediate context in the source:\\nVláda chystá zpřísnění azylového zákona. Podle ministra vnitra Lubomíra Metnara (ANO) je problém zejména v chybějící digitalizaci agend, kvůli které stát v podstatě neví, kdo se v něm pohybuje. „Těžko se mi to říká, ale Česko nemá přehled o tom, kdo je na jeho území. Agendy nejsou digitalizované a je to velké bezpečnostní riziko,“ říká v rozhovoru pro iDNES.cz Metnar. Mluví i o platech policistů a hasičů či budoucnosti policejního prezidenta.\\nZačněme otázkou, která teď zajímá policisty, hasiče a další členy bezpečnostních sborů. V programovém prohlášení jim všem slibujete přidání, nástupní plat chcete zvednout hromadně na 50 tisíc korun. Kdy se tak podle vás stane?\\nNejdřív řeknu, proč to děláme. My tím hasíme chaos, který vytvořila minulá vláda, když jednostranně navýšila platy vojákům, a to poměrně skokově, a tím se rozevřely nůžky mezi nimi a příslušníky bezpečnostních sborů. Je to reálný problém a my potřebujeme, aby se ty nůžky přivřely a platově byla tato zaměstnání konkurenceschopná.\\nJak na to tedy půjdete?\\nNavýšení nástupních platů policistů a hasičů plánujeme v rámci celého volebního období, protože jsme proti tomu, aby docházelo ke skokovému navýšení, které by vytvářelo rozdíly a mohlo i ohrozit stabilitu rozpočtu. Těch 50 tisíc korun u nástupních platů není částka vycucaná z prstu, děláme to s ohledem na konkurenceschopnost i s přihlédnutím k situaci v zahraničí. V současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun. Celkově to máme spočítané tak, že po celé naše volební období budeme přidávat každý rok na platy bezpečnostních sborů 2,5 miliardy korun.\\nTakže platy porostou začínajícím policistům a hasičům postupně. Ale o kolik?\\nJen vysvětlím, ten rozdíl mezi aktuálním platem a tou naší avizovanou částkou je dnes zhruba 20 procent. Letos se přidalo pět procent, a když každý rok přidáme plus minus dalších pět procent, tak bychom měli za celé volební období smáznout ten rozdíl, aby se nástupním platem dostali na 50 tisíc. Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.\\nZatím se bavíme o platech nově příchozích. Dočkají se ale navýšení platů do budoucna plošně i ostatní policisté a hasiči, kteří ve sboru působí už řadu let?\\nNavyšování platů se musí propsat i do vyšších tříd všem policistům, protože nemůže dojít k situaci, aby měl nastupující policista vyšší plat než ten, který slouží třeba pět let. Takže to se propíše, ale bude to proporcionální. V současnosti je průměrný plat u policie 60 tisíc korun, což je zase na druhou stranu pěkný plat. Nejvíc ale potřebují přidat policisté v nízkých platových třídách, a úplně nejmíň naopak vysocí funkcionáři, u nich s nějakým enormním navýšením nepočítám.\\n\\nProvide a structured, citation-backed verification of the claim: '(...) 50 tisíc. Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 398.60 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Od 1. ledna 2026 skutečně platí nové, vyšší odměňování vojáků po základním výcviku. Oficiálně ale jejich minimální měsíční příjem před zdaněním činí 49 590 Kč, nikoliv garantovaných 50 tisíc. Výrok proto hodnotíme jako zavádějící.</p>\n\n<p>Výrok o „padesáti tisících“ zazněl v debatě o tom, zda se od roku 2026 naplnil politický slib, podle kterého budou mít vojáci z povolání po absolvování kurzu základní přípravy nástupní plat 50 tisíc korun. Tento slib výslovně obsahuje program hnutí ANO, který uvádí, že <i>„od roku 2026 budou mít vojáci z povolání po absolvování kurzu základní přípravy nástupní plat 50 tisíc korun“</i>, jak je popsáno v programu k obraně na webu hnutí ANO.</p>\n\n<p>Samotný výrok obsahuje dvě hlavní faktická tvrzení. První z nich říká, že od letošního roku, tedy od roku 2026, mají začínající vojáci po absolvování základního výcviku nové, vyšší platy. Druhé tvrzení tvrdí, že výše jejich měsíčního příjmu je 50 tisíc korun. Obě tato tvrzení jsme ověřovali zvlášť.</p>\n\n<p>Nejprve je potřeba vyjasnit, koho považovat za „začínajícího vojáka po absolvování základního výcviku“. Náborový web Armády ČR popisuje, že v kurzu základní přípravy ve Vyškově mají všichni noví rekruti hodnost vojína a pobírají nejnižší možný armádní plat odpovídající minimální mzdě. Po úspěšném dokončení kurzu dostanou jednorázový bonus 15 tisíc korun, ale skutečné služební tarify a příplatky jim náleží až po nástupu k útvaru jako profesionálním vojákům, typicky v hodnosti svobodníka či vyšší. Tento postup je vysvětlen na stránce o výcviku ve Vyškově a na stránce „Voják z povolání“ na náborovém webu Armády ČR.</p>\n\n<p>Při ověřování jsme tedy vycházeli z toho, že „začínající voják po absolvování základního výcviku“ znamená právě nového profesionálního vojáka po dokončení kurzu základní přípravy, který nastupuje k útvaru a začíná pobírat standardní služební tarif a příplatky podle platných tarifních tabulek.</p>\n\n<p>Pokud jde o časovou část výroku, vláda v roce 2025 schválila dvoufázové zvýšení platů vojáků z povolání. Podle tiskové zprávy vlády z června 2025 byly služební tarify v hodnostech od svobodníka po štábního praporčíka navýšeny o 7,5 % od 1. července 2025 a o dalších 7,5 % od 1. ledna 2026. Stejná tisková zpráva uvádí také zvýšení příspěvku na bydlení na 6 000 Kč měsíčně mimo Prahu a 7 000 Kč v Praze. Tato opatření byla následně zapracována do nařízení vlády o služebních tarifech vojáků z povolání.</p>\n\n<p>Tarifní tabulka účinná od 1. ledna 2026 je zveřejněna v konsolidovaném znění nařízení vlády o služebních tarifech vojáků. Podle ní činí služební tarif svobodníka od 1. ledna 2026 částku 36 590 Kč měsíčně. Jde o základní hrubý tarif bez započtení stabilizačního příplatku a příspěvku na bydlení.</p>\n\n<p>Další složky platu jsou popsány jednak v zákoně o vojácích z povolání, jednak v materiálech Ministerstva obrany. Vysvětlující článek Ministerstva obrany o novele zákona o vojácích z povolání uvádí, že vojákům náleží stabilizační příspěvek, který v základní výši činí 7 000 Kč měsíčně pro všechny vojáky, a také služební příspěvek na bydlení, jehož původní výše byla 3 000 Kč, později zvýšená. Na tuto strukturu příjmů navazuje i vládní rozhodnutí o navýšení příspěvku na bydlení na 6 000 Kč mimo Prahu a 7 000 Kč v Praze od roku 2026.</p>\n\n<p>Kritickým podkladem pro ověření samotné částky je oficiální platová kalkulačka na náborovém webu Armády ČR. Tato stránka výslovně uvádí, že zobrazené tarify a výpočty platí od 1. ledna 2026. V horní části kalkulačky stojí formulace, že minimální příjem vojáka před zdaněním po započtení základních příplatků a příspěvků, z nichž se část nedaní, činí <i>„od 49 590 Kč“</i>.</p>\n\n<p>Stejná stránka zároveň rozepisuje, z čeho se tento orientační minimální příjem skládá. Ukázkový „nejhorší“ scénář počítá se svobodníkem bez dětí, který nedojíždí a slouží mimo Prahu. V takovém případě oficiální kalkulačka uvádí služební tarif 36 590 Kč, k němu základní stabilizační příplatek 7 000 Kč, což dohromady tvoří hrubý plat 43 590 Kč. Po připočtení příspěvku na bydlení 6 000 Kč vychází minimální měsíční příjem před zdaněním právě na 49 590 Kč.</p>\n\n<p>Tato čísla nepřímo potvrzují také nezávislá média. Armádní noviny v článku k účinnosti nových tarifů od 1. ledna 2026 přebírají výpočet z platové kalkulačky a uvádějí, že svobodník bude mít od ledna 2026 hrubý plat 43 590 Kč a po započtení příspěvku na bydlení příjem před zdaněním 49 590 Kč. Článek zároveň připomíná existenci dalších příplatků a bonusů, které mohou příjem dále zvýšit.</p>\n\n<p>Dalším krokem v našem ověřování bylo porovnat tato oficiální čísla s politickým slibem „50 tisíc“. Program hnutí ANO pro oblast obrany, který analyzoval například Ekonomický deník, skutečně slibuje, že od roku 2026 budou mít vojáci z povolání po absolvování kurzu základní přípravy nástupní plat 50 tisíc korun. Tento programový dokument tak vysvětluje, odkud se v politické debatě vzalo právě číslo 50 000 Kč, které se pak v ověřovaném výroku objevuje jako údajná již dosažená realita.</p>\n\n<p>Nyní můžeme přejít k hodnocení jednotlivých dílčích tvrzení obsažených ve výroku. První dílčí tvrzení, že od letošního roku, tedy od roku 2026, mají začínající vojáci po absolvování základního výcviku nové, vyšší platy, je v souladu s dostupnými podklady. Legislativní změny služebních tarifů a navýšení příspěvku na bydlení začaly v plné míře platit od 1. ledna 2026, což potvrzují jak tisková zpráva vlády, tak znění nařízení vlády o služebních tarifech i aktualizace platové kalkulačky Armády ČR. V tomto časovém a věcném smyslu je tvrzení správné.</p>\n\n<p>Druhé dílčí tvrzení se týká samotné výše odměny, tedy že tito začínající vojáci „mají 50 tisíc“. Pokud bychom tuto část výroku četli úzce, tedy tak, že samotný služební tarif nebo hrubý plat bez příspěvku na bydlení dosahuje 50 000 Kč, je to v přímém rozporu s oficiální tarifní tabulkou. Jak už bylo uvedeno, služební tarif svobodníka činí od 1. ledna 2026 pouze 36 590 Kč, a ani po přičtení základního stabilizačního příplatku 7 000 Kč se hrubý plat bez bydlení na 50 000 Kč nedostane – dosahuje 43 590 Kč.</p>\n\n<p>V politické debatě se ale obvykle pracuje s širším pojetím „platu“, tedy jako s celkovým měsíčním příjmem před zdaněním včetně základních příspěvků, zejména příspěvku na bydlení. V tomto širším výkladu je rozhodující právě údaj oficiální platové kalkulačky, která pro nejnižší modelovou situaci uvádí minimální příjem 49 590 Kč. Ten je tedy o 410 Kč nižší než politicky slibovaných 50 000 Kč. Pro mnoho vojáků – například v Praze, kde je příspěvek na bydlení 7 000 Kč, nebo pro ty s dětmi či delším dojížděním – se přitom reálný měsíční příjem dostává přes hranici 50 000 Kč už dnes. V Praze má i „minimální“ svobodník při stejné konstrukci platu celkový příjem 50 590 Kč před zdaněním.</p>\n\n<p>Z tohoto pohledu je zřejmé, že politicky deklarovaná částka 50 000 Kč odpovídá spíše zaokrouhlenému cíli a mediálně srozumitelnému sloganu než přesné oficiální minimální částce, kterou uvádí armádní náborové materiály. Minimální garantovaný příjem po nástupu k útvaru je mírně nižší (49 590 Kč), přestože v řadě běžných situací noví vojáci skutečně berou 50 000 Kč a více.</p>\n\n<p>Celkově tedy časová část výroku a identifikace skupiny vojáků odpovídají realitě – od 1. ledna 2026 se nové, vyšší odměňování skutečně týká právě vojáků po absolvování základní přípravy. Číselná část výroku ale vytváří obraz, že všichni začínající vojáci mají již dnes garantovaný nástupní příjem 50 tisíc korun, zatímco oficiální minimální částka je o něco nižší a hodnota 50 000 Kč je spíše politicky formulovaným cílem, ke kterému se praxe velmi těsně blíží a který mnoho vojáků překračuje, ale není přesně nastaven v předpisech ani v oficiální kalkulačce.</p>\n\n<p>Na základě těchto zjištění uzavíráme, že výrok zkresluje přesnou výši minimálního nástupního příjmu, i když popisuje správně jeho přibližnou úroveň a časové zasazení. Výrok proto hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_046c60a88f107c14006998936df3e481a0b7d6a636122a86d9",
+    "created_at": 1771606893.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_046c60a88f107c1400699893779da881a0857bc2795bb06a21",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c140069989386466481a0930ccab98937aac8",
+        "action": {
+          "query": "\"nástupní plat\" profesionálního vojáka 50 000",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nástupní plat\" profesionálního vojáka 50 000",
+            "\"základní výcvik\" \"50 000\" voják",
+            "\"nástupní plat\" profesionální vojak od 1.1.2026",
+            "tarifní tabulky platů vojáků z povolání 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c14006998938a38ec81a0a1090cc88c9f2cd2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c14006998938e087881a08c5bc678a3f18952",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c14006998938f21d881a0a6dde00dd8e662ed",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c14006998939c152c81a0aa43557a224b48ef",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c14006998939cc4c481a0b77c90db732bb27b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c1400699893b6926481a09512bfad82f1fabc",
+        "action": {
+          "query": "\"Spočítejte si příjem: Minimum 49 590 Kč po nástupu k útvaru\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Spočítejte si příjem: Minimum 49 590 Kč po nástupu k útvaru\"",
+            "\"sluzebni tarify vojaku\" \"1. ledna 2026\"",
+            "nařízení vlády služební tarify vojáků z povolání 2025 2026",
+            "\"minimum 49 590\" \"vojak\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c1400699893ba331c81a0b60712bb38260ac9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c1400699893bdb3a881a0b4f1f4fbccc1e326",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c1400699893be8c1481a098ae4f0227410614",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c1400699893c5101c81a0b8e0f9b39bcd7a76",
+        "action": {
+          "query": "\"minimum 47 200\" \"po nástupu k útvaru\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"minimum 47 200\" \"po nástupu k útvaru\"",
+            "\"Minimum 49 590 Kč po nástupu k útvaru\" \"armády\"",
+            "\"po nástupu k útvaru\" \"49 590\"",
+            "\"po absolvování základního výcviku\" \"49 590\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c1400699893c863e881a09456a846f4cf1f76",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c1400699893ce2b9081a0a2ca3bb4ee20e8e9",
+        "action": {
+          "query": "\"Vojáci si polepší v součtu o nejméně 8 378 Kč\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Vojáci si polepší v součtu o nejméně 8 378 Kč\"",
+            "\"minimum 47 200 Kč po nástupu k útvaru\"",
+            "\"najméně 8 378\" vojak",
+            "\"po nástupu k útvaru\" \"minimum\" vojak"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c1400699893d65a1881a099f4c5348feefcaa",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c1400699893db293c81a090d70edb885ac516",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c1400699893dd3d4481a09f80ec592535bc1a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c1400699893ef288481a089c57c1e54a3bb5d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c1400699893f1f21881a0bc6fe915b3eae1f2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c140069989402a6a881a0907ab7456dba4a27",
+        "action": {
+          "query": "\"stabilizační příplatek\" 7 000 vojak",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"stabilizační příplatek\" 7 000 vojak",
+            "\"stabilizační příplatek\" \"36 590\"",
+            "\"Spočítejte si příjem: Minimum 47 200 Kč po nástupu k útvaru\"",
+            "\"minimum 47 200 Kč\" \"Do armády\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c140069989408891881a0b5fb19f6e39bda2f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c14006998941df10881a0ab17635882354afb",
+        "action": {
+          "query": "\"minimum 49 590\" \"vojak\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"minimum 49 590\" \"vojak\"",
+            "\"nástupní plat\" \"začínající vojak\" \"50 000\"",
+            "\"začínající vojak\" \"50 tisíc\"",
+            "\"po nástupu k útvaru\" \"49 590\" \"armada\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c140069989421353081a0bc685893aea9345a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c140069989431f9e081a080eeedb057eb0e87",
+        "action": {
+          "query": "\"minimální hrubý měsíční plat vojak\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"minimální hrubý měsíční plat vojak\"",
+            "\"minimální hrubý plat\" \"vojak\"",
+            "\"podle náborového webu armády\" \"38 810\"",
+            "\"minimum 47 200 kč\" \"vojak\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c14006998943644b881a0b82ba16885e4ade6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c14006998944588e881a099ef32247933d229",
+        "action": {
+          "query": "\"nástupní plat\" \"profesionální vojak\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nástupní plat\" \"profesionální vojak\"",
+            "\"začínající voják\" \"kolik si vydělá\"",
+            "\"kolik si v armádě vydělám\" 47 200",
+            "\"minimum 47 200\" \"po nástupu k útvaru\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c1400699894491eec81a0ad43cc579229e2bf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c140069989450073c81a0a242321e0e9ff6ca",
+        "action": {
+          "query": "\"nástupní plat 50\" \"vojáci z povolání\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nástupní plat 50\" \"vojáci z povolání\"",
+            "\"50 tisíc\" \"po absolvování kurzu základní přípravy\"",
+            "\"po absolvování kurzu základní přípravy\" \"nástupní plat\"",
+            "\"nástupní plat 50 tysick\" \"armáda\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c140069989456059881a0a23fc24157f443da",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_046c60a88f107c14006998945b1b8c81a0a0785d720c67524e",
+        "action": {
+          "query": "\"od 1. ledna 2026\" \"služební tarify vojáků\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"od 1. ledna 2026\" \"služební tarify vojáků\"",
+            "\"sluzebni tarif\" \"36 590\" \"svobodnik\"",
+            "\"nařízení vlády\" \"služebních tarifech\" vojáků 2025 2026",
+            "\"Vojákům se od července zvýší platy\" \"od 1. ledna 2026\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_046c60a88f107c140069989461664c81a0b2f951e32e4d0375",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_046c60a88f107c140069989493ff2c81a0b5738b98dc375735",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1285,
+                "start_index": 1183,
+                "title": "Váš začátek v armádě: výcvik ve Vyškově | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove"
+              },
+              {
+                "end_index": 1611,
+                "start_index": 1509,
+                "title": "Váš začátek v armádě: výcvik ve Vyškově | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove"
+              },
+              {
+                "end_index": 1960,
+                "start_index": 1880,
+                "title": "Voják z povolání – příklady pozic v armádě | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/koho-hledame/vojak-z-povolani"
+              },
+              {
+                "end_index": 2538,
+                "start_index": 2431,
+                "title": "Zákon o vojácích z povolání - HLAVA I - SLUŽEBNÍ PLAT - Podnikatel.cz",
+                "type": "url_citation",
+                "url": "https://www.podnikatel.cz/zakony/zakon-o-vojacich-z-povolani/f1966606/?utm_source=openai"
+              },
+              {
+                "end_index": 2944,
+                "start_index": 2771,
+                "title": "Novela zákona o vojácích z povolání přináší pro všechny stejná pravidla | Ministerstvo obrany",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai"
+              },
+              {
+                "end_index": 3217,
+                "start_index": 3044,
+                "title": "Novela zákona o vojácích z povolání přináší pro všechny stejná pravidla | Ministerstvo obrany",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai"
+              },
+              {
+                "end_index": 3837,
+                "start_index": 3614,
+                "title": "Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání a zabývala se budoucností jaderné energetiky v Česku | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai"
+              },
+              {
+                "end_index": 4054,
+                "start_index": 3966,
+                "title": "Zákony pro lidi | Monitor změn",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/8078789.htm?utm_source=openai"
+              },
+              {
+                "end_index": 4378,
+                "start_index": 4306,
+                "title": "§ 2, 59/2015 Sb. - Nařízení vlády o služebních tarifech a o zvláštním příplatku pro vojáky z povolání",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/2015/59/par_2?utm_source=openai"
+              },
+              {
+                "end_index": 4605,
+                "start_index": 4533,
+                "title": "§ 2, 59/2015 Sb. - Nařízení vlády o služebních tarifech a o zvláštním příplatku pro vojáky z povolání",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/2015/59/par_2?utm_source=openai"
+              },
+              {
+                "end_index": 5263,
+                "start_index": 5040,
+                "title": "Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání a zabývala se budoucností jaderné energetiky v Česku | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai"
+              },
+              {
+                "end_index": 5602,
+                "start_index": 5429,
+                "title": "Novela zákona o vojácích z povolání přináší pro všechny stejná pravidla | Ministerstvo obrany",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai"
+              },
+              {
+                "end_index": 6036,
+                "start_index": 5904,
+                "title": "Černochová chce zvýšit platy vojákům, Rakušan policistům | Newstream",
+                "type": "url_citation",
+                "url": "https://www.newstream.cz/politika/cernochova-chce-vyssi-platy-pro-vojaky-a-rakusan-pro-policisty?utm_source=openai"
+              },
+              {
+                "end_index": 6523,
+                "start_index": 6391,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 6810,
+                "start_index": 6678,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 7075,
+                "start_index": 6943,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 7677,
+                "start_index": 7545,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 7861,
+                "start_index": 7789,
+                "title": "§ 2, 59/2015 Sb. - Nařízení vlády o služebních tarifech a o zvláštním příplatku pro vojáky z povolání",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/2015/59/par_2?utm_source=openai"
+              },
+              {
+                "end_index": 8278,
+                "start_index": 8168,
+                "title": "Platy policistů, hasičů nebo vojáků ode dneška vzrostou | Armádní noviny",
+                "type": "url_citation",
+                "url": "https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html"
+              },
+              {
+                "end_index": 8628,
+                "start_index": 8518,
+                "title": "Platy policistů, hasičů nebo vojáků ode dneška vzrostou | Armádní noviny",
+                "type": "url_citation",
+                "url": "https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html"
+              },
+              {
+                "end_index": 9020,
+                "start_index": 8843,
+                "title": "Ministryně obrany Černochová chce v některých regionech navýšit stabilizační příspěvky pro vojáky | Týden.cz",
+                "type": "url_citation",
+                "url": "https://www.tyden.cz/rubriky/domaci/ministryne-obrany-cernochova-chce-v-nekterych-regionech-navysit-stabilizacni-prispevky-pro-vojaky_566211.html?utm_source=openai"
+              },
+              {
+                "end_index": 9563,
+                "start_index": 9451,
+                "title": "Obrana | ANO, bude líp",
+                "type": "url_citation",
+                "url": "https://www.anobudelip.cz/cs/bude-lip/nas-program/obranna-politika-a-armada?utm_source=openai"
+              },
+              {
+                "end_index": 9864,
+                "start_index": 9735,
+                "title": "Nástupní platy 50 tisíc? Politici slibují pro bezpečnost Česka hodně - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/proti-migraci-nastupni-platy-50-tisic-sliby-politiku-obrana/?utm_source=openai"
+              },
+              {
+                "end_index": 10145,
+                "start_index": 10066,
+                "title": "Metnar: Vznikající vláda se shoduje na růstu financí na obranu i náboru vojáků | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2737064?utm_source=openai"
+              },
+              {
+                "end_index": 10813,
+                "start_index": 10590,
+                "title": "Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání a zabývala se budoucností jaderné energetiky v Česku | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai"
+              },
+              {
+                "end_index": 11058,
+                "start_index": 10926,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 11588,
+                "start_index": 11486,
+                "title": "Váš začátek v armádě: výcvik ve Vyškově | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove"
+              },
+              {
+                "end_index": 11884,
+                "start_index": 11782,
+                "title": "Váš začátek v armádě: výcvik ve Vyškově | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove"
+              },
+              {
+                "end_index": 12202,
+                "start_index": 12070,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 12819,
+                "start_index": 12747,
+                "title": "§ 2, 59/2015 Sb. - Nařízení vlády o služebních tarifech a o zvláštním příplatku pro vojáky z povolání",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/2015/59/par_2?utm_source=openai"
+              },
+              {
+                "end_index": 13042,
+                "start_index": 12910,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 13855,
+                "start_index": 13723,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 14277,
+                "start_index": 14054,
+                "title": "Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání a zabývala se budoucností jaderné energetiky v Česku | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai"
+              },
+              {
+                "end_index": 14478,
+                "start_index": 14427,
+                "title": "Otázky a odpovědi k navýšení platů vojáků z povolání | Ministerstvo obrany\n",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/-258646/"
+              },
+              {
+                "end_index": 14936,
+                "start_index": 14804,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 15635,
+                "start_index": 15563,
+                "title": "§ 2, 59/2015 Sb. - Nařízení vlády o služebních tarifech a o zvláštním příplatku pro vojáky z povolání",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/2015/59/par_2?utm_source=openai"
+              },
+              {
+                "end_index": 15927,
+                "start_index": 15754,
+                "title": "Novela zákona o vojácích z povolání přináší pro všechny stejná pravidla | Ministerstvo obrany",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai"
+              },
+              {
+                "end_index": 16287,
+                "start_index": 16155,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 16577,
+                "start_index": 16467,
+                "title": "Platy policistů, hasičů nebo vojáků ode dneška vzrostou | Armádní noviny",
+                "type": "url_citation",
+                "url": "https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html"
+              },
+              {
+                "end_index": 16851,
+                "start_index": 16739,
+                "title": "Obrana | ANO, bude líp",
+                "type": "url_citation",
+                "url": "https://www.anobudelip.cz/cs/bude-lip/nas-program/obranna-politika-a-armada?utm_source=openai"
+              },
+              {
+                "end_index": 17369,
+                "start_index": 17146,
+                "title": "Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání a zabývala se budoucností jaderné energetiky v Česku | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai"
+              },
+              {
+                "end_index": 17994,
+                "start_index": 17862,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 18767,
+                "start_index": 18695,
+                "title": "§ 2, 59/2015 Sb. - Nařízení vlády o služebních tarifech a o zvláštním příplatku pro vojáky z povolání",
+                "type": "url_citation",
+                "url": "https://krajta.slv.cz/2015/59/par_2?utm_source=openai"
+              },
+              {
+                "end_index": 19093,
+                "start_index": 18870,
+                "title": "Vláda rozhodla o zvýšení platů a dalších benefitů vojáků z povolání a zabývala se budoucností jaderné energetiky v Česku | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai"
+              },
+              {
+                "end_index": 19287,
+                "start_index": 19236,
+                "title": "Otázky a odpovědi k navýšení platů vojáků z povolání | Ministerstvo obrany\n",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/-258646/"
+              },
+              {
+                "end_index": 19578,
+                "start_index": 19422,
+                "title": "Reakce na nejčastější tvrzení o obraně na jednom místě | Ministerstvo obrany",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/na-pravou-miru/reakce-na-nejcastejsi-tvrzeni-o-obrane-na-jednom-miste-257233/?utm_source=openai"
+              },
+              {
+                "end_index": 19880,
+                "start_index": 19748,
+                "title": "Kolik si vydělám | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai"
+              },
+              {
+                "end_index": 20123,
+                "start_index": 20021,
+                "title": "Váš začátek v armádě: výcvik ve Vyškově | Do armády",
+                "type": "url_citation",
+                "url": "https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove"
+              },
+              {
+                "end_index": 20413,
+                "start_index": 20272,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.natoaktual.cz/zpravy/vojaci-dostanou-pridano-nejmene-8378-korun.A250611_182845_na_zpravy_m00?utm_source=openai"
+              },
+              {
+                "end_index": 20656,
+                "start_index": 20546,
+                "title": "Platy policistů, hasičů nebo vojáků ode dneška vzrostou | Armádní noviny",
+                "type": "url_citation",
+                "url": "https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html"
+              },
+              {
+                "end_index": 20991,
+                "start_index": 20818,
+                "title": "Novela zákona o vojácích z povolání přináší pro všechny stejná pravidla | Ministerstvo obrany",
+                "type": "url_citation",
+                "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai"
+              },
+              {
+                "end_index": 21253,
+                "start_index": 21141,
+                "title": "Obrana | ANO, bude líp",
+                "type": "url_citation",
+                "url": "https://www.anobudelip.cz/cs/bude-lip/nas-program/obranna-politika-a-armada?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Identifikace a interpretace výroku\n\nSporný výrok (18. 2. 2026):\n\n> „Těch 50 tisíc… Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.“\n\nNejpravděpodobnější význam:\n\n- **Od roku 2026** mají **nově nastupující profesionální vojáci po absolvování kurzu základní přípravy (KZP)** měsíční „nástupní plat“ (resp. měsíční příjem před zdaněním) **ve výši 50 000 Kč**.\n\nMožné výklady:\n\n1. **Úzký výklad:** 50 000 Kč = **služební tarif / hrubý plat bez příspěvku na bydlení**.  \n2. **Širší výklad:** 50 000 Kč = **celkový měsíční příjem před zdaněním** po nástupu k útvaru, tj. služební tarif + stabilizační příplatek + příspěvek na bydlení (příp. další základní složky), tak jak to dlouhodobě prezentuje Ministerstvo obrany a média.\n\nNíže jsou ověřeny oba výklady.\n\n---\n\n## 2. Kontext: kdo je „začínající voják“ a jak se plat skládá\n\n### 2.1 „Začínající voják po absolvování základního výcviku“\n\nNáborový web Armády ČR popisuje:\n\n- V **kurzu základní přípravy ve Vyškově** mají všichni nováčci hodnost vojína a pobírají **nejnižší možný armádní plat odpovídající minimální mzdě**. Po úspěšném dokončení kurzu získají **bonus 15 000 Kč**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove))  \n  > „…nosí stejnou černou výložku s hodností vojína… pobírají nejnižší možný armádní plat odpovídající vládou stanovené výši minimální mzdy. Pakliže základní výcvik zdárně dokončí, dostanou k platu bonus 15 tisíc korun.“ ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove))  \n\n- Po skončení KZP nováček **nastupuje k útvaru jako profesionální voják** (typicky v nejnižších hodnostech, prakticky „svobodník“ a výše) – zde už se uplatní standardní tarif a příplatky. To koresponduje s textem „po nástupu k útvaru“ na náborovém webu (viz dále). ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vojak-z-povolani))  \n\nPro ověřovaný výrok tedy „začínající voják po absolvování základního výcviku“ = **čerstvý profesionální voják po KZP, nastupující k útvaru**.\n\n### 2.2 Jak se skládá plat profesionálního vojáka\n\nZákon č. 221/1999 Sb., o vojácích z povolání, a prováděcí nařízení stanoví, že **služební plat** tvoří zejména: služební tarif, výkonnostní příplatek, příplatek za službu v zahraničí, zvláštní příplatek, příplatek za zvýšenou odpovědnost, příplatek za pohotovost a odměny. ([podnikatel.cz](https://www.podnikatel.cz/zakony/zakon-o-vojacich-z-povolani/f1966606/?utm_source=openai))  \n\nStarší, ale stále relevantní vysvětlení Ministerstva obrany k systému profesních příplatků uvádí i **stabilizační příspěvek a služební příspěvek na bydlení**:\n\n- „Stabilizační příspěvek ve výši **7 000 Kč náleží všem vojákům**…“ ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai))  \n- „Služební příspěvek na bydlení činí 3 000 Kč měsíčně…“ (původní výše před pozdějším zvýšením). ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai))  \n\nV roce 2025 vláda Petra Fialy schválila výrazné zvýšení **tarifů i příspěvku na bydlení**, s účinností od 1. 7. 2025 a 1. 1. 2026:\n\n- Tisková zpráva vlády: pro hodnosti **svobodník–štábní praporčík tarify +7,5 % od 1. 7. 2025 a +7,5 % od 1. 1. 2026; pro vyšší hodnosti +5 % a +5 %**. Zároveň se **příspěvek na bydlení** zvyšuje pro vojáky v Praze na **7 000 Kč** a mimo Prahu na **6 000 Kč**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n\nTyto změny byly provedeny nařízením vlády č. 211/2025 Sb., které novelizovalo nařízení č. 59/2015 Sb. o služebních tarifech. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8078789.htm?utm_source=openai))  \n\n---\n\n## 3. Skutečná výše nástupního příjmu po 1. 1. 2026\n\n### 3.1 Oficiální tarifní tabulky od 1. 1. 2026\n\nAktuální znění § 2 nařízení vlády č. 59/2015 Sb. (ve znění po novele 211/2025 Sb.), účinné **od 1. 1. 2026**, stanoví služební tarify takto: ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n\n- **Svobodník**: 36 590 Kč / měsíc  \n- **Desátník**: 38 400 Kč  \n- **Četař**: 40 400 Kč  \n- … (dále vyšší hodnosti; pro úplnost viz tabulka v zákoně). ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n\nTyto částky jsou **čistý tarif (hrubý plat bez příspěvků)**.\n\n### 3.2 Stabilizační příspěvek a příspěvek na bydlení po reformě 2025/2026\n\nZ vládního a ministerského materiálu vyplývá:\n\n- Od července 2025/v návaznosti na novelu zákona o vojácích z povolání jsou:  \n  - **platové tarify** v nižších hodnostech (svobodník–štábní praporčík) navýšeny celkově o 15 %,  \n  - **příspěvek na bydlení minimálně 6 000 Kč, v Praze 7 000 Kč**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n- Z vyjádření MO a médií plyne, že **stabilizační příspěvek v základní výši 7 000 Kč měsíčně** zůstává pro všechny vojáky zachován (vyšší pro vybrané odbornosti). ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai))  \n\nNapříklad článek Newstream/Ekonomický deník (9. 4. 2025) shrnuje:  \n\n> „Podle platové kalkulačky na náborovém webu armády je nyní **minimální hrubý měsíční plat vojáka 38 810 korun**. Kromě něj vojáci dostávají také **stabilizační příspěvek ve výši minimálně 7 000 korun a příspěvek na bydlení**.“ ([newstream.cz](https://www.newstream.cz/politika/cernochova-chce-vyssi-platy-pro-vojaky-a-rakusan-pro-policisty?utm_source=openai))  \n\nTyto částky se pak zvyšují právě o popsané procento a nové bydlení od 7/2025 a 1/2026.\n\n### 3.3 Náborový web Armády ČR – kalkulačka platů od 1. 1. 2026\n\nNejdůležitější pro ověřovaný výrok je **oficiální náborový web Armády ČR – Doarmady.mo.gov.cz**, sekce „Kolik si vydělám“:\n\n- Stránka výslovně uvádí, že **zobrazené tarify platí od 1. ledna 2026**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n- Hlavní sdělení:  \n\n  > „Váš minimální příjem před zdaněním (po započtení základních příplatků a příspěvků, z nichž se část nedaní) **od 49 590 Kč**.“ ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n- Stránka zároveň rozepisuje, „z čeho se váš plat skládá“ – **ukázkový minimální scénář** (bez dětí, bez dojíždění, mimo Prahu): ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n  | Složka               | Částka (Kč/měsíc) |\n  |----------------------|-------------------|\n  | Služební tarif       | 36 590            |\n  | Stabilizační příplatek | 7 000           |\n  | **Celkem hrubý plat** | **43 590**       |\n  | Příspěvek na bydlení | 6 000             |\n  | **Minimální příjem před zdaněním** | **49 590** |\n\n  Text dále upozorňuje, že jde o **minimální orientační příjem**, který se zvyšuje podle dětí, dojíždění, dalších příplatků atd. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\nTento scénář **odpovídá novému služebnímu tarifu svobodníka od 1. 1. 2026 (36 590 Kč)** dle nařízení vlády. ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n\n> Tj. pro „nejhorší“ běžný případ (svobodník po KZP, bez dětí, nedojíždí, mimo Prahu) je **minimální měsíční příjem před zdaněním 49 590 Kč**, nikoli 50 000 Kč.\n\n### 3.4 Shodná čísla v médiích (nezávislé potvrzení)\n\nČlánek Armádních novin z 1. 1. 2026, využívající platovou kalkulačku Armády ČR, uvádí: ([armadninoviny.cz](https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html))  \n\n> „Podle platové kalkulačky pro vojáky bude od ledna **hrubý plat svobodníka… 43 590 korun**. Po započtení příspěvku na bydlení bude **příjem před zdaněním činit 49 590 korun**, k tomu armáda nabízí další speciální příplatky a bonusy.“ ([armadninoviny.cz](https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html))  \n\nDalší média předtím opakovaně cituji náborový web Armády ČR s „minimálním hrubým měsíčním platem“ (před navýšením na rok 2026 ještě 37 310–38 810 Kč + 7 000 stabilizační příspěvek + 3 000 příspěvek na bydlení). ([tyden.cz](https://www.tyden.cz/rubriky/domaci/ministryne-obrany-cernochova-chce-v-nekterych-regionech-navysit-stabilizacni-prispevky-pro-vojaky_566211.html?utm_source=openai))  \n\nTato nezávislá média tak **potvrzují validitu čísel, která nyní (od 1. 1. 2026) vedou k minimálnímu příjmu 49 590 Kč**.\n\n---\n\n## 4. Politický kontext: slib „50 tisíc“ pro vojáky\n\nJe užitečné doložit, odkud částka **50 000 Kč** pochází:\n\n- Program hnutí ANO k obraně (před volbami 2025) výslovně slibuje:  \n\n  > „Od roku 2026 budou mít vojáci z povolání po absolvování kurzu základní přípravy **nástupní plat 50 tisíc korun**.“ ([anobudelip.cz](https://www.anobudelip.cz/cs/bude-lip/nas-program/obranna-politika-a-armada?utm_source=openai))  \n\n- Ekonomický deník tento slib shrnuje:  \n\n  > „Od roku 2026 budou mít podle ANO vojáci z povolání po absolvování kurzu základní přípravy nástupní plat 50 tisíc korun.“ ([ekonomickydenik.cz](https://ekonomickydenik.cz/proti-migraci-nastupni-platy-50-tisic-sliby-politiku-obrana/?utm_source=openai))  \n\n- ČTK v článku o koaličních jednáních nové vlády ANO–SPD–Motoristé připomíná, že ANO slíbilo „od příštího roku nástupní plat 50 000 korun vojákům z povolání po absolvování kurzu základní přípravy“. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2737064?utm_source=openai))  \n\nČíslo 50 000 Kč je tedy **primárně politický cíl/volební slib**, který má být naplněn **od roku 2026**.\n\n---\n\n## 5. Rozklad výroku na dílčí tvrzení a jejich ověření\n\n### 5.1 Tvrzení A: „Od letošního roku“ (tj. 2026)\n\n- Na základě nařízení vlády č. 211/2025 Sb. a jeho provedení v nařízení č. 59/2015 Sb. je doloženo, že **nové tarify vojáků** (včetně svobodníka) i **zvýšený příspěvek na bydlení** (6 000 / 7 000 Kč) **platí k 1. 1. 2026**. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n- Náborový web Armády ČR výslovně uvádí, že **služební tarif a vypočtený čistý plat platí od 1. ledna 2026**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n**Dílčí závěr A:** Časové tvrzení „od letošního roku (2026)“ je v souladu s legislativou a oficiálními materiály – nové tarify a příspěvky opravdu platí od 1. 1. 2026.\n\n---\n\n### 5.2 Tvrzení B: „začínající vojáci po absolvování základního výcviku“ = příslušníci se standardním nástupním platem dle kalkulačky\n\n- Během základního výcviku mají nováčci hodnost vojína a plat na úrovni **minimální mzdy**, nikoli kolem 50 tisíc. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove))  \n- Po úspěšném absolvování KZP (cca 6 týdnů) se stávají profesionálními vojáky a nastupují k útvaru – právě zde se na ně vztahují **tarifní tabulky (svobodník a výše) a náborová kalkulačka**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove))  \n- Náborová kalkulačka i mediální příklady pro rok 2026 používají pro minimální scénář **tarif svobodníka** a k němu 7 000 Kč stabilizačního příplatku a 6 000 Kč příspěvku na bydlení. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n**Dílčí závěr B:** Je rozumné a dobře podložené interpretovat „začínající voják po absolvování základního výcviku“ jako voják v hodnosti **svobodník (nebo vyšší)** po nástupu k útvaru, na něhož se vztahuje minimální příjem 49 590 Kč podle oficiální kalkulačky.\n\n---\n\n### 5.3 Tvrzení C (úzký výklad): „mají 50 000 Kč“ jako služební tarif / hrubý plat bez bydlení\n\nPorovnáme‑li číslo 50 000 Kč s **čistým služebním tarifem** nebo **hrubým platem bez příspěvku na bydlení**, dostaneme:\n\n- **Svobodník** od 1. 1. 2026: služební tarif 36 590 Kč. ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n- Hrubý plat „tarif + základní stabilizační příplatek“: 36 590 + 7 000 = **43 590 Kč**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\nV obou případech je to **výrazně méně než 50 000 Kč**.\n\n**Dílčí závěr C:** Pokud by výrok byl chápán tak, že **samotný služební tarif nebo hrubý plat bez příspěvku na bydlení** činí 50 000 Kč, je to **v rozporu s platnou tarifní tabulkou**. V tomto „úzkém“ smyslu je výrok **nesprávný**.\n\n---\n\n### 5.4 Tvrzení D (širší výklad): „mají 50 000 Kč“ jako celkový měsíční příjem před zdaněním (tarif + stabilizační + bydlení)\n\nPorovnáme‑li 50 000 Kč s **celkovým minimálním příjmem před zdaněním** podle oficiální kalkulačky:\n\n- Minimální scénář (svobodník, bez dětí, mimo Prahu, bez dojíždění):  \n  - tarif 36 590 + stabilizační 7 000 + bydlení 6 000 = **49 590 Kč před zdaněním**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n- V Praze (příspěvek na bydlení 7 000 Kč) by už stejný voják měl:  \n  - 36 590 + 7 000 + 7 000 = **50 590 Kč** před zdaněním. (Příspěvek 7 000 Kč pro Prahu potvrzuje vláda ve své tiskové zprávě.) ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n- Vojáci s dětmi nebo delším dojížděním mají díky zvýšenému příspěvku na bydlení a náhradě jízdních výdajů **ještě vyšší „příjem před zdaněním“**. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/-258646/))  \n\nZ toho plyne:\n\n- **Minimální garantovaný příjem** po nástupu k útvaru je **49 590 Kč**, tj. **o 410 Kč méně než 50 000 Kč**.  \n- Řadě začínajících vojáků (např. v Praze, s dětmi, s dojížděním, ve specifických posádkách nebo s vyšší počáteční hodností než svobodník) **reálný měsíční příjem hranici 50 000 Kč překračuje**. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n**Dílčí závěr D:** V širokém výkladu („příjem před zdaněním včetně příspěvku na bydlení a základních příplatků“) je **reálný minimální příjem těsně pod 50 000 Kč** (49 590 Kč), ale **mnoho začínajících vojáků se nad 50 000 Kč dostává**. Částka 50 000 Kč tak **odpovídá politickému cíli a je velmi blízká skutečným minimálním hodnotám**, ale **není přesnou oficiální minimální částkou**.\n\n---\n\n## 6. Celková syntéza pro fact‑checking\n\n### Co je doloženo oficiálními zdroji\n\n1. **Od 1. 1. 2026** platí nové, vyšší služební tarify pro vojáky z povolání (svobodník 36 590 Kč) a zvýšený příspěvek na bydlení (6 000 / 7 000 Kč). ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n2. **Stabilizační příspěvek** v základní výši 7 000 Kč náleží všem vojákům, vyšší částky pro specifické odbornosti. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai))  \n3. Náborový web Armády ČR (oficiální MO) pro období od 1. 1. 2026 uvádí, že **„minimální příjem před zdaněním“ po nástupu k útvaru je „od 49 590 Kč“**, s ukázkovým rozpisem: tarif 36 590 + stabilizační 7 000 + bydlení 6 000. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n4. Mediální zdroje (Armádní noviny) tento údaj přebírají a potvrzují: **svobodník má od ledna 2026 hrubý plat 43 590 Kč a příjem před zdaněním po započtení bydlení 49 590 Kč**. ([armadninoviny.cz](https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html))  \n5. Program hnutí ANO i analýzy médií doložitelně pracují s politickým cílem, že **od roku 2026 má být „nástupní plat vojáka po základní přípravě 50 000 Kč“**. ([anobudelip.cz](https://www.anobudelip.cz/cs/bude-lip/nas-program/obranna-politika-a-armada?utm_source=openai))  \n\n### Jak to dopadá na ověřovaný výrok\n\n- **Časová část („od letošního roku“) a popis cílové skupiny (noví vojáci po základní přípravě)** odpovídají realitě – zvýšení tarifů a příspěvků skutečně vstoupilo v platnost od **1. 1. 2026** a týká se právě nově nastupujících profesionálních vojáků. ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n- **Číselná část („mají 50 000 Kč“) však naráží na to, že:**\n  - **oficiálně deklarovaný minimální příjem** je **49 590 Kč**, nikoli 50 000 Kč,  \n  - částka 50 000 Kč je **politickým cílem/prográmovým číslem**, nikoli doslovně uvedeným parametrem ve vládním nařízení nebo na náborovém webu,  \n  - v praxi se ovšem **značná část začínajících vojáků** (Praha, děti, dojíždění, vyšší nástupní hodnost) **nad 50 000 Kč před zdaněním dostává**, zatímco absolutní minimum zůstává o 410 Kč nižší. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n\n### Shrnutí pro fact‑checkera\n\n- **Striktně vzato** (podle oficiálních čísel):  \n  - „Začínající vojáci po absolvování základního výcviku“ **nemají garantovaný nástupní měsíční příjem přesně 50 000 Kč**, ale minimálně **49 590 Kč před zdaněním**.  \n- **V aproximovaném / politickém jazyce:**  \n  - Výrok odpovídá tomu, že **politicky slíbených „50 tisíc“ se nástupní příjem velmi těsně přibližuje a v mnoha reálných situacích ho přesahuje**, avšak **formálně se oficiální minimální údaj uvádí o něco níže (49 590 Kč)**.\n\n---\n\n## 7. Přehled klíčových zdrojů\n\n1. **Nařízení vlády č. 59/2015 Sb. (ve znění č. 211/2025 Sb.) – tarifní tabulka od 1. 1. 2026** – služební tarif svobodníka 36 590 Kč atd. ([krajta.slv.cz](https://krajta.slv.cz/2015/59/par_2?utm_source=openai))  \n2. **Tisková zpráva vlády 11. 6. 2025** – zvýšení tarifů a příspěvku na bydlení (6 000 / 7 000 Kč). ([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/revize-1-en-vlada-rozhodla-o-zvyseni-platu-a-dalsich-benefitu-vojaku-z-povolani-a-zabyvala-se-budoucnosti-jaderne-energetiky-v-cesku-220184/?utm_source=openai))  \n3. **MO ČR – „Otázky a odpovědi k navýšení platů vojáků z povolání“ (4. 6. 2025)** – podrobný popis dvoufázového zvýšení platů a příspěvků. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/-258646/))  \n4. **MO ČR – „Reakce na nejčastější tvrzení o obraně“** – rekapitulace zvýšení tarifů od 1. 1. 2025 a navazujícího balíku opatření. ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/na-pravou-miru/reakce-na-nejcastejsi-tvrzeni-o-obrane-na-jednom-miste-257233/?utm_source=openai))  \n5. **MO náborový web Doarmady.mo.gov.cz – „Kolik si vydělám“** – oficiální kalkulačka platů od 1. 1. 2026, minimální příjem před zdaněním od 49 590 Kč; rozpis složek. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/o-armade/uplatneni-v-armade/vojak-z-povolani/platova-kalkulacka?utm_source=openai))  \n6. **MO náborový web – „Výcvik ve Vyškově“** – popis KZP, plat během výcviku (minimální mzda) a jednorázový bonus 15 000 Kč po dokončení. ([doarmady.mo.gov.cz](https://doarmady.mo.gov.cz/koho-hledame/vas-zacatek-v-armade-vycvik-ve-vyskove))  \n7. **NATOaktual.cz (11. 6. 2025)** – tabulka služebních tarifů od 1. 7. 2025 a 1. 1. 2026, včetně řádku pro svobodníka (36 590 Kč od 1. 1. 2026). ([natoaktual.cz](https://www.natoaktual.cz/zpravy/vojaci-dostanou-pridano-nejmene-8378-korun.A250611_182845_na_zpravy_m00?utm_source=openai))  \n8. **Armádní noviny (1. 1. 2026)** – příklad výpočtu: svobodník má od ledna hrubý plat 43 590 Kč, příjem před zdaněním 49 590 Kč. ([armadninoviny.cz](https://www.armadninoviny.cz/platy-policistu-hasicu-nebo-vojaku-ode-dneska-vzrostou.html))  \n9. **Starší materiály MO a médií (2023–2025)** – potvrzují stabilizační příspěvek 7 000 Kč a strukturu platu (např. Týden.cz, Seznam Zprávy, TN.cz, Měšec.cz). ([mocr.mo.gov.cz](https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/novela-zakona-o-vojacich-z-povolani-prinasi-pro-vsechny-stejna-pravidla--112436/?utm_source=openai))  \n10. **Program hnutí ANO (Obrana) a jeho mediální reflexe** – politický slib nástupního platu 50 000 Kč pro vojáky po absolvování KZP od roku 2026. ([anobudelip.cz](https://www.anobudelip.cz/cs/bude-lip/nas-program/obranna-politika-a-armada?utm_source=openai))",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 85977,
+      "input_tokens_details": {
+        "cached_tokens": 6400
+      },
+      "output_tokens": 20754,
+      "output_tokens_details": {
+        "reasoning_tokens": 14064
+      },
+      "total_tokens": 106731
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1771607265,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

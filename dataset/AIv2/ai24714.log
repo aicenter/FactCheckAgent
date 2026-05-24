@@ -1,0 +1,498 @@
+{
+  "claim_id": "24714",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260421_113102",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/reports/report24714.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 93.2,
+        "prompt_length": 4550,
+        "input_tokens": 115815,
+        "cached_input_tokens": 64768,
+        "output_tokens": 5498,
+        "web_searches": 4,
+        "final_response": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/claim_interpretation.md).\n\nVymezil jsem výrok jako tvrzení o obou zemích, o nahrazení klasických koncesionářských poplatků jiným modelem financování a o víceletém, široce konzultovaném procesu. Pro další krok je nastavené důkazní okno od 1. ledna 2008 do 17. dubna 2026.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Prověřím kontext výroku a připravím interpretaci pro krok 1. Nejdřív si zkontroluji pracovní adresáře a pak ověřím základní okolnosti výroku a referencí ke Švédsku a Finsku, jen v rozsahu potřebném pro správnou interpretaci."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc pwd",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'rg --files'",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:plus.rozhlas.cz 9610185 koncesionářské poplatky jsou zastaralé platí je hlavně senioři zní z SPD opozice 2026-04-17"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:government.se public service financing adopted November 2018 Sweden committee 2017 consultation"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:lvm.fi Finland public service broadcasting tax working group 2010 2012 Yle consultation"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://plus.rozhlas.cz/koncesionarske-poplatky-jsou-zastarale-plati-je-hlavne-seniori-zni-z-spd-opozice-9610185"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám základní kontext výroku i zdrojový článek z 17. dubna 2026. Teď skládám interpretaci tak, aby ve 2. kroku šlo cíleně hledat hlavně oficiální legislativní a vládní podklady ke změně financování veřejnoprávních médií ve Švédsku a Finsku."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la work'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretace je už vymezená: výrok dává smysl číst jako tvrzení o nahrazení klasických koncesionářských poplatků jiným modelem financování a o tom, že tomu v obou zemích předcházela dlouhá konzultace. Zapíšu to do `work/claim_interpretation.md` v podobě rozpadnuté na ověřitelné podvýroky, s datovým oknem a vyhledávacím plánem pro další krok."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/claim_interpretation.md).\n\nVymezil jsem výrok jako tvrzení o obou zemích, o nahrazení klasických koncesionářských poplatků jiným modelem financování a o víceletém, široce konzultovaném procesu. Pro další krok je nastavené důkazní okno od 1. ledna 2008 do 17. dubna 2026."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 229.3,
+        "prompt_length": 1771,
+        "input_tokens": 382023,
+        "cached_input_tokens": 99072,
+        "output_tokens": 15828,
+        "web_searches": 22,
+        "final_response": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/raw_sources.md).\n\nSoubor obsahuje primární švédské a finské legislativní a vládní podklady, remiss a expertní stanoviska, plus několik mediálních zdrojů k časové ose a sporným místům. Zahrnul jsem i zdroje, které tvrzení komplikují, hlavně k otázce, zda šlo skutečně o souvislou pětiletou a napříč celým spektrem sdílenou debatu.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Začnu načtením interpretace z 1. kroku a zdrojového žebříčku, aby další hledání drželo správné priority. Potom projdu hlavně oficiální švédské a finské vládní, parlamentní a legislativní materiály a doplním i sekundární a případně rozporné zdroje."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:government.se public service fee replaces radio and tv fee Sweden 2019"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:regeringen.se Kommittédirektiv parlamentariska public service-kommittén 2016 finansiering"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:finlex.fi HE 28/2012 yleisradiovero televisiomaksu"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:vm.fi yleisradiovero työryhmä 2010 2011"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Yleisradiovero\" työryhmä raportti pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:valtioneuvosto.fi Yleisradion rahoitus työryhmä 2010"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://julkaisut.valtioneuvosto.fi/server/api/core/bitstreams/89e1b5b9-3000-4755-b86c-a07c2d19421e/content"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.finlex.fi/api/media/government-proposal/705691/mainPdf/main.pdf?timestamp=2012-04-03T21%3A00%3A00.000Z"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:julkaisut.valtioneuvosto.fi \"Yleisradio Oy:n julkista palvelua ja rahoitusta\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:valtioneuvosto.fi yleisradiovero lausuntokierros 2012"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://julkaisut.valtioneuvosto.fi/server/api/core/bitstreams/c9c3b381-4e16-4028-a7e3-791d95d33bf1/content"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:eduskunta.fi yleisradiovero parlamentaarinen työryhmä"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:regeringen.se public service-kommittén 2012 2013 2014 Sweden"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:regeringen.se public service-kommittén 2011 direktiv"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:valtioneuvosto.fi Yleisradion rahoitus hallituspuolueet oppositio työryhmä"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:regeringen.se remiss SOU 2017:79 Sveriges Television pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.regeringen.se/contentassets/4d20d307f65444bda158d2226b1cd8b4/forvaltningsstiftelsen-for-sr-svt-och-ur.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.regeringen.se/contentassets/4d20d307f65444bda158d2226b1cd8b4/goteborgs-universitet---institutionen-for-journalistik-media-och-kommunikation.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:finlex.fi laki yleisradioverosta 2012 484/2012"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.finlex.fi/fi/lainsaadanto/2012/484"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://yle.fi/a/3-5646758"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2011/06/dir.-201151"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám shromážděné jak primární švédské a finské podklady, tak i několik doplňujících mediálních a expertních zdrojů, které pomáhají zachytit sporné body kolem délky a šíře debaty. Teď to sepíšu do `work/raw_sources.md` tak, aby v dalším kroku šlo snadno vybrat nejsilnější důkazy i protiargumenty."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/raw_sources.md).\n\nSoubor obsahuje primární švédské a finské legislativní a vládní podklady, remiss a expertní stanoviska, plus několik mediálních zdrojů k časové ose a sporným místům. Zahrnul jsem i zdroje, které tvrzení komplikují, hlavně k otázce, zda šlo skutečně o souvislou pětiletou a napříč celým spektrem sdílenou debatu."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 121.2,
+        "prompt_length": 2274,
+        "input_tokens": 558986,
+        "cached_input_tokens": 199808,
+        "output_tokens": 23294,
+        "web_searches": 7,
+        "final_response": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/refined_sources.md).\n\nSekundární finské články Yle jsem z větší části nahradil primárními vládními a legislativními zdroji. Jako slabší, jen kontextový protiargument jsem ponechal už jen jednu položku k rozpadu finské politické shody; v souhrnu je zároveň vyznačeno, že nejspornější zůstávají podvýroky o přesně „pětileté“ debatě a o šíři finského politického konsenzu.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď čistím zdroje podle kvality a pokusím se nahradit sekundární finské články primárními dokumenty k parlamentní pracovní skupině a přípravě Yle-vero. Zároveň zkontroluji, že každý ponechaný odkaz skutečně nese citovanou informaci a vejde se do časového okna."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:julkaisut.valtioneuvosto.fi Yleisradion rahoitus raportti 2009 pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://julkaisut.valtioneuvosto.fi/server/api/core/bitstreams/89e1b5b9-3000-4755-b86c-a07c2d19421e/content"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:julkaisut.valtioneuvosto.fi mediamaksu lausuntokierros 2010 pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:finlex.fi/fi/lainsaadanto/2012/484 yleisradiovero 484/2012"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2012/484"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://finlex.fi/fi/lainsaadanto/saadoskokoelma/2012/474"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://julkaisut.valtioneuvosto.fi/server/api/core/bitstreams/89e1b5b9-3000-4755-b86c-a07c2d19421e/content"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Doplňuji ještě jeden finský primární vládní dokument z roku 2009, který nahrazuje část sekundárních Yle článků. V refinovaném seznamu proto oddělím silné důkazní zdroje od ponechaných, ale slabších či jen kontextových položek."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/refined_sources.md).\n\nSekundární finské články Yle jsem z větší části nahradil primárními vládními a legislativními zdroji. Jako slabší, jen kontextový protiargument jsem ponechal už jen jednu položku k rozpadu finské politické shody; v souhrnu je zároveň vyznačeno, že nejspornější zůstávají podvýroky o přesně „pětileté“ debatě a o šíři finského politického konsenzu."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 83.5,
+        "prompt_length": 2388,
+        "input_tokens": 741765,
+        "cached_input_tokens": 358272,
+        "output_tokens": 27718,
+        "web_searches": 0,
+        "final_response": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/draft.md).\n\nZvolil jsem verdikt `zavadejici`: jádro výroku o delší přípravě a konzultacích ve Švédsku a Finsku stojí, ale část o souvislé pětileté debatě napříč politickým spektrem je formulovaná silněji, než co vyplývá z dostupných podkladů.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Než sepíšu draft, načtu stylový manuál a dva vzorové texty, abych držel přesný formát Demagogu. Pak zprávu postavím jen na už vytříděných zdrojích a zvolím verdikt podle toho, kde jsou tvrzení podložená a kde už narážejí na interpretační limity."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/examples.txt\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám vyhodnocení: nejpřesněji sedí verdikt `zavadejici`. Jádro výroku o delší přípravě a konzultacích ve Švédsku a Finsku sedí, ale formulace o poctivé pětileté debatě napříč politickým spektrem je v obou případech silnější, než co dostupné podklady skutečně dokládají."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/draft.md).\n\nZvolil jsem verdikt `zavadejici`: jádro výroku o delší přípravě a konzultacích ve Švédsku a Finsku stojí, ale část o souvislé pětileté debatě napříč politickým spektrem je formulovaná silněji, než co vyplývá z dostupných podkladů."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 185.8,
+        "prompt_length": 1226,
+        "input_tokens": 1218975,
+        "cached_input_tokens": 769024,
+        "output_tokens": 37127,
+        "web_searches": 10,
+        "final_response": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/verification.md).\n\nV průběhu kontroly jsem upravil [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/draft.md) jen v jednom formálním bodě: omezil jsem práci s PDF odkazy a u ponechaného PDF doplnil stránku. Výsledné ověření končí `PASS`.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď projdu checklist bod po bodu a udělám i rychlý spot-check několika odkazů z draftu. Pokud narazím na konkrétní porušení stylu nebo slabý důkaz, opravím jen ten dotčený kus textu a znovu ověřím pouze problematické body."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/verification_checklist.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,200p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:julkaisut.valtioneuvosto.fi \"Liikennepoliittisen selonteon seuranta\" \"Yleisradio\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Työryhmä piti kaikkiaan 8 kokousta sekä laajan alan toimijoiden kuulemistilaisuuden\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:julkaisut.valtioneuvosto.fi \"Liikenne- ja viestintäministeriön julkaisuja 37/2009\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:lvm.fi 12.2.2008 Yleisradio työryhmä"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "V checklistu vyšel jeden konkrétní formální problém: u PDF zdrojů chyběly přesnější odkazy. Opravuju draft tak, aby se opíral hlavně o HTML zdroje a u jediného ponechaného PDF měl výslovně uvedenou stránku."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-20181893-om-finansiering-av-radio-och-tv-i_sfs-2018-1893/"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Förvaltningsstiftelsen för SR, SVT och UR' in https://www.regeringen.se/remisser/2017/10/remiss-sou-201779-finansiering-av-public-service--for-okad-stabilitet-legitimitet-och-starkt-oberoende/"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://finlex.fi/fi/hallituksen-esitykset/2012/28"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Suomen Ammattiliittojen Keskusjärjestö SAK ry, Suomen Yrittäjät ry, Toimihenkilökeskusjärjestö STTK ry, Veronmaksajain keskusliitto ry ja Yleisradio Oy\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Po úpravě draftu ještě jednou kontroluju jen dříve problematický formální bod a průchodnost odkazů. Obsahově verdikt i argumentace zůstávají stejné, šlo jen o zpřesnění práce s PDF zdrojem."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"python - <<'PY'\nfrom pathlib import Path\ntext = Path('work/draft.md').read_text()\nperex = text.split('</p>',1)[0]\nimport re\nplain = re.sub(r'<[\"'^>]+>'\"', '', perex)\nprint(len(plain))\nprint(plain)\nPY\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Checklist je po opravě čistý. Zapisuji formální vyhodnocení do `work/verification.md`, včetně poznámky, které odkazy jsem ručně spot-checknul."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/verification.md).\n\nV průběhu kontroly jsem upravil [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24714/work/draft.md) jen v jednom formálním bodě: omezil jsem práci s PDF odkazy a u ponechaného PDF doplnil stránku. Výsledné ověření končí `PASS`."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 22.4,
+        "prompt_length": 313,
+        "input_tokens": 1473578,
+        "cached_input_tokens": 1012736,
+        "output_tokens": 38732,
+        "web_searches": 0,
+        "final_response": "Hotovo.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zkontroluju, že verifikace končí `PASS`, a pak přenesu finální text reportu do `output/report.md` v požadované struktuře."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 5 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikace skutečně končí `## Result: PASS`. Teď zapisuji finální report do `output/report.md` přesně v požadované podobě."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Hotovo."
+          }
+        ]
+      }
+    }
+  ]
+}

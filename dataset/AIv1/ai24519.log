@@ -1,0 +1,937 @@
+{
+  "claim_id": "24519",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20260106_103748",
+  "source_md": "experiments/gpt-5.1h_20260106_103748/brief_fact_check_id24519.md",
+  "fact_check": "# Fact Check for Statement ID 24519\n\n## Statement\nZa působení Fialovy vlády se celkové ratingové hodnocení Česka vyvíjelo hůře než za všech předchozích kabinetů nastoupivších v České republice v tomto miléniu.\n\n---\n## OpenAI Deep Research Fact Check\n## 1. Tvrzení a možné interpretace\n\nCitované tvrzení:\n\n> „Za působení Fialovy vlády se celkové ratingové hodnocení Česka vyvíjelo hůře než za všech předchozích kabinetů nastoupivších v České republice v tomto miléniu.“\n\nTo lze rozumně číst minimálně dvěma způsoby:\n\n1. **Úzká interpretace – pouze samotné ratingové stupně hlavních tří agentur (Moody’s, S&P, Fitch)**  \n   – sledujeme, zda se písmenkový rating (Aa3, AA‑, …) za Fialovy vlády zhoršil víc než za předchozích vlád, nebo se naopak nevyvíjel.\n\n2. **Širší interpretace – „celkové ratingové hodnocení“ = kombinace ratingů více agentur + změny výhledu (stable/positive/negative)**  \n   – započítáme i výhledy (outlook) a nové/menší agentury (Scope, DBRS, JCR, R&I) a ptáme se, jestli za Fialovy vlády došlo k největšímu počtu zhoršení (negativní výhledy, snížení ratingu).\n\nNíže jsou důkazy pro obě interpretace zvlášť.\n\n---\n\n## 2. Základní oficiální zdroje k ratingu ČR\n\n### 2.1. Dlouhodobý přehled ratingů (Moody’s, S&P, Fitch)\n\nČeská národní banka na své stránce „Rating agencies“ uvádí tabulku „Developmets of the rating of the CR (Foreign Currency Long‑Term Sovereign Debt Ratings)“ s ročním přehledem ratingů Moody’s, Standard & Poor’s a Fitch od roku 1992 do roku 2025.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\nKlíčové řádky (zjednodušeně):\n\n- **Rok 2000–2001**:  \n  – Moody’s: Baa1  \n  – S&P: A‑  \n  – Fitch: BBB+ ([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **Rok 2002**: Moody’s zvyšuje na A1 (S&P A‑, Fitch BBB+).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **2003–2008**: postupné zvyšování Fitch (do A+ v r. 2008) a S&P (A‑ → A v r. 2007).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **2011**: S&P zvyšuje z A na AA‑.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **2018**: Fitch zvyšuje z A+ na AA‑.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **2019**: Moody’s zvyšuje z A1 na Aa3.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **2019–2025**:  \n  – Moody’s: Aa3  \n  – S&P: AA‑  \n  – Fitch: AA‑ (beze změny)([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\nV boxu ČNB z roku 2011 se shrnuje, že (překlad):\n\n> „S výjimkou období měnových turbulencí v letech 1997–1998 se rating České republiky v celé své historii **stále zlepšoval**. Poslední zlepšení nastalo letos v srpnu, kdy Standard and Poor’s zvýšila rating o dva stupně na AA‑.“([cnb.cz](https://www.cnb.cz/en/monetary-policy/inflation-reports/boxes-and-annexes-contained-in-inflation-reports/The-credit-rating-of-the-Czech-Republic))  \n\nTo potvrzuje, že do roku 2011 byl trend ratingu převážně zlepšující; po roce 2011 zůstává na velmi vysokých úrovních.\n\n### 2.2. Aktuální přehled více agentur (stav 2025)\n\nMinisterstvo financí ČR zveřejňuje souhrnný přehled ratingů (lokální i cizoměnový, víc agentur) – naposledy aktualizovaný 22. 9. 2025.([mfcr.cz](https://www.mfcr.cz/en/fiscal-policy/state-debt/basic-information/rating?utm_source=openai))  \n\nPro **dlouhodobý rating v cizí měně** uvádí:\n\n- Moody’s: **Aa3, Stable**  \n- S&P Global Ratings: **AA‑, Stable**  \n- Fitch Ratings: **AA‑, Stable**  \n- JCR: **AA‑, Stable**  \n- R&I: **AA‑, Stable**  \n- Morningstar DBRS: **AA, Stable** (první přidělení v 04/2025)([mfcr.cz](https://mfcr.cz/en/fiscal-policy/state-debt/publications-and-presentations/debt-portfolio-management-quarterly-review/2025/debt-portfolio-management-quarterly-report-1st-hal-60465?utm_source=openai))  \n- Scope Ratings: **AA‑, Stable**([mfcr.cz](https://www.mfcr.cz/en/fiscal-policy/state-debt/basic-information/rating?utm_source=openai))  \n\nVšechny uvedené ratingy jsou v roce 2025 na velmi vysoké úrovni (AA–/Aa3 a výše) se stabilním výhledem.\n\n---\n\n## 3. Vývoj ratingu za vlády Petra Fialy (12/2021–12/2025)\n\n### 3.1. Hlavní tři agentury – úroveň ratingu\n\nZ tabulky ČNB plyne:\n\n- **Na začátku Fialovy vlády (rok 2021)**:  \n  – Moody’s: Aa3  \n  – S&P: AA‑  \n  – Fitch: AA‑ ([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **Po celou dobu vlády (2022–2025)**:  \n  – Moody’s: Aa3  \n  – S&P: AA‑  \n  – Fitch: AA‑ (žádná změna stupně)([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\nTedy **žádná z velkých tří agentur rating ČR za Fialovy vlády nesnížila** (ani nezvýšila); rating zůstal na historicky nejvyšších úrovních.\n\n### 3.2. Změny výhledu (outlook) – Moody’s a Fitch\n\n**Moody’s**\n\n- V říjnu 2019 povýšila Moody’s ČR z A1 na **Aa3 se stabilním výhledem**.([countryeconomy.com](https://countryeconomy.com/ratings/czech-republic?utm_source=openai))  \n- V srpnu 2022 Moody’s **změnila výhled z „stable“ na „negative“** při zachování ratingu Aa3. Podle přehledu Trading Economics: „Moody's – Aa3 – Negative – Aug 05 2022“.([tradingeconomics.com](https://tradingeconomics.com/czech-republic/rating?utm_source=openai))  \n- Radio Prague shrnuje, že Moody’s „**snížila výhled České republiky ze stabilního na negativní** kvůli možnému přerušení dodávek ruského plynu“, přičemž rating Aa3 byl potvrzen.([english.radio.cz](https://english.radio.cz/moodys-lowers-outlook-czechia-stable-negative-8757986?utm_source=openai))  \n- V listopadu 2023 Moody’s opět změnila výhled zpět na **stabilní** (Aa3, Stable).([tradingeconomics.com](https://tradingeconomics.com/czech-republic/rating?utm_source=openai))  \n\n**Fitch**\n\n- Fitch držel ČR na **AA‑ se stabilním výhledem** dlouhodobě.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- V roce 2022 Fitch „**revised its assessment… maintaining the AA‑ rating but revising the outlook… from stable to negative**“, s odůvodněním nižšího růstu, silné inflace a závislosti na ruské energii. (citace z Radio Prague: „revised… outlook for the Czech Republic from stable to negative… while maintaining the country’s AA‑ rating“).([english.radio.cz](https://english.radio.cz/fitch-revises-outlook-czech-economy-stable-negative-8749810?utm_source=openai))  \n- Článek Expats.cz z roku 2023 zmiňuje, že Fitch **„maintains its negative outlook“** a popisuje, že negativní výhled odráží zhoršení veřejných financí a nejistotu ohledně strukturálních deficitů.([expats.cz](https://www.expats.cz/czech-news/article/fitch-maintains-negative-long-term-outlook-for-czech-economy?utm_source=openai))  \n- Podle globálních souhrnů Fitch zůstal vlastní rating AA‑, ale výhled byl negativní v letech 2022–první polovina 2024 a poté znovu stabilní.([theglobaleconomy.com](https://www.theglobaleconomy.com/Czech-Republic/credit_rating/?utm_source=openai))  \n\n### 3.3. Agentura Scope Ratings – skutečné snížení ratingu\n\nScope Ratings (evropská ratingová agentura, kterou MF ČR uvádí vedle Moody’s, S&P a Fitch([mfcr.cz](https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai))) má výrazně odlišný vývoj za Fialovy vlády:\n\n- **leden 2022 (Fialova vláda čerstvě v úřadu)**: Scope potvrzuje **AA se stabilním výhledem** – „affirmed the Czech Republic’s AA ratings… All Outlooks are Stable“.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/169854?utm_source=openai))  \n- **červenec 2022**: Scope **ponechává rating AA, ale mění výhled na Negative** („has… affirmed… AA and has revised the Outlook to Negative, from Stable“), s odkazem na výrazné oslabení růstových vyhlídek, energetickou závislost na Rusku a tlak na fiskální konsolidaci.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai))  \n- **květen 2023**: Scope **snižuje rating z AA na AA‑** a zároveň vrací výhled na Stable: „downgraded… to AA‑ from AA and has revised the Outlooks to Stable from Negative…“.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/174263?utm_source=openai))  \n- **2024 a 2025**: Scope několikrát potvrzuje rating **AA‑ se stabilním výhledem**.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/176859?utm_source=openai))  \n\nTo je **jediné skutečné snížení suverénního ratingu ČR** (alespoň mezi významnými agenturami, které MF ČR sleduje) od slabších let 90. let; a stalo se právě za vlády Petra Fialy.\n\n### 3.4. Jiné agentury\n\n- **DBRS Morningstar** udělil ČR v dubnu 2025 **první rating AA (local i foreign currency) se stabilním výhledem**. MF uvádí, že jde o „first‑ever credit rating at AA… with a stable outlook“.([mfcr.cz](https://mfcr.cz/en/fiscal-policy/state-debt/publications-and-presentations/debt-portfolio-management-quarterly-review/2025/debt-portfolio-management-quarterly-report-1st-hal-60465?utm_source=openai))  \n- **JCR** dlouhodobě drží rating AA‑/AA se stabilním výhledem; v letech 2019, 2020 a 2022–2025 pouze rating potvrzuje (žádné zhoršení).([jcr.co.jp](https://www.jcr.co.jp/en/ratinglist/sovereign/12058?utm_source=openai))  \n- **R&I** je MF uváděna s ratingem AA‑, Stable; veřejně dostupné důkazy o snížení v posledních letech nejsou.([mfcr.cz](https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai))  \n\n---\n\n## 4. Vývoj ratingu za předchozích vlád (kabinetů nastoupivších po roce 2000)\n\n### 4.1. Přehled vlád po roce 2000\n\nPodle přehledu premiérů: Vladimír Špidla (2002–2004), Stanislav Gross (2004–2005), Jiří Paroubek (2005–2006), vlády Mirka Topolánka (2006–2009), Jan Fischer (2009–2010), Petr Nečas (2010–2013), Jiří Rusnok (2013–2014), Bohuslav Sobotka (2014–2017), Andrej Babiš I (2017–2018), Andrej Babiš II (2018–2021), Petr Fiala (od 17. 12. 2021).([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_prime_ministers_of_the_Czech_Republic?utm_source=openai))  \n\nOkamura mluví o **kabinetech, které nastoupily v tomto miléniu**, tedy od Špidlovy vlády výše.\n\n### 4.2. Změny ratingu Moody’s / S&P / Fitch za jednotlivých vlád\n\nNa základě roční tabulky ČNB([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/)) lze shrnout hlavní změny:\n\n- **Špidla (07/2002–08/2004)**  \n  – V roce 2002 Moody’s zvyšuje rating z Baa1 na **A1**.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n  – Fitch v roce 2003 zvyšuje z **BBB+ na A‑**.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n  → Celkově zřetelné zlepšení.\n\n- **Gross (08/2004–04/2005)**  \n  – V roce 2005 Fitch zvyšuje z **A‑ na A**.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Paroubek (2005–2006)**  \n  – V letech 2005–2006 jsou ratingy stabilní (A1, A‑, A).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Topolánek I a II (2006–2009)**  \n  – V roce 2007 S&P zvyšuje z **A‑ na A**.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n  – V roce 2008 Fitch zvyšuje z **A na A+**.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Fischer (2009–2010)**  \n  – 2009–2010: Moody’s A1, S&P A, Fitch A+ (beze změny).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Nečas (2010–2013)**  \n  – V roce 2011 S&P zvyšuje z **A na AA‑** – „Standard & Poor’s… increased the Czech Republic’s rating by two grades to AA‑“ (citace z článku ČNB).([cnb.cz](https://www.cnb.cz/en/monetary-policy/inflation-reports/boxes-and-annexes-contained-in-inflation-reports/The-credit-rating-of-the-Czech-Republic))  \n  – Fitch zůstává na A+.  \n\n- **Rusnok (2013–2014)**  \n  – 2013–2014: Moody’s A1, S&P AA‑, Fitch A+ (stabilní).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Sobotka (2014–2017)**  \n  – Ratingy tří hlavních agentur jsou po celou dobu stabilní: Moody’s A1, S&P AA‑, Fitch A+.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Babiš I (2017–2018)**  \n  – Srpen 2018: Fitch zvyšuje z **A+ na AA‑**, jak potvrzuje tisková zpráva MF („Fitch Ratings… A+ Positive…“ s následným potvrzením AA‑ v srpnu 2018).([mfcr.cz](https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai))  \n\n- **Babiš II (2018–2021)**  \n  – V roce 2018 Fitch již uváděn jako **AA‑**;([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n  – Říjen 2019 Moody’s zvyšuje z **A1 na Aa3** s výhledem „Stable“.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n**Shrnutí:**  \nOd roku 2000 do nástupu Fialovy vlády:\n\n- **žádná z velkých tří agentur rating ČR nesnížila**,  \n- opakovaně docházelo k **postupným zlepšením** (Moody’s 2002 a 2019, Fitch 2003, 2005, 2008, 2018, S&P 2007, 2011),  \n- několik vlád (Paroubek, Fischer, Sobotka) mělo ratingy stabilní, ale ne horší než před nimi.\n\n### 4.3. Změny výhledu a dalších agentur před rokem 2021\n\n**Scope Ratings před Fialou**\n\n- Scope od roku 2017–2018 opakovaně potvrzuje rating **AA se stabilním výhledem** (např. 2017 „AA, Stable“, 2020 „AA, Stable“).([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/155849?utm_source=openai))  \n- Do roku 2021 neexistuje záznam o negativním výhledu či snížení ratingu Scope u ČR.\n\n**Moody’s / Fitch – starší výhledy**\n\n- Souhrny Trading Economics a CountryEconomy pro Moody’s ukazují před srpnem 2022 pouze výhledy **„Stable“ nebo „Positive“**, žádný „Negative“ pro suverénní rating ČR po roce 2000.([countryeconomy.com](https://countryeconomy.com/ratings/czech-republic?utm_source=openai))  \n- U Fitch existovaly v regionu tzv. „negative actions“ typu změny z Positive na Stable (EE krize 2011–2012), ale dostupné zdroje neukazují, že by Fitch kdy po roce 2000 u ČR přešla na **negativní výhled** u státního ratingu – až v roce 2022.([interfax.com](https://interfax.com/newsroom/top-stories/57987/?utm_source=openai))  \n\n---\n\n## 5. Syntéza: jak „se vyvíjelo celkové ratingové hodnocení“\n\n### 5.1. Pokud sledujeme jen úroveň ratingu velké trojky\n\n**Fakta:**\n\n- Na začátku Fialovy vlády (2021):  \n  – Moody’s Aa3, S&P AA‑, Fitch AA‑.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- Ke konci vlády (2024–2025):  \n  – Moody’s Aa3, S&P AA‑, Fitch AA‑ (beze změny).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- U žádné z těchto agentur nedošlo k **snížení** ratingu; ratingy zůstaly na historicky nejvyšších úrovních.\n\n**Srovnání s předchozími vládami (od Špidly):**\n\n- Většina předchozích vlád zažila **zlepšení ratingu** (Špidla, Gross, Topolánek, Nečas, Babiš II).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- Některé vlády měly ratingy stabilní (Paroubek, Fischer, Sobotka), tj. stejný typ vývoje jako Fiala – žádné zlepšení, žádné zhoršení.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n**Závěr pro tuto úzkou definici:**\n\n- Vývoj ratingu za Fialovy vlády (0 změn stupně) **není horší** než např. za vlády Bohuslava Sobotky, kdy také nedošlo k žádnému upgradu ani downgradu.  \n- Tvrzení, že rating se „vyvíjel hůře než za všech předchozích kabinetů“ je v tomto pojetí **nepodložené** – existují předchozí kabinetní období se stejným (nulovým) zlepšením/zhoršením.\n\n### 5.2. Pokud zahrneme i výhledy a další agentury\n\n**Negativní pohyby za Fialovy vlády:**\n\n- **Moody’s**: změna výhledu Aa3 z **„Stable“ na „Negative“ (8/2022)**, později návrat na „Stable“ (11/2023).([tradingeconomics.com](https://tradingeconomics.com/czech-republic/rating?utm_source=openai))  \n- **Fitch**: změna výhledu AA‑ z **„Stable“ na „Negative“** kvůli nižšímu růstu, inflaci a energetické závislosti, negativní výhled trval několik let, rating ale zůstal AA‑.([english.radio.cz](https://english.radio.cz/fitch-revises-outlook-czech-economy-stable-negative-8749810?utm_source=openai))  \n- **Scope**: nejdřív změna výhledu AA z „Stable“ na **„Negative“ (7/2022)** a poté **skutečný downgrade z AA na AA‑ (5/2023)**, výhled zpět na „Stable“.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai))  \n\n**Rozsah těchto zhoršení v čase:**\n\n- Negativní výhled Moody’s a Fitch se objevují krátce po sobě v roce 2022, v kulminaci energetické a inflační krize.([english.radio.cz](https://english.radio.cz/moodys-lowers-outlook-czechia-stable-negative-8757986?utm_source=openai))  \n- Scope downgrade 2023 výslovně spojuje s oslabením růstových vyhlídek a zhoršením fiskálních parametrů po pandemii a energetické krizi.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/174263?utm_source=openai))  \n\n**Předchozí vlády:**\n\n- U Moody’s, S&P, Fitch po roce 2000 **nenajdeme negativní výhled** na suverénní rating ČR; výhledy byly „Stable“ nebo „Positive“ až do roku 2022.([countryeconomy.com](https://countryeconomy.com/ratings/czech-republic?utm_source=openai))  \n- Scope držel od 2017 do počátku 2022 Czech Republic na **AA se stabilním výhledem** – bez downgrade či negativního výhledu.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/155849?utm_source=openai))  \n- MFČR v roce 2018 prezentuje portfolio ratingů (Moody’s, S&P, Fitch, JCR, R&I, Scope, Dagong) a všechna jsou buď „Stable“ nebo „Positive“, žádné „Negative“.([mfcr.cz](https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai))  \n\n**Závěr pro širší definici:**\n\n- Za Fialovy vlády došlo **poprvé v období po roce 2000** k tomu, že dvě velké agentury (Moody’s, Fitch) daly ČR **negativní výhled** a jedna významná evropská agentura (Scope) dokonce **snížila samotný rating** z AA na AA‑.  \n- V tomto širším smyslu lze říci, že **zhoršení v systému „rating + výhled + více agentur“ je v období Fialovy vlády výraznější než za kabinetů, které nastoupily po roce 2000**, kde převažovaly upgrady nebo stabilita.\n\n---\n\n## 6. Shrnutí pro fact‑checkera\n\n1. **Hladina ratingu (písmenkové stupně Moody’s / S&P / Fitch)**  \n   - Od roku 2000 se rating ČR postupně zlepšoval, naposledy 2018 (Fitch) a 2019 (Moody’s).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n   - Za vlády Petra Fialy (2022–2025) **žádná z velkých tří agentur rating ČR nesnížila ani nezvýšila**; zůstal na nejvyšších historických úrovních (Aa3/AA‑/AA‑).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n   - Některé předchozí vlády (např. Sobotka) měly obdobný neutrální vývoj (stabilní ratingy bez změny).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n   → Pokud tvrzení čteme čistě jako vývoj základních ratingových stupňů hlavních tří agentur, **tvrzení „vyvíjelo se hůře než za všech předchozích kabinetů“ neodpovídá datům** – Fialova vláda není v tomto ohledu horší než např. vláda Bohuslava Sobotky.\n\n2. **Zahrnutí výhledů a dalších agentur (Scope, Fitch/ Moody’s outlook)**  \n   - V roce 2022 daly Moody’s a Fitch Česku **negativní výhled**, byť ratingy ponechaly na Aa3 / AA‑.([english.radio.cz](https://english.radio.cz/moodys-lowers-outlook-czechia-stable-negative-8757986?utm_source=openai))  \n   - Scope Ratings v roce 2023 **snížila rating z AA na AA‑** a předtím změnila výhled na Negative.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/174263?utm_source=openai))  \n   - Podobná kombinace (negativní výhledy u dvou velkých agentur a downgrade další významné agentury) **za žádné z předchozích vlád nastoupivších po roce 2000 nenastala**; před Fialovou vládou byly výhledy u ČR v zásadě stable/positive a ratingy se spíš zvyšovaly.([countryeconomy.com](https://countryeconomy.com/ratings/czech-republic?utm_source=openai))  \n\n   → V této **širší interpretaci** lze argumentovat, že „celkové ratingové hodnocení“ (včetně výhledů a menších agentur) se za Fialovy vlády skutečně vyvíjelo **relativně nejhůře** – poprvé došlo k souběhu negativních výhledů a ratingového downgradu.\n\n3. **Důležité kontexty:**\n   - Negativní kroky ratingových agentur v letech 2022–2023 výslovně spojují své hodnocení s důsledky **pandemické a energetické krize, války na Ukrajině, vysoké inflace a zhoršení fiskálních ukazatelů**, nikoli pouze s konkrétní vládou.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai))  \n   - Navzdory těmto zhoršením zůstává ČR v **horním pásmu ratingů (AA‑/Aa3)** a v evropském srovnání patří mezi lépe hodnocené země.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/?utm_source=openai))  \n\nCelkově tedy:\n\n- **Pro úzký výklad (jen výše ratingu u velké trojky)** – data tvrzení **nepodporují**.  \n- **Pro širší výklad (včetně výhledů a dalších agentur)** – existuje **část pravdy**, že kombinace negativních kroků agentur vůči ČR je za Fialovy vlády výrazně horší než za vlád nastoupivších po roce 2000, ale jde o selektivní pohled, který ignoruje, že základní úroveň ratingu zůstala historicky velmi vysoká a předchozí dlouhodobé zlepšování vycházelo z delšího období před Fialou.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Novoroční projev released on 2026-01-01 available from https://www.youtube.com/watch?v=Qs8whrFfhtU.\\n\\n\\nThe claim was made by: Tomio Okamura, Předseda PSP ČR, předseda SPD\\n\\n\\nThe claim appears in the following immediate context in the source:\\nZjistíte, že i s viry se dá žít tak jako s nimi už žijeme statisíce let.\\nA také zjistíte, že když ruský plyn neuškodil Američanům nebo Němcům, kteří za ním dokonce do Číny přestěhovali fabriky, je zřejmé, že neuškodí ani nám.\\nAno, CO2 nás sice nezabije, ale boj s CO2 a takzvanými špatnými energiemi obecně zabilo mnoho západních firem a ještě jich mnoho zabije nebo je donutí vystěhovat se tam, kde absurdní pomatený boj neprobíhá.\\nVěřím, že letošní rok bude lepší právě proto, že nová česká vláda bude vládou zdravého rozumu, bude pragmatická a bude jednat pouze tak, aby to přinášelo prospěch naší republice, našim občanům a našim firmám.\\nTo by mělo být základní a hlavní hledisko veškerého konání naší nové vlády.\\nNemůžeme spasit celou planetu, ale můžeme a dokonce je to naše povinnost zachraňovat české občany v nouzi a dělat vše, aby se do té nouze nikdo nedostal.\\nNelze za peníze, které patří českým důchodcům nebo zdravotně postiženým občanům a rodinám s dětmi nakupovat zbraně a posílat je k udržování naprosto nesmyslné války.\\nNelze peníze našich občanů rozdávat cizím občanům jen proto, že to chce proválečná propaganda.\\nJe přece absurdní nadstandardně pomáhat a rozdávat cizím, když zcela evidentně se neumíme postarat ani o své vlastní lidi.\\nZažili jsme doložitelně nejhorší vládu v dějinách naší země.\\nZa působení Fialovy vlády se celkové ratingové hodnocení Česka vyvíjelo hůře než za všech předchozích kabinetů nastoupivších v České republice v tomto milenniu.\\nRatingové hodnocení je přitom daleko objektivnější ukazatel stavu veřejných financí a zprostředkovaně tedy i výkonnosti celé ekonomiky.\\nZažili jsme rekordní inflaci, kterou v našem případě opět prokazatelně způsobila předchozí vláda udržováním naprosto zbytečně extrémně vysokých cen energií.\\n\\nProvide a structured, citation-backed verification of the claim: 'Za působení Fialovy vlády se celkové ratingové hodnocení Česka vyvíjelo hůře než za všech předchozích kabinetů nastoupivších v České republice v tomto miléniu.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 494.32 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Za vlády Petra Fialy došlo k&nbsp;největší koncentraci zhoršení výhledů a&nbsp;k menšímu snížení ratingu u&nbsp;agentury Scope, základní ratingové stupně tří hlavních agentur ale zůstaly historicky nejvyšší. Výrok proto hodnotíme jako zavádějící.</p>\n\n<p>Tvrzení se snaží porovnat vývoj úvěrového hodnocení České republiky za vlády Petra Fialy (od konce roku 2021) s&nbsp;vládami, které nastoupily po roce 2000. Jako podklad jsme využili přehled historických ratingů na webu <a href=\"https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/\">České národní banky</a> a&nbsp;aktuální souhrn hodnocení na stránkách <a href=\"https://www.mfcr.cz/en/fiscal-policy/state-debt/basic-information/rating\">Ministerstva financí</a>, doplněné o&nbsp;časové řady změn ratingů a&nbsp;výhledů u&nbsp;agentur Moody’s, Standard &amp; Poor’s (S&amp;P), Fitch a&nbsp;Scope.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/?utm_source=openai))</p>\n\n<p>Rating je syntetické vyjádření důvěryhodnosti státu jako dlužníka. Hlavní „písmenkové“ hodnocení (např. AA-, Aa3) doplňuje výhled (outlook) – pozitivní, stabilní, nebo negativní – který naznačuje pravděpodobný budoucí směr ratingu. Ministerstvo financí uvádí, že Česko dnes hodnotí kromě tří největších agentur i další instituce jako JCR, R&amp;I, DBRS Morningstar a&nbsp;Scope, všechny s&nbsp;hodnocením v&nbsp;rozmezí AA až AA- a&nbsp;se stabilním výhledem.([mfcr.cz](https://www.mfcr.cz/en/fiscal-policy/state-debt/basic-information/rating?utm_source=openai))</p>\n\n<p><strong>První dílčí tvrzení: Za Fialovy vlády se samy ratingové stupně zhoršily</strong></p>\n\n<p>Podle přehledu dlouhodobých ratingů v&nbsp;cizí měně na webu <a href=\"https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/\">České národní banky</a> se rating Moody’s v&nbsp;roce 2019 posunul z&nbsp;A1 na Aa3, Fitch v&nbsp;roce 2018 z&nbsp;A+ na AA‑ a&nbsp;S&amp;P drží hodnocení AA‑ už od roku 2011. Od roku 2018 (Fitch) a&nbsp;2019 (Moody’s) tak mají všechny tři velké agentury pro Česko nejvyšší známky v&nbsp;historii, které se nemění ani v&nbsp;letech 2021–2025.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/?utm_source=openai))</p>\n\n<p>To potvrzují i&nbsp;novější rozhodnutí agentur. S&amp;P v&nbsp;březnu 2025 znovu potvrdila dlouhodobé hodnocení Česka na úrovni „AA‑“ pro cizí měnu a&nbsp;„AA“ pro domácí měnu se stabilním výhledem.([investing.com](https://www.investing.com/news/world-news/sp-affirms-czech-republics-aaa1-foreign-and-aaa1-local-currency-ratings-93CH-3957442?utm_source=openai)) Fitch v&nbsp;únoru 2025 opět potvrdila rating „AA‑“ se stabilním výhledem a&nbsp;zdůraznila, že česká ekonomika má podle ní i&nbsp;nadále solidní makroekonomický rámec a&nbsp;umírněnou úroveň zadlužení.([investing.com](https://www.investing.com/news/stock-market-news/czech-republics-aa-credit-rating-affirmed-by-fitch-with-stable-outlook-93CH-3874790?utm_source=openai))</p>\n\n<p>Jinými slovy: Písmenkové hodnocení hlavních tří agentur bylo na konci vlády Andreje Babiše a&nbsp;za vlády Petra Fialy je stále stejné – na historicky nejvyšších úrovních. U&nbsp;žádné z&nbsp;těchto tří agentur nedošlo za Fialova kabinetu ke snížení ratingového stupně, pouze k&nbsp;opakovaným potvrzením stávající úrovně.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/?utm_source=openai))</p>\n\n<p>Pokud tedy „celkové ratingové hodnocení“ chápeme úzce jako samotný ratingový stupeň u&nbsp;Moody’s, S&amp;P a&nbsp;Fitch, první část výroku neodpovídá realitě – za Fialovy vlády se tyto ratings nezhoršily, ale zůstaly na špičkové úrovni dosažené už před jejím nástupem.</p>\n\n<p><strong>Druhé dílčí tvrzení: Celkový vývoj (včetně výhledů a&nbsp;dalších agentur) byl horší než za všech předchozích vlád po roce 2000</strong></p>\n\n<p>Širší interpretace výroku ale může do „celkového hodnocení“ zahrnovat nejen samotné ratingové stupně, ale i&nbsp;změny výhledů a&nbsp;hodnocení dalších agentur. Z&nbsp;časových řad, které shrnuje například server <a href=\"https://www.theglobaleconomy.com/Czech-Republic/credit_rating/\">TheGlobalEconomy.com</a>, je patrné, že do roku 2021 byly kroky hlavních agentur vůči Česku převážně pozitivní (zlepšení ratingu nebo přechod ze stabilního na pozitivní výhled) či neutrální. První zřetelně negativní krok před rokem 2022 představovala změna výhledu Fitch z&nbsp;pozitivního na stabilní v&nbsp;roce 2011 v&nbsp;souvislosti s&nbsp;dluhovou krizí v&nbsp;eurozóně.([fxempire.com](https://www.fxempire.com/macro/credit-ratings/czech-republic?utm_source=openai))</p>\n\n<p>Za vlády Petra Fialy ale v&nbsp;roce 2022 přišla celá série zhoršení výhledů. Podle dat shrnutých na <a href=\"https://www.theglobaleconomy.com/Czech-Republic/credit_rating/\">TheGlobalEconomy.com</a> převedla Moody’s v&nbsp;srpnu 2022 své hodnocení Aa3 ze stabilního na negativní výhled, Fitch v&nbsp;roce 2022 dvakrát potvrdila rating AA‑, ale s&nbsp;negativním výhledem, a&nbsp;evropská agentura Scope v&nbsp;červenci 2022 potvrdila rating AA, ale výhled rovněž změnila ze stabilního na negativní.([theglobaleconomy.com](https://www.theglobaleconomy.com/Czech-Republic/credit_rating/?utm_source=openai))</p>\n\n<p>Agentura Scope výslovně uvádí, že změna výhledu na negativní odráží <i>„materiální oslabení střednědobých růstových vyhlídek v&nbsp;důsledku dopadů války na Ukrajině, narušení dodavatelských řetězců a&nbsp;vysoké inflace“</i>, a&nbsp;upozorňuje i&nbsp;na závislost české ekonomiky na ruské energii a&nbsp;externí poptávce.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai)) V&nbsp;květnu 2023 pak tato agentura přistoupila k&nbsp;jedinému skutečnému snížení ratingu Česka v&nbsp;daném období: z&nbsp;AA na AA‑, přičemž výhled vrátila na stabilní. Vysvětluje to především oslabením střednědobého růstového potenciálu a&nbsp;trvale horšími fiskálními ukazateli po pandemii.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/174263?utm_source=openai))</p>\n\n<p>Fitch ve zprávě z&nbsp;března 2023 potvrdila rating AA‑ a&nbsp;ponechala negativní výhled, což znamená, že i&nbsp;ona vnímala zvýšené riziko budoucího zhoršení, byť k&nbsp;samotnému snížení ratingu nepřistoupila.([cbonds.com](https://cbonds.com/news/2197026/?utm_source=openai)) Teprve později, v&nbsp;roce 2025, Fitch oznámila návrat k&nbsp;„AA‑“ se stabilním výhledem, když ocenila fiskální konsolidaci a&nbsp;postupné ekonomické oživení.([investing.com](https://www.investing.com/news/stock-market-news/czech-republics-aa-credit-rating-affirmed-by-fitch-with-stable-outlook-93CH-3874790?utm_source=openai)) Scope v&nbsp;roce 2024 i&nbsp;2025 opakovaně potvrzuje hodnocení AA‑ se stabilním výhledem a&nbsp;zdůrazňuje, že navzdory růstu dluhu zůstává jeho úroveň v&nbsp;rámci EU nízká.([scoperatings.com](https://scoperatings.com/ratings-and-research/rating/EN/176859?utm_source=openai))</p>\n\n<p>Souhrnně tedy platí, že v&nbsp;letech 2022–2023 došlo poprvé od počátku tisíciletí k&nbsp;větší koncentraci negativních kroků: několik hlavních agentur změnilo výhled Česka na negativní a&nbsp;Scope navíc jednou snížila samotný rating o&nbsp;jednu známku. V&nbsp;období před nástupem Fialovy vlády se naproti tomu ratingové stupně velkých agentur buď zlepšovaly, nebo byly stabilní a&nbsp;nejhorším zásahem bylo zmírnění dříve pozitivního výhledu Fitch na stabilní v&nbsp;roce 2011.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/?utm_source=openai))</p>\n\n<p>Je ale důležité dodat, že tyto negativní kroky byly reakcí především na mimořádné vnější šoky – pandemii covidu‑19, válku na Ukrajině, energetickou krizi a&nbsp;výrazné zhoršení inflačního a&nbsp;růstového vývoje v&nbsp;Evropě. Samy agentury v&nbsp;odůvodněních zhoršení výhledů a&nbsp;snížení ratingu zdůrazňují právě tyto faktory, nikoli specificky změnu vládní garnitury v&nbsp;ČR.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai))</p>\n\n<p><strong>Celkové zhodnocení výroku</strong></p>\n\n<p>Z čistě „písmenkového“ pohledu na ratingy tří hlavních agentur Moody’s, S&amp;P a&nbsp;Fitch neplatí, že by se za vlády Petra Fialy ratingové hodnocení Česka vyvíjelo hůře než dříve – ratingové stupně zůstaly na historicky nejvyšší úrovni, bez jakéhokoli snížení. Pokud však do „celkového hodnocení“ započítáme i&nbsp;výhledy a&nbsp;hodnocení dalších agentur, je pravda, že v&nbsp;letech 2022–2023 došlo k&nbsp;největšímu počtu zhoršení výhledu a&nbsp;k&nbsp;jednomu dílčímu snížení ratingu (u&nbsp;agentury Scope) v&nbsp;celém sledovaném období po roce 2000.</p>\n\n<p>Výrok ale tuto metodiku ani kontext mimořádných vnějších šoků neuvádí a&nbsp;může v&nbsp;běžném chápání vyvolat dojem, že se samotný úvěrový rating Česka v&nbsp;mezinárodním srovnání propadl. To neodpovídá skutečnosti – základní hodnocení zůstává velmi vysoké a&nbsp;po odeznění krizových šoků mají všechny hlavní agentury opět stabilní výhled. Celkově proto námi ověřovaný výrok hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0a609dd2dc421c8f00695e7da30178819c8aeec780544df57e",
+    "created_at": 1767800227.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7daef8f8819c9d0b8b5966780df7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7dbd9198819caf732abf40bca330",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7dbe5a70819cb34a32afba9d9f98",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7dbe8d30819cb7a480f1ad3b4201",
+        "action": {
+          "query": "\"Czech Republic\" sovereign credit rating history S&P",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7dc05854819c94059c8faab5a7a7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7dc1f8e0819ca685e507f9134f33",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7dc4247c819cb2a65c201bf81441",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7ddba664819cb070cf270df4fcea",
+        "action": {
+          "query": "\"Czech Republic\" rating downgrade \"Standard & Poor\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7de2d908819c9f4e605a73e3aac6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7de6592c819ca11e65ef1734a1cc",
+        "action": {
+          "query": "\"Fitch\" \"Czech Republic\" \"Outlook revised to Negative\" 2022 2023",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7deda934819cb6e5ede0a001f181",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7dfbcaf4819c8bb34da0caebcd0c",
+        "action": {
+          "query": "\"Standard & Poor's\" \"Czech Republic\" rating action downgrade 2009",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e001700819cb7d6bac290ead41e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7e240158819c92012bccec116107",
+        "action": {
+          "query": "\"Moody's\" \"Czech Republic\" \"Outlook\" \"negative\" \"Aa3\" August 2022",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e29d190819c890ff2ec0c95d6d8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7e2a0d88819ca48f96e6393e6d2a",
+        "action": {
+          "query": "\"Fitch\" \"Czech Republic\" \"AA-\" \"Outlook Negative\" 2022",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e2d6bb4819c8aea4d789b2ffb8c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7e2e23d8819c82dbba3bdb9b561d",
+        "action": {
+          "query": "\"Fitch Ratings\" \"Czech Republic\" 'Long-Term Foreign-Currency IDR' 'AA-' 'Negative Outlook' 2022",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e32bc3c819ca42828e6ff7df390",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7e493d9c819cac30f3abe6b3127f",
+        "action": {
+          "query": "\"Government of the Czech Republic\" cabinets list since 1998",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e4fc5e8819cb865c9da52a438e9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7e53d05c819c9ff5bfe795a24eb7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e560d48819ca74994ddfe298fc3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7e5d77a4819cbeda01fcf837ce26",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e5f3900819cb4df4c55c3e748e1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7e63f800819cb37107b81e5c685a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e6554a0819cbb9a1a457066ec40",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7e699c40819c8ce17914172b2111",
+        "action": {
+          "query": "\"Czech Republic\" \"Fitch Ratings\" \"Long-Term Foreign-Currency IDR\" \"AA-\" \"Outlook\" 2022",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e72e7c4819cbf86ddf5011cdfcd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7e879fa0819c8e8cf27998afd0ca",
+        "action": {
+          "query": "\"Czech Republic\" \"DBRS\" \"AA\" \"Stable\" 2019",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e8c8004819c8abf73fe036b48d6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7e95cde4819c85562674773133cb",
+        "action": {
+          "query": "\"Scope Ratings\" \"Czech Republic\" 2017",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7e9ae070819c9049ce45afa3e7c7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7ea05a1c819c9cf3387bd4a583ac",
+        "action": {
+          "query": "\"Czech Republic\" \"Rating and Investment Information\" R&I sovereign rating",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7ea72d74819c85c4182ac8750d62",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7ec4305c819c8f03d2b10c5c03e3",
+        "action": {
+          "query": "\"Moody's\" \"Czech Republic\" \"negative outlook\" 2010",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7ecf6dd4819c874da287bc810b23",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7ee50468819cb0188f9f7d763e32",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7ee84060819c975ba1f32bcb6838",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a609dd2dc421c8f00695e7ee9c548819c9093e60a2f503d4b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a609dd2dc421c8f00695e7eec4ca8819c9aac6453c4522046",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0a609dd2dc421c8f00695e7f1b51f8819c99abe95c6cdde51a",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1318,
+                "start_index": 1234,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 1510,
+                "start_index": 1426,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 1656,
+                "start_index": 1572,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 1828,
+                "start_index": 1744,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 1950,
+                "start_index": 1866,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 2075,
+                "start_index": 1991,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 2202,
+                "start_index": 2118,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 2369,
+                "start_index": 2285,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 2807,
+                "start_index": 2651,
+                "title": "The credit rating of the Czech Republic - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/monetary-policy/inflation-reports/boxes-and-annexes-contained-in-inflation-reports/The-credit-rating-of-the-Czech-Republic"
+              },
+              {
+                "end_index": 3219,
+                "start_index": 3116,
+                "title": "Rating | Ministry of Finance CR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/en/fiscal-policy/state-debt/basic-information/rating?utm_source=openai"
+              },
+              {
+                "end_index": 3695,
+                "start_index": 3485,
+                "title": "Debt Portfolio Management Quarterly Report - 1st Half of 2025 | Ministry of Finance CR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/en/fiscal-policy/state-debt/publications-and-presentations/debt-portfolio-management-quarterly-review/2025/debt-portfolio-management-quarterly-report-1st-hal-60465?utm_source=openai"
+              },
+              {
+                "end_index": 3833,
+                "start_index": 3730,
+                "title": "Rating | Ministry of Finance CR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/en/fiscal-policy/state-debt/basic-information/rating?utm_source=openai"
+              },
+              {
+                "end_index": 4254,
+                "start_index": 4170,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 4451,
+                "start_index": 4367,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 4825,
+                "start_index": 4734,
+                "title": "Rating: Czech Republic Credit Rating 2026 | countryeconomy.com",
+                "type": "url_citation",
+                "url": "https://countryeconomy.com/ratings/czech-republic?utm_source=openai"
+              },
+              {
+                "end_index": 5091,
+                "start_index": 4997,
+                "title": "Czech Republic - Credit Rating",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/czech-republic/rating?utm_source=openai"
+              },
+              {
+                "end_index": 5390,
+                "start_index": 5272,
+                "title": "Moody's lowers outlook for Czechia from stable to negative | Radio Prague International",
+                "type": "url_citation",
+                "url": "https://english.radio.cz/moodys-lowers-outlook-czechia-stable-negative-8757986?utm_source=openai"
+              },
+              {
+                "end_index": 5569,
+                "start_index": 5475,
+                "title": "Czech Republic - Credit Rating",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/czech-republic/rating?utm_source=openai"
+              },
+              {
+                "end_index": 5729,
+                "start_index": 5645,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 6193,
+                "start_index": 6069,
+                "title": "Fitch revises outlook for Czech economy from stable to negative | Radio Prague International",
+                "type": "url_citation",
+                "url": "https://english.radio.cz/fitch-revises-outlook-czech-economy-stable-negative-8749810?utm_source=openai"
+              },
+              {
+                "end_index": 6526,
+                "start_index": 6392,
+                "title": "Fitch maintains negative long-term outlook for Czech economy - Prague, Czech Republic",
+                "type": "url_citation",
+                "url": "https://www.expats.cz/czech-news/article/fitch-maintains-negative-long-term-outlook-for-czech-economy?utm_source=openai"
+              },
+              {
+                "end_index": 6776,
+                "start_index": 6670,
+                "title": "Czechia Sovereign credit ratings - data, chart | TheGlobalEconomy.com",
+                "type": "url_citation",
+                "url": "https://www.theglobaleconomy.com/Czech-Republic/credit_rating/?utm_source=openai"
+              },
+              {
+                "end_index": 7084,
+                "start_index": 6929,
+                "title": "Good credit rating of the Czech Republic confirmed by Standard & Poor’s | Ministry of Finance CR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai"
+              },
+              {
+                "end_index": 7401,
+                "start_index": 7295,
+                "title": "Scope affirms Czech Republic’s AA ratings with a Stable Outlook | Scope Ratings | European Rating Agency",
+                "type": "url_citation",
+                "url": "https://www.scoperatings.com/ratings-and-research/rating/EN/169854?utm_source=openai"
+              },
+              {
+                "end_index": 7779,
+                "start_index": 7673,
+                "title": "Scope affirms Czech Republic's AA ratings; Outlook revised to Negative | Scope Ratings | European Rating Agency",
+                "type": "url_citation",
+                "url": "https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai"
+              },
+              {
+                "end_index": 8061,
+                "start_index": 7955,
+                "title": "Scope downgrades Czech Republic's credit ratings to AA-; Outlook revised to Stable | Scope Ratings | European Rating Agency",
+                "type": "url_citation",
+                "url": "https://www.scoperatings.com/ratings-and-research/rating/EN/174263?utm_source=openai"
+              },
+              {
+                "end_index": 8253,
+                "start_index": 8147,
+                "title": "Scope affirms Czech Republic’s credit ratings at AA- with Stable Outlook | Scope Ratings | European Rating Agency",
+                "type": "url_citation",
+                "url": "https://www.scoperatings.com/ratings-and-research/rating/EN/176859?utm_source=openai"
+              },
+              {
+                "end_index": 8862,
+                "start_index": 8652,
+                "title": "Debt Portfolio Management Quarterly Report - 1st Half of 2025 | Ministry of Finance CR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/en/fiscal-policy/state-debt/publications-and-presentations/debt-portfolio-management-quarterly-review/2025/debt-portfolio-management-quarterly-report-1st-hal-60465?utm_source=openai"
+              },
+              {
+                "end_index": 9084,
+                "start_index": 9000,
+                "title": "Czech Republic | Japan Credit Rating Agency, Ltd. - JCR",
+                "type": "url_citation",
+                "url": "https://www.jcr.co.jp/en/ratinglist/sovereign/12058?utm_source=openai"
+              },
+              {
+                "end_index": 9351,
+                "start_index": 9196,
+                "title": "Good credit rating of the Czech Republic confirmed by Standard & Poor’s | Ministry of Finance CR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai"
+              },
+              {
+                "end_index": 9925,
+                "start_index": 9810,
+                "title": "List of prime ministers of the Czech Republic",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_the_Czech_Republic?utm_source=openai"
+              },
+              {
+                "end_index": 10204,
+                "start_index": 10120,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 10405,
+                "start_index": 10321,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 10539,
+                "start_index": 10455,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 10734,
+                "start_index": 10650,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 10908,
+                "start_index": 10824,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 11075,
+                "start_index": 10991,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 11206,
+                "start_index": 11122,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 11378,
+                "start_index": 11294,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 11711,
+                "start_index": 11555,
+                "title": "The credit rating of the Czech Republic - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/monetary-policy/inflation-reports/boxes-and-annexes-contained-in-inflation-reports/The-credit-rating-of-the-Czech-Republic"
+              },
+              {
+                "end_index": 11909,
+                "start_index": 11825,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 12117,
+                "start_index": 12033,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 12455,
+                "start_index": 12300,
+                "title": "Good credit rating of the Czech Republic confirmed by Standard & Poor’s | Ministry of Finance CR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai"
+              },
+              {
+                "end_index": 12618,
+                "start_index": 12534,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 12772,
+                "start_index": 12688,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 13425,
+                "start_index": 13319,
+                "title": "Scope affirms the Czech Republic’s credit rating of AA, Outlook remains Stable | Scope Ratings | European Rating Agency",
+                "type": "url_citation",
+                "url": "https://www.scoperatings.com/ratings-and-research/rating/EN/155849?utm_source=openai"
+              },
+              {
+                "end_index": 13823,
+                "start_index": 13732,
+                "title": "Rating: Czech Republic Credit Rating 2026 | countryeconomy.com",
+                "type": "url_citation",
+                "url": "https://countryeconomy.com/ratings/czech-republic?utm_source=openai"
+              },
+              {
+                "end_index": 14151,
+                "start_index": 14067,
+                "title": "Eurozone debt crisis affects Eastern Europe ratings outlook - Fitch",
+                "type": "url_citation",
+                "url": "https://interfax.com/newsroom/top-stories/57987/?utm_source=openai"
+              },
+              {
+                "end_index": 14449,
+                "start_index": 14365,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 14617,
+                "start_index": 14533,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 14962,
+                "start_index": 14878,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 15183,
+                "start_index": 15099,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 15860,
+                "start_index": 15766,
+                "title": "Czech Republic - Credit Rating",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/czech-republic/rating?utm_source=openai"
+              },
+              {
+                "end_index": 16160,
+                "start_index": 16036,
+                "title": "Fitch revises outlook for Czech economy from stable to negative | Radio Prague International",
+                "type": "url_citation",
+                "url": "https://english.radio.cz/fitch-revises-outlook-czech-economy-stable-negative-8749810?utm_source=openai"
+              },
+              {
+                "end_index": 16421,
+                "start_index": 16315,
+                "title": "Scope affirms Czech Republic's AA ratings; Outlook revised to Negative | Scope Ratings | European Rating Agency",
+                "type": "url_citation",
+                "url": "https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai"
+              },
+              {
+                "end_index": 16695,
+                "start_index": 16577,
+                "title": "Moody's lowers outlook for Czechia from stable to negative | Radio Prague International",
+                "type": "url_citation",
+                "url": "https://english.radio.cz/moodys-lowers-outlook-czechia-stable-negative-8757986?utm_source=openai"
+              },
+              {
+                "end_index": 16940,
+                "start_index": 16834,
+                "title": "Scope downgrades Czech Republic's credit ratings to AA-; Outlook revised to Stable | Scope Ratings | European Rating Agency",
+                "type": "url_citation",
+                "url": "https://www.scoperatings.com/ratings-and-research/rating/EN/174263?utm_source=openai"
+              },
+              {
+                "end_index": 17203,
+                "start_index": 17112,
+                "title": "Rating: Czech Republic Credit Rating 2026 | countryeconomy.com",
+                "type": "url_citation",
+                "url": "https://countryeconomy.com/ratings/czech-republic?utm_source=openai"
+              },
+              {
+                "end_index": 17436,
+                "start_index": 17330,
+                "title": "Scope affirms the Czech Republic’s credit rating of AA, Outlook remains Stable | Scope Ratings | European Rating Agency",
+                "type": "url_citation",
+                "url": "https://www.scoperatings.com/ratings-and-research/rating/EN/155849?utm_source=openai"
+              },
+              {
+                "end_index": 17751,
+                "start_index": 17596,
+                "title": "Good credit rating of the Czech Republic confirmed by Standard & Poor’s | Ministry of Finance CR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai"
+              },
+              {
+                "end_index": 18512,
+                "start_index": 18428,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 18761,
+                "start_index": 18677,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 18951,
+                "start_index": 18867,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/"
+              },
+              {
+                "end_index": 19504,
+                "start_index": 19386,
+                "title": "Moody's lowers outlook for Czechia from stable to negative | Radio Prague International",
+                "type": "url_citation",
+                "url": "https://english.radio.cz/moodys-lowers-outlook-czechia-stable-negative-8757986?utm_source=openai"
+              },
+              {
+                "end_index": 19712,
+                "start_index": 19606,
+                "title": "Scope downgrades Czech Republic's credit ratings to AA-; Outlook revised to Stable | Scope Ratings | European Rating Agency",
+                "type": "url_citation",
+                "url": "https://www.scoperatings.com/ratings-and-research/rating/EN/174263?utm_source=openai"
+              },
+              {
+                "end_index": 20070,
+                "start_index": 19979,
+                "title": "Rating: Czech Republic Credit Rating 2026 | countryeconomy.com",
+                "type": "url_citation",
+                "url": "https://countryeconomy.com/ratings/czech-republic?utm_source=openai"
+              },
+              {
+                "end_index": 20695,
+                "start_index": 20589,
+                "title": "Scope affirms Czech Republic's AA ratings; Outlook revised to Negative | Scope Ratings | European Rating Agency",
+                "type": "url_citation",
+                "url": "https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai"
+              },
+              {
+                "end_index": 20932,
+                "start_index": 20830,
+                "title": "Rating agencies - Czech National Bank",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Tvrzení a možné interpretace\n\nCitované tvrzení:\n\n> „Za působení Fialovy vlády se celkové ratingové hodnocení Česka vyvíjelo hůře než za všech předchozích kabinetů nastoupivších v České republice v tomto miléniu.“\n\nTo lze rozumně číst minimálně dvěma způsoby:\n\n1. **Úzká interpretace – pouze samotné ratingové stupně hlavních tří agentur (Moody’s, S&P, Fitch)**  \n   – sledujeme, zda se písmenkový rating (Aa3, AA‑, …) za Fialovy vlády zhoršil víc než za předchozích vlád, nebo se naopak nevyvíjel.\n\n2. **Širší interpretace – „celkové ratingové hodnocení“ = kombinace ratingů více agentur + změny výhledu (stable/positive/negative)**  \n   – započítáme i výhledy (outlook) a nové/menší agentury (Scope, DBRS, JCR, R&I) a ptáme se, jestli za Fialovy vlády došlo k největšímu počtu zhoršení (negativní výhledy, snížení ratingu).\n\nNíže jsou důkazy pro obě interpretace zvlášť.\n\n---\n\n## 2. Základní oficiální zdroje k ratingu ČR\n\n### 2.1. Dlouhodobý přehled ratingů (Moody’s, S&P, Fitch)\n\nČeská národní banka na své stránce „Rating agencies“ uvádí tabulku „Developmets of the rating of the CR (Foreign Currency Long‑Term Sovereign Debt Ratings)“ s ročním přehledem ratingů Moody’s, Standard & Poor’s a Fitch od roku 1992 do roku 2025.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\nKlíčové řádky (zjednodušeně):\n\n- **Rok 2000–2001**:  \n  – Moody’s: Baa1  \n  – S&P: A‑  \n  – Fitch: BBB+ ([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **Rok 2002**: Moody’s zvyšuje na A1 (S&P A‑, Fitch BBB+).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **2003–2008**: postupné zvyšování Fitch (do A+ v r. 2008) a S&P (A‑ → A v r. 2007).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **2011**: S&P zvyšuje z A na AA‑.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **2018**: Fitch zvyšuje z A+ na AA‑.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **2019**: Moody’s zvyšuje z A1 na Aa3.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **2019–2025**:  \n  – Moody’s: Aa3  \n  – S&P: AA‑  \n  – Fitch: AA‑ (beze změny)([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\nV boxu ČNB z roku 2011 se shrnuje, že (překlad):\n\n> „S výjimkou období měnových turbulencí v letech 1997–1998 se rating České republiky v celé své historii **stále zlepšoval**. Poslední zlepšení nastalo letos v srpnu, kdy Standard and Poor’s zvýšila rating o dva stupně na AA‑.“([cnb.cz](https://www.cnb.cz/en/monetary-policy/inflation-reports/boxes-and-annexes-contained-in-inflation-reports/The-credit-rating-of-the-Czech-Republic))  \n\nTo potvrzuje, že do roku 2011 byl trend ratingu převážně zlepšující; po roce 2011 zůstává na velmi vysokých úrovních.\n\n### 2.2. Aktuální přehled více agentur (stav 2025)\n\nMinisterstvo financí ČR zveřejňuje souhrnný přehled ratingů (lokální i cizoměnový, víc agentur) – naposledy aktualizovaný 22. 9. 2025.([mfcr.cz](https://www.mfcr.cz/en/fiscal-policy/state-debt/basic-information/rating?utm_source=openai))  \n\nPro **dlouhodobý rating v cizí měně** uvádí:\n\n- Moody’s: **Aa3, Stable**  \n- S&P Global Ratings: **AA‑, Stable**  \n- Fitch Ratings: **AA‑, Stable**  \n- JCR: **AA‑, Stable**  \n- R&I: **AA‑, Stable**  \n- Morningstar DBRS: **AA, Stable** (první přidělení v 04/2025)([mfcr.cz](https://mfcr.cz/en/fiscal-policy/state-debt/publications-and-presentations/debt-portfolio-management-quarterly-review/2025/debt-portfolio-management-quarterly-report-1st-hal-60465?utm_source=openai))  \n- Scope Ratings: **AA‑, Stable**([mfcr.cz](https://www.mfcr.cz/en/fiscal-policy/state-debt/basic-information/rating?utm_source=openai))  \n\nVšechny uvedené ratingy jsou v roce 2025 na velmi vysoké úrovni (AA–/Aa3 a výše) se stabilním výhledem.\n\n---\n\n## 3. Vývoj ratingu za vlády Petra Fialy (12/2021–12/2025)\n\n### 3.1. Hlavní tři agentury – úroveň ratingu\n\nZ tabulky ČNB plyne:\n\n- **Na začátku Fialovy vlády (rok 2021)**:  \n  – Moody’s: Aa3  \n  – S&P: AA‑  \n  – Fitch: AA‑ ([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- **Po celou dobu vlády (2022–2025)**:  \n  – Moody’s: Aa3  \n  – S&P: AA‑  \n  – Fitch: AA‑ (žádná změna stupně)([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\nTedy **žádná z velkých tří agentur rating ČR za Fialovy vlády nesnížila** (ani nezvýšila); rating zůstal na historicky nejvyšších úrovních.\n\n### 3.2. Změny výhledu (outlook) – Moody’s a Fitch\n\n**Moody’s**\n\n- V říjnu 2019 povýšila Moody’s ČR z A1 na **Aa3 se stabilním výhledem**.([countryeconomy.com](https://countryeconomy.com/ratings/czech-republic?utm_source=openai))  \n- V srpnu 2022 Moody’s **změnila výhled z „stable“ na „negative“** při zachování ratingu Aa3. Podle přehledu Trading Economics: „Moody's – Aa3 – Negative – Aug 05 2022“.([tradingeconomics.com](https://tradingeconomics.com/czech-republic/rating?utm_source=openai))  \n- Radio Prague shrnuje, že Moody’s „**snížila výhled České republiky ze stabilního na negativní** kvůli možnému přerušení dodávek ruského plynu“, přičemž rating Aa3 byl potvrzen.([english.radio.cz](https://english.radio.cz/moodys-lowers-outlook-czechia-stable-negative-8757986?utm_source=openai))  \n- V listopadu 2023 Moody’s opět změnila výhled zpět na **stabilní** (Aa3, Stable).([tradingeconomics.com](https://tradingeconomics.com/czech-republic/rating?utm_source=openai))  \n\n**Fitch**\n\n- Fitch držel ČR na **AA‑ se stabilním výhledem** dlouhodobě.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- V roce 2022 Fitch „**revised its assessment… maintaining the AA‑ rating but revising the outlook… from stable to negative**“, s odůvodněním nižšího růstu, silné inflace a závislosti na ruské energii. (citace z Radio Prague: „revised… outlook for the Czech Republic from stable to negative… while maintaining the country’s AA‑ rating“).([english.radio.cz](https://english.radio.cz/fitch-revises-outlook-czech-economy-stable-negative-8749810?utm_source=openai))  \n- Článek Expats.cz z roku 2023 zmiňuje, že Fitch **„maintains its negative outlook“** a popisuje, že negativní výhled odráží zhoršení veřejných financí a nejistotu ohledně strukturálních deficitů.([expats.cz](https://www.expats.cz/czech-news/article/fitch-maintains-negative-long-term-outlook-for-czech-economy?utm_source=openai))  \n- Podle globálních souhrnů Fitch zůstal vlastní rating AA‑, ale výhled byl negativní v letech 2022–první polovina 2024 a poté znovu stabilní.([theglobaleconomy.com](https://www.theglobaleconomy.com/Czech-Republic/credit_rating/?utm_source=openai))  \n\n### 3.3. Agentura Scope Ratings – skutečné snížení ratingu\n\nScope Ratings (evropská ratingová agentura, kterou MF ČR uvádí vedle Moody’s, S&P a Fitch([mfcr.cz](https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai))) má výrazně odlišný vývoj za Fialovy vlády:\n\n- **leden 2022 (Fialova vláda čerstvě v úřadu)**: Scope potvrzuje **AA se stabilním výhledem** – „affirmed the Czech Republic’s AA ratings… All Outlooks are Stable“.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/169854?utm_source=openai))  \n- **červenec 2022**: Scope **ponechává rating AA, ale mění výhled na Negative** („has… affirmed… AA and has revised the Outlook to Negative, from Stable“), s odkazem na výrazné oslabení růstových vyhlídek, energetickou závislost na Rusku a tlak na fiskální konsolidaci.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai))  \n- **květen 2023**: Scope **snižuje rating z AA na AA‑** a zároveň vrací výhled na Stable: „downgraded… to AA‑ from AA and has revised the Outlooks to Stable from Negative…“.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/174263?utm_source=openai))  \n- **2024 a 2025**: Scope několikrát potvrzuje rating **AA‑ se stabilním výhledem**.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/176859?utm_source=openai))  \n\nTo je **jediné skutečné snížení suverénního ratingu ČR** (alespoň mezi významnými agenturami, které MF ČR sleduje) od slabších let 90. let; a stalo se právě za vlády Petra Fialy.\n\n### 3.4. Jiné agentury\n\n- **DBRS Morningstar** udělil ČR v dubnu 2025 **první rating AA (local i foreign currency) se stabilním výhledem**. MF uvádí, že jde o „first‑ever credit rating at AA… with a stable outlook“.([mfcr.cz](https://mfcr.cz/en/fiscal-policy/state-debt/publications-and-presentations/debt-portfolio-management-quarterly-review/2025/debt-portfolio-management-quarterly-report-1st-hal-60465?utm_source=openai))  \n- **JCR** dlouhodobě drží rating AA‑/AA se stabilním výhledem; v letech 2019, 2020 a 2022–2025 pouze rating potvrzuje (žádné zhoršení).([jcr.co.jp](https://www.jcr.co.jp/en/ratinglist/sovereign/12058?utm_source=openai))  \n- **R&I** je MF uváděna s ratingem AA‑, Stable; veřejně dostupné důkazy o snížení v posledních letech nejsou.([mfcr.cz](https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai))  \n\n---\n\n## 4. Vývoj ratingu za předchozích vlád (kabinetů nastoupivších po roce 2000)\n\n### 4.1. Přehled vlád po roce 2000\n\nPodle přehledu premiérů: Vladimír Špidla (2002–2004), Stanislav Gross (2004–2005), Jiří Paroubek (2005–2006), vlády Mirka Topolánka (2006–2009), Jan Fischer (2009–2010), Petr Nečas (2010–2013), Jiří Rusnok (2013–2014), Bohuslav Sobotka (2014–2017), Andrej Babiš I (2017–2018), Andrej Babiš II (2018–2021), Petr Fiala (od 17. 12. 2021).([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_prime_ministers_of_the_Czech_Republic?utm_source=openai))  \n\nOkamura mluví o **kabinetech, které nastoupily v tomto miléniu**, tedy od Špidlovy vlády výše.\n\n### 4.2. Změny ratingu Moody’s / S&P / Fitch za jednotlivých vlád\n\nNa základě roční tabulky ČNB([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/)) lze shrnout hlavní změny:\n\n- **Špidla (07/2002–08/2004)**  \n  – V roce 2002 Moody’s zvyšuje rating z Baa1 na **A1**.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n  – Fitch v roce 2003 zvyšuje z **BBB+ na A‑**.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n  → Celkově zřetelné zlepšení.\n\n- **Gross (08/2004–04/2005)**  \n  – V roce 2005 Fitch zvyšuje z **A‑ na A**.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Paroubek (2005–2006)**  \n  – V letech 2005–2006 jsou ratingy stabilní (A1, A‑, A).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Topolánek I a II (2006–2009)**  \n  – V roce 2007 S&P zvyšuje z **A‑ na A**.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n  – V roce 2008 Fitch zvyšuje z **A na A+**.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Fischer (2009–2010)**  \n  – 2009–2010: Moody’s A1, S&P A, Fitch A+ (beze změny).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Nečas (2010–2013)**  \n  – V roce 2011 S&P zvyšuje z **A na AA‑** – „Standard & Poor’s… increased the Czech Republic’s rating by two grades to AA‑“ (citace z článku ČNB).([cnb.cz](https://www.cnb.cz/en/monetary-policy/inflation-reports/boxes-and-annexes-contained-in-inflation-reports/The-credit-rating-of-the-Czech-Republic))  \n  – Fitch zůstává na A+.  \n\n- **Rusnok (2013–2014)**  \n  – 2013–2014: Moody’s A1, S&P AA‑, Fitch A+ (stabilní).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Sobotka (2014–2017)**  \n  – Ratingy tří hlavních agentur jsou po celou dobu stabilní: Moody’s A1, S&P AA‑, Fitch A+.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n- **Babiš I (2017–2018)**  \n  – Srpen 2018: Fitch zvyšuje z **A+ na AA‑**, jak potvrzuje tisková zpráva MF („Fitch Ratings… A+ Positive…“ s následným potvrzením AA‑ v srpnu 2018).([mfcr.cz](https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai))  \n\n- **Babiš II (2018–2021)**  \n  – V roce 2018 Fitch již uváděn jako **AA‑**;([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n  – Říjen 2019 Moody’s zvyšuje z **A1 na Aa3** s výhledem „Stable“.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n**Shrnutí:**  \nOd roku 2000 do nástupu Fialovy vlády:\n\n- **žádná z velkých tří agentur rating ČR nesnížila**,  \n- opakovaně docházelo k **postupným zlepšením** (Moody’s 2002 a 2019, Fitch 2003, 2005, 2008, 2018, S&P 2007, 2011),  \n- několik vlád (Paroubek, Fischer, Sobotka) mělo ratingy stabilní, ale ne horší než před nimi.\n\n### 4.3. Změny výhledu a dalších agentur před rokem 2021\n\n**Scope Ratings před Fialou**\n\n- Scope od roku 2017–2018 opakovaně potvrzuje rating **AA se stabilním výhledem** (např. 2017 „AA, Stable“, 2020 „AA, Stable“).([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/155849?utm_source=openai))  \n- Do roku 2021 neexistuje záznam o negativním výhledu či snížení ratingu Scope u ČR.\n\n**Moody’s / Fitch – starší výhledy**\n\n- Souhrny Trading Economics a CountryEconomy pro Moody’s ukazují před srpnem 2022 pouze výhledy **„Stable“ nebo „Positive“**, žádný „Negative“ pro suverénní rating ČR po roce 2000.([countryeconomy.com](https://countryeconomy.com/ratings/czech-republic?utm_source=openai))  \n- U Fitch existovaly v regionu tzv. „negative actions“ typu změny z Positive na Stable (EE krize 2011–2012), ale dostupné zdroje neukazují, že by Fitch kdy po roce 2000 u ČR přešla na **negativní výhled** u státního ratingu – až v roce 2022.([interfax.com](https://interfax.com/newsroom/top-stories/57987/?utm_source=openai))  \n\n---\n\n## 5. Syntéza: jak „se vyvíjelo celkové ratingové hodnocení“\n\n### 5.1. Pokud sledujeme jen úroveň ratingu velké trojky\n\n**Fakta:**\n\n- Na začátku Fialovy vlády (2021):  \n  – Moody’s Aa3, S&P AA‑, Fitch AA‑.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- Ke konci vlády (2024–2025):  \n  – Moody’s Aa3, S&P AA‑, Fitch AA‑ (beze změny).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- U žádné z těchto agentur nedošlo k **snížení** ratingu; ratingy zůstaly na historicky nejvyšších úrovních.\n\n**Srovnání s předchozími vládami (od Špidly):**\n\n- Většina předchozích vlád zažila **zlepšení ratingu** (Špidla, Gross, Topolánek, Nečas, Babiš II).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n- Některé vlády měly ratingy stabilní (Paroubek, Fischer, Sobotka), tj. stejný typ vývoje jako Fiala – žádné zlepšení, žádné zhoršení.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n**Závěr pro tuto úzkou definici:**\n\n- Vývoj ratingu za Fialovy vlády (0 změn stupně) **není horší** než např. za vlády Bohuslava Sobotky, kdy také nedošlo k žádnému upgradu ani downgradu.  \n- Tvrzení, že rating se „vyvíjel hůře než za všech předchozích kabinetů“ je v tomto pojetí **nepodložené** – existují předchozí kabinetní období se stejným (nulovým) zlepšením/zhoršením.\n\n### 5.2. Pokud zahrneme i výhledy a další agentury\n\n**Negativní pohyby za Fialovy vlády:**\n\n- **Moody’s**: změna výhledu Aa3 z **„Stable“ na „Negative“ (8/2022)**, později návrat na „Stable“ (11/2023).([tradingeconomics.com](https://tradingeconomics.com/czech-republic/rating?utm_source=openai))  \n- **Fitch**: změna výhledu AA‑ z **„Stable“ na „Negative“** kvůli nižšímu růstu, inflaci a energetické závislosti, negativní výhled trval několik let, rating ale zůstal AA‑.([english.radio.cz](https://english.radio.cz/fitch-revises-outlook-czech-economy-stable-negative-8749810?utm_source=openai))  \n- **Scope**: nejdřív změna výhledu AA z „Stable“ na **„Negative“ (7/2022)** a poté **skutečný downgrade z AA na AA‑ (5/2023)**, výhled zpět na „Stable“.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai))  \n\n**Rozsah těchto zhoršení v čase:**\n\n- Negativní výhled Moody’s a Fitch se objevují krátce po sobě v roce 2022, v kulminaci energetické a inflační krize.([english.radio.cz](https://english.radio.cz/moodys-lowers-outlook-czechia-stable-negative-8757986?utm_source=openai))  \n- Scope downgrade 2023 výslovně spojuje s oslabením růstových vyhlídek a zhoršením fiskálních parametrů po pandemii a energetické krizi.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/174263?utm_source=openai))  \n\n**Předchozí vlády:**\n\n- U Moody’s, S&P, Fitch po roce 2000 **nenajdeme negativní výhled** na suverénní rating ČR; výhledy byly „Stable“ nebo „Positive“ až do roku 2022.([countryeconomy.com](https://countryeconomy.com/ratings/czech-republic?utm_source=openai))  \n- Scope držel od 2017 do počátku 2022 Czech Republic na **AA se stabilním výhledem** – bez downgrade či negativního výhledu.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/155849?utm_source=openai))  \n- MFČR v roce 2018 prezentuje portfolio ratingů (Moody’s, S&P, Fitch, JCR, R&I, Scope, Dagong) a všechna jsou buď „Stable“ nebo „Positive“, žádné „Negative“.([mfcr.cz](https://www.mfcr.cz/en/about-ministry/media-room/news-and-press-releases/2018/good-credit-rating-of-the-czech-republic-32551?utm_source=openai))  \n\n**Závěr pro širší definici:**\n\n- Za Fialovy vlády došlo **poprvé v období po roce 2000** k tomu, že dvě velké agentury (Moody’s, Fitch) daly ČR **negativní výhled** a jedna významná evropská agentura (Scope) dokonce **snížila samotný rating** z AA na AA‑.  \n- V tomto širším smyslu lze říci, že **zhoršení v systému „rating + výhled + více agentur“ je v období Fialovy vlády výraznější než za kabinetů, které nastoupily po roce 2000**, kde převažovaly upgrady nebo stabilita.\n\n---\n\n## 6. Shrnutí pro fact‑checkera\n\n1. **Hladina ratingu (písmenkové stupně Moody’s / S&P / Fitch)**  \n   - Od roku 2000 se rating ČR postupně zlepšoval, naposledy 2018 (Fitch) a 2019 (Moody’s).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n   - Za vlády Petra Fialy (2022–2025) **žádná z velkých tří agentur rating ČR nesnížila ani nezvýšila**; zůstal na nejvyšších historických úrovních (Aa3/AA‑/AA‑).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n   - Některé předchozí vlády (např. Sobotka) měly obdobný neutrální vývoj (stabilní ratingy bez změny).([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/))  \n\n   → Pokud tvrzení čteme čistě jako vývoj základních ratingových stupňů hlavních tří agentur, **tvrzení „vyvíjelo se hůře než za všech předchozích kabinetů“ neodpovídá datům** – Fialova vláda není v tomto ohledu horší než např. vláda Bohuslava Sobotky.\n\n2. **Zahrnutí výhledů a dalších agentur (Scope, Fitch/ Moody’s outlook)**  \n   - V roce 2022 daly Moody’s a Fitch Česku **negativní výhled**, byť ratingy ponechaly na Aa3 / AA‑.([english.radio.cz](https://english.radio.cz/moodys-lowers-outlook-czechia-stable-negative-8757986?utm_source=openai))  \n   - Scope Ratings v roce 2023 **snížila rating z AA na AA‑** a předtím změnila výhled na Negative.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/174263?utm_source=openai))  \n   - Podobná kombinace (negativní výhledy u dvou velkých agentur a downgrade další významné agentury) **za žádné z předchozích vlád nastoupivších po roce 2000 nenastala**; před Fialovou vládou byly výhledy u ČR v zásadě stable/positive a ratingy se spíš zvyšovaly.([countryeconomy.com](https://countryeconomy.com/ratings/czech-republic?utm_source=openai))  \n\n   → V této **širší interpretaci** lze argumentovat, že „celkové ratingové hodnocení“ (včetně výhledů a menších agentur) se za Fialovy vlády skutečně vyvíjelo **relativně nejhůře** – poprvé došlo k souběhu negativních výhledů a ratingového downgradu.\n\n3. **Důležité kontexty:**\n   - Negativní kroky ratingových agentur v letech 2022–2023 výslovně spojují své hodnocení s důsledky **pandemické a energetické krize, války na Ukrajině, vysoké inflace a zhoršení fiskálních ukazatelů**, nikoli pouze s konkrétní vládou.([scoperatings.com](https://www.scoperatings.com/ratings-and-research/rating/EN/171678?utm_source=openai))  \n   - Navzdory těmto zhoršením zůstává ČR v **horním pásmu ratingů (AA‑/Aa3)** a v evropském srovnání patří mezi lépe hodnocené země.([cnb.cz](https://www.cnb.cz/en/about_cnb/international-relations/rating-agencies/?utm_source=openai))  \n\nCelkově tedy:\n\n- **Pro úzký výklad (jen výše ratingu u velké trojky)** – data tvrzení **nepodporují**.  \n- **Pro širší výklad (včetně výhledů a dalších agentur)** – existuje **část pravdy**, že kombinace negativních kroků agentur vůči ČR je za Fialovy vlády výrazně horší než za vlád nastoupivších po roce 2000, ale jde o selektivní pohled, který ignoruje, že základní úroveň ratingu zůstala historicky velmi vysoká a předchozí dlouhodobé zlepšování vycházelo z delšího období před Fialou.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 112804,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 21261,
+      "output_tokens_details": {
+        "reasoning_tokens": 14898
+      },
+      "total_tokens": 134065
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1767800702,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

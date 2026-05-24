@@ -1,0 +1,757 @@
+{
+  "claim_id": "24579",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260209_115155",
+  "source_md": "experiments/gpt5.1_h_20260209_115155/brief_fact_check_id24579.md",
+  "fact_check": "# Fact Check for Statement ID 24579\n\n## Statement\nMy jsme splnili to, že jsme řekli, že nedovolíme navyšovat ty zálohy pro OSVČ a dali jsme lidem 12 miliard na zlevnění energii.\n\n---\n## AI Fact Check\n## 1. Co přesně Babiš tvrdí\n\nCitovaná věta obsahuje dvě hlavní tvrzení:\n\n1. **OSVČ zálohy:**  \n   „My jsme splnili to, že jsme řekli, že nedovolíme navyšovat ty zálohy pro OSVČ.“  \n   → Tvrdí, že:\n   - (1a) jeho hnutí/vláda předem **slíbila**, že „nedovolí navyšovat“ zálohy pro OSVČ,  \n   - (1b) a že tento slib už **splnila** (tj. zálohy se fakticky nezvýšily / byly vráceny).\n\n2. **12 miliard na energie:**  \n   „…a dali jsme lidem 12 miliard na zlevnění energií.“  \n   → Tvrdí, že vláda:\n   - (2a) schválila **balík cca 12 mld Kč**,  \n   - (2b) který jde „lidem“ (tj. domácnostem)  \n   - (2c) a jeho účelem je **zlevnění energií** (plyn/elektřina).\n\nNíže jsou pro každou dílčí část shromážděné důkazy.\n\n---\n\n## 2. Zálohy pro OSVČ – sliby vs. realita v roce 2026\n\n### 2.1. Co ANO / Babiš slibovali\n\nV programu ANO pro sněmovní volby 2025 se explicitně píše:\n\n> „Zastavíme další zvyšování odvodů pro živnostníky, které Fialova vláda naplánovala pro rok 2026.“ ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/828981-program-hnuti-ano-do-parlamentnich-voleb-2025/?utm_source=openai))  \n\nEkonomický magazín Finmag shrnuje předvolební sliby takto:\n\n- Fialova vláda v konsolidačním balíčku z roku 2023 nastavila růst minimálního vyměřovacího základu OSVČ ze 25 % průměrné mzdy (2023) na 30 % (2024), 35 % (2025) a 40 % (2026). ([finmag.cz](https://www.finmag.cz/finance/480635-minimalni-zalohy-osvc-v-roce-2026-kolik-usetrite-v-babisove-scenari))  \n- Pravděpodobná ministryně financí Alena Schillerová (ANO) k tomu před volbami:  \n\n  > „Nesouhlasíme s dalším zvyšováním odvodů pro živnostníky, ke kterému má dojít od 1. ledna 2026 … Pokud získáme důvěru ve volbách, **neprodleně přijmeme zákon, který tomuto zvyšování zamezí**.“ ([finmag.cz](https://www.finmag.cz/finance/480635-minimalni-zalohy-osvc-v-roce-2026-kolik-usetrite-v-babisove-scenari))  \n\nSlib tedy **nebyl**, že zálohy vůbec neporostou, ale že **zastaví další růst vyměřovacího základu na 40 %** (ponechají jej na 35 %, takže by růst vyplýval jen z růstu průměrné mzdy).\n\n### 2.2. Jaké zálohy OSVČ skutečně platí v roce 2026\n\n#### Sociální pojištění (ČSSZ – oficiální zdroj)\n\nČeská správa sociálního zabezpečení pro rok 2026 uvádí:\n\n- Minimální měsíční vyměřovací základ pro OSVČ – **hlavní činnost**: 19 587 Kč  \n- Z toho minimální záloha na důchodové pojištění: **5 720 Kč / měsíc** (hlavní činnost)  \n- Pro začínající OSVČ (25 % průměrné mzdy): minimální záloha 3 575 Kč  \n- Pro vedlejší činnost: minimální záloha 1 574 Kč ([cssz.gov.cz](https://cssz.gov.cz/web/cz/zalohy-na-pojistne-na-duchodove-pojisteni?utm_source=openai))  \n\nPrůměrná mzda pro rok 2026 byla vládním nařízením stanovena na 48 967 Kč; 40 % z ní je cca 19 587 Kč, což odpovídá uvedenému vyměřovacímu základu. ([douc.info](https://douc.info/clanky/minimalni-zalohy-osvc-od-112026?utm_source=openai))  \n\n→ **Fakticky se tedy používá právě 40 % průměrné mzdy**, jak zavedl Fialův konsolidační balíček; slib „zastavení“ na 35 % zatím nebyl promítnut do platného práva.\n\nPro srovnání s rokem 2025:\n\n- 2025 – minimální záloha na sociální pojištění (hlavní činnost): 4 759 Kč ([finance.cz](https://www.finance.cz/552653-minimalni-zalohy-na-socialnim-zdravotnim-pojisteni-osvc-obzp-v-roce-2025/?utm_source=openai))  \n- 2026 – minimální záloha (hlavní činnost): 5 720 Kč ([pruvodcepodnikanim.cz](https://www.pruvodcepodnikanim.cz/clanek/minimalni-zalohy-osvc-2026/?utm_source=openai))  \n\nNárůst: **+961 Kč/měsíc**.\n\n#### Zdravotní pojištění (pojišťovny – oficiální čísla)\n\nVZP a další zdravotní pojišťovny uvádějí:\n\n- Minimální měsíční záloha OSVČ na zdravotní pojištění 2025: cca **3 143–3 161 Kč**  \n- Od 1. 1. 2026 je minimální záloha stanovena na **3 306 Kč**; OSVČ, které do té doby platily nižší zálohy, je musí od ledna 2026 **navýšit**. ([vzp.cz](https://www.vzp.cz/o-nas/tiskove-centrum/otazky-tydne/platby-zdravotniho-pojisteni-v-roce-2026?utm_source=openai))  \n\nNárůst: cca **+145–165 Kč/měsíc**.\n\n### 2.3. Co nová vláda skutečně udělala (stav k 7. 2. 2026)\n\nZ odborných přehledů a materiálů Komory daňových poradců, serverů Peníze.cz a Podnikatel.cz vyplývá:\n\n- Minimální zálohy 2026 **už byly zvýšeny** podle původního Fialova modelu na 40 % průměrné mzdy (5 720 + 3 306 Kč). ([penize.cz](https://www.penize.cz/spotrebitel/479400-novy-rok-ve-vasi-penezence-velky-prehled-zmen-od-ledna-2026?utm_source=openai))  \n- Nová Babišova vláda předložila **teprve návrh novely**, která:\n  - by vyměřovací základ pro sociální pojištění OSVČ – hlavní činnost **vrátila na 35 % průměrné mzdy**,  \n  - tím by snížila minimální zálohu na sociální pojištění z 5 720 Kč na cca **5 005 Kč/měsíc**,  \n  - počítá s **retroaktivitou** – rozdíl mezi 5 720 a 5 005 Kč by byl považován za přeplatek, který by si OSVČ mohly nechat vrátit nebo ho využít při ročním zúčtování. ([kdpcr.cz](https://www.kdpcr.cz/pro-media/temata-a-komentare/zmeny-pro-osvc-v-roce-2026-jak-to-bude-u-zaloh-na-pojisteni-co-pausalni-dan))  \n\nCitace z materiálu Komory daňových poradců (3. 1. 2026):\n\n> „Nová vláda Andreje Babiše chce odvody do konce března 2026 zase vrátit na úroveň roku 2025. Vybrané navýšení do té doby plánuje živnostníkům a podnikatelům vrátit… návrh zákona ponechává minimální vyměřovací základ u sociálního pojištění OSVČ na 35 procentech průměrné mzdy.“ ([kdpcr.cz](https://www.kdpcr.cz/pro-media/temata-a-komentare/zmeny-pro-osvc-v-roce-2026-jak-to-bude-u-zaloh-na-pojisteni-co-pausalni-dan))  \n\nVelký přehled změn pro podnikatele na Podnikatel.cz shrnuje:\n\n> „OSVČ se v roce 2026 zvýšily minimální zálohy sociálního pojištění… Pro rok 2026 to znamená zvýšení […] z 4 759 Kč na 5 720 Kč… Ve Sněmovně ovšem leží návrh zákona […] který […] vrací minimální vyměřovací základ […] na 35 % […] Po nabytí účinnosti zákona tak minimální zálohy […] klesnou na 5 005 Kč.“ ([podnikatel.cz](https://www.podnikatel.cz/clanky/velky-rozcestnik-zmen-v-roce-2026-ktere-se-tykaji-podnikatelu/?utm_source=openai))  \n\n→ Ke dni vysílání pořadu (7. 2. 2026) **zákon ještě není přijat**, OSVČ platí zvýšené zálohy 5 720 Kč + 3 306 Kč a případné snížení/vracení je teprve ve stadiu **legislativního návrhu**.\n\n### 2.4. Hodnocení dílčího tvrzení 1 („nedovolíme navyšovat zálohy pro OSVČ“)\n\n- **Slib existuje a je zdokumentovaný:** ANO a Schillerová opakovaně deklarovali, že **zastaví další růst vyměřovacího základu na 40 %** a „neprodleně“ přijmou zákon, který tomu zamezí. ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/828981-program-hnuti-ano-do-parlamentnich-voleb-2025/?utm_source=openai))  \n- **Realita k 7. 2. 2026:**\n  - Minimální zálohy na sociální pojištění i zdravotní pojištění OSVČ jsou **vyšší než v roce 2025** (5 720 vs. 4 759 Kč u sociálního, 3 306 vs. cca 3 143–3 161 Kč u zdravotního). ([cssz.gov.cz](https://cssz.gov.cz/web/cz/zalohy-na-pojistne-na-duchodove-pojisteni?utm_source=openai))  \n  - Zvýšení je způsobeno právě nárůstem vyměřovacího základu na 40 % průměrné mzdy – tedy **přesně tím, čemu ANO slibovalo zabránit**.  \n  - Vláda Andreje Babiše sice předložila **návrh** zákona, který by navýšení částečně vrátil (a OSVČ by část přeplatků získaly zpět), ale ke dni výroku jde pouze o **nedokončený legislativní proces**.\n\n**Závěr k části 1:**  \n- Tvrzení, že vláda „splnila“ slib a „nedovolila navyšovat zálohy“ pro OSVČ, **neodpovídá stavu k 7. 2. 2026**.  \n- Fakticky:\n  - zálohy od 1. 1. 2026 **vzrostly**,  \n  - vláda má pouze **záměr a návrh zákona**, jak růst částečně vrátit; výsledek pro OSVČ zatím nenastal.  \n- Z hlediska fakt-checkingu jde o **minimálně zavádějící / předčasné** tvrzení.\n\n---\n\n## 3. „Dali jsme lidem 12 miliard na zlevnění energií“\n\n### 3.1. Co vláda skutečně udělala v oblasti energií (2025–2026)\n\nNejviditelnější krok nové vlády Andreje Babiše v energetice, který přímo snižuje účty za elektřinu, je **převedení poplatku za podporované zdroje energie (POZE) plně na státní rozpočet** od roku 2026.\n\nPodle řady zdrojů:\n\n- Měšec.cz:\n\n  > „Vláda […] rozhodla, že celé financování POZE vezme na sebe stát […] **stát to vyjde na 17,134 miliardy korun**. ERÚ proto vydal změnový cenový výměr, který nastavuje příspěvek na POZE na nulu.“ ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n\n- Analýzy Lukáše Kovandy (FXstreet, FAEI, apod.):\n\n  > „Nová vláda […] zrušit poplatek za obnovitelné zdroje, resp. jej převést na státní rozpočet, jehož výdaje tak z tohoto důvodu stoupnou roku 2026 o **přibližně 17 miliard korun**. Domácnosti tak ušetří nejčastěji od 4 000 do 23 000 korun ročně.“ ([fxstreet.cz](https://www.fxstreet.cz/zpravodajstvi-193546.html?utm_source=openai))  \n\n- TZB‑info (odborný portál):\n\n  > „Státní rozpočet pro rok 2026 to nově zatíží dalšími **zhruba 17 miliardami Kč**, celkově tak stát za poplatky dá více než **41 miliard Kč**.“ ([tzb-info.cz](https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze?utm_source=openai))  \n\n- Seznam Zprávy (ekonomický komentář o „faktoru Babiš“):\n\n  > „Stát totiž bude v příštím roce platit místo odběratelů poplatky za podporované zdroje energie, což státní rozpočet přijde na dalších **zhruba 17 miliard**. Celkové náklady státu na poplatky se tak vyšplhají na **více než 41 miliard korun**.“ ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-firmy-ceskou-ekonomiku-ceka-dalsi-dobry-rok-trable-mohou-prijit-z-nemecka-294700))  \n\n- Deník.cz shrnuje dopad:\n\n  > „Stát v příštím roce odběratelům uleví tím, že poplatek za podporované zdroje energií zaplatí ze státního rozpočtu… domácnosti, živnostníci i firmy tak podle ministrů ušetří **desetinu ceny elektřiny**.“ ([denik.cz](https://www.denik.cz/energie/energie-cena-vlada-uspory-statni-rozpocet-prumysl-zivnostnici.html?utm_source=openai))  \n\nEfekt na regulovanou složku ceny elektřiny:\n\n- Energetický regulační úřad (přes média) uvádí, že regulovaná složka pro domácnosti v roce 2026 **klesne o 15,1 %**, právě kvůli vynulování příspěvku na POZE. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n\n→ **Konkrétní rozpočtový dopad tohoto opatření je konzistentně uváděn jako cca 17 mld Kč, nikoli 12 mld Kč.**\n\n### 3.2. Kde se může brát číslo 12 miliard?\n\nVe veřejné debatě existuje několik „dvanáctimiliardových“ částek, ale týkají se **jiných** věcí nebo jiného období:\n\n1. **Historická státní spoluúčast na podpoře OZE**  \n   – kolem roku 2011–2013 stát ročně dával na podporu obnovitelných zdrojů zhruba **12 mld Kč**, aby zmírnil dopad na koncové ceny elektřiny. ([firmy.finance.cz](https://firmy.finance.cz/zpravy/finance/326500-elektrina-v-roce-2012-budeme-platit-kvuli-fotovoltaice-jeste-vice/?utm_source=openai))  \n   → To ale není krok Babišovy vlády v roce 2026.\n\n2. **Program „Oprav dům po babičce“ (součást Nové zelené úsporám)**  \n   – z Modernizačního fondu je na něj vyčleněno cca **12 mld Kč** pro dlouhodobé dotace na zateplení rodinných domů atd. ([ekn.cz](https://ekn.cz/kdo-muze-zlevnit-elektrinu-trh-uz-zacal-ted-je-rada-na-vlade/?utm_source=openai))  \n   → Jde o **investiční dotace do úspor energie**, nikoli o okamžité zlevnění cen energií na fakturách; navíc program běžel už za předchozí vlády.\n\n3. **Starší diskuse o tlumení růstu cen elektřiny** (Nečasova vláda, rok 2011–2012)  \n   – i tam se pracovalo s částkou kolem 12 mld, které měly zabránit skokovému zdražení elektřiny kvůli solárním podporám. ([denik.cz](https://www.denik.cz/ekonomika/vlada-uz-vi-jak-zkroti-drahou-elektrinu20101009.html?utm_source=openai))  \n   → Opět historické, nesouvisející s Babišovou vládou 2026.\n\nV dostupných zdrojích **není** pro rok 2026 identifikovatelné opatření Babišovy vlády, které by:\n\n- mělo **rozpočtový dopad 12 mld Kč**,  \n- bylo výslovně prezentováno jako „zlevnění energií“ pro domácnosti,  \n- a nešlo zároveň o část celku 17 mld Kč na POZE.\n\nNejbližší a jasně doložené opatření je právě **převzetí POZE za cca 17 mld Kč**.\n\n### 3.3. Hodnocení dílčího tvrzení 2 („dali jsme lidem 12 mld na zlevnění energií“)\n\n- **Ano, vláda přijala významné opatření zlevňující účty za elektřinu:**  \n  Zrušení příspěvku na POZE na fakturách a jeho plné převedení na státní rozpočet od roku 2026.  \n  - Dopad na rozpočet: **cca 17 mld Kč ročně navíc**, celkem přes 41 mld Kč na podporované zdroje. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n  - Dopad na domácnosti: pokles regulované složky ceny elektřiny o cca 15 %, úspory v řádu tisíců až desítek tisíc Kč ročně podle spotřeby. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n\n- **Číselně ale Babišovo tvrzení neodpovídá dostupným datům:**  \n  - Všechny relevantní zdroje uvádějí částku **přibližně 17 mld Kč**, nikde 12 mld Kč pro toto konkrétní opatření v roce 2026. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n  - Částka 12 mld Kč se sice v jiných kontextech (starší OZE dotace, Modernizační fond) objevuje, ale **nelze ji bezpečně spojit s krokem Babišovy vlády z roku 2025/2026**, o kterém mluví v pořadu.\n\n**Závěr k části 2:**  \n- Obsahově je pravda, že vláda přijala **plošné opatření snižující účty za elektřinu** a že to jsou **desítky miliard ročně** ze státního rozpočtu.  \n- Číselně je tvrzení „12 miliard“ **v rozporu s oficiálně uváděnou částkou cca 17 miliard Kč**; tvrzení proto není přesné.  \n\n---\n\n## 4. Shrnutí pro fact‑checkera\n\n### 4.1. Zálohy OSVČ\n\n- **Slib ANO/Babiše/Schillerové**: zastavit růst vyměřovacího základu OSVČ pro sociální pojištění na 40 % od roku 2026 a ponechat jej na 35 %, tj. zabránit dalšímu skokovému zvýšení minimálních záloh. ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/828981-program-hnuti-ano-do-parlamentnich-voleb-2025/?utm_source=openai))  \n- **Faktický stav k 7. 2. 2026**:\n  - Platí minimální zálohy sociálního pojištění **5 720 Kč** (hlavní činnost), což odpovídá **40 %** průměrné mzdy (48 967 Kč). ([cssz.gov.cz](https://cssz.gov.cz/web/cz/zalohy-na-pojistne-na-duchodove-pojisteni?utm_source=openai))  \n  - Minimální záloha na zdravotní pojištění OSVČ je **3 306 Kč** (také vyšší než 2025). ([vzp.cz](https://www.vzp.cz/o-nas/tiskove-centrum/otazky-tydne/platby-zdravotniho-pojisteni-v-roce-2026?utm_source=openai))  \n  - Vláda má **pouze návrh novely** na vrácení vyměřovacího základu na 35 % (minimum 5 005 Kč), se zpětným vracením přeplatků; návrh zatím **nenabyl účinnosti**. ([kdpcr.cz](https://www.kdpcr.cz/pro-media/temata-a-komentare/zmeny-pro-osvc-v-roce-2026-jak-to-bude-u-zaloh-na-pojisteni-co-pausalni-dan))  \n\n→ Sub‑tvrzení „slib jsme splnili a nedovolili navyšovat zálohy pro OSVČ“ je **v rozporu s aktuálně platnými částkami**; vláda slib zatím jen **částečně naplňuje na úrovni návrhu zákona**, nikoli v realitě plateb.\n\n### 4.2. „12 miliard na zlevnění energií“\n\n- **Prokazatelné opatření vlády Andreje Babiše (konec 2025):** plné převzetí financování POZE státem od roku 2026.  \n  - Dodatečný náklad pro rozpočet: **cca 17 mld Kč ročně**, celková státní úhrada POZE přes 41 mld Kč. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n  - Dopad: snížení regulované složky elektřiny o cca 15 %, úspory pro domácnosti v řádu tisíců až desítek tisíc ročně podle spotřeby. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n\n- **Číslo 12 mld Kč**:\n  - V dostupných zdrojích se jako **aktuální náklad** Babišova kroku neobjevuje;  \n  - 12 mld se vztahuje buď k historickým státním příspěvkům na OZE (2011–2013), nebo k jiným programům (např. „Oprav dům po babičce“), nikoli přímo k vládnímu zlevnění energií v roce 2026. ([firmy.finance.cz](https://firmy.finance.cz/zpravy/finance/326500-elektrina-v-roce-2012-budeme-platit-kvuli-fotovoltaice-jeste-vice/?utm_source=openai))  \n\n→ Sub‑tvrzení, že vláda „dala lidem **12** miliard na zlevnění energií“, **neodpovídá doloženým číslům**: hlavní zlevňovací krok stojí stát cca **17 mld Kč**, nikoli 12 mld Kč.\n\n---\n\n### 4.3. Celkové hodnocení výroku\n\n- Část o **OSVČ zálohách** je **nepravdivá/předčasná**:  \n  - Slib zastavit růst byl dán, ale **k datu výroku se zálohy reálně zvýšily**; zákonná změna ke snížení je pouze ve fázi návrhu.  \n\n- Část o **energetické pomoci** je **věcně rámcově pravdivá (vláda skutečně plošně snižuje účty za elektřinu)**, ale:  \n  - uváděná částka **12 miliard Kč neodpovídá dostupným oficiálním údajům** (cca 17 mld Kč).  \n\nTento souhrn by měl dát fact‑checkerovi podklady k posouzení výroku (např. jako „zavádějící“: pravdivý popis typu opatření, ale nepravdivé tvrzení o splnění slibu OSVČ a chybné číslo u energetické podpory).\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-02-07 available from https://www.youtube.com/watch?v=CRryWLn2KSs.\\n\\n\\nThe claim was made by: Andrej Babiš, Předseda vlády ČR, předseda hnutí ANO\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:35:38\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nZadlužení, paní redaktorko, je vůči HDP...\\n00:35:41\\nBára Divišová,moderátorka\\nTo samozřejmě jsou nějaké predikce, samozřejmě potom až na konci...\\n00:35:44\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nA víte, kolik bude HDP asi v roku 2028, bude už asi 10 000 miliard, jo, to je predikce, ano, takže všechno je na procenta a tak dále. My zkrátka, pro nás ten parametr je zadlužení vůči HDP a tam stále patříme mezi málo zadlužené země. A když investujete, no, tak to přinese samozřejmě příjmy do HDP, a to HDP poroste a z toho budou daně. A hlavně, prosím vás, vždyť tady je šedá ekonomika, vždyť oni s tím nedělali. Tady údajně podle NKÚ pracuje načerno 170 000 lidí. Teďka čtu, že, nevím, kde všude, kde jsou lyžařské vleky, že berou jenom cash, no, co to znamená? No, že nevykazujou tržby, že neplatí daně, vždyť oni zrušili EET, oni zrušili EET a my žádné daně teďka nesnižujeme. My jsme splnili to, že jsme řekli, že nedovolíme navyšovat ty zálohy pro OSVČ a dali jsme lidem 12 miliard na vlastně zlevnění energii, jo, protože někdo topí plynem, někdo topí elektřinou, rodinné baráky a oni všichni jako ušetří, takže my plníme program a jsme tam pár týdnů, jako, prosím vás, my skutečně pracujeme, oni nedělají nic. Já jsem se ptal, co ten premiér vlastně dělal na tom Úřadě vlády, tak jsem se, jedinou činnost, kterou jsem rozkryl, že vybíral jídelníček, když přišla zahraniční návštěva, takže kuchaři čekali a pan premiér vybral nějaké jídlo a kuchař potom vařil. To je všechno. Jinak tam nedělali vůbec nic, vůbec nic. Mimochodem, v pondělí a pátek vždycky většinou byli doma, proto si dali vládu na středu. My makáme.\\n00:37:41\\nBára Divišová,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'My jsme splnili to, že jsme řekli, že nedovolíme navyšovat ty zálohy pro OSVČ a dali jsme lidem 12 miliard na zlevnění energii.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 327.69 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Vláda Andreje Babiše zatím fakticky nezabránila zvýšení minimálních záloh OSVČ a hlavní energetické opatření ji stojí zhruba 17, nikoli 12 miliard Kč ročně. Výrok proto vychází z reálných kroků, ale zkresluje jejich výsledek i rozsah.</p>\n\n<p>Andrej Babiš pronesl tento výrok v únoru 2026 v debatě, kde obhajoval, jak jeho vláda plní předvolební sliby vůči osobám samostatně výdělečně činným (OSVČ) a jak pomáhá domácnostem s cenami energií. Výrok obsahuje dvě samostatná faktická tvrzení, která ověřujeme zvlášť: (1) že vláda splnila slib a „nedovolila navyšovat zálohy pro OSVČ“, a (2) že „dala lidem 12 miliard na zlevnění energií“.</p>\n\n<p>Tvrzení č. 1 zní: vláda hnutí ANO splnila slib, že „nedovolí navyšovat zálohy pro OSVČ“, tedy že k plánovanému zvýšení minimálních odvodů od roku 2026 vůbec nedošlo. V programu hnutí ANO pro sněmovní volby 2025 se skutečně píše, že strana chce zastavit další růst odvodů živnostníků plánovaný na rok 2026, například formulací <i>„zastavíme další zvyšování odvodů pro živnostníky, které Fialova vláda naplánovala pro rok 2026“</i>, jak shrnuje programová analýza na serveru <a href=\"https://zpravy.kurzy.cz/828981-program-hnuti-ano-do-parlamentnich-voleb-2025/?utm_source=openai\">Kurzy.cz</a>. Podrobněji slib popsala pravděpodobná ministryně financí Alena Schillerová, která podle ekonomického magazínu <a href=\"https://www.finmag.cz/finance/480635-minimalni-zalohy-osvc-v-roce-2026-kolik-usetrite-v-babisove-scenari\">Finmag</a> uvedla, že ANO nesouhlasí s dalším zvýšením vyměřovacího základu OSVČ na 40 % průměrné mzdy od roku 2026 a po vítězství ve volbách chce „neprodleně přijmout zákon“, který tomuto navýšení zabrání. Slib se tedy týkal zastavení dalšího růstu nad úroveň roku 2025, nikoli úplného zmrazení všech záloh.</p>\n\n<p>Fialova vláda v konsolidačním balíčku skutečně naplánovala postupné zvýšení minimálního vyměřovacího základu OSVČ ze 25 % průměrné mzdy v roce 2023 na 30 % v roce 2024, 35 % v roce 2025 a 40 % v roce 2026, jak popisuje analýza na serveru <a href=\"https://www.finmag.cz/finance/480635-minimalni-zalohy-osvc-v-roce-2026-kolik-usetrite-v-babisove-scenari\">Finmag</a>. Nová vláda Andreje Babiše tedy slibovala, že tento poslední krok – zvýšení na 40 % – zruší a vyměřovací základ ponechá na 35 %.</p>\n\n<p>Podle oficiální informace <a href=\"https://cssz.gov.cz/web/cz/zalohy-na-pojistne-na-duchodove-pojisteni?utm_source=openai\">České správy sociálního zabezpečení</a> však pro rok 2026 platí minimální vyměřovací základ pro OSVČ s hlavní činností ve výši 19 587 Kč, což odpovídá právě 40 % průměrné mzdy 48 967 Kč. Z tohoto vyměřovacího základu vyplývá minimální záloha na důchodové pojištění ve výši 5 720 Kč měsíčně. Pro rok 2025 přitom podle přehledu na portálu <a href=\"https://www.finance.cz/552653-minimalni-zalohy-na-socialnim-zdravotnim-pojisteni-osvc-obzp-v-roce-2025/?utm_source=openai\">Finance.cz</a> činila minimální záloha na sociální pojištění OSVČ s hlavní činností 4 759 Kč. Mezi roky 2025 a 2026 se tak minimální sociální záloha zvýšila o zhruba 961 Kč měsíčně.</p>\n\n<p>Růst se týká i zdravotního pojištění. Všeobecná zdravotní pojišťovna ve svém přehledu plateb pro rok 2026 uvádí, že minimální měsíční záloha OSVČ na zdravotní pojištění od 1. ledna 2026 činí 3 306 Kč; OSVČ, které dosud platily nižší zálohy, je musejí navýšit, jak popisuje <a href=\"https://www.vzp.cz/o-nas/tiskove-centrum/otazky-tydne/platby-zdravotniho-pojisteni-v-roce-2026?utm_source=openai\">VZP</a>. V roce 2025 se přitom minimální záloha pohybovala okolo 3 150 Kč, takže i zde došlo k dalšímu navýšení.</p>\n\n<p>Nová vláda sice začala slib naplňovat alespoň legislativně. Podle odborného komentáře <a href=\"https://www.kdpcr.cz/pro-media/temata-a-komentare/zmeny-pro-osvc-v-roce-2026-jak-to-bude-u-zaloh-na-pojisteni-co-pausalni-dan\">Komory daňových poradců ČR</a> vláda Andreje Babiše předložila návrh zákona, který má do konce března 2026 vrátit odvody OSVČ „na úroveň roku 2025“ tím, že minimální vyměřovací základ sociálního pojištění zůstane na 35 % průměrné mzdy a část již zaplaceného navýšení bude živnostníkům vrácena jako přeplatek. Přehled změn pro podnikatele na serveru <a href=\"https://www.podnikatel.cz/clanky/velky-rozcestnik-zmen-v-roce-2026-ktere-se-tykaji-podnikatelu/?utm_source=openai\">Podnikatel.cz</a> uvádí, že po nabytí účinnosti této novely by minimální záloha na sociální pojištění klesla z nynějších 5 720 Kč na zhruba 5 005 Kč a rozdíl by se OSVČ zpětně dorovnal. Ke dni výroku však tento návrh ještě nebyl schválen a účinný, takže živnostníci reálně platí zvýšené zálohy podle Fialova modelu.</p>\n\n<p>U tvrzení č. 1 tedy rozlišujeme dvě části. Samotný slib, že hnutí ANO po volbách zabrání dalšímu zvýšení minimálních odvodů OSVČ nad úroveň roku 2025, je doložený a odpovídá programovým dokumentům i vyjádřením Aleny Schillerové. Neodpovídá však realitě tvrzení, že vláda tento slib již „splnila“ a „nedovolila navyšovat zálohy“ – k 1. lednu 2026 se minimální zálohy na sociální i zdravotní pojištění pro OSVČ skutečně zvýšily a legislativní změna, která by část tohoto růstu zpětně rušila, je zatím jen ve fázi návrhu. Tuto část výroku proto hodnotíme jako nepravdivou.</p>\n\n<p>Tvrzení č. 2 zní: vláda „dala lidem 12 miliard na zlevnění energií“, tedy že schválila opatření v objemu zhruba 12 miliard korun, které se přímo promítá do nižších účtů za energie pro domácnosti. Největším konkrétním krokem, který nová vláda v oblasti elektřiny přijala a který okamžitě snižuje účty, je převzetí poplatku na podporované zdroje energie (POZE) plně na státní rozpočet od roku 2026. Specializovaný finanční server <a href=\"https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai\">Měšec.cz</a> popisuje, že vláda rozhodla o nastavení příspěvku na POZE na nulu a že toto rozhodnutí znamená pro stát dodatečný výdaj 17,134 miliardy korun ročně. Energetický regulační úřad v návaznosti na to vydal změnový cenový výměr, na jehož základě regulovaná složka ceny elektřiny pro domácnosti v roce 2026 klesne přibližně o 15 %, jak rovněž shrnuje <a href=\"https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai\">Měšec.cz</a>. Podle ekonomického komentáře na <a href=\"https://www.seznamzpravy.cz/clanek/ekonomika-firmy-ceskou-ekonomiku-ceka-dalsi-dobry-rok-trable-mohou-prijit-z-nemecka-294700\">Seznam Zprávách</a> tento krok zvyšuje celkovou částku, kterou stát na podporované zdroje energie platí, na více než 41 miliard korun ročně, přičemž oněch zhruba 17 miliard představuje část, kterou dříve hradili přímo odběratelé ve svých účtech za elektřinu.</p>\n\n<p>Obsahově tedy platí, že vláda zavedla plošné opatření, které domácnostem i firmám snižuje cenu elektřiny tím, že za ně část nákladů na podporované zdroje přebírá stát. Toto opatření má ověřený rozpočtový dopad v řádu desítek miliard korun a v případě příspěvku na POZE se v dostupných zdrojích konzistentně uvádí částka kolem 17 miliard Kč ročně, nikoli 12 miliard. Částka 12 miliard Kč se sice v energetické debatě objevuje v jiných souvislostech (například jako historická výše státní spoluúčasti na podpoře obnovitelných zdrojů kolem roku 2012, o níž informoval server <a href=\"https://firmy.finance.cz/zpravy/finance/326500-elektrina-v-roce-2012-budeme-platit-kvuli-fotovoltaice-jeste-vice/?utm_source=openai\">Finance.cz</a>), tyto programy ale nesouvisejí s aktuálním krokem vlády Andreje Babiše v roce 2026. Pro tvrzení, že právě jeho kabinet „dal lidem 12 miliard na zlevnění energií“, jsme v dostupných zdrojích nenašli žádný konkrétní, jasně identifikovatelný program s tímto objemem finančních prostředků a s přímým dopadem do koncových cen energií.</p>\n\n<p>Tvrzení č. 2 proto hodnotíme jako částečně pravdivé v tom, že vláda skutečně rozhodla o významném přesunu nákladů na energie na státní rozpočet a tím snížila účty za elektřinu, ale jako nepřesné a zkreslující, pokud jde o uváděnou částku 12 miliard korun. Podle dostupných dat je reálný rozpočtový dopad hlavního opatření vyšší, kolem 17 miliard Kč ročně.</p>\n\n<p>Celkově tedy Andrej Babiš ve svém výroku správně odkazuje na to, že jeho vláda chce zmírnit růst odvodů OSVČ a že přijala krok vedoucí k plošnému zlevnění elektřiny. Zároveň ale nepravdivě tvrdí, že už „nedovolila navyšovat zálohy“ – ty se od 1. ledna 2026 zvýšily a legislativní změna je teprve v procesu – a číselně podhodnocuje rozsah energetického opatření, když hovoří o 12 miliardách místo zhruba 17 miliard korun. Výrok jako celek proto hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_048e863439135257006989d19035f481a2b6818d1d0cf5e988",
+    "created_at": 1770639760.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_048e863439135257006989d1a718e481a282a2c2527a4aa6e3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d1b39ddc81a293bea0debe2fa33a",
+        "action": {
+          "query": "\"CRryWLn2KSs\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"CRryWLn2KSs\"",
+            "\"Za pět minut dvanáct\" Andrej Babiš 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d1b6663881a28b86a43c6a19ba18",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d1c380a081a29e43396510e89fb6",
+        "action": {
+          "query": "\"zálohy pro OSVČ\" \"2026\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"zálohy pro OSVČ\" \"2026\"",
+            "\"nedovolíme navyšovat\" \"zálohy\" \"OSVČ\"",
+            "vláda Andreje Babiše 2026 zálohy OSVČ",
+            "\"12 miliard\" \"zlevnění energií\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d1c5df0c81a2b70ae85caab0da0e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d1c7ca7c81a2b7964e25b5df5ef2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d1c8cad881a297ecf0183bab67be",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d1cebe5081a29756908eab82117d",
+        "action": {
+          "query": "\"Minimální záloha na sociální pojištění OSVČ\" \"2026\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Minimální záloha na sociální pojištění OSVČ\" \"2026\"",
+            "\"Minimální výše zálohy\" \"OSVČ\" \"sociální\" 2026",
+            "\"Česká správa sociálního zabezpečení\" OSVČ 2026 zálohy",
+            "\"vyměřovací základ\" OSVČ 35 procent 2026 zákon"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d1d18f5481a28d2fd8c3babf0a26",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d1dfb8a881a2b88b46da954a8946",
+        "action": {
+          "query": "\"nedovolíme navyšovat zálohy\" OSVČ",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nedovolíme navyšovat zálohy\" OSVČ",
+            "\"nedovolíme navyšovat ty zálohy\"",
+            "Babiš\"zálohy pro OSVČ\"",
+            "\"nedovolíme zvyšovat odvody\" \"OSVČ\" Babiš Schillerová"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d1e2507c81a29e93d8f14f205c29",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d1e7242c81a285696431dd8094cc",
+        "action": {
+          "query": "\"vrátit na úroveň roku 2025\" \"zálohy\" OSVČ",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"vrátit na úroveň roku 2025\" \"zálohy\" OSVČ",
+            "\"vrátíme\" \"minimální zálohy\" \"OSVČ\"",
+            "\"zálohy na sociální pojištění\" \"vrácení\" 2026 OSVČ",
+            "\"vláda Andreje Babiše\" \"OSVČ\" \"zálohy\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d1ea606081a2af5f7fa256ce85cb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d1f16dc881a28d659f72b8da390e",
+        "action": {
+          "query": "\"nedovolíme navyšovat\" \"odvody\" \"OSVČ\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nedovolíme navyšovat\" \"odvody\" \"OSVČ\"",
+            "\"nedovolíme\" \"zvyšovat\" \"minimální zálohy\" \"OSVČ\"",
+            "\"nedovolíme\" \"minimální odvod\" OSVČ \"2026\"",
+            "\"neprodleně přijmeme zákon\" \"OSVČ\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d1f7decc81a28a405c138757a937",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d1fc49a481a2afa528ebaaa3bdd7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d1fd4f5c81a2bd27332b1d31c0ac",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d20470c881a2a5267b3da0ba828c",
+        "action": {
+          "query": "\"12 miliard\" \"zlevnění energií\" Babiš",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"12 miliard\" \"zlevnění energií\" Babiš",
+            "\"12 miliard korun\" \"energie\" \"vláda Andreje Babiše\" 2026",
+            "\"12 miliard\" \"zlevnění energii\"",
+            "\"12 mld\" \"ceny energií\" \"domácnosti\" \"2026\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d2097c5081a2a1564cbed3f4840a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d20a6c2881a2b401a2fd155a642d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d20b801881a2ad467417f9f8e0e1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d20d331081a2918204b3d4e5a78e",
+        "action": {
+          "query": "\"12 miliard\" \"energie\" \"Babišova\" vláda",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"12 miliard\" \"energie\" \"Babišova\" vláda",
+            "\"dvanáct miliard\" \"energie\" \"vláda\" 2026",
+            "\"12 miliard korun\" \"poplatky za OZE\"",
+            "\"zlevnění energií\" \"vláda\" \"12 mld\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d210c85c81a299b9179358953d1f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d212c5d881a2a6e2162884dcb6a2",
+        "action": {
+          "query": "\"poplatek za obnovitelné zdroje\" 17 18 miliard 2026",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"poplatek za obnovitelné zdroje\" 17 18 miliard 2026",
+            "\"17 az 18 miliard\" \"poplatky za obnovitelne zdroje\"",
+            "\"12 miliard\" \"poplatky za obnovitelné zdroje\"",
+            "\"dali jsme lidem\" \"12 miliard\" \"energie\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d21745d881a288fca317d6292821",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d219471881a28f74577362faefde",
+        "action": {
+          "query": "\"12 miliard\" \"zlevnění energií\" \"domácnosti\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"12 miliard\" \"zlevnění energií\" \"domácnosti\"",
+            "\"12 miliard\" \"ceny energií\"",
+            "\"12 mld\" \"ceny energi\"",
+            "\"dali jsme lidem\" \"12 miliard\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d21ec92881a2a9bc2c9381ea9bd3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d21fadec81a2a83d0f4864ecb4ee",
+        "action": {
+          "query": "\"12 miliard\" \"energie\" \"Česko\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"12 miliard\" \"energie\" \"Česko\"",
+            "\"12 miliard\" \"elektřinu\"",
+            "\"12 mld\" \"energie\" \"česká\"",
+            "\"12 mld. Kč\" energie"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d224c43081a2a2b1ab2f53898607",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d226c20481a2a1b2414dff245828",
+        "action": {
+          "query": "\"dvanáct\" \"miliard\" \"energie\" \"domácnosti\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"dvanáct\" \"miliard\" \"energie\" \"domácnosti\"",
+            "\"12 miliard korun\" \"poplatky\" \"obnovitelné zdroje\"",
+            "\"usporu\" \"12 miliard\" \"energie\"",
+            "\"12 miliard\" \"na zlevnění\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d22ca62881a2bb6e995e24edd333",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d231a7c081a29fe3cf9d40746c05",
+        "action": {
+          "query": "\"12 miliard\" \"energie\" \"rodiny\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"12 miliard\" \"energie\" \"rodiny\"",
+            "\"12 miliard\" \"zlevnění elektřiny\"",
+            "\"12 miliard na energie\" \"Babiš\"",
+            "\"12 miliard\" \"zlevnění\" \"elektřiny\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d237039c81a2b4a5ce13b1adda90",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d243a0e481a2976398222d129640",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d24d881081a2a522f4de67f58a57",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d24ea20881a286aba83fb7ed53ed",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d253bae481a2a2847fda7cbc1d00",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_048e863439135257006989d25b414481a2b592f97e9aad4e44",
+        "action": {
+          "query": "\"snížení DPH\" \"elektřiny\" \"12 miliard\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"snížení DPH\" \"elektřiny\" \"12 miliard\"",
+            "\"DPH na energie\" 12 % \"Babiš\" 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_048e863439135257006989d2606ed481a2bfbabde5961203e6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_048e863439135257006989d2820e6081a28467dc67ddb03451",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1078,
+                "start_index": 962,
+                "title": "Program hnutí ANO do parlamentních voleb 2025 | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/828981-program-hnuti-ano-do-parlamentnich-voleb-2025/?utm_source=openai"
+              },
+              {
+                "end_index": 1438,
+                "start_index": 1319,
+                "title": "Minimální zálohy OSVČ v roce 2026. Kolik ušetříte v „Babišově“ scénáři? - Finmag.cz",
+                "type": "url_citation",
+                "url": "https://www.finmag.cz/finance/480635-minimalni-zalohy-osvc-v-roce-2026-kolik-usetrite-v-babisove-scenari"
+              },
+              {
+                "end_index": 1840,
+                "start_index": 1721,
+                "title": "Minimální zálohy OSVČ v roce 2026. Kolik ušetříte v „Babišově“ scénáři? - Finmag.cz",
+                "type": "url_citation",
+                "url": "https://www.finmag.cz/finance/480635-minimalni-zalohy-osvc-v-roce-2026-kolik-usetrite-v-babisove-scenari"
+              },
+              {
+                "end_index": 2585,
+                "start_index": 2482,
+                "title": "Zálohy na pojistné na důchodové pojištění - Česká správa sociálního zabezpečení",
+                "type": "url_citation",
+                "url": "https://cssz.gov.cz/web/cz/zalohy-na-pojistne-na-duchodove-pojisteni?utm_source=openai"
+              },
+              {
+                "end_index": 2825,
+                "start_index": 2736,
+                "title": "MINIMÁLNÍ ZÁLOHY OSVČ od 1.1.2026",
+                "type": "url_citation",
+                "url": "https://douc.info/clanky/minimalni-zalohy-osvc-od-112026?utm_source=openai"
+              },
+              {
+                "end_index": 3233,
+                "start_index": 3096,
+                "title": "Minimální zálohy na sociálním, zdravotním pojištění OSVČ, OBZP v roce 2025 | Finance.cz",
+                "type": "url_citation",
+                "url": "https://www.finance.cz/552653-minimalni-zalohy-na-socialnim-zdravotnim-pojisteni-osvc-obzp-v-roce-2025/?utm_source=openai"
+              },
+              {
+                "end_index": 3402,
+                "start_index": 3289,
+                "title": "Minimální zálohy OSVČ v roce 2026 přehledně | Průvodce podnikáním | ČSOB",
+                "type": "url_citation",
+                "url": "https://www.pruvodcepodnikanim.cz/clanek/minimalni-zalohy-osvc-2026/?utm_source=openai"
+              },
+              {
+                "end_index": 3887,
+                "start_index": 3763,
+                "title": "Platby zdravotního pojištění v roce 2026 - VZP ČR",
+                "type": "url_citation",
+                "url": "https://www.vzp.cz/o-nas/tiskove-centrum/otazky-tydne/platby-zdravotniho-pojisteni-v-roce-2026?utm_source=openai"
+              },
+              {
+                "end_index": 4340,
+                "start_index": 4207,
+                "title": "Nový rok ve vaší peněžence. Velký přehled změn od ledna 2026 | Peníze.cz",
+                "type": "url_citation",
+                "url": "https://www.penize.cz/spotrebitel/479400-novy-rok-ve-vasi-penezence-velky-prehled-zmen-od-ledna-2026?utm_source=openai"
+              },
+              {
+                "end_index": 4920,
+                "start_index": 4781,
+                "title": "Změny pro OSVČ v roce 2026: Jak to bude u záloh na pojištění, co paušální daň - Komora daňových poradců ČR",
+                "type": "url_citation",
+                "url": "https://www.kdpcr.cz/pro-media/temata-a-komentare/zmeny-pro-osvc-v-roce-2026-jak-to-bude-u-zaloh-na-pojisteni-co-pausalni-dan"
+              },
+              {
+                "end_index": 5400,
+                "start_index": 5261,
+                "title": "Změny pro OSVČ v roce 2026: Jak to bude u záloh na pojištění, co paušální daň - Komora daňových poradců ČR",
+                "type": "url_citation",
+                "url": "https://www.kdpcr.cz/pro-media/temata-a-komentare/zmeny-pro-osvc-v-roce-2026-jak-to-bude-u-zaloh-na-pojisteni-co-pausalni-dan"
+              },
+              {
+                "end_index": 5902,
+                "start_index": 5770,
+                "title": "Velký rozcestník změn v roce 2026, které se týkají podnikatelů - Podnikatel.cz",
+                "type": "url_citation",
+                "url": "https://www.podnikatel.cz/clanky/velky-rozcestnik-zmen-v-roce-2026-ktere-se-tykaji-podnikatelu/?utm_source=openai"
+              },
+              {
+                "end_index": 6475,
+                "start_index": 6359,
+                "title": "Program hnutí ANO do parlamentních voleb 2025 | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/828981-program-hnuti-ano-do-parlamentnich-voleb-2025/?utm_source=openai"
+              },
+              {
+                "end_index": 6789,
+                "start_index": 6686,
+                "title": "Zálohy na pojistné na důchodové pojištění - Česká správa sociálního zabezpečení",
+                "type": "url_citation",
+                "url": "https://cssz.gov.cz/web/cz/zalohy-na-pojistne-na-duchodove-pojisteni?utm_source=openai"
+              },
+              {
+                "end_index": 8215,
+                "start_index": 8070,
+                "title": "Elektřina od ledna 2026 zlevní. Stát za vás zaplatí poplatek na obnovitelné zdroje - Měšec.cz",
+                "type": "url_citation",
+                "url": "https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai"
+              },
+              {
+                "end_index": 8603,
+                "start_index": 8519,
+                "title": "Vláda dnes schválila snížení celkové platby za elektřinu, ruší poplatek za obnovitelné zdroje. Domácnosti tedy běžně mohou roku 2026 počítat s úsporou od 4200 do 23 300 Kč oproti loňsku, v závislosti na výši spotřeby | FXstreet.cz",
+                "type": "url_citation",
+                "url": "https://www.fxstreet.cz/zpravodajstvi-193546.html?utm_source=openai"
+              },
+              {
+                "end_index": 8944,
+                "start_index": 8784,
+                "title": "Stát v příštím roce převezme financování podporovaných zdrojů energie (POZE) - TZB-info",
+                "type": "url_citation",
+                "url": "https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze?utm_source=openai"
+              },
+              {
+                "end_index": 9399,
+                "start_index": 9253,
+                "title": "Českou ekonomiku čeká další dobrý rok - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-ceskou-ekonomiku-ceka-dalsi-dobry-rok-trable-mohou-prijit-z-nemecka-294700"
+              },
+              {
+                "end_index": 9765,
+                "start_index": 9638,
+                "title": "Domácnostem zlevní energie o tisícovky. Zaplatí to ale státní rozpočet - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/energie/energie-cena-vlada-uspory-statni-rozpocet-prumysl-zivnostnici.html?utm_source=openai"
+              },
+              {
+                "end_index": 10119,
+                "start_index": 9974,
+                "title": "Elektřina od ledna 2026 zlevní. Stát za vás zaplatí poplatek na obnovitelné zdroje - Měšec.cz",
+                "type": "url_citation",
+                "url": "https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai"
+              },
+              {
+                "end_index": 10744,
+                "start_index": 10591,
+                "title": "Elektřina v roce 2012: Budeme platit kvůli fotovoltaice ještě více? | Finance.cz",
+                "type": "url_citation",
+                "url": "https://firmy.finance.cz/zpravy/finance/326500-elektrina-v-roce-2012-budeme-platit-kvuli-fotovoltaice-jeste-vice/?utm_source=openai"
+              },
+              {
+                "end_index": 11095,
+                "start_index": 10989,
+                "title": "Energie kolem nás",
+                "type": "url_citation",
+                "url": "https://ekn.cz/kdo-muze-zlevnit-elektrinu-trh-uz-zacal-ted-je-rada-na-vlade/?utm_source=openai"
+              },
+              {
+                "end_index": 11569,
+                "start_index": 11454,
+                "title": "Vláda už ví, jak zkrotí drahou elektřinu - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/vlada-uz-vi-jak-zkroti-drahou-elektrinu20101009.html?utm_source=openai"
+              },
+              {
+                "end_index": 12479,
+                "start_index": 12334,
+                "title": "Elektřina od ledna 2026 zlevní. Stát za vás zaplatí poplatek na obnovitelné zdroje - Měšec.cz",
+                "type": "url_citation",
+                "url": "https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai"
+              },
+              {
+                "end_index": 12767,
+                "start_index": 12622,
+                "title": "Elektřina od ledna 2026 zlevní. Stát za vás zaplatí poplatek na obnovitelné zdroje - Měšec.cz",
+                "type": "url_citation",
+                "url": "https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai"
+              },
+              {
+                "end_index": 13108,
+                "start_index": 12963,
+                "title": "Elektřina od ledna 2026 zlevní. Stát za vás zaplatí poplatek na obnovitelné zdroje - Měšec.cz",
+                "type": "url_citation",
+                "url": "https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai"
+              },
+              {
+                "end_index": 13986,
+                "start_index": 13870,
+                "title": "Program hnutí ANO do parlamentních voleb 2025 | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/828981-program-hnuti-ano-do-parlamentnich-voleb-2025/?utm_source=openai"
+              },
+              {
+                "end_index": 14254,
+                "start_index": 14151,
+                "title": "Zálohy na pojistné na důchodové pojištění - Česká správa sociálního zabezpečení",
+                "type": "url_citation",
+                "url": "https://cssz.gov.cz/web/cz/zalohy-na-pojistne-na-duchodove-pojisteni?utm_source=openai"
+              },
+              {
+                "end_index": 14469,
+                "start_index": 14345,
+                "title": "Platby zdravotního pojištění v roce 2026 - VZP ČR",
+                "type": "url_citation",
+                "url": "https://www.vzp.cz/o-nas/tiskove-centrum/otazky-tydne/platby-zdravotniho-pojisteni-v-roce-2026?utm_source=openai"
+              },
+              {
+                "end_index": 14773,
+                "start_index": 14634,
+                "title": "Změny pro OSVČ v roce 2026: Jak to bude u záloh na pojištění, co paušální daň - Komora daňových poradců ČR",
+                "type": "url_citation",
+                "url": "https://www.kdpcr.cz/pro-media/temata-a-komentare/zmeny-pro-osvc-v-roce-2026-jak-to-bude-u-zaloh-na-pojisteni-co-pausalni-dan"
+              },
+              {
+                "end_index": 15399,
+                "start_index": 15254,
+                "title": "Elektřina od ledna 2026 zlevní. Stát za vás zaplatí poplatek na obnovitelné zdroje - Měšec.cz",
+                "type": "url_citation",
+                "url": "https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai"
+              },
+              {
+                "end_index": 15681,
+                "start_index": 15536,
+                "title": "Elektřina od ledna 2026 zlevní. Stát za vás zaplatí poplatek na obnovitelné zdroje - Měšec.cz",
+                "type": "url_citation",
+                "url": "https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai"
+              },
+              {
+                "end_index": 16133,
+                "start_index": 15980,
+                "title": "Elektřina v roce 2012: Budeme platit kvůli fotovoltaice ještě více? | Finance.cz",
+                "type": "url_citation",
+                "url": "https://firmy.finance.cz/zpravy/finance/326500-elektrina-v-roce-2012-budeme-platit-kvuli-fotovoltaice-jeste-vice/?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Co přesně Babiš tvrdí\n\nCitovaná věta obsahuje dvě hlavní tvrzení:\n\n1. **OSVČ zálohy:**  \n   „My jsme splnili to, že jsme řekli, že nedovolíme navyšovat ty zálohy pro OSVČ.“  \n   → Tvrdí, že:\n   - (1a) jeho hnutí/vláda předem **slíbila**, že „nedovolí navyšovat“ zálohy pro OSVČ,  \n   - (1b) a že tento slib už **splnila** (tj. zálohy se fakticky nezvýšily / byly vráceny).\n\n2. **12 miliard na energie:**  \n   „…a dali jsme lidem 12 miliard na zlevnění energií.“  \n   → Tvrdí, že vláda:\n   - (2a) schválila **balík cca 12 mld Kč**,  \n   - (2b) který jde „lidem“ (tj. domácnostem)  \n   - (2c) a jeho účelem je **zlevnění energií** (plyn/elektřina).\n\nNíže jsou pro každou dílčí část shromážděné důkazy.\n\n---\n\n## 2. Zálohy pro OSVČ – sliby vs. realita v roce 2026\n\n### 2.1. Co ANO / Babiš slibovali\n\nV programu ANO pro sněmovní volby 2025 se explicitně píše:\n\n> „Zastavíme další zvyšování odvodů pro živnostníky, které Fialova vláda naplánovala pro rok 2026.“ ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/828981-program-hnuti-ano-do-parlamentnich-voleb-2025/?utm_source=openai))  \n\nEkonomický magazín Finmag shrnuje předvolební sliby takto:\n\n- Fialova vláda v konsolidačním balíčku z roku 2023 nastavila růst minimálního vyměřovacího základu OSVČ ze 25 % průměrné mzdy (2023) na 30 % (2024), 35 % (2025) a 40 % (2026). ([finmag.cz](https://www.finmag.cz/finance/480635-minimalni-zalohy-osvc-v-roce-2026-kolik-usetrite-v-babisove-scenari))  \n- Pravděpodobná ministryně financí Alena Schillerová (ANO) k tomu před volbami:  \n\n  > „Nesouhlasíme s dalším zvyšováním odvodů pro živnostníky, ke kterému má dojít od 1. ledna 2026 … Pokud získáme důvěru ve volbách, **neprodleně přijmeme zákon, který tomuto zvyšování zamezí**.“ ([finmag.cz](https://www.finmag.cz/finance/480635-minimalni-zalohy-osvc-v-roce-2026-kolik-usetrite-v-babisove-scenari))  \n\nSlib tedy **nebyl**, že zálohy vůbec neporostou, ale že **zastaví další růst vyměřovacího základu na 40 %** (ponechají jej na 35 %, takže by růst vyplýval jen z růstu průměrné mzdy).\n\n### 2.2. Jaké zálohy OSVČ skutečně platí v roce 2026\n\n#### Sociální pojištění (ČSSZ – oficiální zdroj)\n\nČeská správa sociálního zabezpečení pro rok 2026 uvádí:\n\n- Minimální měsíční vyměřovací základ pro OSVČ – **hlavní činnost**: 19 587 Kč  \n- Z toho minimální záloha na důchodové pojištění: **5 720 Kč / měsíc** (hlavní činnost)  \n- Pro začínající OSVČ (25 % průměrné mzdy): minimální záloha 3 575 Kč  \n- Pro vedlejší činnost: minimální záloha 1 574 Kč ([cssz.gov.cz](https://cssz.gov.cz/web/cz/zalohy-na-pojistne-na-duchodove-pojisteni?utm_source=openai))  \n\nPrůměrná mzda pro rok 2026 byla vládním nařízením stanovena na 48 967 Kč; 40 % z ní je cca 19 587 Kč, což odpovídá uvedenému vyměřovacímu základu. ([douc.info](https://douc.info/clanky/minimalni-zalohy-osvc-od-112026?utm_source=openai))  \n\n→ **Fakticky se tedy používá právě 40 % průměrné mzdy**, jak zavedl Fialův konsolidační balíček; slib „zastavení“ na 35 % zatím nebyl promítnut do platného práva.\n\nPro srovnání s rokem 2025:\n\n- 2025 – minimální záloha na sociální pojištění (hlavní činnost): 4 759 Kč ([finance.cz](https://www.finance.cz/552653-minimalni-zalohy-na-socialnim-zdravotnim-pojisteni-osvc-obzp-v-roce-2025/?utm_source=openai))  \n- 2026 – minimální záloha (hlavní činnost): 5 720 Kč ([pruvodcepodnikanim.cz](https://www.pruvodcepodnikanim.cz/clanek/minimalni-zalohy-osvc-2026/?utm_source=openai))  \n\nNárůst: **+961 Kč/měsíc**.\n\n#### Zdravotní pojištění (pojišťovny – oficiální čísla)\n\nVZP a další zdravotní pojišťovny uvádějí:\n\n- Minimální měsíční záloha OSVČ na zdravotní pojištění 2025: cca **3 143–3 161 Kč**  \n- Od 1. 1. 2026 je minimální záloha stanovena na **3 306 Kč**; OSVČ, které do té doby platily nižší zálohy, je musí od ledna 2026 **navýšit**. ([vzp.cz](https://www.vzp.cz/o-nas/tiskove-centrum/otazky-tydne/platby-zdravotniho-pojisteni-v-roce-2026?utm_source=openai))  \n\nNárůst: cca **+145–165 Kč/měsíc**.\n\n### 2.3. Co nová vláda skutečně udělala (stav k 7. 2. 2026)\n\nZ odborných přehledů a materiálů Komory daňových poradců, serverů Peníze.cz a Podnikatel.cz vyplývá:\n\n- Minimální zálohy 2026 **už byly zvýšeny** podle původního Fialova modelu na 40 % průměrné mzdy (5 720 + 3 306 Kč). ([penize.cz](https://www.penize.cz/spotrebitel/479400-novy-rok-ve-vasi-penezence-velky-prehled-zmen-od-ledna-2026?utm_source=openai))  \n- Nová Babišova vláda předložila **teprve návrh novely**, která:\n  - by vyměřovací základ pro sociální pojištění OSVČ – hlavní činnost **vrátila na 35 % průměrné mzdy**,  \n  - tím by snížila minimální zálohu na sociální pojištění z 5 720 Kč na cca **5 005 Kč/měsíc**,  \n  - počítá s **retroaktivitou** – rozdíl mezi 5 720 a 5 005 Kč by byl považován za přeplatek, který by si OSVČ mohly nechat vrátit nebo ho využít při ročním zúčtování. ([kdpcr.cz](https://www.kdpcr.cz/pro-media/temata-a-komentare/zmeny-pro-osvc-v-roce-2026-jak-to-bude-u-zaloh-na-pojisteni-co-pausalni-dan))  \n\nCitace z materiálu Komory daňových poradců (3. 1. 2026):\n\n> „Nová vláda Andreje Babiše chce odvody do konce března 2026 zase vrátit na úroveň roku 2025. Vybrané navýšení do té doby plánuje živnostníkům a podnikatelům vrátit… návrh zákona ponechává minimální vyměřovací základ u sociálního pojištění OSVČ na 35 procentech průměrné mzdy.“ ([kdpcr.cz](https://www.kdpcr.cz/pro-media/temata-a-komentare/zmeny-pro-osvc-v-roce-2026-jak-to-bude-u-zaloh-na-pojisteni-co-pausalni-dan))  \n\nVelký přehled změn pro podnikatele na Podnikatel.cz shrnuje:\n\n> „OSVČ se v roce 2026 zvýšily minimální zálohy sociálního pojištění… Pro rok 2026 to znamená zvýšení […] z 4 759 Kč na 5 720 Kč… Ve Sněmovně ovšem leží návrh zákona […] který […] vrací minimální vyměřovací základ […] na 35 % […] Po nabytí účinnosti zákona tak minimální zálohy […] klesnou na 5 005 Kč.“ ([podnikatel.cz](https://www.podnikatel.cz/clanky/velky-rozcestnik-zmen-v-roce-2026-ktere-se-tykaji-podnikatelu/?utm_source=openai))  \n\n→ Ke dni vysílání pořadu (7. 2. 2026) **zákon ještě není přijat**, OSVČ platí zvýšené zálohy 5 720 Kč + 3 306 Kč a případné snížení/vracení je teprve ve stadiu **legislativního návrhu**.\n\n### 2.4. Hodnocení dílčího tvrzení 1 („nedovolíme navyšovat zálohy pro OSVČ“)\n\n- **Slib existuje a je zdokumentovaný:** ANO a Schillerová opakovaně deklarovali, že **zastaví další růst vyměřovacího základu na 40 %** a „neprodleně“ přijmou zákon, který tomu zamezí. ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/828981-program-hnuti-ano-do-parlamentnich-voleb-2025/?utm_source=openai))  \n- **Realita k 7. 2. 2026:**\n  - Minimální zálohy na sociální pojištění i zdravotní pojištění OSVČ jsou **vyšší než v roce 2025** (5 720 vs. 4 759 Kč u sociálního, 3 306 vs. cca 3 143–3 161 Kč u zdravotního). ([cssz.gov.cz](https://cssz.gov.cz/web/cz/zalohy-na-pojistne-na-duchodove-pojisteni?utm_source=openai))  \n  - Zvýšení je způsobeno právě nárůstem vyměřovacího základu na 40 % průměrné mzdy – tedy **přesně tím, čemu ANO slibovalo zabránit**.  \n  - Vláda Andreje Babiše sice předložila **návrh** zákona, který by navýšení částečně vrátil (a OSVČ by část přeplatků získaly zpět), ale ke dni výroku jde pouze o **nedokončený legislativní proces**.\n\n**Závěr k části 1:**  \n- Tvrzení, že vláda „splnila“ slib a „nedovolila navyšovat zálohy“ pro OSVČ, **neodpovídá stavu k 7. 2. 2026**.  \n- Fakticky:\n  - zálohy od 1. 1. 2026 **vzrostly**,  \n  - vláda má pouze **záměr a návrh zákona**, jak růst částečně vrátit; výsledek pro OSVČ zatím nenastal.  \n- Z hlediska fakt-checkingu jde o **minimálně zavádějící / předčasné** tvrzení.\n\n---\n\n## 3. „Dali jsme lidem 12 miliard na zlevnění energií“\n\n### 3.1. Co vláda skutečně udělala v oblasti energií (2025–2026)\n\nNejviditelnější krok nové vlády Andreje Babiše v energetice, který přímo snižuje účty za elektřinu, je **převedení poplatku za podporované zdroje energie (POZE) plně na státní rozpočet** od roku 2026.\n\nPodle řady zdrojů:\n\n- Měšec.cz:\n\n  > „Vláda […] rozhodla, že celé financování POZE vezme na sebe stát […] **stát to vyjde na 17,134 miliardy korun**. ERÚ proto vydal změnový cenový výměr, který nastavuje příspěvek na POZE na nulu.“ ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n\n- Analýzy Lukáše Kovandy (FXstreet, FAEI, apod.):\n\n  > „Nová vláda […] zrušit poplatek za obnovitelné zdroje, resp. jej převést na státní rozpočet, jehož výdaje tak z tohoto důvodu stoupnou roku 2026 o **přibližně 17 miliard korun**. Domácnosti tak ušetří nejčastěji od 4 000 do 23 000 korun ročně.“ ([fxstreet.cz](https://www.fxstreet.cz/zpravodajstvi-193546.html?utm_source=openai))  \n\n- TZB‑info (odborný portál):\n\n  > „Státní rozpočet pro rok 2026 to nově zatíží dalšími **zhruba 17 miliardami Kč**, celkově tak stát za poplatky dá více než **41 miliard Kč**.“ ([tzb-info.cz](https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze?utm_source=openai))  \n\n- Seznam Zprávy (ekonomický komentář o „faktoru Babiš“):\n\n  > „Stát totiž bude v příštím roce platit místo odběratelů poplatky za podporované zdroje energie, což státní rozpočet přijde na dalších **zhruba 17 miliard**. Celkové náklady státu na poplatky se tak vyšplhají na **více než 41 miliard korun**.“ ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-firmy-ceskou-ekonomiku-ceka-dalsi-dobry-rok-trable-mohou-prijit-z-nemecka-294700))  \n\n- Deník.cz shrnuje dopad:\n\n  > „Stát v příštím roce odběratelům uleví tím, že poplatek za podporované zdroje energií zaplatí ze státního rozpočtu… domácnosti, živnostníci i firmy tak podle ministrů ušetří **desetinu ceny elektřiny**.“ ([denik.cz](https://www.denik.cz/energie/energie-cena-vlada-uspory-statni-rozpocet-prumysl-zivnostnici.html?utm_source=openai))  \n\nEfekt na regulovanou složku ceny elektřiny:\n\n- Energetický regulační úřad (přes média) uvádí, že regulovaná složka pro domácnosti v roce 2026 **klesne o 15,1 %**, právě kvůli vynulování příspěvku na POZE. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n\n→ **Konkrétní rozpočtový dopad tohoto opatření je konzistentně uváděn jako cca 17 mld Kč, nikoli 12 mld Kč.**\n\n### 3.2. Kde se může brát číslo 12 miliard?\n\nVe veřejné debatě existuje několik „dvanáctimiliardových“ částek, ale týkají se **jiných** věcí nebo jiného období:\n\n1. **Historická státní spoluúčast na podpoře OZE**  \n   – kolem roku 2011–2013 stát ročně dával na podporu obnovitelných zdrojů zhruba **12 mld Kč**, aby zmírnil dopad na koncové ceny elektřiny. ([firmy.finance.cz](https://firmy.finance.cz/zpravy/finance/326500-elektrina-v-roce-2012-budeme-platit-kvuli-fotovoltaice-jeste-vice/?utm_source=openai))  \n   → To ale není krok Babišovy vlády v roce 2026.\n\n2. **Program „Oprav dům po babičce“ (součást Nové zelené úsporám)**  \n   – z Modernizačního fondu je na něj vyčleněno cca **12 mld Kč** pro dlouhodobé dotace na zateplení rodinných domů atd. ([ekn.cz](https://ekn.cz/kdo-muze-zlevnit-elektrinu-trh-uz-zacal-ted-je-rada-na-vlade/?utm_source=openai))  \n   → Jde o **investiční dotace do úspor energie**, nikoli o okamžité zlevnění cen energií na fakturách; navíc program běžel už za předchozí vlády.\n\n3. **Starší diskuse o tlumení růstu cen elektřiny** (Nečasova vláda, rok 2011–2012)  \n   – i tam se pracovalo s částkou kolem 12 mld, které měly zabránit skokovému zdražení elektřiny kvůli solárním podporám. ([denik.cz](https://www.denik.cz/ekonomika/vlada-uz-vi-jak-zkroti-drahou-elektrinu20101009.html?utm_source=openai))  \n   → Opět historické, nesouvisející s Babišovou vládou 2026.\n\nV dostupných zdrojích **není** pro rok 2026 identifikovatelné opatření Babišovy vlády, které by:\n\n- mělo **rozpočtový dopad 12 mld Kč**,  \n- bylo výslovně prezentováno jako „zlevnění energií“ pro domácnosti,  \n- a nešlo zároveň o část celku 17 mld Kč na POZE.\n\nNejbližší a jasně doložené opatření je právě **převzetí POZE za cca 17 mld Kč**.\n\n### 3.3. Hodnocení dílčího tvrzení 2 („dali jsme lidem 12 mld na zlevnění energií“)\n\n- **Ano, vláda přijala významné opatření zlevňující účty za elektřinu:**  \n  Zrušení příspěvku na POZE na fakturách a jeho plné převedení na státní rozpočet od roku 2026.  \n  - Dopad na rozpočet: **cca 17 mld Kč ročně navíc**, celkem přes 41 mld Kč na podporované zdroje. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n  - Dopad na domácnosti: pokles regulované složky ceny elektřiny o cca 15 %, úspory v řádu tisíců až desítek tisíc Kč ročně podle spotřeby. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n\n- **Číselně ale Babišovo tvrzení neodpovídá dostupným datům:**  \n  - Všechny relevantní zdroje uvádějí částku **přibližně 17 mld Kč**, nikde 12 mld Kč pro toto konkrétní opatření v roce 2026. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n  - Částka 12 mld Kč se sice v jiných kontextech (starší OZE dotace, Modernizační fond) objevuje, ale **nelze ji bezpečně spojit s krokem Babišovy vlády z roku 2025/2026**, o kterém mluví v pořadu.\n\n**Závěr k části 2:**  \n- Obsahově je pravda, že vláda přijala **plošné opatření snižující účty za elektřinu** a že to jsou **desítky miliard ročně** ze státního rozpočtu.  \n- Číselně je tvrzení „12 miliard“ **v rozporu s oficiálně uváděnou částkou cca 17 miliard Kč**; tvrzení proto není přesné.  \n\n---\n\n## 4. Shrnutí pro fact‑checkera\n\n### 4.1. Zálohy OSVČ\n\n- **Slib ANO/Babiše/Schillerové**: zastavit růst vyměřovacího základu OSVČ pro sociální pojištění na 40 % od roku 2026 a ponechat jej na 35 %, tj. zabránit dalšímu skokovému zvýšení minimálních záloh. ([zpravy.kurzy.cz](https://zpravy.kurzy.cz/828981-program-hnuti-ano-do-parlamentnich-voleb-2025/?utm_source=openai))  \n- **Faktický stav k 7. 2. 2026**:\n  - Platí minimální zálohy sociálního pojištění **5 720 Kč** (hlavní činnost), což odpovídá **40 %** průměrné mzdy (48 967 Kč). ([cssz.gov.cz](https://cssz.gov.cz/web/cz/zalohy-na-pojistne-na-duchodove-pojisteni?utm_source=openai))  \n  - Minimální záloha na zdravotní pojištění OSVČ je **3 306 Kč** (také vyšší než 2025). ([vzp.cz](https://www.vzp.cz/o-nas/tiskove-centrum/otazky-tydne/platby-zdravotniho-pojisteni-v-roce-2026?utm_source=openai))  \n  - Vláda má **pouze návrh novely** na vrácení vyměřovacího základu na 35 % (minimum 5 005 Kč), se zpětným vracením přeplatků; návrh zatím **nenabyl účinnosti**. ([kdpcr.cz](https://www.kdpcr.cz/pro-media/temata-a-komentare/zmeny-pro-osvc-v-roce-2026-jak-to-bude-u-zaloh-na-pojisteni-co-pausalni-dan))  \n\n→ Sub‑tvrzení „slib jsme splnili a nedovolili navyšovat zálohy pro OSVČ“ je **v rozporu s aktuálně platnými částkami**; vláda slib zatím jen **částečně naplňuje na úrovni návrhu zákona**, nikoli v realitě plateb.\n\n### 4.2. „12 miliard na zlevnění energií“\n\n- **Prokazatelné opatření vlády Andreje Babiše (konec 2025):** plné převzetí financování POZE státem od roku 2026.  \n  - Dodatečný náklad pro rozpočet: **cca 17 mld Kč ročně**, celková státní úhrada POZE přes 41 mld Kč. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n  - Dopad: snížení regulované složky elektřiny o cca 15 %, úspory pro domácnosti v řádu tisíců až desítek tisíc ročně podle spotřeby. ([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n\n- **Číslo 12 mld Kč**:\n  - V dostupných zdrojích se jako **aktuální náklad** Babišova kroku neobjevuje;  \n  - 12 mld se vztahuje buď k historickým státním příspěvkům na OZE (2011–2013), nebo k jiným programům (např. „Oprav dům po babičce“), nikoli přímo k vládnímu zlevnění energií v roce 2026. ([firmy.finance.cz](https://firmy.finance.cz/zpravy/finance/326500-elektrina-v-roce-2012-budeme-platit-kvuli-fotovoltaice-jeste-vice/?utm_source=openai))  \n\n→ Sub‑tvrzení, že vláda „dala lidem **12** miliard na zlevnění energií“, **neodpovídá doloženým číslům**: hlavní zlevňovací krok stojí stát cca **17 mld Kč**, nikoli 12 mld Kč.\n\n---\n\n### 4.3. Celkové hodnocení výroku\n\n- Část o **OSVČ zálohách** je **nepravdivá/předčasná**:  \n  - Slib zastavit růst byl dán, ale **k datu výroku se zálohy reálně zvýšily**; zákonná změna ke snížení je pouze ve fázi návrhu.  \n\n- Část o **energetické pomoci** je **věcně rámcově pravdivá (vláda skutečně plošně snižuje účty za elektřinu)**, ale:  \n  - uváděná částka **12 miliard Kč neodpovídá dostupným oficiálním údajům** (cca 17 mld Kč).  \n\nTento souhrn by měl dát fact‑checkerovi podklady k posouzení výroku (např. jako „zavádějící“: pravdivý popis typu opatření, ale nepravdivé tvrzení o splnění slibu OSVČ a chybné číslo u energetické podpory).",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 116165,
+      "input_tokens_details": {
+        "cached_tokens": 6144
+      },
+      "output_tokens": 16647,
+      "output_tokens_details": {
+        "reasoning_tokens": 11151
+      },
+      "total_tokens": 132812
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1770640072,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

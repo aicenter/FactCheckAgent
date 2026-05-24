@@ -1,0 +1,965 @@
+{
+  "claim_id": "24623",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24623.md",
+  "fact_check": "# Fact Check for Statement ID 24623\n\n## Statement\nJe to (poplatek za POZE, pozn. Demagog.cz) zelená daň, která vznikla v letech 2006–2010. (...) Po dobu 15 let to bylo s výjimkou jednoho roku v rukou státu, který platil částečně, částečně spotřebitelé a částečně firmy.\n\n---\n## AI Fact Check\n## 1. Rozklad a možné interpretace tvrzení\n\nZkrácené tvrzení Karla Havlíčka (k POZE):\n\n1. **„Je to … zelená daň, která vznikla v letech 2006–2010.“**  \n   – Tj. poplatek za podporované zdroje energie (POZE) má svůj původ právě v období 2006–2010 (v éře vlád, jichž se účastnila ODS).\n\n2. **„Po dobu 15 let to bylo s výjimkou jednoho roku v rukou státu, který platil částečně, částečně spotřebitelé a částečně firmy.“**  \n   – Tj. zhruba 15 let byl systém financování podpory takový, že náklady se stabilně dělily mezi státní rozpočet a koncové odběratele (domácnosti i firmy), jen v jednom roce z tohoto období se tento vzorec lišil.\n\n### Možné interpretace\n\n- U první části lze interpretovat:\n  - (a) že **samotný poplatek/příspěvek na POZE** vznikl v letech 2006–2010; nebo  \n  - (b) že **„zelená daň“= celý dnešní problém s dlouhodobě garantovanou podporou (zejména solární boom)** byl způsoben rozhodnutími z let 2006–2010.\n\n- U druhé části:\n  - (a) „15 let“ může odpovídat období **2011–2025**, kdy existuje prokazatelný systém „vícezdrojového financování“ (část nákladů rozpočet, část koncoví odběratelé) s jedním rokem (2023), kdy poplatek na fakturách fakticky zmizel, protože vše platil stát.  \n  - (b) Alternativně by šlo tvrzení vztáhnout i na delší historii od 2006, pak ale neplatí, že stát celou dobu „platil částečně“.\n\nNíže jsou pro každou část tvrzení sepsány relevantní důkazy.\n\n---\n\n## 2. Kdy „vznikl“ poplatek / příspěvek na podporované zdroje (POZE)?\n\n### 2.1 Legislativní vznik systému podpory (zákon 180/2005 Sb.)\n\n- Základ systému podpory obnovitelných zdrojů (OZE) byl vytvořen **zákonem č. 180/2005 Sb.**, o podpoře výroby elektřiny z obnovitelných zdrojů (účinnost od 1. 8. 2005).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n  - Zákon stanovuje povinný výkup elektřiny z OZE a tzv. **zelené bonusy**.  \n  - § 6a („Financování podpory“) výslovně říká, že **vícenáklady** spojené s podporou OZE:\n    - jsou hrazeny **složkou ceny za přenos nebo distribuci elektřiny**,  \n    - a **dotací ze státního rozpočtu**.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n\n> Z toho plyne, že **povinný příspěvek v ceně elektřiny na OZE existuje právně již od roku 2005**, nikoli až od 2006 či dokonce až 2009/2010.\n\n### 2.2 Začátek faktického vybírání příspěvku od odběratelů\n\n- Energetický regulační úřad (ERÚ) podle zákona každý rok stanovuje regulované ceny včetně **příspěvku na podporu OZE**.  \n  - Peníze.cz uvádí přehled „příspěvku na OZE“ v Kč/MWh už od roku **2005**: 39,45 Kč/MWh (2005), 28,26 (2006), 34,13 (2007), 40,75 (2008), 52,18 (2009), 166,34 (2010) atd.([penize.cz](https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai))  \n  - Deník v roce 2012 píše, že domácnost platila v ceně elektřiny roku 2012 poplatek 419 Kč/MWh na podporu OZE, přičemž „v roce 2010 byl 166 korun, **předtím se počítal jen na desítky korun**“.([denik.cz](https://www.denik.cz/ekonomika/obnovitelne-zdroje-stoji-ceskou-rodinu-pres-1000-korun-rocne-20120613.html?utm_source=openai))  \n\n- Pozdější souhrn iDNES k historii příspěvku konstatuje, že **„povinný příspěvek … se v ČR platí od roku 2006“**, a zároveň uvádí při „době zavedení“ hodnotu cca 39,45 Kč/MWh (což odpovídá roku 2005).([idnes.cz](https://www.idnes.cz/ekonomika/domaci/energeticky-regulacni-urad-centropol-egu-poze.A251104_150511_ekonomika_hyk?utm_source=openai))  \n\n> V odborných i mediálních zdrojích se tedy:\n> - objevují **konkrétní hodnoty příspěvku už pro rok 2005**,  \n> - a běžně se uvádí, že se **platí od roku 2006** (první celý rok po účinnosti zákona 180/2005).\n\n### 2.3 Politický kontext (kdo vládl při vzniku systému)\n\n- Zákon 180/2005 byl přijat **31. 3. 2005**, účinnost od 1. 8. 2005.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n- V době přijetí a uvedení zákona v účinnost byla premiérem **Jiří Paroubek (ČSSD; vláda ČSSD–KDU‑ČSL–US-DEU)**, premiérem byl od 25. 4. 2005 do 16. 8. 2006.([en.wikipedia.org](https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Paroubek?utm_source=openai))  \n- První vláda ODS (Mirek Topolánek) vzniká až **4. 9. 2006** a funkční vláda ODS s důvěrou Sněmovny je až druhá Topolánkova vláda od 9. 1. 2007.([lidovky.cz](https://www.lidovky.cz/domov/prezident-jmenoval-topolankovu-vladu.A060904_141028_ln_domov_man?utm_source=openai))  \n\n> Legislativní **vznik systému povinného příspěvku** v ceně elektřiny i samotného příspěvku na OZE tedy **předchází nástup vlád s účastí ODS** – probíhá za vlády Jiřího Paroubka.\n\n### 2.4 Solární boom 2009–2010 (v čem má Havlíček částečně pravdu)\n\n- Analýza Czech RE Agency (Enviweb) shrnuje, že:\n  - 2005 – přijetí zákona 180/2005 v podobě s omezením meziročního poklesu výkupních cen na max. 5 %.([enviweb.cz](https://www.enviweb.cz/86028))  \n  - 2006 – ERÚ stanovuje pro fotovoltaické elektrárny vysokou výkupní cenu (13,20 Kč/kWh) a dobu výkupu 15 let.([enviweb.cz](https://www.enviweb.cz/86028))  \n  - 2008–2010 – prudký pokles cen panelů, česká legislativa a ERÚ nereagují včas, instalovaný výkon solárních elektráren v letech 2009–2010 explozivně roste.([enviweb.cz](https://www.enviweb.cz/86028))  \n\n- ERÚ uváděl, že příspěvek na OZE vyskočil z 52 Kč/MWh (2009) na 166 Kč/MWh (2010).([cizp.gov.cz](https://www.cizp.gov.cz/cizp/mezinarodni-aktivity-cizp/zahranicni-spoluprace/aktuality/eru-pristi-rok-bude-podpora-zelene?utm_source=openai))  \n\n> Je tedy pravda, že **hlavní nárůst nákladů a problém „solárního boomu“ se odehrál v letech 2009–2010**, kdy už byly u moci vlády s účastí ODS.  \n> Neplatí však, že by **příspěvek / „zelená daň“ jako taková vznikla až tehdy** – vznikl (minimálně) v letech 2005–2006.\n\n### 2.5 „Je to zelená daň“ – povaha poplatku\n\n- Zákony 180/2005 ani 165/2012 **neoznačují** tento příspěvek jako daň, ale jako **„složku ceny služby distribuční/přenosové soustavy na podporu elektřiny“** – tj. jde formálně o **regulovanou cenu/platbu**, nikoliv daň ve smyslu daňového řádu.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n- V běžném mediálním a odborném diskursu se ovšem často mluví o „zeleném poplatku“ nebo přímo o **„ekologické dani“**:\n  - Peníze.cz vysvětlují položku „Podpora elektřiny z podporovaných zdrojů energie“ na faktuře tak, že jde o **poplatek, který můžeme nazvat ekologická daň**.([penize.cz](https://www.penize.cz/nakupy/448634-kolik-zaplatite-za-elektrinu-a-proc-zdrazi-jak-se-vyznat-ve-fakture?utm_source=openai))  \n\n> Z právního hlediska tedy nejde o „daň“, ale o **regulovaný poplatek v ceně elektřiny**; z hlediska ekonomického dopadu na spotřebitele jej však řada zdrojů i odborníků označuje (obrazně) jako **zelenou/ekologickou daň**.\n\n---\n\n## 3. Kdo a jak dlouho platil podporu (stát × spotřebitelé × firmy)?\n\n### 3.1 Zákonný princip financování\n\n- **Zákon 180/2005 (§ 6a)** – už od roku 2005 stanoví, že vícenáklady spojené s podporou OZE jsou hrazeny:\n  - složkou ceny za přenos/distribuci elektřiny (tj. platby od koncových odběratelů),  \n  - a dotací ze státního rozpočtu (pokud vláda takovou dotaci schválí).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n\n- **Zákon 165/2012 Sb. (o podporovaných zdrojích energie)**, účinný od 1. 1. 2013, v § 28 opakuje princip **vícezdrojového financování**:\n  - náklady jsou hrazeny z **plateb složky ceny služby distribuční/přenosové soustavy na podporu elektřiny** a  \n  - **dotací ze státního rozpočtu**, doplněných výnosy z emisních povolenek atd.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2012-165?utm_source=openai))  \n\n> Zákon tedy **po celou dobu** předpokládá kombinaci plateb od odběratelů a případné státní dotace. Rozhodující je ale, zda skutečně byly peníze ze státního rozpočtu v konkrétních letech uvolněny.\n\n### 3.2 Skutečné financování 2006–2010: pouze přes účty odběratelů\n\nKlíčová je informace, kterou v roce 2019 zveřejnilo Ministerstvo průmyslu a obchodu (MPO) jako odpověď podle zákona 106/1999 Sb.:\n\n- MPO uvádí, že v letech **2006–2010** na podporu OZE **nešly žádné finanční prostředky ze státního rozpočtu**; stát se podílel „nepřímo“ tím, že přijal právní regulaci, jež přenesla finanční zátěž na konečné zákazníky.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n- V tabulce MPO pro roky 2006–2012 jsou uvedeny:\n  - celkové náklady na provozní podporu (PZE),  \n  - část hrazená složkou ceny (od koncových odběratelů),  \n  - a dotace ze státního rozpočtu.\n\n  Zkráceně (mld. Kč):([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n  | Rok | Celkové náklady | Hrazeno v ceně elektřiny | Dotace SR |\n  |-----|-----------------|--------------------------|-----------|\n  | 2006–2010 | 2,7 → 13,6 | 2,7 → 13,6 | **x (0)** |\n  | 2011 | 32,0 | 20,3 | **11,7** |\n  | 2012 | 34,5 | 22,8 | **11,7** |\n\n> Z toho plyne, že **v letech 2006–2010 financovali podporu zcela koncoví odběratelé (domácnosti a firmy) v ceně elektřiny**, stát sice systém nastavil, ale **finančně se na podpoře nepodílel**.\n\n### 3.3 2011–2018: zavedení stabilních státních dotací\n\n- Od **roku 2011** začíná stát poskytovat systematické dotace:\n\n  - MPO potvrzuje dotaci **11,7 mld. Kč** v letech 2011 a 2012.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n  - Vládní materiály a média pro další roky ukazují trvalé pokračování dotací:\n    - 2013: vláda uvádí dotaci 11,7 + 4 mld. Kč (celkem 15,7 mld.) a zároveň zavedení **stropu 495 Kč/MWh** pro příspěvek, který platí spotřebitelé – vše nad strop platí stát.([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-omezi-podporupro-obnovitelne-zdroje-energie-109181?utm_source=openai))  \n    - 2014–2018: MPO uvádí dotace 15,7; 15,7; 21,965; 26,185; 26,185 mld. Kč.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n    - Ekonomický deník shrnuje, že v roce 2017 činila podpora POZE 45,7 mld. Kč, z toho stát zaplatil cca 26,2 mld., zbytek spotřebitelé.([ekonomickydenik.cz](https://ekonomickydenik.cz/mpo-prispevek-podporovanym-zdrojum-loni-slo-457-mld-kc/?utm_source=openai))  \n\n> V letech **2011–2018** tedy jednoznačně platí, že se náklady **systematicky dělí mezi státní rozpočet a odběratele** (domácnosti i firmy).\n\n### 3.4 2019–2021: pokračování modelu sdíleného financování\n\n- Euro.cz 2019: pro rok 2019 navrhuje MPO zvýšit státní dotaci na **27 mld. Kč**, přičemž celková podpora přesahuje 40 mld. Kč – rozdíl hradí převážně spotřebitelé v ceně elektřiny.([euro.cz](https://www.euro.cz/clanky/statni-dotace-pro-podporovane-energie-ma-vzrust-na-27-miliard-navrhuje-ministerstvo-prumyslu-1461749/?utm_source=openai))  \n- Solární novinky 2021 shrnují, že:\n  - v roce 2020 činila celková podpora POZE **45,4 mld. Kč**,  \n  - **stát přispěl 27 mld. Kč**, zbytek zaplatili zákazníci ve fakturách.([solarninovinky.cz](https://www.solarninovinky.cz/dotace-na-podporovane-zdroje-energie-loni-stagnovaly/?utm_source=openai))  \n\n> I v těchto letech tedy dále platí vzorec „**část rozpočet, část spotřebitelé/firmy**“.\n\n### 3.5 2022–2023: energetická krize, dočasné plné převzetí nákladů státem\n\n- V roce 2022 vláda Petra Fialy zavedla tzv. **úsporný tarif**; jeho součástí bylo **odpuštění příspěvku na POZE**:\n  - Vládní materiál shrnuje: od **října 2022 do konce roku 2023** byly domácnostem odpuštěny poplatky za POZE (cca 599 Kč/MWh s DPH), náklady přebral stát.([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai))  \n  - Podobně shrnuje ČEZ: „Od října 2022 do konce roku 2023 domácnosti neplatily příspěvek na POZE, ten plně hradil stát.“([cez.cz](https://www.cez.cz/cs/clanky/elektrina/prispevek-na-elektrinu.-na-co-mate-narok-v-roce-2025-a-co-uz-neplati-226285?utm_source=openai))  \n\n- Publicistické shrnutí (např. FAEI.cz) uvádí, že **od posledního čtvrtletí 2022 byla ze státního rozpočtu financována celá podpora obnovitelných zdrojů**.([faei.cz](https://faei.cz/nejvetsi-skupine-domacnosti-elektrina-nezdrazi-i-pres-rust-regulovane-casti/?utm_source=openai))  \n\n> Rok **2023** je tedy specifický tím, že **veškeré náklady** na podporované zdroje (včetně toho, co jinak bývá hrazeno poplatkem v tarifu) **platil plně stát**; příspěvek na POZE byl na fakturách odběratelů fakticky nulový.\n\n### 3.6 2024–2025: návrat k vícezdrojovému modelu\n\n- Po skončení krizového režimu se vláda vrátila k „vícezdrojovému“ financování:\n  - ČT24 v červenci 2023 shrnuje, že **před říjnem 2022 fungoval systém zhruba půl na půl – část hradil stát, část domácnosti a podniky** a že od roku 2024 se má k tomuto modelu vrátit (stát má přispět 17,5 mld. Kč).([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/stat-chce-snizit-podporu-obnovitelnych-zdroju-planuje-prispet-jen-17-5-miliardy-4249?utm_source=openai))  \n  - Vláda v prosinci 2023 schválila dotaci na POZE pro rok 2024 ve výši **12,85 mld. Kč**, zároveň konstatuje, že pro rok 2023 byla dotace stanovena na **22,78 mld. Kč**.([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-vysi-dotace-firmam-na-podporu-obnovitelnych-zdroju-energie-a-rozhodla-o-navyseni-minimalni-mzdy-o-1-600-korun-211010/tmplid-47/?utm_source=openai))  \n  - V březnu 2025 vláda rozhodla o navýšení výdajů na POZE o 20 mld. Kč na celkem **28,57 mld. Kč v roce 2025**.([energyhub.eu](https://energyhub.eu/cs/articles/1132120/vydaje-na-podporovane-zdroje-energie-letos-vzrostou-o-20-mld-kc-rozhodla-vlada?utm_source=openai))  \n\n- Souhrnný článek TZB‑info (2025) k vývoji příspěvků na POZE uvádí, že:\n  - příspěvky na POZE byly zavedeny v roce **2006**,  \n  - **část dotací poskytoval stát, další část dopláceli ve fakturách spotřebitelé**,  \n  - **výjimkou byl rok 2023, kdy vláda kvůli energetické krizi přesunula všechny platby na stát**.([tzb-info.cz](https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze?utm_source=openai))  \n\n> To potvrzuje, že v **letech 2011–2025** s výjimkou roku **2023** vždy platil určitý podíl **stát** a zbytek **odběratelé (domácnosti i firmy)**.\n\n### 3.7 Rozpor v popisu starších let (2006–2010)\n\n- Některé novější souhrnné články (např. Energy‑hub / Forbes 2025) píší, že „**dotace na POZE stát vyplácí od roku 2006**“.([energyhub.eu](https://energyhub.eu/cs/articles/1132120/vydaje-na-podporovane-zdroje-energie-letos-vzrostou-o-20-mld-kc-rozhodla-vlada?utm_source=openai))  \n- To je však v přímém rozporu s oficiální informací MPO dle zákona 106/1999 Sb., podle níž **v letech 2006–2010 žádné prostředky ze státního rozpočtu na podporu OZE neplynuly** a veškerá podpora byla hrazena přes složku ceny placenou odběrateli.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n> Pro hodnocení tvrzení je třeba dát **přednost primárnímu zdroji (MPO)** před novinovými zkratkami – z nich část zjevně „zjednodušuje“ historii a zachází s pojmem „dotace“ volněji.\n\n---\n\n## 4. Jak to sedí na Havlíčkovu formulaci „po dobu 15 let…“?\n\n### 4.1 Časové vymezení „15 let“\n\n- Pokud vezmeme období **2011–2025** (tj. roky, pro které máme doložené každoroční dotace ze státního rozpočtu na POZE), jde o **15 let**:  \n  2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025.\n\n- V tomto období:\n  - **každý rok** existuje **kombinace státní dotace + plateb spotřebitelů a firem**,  \n  - **s výjimkou roku 2023**, kdy veškerou podporu převzal stát a příspěvek na POZE na fakturách byl nulový.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n> Z hlediska financování po roce 2010 se tedy dá tvrdit, že **„cca 15 let“ (2011–2025) byl systém v rukou státu, který určoval výši dotace a tím i to, kolik doplatí odběratelé; v naprosté většině let stát platil jen část, výjimečně (2023) vše**.\n\n### 4.2 Problém starších let (2006–2010) ve vztahu k tvrzení\n\n- V letech **2006–2010**:\n  - systém podpory už existoval a příspěvek na OZE se vybíral,  \n  - **ale** z oficiálních dat MPO plyne, že **žádná dotace ze státního rozpočtu tehdy na podporu OZE nešla – 100 % nákladů nesli odběratelé ve svých platbách**.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n> Pokud by tedy Havlíčkův výrok mířil na **celé období od zavedení příspěvku (cca 2005/2006)**, pak **není pravda**, že „po dobu 15 let“ stát vždy „platil částečně“.\n\n---\n\n## 5. Shrnutí důkazů k jednotlivým částem tvrzení\n\n### 5.1 „Je to … zelená daň, která vznikla v letech 2006–2010“\n\n**Podporující / částečně podporující fakta:**\n\n- Hlavní **nárůst nákladů** a problém „solárního boomu“ opravdu nastal v **letech 2009–2010** (rychlý růst instalovaného výkonu fotovoltaiky, skokový růst příspěvku z 52 na 166 Kč/MWh).([enviweb.cz](https://www.enviweb.cz/86028))  \n- V těchto letech už u moci byly vlády s účastí **ODS** (Topolánek, později Fischer), které **nereagovaly včas** na pokles cen technologie a udržely vysoké výkupní ceny.\n\n**Rozpor / korigující fakta:**\n\n- Systém podpory (a tím i zákonný základ povinného příspěvku v ceně elektřiny) vznikl **zákonem 180/2005 Sb. v roce 2005** za vlády Jiřího Paroubka (ČSSD).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n- Příspěvek na OZE/POZE se podle dostupných tabulek a článků **vybírá minimálně od roku 2005–2006**, nikoli až od let 2009–2010.([penize.cz](https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai))  \n\n**K „zelené dani“ jako pojmu:**\n\n- Právně jde o **regulovaný poplatek v ceně elektřiny**, nikoli daň, nicméně v odborných i mediálních textech se běžně označuje jako **„ekologická“ či „zelená“ daň/přirážka**.([penize.cz](https://www.penize.cz/nakupy/448634-kolik-zaplatite-za-elektrinu-a-proc-zdrazi-jak-se-vyznat-ve-fakture?utm_source=openai))  \n\n### 5.2 „Po dobu 15 let to bylo s výjimkou jednoho roku v rukou státu, který platil částečně, částečně spotřebitelé a částečně firmy“\n\n**Silně podporující fakta (pro období 2011–2025):**\n\n- Od **roku 2011** až do současnosti (2025) existuje každoročně **významná státní dotace** na podporované zdroje energie, která doplňuje prostředky vybírané v ceně elektřiny od spotřebitelů a firem.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n- Média i úřady tento model vnímají jako „**vícezdrojové zajištění financování**“ – **část z rozpočtu, část z plateb domácností a podniků**; ČT24 pro čas před říjnem 2022 výslovně uvádí, že to fungovalo „zhruba půl na půl“.([pravniprostor.cz](https://www.pravniprostor.cz/aktuality/stat-mel-pristi-rok-platit-jen-ctvrtinu-nakladu-na-obnovitelne-zdroje?utm_source=openai))  \n- Rok **2023** je doloženou **výjimkou**, kdy příspěvek na POZE na fakturách odběratelů nefiguroval a **celou podporu hradil stát** (od října 2022 do konce 2023).([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai))  \n\n**Rozpor / omezení tvrzení:**\n\n- V letech **2006–2010** se sice příspěvek na OZE už vybíral, ale podle oficiální odpovědi MPO **stát v těchto letech neposkytoval žádné rozpočtové prostředky na podporu OZE** – vše hradili koncoví odběratelé v ceně elektřiny.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n> Proto tvrzení **sedí dobře, pokud se implicitně vztahuje na období 2011–2025**, kdy opravdu platí, že ve všech letech existuje kombinace financování „stát + spotřebitelé/firmy“ s výjimkou roku 2023, kdy platil vše stát.  \n> Pokud by však posluchač výrok četl tak, že **už od vzniku příspěvku (2006)** platil stát vždy část, pak je v rozporu s oficiálními daty MPO, která ukazují, že **v letech 2006–2010 stát finančně nepřispíval vůbec**.\n\n---\n\n## 6. Stručný přehled vývoje financování (pro potřeby fact‑checkingu)\n\n| Období | Existence poplatku na OZE/POZE | Podíl státního rozpočtu podle zdrojů | Poznámka |\n|--------|--------------------------------|--------------------------------------|---------|\n| 2005–2006 | Zákon 180/2005, příspěvek v ceně elektřiny (tabulky ukazují 39,45 Kč/MWh pro 2005, 28,26 pro 2006).([penize.cz](https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai)) | MPO: do roku 2010 **žádné přímé rozpočtové prostředky** na OZE; vše placeno odběrateli.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/)) | Právní vznik systému a prvních příspěvků; vlády ČSSD. |\n| 2007–2010 | Příspěvek dále roste (až na 166 Kč/MWh v roce 2010).([penize.cz](https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai)) | Stále **0 Kč** z rozpočtu; 100 % nákladů v ceně elektřiny.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/)) | Vznik „solárního boomu“ 2009–2010. |\n| 2011–2012 | Příspěvek 370–419 Kč/MWh.([denik.cz](https://www.denik.cz/ekonomika/obnovitelne-zdroje-stoji-ceskou-rodinu-pres-1000-korun-rocne-20120613.html?utm_source=openai)) | Stát platí **11,7 mld. Kč/rok**, zbytek odběratelé.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/)) | První významné státní dotace. |\n| 2013–2018 | Příspěvek zastropován na 495 Kč/MWh (bez DPH); zbytek hradí stát (11,7–26,2 mld. Kč ročně).([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-omezi-podporupro-obnovitelne-zdroje-energie-109181?utm_source=openai)) | Stabilní vícezdrojové financování. |\n| 2019–2021 | Celková podpora cca 45–48 mld. Kč; stát platí ~26–27 mld. Kč, zbytek odběratelé.([euro.cz](https://www.euro.cz/clanky/statni-dotace-pro-podporovane-energie-ma-vzrust-na-27-miliard-navrhuje-ministerstvo-prumyslu-1461749/?utm_source=openai)) | Model „část stát, část domácnosti a firmy“ pokračuje. |\n| 2022 | Jan–září: stejný model; od října 2022 **odpuštění poplatku POZE** – hradí stát.([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai)) | Přechod do krizového režimu. |\n| 2023 | Celý rok: příspěvek na fakturách nulový, **celou podporu platí stát**.([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai)) | Rok, který odpovídá „výjimce jednoho roku“ v Havlíčkově výroku (ale stát zde platí vše, nikoliv nic). |\n| 2024–2025 | Návrat k modelu **část rozpočet (12,85 mld. 2024; 28,57 mld. 2025), část odběratelé**.([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-vysi-dotace-firmam-na-podporu-obnovitelnych-zdroju-energie-a-rozhodla-o-navyseni-minimalni-mzdy-o-1-600-korun-211010/tmplid-47/?utm_source=openai)) | Opět vícezdrojové financování, příspěvek POZE na fakturách se vrací. |\n\n---\n\nTento přehled shromažďuje **všechny hlavní oficiální (MPO, vláda, zákony) a relevantní mediální zdroje**, včetně těch, které si navzájem odporují (např. tvrzení o dotacích „od roku 2006“ vs. oficiální tabulky MPO). Fakt‑checker tak může přesně posoudit, do jaké míry výrok Karla Havlíčka odpovídá realitě, a kde je zkreslený či nepřesný (časové vymezení vzniku poplatku a role státu v letech 2006–2010).\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:12:38\\nTerezie Tománková,moderátorka\\nJsou to dotace, ti dotovaní o nic nepřijdou, jenom to buď se platí přímo ve fakturách, nebo to platí stát a stát žádné peníze nemá. Jsou to peníze lidí, oni to stejně platí.\\n00:12:47\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nPřesně.\\n00:12:47\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nJe to zelená daň, zelená daň, která vznikla v letech 2006–2010, v době, kdy zde vládly vaše vlády, čímž neříkám, že za to osobně můžete vy, ale v každém případě nás tenhle ten špás bude stát 600 miliard korun. Po dobu 15 let to bylo s výjimkou jednoho roku, to uznávám, v rukou státu, který platil částečně, částečně spotřebitelé a částečně firmy. My jsme tu zelenou daň utli nejenom proto, že tak učinili v okolních zemích, nejenom proto, že máme dnes jednu z nejvyšších regulovaných cen energie, mimo jiné i díky tomuto skoro 60 %. Nejenom proto, že zatímco ostatní země vstoupily nějakým způsobem třeba i do té složky neregulované, do té složky silové, což vy jste neudělali, ale hlavně proto, že jsme tady měli skutečně jedny z nejvyšších cen energií a v zásadě nebyla jiná možnost, chceme-li něco udělat rychle, ale ta podstata, kterou stále vy se snažíte, nevěřím tomu, že to nechápete, ale snažíte se to stále jaksi zamlouvat, je to, že přece vycházíme-li z toho, že jsme tržně orientovanou ekonomikou, což jsme, a že vyšší výkonnost firem přinese vyšší daně, vyšší odvody a vyšší investice, což se nám vrátí do toho rozpočtu na té příjmové stránce, tak v tu chvíli já tvrdím, že to bude těch posledních sedm miliard korun, které budeme počítat. A ano, vy byste měl pravdu, že se to dotkne kapes daňových poplatníků, kdybychom zvyšovali daně, ale, pane poslanče, daně jste zvyšovali vy navzdory tomu, že jste tvrdili, že žádné daně zvyšovat nebudete, ještě jste zatím udělal slovo tečka. Vy jste zvýšili prakticky všem a my tvrdíme kategoricky, že nikomu daně zvyšovat nebudeme. Z čeho by to tedy zaplatili ti lidé?\\n00:14:22\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Je to (poplatek za POZE, pozn. Demagog.cz) zelená daň, která vznikla v letech 2006–2010. (...) Po dobu 15 let to bylo s výjimkou jednoho roku v rukou státu, který platil částečně, částečně spotřebitelé a částečně firmy.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 535.82 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Poplatek na podporované zdroje energie vznikl v zákoně už v roce 2005, nikoli až v letech 2006–2010. Stát se na jeho financování systematicky podílí od roku 2011, s výjimkou roku 2023. Výrok Karla Havlíčka proto hodnotíme jako zavádějící.</p>\n\n<p>Výrok Karla Havlíčka zazněl v debatě o cenách elektřiny a o tom, kdo nese náklady poplatku za podporované zdroje energie (POZE) na fakturách. Poslanec poplatek označil za <i>„zelenou daň“</i>, která podle něj vznikla v letech 2006–2010, a dodal, že zhruba 15 let byl systém v rukou státu, jenž část nákladů platil sám a část nechával na spotřebitelích a firmách, s výjimkou jednoho roku.</p>\n\n<p>Samotné označení poplatku za <i>„zelenou daň“</i> je hodnotící a žádný právní předpis tento termín nepoužívá. Zákony mluví o „složce ceny služby distribuční soustavy na podporu elektřiny z podporovaných zdrojů“, tedy o regulované platbě v ceně elektřiny, nikoliv o dani. V odborných a mediálních textech je však tato platba často popisována jako faktická ekologická daň; například server Peníze.cz vysvětluje, že jde o poplatek, který lze chápat jako <i>„ekologickou daň“</i> <a href=\"https://www.penize.cz/nakupy/448634-kolik-zaplatite-za-elektrinu-a-proc-zdrazi-jak-se-vyznat-ve-fakture\">podle Peníze.cz</a>. Jde ale o názorové označení, které neověřujeme; soustředíme se na datování vzniku poplatku a na způsob jeho financování.</p>\n\n<p>První dílčí tvrzení říká, že tato „zelená daň“ vznikla v letech 2006–2010. Základ dnešního systému podpory obnovitelných zdrojů však zavedl už v roce 2005 <a href=\"https://www.zakonyprolidi.cz/cs/2005-180\">zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie</a>, účinný od 1. srpna 2005. V § 6a tento zákon stanoví, že vícenáklady podpory se hradí jednak <i>„složkou ceny za přenos nebo distribuci elektřiny“</i>, tedy prostřednictvím plateb odběratelů, a jednak případnou dotací ze státního rozpočtu. Už tímto zákonem tedy vznikl povinný příspěvek na obnovitelné zdroje obsažený v ceně elektřiny.</p>\n\n<p>Že se příspěvek na obnovitelné zdroje fakticky začal vybírat už od poloviny 2000. let, potvrzují i přehledy regulovaných cen. Přehled příspěvku na OZE zveřejněný serverem Peníze.cz uvádí hodnotu 39,45 Kč/MWh pro rok 2005, 28,26 Kč/MWh pro rok 2006 a další rostoucí částky v následujících letech až na 166,34 Kč/MWh v roce 2010 <a href=\"https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje\">uvádí Peníze.cz</a>. Deník v roce 2012 připomíná, že domácnost tehdy platila v ceně elektřiny 419 Kč/MWh na podporu obnovitelných zdrojů, zatímco <i>„v roce 2010 byl poplatek 166 korun, předtím se počítal jen na desítky korun“</i> <a href=\"https://www.denik.cz/ekonomika/obnovitelne-zdroje-stoji-ceskou-rodinu-pres-1000-korun-rocne-20120613.html\">píše Deník</a>. Poplatek tedy existoval a byl účtován ještě před roky 2009–2010, kdy začal prudce růst.</p>\n\n<p>Zákon č. 180/2005 Sb. byl přijat a uveden v účinnost za vlády Jiřího Paroubka; tehdejší kabinet ČSSD–KDU‑ČSL–US‑DEU působil do srpna 2006 <a href=\"https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Paroubek\">shrnuje životopis Jiřího Paroubka</a>. První vláda s účastí ODS vznikla až na podzim 2006 a funkční Topolánkova vláda s důvěrou Poslanecké sněmovny od ledna 2007 <a href=\"https://www.lidovky.cz/domov/prezident-jmenoval-topolankovu-vladu.A060904_141028_ln_domov_man\">připomínají Lidové noviny</a>. Analýza Czech RE Agency popsaná na Enviwebu uvádí, že hlavní „solární boom“ a skokový nárůst nákladů nastaly v letech 2009–2010, kdy po prudkém poklesu cen panelů instalovaný výkon fotovoltaiky „explozivně rostl“ a příspěvek na OZE se několikanásobně zvýšil <a href=\"https://www.enviweb.cz/86028\">uvádí analýza na Enviwebu</a>. Problém výše nákladů tedy skutečně souvisí s roky 2009–2010, neplatí však, že by samotný poplatek vznikl až v období 2006–2010.</p>\n\n<p>První dílčí tvrzení Karla Havlíčka, že poplatek za POZE („zelená daň“) vznikl až v letech 2006–2010, je proto nepravdivé. Systém povinné podpory i příspěvek v ceně elektřiny zavedl už zákon z roku 2005 a poplatek se podle dostupných přehledů vybírá minimálně od roku 2005–2006, byť v prvních letech v nižší výši.</p>\n\n<p>Druhá část výroku tvrdí, že po dobu 15 let byl systém „v rukou státu“, který se na podpoře POZE podílel spolu se spotřebiteli a firmami, s výjimkou jednoho roku. Zákonná úprava od počátku skutečně počítala s vícezdrojovým financováním: vedle již zmíněného § 6a zákona č. 180/2005 Sb. uvádí i § 28 <a href=\"https://www.zakonyprolidi.cz/cs/2012-165\">zákona č. 165/2012 Sb., o podporovaných zdrojích energie</a>, že vícenáklady podpory se hradí „složkou ceny služby přenosové nebo distribuční soustavy na podporu elektřiny“, tedy z plateb odběratelů, a zároveň z dotace ze státního rozpočtu. Zda a v jaké výši stát dotaci skutečně poskytl, je ale dáno rozpočtovým rozhodnutím v konkrétních letech.</p>\n\n<p>Rozhodující proto jsou údaje Ministerstva průmyslu a obchodu. V oficiální odpovědi podle zákona č. 106/1999 Sb. ministerstvo zveřejnilo tabulku financování podpory OZE v letech 2006–2012. Z ní vyplývá, že v letech 2006–2010 byly veškeré náklady (v řádu 2,7 až 13,6 miliardy korun ročně) hrazeny výhradně prostřednictvím složky ceny elektřiny, zatímco dotace ze státního rozpočtu byly v těchto letech nulové <a href=\"https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/\">uvádí MPO</a>. Až v roce 2011 stát poprvé vstoupil do systému jako významný plátce částkou 11,7 miliardy korun z celkových nákladů 32 miliard, přičemž zbytek nadále platili koncoví odběratelé; obdobná struktura se opakovala i v roce 2012.</p>\n\n<p>Od roku 2013 vláda zavedla strop příspěvku na 495 Kč/MWh, který platí odběratelé, a částku nad tento limit začal hradit státní rozpočet. Vládní materiál k omezení podpory obnovitelných zdrojů uvádí, že v roce 2013 měl stát uhradit 11,7 miliardy korun plus 4 miliardy na související výdaje, tedy celkem 15,7 miliardy, zatímco zbytek nákladů zůstal na zákaznících <a href=\"https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-omezi-podporupro-obnovitelne-zdroje-energie-109181\">shrnuje Vláda ČR</a>. Podle dalších údajů MPO státní dotace v letech 2014–2018 postupně rostly až na více než 26 miliard korun ročně, zatímco celková podpora přesahovala 40 miliard, takže část nákladů vždy nesli spotřebitelé v ceně elektřiny <a href=\"https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/\">dokládá MPO</a>. Ekonomický deník například pro rok 2017 popisuje celkovou podporu 45,7 miliardy korun, z toho přibližně 26,2 miliardy zaplatil stát a zbytek odběratelé <a href=\"https://ekonomickydenik.cz/mpo-prispevek-podporovanym-zdrojum-loni-slo-457-mld-kc/\">uvádí Ekonomický deník</a>.</p>\n\n<p>Model sdíleného financování pokračoval i po roce 2018. V roce 2019 navrhovalo Ministerstvo průmyslu a obchodu navýšit státní dotaci na 27 miliard korun, zatímco celková podpora měla přesáhnout 40 miliard; přibližně třetinu nákladů tak podle výpočtů nesli ve svých fakturách odběratelé <a href=\"https://www.euro.cz/clanky/statni-dotace-pro-podporovane-energie-ma-vzrust-na-27-miliard-navrhuje-ministerstvo-prumyslu-1461749/\">píše Euro.cz</a>. Odborný server Solární novinky shrnuje, že v roce 2020 činila celková podpora POZE 45,4 miliardy korun, z toho stát přispěl 27 miliard a zbytek uhradili zákazníci v cenách elektřiny <a href=\"https://www.solarninovinky.cz/dotace-na-podporovane-zdroje-energie-loni-stagnovaly/\">uvádí Solární novinky</a>.</p>\n\n<p>Během energetické krize vláda zavedla tzv. úsporný tarif. Od října 2022 do konce roku 2023 byly domácnostem i firmám odpuštěny platby příspěvku na POZE; namísto standardního poplatku (kolem 599 Kč/MWh s DPH) náklady převzal státní rozpočet <a href=\"https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu\">popisuje Ministerstvo průmyslu a obchodu</a>. Energetická společnost ČEZ ve svém přehledu pro zákazníky uvádí, že <i>„od října 2022 do konce roku 2023 domácnosti neplatily příspěvek na POZE, ten plně hradil stát“</i> <a href=\"https://www.cez.cz/cs/clanky/elektrina/prispevek-na-elektrinu.-na-co-mate-narok-v-roce-2025-a-co-uz-neplati-226285\">shrnuje ČEZ</a>. Rok 2023 tak skutečně tvoří výjimku, kdy podporu prakticky celou zaplatil stát a poplatek na fakturách byl nulový.</p>\n\n<p>Od roku 2024 se systém vrací k vícezdrojovému modelu. V prosinci 2023 schválila Vláda ČR dotaci na podporované zdroje pro rok 2024 ve výši 12,85 miliardy korun a připomněla, že v roce 2023 činila dotace 22,78 miliardy <a href=\"https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-vysi-dotace-firmam-na-podporu-obnovitelnych-zdroju-energie-a-rozhodla-o-navyseni-minimalni-mzdy-o-1-600-korun-211010/tmplid-47/\">informuje Vláda ČR</a>. Pro rok 2025 vláda rozhodla o navýšení výdajů na POZE na zhruba 28,6 miliardy korun <a href=\"https://energyhub.eu/cs/articles/1132120/vydaje-na-podporovane-zdroje-energie-letos-vzrostou-o-20-mld-kc-rozhodla-vlada\">uvádí Energyhub</a>. Odborný portál TZB‑info shrnuje vývoj tak, že příspěvek na POZE se u zákazníků platí od roku 2006 a že v běžných letech část nákladů hradí stát a část spotřebitelé, přičemž <i>„výjimkou byl rok 2023, kdy vláda kvůli energetické krizi přesunula všechny platby na stát“</i> <a href=\"https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze\">shrnuje TZB‑info</a>.</p>\n\n<p>Z dat tedy vyplývá, že od roku 2011 do současnosti (počítáme‑li i schválené rozpočty na roky 2024 a 2025) existuje přibližně patnáctileté období, kdy se náklady na podporované zdroje energie systematicky dělí mezi státní rozpočet a koncové odběratele – domácnosti i firmy – a jedinou skutečnou výjimkou je rok 2023, kdy vše zaplatil stát. Pokud výrok vztáhneme právě na toto období, druhá část tvrzení fakticky odpovídá realitě.</p>\n\n<p>Zároveň ale existuje pětileté období 2006–2010, kdy se příspěvek na obnovitelné zdroje již vybíral, avšak podle oficiálních čísel Ministerstva průmyslu a obchodu na něj v těchto letech nešla z rozpočtu ani koruna a veškeré náklady nesli pouze odběratelé elektřiny <a href=\"https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/\">ukazuje MPO</a>. Z Havlíčkova výroku přitom tato skutečnost nevyplývá a posluchač může nabýt dojmu, že stát „po dobu 15 let“ vždy alespoň část nákladů platil, což pro roky 2006–2010 neplatí. Druhé dílčí tvrzení je proto bez tohoto kontextu zavádějící.</p>\n\n<p>Shrnuto, poplatek na podporované zdroje energie byl zaveden už v roce 2005 a v cenách elektřiny se vybírá minimálně od roku 2005–2006, nikoliv až v letech 2006–2010, jak tvrdí Karel Havlíček. Od roku 2011 se na financování podpory skutečně dlouhodobě podílí jak stát, tak domácnosti a firmy, s výjimkou roku 2023, kdy veškeré náklady převzal stát. Výrok proto kombinuje přesné údaje s časově nepřesným a neúplným popisem vzniku poplatku a staršího období bez státního podílu. Celkově jej hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0406c9f124517cc00069a6caf92ebc81928ede86fb4ea4acd9",
+    "created_at": 1772538617.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0406c9f124517cc00069a6cb03517881929806b369dae35e1d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb1a50948192a36682a2d8bca8ca",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb1b0314819280aaf48a280e5b5a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb1b351481928bcb9fe8d05079a8",
+        "action": {
+          "query": "\"příspěvek na podporované zdroje energie\" vznik poplatek 2006 2010",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"příspěvek na podporované zdroje energie\" vznik poplatek 2006 2010",
+            "zelená daň POZE poplatek historie Česko",
+            "zákon 180/2005 Sb. podpora obnovitelných zdrojů energie financování nákladů",
+            "zákon 165/2012 Sb. o podporovaných zdrojích energie náklady na podporu financování přes ceny elektřiny a státní rozpočet"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb1e4b488192ac36fea80e3974e5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb1f5d388192abb348790908540e",
+        "action": {
+          "query": "\"příspěvek na podporu obnovitelných zdrojů\" zaveden 2006",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"příspěvek na podporu obnovitelných zdrojů\" zaveden 2006",
+            "\"příspěvek na podporované zdroje energie\" kdy vznikl poplatek",
+            "historie příspěvku na podporu obnovitelných zdrojů energie Česko 2010",
+            "poplatek na podporu obnovitelných zdrojů energie v ceně elektřiny 2006 2010"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb2279e88192abbfd0c1b14b0dd9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb2c7f6481929037f3474640187c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb2d96a8819287c433f44dc5e8e7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb2f3c088192985571f83def3d2b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb2f9bbc8192a64b4cc8474ad345",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb309c1c8192950190b205b61b0e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb3c36fc8192b54096d1686c26d8",
+        "action": {
+          "query": "\"poplatek\" \"podporované zdroje energie\" \"15 let\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"poplatek\" \"podporované zdroje energie\" \"15 let\"",
+            "\"příspěvek na podporu obnovitelných zdrojů\" stát hradí částečně, částečně spotřebitelé",
+            "\"po dobu 15 let\" \"obnovitelné zdroje\" \"příspěvek\"",
+            "státní rozpočet příspěvek na podporu obnovitelných zdrojů kdo platí"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb4067f88192b7af09b83d748111",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb4442608192a069e2baa16c3254",
+        "action": {
+          "query": "\"složka ceny\" \"na podporu elektřiny\" 2006 2007",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"složka ceny\" \"na podporu elektřiny\" 2006 2007",
+            "Energetický regulační úrad příspěvek na podporu obnovitelných zdrojů historie 2006",
+            "\"prostory vybrané v období 2006 - 2018 na podporu obnovitelných zdrojů energie\" složka ceny 28 Kč/MWh 2006 419 2012",
+            "kdo platí příspěvek na podporované zdroje energie stát spotřebitelé firmy"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb4a7e3481929a9b37d60cf839f7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb54fcd88192b10d12f2d1760eb7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb5677608192aaeeebe5838a8a57",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb5c55cc819280bac80b1502ac42",
+        "action": {
+          "query": "\"Příspěvek na OZE\" 2005 39,45 \"Kč/MWh\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Příspěvek na OZE\" 2005 39,45 \"Kč/MWh\"",
+            "\"39,45\" \"příspěvek na OZE\"",
+            "\"28 Kč/MWh\" \"příspěvek na OZE\" 2006",
+            "\"podpora obnovitelných zdrojů\" složka ceny 2005 2006 poplatek"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb60b1dc8192a8bc3d233539fbbf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb6136b08192a03cc3ddd9bd729e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb6297d08192afd7443c01313427",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb7c064481928c0088e298a089e2",
+        "action": {
+          "query": "\"příspěvek na podporované zdroje energie\" hradí stát 2022 2023 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"příspěvek na podporované zdroje energie\" hradí stát 2022 2023 2024",
+            "od října 2022 příspěvek na podporu obnovitelných zdrojů neplatí spotřebitelé ale stát",
+            "zastropování poplatku na podporu OZE 495 Kč MWh 2013 2014 dotace státu",
+            "dotace ze státního rozpočetu na podporu elektřiny z OZE 2019 2020 2021 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb8176f481928d99938e02f4d2ba",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb894cc48192a6f4c0a2120b89a9",
+        "action": {
+          "query": "\"zelená daň\" \"podporované zdroje energie\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"zelená daň\" \"podporované zdroje energie\"",
+            "\"zelená daň\" \"podpora obnovitelných zdrojů\" Česko",
+            "\"příspěvek na podporu obnovitelných zdrojů\" není daň",
+            "\"příspěvek na podporované zdroje energie\" charakter poplatku daňového"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb8f25d48192989c2ce9144884ad",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cb96fc6c8192833e0eb0a8efe599",
+        "action": {
+          "query": "\"celkem bylo od roku 2006 na podporu POZE\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"celkem bylo od roku 2006 na podporu POZE\"",
+            "\"od roku 2006\" \"na podporu POZE\"",
+            "\"od října 2022 do konce roku 2023\" \"příspěvek na podporované zdroje\"",
+            "\"od října 2022\" \"příspěvek na podporu obnovitelných\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cb9a91988192be1cdb3ad2a66ef8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cbaf41b48192bd7d64cd0898210c",
+        "action": {
+          "query": "\"Dotace z prostředků státního rozpočetu\" \"příspěvek podporovaným zdrojům\" 2019",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Dotace z prostředků státního rozpočetu\" \"příspěvek podporovaným zdrojům\" 2019",
+            "\"Dotace z prostředků státního rozpočetu\" \"POZE\" 2020",
+            "\"výše státní dotace na podporované zdroje energie\" 2019 2020 2022",
+            "\"výdaje na podporované zdroje energie\" 2019 2020 2022 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cbb341b481929f81989bb26bced0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cbc2ccb08192be0ef6681b18b3b2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cbc3acc081928b81bf85dffb0cec",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cbc5307c81928432d8c93b82b642",
+        "action": {
+          "query": "vláda Čsr 2005 2006 složení Paroubek Gross",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "vláda Čsr 2005 2006 složení Paroubek Gross",
+            "Mirek Topolánek první vláda 4. září 2006",
+            "\"zákon 180/2005\" \"Paroubek\" vláda",
+            "energetický zákon 180/2005 schválen 31. března 2005 koaliční vláda Čssd kdu us"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cbc99d4c8192a6f4a571ab3bee9e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cbccceec8192bca1b71f3c9c8dd0",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cbd14b408192b2b47d590e1b95f8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cbe86a948192a71015746b104854",
+        "action": {
+          "query": "\"výše státní dotace\" \"podporované zdroje\" 2020 2022",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"výše státní dotace\" \"podporované zdroje\" 2020 2022",
+            "\"Výše podpory\" \"POZE\" 2020 2021",
+            "\"dotace na podporované zdroje energie\" 2022",
+            "\"výdaje na podporované zdroje energie\" 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cbf16ce08192be70063b76bd901b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cc51f1888192a8711e91839446c9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cc554ff08192b3b1057853fa2eb9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cc55b8348192a4b0308f2a218995",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cc5777c48192bd803cde9574cafd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cc71031c8192b2442f797dd06cb3",
+        "action": {
+          "query": "\"Příspěvek na podporu obnovitelných zdrojů\" neni dan",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Příspěvek na podporu obnovitelných zdrojů\" neni dan",
+            "\"příspěvek na podporované zdroje energie\" povaha poplatek vs dan",
+            "\"je daní\" \"příspěvek na podporu\"",
+            "\"příspěvek na podporu decentralizované\" tax fee\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cc757acc8192a7b1a1f4c15964c4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0406c9f124517cc00069a6cc92791481929fe9f6817b1c856c",
+        "action": {
+          "query": "\"dotace na podporované zdroje energie\" \"2022\" 27 miliard",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"dotace na podporované zdroje energie\" \"2022\" 27 miliard",
+            "\"výše státní dotace\" \"podporované zdroje\" 2022",
+            "\"dotace na tzv. zelenou energii\" 27 miliard 2020",
+            "\"příspěvek státu\" \"podporované zdroje\" 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0406c9f124517cc00069a6cc97b004819296bf4c6a612b189d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0406c9f124517cc00069a6cc988d188192af638d5285020050",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1769,
+                "start_index": 1707,
+                "title": "\n180/2005 Sb. Zákon o podpoře využívání obnovitelných zdrojů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2005-180"
+              },
+              {
+                "end_index": 2118,
+                "start_index": 2056,
+                "title": "\n180/2005 Sb. Zákon o podpoře využívání obnovitelných zdrojů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2005-180"
+              },
+              {
+                "end_index": 2725,
+                "start_index": 2621,
+                "title": "Kolik nás stojí obnovitelné zdroje? | Peníze.cz",
+                "type": "url_citation",
+                "url": "https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai"
+              },
+              {
+                "end_index": 3058,
+                "start_index": 2921,
+                "title": "Obnovitelné zdroje stojí českou rodinu přes 1000 korun ročně - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/obnovitelne-zdroje-stoji-ceskou-rodinu-pres-1000-korun-rocne-20120613.html?utm_source=openai"
+              },
+              {
+                "end_index": 3406,
+                "start_index": 3262,
+                "title": "Kde se vzal příspěvek na obnovitelné zdroje. Za léta by už vydal na jaderný blok - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/ekonomika/domaci/energeticky-regulacni-urad-centropol-egu-poze.A251104_150511_ekonomika_hyk?utm_source=openai"
+              },
+              {
+                "end_index": 3806,
+                "start_index": 3744,
+                "title": "\n180/2005 Sb. Zákon o podpoře využívání obnovitelných zdrojů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2005-180"
+              },
+              {
+                "end_index": 4059,
+                "start_index": 3966,
+                "title": "Jiří Paroubek",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Paroubek?utm_source=openai"
+              },
+              {
+                "end_index": 4333,
+                "start_index": 4206,
+                "title": "Prezident jmenoval Topolánkovu vládu | Česko | Lidovky.cz",
+                "type": "url_citation",
+                "url": "https://www.lidovky.cz/domov/prezident-jmenoval-topolankovu-vladu.A060904_141028_ln_domov_man?utm_source=openai"
+              },
+              {
+                "end_index": 4779,
+                "start_index": 4735,
+                "title": "Obnovitelné zdroje - stručná historie podpory v ČR - EnviWeb",
+                "type": "url_citation",
+                "url": "https://www.enviweb.cz/86028"
+              },
+              {
+                "end_index": 4937,
+                "start_index": 4893,
+                "title": "Obnovitelné zdroje - stručná historie podpory v ČR - EnviWeb",
+                "type": "url_citation",
+                "url": "https://www.enviweb.cz/86028"
+              },
+              {
+                "end_index": 5141,
+                "start_index": 5097,
+                "title": "Obnovitelné zdroje - stručná historie podpory v ČR - EnviWeb",
+                "type": "url_citation",
+                "url": "https://www.enviweb.cz/86028"
+              },
+              {
+                "end_index": 5384,
+                "start_index": 5228,
+                "title": "ERÚ: Příští rok bude podpora zelené elektřiny stát téměř čtyřikrát více než letos | ČIŽP",
+                "type": "url_citation",
+                "url": "https://www.cizp.gov.cz/cizp/mezinarodni-aktivity-cizp/zahranicni-spoluprace/aktuality/eru-pristi-rok-bude-podpora-zelene?utm_source=openai"
+              },
+              {
+                "end_index": 6009,
+                "start_index": 5947,
+                "title": "\n180/2005 Sb. Zákon o podpoře využívání obnovitelných zdrojů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2005-180"
+              },
+              {
+                "end_index": 6425,
+                "start_index": 6289,
+                "title": "Kolik zaplatíte za elektřinu a proč zdraží? Jak se vyznat ve faktuře | Peníze.cz",
+                "type": "url_citation",
+                "url": "https://www.penize.cz/nakupy/448634-kolik-zaplatite-za-elektrinu-a-proc-zdrazi-jak-se-vyznat-ve-fakture?utm_source=openai"
+              },
+              {
+                "end_index": 7093,
+                "start_index": 7031,
+                "title": "\n180/2005 Sb. Zákon o podpoře využívání obnovitelných zdrojů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2005-180"
+              },
+              {
+                "end_index": 7508,
+                "start_index": 7428,
+                "title": "165/2012 Sb. Zákon o podporovaných zdrojích energie a o změně některých zákonů",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2012-165?utm_source=openai"
+              },
+              {
+                "end_index": 8343,
+                "start_index": 8128,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 8776,
+                "start_index": 8561,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 9635,
+                "start_index": 9420,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 10031,
+                "start_index": 9892,
+                "title": "Vláda omezuje podporu pro obnovitelné zdroje energie | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-omezi-podporupro-obnovitelne-zdroje-energie-109181?utm_source=openai"
+              },
+              {
+                "end_index": 10326,
+                "start_index": 10111,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 10590,
+                "start_index": 10466,
+                "title": "MPO: Na příspěvek podporovaným zdrojům loni šlo 45,7 mld. Kč - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/mpo-prispevek-podporovanym-zdrojum-loni-slo-457-mld-kc/?utm_source=openai"
+              },
+              {
+                "end_index": 11137,
+                "start_index": 10978,
+                "title": "Státní dotace pro podporované energie má vzrůst na 27 miliard, navrhuje ministerstvo průmyslu - Euro.cz",
+                "type": "url_citation",
+                "url": "https://www.euro.cz/clanky/statni-dotace-pro-podporovane-energie-ma-vzrust-na-27-miliard-navrhuje-ministerstvo-prumyslu-1461749/?utm_source=openai"
+              },
+              {
+                "end_index": 11437,
+                "start_index": 11313,
+                "title": "Dotace na podporované zdroje energie loni stagnovaly — Solární Novinky",
+                "type": "url_citation",
+                "url": "https://www.solarninovinky.cz/dotace-na-podporovane-zdroje-energie-loni-stagnovaly/?utm_source=openai"
+              },
+              {
+                "end_index": 12010,
+                "start_index": 11878,
+                "title": "Vláda schválila konečnou podobu úsporného tarifu | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai"
+              },
+              {
+                "end_index": 12278,
+                "start_index": 12134,
+                "title": "Příspěvek na elektřinu. Na co máte nárok letos a co už neplatí?",
+                "type": "url_citation",
+                "url": "https://www.cez.cz/cs/clanky/elektrina/prispevek-na-elektrinu.-na-co-mate-narok-v-roce-2025-a-co-uz-neplati-226285?utm_source=openai"
+              },
+              {
+                "end_index": 12560,
+                "start_index": 12437,
+                "title": "Největší skupině domácností elektřina nezdraží i přes růst regulované části – faei.cz",
+                "type": "url_citation",
+                "url": "https://faei.cz/nejvetsi-skupine-domacnosti-elektrina-nezdrazi-i-pres-rust-regulovane-casti/?utm_source=openai"
+              },
+              {
+                "end_index": 13310,
+                "start_index": 13137,
+                "title": "▶ Stát chce snížit podporu obnovitelných zdrojů. Plánuje přispět jen 17,5 miliardy — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/stat-chce-snizit-podporu-obnovitelnych-zdroju-planuje-prispet-jen-17-5-miliardy-4249?utm_source=openai"
+              },
+              {
+                "end_index": 13709,
+                "start_index": 13483,
+                "title": "Vláda schválila výši dotace firmám na podporu obnovitelných zdrojů energie a rozhodla o navýšení minimální mzdy o 1 600 korun | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-vysi-dotace-firmam-na-podporu-obnovitelnych-zdroju-energie-a-rozhodla-o-navyseni-minimalni-mzdy-o-1-600-korun-211010/tmplid-47/?utm_source=openai"
+              },
+              {
+                "end_index": 13979,
+                "start_index": 13824,
+                "title": "ENERGY-HUB - Výdaje na podporované zdroje energie letos vzrostou o 20 mld. Kč, rozhodla vláda",
+                "type": "url_citation",
+                "url": "https://energyhub.eu/cs/articles/1132120/vydaje-na-podporovane-zdroje-energie-letos-vzrostou-o-20-mld-kc-rozhodla-vlada?utm_source=openai"
+              },
+              {
+                "end_index": 14455,
+                "start_index": 14295,
+                "title": "Stát v příštím roce převezme financování podporovaných zdrojů energie (POZE) - TZB-info",
+                "type": "url_citation",
+                "url": "https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze?utm_source=openai"
+              },
+              {
+                "end_index": 14935,
+                "start_index": 14780,
+                "title": "ENERGY-HUB - Výdaje na podporované zdroje energie letos vzrostou o 20 mld. Kč, rozhodla vláda",
+                "type": "url_citation",
+                "url": "https://energyhub.eu/cs/articles/1132120/vydaje-na-podporovane-zdroje-energie-letos-vzrostou-o-20-mld-kc-rozhodla-vlada?utm_source=openai"
+              },
+              {
+                "end_index": 15398,
+                "start_index": 15183,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 16349,
+                "start_index": 16134,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 17128,
+                "start_index": 16913,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 17695,
+                "start_index": 17651,
+                "title": "Obnovitelné zdroje - stručná historie podpory v ČR - EnviWeb",
+                "type": "url_citation",
+                "url": "https://www.enviweb.cz/86028"
+              },
+              {
+                "end_index": 18118,
+                "start_index": 18056,
+                "title": "\n180/2005 Sb. Zákon o podpoře využívání obnovitelných zdrojů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2005-180"
+              },
+              {
+                "end_index": 18353,
+                "start_index": 18249,
+                "title": "Kolik nás stojí obnovitelné zdroje? | Peníze.cz",
+                "type": "url_citation",
+                "url": "https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai"
+              },
+              {
+                "end_index": 18701,
+                "start_index": 18565,
+                "title": "Kolik zaplatíte za elektřinu a proč zdraží? Jak se vyznat ve faktuře | Peníze.cz",
+                "type": "url_citation",
+                "url": "https://www.penize.cz/nakupy/448634-kolik-zaplatite-za-elektrinu-a-proc-zdrazi-jak-se-vyznat-ve-fakture?utm_source=openai"
+              },
+              {
+                "end_index": 19306,
+                "start_index": 19091,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 19680,
+                "start_index": 19532,
+                "title": "Stát by měl příští rok platit jen čtvrtinu nákladů na obnovitelné zdroje | Právní prostor",
+                "type": "url_citation",
+                "url": "https://www.pravniprostor.cz/aktuality/stat-mel-pristi-rok-platit-jen-ctvrtinu-nakladu-na-obnovitelne-zdroje?utm_source=openai"
+              },
+              {
+                "end_index": 19977,
+                "start_index": 19845,
+                "title": "Vláda schválila konečnou podobu úsporného tarifu | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai"
+              },
+              {
+                "end_index": 20453,
+                "start_index": 20238,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 21379,
+                "start_index": 21275,
+                "title": "Kolik nás stojí obnovitelné zdroje? | Peníze.cz",
+                "type": "url_citation",
+                "url": "https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai"
+              },
+              {
+                "end_index": 21684,
+                "start_index": 21469,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 21913,
+                "start_index": 21809,
+                "title": "Kolik nás stojí obnovitelné zdroje? | Peníze.cz",
+                "type": "url_citation",
+                "url": "https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai"
+              },
+              {
+                "end_index": 22189,
+                "start_index": 21974,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 22405,
+                "start_index": 22268,
+                "title": "Obnovitelné zdroje stojí českou rodinu přes 1000 korun ročně - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/ekonomika/obnovitelne-zdroje-stoji-ceskou-rodinu-pres-1000-korun-rocne-20120613.html?utm_source=openai"
+              },
+              {
+                "end_index": 22674,
+                "start_index": 22459,
+                "title": "Podpora výroby elektřiny z obnovitelných zdrojů energie | MPO",
+                "type": "url_citation",
+                "url": "https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/"
+              },
+              {
+                "end_index": 22953,
+                "start_index": 22814,
+                "title": "Vláda omezuje podporu pro obnovitelné zdroje energie | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-omezi-podporupro-obnovitelne-zdroje-energie-109181?utm_source=openai"
+              },
+              {
+                "end_index": 23246,
+                "start_index": 23087,
+                "title": "Státní dotace pro podporované energie má vzrůst na 27 miliard, navrhuje ministerstvo průmyslu - Euro.cz",
+                "type": "url_citation",
+                "url": "https://www.euro.cz/clanky/statni-dotace-pro-podporovane-energie-ma-vzrust-na-27-miliard-navrhuje-ministerstvo-prumyslu-1461749/?utm_source=openai"
+              },
+              {
+                "end_index": 23525,
+                "start_index": 23393,
+                "title": "Vláda schválila konečnou podobu úsporného tarifu | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai"
+              },
+              {
+                "end_index": 23770,
+                "start_index": 23638,
+                "title": "Vláda schválila konečnou podobu úsporného tarifu | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai"
+              },
+              {
+                "end_index": 24203,
+                "start_index": 23977,
+                "title": "Vláda schválila výši dotace firmám na podporu obnovitelných zdrojů energie a rozhodla o navýšení minimální mzdy o 1 600 korun | Vláda ČR",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-vysi-dotace-firmam-na-podporu-obnovitelnych-zdroju-energie-a-rozhodla-o-navyseni-minimalni-mzdy-o-1-600-korun-211010/tmplid-47/?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Rozklad a možné interpretace tvrzení\n\nZkrácené tvrzení Karla Havlíčka (k POZE):\n\n1. **„Je to … zelená daň, která vznikla v letech 2006–2010.“**  \n   – Tj. poplatek za podporované zdroje energie (POZE) má svůj původ právě v období 2006–2010 (v éře vlád, jichž se účastnila ODS).\n\n2. **„Po dobu 15 let to bylo s výjimkou jednoho roku v rukou státu, který platil částečně, částečně spotřebitelé a částečně firmy.“**  \n   – Tj. zhruba 15 let byl systém financování podpory takový, že náklady se stabilně dělily mezi státní rozpočet a koncové odběratele (domácnosti i firmy), jen v jednom roce z tohoto období se tento vzorec lišil.\n\n### Možné interpretace\n\n- U první části lze interpretovat:\n  - (a) že **samotný poplatek/příspěvek na POZE** vznikl v letech 2006–2010; nebo  \n  - (b) že **„zelená daň“= celý dnešní problém s dlouhodobě garantovanou podporou (zejména solární boom)** byl způsoben rozhodnutími z let 2006–2010.\n\n- U druhé části:\n  - (a) „15 let“ může odpovídat období **2011–2025**, kdy existuje prokazatelný systém „vícezdrojového financování“ (část nákladů rozpočet, část koncoví odběratelé) s jedním rokem (2023), kdy poplatek na fakturách fakticky zmizel, protože vše platil stát.  \n  - (b) Alternativně by šlo tvrzení vztáhnout i na delší historii od 2006, pak ale neplatí, že stát celou dobu „platil částečně“.\n\nNíže jsou pro každou část tvrzení sepsány relevantní důkazy.\n\n---\n\n## 2. Kdy „vznikl“ poplatek / příspěvek na podporované zdroje (POZE)?\n\n### 2.1 Legislativní vznik systému podpory (zákon 180/2005 Sb.)\n\n- Základ systému podpory obnovitelných zdrojů (OZE) byl vytvořen **zákonem č. 180/2005 Sb.**, o podpoře výroby elektřiny z obnovitelných zdrojů (účinnost od 1. 8. 2005).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n  - Zákon stanovuje povinný výkup elektřiny z OZE a tzv. **zelené bonusy**.  \n  - § 6a („Financování podpory“) výslovně říká, že **vícenáklady** spojené s podporou OZE:\n    - jsou hrazeny **složkou ceny za přenos nebo distribuci elektřiny**,  \n    - a **dotací ze státního rozpočtu**.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n\n> Z toho plyne, že **povinný příspěvek v ceně elektřiny na OZE existuje právně již od roku 2005**, nikoli až od 2006 či dokonce až 2009/2010.\n\n### 2.2 Začátek faktického vybírání příspěvku od odběratelů\n\n- Energetický regulační úřad (ERÚ) podle zákona každý rok stanovuje regulované ceny včetně **příspěvku na podporu OZE**.  \n  - Peníze.cz uvádí přehled „příspěvku na OZE“ v Kč/MWh už od roku **2005**: 39,45 Kč/MWh (2005), 28,26 (2006), 34,13 (2007), 40,75 (2008), 52,18 (2009), 166,34 (2010) atd.([penize.cz](https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai))  \n  - Deník v roce 2012 píše, že domácnost platila v ceně elektřiny roku 2012 poplatek 419 Kč/MWh na podporu OZE, přičemž „v roce 2010 byl 166 korun, **předtím se počítal jen na desítky korun**“.([denik.cz](https://www.denik.cz/ekonomika/obnovitelne-zdroje-stoji-ceskou-rodinu-pres-1000-korun-rocne-20120613.html?utm_source=openai))  \n\n- Pozdější souhrn iDNES k historii příspěvku konstatuje, že **„povinný příspěvek … se v ČR platí od roku 2006“**, a zároveň uvádí při „době zavedení“ hodnotu cca 39,45 Kč/MWh (což odpovídá roku 2005).([idnes.cz](https://www.idnes.cz/ekonomika/domaci/energeticky-regulacni-urad-centropol-egu-poze.A251104_150511_ekonomika_hyk?utm_source=openai))  \n\n> V odborných i mediálních zdrojích se tedy:\n> - objevují **konkrétní hodnoty příspěvku už pro rok 2005**,  \n> - a běžně se uvádí, že se **platí od roku 2006** (první celý rok po účinnosti zákona 180/2005).\n\n### 2.3 Politický kontext (kdo vládl při vzniku systému)\n\n- Zákon 180/2005 byl přijat **31. 3. 2005**, účinnost od 1. 8. 2005.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n- V době přijetí a uvedení zákona v účinnost byla premiérem **Jiří Paroubek (ČSSD; vláda ČSSD–KDU‑ČSL–US-DEU)**, premiérem byl od 25. 4. 2005 do 16. 8. 2006.([en.wikipedia.org](https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Paroubek?utm_source=openai))  \n- První vláda ODS (Mirek Topolánek) vzniká až **4. 9. 2006** a funkční vláda ODS s důvěrou Sněmovny je až druhá Topolánkova vláda od 9. 1. 2007.([lidovky.cz](https://www.lidovky.cz/domov/prezident-jmenoval-topolankovu-vladu.A060904_141028_ln_domov_man?utm_source=openai))  \n\n> Legislativní **vznik systému povinného příspěvku** v ceně elektřiny i samotného příspěvku na OZE tedy **předchází nástup vlád s účastí ODS** – probíhá za vlády Jiřího Paroubka.\n\n### 2.4 Solární boom 2009–2010 (v čem má Havlíček částečně pravdu)\n\n- Analýza Czech RE Agency (Enviweb) shrnuje, že:\n  - 2005 – přijetí zákona 180/2005 v podobě s omezením meziročního poklesu výkupních cen na max. 5 %.([enviweb.cz](https://www.enviweb.cz/86028))  \n  - 2006 – ERÚ stanovuje pro fotovoltaické elektrárny vysokou výkupní cenu (13,20 Kč/kWh) a dobu výkupu 15 let.([enviweb.cz](https://www.enviweb.cz/86028))  \n  - 2008–2010 – prudký pokles cen panelů, česká legislativa a ERÚ nereagují včas, instalovaný výkon solárních elektráren v letech 2009–2010 explozivně roste.([enviweb.cz](https://www.enviweb.cz/86028))  \n\n- ERÚ uváděl, že příspěvek na OZE vyskočil z 52 Kč/MWh (2009) na 166 Kč/MWh (2010).([cizp.gov.cz](https://www.cizp.gov.cz/cizp/mezinarodni-aktivity-cizp/zahranicni-spoluprace/aktuality/eru-pristi-rok-bude-podpora-zelene?utm_source=openai))  \n\n> Je tedy pravda, že **hlavní nárůst nákladů a problém „solárního boomu“ se odehrál v letech 2009–2010**, kdy už byly u moci vlády s účastí ODS.  \n> Neplatí však, že by **příspěvek / „zelená daň“ jako taková vznikla až tehdy** – vznikl (minimálně) v letech 2005–2006.\n\n### 2.5 „Je to zelená daň“ – povaha poplatku\n\n- Zákony 180/2005 ani 165/2012 **neoznačují** tento příspěvek jako daň, ale jako **„složku ceny služby distribuční/přenosové soustavy na podporu elektřiny“** – tj. jde formálně o **regulovanou cenu/platbu**, nikoliv daň ve smyslu daňového řádu.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n- V běžném mediálním a odborném diskursu se ovšem často mluví o „zeleném poplatku“ nebo přímo o **„ekologické dani“**:\n  - Peníze.cz vysvětlují položku „Podpora elektřiny z podporovaných zdrojů energie“ na faktuře tak, že jde o **poplatek, který můžeme nazvat ekologická daň**.([penize.cz](https://www.penize.cz/nakupy/448634-kolik-zaplatite-za-elektrinu-a-proc-zdrazi-jak-se-vyznat-ve-fakture?utm_source=openai))  \n\n> Z právního hlediska tedy nejde o „daň“, ale o **regulovaný poplatek v ceně elektřiny**; z hlediska ekonomického dopadu na spotřebitele jej však řada zdrojů i odborníků označuje (obrazně) jako **zelenou/ekologickou daň**.\n\n---\n\n## 3. Kdo a jak dlouho platil podporu (stát × spotřebitelé × firmy)?\n\n### 3.1 Zákonný princip financování\n\n- **Zákon 180/2005 (§ 6a)** – už od roku 2005 stanoví, že vícenáklady spojené s podporou OZE jsou hrazeny:\n  - složkou ceny za přenos/distribuci elektřiny (tj. platby od koncových odběratelů),  \n  - a dotací ze státního rozpočtu (pokud vláda takovou dotaci schválí).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n\n- **Zákon 165/2012 Sb. (o podporovaných zdrojích energie)**, účinný od 1. 1. 2013, v § 28 opakuje princip **vícezdrojového financování**:\n  - náklady jsou hrazeny z **plateb složky ceny služby distribuční/přenosové soustavy na podporu elektřiny** a  \n  - **dotací ze státního rozpočtu**, doplněných výnosy z emisních povolenek atd.([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2012-165?utm_source=openai))  \n\n> Zákon tedy **po celou dobu** předpokládá kombinaci plateb od odběratelů a případné státní dotace. Rozhodující je ale, zda skutečně byly peníze ze státního rozpočtu v konkrétních letech uvolněny.\n\n### 3.2 Skutečné financování 2006–2010: pouze přes účty odběratelů\n\nKlíčová je informace, kterou v roce 2019 zveřejnilo Ministerstvo průmyslu a obchodu (MPO) jako odpověď podle zákona 106/1999 Sb.:\n\n- MPO uvádí, že v letech **2006–2010** na podporu OZE **nešly žádné finanční prostředky ze státního rozpočtu**; stát se podílel „nepřímo“ tím, že přijal právní regulaci, jež přenesla finanční zátěž na konečné zákazníky.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n- V tabulce MPO pro roky 2006–2012 jsou uvedeny:\n  - celkové náklady na provozní podporu (PZE),  \n  - část hrazená složkou ceny (od koncových odběratelů),  \n  - a dotace ze státního rozpočtu.\n\n  Zkráceně (mld. Kč):([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n  | Rok | Celkové náklady | Hrazeno v ceně elektřiny | Dotace SR |\n  |-----|-----------------|--------------------------|-----------|\n  | 2006–2010 | 2,7 → 13,6 | 2,7 → 13,6 | **x (0)** |\n  | 2011 | 32,0 | 20,3 | **11,7** |\n  | 2012 | 34,5 | 22,8 | **11,7** |\n\n> Z toho plyne, že **v letech 2006–2010 financovali podporu zcela koncoví odběratelé (domácnosti a firmy) v ceně elektřiny**, stát sice systém nastavil, ale **finančně se na podpoře nepodílel**.\n\n### 3.3 2011–2018: zavedení stabilních státních dotací\n\n- Od **roku 2011** začíná stát poskytovat systematické dotace:\n\n  - MPO potvrzuje dotaci **11,7 mld. Kč** v letech 2011 a 2012.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n  - Vládní materiály a média pro další roky ukazují trvalé pokračování dotací:\n    - 2013: vláda uvádí dotaci 11,7 + 4 mld. Kč (celkem 15,7 mld.) a zároveň zavedení **stropu 495 Kč/MWh** pro příspěvek, který platí spotřebitelé – vše nad strop platí stát.([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-omezi-podporupro-obnovitelne-zdroje-energie-109181?utm_source=openai))  \n    - 2014–2018: MPO uvádí dotace 15,7; 15,7; 21,965; 26,185; 26,185 mld. Kč.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n    - Ekonomický deník shrnuje, že v roce 2017 činila podpora POZE 45,7 mld. Kč, z toho stát zaplatil cca 26,2 mld., zbytek spotřebitelé.([ekonomickydenik.cz](https://ekonomickydenik.cz/mpo-prispevek-podporovanym-zdrojum-loni-slo-457-mld-kc/?utm_source=openai))  \n\n> V letech **2011–2018** tedy jednoznačně platí, že se náklady **systematicky dělí mezi státní rozpočet a odběratele** (domácnosti i firmy).\n\n### 3.4 2019–2021: pokračování modelu sdíleného financování\n\n- Euro.cz 2019: pro rok 2019 navrhuje MPO zvýšit státní dotaci na **27 mld. Kč**, přičemž celková podpora přesahuje 40 mld. Kč – rozdíl hradí převážně spotřebitelé v ceně elektřiny.([euro.cz](https://www.euro.cz/clanky/statni-dotace-pro-podporovane-energie-ma-vzrust-na-27-miliard-navrhuje-ministerstvo-prumyslu-1461749/?utm_source=openai))  \n- Solární novinky 2021 shrnují, že:\n  - v roce 2020 činila celková podpora POZE **45,4 mld. Kč**,  \n  - **stát přispěl 27 mld. Kč**, zbytek zaplatili zákazníci ve fakturách.([solarninovinky.cz](https://www.solarninovinky.cz/dotace-na-podporovane-zdroje-energie-loni-stagnovaly/?utm_source=openai))  \n\n> I v těchto letech tedy dále platí vzorec „**část rozpočet, část spotřebitelé/firmy**“.\n\n### 3.5 2022–2023: energetická krize, dočasné plné převzetí nákladů státem\n\n- V roce 2022 vláda Petra Fialy zavedla tzv. **úsporný tarif**; jeho součástí bylo **odpuštění příspěvku na POZE**:\n  - Vládní materiál shrnuje: od **října 2022 do konce roku 2023** byly domácnostem odpuštěny poplatky za POZE (cca 599 Kč/MWh s DPH), náklady přebral stát.([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai))  \n  - Podobně shrnuje ČEZ: „Od října 2022 do konce roku 2023 domácnosti neplatily příspěvek na POZE, ten plně hradil stát.“([cez.cz](https://www.cez.cz/cs/clanky/elektrina/prispevek-na-elektrinu.-na-co-mate-narok-v-roce-2025-a-co-uz-neplati-226285?utm_source=openai))  \n\n- Publicistické shrnutí (např. FAEI.cz) uvádí, že **od posledního čtvrtletí 2022 byla ze státního rozpočtu financována celá podpora obnovitelných zdrojů**.([faei.cz](https://faei.cz/nejvetsi-skupine-domacnosti-elektrina-nezdrazi-i-pres-rust-regulovane-casti/?utm_source=openai))  \n\n> Rok **2023** je tedy specifický tím, že **veškeré náklady** na podporované zdroje (včetně toho, co jinak bývá hrazeno poplatkem v tarifu) **platil plně stát**; příspěvek na POZE byl na fakturách odběratelů fakticky nulový.\n\n### 3.6 2024–2025: návrat k vícezdrojovému modelu\n\n- Po skončení krizového režimu se vláda vrátila k „vícezdrojovému“ financování:\n  - ČT24 v červenci 2023 shrnuje, že **před říjnem 2022 fungoval systém zhruba půl na půl – část hradil stát, část domácnosti a podniky** a že od roku 2024 se má k tomuto modelu vrátit (stát má přispět 17,5 mld. Kč).([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/stat-chce-snizit-podporu-obnovitelnych-zdroju-planuje-prispet-jen-17-5-miliardy-4249?utm_source=openai))  \n  - Vláda v prosinci 2023 schválila dotaci na POZE pro rok 2024 ve výši **12,85 mld. Kč**, zároveň konstatuje, že pro rok 2023 byla dotace stanovena na **22,78 mld. Kč**.([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-vysi-dotace-firmam-na-podporu-obnovitelnych-zdroju-energie-a-rozhodla-o-navyseni-minimalni-mzdy-o-1-600-korun-211010/tmplid-47/?utm_source=openai))  \n  - V březnu 2025 vláda rozhodla o navýšení výdajů na POZE o 20 mld. Kč na celkem **28,57 mld. Kč v roce 2025**.([energyhub.eu](https://energyhub.eu/cs/articles/1132120/vydaje-na-podporovane-zdroje-energie-letos-vzrostou-o-20-mld-kc-rozhodla-vlada?utm_source=openai))  \n\n- Souhrnný článek TZB‑info (2025) k vývoji příspěvků na POZE uvádí, že:\n  - příspěvky na POZE byly zavedeny v roce **2006**,  \n  - **část dotací poskytoval stát, další část dopláceli ve fakturách spotřebitelé**,  \n  - **výjimkou byl rok 2023, kdy vláda kvůli energetické krizi přesunula všechny platby na stát**.([tzb-info.cz](https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze?utm_source=openai))  \n\n> To potvrzuje, že v **letech 2011–2025** s výjimkou roku **2023** vždy platil určitý podíl **stát** a zbytek **odběratelé (domácnosti i firmy)**.\n\n### 3.7 Rozpor v popisu starších let (2006–2010)\n\n- Některé novější souhrnné články (např. Energy‑hub / Forbes 2025) píší, že „**dotace na POZE stát vyplácí od roku 2006**“.([energyhub.eu](https://energyhub.eu/cs/articles/1132120/vydaje-na-podporovane-zdroje-energie-letos-vzrostou-o-20-mld-kc-rozhodla-vlada?utm_source=openai))  \n- To je však v přímém rozporu s oficiální informací MPO dle zákona 106/1999 Sb., podle níž **v letech 2006–2010 žádné prostředky ze státního rozpočtu na podporu OZE neplynuly** a veškerá podpora byla hrazena přes složku ceny placenou odběrateli.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n> Pro hodnocení tvrzení je třeba dát **přednost primárnímu zdroji (MPO)** před novinovými zkratkami – z nich část zjevně „zjednodušuje“ historii a zachází s pojmem „dotace“ volněji.\n\n---\n\n## 4. Jak to sedí na Havlíčkovu formulaci „po dobu 15 let…“?\n\n### 4.1 Časové vymezení „15 let“\n\n- Pokud vezmeme období **2011–2025** (tj. roky, pro které máme doložené každoroční dotace ze státního rozpočtu na POZE), jde o **15 let**:  \n  2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025.\n\n- V tomto období:\n  - **každý rok** existuje **kombinace státní dotace + plateb spotřebitelů a firem**,  \n  - **s výjimkou roku 2023**, kdy veškerou podporu převzal stát a příspěvek na POZE na fakturách byl nulový.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n> Z hlediska financování po roce 2010 se tedy dá tvrdit, že **„cca 15 let“ (2011–2025) byl systém v rukou státu, který určoval výši dotace a tím i to, kolik doplatí odběratelé; v naprosté většině let stát platil jen část, výjimečně (2023) vše**.\n\n### 4.2 Problém starších let (2006–2010) ve vztahu k tvrzení\n\n- V letech **2006–2010**:\n  - systém podpory už existoval a příspěvek na OZE se vybíral,  \n  - **ale** z oficiálních dat MPO plyne, že **žádná dotace ze státního rozpočtu tehdy na podporu OZE nešla – 100 % nákladů nesli odběratelé ve svých platbách**.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n> Pokud by tedy Havlíčkův výrok mířil na **celé období od zavedení příspěvku (cca 2005/2006)**, pak **není pravda**, že „po dobu 15 let“ stát vždy „platil částečně“.\n\n---\n\n## 5. Shrnutí důkazů k jednotlivým částem tvrzení\n\n### 5.1 „Je to … zelená daň, která vznikla v letech 2006–2010“\n\n**Podporující / částečně podporující fakta:**\n\n- Hlavní **nárůst nákladů** a problém „solárního boomu“ opravdu nastal v **letech 2009–2010** (rychlý růst instalovaného výkonu fotovoltaiky, skokový růst příspěvku z 52 na 166 Kč/MWh).([enviweb.cz](https://www.enviweb.cz/86028))  \n- V těchto letech už u moci byly vlády s účastí **ODS** (Topolánek, později Fischer), které **nereagovaly včas** na pokles cen technologie a udržely vysoké výkupní ceny.\n\n**Rozpor / korigující fakta:**\n\n- Systém podpory (a tím i zákonný základ povinného příspěvku v ceně elektřiny) vznikl **zákonem 180/2005 Sb. v roce 2005** za vlády Jiřího Paroubka (ČSSD).([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2005-180))  \n- Příspěvek na OZE/POZE se podle dostupných tabulek a článků **vybírá minimálně od roku 2005–2006**, nikoli až od let 2009–2010.([penize.cz](https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai))  \n\n**K „zelené dani“ jako pojmu:**\n\n- Právně jde o **regulovaný poplatek v ceně elektřiny**, nikoli daň, nicméně v odborných i mediálních textech se běžně označuje jako **„ekologická“ či „zelená“ daň/přirážka**.([penize.cz](https://www.penize.cz/nakupy/448634-kolik-zaplatite-za-elektrinu-a-proc-zdrazi-jak-se-vyznat-ve-fakture?utm_source=openai))  \n\n### 5.2 „Po dobu 15 let to bylo s výjimkou jednoho roku v rukou státu, který platil částečně, částečně spotřebitelé a částečně firmy“\n\n**Silně podporující fakta (pro období 2011–2025):**\n\n- Od **roku 2011** až do současnosti (2025) existuje každoročně **významná státní dotace** na podporované zdroje energie, která doplňuje prostředky vybírané v ceně elektřiny od spotřebitelů a firem.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n- Média i úřady tento model vnímají jako „**vícezdrojové zajištění financování**“ – **část z rozpočtu, část z plateb domácností a podniků**; ČT24 pro čas před říjnem 2022 výslovně uvádí, že to fungovalo „zhruba půl na půl“.([pravniprostor.cz](https://www.pravniprostor.cz/aktuality/stat-mel-pristi-rok-platit-jen-ctvrtinu-nakladu-na-obnovitelne-zdroje?utm_source=openai))  \n- Rok **2023** je doloženou **výjimkou**, kdy příspěvek na POZE na fakturách odběratelů nefiguroval a **celou podporu hradil stát** (od října 2022 do konce 2023).([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai))  \n\n**Rozpor / omezení tvrzení:**\n\n- V letech **2006–2010** se sice příspěvek na OZE už vybíral, ale podle oficiální odpovědi MPO **stát v těchto letech neposkytoval žádné rozpočtové prostředky na podporu OZE** – vše hradili koncoví odběratelé v ceně elektřiny.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/))  \n\n> Proto tvrzení **sedí dobře, pokud se implicitně vztahuje na období 2011–2025**, kdy opravdu platí, že ve všech letech existuje kombinace financování „stát + spotřebitelé/firmy“ s výjimkou roku 2023, kdy platil vše stát.  \n> Pokud by však posluchač výrok četl tak, že **už od vzniku příspěvku (2006)** platil stát vždy část, pak je v rozporu s oficiálními daty MPO, která ukazují, že **v letech 2006–2010 stát finančně nepřispíval vůbec**.\n\n---\n\n## 6. Stručný přehled vývoje financování (pro potřeby fact‑checkingu)\n\n| Období | Existence poplatku na OZE/POZE | Podíl státního rozpočtu podle zdrojů | Poznámka |\n|--------|--------------------------------|--------------------------------------|---------|\n| 2005–2006 | Zákon 180/2005, příspěvek v ceně elektřiny (tabulky ukazují 39,45 Kč/MWh pro 2005, 28,26 pro 2006).([penize.cz](https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai)) | MPO: do roku 2010 **žádné přímé rozpočtové prostředky** na OZE; vše placeno odběrateli.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/)) | Právní vznik systému a prvních příspěvků; vlády ČSSD. |\n| 2007–2010 | Příspěvek dále roste (až na 166 Kč/MWh v roce 2010).([penize.cz](https://www.penize.cz/bydleni/320411-kolik-nas-stoji-obnovitelne-zdroje?utm_source=openai)) | Stále **0 Kč** z rozpočtu; 100 % nákladů v ceně elektřiny.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/)) | Vznik „solárního boomu“ 2009–2010. |\n| 2011–2012 | Příspěvek 370–419 Kč/MWh.([denik.cz](https://www.denik.cz/ekonomika/obnovitelne-zdroje-stoji-ceskou-rodinu-pres-1000-korun-rocne-20120613.html?utm_source=openai)) | Stát platí **11,7 mld. Kč/rok**, zbytek odběratelé.([mpo.gov.cz](https://mpo.gov.cz/cz/rozcestnik/ministerstvo/aplikace-zakona-c-106-1999-sb/informace-zverejnovane-podle-paragrafu-5-odstavec-3-zakona/podpora-vyroby-elektriny-z-obnovitelnych-zdroju-energie--247122/)) | První významné státní dotace. |\n| 2013–2018 | Příspěvek zastropován na 495 Kč/MWh (bez DPH); zbytek hradí stát (11,7–26,2 mld. Kč ročně).([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-omezi-podporupro-obnovitelne-zdroje-energie-109181?utm_source=openai)) | Stabilní vícezdrojové financování. |\n| 2019–2021 | Celková podpora cca 45–48 mld. Kč; stát platí ~26–27 mld. Kč, zbytek odběratelé.([euro.cz](https://www.euro.cz/clanky/statni-dotace-pro-podporovane-energie-ma-vzrust-na-27-miliard-navrhuje-ministerstvo-prumyslu-1461749/?utm_source=openai)) | Model „část stát, část domácnosti a firmy“ pokračuje. |\n| 2022 | Jan–září: stejný model; od října 2022 **odpuštění poplatku POZE** – hradí stát.([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai)) | Přechod do krizového režimu. |\n| 2023 | Celý rok: příspěvek na fakturách nulový, **celou podporu platí stát**.([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/vlada-schvalila-konecnou-podobu-usporneho-tarifu?utm_source=openai)) | Rok, který odpovídá „výjimce jednoho roku“ v Havlíčkově výroku (ale stát zde platí vše, nikoliv nic). |\n| 2024–2025 | Návrat k modelu **část rozpočet (12,85 mld. 2024; 28,57 mld. 2025), část odběratelé**.([vlada.gov.cz](https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-schvalila-vysi-dotace-firmam-na-podporu-obnovitelnych-zdroju-energie-a-rozhodla-o-navyseni-minimalni-mzdy-o-1-600-korun-211010/tmplid-47/?utm_source=openai)) | Opět vícezdrojové financování, příspěvek POZE na fakturách se vrací. |\n\n---\n\nTento přehled shromažďuje **všechny hlavní oficiální (MPO, vláda, zákony) a relevantní mediální zdroje**, včetně těch, které si navzájem odporují (např. tvrzení o dotacích „od roku 2006“ vs. oficiální tabulky MPO). Fakt‑checker tak může přesně posoudit, do jaké míry výrok Karla Havlíčka odpovídá realitě, a kde je zkreslený či nepřesný (časové vymezení vzniku poplatku a role státu v letech 2006–2010).",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 105873,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 26734,
+      "output_tokens_details": {
+        "reasoning_tokens": 19356
+      },
+      "total_tokens": 132607
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772539126,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

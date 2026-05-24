@@ -1,0 +1,422 @@
+{
+  "claim_id": "24610",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260220_173536",
+  "source_md": "experiments/gpt5.1_h_20260220_173536/brief_fact_check_id24610.md",
+  "fact_check": "# Fact Check for Statement ID 24610\n\n## Statement\nUž jsme počátkem ledna vypravili do vlády návrh zákona o takzvaném pobytu cizinců.\n\n---\n## AI Fact Check\n### 1. Formulace a možné interpretace tvrzení\n\nTvrzení Lubomíra Metnara (18. 2. 2026):\n\n> „Už jsme počátkem ledna vypravili do vlády návrh zákona o takzvaném pobytu cizinců.“\n\nNejpravděpodobnější výklad:\n\n- „návrh zákona o takzvaném pobytu cizinců“ = návrh nového **zákona o vstupu a pobytu cizinců (cizinecký zákon)**, který kompletně rekodifikuje agendu pobytu cizinců.\n- „vypravili do vlády“ = **formálně předložili návrh vládě** v rámci systému vládní legislativy (VeKLEP / eKLEP).\n- „počátkem ledna“ = přibližně první třetina měsíce leden 2026 (typicky dny kolem 1.–15. 1.).\n\n### 2. Rozpad tvrzení na dílčí body\n\n1. Existuje návrh zákona s názvem (či obsahem) „o vstupu a pobytu cizinců (cizinecký zákon)“, tedy „zákon o pobytu cizinců“.\n2. Tento návrh byl **předložen vládě** v rámci vládního legislativního procesu.\n3. Předkladatelem je **Ministerstvo vnitra** (tedy Metnarův resort).\n4. Formální předložení vládě proběhlo **na začátku ledna 2026**.\n\n### 3. Důkazy\n\n#### 3.1 Existence návrhu zákona o vstupu a pobytu cizinců\n\n- Portál **Zákony pro lidi – Monitor změn** eviduje materiál s názvem  \n  „**Návrh zákona o vstupu a pobytu cizinců (cizinecký zákon)**“. V základní hlavičce je uvedeno:  \n  - „Předložení návrhu 12.01.2026“  \n  - „Stav návrhu: **Ve vládě předložen návrh předpisu**“  \n  - „Předkladatel: **Ministerstvo vnitra**“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n- Stejný záznam uvádí v části „Cíle návrhu“, že  \n  „navrhuje se nový zákon, který **nahrazuje dosavadní právní úpravu pobytu cizinců**… zákon představuje **kompletní rekodifikaci oblasti pobytu cizinců**“. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\nTo velmi dobře odpovídá tomu, co Metnar hovorově shrnuje jako „zákon o takzvaném pobytu cizinců“.\n\n#### 3.2 Předložení návrhu vládě („vypravení do vlády“)\n\n- V části „Historie procesu“ téhož záznamu na Zákony pro lidi je u sekce „Vláda“ uvedeno:  \n\n  „**12.01.2026 – Předložen návrh, bez připomínkového řízení**“ (s odkazy na text návrhu, odůvodnění atd.). ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n  Tento záznam je převzatý z vládního systému VeKLEP (odkaz „Vlády ČR (VeKLEP)“). Z hlediska legislativního procesu to znamená, že **předkladatel (ministerstvo)** návrh **oficiálně předložil vládě**.\n\n- Program 332. a 333. zasedání **Legislativní rady vlády (LRV)** uvádí mezi body:  \n\n  „**Návrh zákona o vstupu a pobytu cizinců (cizinecký zákon) – (předkládá Mgr. Lubomír Metnar, ministr vnitra) – čj. 23/26**“. ([vlada.gov.cz](https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-332--zasedani-lrv-12-2-2026-a-jeho-vysledky-225070/?utm_source=openai))  \n\n  Program je zveřejněn Úřadem vlády a nese datum publikace 29. 1. 2026, tedy potvrzuje, že **v té době už byl tento návrh ve vládním projednávání**, což je konzistentní se záznamem o předložení vládě 12. 1. 2026.\n\nTyto oficiální zdroje (data z VeKLEP replikovaná na Zákony pro lidi a program LRV na vlada.gov.cz) společně potvrzují, že návrh **byl skutečně předložen vládě**.\n\n#### 3.3 Předkladatel – Ministerstvo vnitra / Metnar\n\n- Záznam na Zákony pro lidi výslovně uvádí: „**Předkladatel: Ministerstvo vnitra**“. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n- Programy zasedání Legislativní rady vlády (332. a 333. zasedání) uvádějí u stejného návrhu, že ho  \n  „**předkládá Mgr. Lubomír Metnar, ministr vnitra**“. ([vlada.gov.cz](https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-332--zasedani-lrv-12-2-2026-a-jeho-vysledky-225070/?utm_source=openai))  \n\nTo potvrzuje, že jde o **vládní návrh zpracovaný Ministerstvem vnitra a předkládaný právě ministrem Metnarem**, jak naznačuje osobní zájmeno „už jsme… vypravili“.\n\n#### 3.4 Načasování – „počátkem ledna“\n\nKlíčové je datum z vládního legislativního systému (přes portál Zákony pro lidi):\n\n- „**Předložení návrhu 12.01.2026**“ + v historii procesu „12.01.2026 – Předložen návrh…“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n12. leden 2026:\n\n- spadá zřetelně do **první poloviny měsíce**,\n- jazykově je zcela běžné označovat takové datum jako **„počátek ledna“** (na rozdíl od „konce ledna“).\n\nDalší indicie, že návrh byl ve vládním procesu už v lednu:\n\n- Program 332. a 333. zasedání Legislativní rady vlády z 12.–13. 2. 2026 byl zveřejněn 29. 1. 2026 a obsahuje právě tento návrh zákona o vstupu a pobytu cizinců. ([vlada.gov.cz](https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-333--zasedani-lrv-13-2-2026-a-jeho-vysledky-225071/?utm_source=openai))  \n\nKdyby návrh nebyl vládě předložen „počátkem ledna“, nemohl by být koncem ledna zařazen na program únorových zasedání LRV.\n\n#### 3.5 Kontext: dřívější verze téhož zákona\n\nPro úplnost (kontext, nikoli přímé ověření tvrzení):\n\n- Zákony pro lidi evidují **starší návrh téhož „cizineckého zákona“** (jiné číslo monitoru), který byl předložen už 26. 4. 2023, prošel připomínkovým řízením, 28. 8. 2024 byl vládou schválen a ten den i předložen Poslanecké sněmovně. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/7681811.htm?utm_source=openai))  \n\n- Stručná zpráva Komise RIA z února 2024 potvrzuje, že **Návrh zákona o vstupu a pobytu cizinců (cizinecký zákon)** byl projednáván již tehdy, předkladatel Ministerstvo vnitra. ([ria.gov.cz](https://ria.gov.cz/komise/jednani-komise-ria-v-roce-2024/jednani-c-130-dne-23-unora-2024/?utm_source=openai))  \n\nTyto informace ukazují, že rekodifikace „cizineckého zákona“ běží delší dobu (už za předchozí vlády). Samy o sobě však **nevyvracejí**, že současné vedení Ministerstva vnitra předložilo v lednu 2026 „novou“ či zrevidovanou verzi návrhu znovu vládě; spíše naopak vysvětlují, proč mohlo předložení proběhnout rychle po nástupu nové vlády (většina textu byla připravena dříve).\n\n### 4. Hodnocení dílčích tvrzení\n\n1. **Existence návrhu zákona o vstupu a pobytu cizinců (cizinecký zákon)**  \n   – Jednoznačně potvrzeno oficiálními záznamy (VeKLEP → Zákony pro lidi, program LRV).  \n   **→ Pravdivé.** ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n2. **Předložení návrhu vládě**  \n   – Historie procesu v monitoru: „12.01.2026 – Předložen návrh“ ve fázi „Vláda“.  \n   – Zařazení návrhu na program Legislativní rady vlády.  \n   **→ Pravdivé.** ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n3. **Předkladatel Ministerstvo vnitra / Metnar**  \n   – Hlavička návrhu: Předkladatel Ministerstvo vnitra.  \n   – Program LRV: předkládá Mgr. Lubomír Metnar, ministr vnitra.  \n   **→ Pravdivé.** ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n4. **Načasování „počátkem ledna“ 2026**  \n   – Formální datum „předložení návrhu“: 12. 1. 2026.  \n   – Běžné jazykové užití umožňuje označit 12. leden jako „počátek ledna“; navíc do 29. 1. 2026 byl návrh již natolik pokročilý, že byl plánován k projednání v LRV.  \n   **→ Věcně přesné; lze považovat za přiměřené shrnutí („počátkem ledna“).** ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n### 5. Celkové shrnutí\n\nDostupné **oficiální legislativní záznamy** (VeKLEP – zprostředkovaný přes Zákony pro lidi) a dokumenty Úřadu vlády (program Legislativní rady vlády) potvrzují, že:\n\n- **12. ledna 2026** předložilo **Ministerstvo vnitra** vládě návrh nového **zákona o vstupu a pobytu cizinců (cizinecký zákon)**,  \n- tento návrh byl v druhé polovině ledna zařazen na program zasedání **Legislativní rady vlády** a předkládal jej ministr vnitra Lubomír Metnar.\n\nZ hlediska faktické přesnosti je tedy tvrzení Lubomíra Metnara, že **„počátkem ledna“ vypravili do vlády návrh zákona o pobytu cizinců**, **v souladu s dostupnými oficiálními údaji**.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in iDNES.cz released on 2026-02-18 available from https://www.idnes.cz/zpravy/domaci/lubomir-metnar-zvysovani-platu-policie-zbranova-legislativa-bezpecnost-migranti.A260217_204844_domaci_krou?zdroj=otvirak.\\n\\n\\nThe claim was made by: Lubomír Metnar, Ministr vnitra\\n\\n\\nThe claim appears in the following immediate context in the source:\\nTo je samostatná kapitola. Už po té tragické události policie přijala kroky, které do té doby byly, řekněme, diskutabilní. V této oblasti už došlo ke zlepšení opatření, ať již z hlediska informací, prostupnosti informací, nebo velmi obecně v režimu lokalizace mobilních telefonů. Zlepšila se i vybavenost a připravenost policie na tyto akce, začalo se víc školit na možného osamělého střelce.\\nDobře, ale co dalšího byste chtěl ještě zlepšit?\\nZ hlediska ochrany obyvatelstva chceme zavést systém Cell Broadcast, což je systém vyrozumívání. Známe to třeba z jiných západních zemí, z Ameriky nebo z Izraele, kde v případě, že se osoby vyskytují v lokalitě (ohrožené, pozn. red.), jim přijde upozorňující SMS včetně krátkého pokynu, co mají dělat. Toto už máme připravené a chceme to začít testovat ke konci letošního roku. Stát by to mělo kolem 100 milionů korun a měli by do toho být zainteresováni všichni mobilní operátoři a bezpečnostní složky.\\nTo je jediné, co připravujete?\\nExistuje ještě celá řada dalších opatření, která vyhodnocujeme. Třeba podobný systém, který už funguje u záchranářů, kdy ve chvíli, když se někomu něco stane, tak podle aplikace v místě k němu může nejbližší lékař přiběhnout a dát mu první pomoc. O něčem podobném uvažujeme i v krizových situacích bezpečnostního charakteru.\\nŠlo by tedy také o nějakou aplikaci?\\nAno, pro bezpečnostní složky.\\nPojďme k dalšímu tématu. Zejména šéf SPD Tomio Okamura mluví o zpřísňování azylových podmínek. V plánu máte nový zákon o azylu… V čem se bude zpřísňovat a odkdy by měl začít platit?\\nHned na prvním zasedání vlády jsme odmítli, nechci říct přímo migrační pakt, ale odmítli jsme princip solidarity, který je zakomponován v migračním paktu. Potom jsme de facto analyzovali současnou situaci, tedy z hlediska pobytové a cizinecké politiky. A tady jsme došli k závěru, že v současné době, a těžko se mi to říká, Česká republika nemá přehled o tom, kdo je na našem území. Agendy nejsou digitalizované a je to velké bezpečnostní riziko.\\nCo s tím budete dělat?\\nUž jsme počátkem ledna vypravili do vlády návrh zákona o takzvaném pobytu cizinců. V březnu by mělo dojít k jeho projednání. Musím říct, že tento návrh ležel od poloviny roku 2024 ve Sněmovně a předchozí vláda s ním neudělala nic. Přitom, jak říkám, jde o bezpečnostní riziko. My nevíme, kdo tady je, nemáme žádný přehled, a kvůli tomu neumíme dostatečně rychle řešit ať již povolovací, anebo zrušující opatření vůči cizincům. Zjednodušeně bych řekl, že do našeho příchodu byl toto jen PR resort, ale reálné kroky pro bezpečnost nebo zvyšování bezpečnosti občanů České republiky se tady nedělaly.\\nCo návrh zákona o takzvaném pobytu cizinců konkrétně umožní?\\nPředně umožní digitalizaci agend, prováže důležité registry tak, aby informace byly dostatečně rychlé a aby byly komplexní. Jeho přijetí umožní rychlejší a vyšší kontrolní činnost, bude možné ukládat adekvátní sankce při nelegálních pobytech, za převaděčství a bude možné zrušit pobyt pachatelům trestných činů. Protože tedy chceme zefektivnit kontroly, tak připravujeme na léto takzvanou bezpečnostní novelu. V rámci těchto dvou návrhů pak budeme novelizovat celý balík azylových zákonů. Platit by to mohlo od ledna příštího roku.\\n\\nProvide a structured, citation-backed verification of the claim: 'Už jsme počátkem ledna vypravili do vlády návrh zákona o takzvaném pobytu cizinců.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 186.93 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Ministerstvo vnitra skutečně 12. ledna 2026 předložilo vládě návrh nového zákona o vstupu a pobytu cizinců. Metnarovo tvrzení, že byl návrh „vypraven počátkem ledna“, odpovídá oficiálním údajům, výrok proto hodnotíme jako pravda.</p>\n\n<p>Lubomír Metnar výrok pronesl jako ministr vnitra v debatě o připravovaných změnách migrační a cizinecké legislativy. V tomto kontextu zmiňoval, že jeho resort už na začátku ledna odeslal vládě návrh nového zákona komplexně upravujícího vstup a pobyt cizinců na území České republiky.</p>\n\n<p>Výrok obsahuje několik věcných tvrzení: že existuje návrh nového zákona o vstupu a pobytu cizinců, že byl předložen vládě, že předkladatelem je Ministerstvo vnitra (resp. sám Metnar jako ministr) a že k tomuto předložení došlo „počátkem ledna“ 2026. Každou z těchto částí jsme ověřovali zvlášť.</p>\n\n<p>Nejprve jsme zkoumali, zda vůbec existuje návrh zákona, který odpovídá Metnarovu popisu „zákona o takzvaném pobytu cizinců“. V oficiálním Monitoru změn na portálu <a href=\"https://www.zakonyprolidi.cz/monitor/8222071\">Zákony pro lidi</a> je evidován materiál s názvem „Návrh zákona o vstupu a pobytu cizinců (cizinecký zákon)“. V části popisující cíle návrhu se uvádí, že se jedná o nový zákon, který nahrazuje dosavadní úpravu pobytu cizinců, doslova, že návrh <i>„navrhuje se nový zákon, který nahrazuje dosavadní právní úpravu pobytu cizinců…“</i>. Tím je jasně potvrzeno, že předložený předpis se skutečně týká oblasti pobytu cizinců a jde o rekodifikaci této agendy, což přesně odpovídá tomu, co Metnar hovorově označuje jako „zákon o takzvaném pobytu cizinců“.</p>\n\n<p>Dále jsme ověřovali, zda byl tento návrh skutečně předložen vládě. V tomtéž záznamu na portálu <a href=\"https://www.zakonyprolidi.cz/monitor/8222071\">Zákony pro lidi</a> je v hlavičce uveden stav „Ve vládě – předložen návrh předpisu“ a v historii procesu je položka s textem, že došlo k <i>„Předložení návrhu 12.01.2026“</i> ve fázi „Vláda“. Tyto údaje vycházejí z vládního systému VeKLEP a znamenají, že materiál byl oficiálně odeslán do vládního legislativního procesu, tedy „vypraven do vlády“ tak, jak Metnar popisuje.</p>\n\n<p>Třetí dílčí tvrzení se týká toho, kdo návrh předkládá. V hlavičce monitorovaného materiálu je jako předkladatel uvedeno „Ministerstvo vnitra“, opět na portálu <a href=\"https://www.zakonyprolidi.cz/monitor/8222071\">Zákony pro lidi</a>. Program zasedání Legislativní rady vlády, zveřejněný na stránkách Úřadu vlády <a href=\"https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-332--zasedani-lrv-12-2-2026-a-jeho-vysledky-225070\">vlada.gov.cz</a>, pak u bodu týkajícího se tohoto materiálu uvádí formuli <i>„Návrh zákona o vstupu a pobytu cizinců (cizinecký zákon) – předkládá Mgr. Lubomír Metnar, ministr vnitra“</i>. Tím je jednoznačně doloženo, že návrh vychází z Ministerstva vnitra a že jeho politickým předkladatelem je právě Lubomír Metnar, jak z výroku implicitně plyne z použití tvaru „už jsme… vypravili“.</p>\n\n<p>Podstatná část výroku se vztahuje k načasování – Metnar tvrdí, že návrh byl do vlády vypraven „počátkem ledna“. Záznam v Monitoru změn na portálu <a href=\"https://www.zakonyprolidi.cz/monitor/8222071\">Zákony pro lidi</a> uvádí jako datum předložení „12.01.2026“. Dvanáctý leden zjevně spadá do první poloviny měsíce a v běžném jazykovém užití se takové datum označuje jako začátek měsíce či „počátek ledna“. Naše zjištění dokresluje i to, že tentýž návrh je zařazen v programu 332. a 333. zasedání Legislativní rady vlády konaných 12. a 13. února 2026; příslušný program byl podle údajů na stránce <a href=\"https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-333--zasedani-lrv-13-2-2026-a-jeho-vysledky-225071\">vlada.gov.cz</a> zveřejněn 29. ledna 2026. Aby mohl být návrh v této době projednáván a plánován na únorová zasedání, musel být skutečně předložen vládě už na začátku ledna, což odpovídá datu 12. 1. 2026 z legislativního systému.</p>\n\n<p>Pro celkový obrázek je užitečné zmínit, že nejde o první pokus o rekodifikaci cizineckého práva. Starší verzi téhož „cizineckého zákona“ eviduje Monitor změn pod jiným číslem, opět s předkladatelem Ministerstvem vnitra; tento návrh byl předložen už v dubnu 2023, v srpnu 2024 vládou schválen a téhož dne předložen Poslanecké sněmovně, jak ukazuje záznam na portálu <a href=\"https://www.zakonyprolidi.cz/monitor/7681811\">Zákony pro lidi</a>. To potvrzuje, že rozsáhlá novela či nový zákon o pobytu cizinců se připravuje dlouhodobě, a vysvětluje, proč mohla nová vláda a nové vedení Ministerstva vnitra poměrně rychle předložit revidovaný návrh už v lednu 2026. Tato skutečnost však Metnarovo časové tvrzení nijak nezpochybňuje.</p>\n\n<p>Po rozložení výroku na jednotlivé části tedy zjišťujeme, že existuje návrh nového zákona o vstupu a pobytu cizinců, který zcela pokrývá oblast pobytu cizinců na území ČR; že tento návrh byl skutečně 12. ledna 2026 předložen vládě; že jeho předkladatelem je Ministerstvo vnitra a jako ministr jej vládním orgánům předkládá Lubomír Metnar; a že formulace „počátkem ledna“ přiměřeně odpovídá doloženému datu předložení. Na základě těchto zjištění proto výrok „Už jsme počátkem ledna vypravili do vlády návrh zákona o takzvaném pobytu cizinců“ hodnotíme jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_02f75e823287cd7f006998e31ac88481958094c8dae7c3b0bc",
+    "created_at": 1771627290.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_02f75e823287cd7f006998e3257bb88195ab42e5afa11cdcc7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e32f74f481959da0c2de54b4c9db",
+        "action": {
+          "query": "\"pobytu cizinců\" návrh zákona vlády leden 2026",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"pobytu cizinců\" návrh zákona vlády leden 2026",
+            "\"návrh zákona o pobytu cizinců\" Metnar",
+            "\"bezpečnostní novela\" \"pobytu cizinců\" 2026",
+            "\"pobyt cizinců\" novelizace zákon o pobytu cizinců vláda 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e33239f48195b2d4f2d64c5c7686",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e335b2708195a70142a3c214e9ed",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e336384081959a7a46e862e376a4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e3369cb48195a2ab806a2425ed98",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e33776548195850112269ae8eb9a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e3382114819597bdd3d11476874e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e338d4c88195a15ac09a3e505151",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e33a65748195a715d42e706cb936",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e33b9cf08195bbebae884da19021",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e33df0508195bc630cd003500329",
+        "action": {
+          "query": "\"Návrh zákona o vstupu a pobytu cizinců (cizinecký zákon)\" \"12.01.2026\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Návrh zákona o vstupu a pobytu cizinců (cizinecký zákon)\" \"12.01.2026\"",
+            "\"Návrh zákona o vstupu a pobytu cizinců\" \"čj. 23/26\"",
+            "\"cizinecký zákon\" \"čj. 23/26\"",
+            "\"Návrh zákona o vstupu a pobytu cizinců\" \"Ministerstvo vnitra\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e3404614819594e45f5866472629",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e346678c8195b2d59806050ed86f",
+        "action": {
+          "query": "\"Návrh zákona o vstupu a pobytu cizinců\" \"předkládá\" \"Lubomír Metnar\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Návrh zákona o vstupu a pobytu cizinců\" \"předkládá\" \"Lubomír Metnar\"",
+            "\"cizinecký zákon\" \"Návrh zákona o vstupu a pobytu cizinců\" \"Ministerstvo vnitra\" tisková zpráva",
+            "\"nový cizinecký zákon\" \"Návrh zákona o vstupu a pobytu cizinců\" 2026",
+            "\"nový cizinecký zákon\" \"předložen vládě\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e34941c88195a87abd76a3ad0927",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e355779c8195966d8801094365f5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e3566b888195b83936009d5267c9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e35719a08195aa4853e6e6550684",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e358aaf481959a9cfc740ecc3788",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e37081d48195b8757cb934a37977",
+        "action": {
+          "query": "\"předložen návrh\" \"Návrh zákona o vstupu a pobytu cizinců\" 2026",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"předložen návrh\" \"Návrh zákona o vstupu a pobytu cizinců\" 2026",
+            "\"Ve vládě předložen návrh předpisu\" \"Návrh zákona o vstupu a pobytu cizinců\"",
+            "\"Návrh zákona o vstupu a pobytu cizinců\" \"počátkem ledna\"",
+            "\"cizinecký zákon\" \"čj. 23/26\" Metnar"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e375b18c8195ba3e45e275db6403",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_02f75e823287cd7f006998e387f26481959c24982852e698dd",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_02f75e823287cd7f006998e389649c819590f2f77ed12a6fdb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_02f75e823287cd7f006998e39b28a0819587b7bd364a31daf3",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1415,
+                "start_index": 1345,
+                "title": "\nZákony pro lidi | Monitor změn\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/8222071.htm"
+              },
+              {
+                "end_index": 1696,
+                "start_index": 1626,
+                "title": "\nZákony pro lidi | Monitor změn\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/8222071.htm"
+              },
+              {
+                "end_index": 2127,
+                "start_index": 2057,
+                "title": "\nZákony pro lidi | Monitor změn\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/8222071.htm"
+              },
+              {
+                "end_index": 2702,
+                "start_index": 2545,
+                "title": "Program 332. zasedání LRV 12.2.2026 a jeho výsledky | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-332--zasedani-lrv-12-2-2026-a-jeho-vysledky-225070/?utm_source=openai"
+              },
+              {
+                "end_index": 3292,
+                "start_index": 3222,
+                "title": "\nZákony pro lidi | Monitor změn\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/8222071.htm"
+              },
+              {
+                "end_index": 3610,
+                "start_index": 3453,
+                "title": "Program 332. zasedání LRV 12.2.2026 a jeho výsledky | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-332--zasedani-lrv-12-2-2026-a-jeho-vysledky-225070/?utm_source=openai"
+              },
+              {
+                "end_index": 4061,
+                "start_index": 3991,
+                "title": "\nZákony pro lidi | Monitor změn\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/8222071.htm"
+              },
+              {
+                "end_index": 4613,
+                "start_index": 4456,
+                "title": "Program 333. zasedání LRV 13.2.2026 a jeho výsledky | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-333--zasedani-lrv-13-2-2026-a-jeho-vysledky-225071/?utm_source=openai"
+              },
+              {
+                "end_index": 5163,
+                "start_index": 5075,
+                "title": "Zákony pro lidi | Monitor změn",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/7681811.htm?utm_source=openai"
+              },
+              {
+                "end_index": 5467,
+                "start_index": 5344,
+                "title": "Jednání č. 130 dne 23. února 2024 | ria.gov.cz",
+                "type": "url_citation",
+                "url": "https://ria.gov.cz/komise/jednani-komise-ria-v-roce-2024/jednani-c-130-dne-23-unora-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 6137,
+                "start_index": 6067,
+                "title": "\nZákony pro lidi | Monitor změn\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/8222071.htm"
+              },
+              {
+                "end_index": 6406,
+                "start_index": 6336,
+                "title": "\nZákony pro lidi | Monitor změn\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/8222071.htm"
+              },
+              {
+                "end_index": 6675,
+                "start_index": 6605,
+                "title": "\nZákony pro lidi | Monitor změn\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/8222071.htm"
+              },
+              {
+                "end_index": 7092,
+                "start_index": 7022,
+                "title": "\nZákony pro lidi | Monitor změn\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/monitor/8222071.htm"
+              }
+            ],
+            "text": "### 1. Formulace a možné interpretace tvrzení\n\nTvrzení Lubomíra Metnara (18. 2. 2026):\n\n> „Už jsme počátkem ledna vypravili do vlády návrh zákona o takzvaném pobytu cizinců.“\n\nNejpravděpodobnější výklad:\n\n- „návrh zákona o takzvaném pobytu cizinců“ = návrh nového **zákona o vstupu a pobytu cizinců (cizinecký zákon)**, který kompletně rekodifikuje agendu pobytu cizinců.\n- „vypravili do vlády“ = **formálně předložili návrh vládě** v rámci systému vládní legislativy (VeKLEP / eKLEP).\n- „počátkem ledna“ = přibližně první třetina měsíce leden 2026 (typicky dny kolem 1.–15. 1.).\n\n### 2. Rozpad tvrzení na dílčí body\n\n1. Existuje návrh zákona s názvem (či obsahem) „o vstupu a pobytu cizinců (cizinecký zákon)“, tedy „zákon o pobytu cizinců“.\n2. Tento návrh byl **předložen vládě** v rámci vládního legislativního procesu.\n3. Předkladatelem je **Ministerstvo vnitra** (tedy Metnarův resort).\n4. Formální předložení vládě proběhlo **na začátku ledna 2026**.\n\n### 3. Důkazy\n\n#### 3.1 Existence návrhu zákona o vstupu a pobytu cizinců\n\n- Portál **Zákony pro lidi – Monitor změn** eviduje materiál s názvem  \n  „**Návrh zákona o vstupu a pobytu cizinců (cizinecký zákon)**“. V základní hlavičce je uvedeno:  \n  - „Předložení návrhu 12.01.2026“  \n  - „Stav návrhu: **Ve vládě předložen návrh předpisu**“  \n  - „Předkladatel: **Ministerstvo vnitra**“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n- Stejný záznam uvádí v části „Cíle návrhu“, že  \n  „navrhuje se nový zákon, který **nahrazuje dosavadní právní úpravu pobytu cizinců**… zákon představuje **kompletní rekodifikaci oblasti pobytu cizinců**“. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\nTo velmi dobře odpovídá tomu, co Metnar hovorově shrnuje jako „zákon o takzvaném pobytu cizinců“.\n\n#### 3.2 Předložení návrhu vládě („vypravení do vlády“)\n\n- V části „Historie procesu“ téhož záznamu na Zákony pro lidi je u sekce „Vláda“ uvedeno:  \n\n  „**12.01.2026 – Předložen návrh, bez připomínkového řízení**“ (s odkazy na text návrhu, odůvodnění atd.). ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n  Tento záznam je převzatý z vládního systému VeKLEP (odkaz „Vlády ČR (VeKLEP)“). Z hlediska legislativního procesu to znamená, že **předkladatel (ministerstvo)** návrh **oficiálně předložil vládě**.\n\n- Program 332. a 333. zasedání **Legislativní rady vlády (LRV)** uvádí mezi body:  \n\n  „**Návrh zákona o vstupu a pobytu cizinců (cizinecký zákon) – (předkládá Mgr. Lubomír Metnar, ministr vnitra) – čj. 23/26**“. ([vlada.gov.cz](https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-332--zasedani-lrv-12-2-2026-a-jeho-vysledky-225070/?utm_source=openai))  \n\n  Program je zveřejněn Úřadem vlády a nese datum publikace 29. 1. 2026, tedy potvrzuje, že **v té době už byl tento návrh ve vládním projednávání**, což je konzistentní se záznamem o předložení vládě 12. 1. 2026.\n\nTyto oficiální zdroje (data z VeKLEP replikovaná na Zákony pro lidi a program LRV na vlada.gov.cz) společně potvrzují, že návrh **byl skutečně předložen vládě**.\n\n#### 3.3 Předkladatel – Ministerstvo vnitra / Metnar\n\n- Záznam na Zákony pro lidi výslovně uvádí: „**Předkladatel: Ministerstvo vnitra**“. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n- Programy zasedání Legislativní rady vlády (332. a 333. zasedání) uvádějí u stejného návrhu, že ho  \n  „**předkládá Mgr. Lubomír Metnar, ministr vnitra**“. ([vlada.gov.cz](https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-332--zasedani-lrv-12-2-2026-a-jeho-vysledky-225070/?utm_source=openai))  \n\nTo potvrzuje, že jde o **vládní návrh zpracovaný Ministerstvem vnitra a předkládaný právě ministrem Metnarem**, jak naznačuje osobní zájmeno „už jsme… vypravili“.\n\n#### 3.4 Načasování – „počátkem ledna“\n\nKlíčové je datum z vládního legislativního systému (přes portál Zákony pro lidi):\n\n- „**Předložení návrhu 12.01.2026**“ + v historii procesu „12.01.2026 – Předložen návrh…“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n12. leden 2026:\n\n- spadá zřetelně do **první poloviny měsíce**,\n- jazykově je zcela běžné označovat takové datum jako **„počátek ledna“** (na rozdíl od „konce ledna“).\n\nDalší indicie, že návrh byl ve vládním procesu už v lednu:\n\n- Program 332. a 333. zasedání Legislativní rady vlády z 12.–13. 2. 2026 byl zveřejněn 29. 1. 2026 a obsahuje právě tento návrh zákona o vstupu a pobytu cizinců. ([vlada.gov.cz](https://vlada.gov.cz/cz/ppov/lrv/programy-zasedani-a-vasledky/program-333--zasedani-lrv-13-2-2026-a-jeho-vysledky-225071/?utm_source=openai))  \n\nKdyby návrh nebyl vládě předložen „počátkem ledna“, nemohl by být koncem ledna zařazen na program únorových zasedání LRV.\n\n#### 3.5 Kontext: dřívější verze téhož zákona\n\nPro úplnost (kontext, nikoli přímé ověření tvrzení):\n\n- Zákony pro lidi evidují **starší návrh téhož „cizineckého zákona“** (jiné číslo monitoru), který byl předložen už 26. 4. 2023, prošel připomínkovým řízením, 28. 8. 2024 byl vládou schválen a ten den i předložen Poslanecké sněmovně. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/7681811.htm?utm_source=openai))  \n\n- Stručná zpráva Komise RIA z února 2024 potvrzuje, že **Návrh zákona o vstupu a pobytu cizinců (cizinecký zákon)** byl projednáván již tehdy, předkladatel Ministerstvo vnitra. ([ria.gov.cz](https://ria.gov.cz/komise/jednani-komise-ria-v-roce-2024/jednani-c-130-dne-23-unora-2024/?utm_source=openai))  \n\nTyto informace ukazují, že rekodifikace „cizineckého zákona“ běží delší dobu (už za předchozí vlády). Samy o sobě však **nevyvracejí**, že současné vedení Ministerstva vnitra předložilo v lednu 2026 „novou“ či zrevidovanou verzi návrhu znovu vládě; spíše naopak vysvětlují, proč mohlo předložení proběhnout rychle po nástupu nové vlády (většina textu byla připravena dříve).\n\n### 4. Hodnocení dílčích tvrzení\n\n1. **Existence návrhu zákona o vstupu a pobytu cizinců (cizinecký zákon)**  \n   – Jednoznačně potvrzeno oficiálními záznamy (VeKLEP → Zákony pro lidi, program LRV).  \n   **→ Pravdivé.** ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n2. **Předložení návrhu vládě**  \n   – Historie procesu v monitoru: „12.01.2026 – Předložen návrh“ ve fázi „Vláda“.  \n   – Zařazení návrhu na program Legislativní rady vlády.  \n   **→ Pravdivé.** ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n3. **Předkladatel Ministerstvo vnitra / Metnar**  \n   – Hlavička návrhu: Předkladatel Ministerstvo vnitra.  \n   – Program LRV: předkládá Mgr. Lubomír Metnar, ministr vnitra.  \n   **→ Pravdivé.** ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n4. **Načasování „počátkem ledna“ 2026**  \n   – Formální datum „předložení návrhu“: 12. 1. 2026.  \n   – Běžné jazykové užití umožňuje označit 12. leden jako „počátek ledna“; navíc do 29. 1. 2026 byl návrh již natolik pokročilý, že byl plánován k projednání v LRV.  \n   **→ Věcně přesné; lze považovat za přiměřené shrnutí („počátkem ledna“).** ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/monitor/8222071.htm))  \n\n### 5. Celkové shrnutí\n\nDostupné **oficiální legislativní záznamy** (VeKLEP – zprostředkovaný přes Zákony pro lidi) a dokumenty Úřadu vlády (program Legislativní rady vlády) potvrzují, že:\n\n- **12. ledna 2026** předložilo **Ministerstvo vnitra** vládě návrh nového **zákona o vstupu a pobytu cizinců (cizinecký zákon)**,  \n- tento návrh byl v druhé polovině ledna zařazen na program zasedání **Legislativní rady vlády** a předkládal jej ministr vnitra Lubomír Metnar.\n\nZ hlediska faktické přesnosti je tedy tvrzení Lubomíra Metnara, že **„počátkem ledna“ vypravili do vlády návrh zákona o pobytu cizinců**, **v souladu s dostupnými oficiálními údaji**.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 43509,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 10389,
+      "output_tokens_details": {
+        "reasoning_tokens": 7751
+      },
+      "total_tokens": 53898
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1771627472,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

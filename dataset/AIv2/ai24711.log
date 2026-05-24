@@ -1,0 +1,459 @@
+{
+  "claim_id": "24711",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260421_113102",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/reports/report24711.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 102.5,
+        "prompt_length": 3448,
+        "input_tokens": 216825,
+        "cached_input_tokens": 115584,
+        "output_tokens": 6083,
+        "web_searches": 8,
+        "final_response": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/claim_interpretation.md).\n\nHlavní ověřovaná interpretace je, že u domácností se rozhlasový a televizní poplatek neplatí za každou osobu zvlášť, ale v rámci společné domácnosti jen jednou za každý typ poplatku. Zároveň jsem oddělil hodnotové části výroku od právně ověřitelného jádra a určil datum výroku i vyhledávací okno pro další krok.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Nejprve si vytáhnu kontext v repozitáři a ověřím přesné datum i nejpravděpodobnější význam výroku v článku, abych mohl zapsat interpretaci do `work/claim_interpretation.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc pwd",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'rg --files'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď čtu lokální metadata a základní příručku k pipeline, abych nevynechal žádný formální požadavek pro interpretační soubor."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' AGENTS.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' metadata.json\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/prirucka.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:plus.rozhlas.cz koncesionarske poplatky jsou zastarale plati je hlavne seniori zni z SPD opozice 9610185"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://plus.rozhlas.cz/koncesionarske-poplatky-jsou-zastarale-plati-je-hlavne-seniori-zni-z-spd-opozice-9610185"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:demagog.cz koncesionářské poplatky domácnost Demagog"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretace se rýsuje dost úzce: nejde o hodnocení spravedlnosti systému, ale hlavně o právní konstrukci poplatku u domácností. Ještě ověřím, jak to přesně formuluje zákon a oficiální weby ČT/ČRo, a pak to zapíšu do pracovního souboru."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/1994-252"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz 348/2005 Sb. o rozhlasových a televizních poplatcích"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2005-348"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'za celou domácnost' in https://poplatky.ceskatelevize.cz/domacnost"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám dost na zápis. Do souboru teď dám rozklad výroku, vybranou interpretaci a vyhledávací plán s tím, že klíčovým důkazem bude znění zákona účinné k 17. dubnu 2026."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Soubor je zapsaný. Ještě rychle zkontroluju, že obsahuje všechny povinné části a že interpretace jasně odděluje právně ověřitelnou část od hodnotových soudů."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/claim_interpretation.md).\n\nHlavní ověřovaná interpretace je, že u domácností se rozhlasový a televizní poplatek neplatí za každou osobu zvlášť, ale v rámci společné domácnosti jen jednou za každý typ poplatku. Zároveň jsem oddělil hodnotové části výroku od právně ověřitelného jádra a určil datum výroku i vyhledávací okno pro další krok."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 151.5,
+        "prompt_length": 1771,
+        "input_tokens": 512404,
+        "cached_input_tokens": 262144,
+        "output_tokens": 14050,
+        "web_searches": 12,
+        "final_response": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/raw_sources.md).\n\nSoubor obsahuje primární právní zdroje, oficiální výklady ČT/ČRo a doplňkové veřejnoprávní mediální zdroje. Přidal jsem i zdroje, které výrok zpřesňují nebo oslabují jeho doslovné čtení, hlavně že nejde o jeden univerzální poplatek „za dům“, ale o dva samostatné poplatky s konstrukcí jedné platby v rámci společné domácnosti.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Navazuju na interpretaci a teď sbírám širší sadu zdrojů: nejdřív zákon a oficiální stránky ČT/ČRo, potom doplním veřejnoprávní a další média i zdroje, které výrok spíš zpřesňují nebo oslabují."
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz 348/2005 společná domácnost televizní rozhlasový poplatek"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:ct24.ceskatelevize.cz koncesionářské poplatky domácnost 2025"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz/cs/2005-348 §5 společná domácnost rozhlasových televizních poplatcích"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2005-348"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'§ 5' in https://www.zakonyprolidi.cz/cs/2005-348"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz 119/2025 rozhlasových televizních poplatcích domácnost"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/rozhlasove-a-televizni-poplatky-cs-488"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://poplatky.ceskatelevize.cz/media/domacnost/pouceni_domacnosti_2025.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2005-348"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:seznamzpravy.cz koncesionářské poplatky domácnost 2025"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://ct24.ceskatelevize.cz/clanek/domaci/o-poplatkove-weby-ct-a-cro-byl-tento-tyden-enormni-zajem-362652"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:ceskatelevize.cz \"jednou za domácnost\" \"Česká televize\" 2025"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám dost zdrojů z primárních i doplňkových webů. Teď je sepíšu do `work/raw_sources.md` tak, aby bylo jasné, které přímo potvrzují právní konstrukci poplatku a které naopak jen zpřesňují, že nejde o jeden univerzální poplatek „za dům“."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsou zapsané. Ještě kontroluju, že u každého je jasně uvedeno, zda výrok spíš potvrzuje, nebo jen zpřesňuje jeho právní význam."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/raw_sources.md).\n\nSoubor obsahuje primární právní zdroje, oficiální výklady ČT/ČRo a doplňkové veřejnoprávní mediální zdroje. Přidal jsem i zdroje, které výrok zpřesňují nebo oslabují jeho doslovné čtení, hlavně že nejde o jeden univerzální poplatek „za dům“, ale o dva samostatné poplatky s konstrukcí jedné platby v rámci společné domácnosti."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 63.0,
+        "prompt_length": 2274,
+        "input_tokens": 640155,
+        "cached_input_tokens": 376192,
+        "output_tokens": 18617,
+        "web_searches": 0,
+        "final_response": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/refined_sources.md).\n\nNechal jsem primární právní zdroje a oficiální výklady institucí, sekundární mediální shrnutí jsem vyřadil jako nadbytečná. Hlavní claim i všechna netriviální podtvrzení mají dostatečné pokrytí, včetně tier-1 opory pro právní jádro výroku.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď zdroje čistím podle kvality a použitelnosti. Primární a oficiální odkazy nechám, mediální duplicitní shrnutí vyřadím tam, kde jen opakují totéž bez nové důkazní hodnoty."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam je hotový. Ještě jen kontroluju, že jsem u odstraněných mediálních zdrojů vždy uvedl, čím přesně byly nahrazeny v důkazní části."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,320p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/refined_sources.md).\n\nNechal jsem primární právní zdroje a oficiální výklady institucí, sekundární mediální shrnutí jsem vyřadil jako nadbytečná. Hlavní claim i všechna netriviální podtvrzení mají dostatečné pokrytí, včetně tier-1 opory pro právní jádro výroku."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 66.4,
+        "prompt_length": 2388,
+        "input_tokens": 876437,
+        "cached_input_tokens": 597504,
+        "output_tokens": 22722,
+        "web_searches": 0,
+        "final_response": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/draft.md).\n\nVerdikt v návrhu vychází jako `pravda`: právní jádro výroku sedí, i když řečník používá zjednodušenou formulaci. V textu jsem tuhle nuance zachytil, ale nenechal jsem ji převážit nad podstatou pravidla pro společnou domácnost.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď si kalibruju finální styl podle místních pravidel a příkladů, pak sepíšu samotný draft. Soustředím se hlavně na tón, délku odstavců a na to, jak přesně formulovat verdikt u právně trochu zjednodušeného výroku."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/examples.txt\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verdikt vychází jako `pravda`, ale s krátkým upozorněním, že řečník používá zjednodušenou zkratku. Do draftu teď zapíšu stručné odůvodnění v demagogovském HTML formátu."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft je sepsaný. Ještě dělám poslední kontrolu: délka perexu, jednoduchost vět a to, že závěrečný odstavec říká verdikt jen jednou."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/draft.md).\n\nVerdikt v návrhu vychází jako `pravda`: právní jádro výroku sedí, i když řečník používá zjednodušenou formulaci. V textu jsem tuhle nuance zachytil, ale nenechal jsem ji převážit nad podstatou pravidla pro společnou domácnost."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 77.9,
+        "prompt_length": 1226,
+        "input_tokens": 1345079,
+        "cached_input_tokens": 1041664,
+        "output_tokens": 27868,
+        "web_searches": 2,
+        "final_response": "Verifikaci jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/verification.md) a upravil jsem i [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/draft.md).\n\nPůvodně neprošel bod o neozdrojovaných tvrzeních v úvodu a v závěrečném shrnutí, takže jsem odstranil zbytečný kontextový odstavec a doplnil oporu přímo do závěru. Po opravě checklist vychází celý jako `PASS`.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď draft procházím proti checklistu a zároveň si namátkově ověřím několik citovaných odkazů. Pokud něco neprojde, opravím jen konkrétní místo v draftu a přepíšu jen neúspěšné body kontroly."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/verification_checklist.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2005-348"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://poplatek.rozhlas.cz/domacnosti-9460381"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Při checklistu narazil jeden slabší bod: úvodní kontextový odstavec byl bez citace a v závěru jsem ještě zopakoval shrnutí bez odkazu. To opravím zkrácením textu a doplněním opory přímo do závěrečného odstavce."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Oprava je hotová. Teď už jen dotahuju finální checklist včetně stručného spot-checku odkazů a výsledky zapíšu do `work/verification.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"python - <<'PY'\nimport re\nfrom pathlib import Path\ntext=Path('work/draft.md').read_text()\nm=re.search(r'<p class=\\\"perex\\\">(.*?)</p>', text, re.S)\nperex=m.group(1)\nprint(len(perex))\nprint(perex)\nPY\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"python - <<'PY'\nimport re\nfrom pathlib import Path\ntext=Path('work/draft.md').read_text()\nparas=re.findall(r'<p(?: class=\\\"perex\\\")?>(.*?)</p>', text, re.S)\nprint('paragraphs_excl_perex', len(paras)-1)\nfor i,p in enumerate(paras[1:],1):\n    s=[x for x in re.split(r'(?<=[.\"'!?])'\"\\\\s+', re.sub(r'<.*?>','',p).strip()) if x]\n    print(i, len(s), re.sub(r'<.*?>','',p).strip())\nPY\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Checklist teď vychází čistě. Do verifikačního souboru zapíšu finální hodnocení všech bodů a u spot-checku uvedu i které tři odkazy jsem ověřil."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikace je zapsaná a draft po opravě prošel. Ještě jen rychle kontroluju, že `verification.md` končí výsledkem `PASS` a že upravený draft odpovídá tomu, co checklist popisuje."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 8 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikaci jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/verification.md) a upravil jsem i [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/work/draft.md).\n\nPůvodně neprošel bod o neozdrojovaných tvrzeních v úvodu a v závěrečném shrnutí, takže jsem odstranil zbytečný kontextový odstavec a doplnil oporu přímo do závěru. Po opravě checklist vychází celý jako `PASS`."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 23.1,
+        "prompt_length": 313,
+        "input_tokens": 1576566,
+        "cached_input_tokens": 1265024,
+        "output_tokens": 29326,
+        "web_searches": 0,
+        "final_response": "Hotovo. Finální report je v [output/report.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/output/report.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Kontroluju závěr verifikace a pak přenesu hotový draft do finálního výstupu v `output/report.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 3 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"python - <<'PY'\nimport json\nfrom pathlib import Path\nmeta=json.loads(Path('metadata.json').read_text())\nprint(meta['claim'])\nPY\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikace končí `PASS`. Teď už jen skládám finální report přesně v požadované struktuře do `output/report.md`."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Hotovo. Finální report je v [output/report.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24711/output/report.md)."
+          }
+        ]
+      }
+    }
+  ]
+}

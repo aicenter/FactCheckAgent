@@ -1,0 +1,764 @@
+{
+  "claim_id": "24582",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260209_115155",
+  "source_md": "experiments/gpt5.1_h_20260209_115155/brief_fact_check_id24582.md",
+  "fact_check": "# Fact Check for Statement ID 24582\n\n## Statement\nJá jsem byl ministr financí (...) který měl přebytek, který zavedl daňovou kobru, kontrolní hlášení, EET, dodaňování nadnárodních společností.\n\n---\n## AI Fact Check\n## 1. Co přesně ověřujeme\n\nZ výroku Andreje Babiše bereme k ověření tuto část:\n\n> „Já jsem byl ministr financí (…) který  \n> – měl přebytek,  \n> – zavedl Daňovou kobru,  \n> – [zavedl] kontrolní hlášení,  \n> – [zavedl] EET,  \n> – [zavedl] dodaňování nadnárodních společností.“\n\nRozkládáme ji na dílčí tvrzení:\n\n1. Andrej Babiš byl ministrem financí ČR.  \n2. Jako ministr financí „měl přebytek“ (tj. veřejné rozpočty / státní rozpočet byly v jeho období v přebytku).  \n3. Jako ministr financí „zavedl Daňovou Kobru“.  \n4. Jako ministr financí „zavedl kontrolní hlášení“ k DPH.  \n5. Jako ministr financí „zavedl EET (elektronickou evidenci tržeb)“.  \n6. Jako ministr financí „zavedl dodaňování nadnárodních společností“.\n\nNíže u každého bodu:\n\n- shrnutí, co přesně tvrzení znamená,  \n- primární zdroje (vládní weby, zákony, finanční správa, ČSÚ, případně média),  \n- stručné předběžné hodnocení míry podpory důkazy.\n\n---\n\n## 2. Dílčí tvrzení\n\n### 2.1 „Já jsem byl ministr financí“\n\n**Interpretace:** Babiš tvrdí, že byl ministrem financí ČR (implicitně v období, kdy mluví o uvedených opatřeních).\n\n**Důkazy**\n\n- Oficiální web Vlády ČR (profil Andreje Babiše) uvádí, že byl  \n  „1. místopředseda vlády pro ekonomiku a ministr financí od 29. ledna 2014 do 24. května 2017.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Silně podpořeno** – oficiální vládní zdroj jednoznačně potvrzuje.\n\n---\n\n### 2.2 „…který měl přebytek“\n\n**Interpretace:**\n\n- V kontextu výroku o zadlužení a „nejlepších výsledcích“ lze rozumně chápat, že:\n  - za jeho působení jako ministra financí skončil státní rozpočet (nebo celé veřejné finance) v přebytku.\n\n**Důkazy – státní rozpočet**\n\n- Ministerstvo financí, tisková zpráva „Stát v roce 2016 hospodařil s rekordním přebytkem 62 mld. Kč“ (3. 1. 2017) uvádí:  \n  „Hospodaření státního rozpočtu skončilo na konci roku 2016 **přebytkem ve výši 61,8 mld. Kč**…“ ([mf.gov.cz](https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2017/stat-v-roce-2016-hospodaril-s-rekordnim-27109?utm_source=openai))  \n\n- Stejný přebytek (61,8 mld. Kč) potvrzují i další zdroje (Finance.cz, Lidovky, atd.). Např. Finance.cz:  \n  „Státní rozpočet skončil loni v **přebytku 61,8 miliardy korun**, což je nejlepší výsledek od vzniku samostatné České republiky.“ ([finance.cz](https://www.finance.cz/483680-prebytek-rozpoctu-2016/?utm_source=openai))  \n\n- V době tohoto výsledku byl ministrem financí stále Andrej Babiš (do 24. 5. 2017 – viz výše). ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai))  \n\n**Důkazy – veřejné finance (sektor vládních institucí)**\n\n- Ministerstvo financí (Fiskální výhled, shrnující tisková zpráva „Česká republika nejlépe hospodařící zemí Evropské unie v roce 2017“):  \n  „V roce 2016 byl **poprvé v historii dosažen přebytek hospodaření sektoru vládních institucí, a to ve výši 0,7 % HDP**.“ ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2017/ceska-republika-nejlepe-hospodarici-zemi-30193?utm_source=openai))  \n\n- ČSÚ i média (Např. Novinky/ČTK) potvrzují, že v roce 2016 měly veřejné finance přebytek kolem 0,7 % HDP a že to byl první přebytek po předchozích letech deficitů. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-statistici-potvrdili-lonsky-prebytek-verejnych-financi-cinil-073-procenta-hdp-40049406?utm_source=openai))  \n\n**Kontext (ostatní roky jeho funkčního období)**\n\n- Rok 2014 a 2015 skončily ve státním rozpočtu deficitem; přebytek je pouze v roce 2016. To ale stačí pro tvrzení, že „měl přebytek“ – rozumí se, že za jeho působení byl dosažen přebytkový rozpočet. ([mf.gov.cz](https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2017/stat-v-roce-2016-hospodaril-s-rekordnim-27109?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Silně podpořeno** – data MF a ČSÚ jasně ukazují, že v roce 2016 (v průběhu jeho mandátu) skončil jak státní rozpočet, tak sektor vládních institucí v přebytku.\n\n---\n\n### 2.3 „…který zavedl Daňovou Kobru“\n\n**Interpretace:**\n\n- „Zavedl“ zde prakticky znamená: za jeho působení jako ministra financí byl **založen a spuštěn projekt Daňová Kobra**, společný mechanismus Policie ČR, Finanční správy a Celní správy.\n- Neznamená to nutně, že šlo výlučně o jeho osobní iniciativu (projekt je meziresortní).\n\n**Důkazy – vznik a povaha „Daňové Kobry“**\n\n- Policie ČR (zpravodajství 2014 „Daňová ‚Kobra‘ startuje“) k podpisu prováděcího protokolu 13. 6. 2014:  \n  - Dne 13. června 2014 byl podepsán **prováděcí protokol ke koordinační dohodě o spolupráci, výměně informací a koordinaci (tzv. ‚Kobra‘)**, která upřesňuje pravidla spolupráce mezi Policií, Finanční správou a Celní správou a je „pomyslnou tečkou za pracemi před oficiálním spuštěním Kobry“. ([policie.gov.cz](https://policie.gov.cz/clanek/danova-kobra-startuje.aspx?utm_source=openai))  \n  - Text uvádí, že (tehdejší) **ministr financí Andrej Babiš** již dříve označil Kobru za „další krok v našem úsilí v boji proti daňové kriminalitě především v oblasti spotřební daně a DPH“. ([policie.gov.cz](https://policie.gov.cz/clanek/danova-kobra-startuje.aspx?utm_source=openai))  \n\n- Finanční správa ČR (tisková zpráva 2019 „Daňová Kobra zachránila státu už téměř 11,7 miliardy“):  \n  - „Projekt **Daňová Kobra byl formálně zahájen přesně před pěti lety, tedy 11. dubna 2014, kdy tehdejší ministři financí a vnitra uzavřeli Dohodu o spolupráci, výměně informací a koordinaci**. Následně byl 13. června 2014 podepsán prováděcí protokol… Projekt Daňová Kobra tak mohl odstartovat.“ ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2019/danova-kobra-zachranila-statu-uz-temer-11-7-miliardy?utm_source=openai))  \n\n- Podobný popis (11. 4. 2014 – dohoda ministrů financí a vnitra, 13. 6. 2014 prováděcí protokol) uvádí i Ministerstvo vnitra. ([mv.gov.cz](https://mv.gov.cz/webpm/clanek/danova-kobra-zachranila-statu-uz-temer-11-7-miliardy.aspx?utm_source=openai))  \n\n- Shrnutí Policie ČR k 10. výročí projektu: „Projekt ‚Daňová kobra‘ byl v České republice **formálně zahájen v dubnu 2014 podpisem meziresortní dohody mezi ministerstvy vnitra a financí**…“ ([policie.gov.cz](https://policie.gov.cz/clanek/za-deset-let-danova-kobra-uchranila-celkem-16-miliard-kc.aspx?utm_source=openai))  \n\n**Souvislost s Babišem**\n\n- V době uzavření dohody (duben 2014) i podpisu prováděcího protokolu (červen 2014) byl Andrej Babiš ministrem financí (od 29. 1. 2014). ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Spíše podpořeno, s nuancí** – projekt Daňová Kobra byl skutečně založen a spuštěn v roce 2014 na základě dohody **ministrů financí a vnitra**. Babiš jako ministr financí byl jedním ze dvou politických „zakladatelů“ a veřejně ho prezentoval, ale šlo o **společnou meziresortní iniciativu**, nikoli čistě individuální krok.\n\n---\n\n### 2.4 „…který zavedl kontrolní hlášení“\n\n**Interpretace:**\n\n- Tvrzení míří na institut **kontrolního hlášení k DPH**, tj. novou povinnost plátců DPH podávat detailní elektronické hlášení, které umožňuje křížové kontroly a ztěžuje daňové úniky.\n- „Zavedl“ zde fakticky znamená, že během jeho mandátu byla schválena novela zákona o DPH obsahující tento institut a ten začal platit.\n\n**Důkazy – legislativa a účinnost**\n\n- Zákon č. 360/2014 Sb., kterým se mění zákon o DPH:  \n  - Zákon byl vyhlášen ve Sbírce zákonů v částce 143/2014, **platnost od 31. 12. 2014, účinnost od 1. 1. 2015**, s některými ustanoveními účinnými až od 1. 1. 2016. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2014-360?utm_source=openai))  \n\n- Anotace zákona č. 360/2014 Sb. (Sagit):  \n  - V části „Změny, které nabývají účinnosti od roku 2016“ se uvádí:  \n    – „**Zavádí se povinnost podávat správci daně kontrolní hlášení.** Právnické osoby budou kontrolní hlášení podávat měsíčně, fyzické osoby podle jejich zdaňovacího období.“ ([sagit.cz](https://www.sagit.cz/info/sb-anotace-sb14360b?utm_source=openai))  \n\n- Důvodová zpráva k zákonu č. 360/2014 Sb. (portál Daně pro lidi) výslovně uvádí mezi hlavními změnami:  \n  - „Mezi hlavní změny zákona o DPH patří **zavedení kontrolního hlášení**… Toto opatření se zavádí z důvodu zlepšení výběru daní, s cílem zavedení účinného a flexibilního nástroje v boji proti daňovým podvodům.“ ([daneprolidi.cz](https://www.daneprolidi.cz/duvodova-zprava/duvodova-zprava-k-novele-c-360-2014-sb-zakona-o-dani-z-pridane-hodnoty.htm?utm_source=openai))  \n\n- Frank Bold Advokáti (odborný článek, shrnující platnou právní úpravu):  \n  - „Od 1. 1. 2016 jsou plátci DPH povinni podávat tzv. **kontrolní hlášení**. Tento institut byl zaveden **novelou č. 360/2014 Sb.**…“ ([fbadvokati.cz](https://www.fbadvokati.cz/cs/clanky/354-povinnost-podavat-kontrolni-hlaseni-u-dane-z-pridane-hodnoty?utm_source=openai))  \n\n- Finanční správa – „Kontrolní hlášení DPH“ (základní informace):  \n  - Stránka stručně popisuje kontrolní hlášení a odkazuje na novelu č. 360/2014 Sb. a ustanovení §101c–§101k zákona o DPH. Uvádí, že povinnost podat kontrolní hlášení platí od **1. 1. 2016**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/kontrolni-hlaseni-dph/zakladni-informace?utm_source=openai))  \n\n**Souvislost s Babišem**\n\n- Novelou č. 360/2014 Sb. byla změněna DPH s účinnostmi od 2015 a zejména 2016; kontrolní hlášení má odloženou účinnost od 1. 1. 2016.  \n- V době přípravy a schválení této novely byl Andrej Babiš ministrem financí (od ledna 2014). Zákon byl vládním návrhem vycházejícím z koaliční smlouvy a programového prohlášení vlády (jak uvádí důvodová zpráva). ([daneprolidi.cz](https://www.daneprolidi.cz/duvodova-zprava/duvodova-zprava-k-novele-c-360-2014-sb-zakona-o-dani-z-pridane-hodnoty.htm?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Silně podpořeno (z hlediska doby a působnosti)** – institut kontrolního hlášení byl skutečně **zaveden novelou připravenou Ministerstvem financí a prosazenou v době, kdy byl Babiš ministrem financí**. Formálně jde o rozhodnutí vlády a Parlamentu, ale veřejně je kontrolní hlášení spojováno právě s jeho mandátem.\n\n---\n\n### 2.5 „…který zavedl EET (elektronickou evidenci tržeb)“\n\n**Interpretace:**\n\n- Tvrzení míří na **zákon o evidenci tržeb (tzv. EET)**, který zavedl povinnost on‑line evidovat hotovostní tržby prostřednictvím finanční správy.\n- „Zavedl“ zde znamená, že za jeho působení byl tento zákon přijat a systém spuštěn.\n\n**Důkazy – legislativa a účinnost**\n\n- Zákon č. 112/2016 Sb., o evidenci tržeb:  \n  - Zákony pro lidi uvádějí: „Platnost od 13. 04. 2016, **účinnost od 01. 12. 2016** (s postupným náběhem podle oborů činnosti)“; předmětem úpravy je „**evidence tržeb**“. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2016-112?utm_source=openai))  \n  - §1 zákona definuje, že zákon „upravuje práva, povinnosti a postupy uplatňované **při evidenci tržeb**…“. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2016-112))  \n\n- Ministerstvo financí – stránka k zákonu č. 112/2016 Sb.:  \n  - Stránka MF k zákonu č. 112/2016 Sb. (sekce Daně a cla) označuje předpis jako „**o evidenci tržeb**“ a odkazuje na webový portál EET (etrzby.cz). ([mfcr.cz](https://www.mfcr.cz/cs/legislativa/legislativni-dokumenty/2016/zakon-c-112-2016-sb-26768?utm_source=openai))  \n\n- Finanční správa – „Evidence tržeb“:  \n  - Stránka FS popisuje elektronickou evidenci tržeb jako systém elektronické evidence hotovostních tržeb podnikatelů, opřený o zákon č. 112/2016 Sb. a upozorňuje, že povinnost byla později zrušena k 1. 1. 2023 (to je ale až po dobu Babišova mandátu). ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane-elektronicky/danovy-portal/evidence-trzeb?utm_source=openai))  \n\n- SH ČMS (odborný přehled pro spolky) shrnuje:  \n  - „**Elektronická evidence tržeb začne platit od 1. 12. 2016** pro činnost NACE 56 – stravování a pohostinství… a od 1. 3. 2017 pro NACE 47 – maloobchod…“ ([dh.cz](https://www.dh.cz/index.php/ekonomika/eet/67-ekonomicka-evidence-trzeb?utm_source=openai))  \n\n**Důkazy – příprava zákona a role MF**\n\n- Tisková zpráva MF „Příprava elektronické evidence tržeb“ (9. 7. 2014):  \n  - Informuje o panelové diskusi k **věcnému záměru zákona o elektronické evidenci tržeb**, pořádané pod záštitou Svazu obchodu a cestovního ruchu. MF, Finanční správa a další instituce zde jednají o podobě připravovaného zákona. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2014/priprava-elektronicke-evidence-trzeb-18364?utm_source=openai))  \n\n**Souvislost s Babišem**\n\n- Příprava věcného záměru zákona o EET probíhala v roce 2014, kdy byl Babiš ministrem financí; zákon byl schválen 2016 a EET spuštěna 1. 12. 2016 – stále v době jeho mandátu. ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Silně podpořeno (časově i obsahově)** – zákon o evidenci tržeb, tedy EET, byl **připraven Ministerstvem financí a přijat v roce 2016 za Babišova působení**. Formálně jde opět o legislativu schválenou Parlamentem a podepsanou prezidentem, ale v politické i odborné debatě je EET jednoznačně spojována s Andrejem Babišem jako jejím hlavním politickým protagonistou.\n\n---\n\n### 2.6 „…který zavedl dodaňování nadnárodních společností“\n\n**Interpretace:**\n\n- Pojem „dodaňování nadnárodních společností“ není přesný právní termín. V kontextu Babišových jiných výroků a kroků MF z let 2014–2017 se může vztahovat zejména k:\n  - **posílení kontrol převodních cen (transfer pricing)** u nadnárodních skupin a následnému **dodatečnému doměření daně**,  \n  - mezinárodním dohodám o výměně informací a **Country‑by‑Country Reporting** u nadnárodních společností.  \n\n- Posuzujeme tedy, zda za jeho mandátu byly zavedeny/rozšířeny **nové mechanismy a systematické akce**, které vedly k dodatečnému zdanění (doměření daní) nadnárodních skupin.\n\n#### a) Kontrolní akce na převodní ceny u nadnárodních společností\n\n- Finanční správa – tisková zpráva „Specializovaný finanční úřad zahájil celorepublikovou kontrolní akci. Zaměřuje se na převodní ceny u nadnárodních společností.“ (18. 2. 2015):  \n  - Zpráva oznamuje, že Specializovaný finanční úřad zahájil kontrolní akci zaměřenou na **prověření správnosti nastavení převodních cen mezi personálně nebo majetkově spojenými firmami**.  \n  - Cílem je „**předejít úmyslnému či neúmyslnému odlivu zisku z České republiky do zahraničí** prostřednictvím transakcí mezi členy nadnárodních skupin podniků…“. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2015/specializovany-financni-urad-zahajil?utm_source=openai))  \n\n- Ministerstvo financí – tisková zpráva „Kontrolní akce zaměřená na převodní ceny zatím přinesla zjištění v podobě doměření daně v hodnotě více než 170 mil. Kč“ (18. 11. 2015):  \n  - Shrnuje výsledky stejné akce za rok 2015: „dosavadním výsledkem… je **zvýšení základu daně … ve výši téměř 600 mil. Kč**, což znamená **doměření daně** ve výši více než 90 mil. Kč,“ později uvádí souhrnně doměření více než 170 mil. Kč.  \n  - Důvodem je „zamezení rozšířené praxe krácení daňové povinnosti, kdy si spřízněné subjekty ve vzájemných transakcích upravují ceny tak, aby zdanitelné zisky plynuly do zemí s nižší mírou zdanění.“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2015/kontrolni-akce-zamerena-na-prevodni-ceny-23050?utm_source=openai))  \n\n- ČT24 (21. 4. 2016) ve zpravodajství o těchto kontrolách uvádí, že Finanční správa „loni doměřila 450 milionů“ na dani z příjmů při kontrolách převodních cen a že „Česko se letos připojilo k mezinárodní dohodě proti zneužívání převodních cen u nadnárodních společností“ (viz níže). ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/financni-sprava-loni-domerila-necelou-pulmiliardu-pri-kontrole-prevodnich-cen-117195?utm_source=openai))  \n\n#### b) Mezinárodní výměna informací a Country‑by‑Country Reporting u MNC\n\n- Ministerstvo financí – „Česko se připojilo k dohodě proti zneužívání převodních cen u nadnárodních společností“ (28. 1. 2016):  \n  - MF informuje, že 27. 1. 2016 podepsalo **Mnohostrannou dohodu o výměně Zpráv podle zemí (Country‑by‑Country Reporting)**; jde o automatickou výměnu informací o rozdělení zisků a daní nadnárodních skupin mezi státy.  \n  - Cílem je zabránit tomu, „aby zdanitelné zisky plynuly do zemí s nižší mírou zdanění“. Ministr financí Andrej Babiš je v tiskové zprávě citován, že dohoda pomůže eliminovat praxi, kdy „spřízněné subjekty ve vzájemných transakcích upravují ceny tak, aby zdanitelné zisky plynuly do zemí s nižší mírou zdanění“, a že Finanční správa už na národní úrovni vede kontrolní akci, která přinesla **doměření daně přes 170 mil. Kč**. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2016/cesko-se-pripojilo-k-dohode-proti-zneuzi-23817?utm_source=openai))  \n\n- Finanční správa – přehled mezinárodní výměny informací o finančních účtech (globální standard OECD):  \n  - Uvádí, že **29. října 2014 podepsal první místopředseda vlády a ministr financí Andrej Babiš v Berlíně deklaraci**, kterou se ČR připojila k Mnohostranné dohodě o automatické výměně informací o finančních účtech; text označuje tuto dohodu za „významný nástroj v boji proti daňovým únikům“ a součást globálního standardu OECD. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/mezinarodni-spoluprace/mezinarodni-zdanovani-prime-dane/globalni-standard-oecd/mnohostranna-dohoda-o-automaticke-vymene-informaci-o-financnich-uctech?utm_source=openai))  \n\n- Řada dalších dohod o výměně informací v daňových záležitostech (Andorra, Bahamy, Monako) byla vyhlášena nebo vstoupila v účinnost v letech 2014–2016; důvodové zprávy je označují za „další účinný nástroj pro finanční/daňovou správu“ při správném stanovení a výběru daní. ([mfcr.cz](https://www.mfcr.cz/cs/kontrola-a-regulace/legislativa/mezinarodni-spoluprace-v-oblasti-dani/aktuality/2014/dohoda-o-vymene-informaci-v-danovych-zal-18025?utm_source=openai))  \n\n#### c) Dlouhodobější výsledky kontrol převodních cen (přesah do dalších let)\n\n- Pozdější přehled MF / Finanční správy (2021) shrnuje, že mezi roky 2014–2019 provedla Finanční správa **2182 kontrol zaměřených na převodní ceny**, s doměřenou daní z příjmů 3,2 mld. Kč a zvýšením daňového základu o 39 mld. Kč. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2021/financni-sprava-pokracuje-v-kontrolach-p-41560?utm_source=openai))  \n  - Tyto údaje potvrzují, že po roce 2014 (tedy od začátku Babišova mandátu) se kontrola nadnárodních struktur stala systematickou a vedla k významným doměrkům. (Zpráva ale už spadá do období ministryně Schillerové; pro posouzení trendu je však relevantní.)\n\n#### d) Jak to souvisí s tvrzením „zavedl dodaňování nadnárodních společností“?\n\n- Už před rokem 2014 existovala v českém právu pravidla pro transfer pricing i kontrolní činnost vůči nadnárodním skupinám; nelze říci, že **před Babišem žádné dodaňování nadnárodních firem neexistovalo**.  \n- Nicméně v letech 2014–2016 došlo k **viditelnému zintenzivnění a formalizaci** těchto aktivit:\n  - vznikla **celorepubliková kontrolní akce Specializovaného finančního úřadu** zaměřená specificky na **nadnárodní společnosti a převodní ceny**,  \n  - tato akce přinesla **konkrétní doměrky daně** (desítky až stovky milionů Kč ročně),  \n  - ČR se připojila k **mezinárodní dohodě o Country‑by‑Country Reporting** a k dalším dohodám o výměně informací, které jsou zaměřené právě na nadnárodní skupiny a daňové plánování,  \n  - MF samo ve svých tiskových zprávách rámuje tato opatření jako nástroje **boje proti vyvádění zisků do daňových rájů a podhodnocování zdanění u nadnárodních struktur**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2015/specializovany-financni-urad-zahajil?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Částečně podpořeno, s významnou interpretací**\n\n- **Fakta podporují, že za Babišova funkčního období došlo k výraznému posílení a zviditelnění kontrol převodních cen u nadnárodních společností a k doměřování daní v řádu stovek milionů až miliard korun.**  \n- Stejně tak byl za jeho mandátu podepsán a implementován **Country‑by‑Country Reporting** a řada dohod o výměně informací, které prakticky slouží k dodaňování zisků nadnárodních skupin.  \n- Na druhou stranu:\n  - „Dodaňování nadnárodních společností“ **není formálně nový institut**, ale spíše popis výsledku kontrolní činnosti (doměření daně), která existovala i před ním.  \n  - Tvrzení, že to „zavedl“, je tedy spíše **politické zjednodušení** pro „za mého působení jsme výrazně rozjeli a posílili dodaňování nadnárodních struktur“, než přesný právní popis zcela nového institutu.\n\n---\n\n## 3. Přehledné shrnutí dílčích tvrzení\n\n| Dílčí tvrzení                                                                 | Hlavní doklady                                                                                                                   | Předběžné hodnocení |\n|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|\n| (1) Byl jsem ministrem financí                                               | Vládní web: ministr financí 29. 1. 2014 – 24. 5. 2017. ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai))                                                       | Silně podpořeno     |\n| (2) „…který měl přebytek“ (veřejné finance / státní rozpočet)               | Státní rozpočet 2016 přebytek 61,8 mld. Kč; sektor vládních institucí v přebytku 0,7 % HDP (poprvé v historii). ([mf.gov.cz](https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2017/stat-v-roce-2016-hospodaril-s-rekordnim-27109?utm_source=openai)) | Silně podpořeno     |\n| (3) „…který zavedl Daňovou Kobru“                                            | Projekt Daňová Kobra formálně zahájen duben 2014 dohodou ministrů financí a vnitra; Babiš ministrem financí. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2019/danova-kobra-zachranila-statu-uz-temer-11-7-miliardy?utm_source=openai)) | Spíše podpořeno (společná iniciativa) |\n| (4) „…který zavedl kontrolní hlášení“                                        | Zákon č. 360/2014 Sb. zavádí kontrolní hlášení DPH účinné od 1. 1. 2016; návrh MF, v době, kdy byl Babiš ministrem. ([sagit.cz](https://www.sagit.cz/info/sb-anotace-sb14360b?utm_source=openai)) | Silně podpořeno     |\n| (5) „…který zavedl EET“                                                      | Zákon č. 112/2016 Sb., o evidenci tržeb, účinný od 1. 12. 2016; příprava věcného záměru od 2014 na MF pod Babišem. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2016-112?utm_source=openai)) | Silně podpořeno     |\n| (6) „…který zavedl dodaňování nadnárodních společností“                      | Od 2014–2016 zavedena systematická kontrolní akce na převodní ceny u nadnárodních společností (doměrky daně), CbCR dohoda OECD, rozšířená výměna informací. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2015/specializovany-financni-urad-zahajil?utm_source=openai)) | Částečně podpořeno, pojem je vágní a spíše politicky formulovaný |\n\nTato zpráva shrnuje dostupná fakta a zdroje pro každé dílčí tvrzení tak, aby nad nimi mohl lidský fact‑checker učinit závěr o celkové pravdivosti výroku.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-02-07 available from https://www.youtube.com/watch?v=CRryWLn2KSs.\\n\\n\\nThe claim was made by: Andrej Babiš, Předseda vlády ČR, předseda hnutí ANO\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:32:20\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nProsím?\\n00:32:20\\nBára Divišová,moderátorka\\nRozvolníte pravidla?\\n00:32:22\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nProsím vás, hlavní kritérium je zadlužení vůči HDP, jo, a já jsem byl ministr financí, který měl nejlepší výsledky, který měl přebytek, který zavedl daňovou kobru, kontrolní hlášení, EET, dodaňování nadnárodních společností, vybral jsem 600 miliard daní navíc, měli jsme zadlužení 29 %, když jsme odcházeli, jsme byli šestý nejméně zadlužený a stále jsme málo zadlužení. A my potřebujeme investovat, my potřebujeme dostavět ty nemocnice. Takže tady pan Kupka, který lže jak Fiala, ano, předloží rozpočet SFDI, chybí tam 37 miliard, takže my jsme měli říct, zastavíme, nezačneme ten obchvat Břeclavi a Znojma a ty dálnice, nebudeme dělat tu železnici Praha-letiště-Kladno. Ne, co to vykládá ten člověk? My jsme dali peníze na SFDI, tam byla díra 37 miliard, na sociální dávky tam chybělo 17 miliard. Vždyť oni se netrefili v podstatě o 50 miliard minulý rozpočet. Vymýšlí se evropské fondy. Kdo vyjednal ty evropské fondy? Já jsem je vyjednal, 1 000 miliard jsem přinesl, navíc jsem přinesl 42 miliard, tam jsem já seděl, já jsem blokoval Evropskou radu čtyři noci a pět dní. Takže oni neví, o čem to vykládá...\\n00:33:38\\nBára Divišová,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Já jsem byl ministr financí (...) který měl přebytek, který zavedl daňovou kobru, kontrolní hlášení, EET, dodaňování nadnárodních společností.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 405.10 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Většina opatření, která Andrej Babiš připisuje svému působení na Ministerstvu financí, skutečně vznikla za jeho mandátu. Tvrzení o „zavedení dodaňování nadnárodních společností“ ale nadsazuje jeho roli a celý výrok je proto zavádějící.</p>\n\n<p>Výrok Andreje Babiše zaznívá v kontextu obhajoby jeho působení v čele Ministerstva financí, kdy vyjmenovává kroky, které podle něj dokazují jeho úspěšnost. V našem ověření rozlišujeme jednotlivá dílčí tvrzení o konkrétních opatřeních a posuzujeme je samostatně na základě oficiálních údajů státu a dostupných odborných zdrojů.</p>\n\n<p>První dílčí tvrzení zní, že Andrej Babiš byl ministrem financí. Podle jeho oficiálního profilu na <a href=\"https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/\">vládním webu</a> působil jako 1. místopředseda vlády pro ekonomiku a ministr financí od 29. ledna 2014 do 24. května 2017. Tato část výroku je tedy jednoznačně pravdivá.</p>\n\n<p>Druhé tvrzení, že jako ministr financí „měl přebytek“, odkazuje na výsledek hospodaření státu v některém roce jeho mandátu. Z tiskové zprávy Ministerstva financí „Stát v roce 2016 hospodařil s rekordním přebytkem 62 mld. Kč“ dostupné na webu <a href=\"https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2017/stat-v-roce-2016-hospodaril-s-rekordnim-27109\">Ministerstva financí</a> vyplývá, že státní rozpočet v roce 2016 skončil přebytkem 61,8 mld. Kč. Stejný přebytek potvrzují i další ekonomická média, například článek serveru <a href=\"https://www.finance.cz/483680-prebytek-rozpoctu-2016/\">Finance.cz</a>. Ministerstvo financí současně v tiskové zprávě „Česká republika nejlépe hospodařící zemí Evropské unie v roce 2017“ uvádí, že v roce 2016 byl poprvé v historii dosažen přebytek hospodaření sektoru vládních institucí ve výši 0,7 % HDP, jak vyplývá z informací na <a href=\"https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2017/ceska-republika-nejlepe-hospodarici-zemi-30193\">stránkách ministerstva</a>. V roce 2016 byl Babiš stále ministrem financí, i když jiné roky jeho funkčního období skončily deficitem. Tvrzení, že jako ministr financí „měl přebytek“, je tedy z hlediska dosažení přebytkového roku 2016 pravdivé, byť zjednodušuje situaci v ostatních letech.</p>\n\n<p>Třetí tvrzení se týká Daňové Kobry. Podle tiskové zprávy Finanční správy „Daňová Kobra zachránila státu už téměř 11,7 miliardy“ dostupné na webu <a href=\"https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2019/danova-kobra-zachranila-statu-uz-temer-11-7-miliardy\">Finanční správy</a> byl projekt Daňová Kobra formálně zahájen 11. dubna 2014 podpisem dohody o spolupráci mezi tehdejším ministrem financí a ministrem vnitra, následně byl 13. června 2014 podepsán prováděcí protokol. Policie ČR ve zprávě „Daňová ‚Kobra‘ startuje“ na svém <a href=\"https://policie.gov.cz/clanek/danova-kobra-startuje.aspx\">webu</a> popisuje, že Kobra je společný analytický a vyšetřovací tým Policie, Finanční správy a Celní správy. V době vzniku projektu byl Andrej Babiš ministrem financí, a byl jedním ze dvou členů vlády, kteří dohodu podepsali. Je proto oprávněné říci, že Daňová Kobra byla zavedena za jeho působení a s jeho aktivní účastí. Výrok, že ji „zavedl“, však bagatelizuje roli Ministerstva vnitra, Policie i dalších složek; tuto část hodnotíme jako v zásadě pravdivou, ale s určitou mírou zjednodušení.</p>\n\n<p>Čtvrté tvrzení, že zavedl kontrolní hlášení k DPH, se opírá o novelu zákona o dani z přidané hodnoty. Zákon č. 360/2014 Sb., kterým se mění zákon o DPH, byl přijat v roce 2014 a podle právního rozboru publikovaného na portálu <a href=\"https://www.sagit.cz/info/sb-anotace-sb14360b\">Sagit</a> zavedl s účinností od 1. ledna 2016 povinnost plátců DPH podávat kontrolní hlášení. Důvodová zpráva k tomuto zákonu dostupná na odborném portálu <a href=\"https://www.daneprolidi.cz/duvodova-zprava/duvodova-zprava-k-novele-c-360-2014-sb-zakona-o-dani-z-pridane-hodnoty.htm\">Daně pro lidi</a> výslovně uvádí, že jednou z hlavních změn je zavedení kontrolního hlášení jako nástroje proti daňovým podvodům. Finanční správa na své stránce „Kontrolní hlášení DPH“ na webu <a href=\"https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/kontrolni-hlaseni-dph/zakladni-informace\">Finanční správy</a> potvrzuje, že povinnost kontrolního hlášení platí od 1. ledna 2016 a že vychází právě z této novely. Návrh zákona připravilo Ministerstvo financí v době, kdy stál Andrej Babiš v jeho čele, a vláda jej předložila Poslanecké sněmovně. Formálně novelu schválil Parlament a podepsal prezident, nicméně jde o typické vládní opatření z dílny ministerstva. Tvrzení, že Babiš jako ministr financí „zavedl“ kontrolní hlášení, proto hodnotíme jako fakticky pravdivé.</p>\n\n<p>Páté tvrzení, že zavedl elektronickou evidenci tržeb (EET), souvisí se zákonem č. 112/2016 Sb., o evidenci tržeb. Tento zákon, jak uvádí databáze <a href=\"https://www.zakonyprolidi.cz/cs/2016-112\">Zákony pro lidi</a>, nabyl platnosti 13. dubna 2016 a účinnosti 1. prosince 2016, s postupným náběhem podle odvětví. Ministerstvo financí na své stránce věnované zákonu o evidenci tržeb, dostupné na webu <a href=\"https://www.mfcr.cz/cs/legislativa/legislativni-dokumenty/2016/zakon-c-112-2016-sb-26768\">Ministerstva financí</a>, prezentuje tento zákon jako právní základ EET, a Finanční správa na stránce „Evidence tržeb“ na webu <a href=\"https://financnisprava.gov.cz/cs/dane/dane-elektronicky/danovy-portal/evidence-trzeb\">Finanční správy</a> popisuje systém elektronické evidence hotovostních tržeb právě s odkazem na tento předpis. Z tiskové zprávy Ministerstva financí „Příprava elektronické evidence tržeb“ z července 2014, zveřejněné na <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2014/priprava-elektronicke-evidence-trzeb-18364\">webu ministerstva</a>, je zřejmé, že věcný záměr zákona se začal připravovat krátce po nástupu Andreje Babiše do funkce ministra financí. I zde tedy platí, že Babišovo ministerstvo návrh připravilo a prosadilo, finální rozhodnutí však náleželo Parlamentu. Z politického hlediska je EET jednoznačně spojována právě s Andrejem Babišem, a tvrzení, že ji „zavedl“, proto hodnotíme jako věcně pravdivé.</p>\n\n<p>Nejproblematičtější je šesté tvrzení, že jako ministr financí „zavedl dodaňování nadnárodních společností“. Výraz „dodaňování“ zde není přesný právní pojem, ale popis výsledku kontrol, při nichž finanční správa doměřuje daň například kvůli nevhodně nastaveným převodním cenám v rámci nadnárodních koncernů. Už před rokem 2014 měly finanční úřady pravomoci k doměření daně právnickým osobám včetně nadnárodních skupin, takže nelze tvrdit, že by před Babišem žádné „dodaňování“ tohoto typu neexistovalo. Za jeho mandátu však došlo k výraznému posílení a zviditelnění těchto aktivit. Specializovaný finanční úřad podle tiskové zprávy „Specializovaný finanční úřad zahájil celorepublikovou kontrolní akci. Zaměřuje se na převodní ceny u nadnárodních společností“ zveřejněné na webu <a href=\"https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2015/specializovany-financni-urad-zahajil\">Finanční správy</a> v roce 2015 zahájil celorepublikovou kontrolní akci zaměřenou právě na převodní ceny u nadnárodních skupin, jejímž cílem bylo předejít odlivu zisků do zahraničí. Ministerstvo financí v tiskové zprávě „Kontrolní akce zaměřená na převodní ceny zatím přinesla zjištění v podobě doměření daně…“ publikované na <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2015/kontrolni-akce-zamerena-na-prevodni-ceny-23050\">webu ministerstva</a> uvádí, že tato akce vedla k doměření daně v řádu stovek milionů korun. Zároveň se Česká republika v lednu 2016 připojila k Mnohostranné dohodě o výměně zpráv podle zemí (Country‑by‑Country Reporting), jak popisuje tisková zpráva „Česko se připojilo k dohodě proti zneužívání převodních cen u nadnárodních společností“ na <a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2016/cesko-se-pripojilo-k-dohode-proti-zneuzi-23817\">stránkách Ministerstva financí</a>. Tato dohoda umožňuje automatickou výměnu informací o ziscích a daních nadnárodních skupin mezi státy. Na webu <a href=\"https://financnisprava.gov.cz/cs/mezinarodni-spoluprace/mezinarodni-zdanovani-prime-dane/globalni-standard-oecd/mnohostranna-dohoda-o-automaticke-vymene-informaci-o-financnich-uctech\">Finanční správy</a> je dále popsáno, že Andrej Babiš v říjnu 2014 podepsal deklaraci, kterou se ČR připojila k mnohostranné dohodě o automatické výměně informací o finančních účtech, což je další nástroj proti daňovým únikům. Tyto kroky prokazují, že za Babišova působení se dodaňování nadnárodních společností stalo systematičtější a opíralo se o širší mezinárodní výměnu informací. Nelze ale říci, že by samotné „dodaňování nadnárodních společností“ jako jev nebo institut sám zavedl, protože doměřování daní těmto subjektům probíhalo již dříve. Tato část výroku je proto jen částečně podložená a představuje spíše politické zjednodušení typu „za mého působení jsme to začali dělat ve větším rozsahu“.</p>\n\n<p>V souhrnu tedy platí, že Andrej Babiš byl ministrem financí v letech 2014–2017, a za jeho mandátu byl v roce 2016 dosažen přebytek státního rozpočtu i veřejných financí. V tomto období byla zároveň zavedena Daňová Kobra jako společný projekt Ministerstva financí, Ministerstva vnitra, Policie ČR, Finanční správy a Celní správy, novela zákona o DPH zavádějící kontrolní hlášení a zákon o evidenci tržeb, na jejichž přípravě a prosazení se jeho ministerstvo zásadně podílelo. Na druhou stranu tvrzení, že „zavedl dodaňování nadnárodních společností“, přisuzuje Andreji Babišovi vznik praxe, která existovala již před jeho nástupem do funkce, a pouze částečně odráží fakt, že za jeho mandátu se tyto kontroly zintenzivnily a byly podpořeny mezinárodními dohodami. Vzhledem k tomu, že většina dílčích tvrzení je pravdivá, ale poslední část výrazně nadsazuje jeho roli a vytváří dojem, že předtím se nadnárodní společnosti nedodaňovaly, hodnotíme celý výrok jako zavádějící.</p>\n\n<p>Závěrem shrnujeme, že výrok Andreje Babiše obsahuje převážně pravdivá tvrzení o opatřeních přijatých za jeho působení na Ministerstvu financí, avšak zejména v části o „zavedení dodaňování nadnárodních společností“ zkresluje historický vývoj a rozsah jeho osobního podílu. Celkový výrok proto hodnotíme jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_08f4bae812507857006989bdcb360c8196bb0b899ed8ebe987",
+    "created_at": 1770634699.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_08f4bae812507857006989bddc38448196a3d4b95e4947b5c7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be00613c8196b848ecc1812f088e",
+        "action": {
+          "query": "Andrej Babiš ministr financí České republiky od do",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Andrej Babiš ministr financí České republiky od do",
+            "saldo statniho rozpoctu 2016 prebytek 61,8 miliardy",
+            "projekt Danova Kobra vznik 2014 spolecny tym ministerstva financi policie GFR",
+            "kontrolni hlaseni DPH zavedeni zakon 360/2014 Sb.",
+            "elektronicka evidence trzeb zakon 112/2016 Sb. predkladatel ministerstvo financi Andrej Babis"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be049b588196bfd7a7b3a4792a41",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be0c49d48196ad851090eea8f562",
+        "action": {
+          "query": "\"danova kobra\" 2014 ministerstvo financi spolecny tym",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"danova kobra\" 2014 ministerstvo financi spolecny tym",
+            "projekt Kobra danova policie 2014 vznik",
+            "elektronicka evidence trzeb zakon 112/2016 Sb. elektronicka evidence trzeb ministerstvo financi",
+            "112/2016 Sb. o evidenci trzeb",
+            "dodanovani nadnarodnich spolecnosti Andrej Babis domerene dane nadnarodnim korporacim"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be0fd5e8819687174c4c6c7eddda",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be1065a88196beb157d9bf53316a",
+        "action": {
+          "query": "\"dodanovani nadnarodnich spolecnosti\" Andrej Babis",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"dodanovani nadnarodnich spolecnosti\" Andrej Babis",
+            "domerene dane nadnarodnim spolecnostem 2014 2017 Ceska republika danove sprava",
+            "\"dodaňování nadnárodních společností\"",
+            "Financni sprava CR dodanovani nadnarodnich spolecnosti domereni dani 2015 2016"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be1346708196bcff9bd82615931d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be14065c8196af566eb1f6044177",
+        "action": {
+          "query": "\"dodanovani nadnarodnich\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"dodanovani nadnarodnich\"",
+            "\"domerene dane\" \"nadnarodnim\"",
+            "\"domerena dan\" \"nadnarodnim spolecnostem\"",
+            "Finanční správa nadnárodní společnosti doměřila dan"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be16e52481969d94c50f40bd59b3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be1fc6e08196963addb827d44604",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be2238b88196af6921bb67d78bf2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be24cefc81969f5a8e3d232d4e11",
+        "action": {
+          "query": "\"kontrole prevodnich cen\" \"Finanční správa\" 2015",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"kontrole prevodnich cen\" \"Finanční správa\" 2015",
+            "\"nove Samostatne priloze danoveho priznani k prevodnim cenam\"",
+            "\"domereni dane\" \"prevodnich cen\" 2015 \"Ministerstvo financi\"",
+            "\"nadnarodnich spolecnosti\" \"prevodnich cen\" 2015 site:mfcr.cz"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be29a0e481968a571dc89a621555",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be3087648196a0694624ff33f822",
+        "action": {
+          "query": "saldo sektoru vládnich institucí 2016 prebytek 0,7 % HDP Český statisticky urad",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "saldo sektoru vládnich institucí 2016 prebytek 0,7 % HDP Český statisticky urad",
+            "\"Saldo sektoru vládních institucí\" 2016 Česká republika přebytek",
+            "\"nejlepsi vysledky\" statni rozpocet 2016 prebytek 61,8 mld",
+            "ministerstvo financi tiskova zprava \"státní rozpočet skončil v roce 2016 v přebytku 61,8 mld\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be344dcc819691ce634d9028b8c2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be353a98819696194d8e610ef667",
+        "action": {
+          "query": "\"Státní rozpočet České republiky\" 2016 skončil v přebytku 61,8 mld",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Státní rozpočet České republiky\" 2016 skončil v přebytku 61,8 mld",
+            "\"Přebytek státního rozpočtu za rok 2016 činí\"",
+            "\"Státní rozpočet skončil v loňském roce v přebytku\" 2016",
+            "tisková zpráva ministerstva financí přebytek státního rozpočtu 2016 61,8 mld"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be3857888196b02fd4153ad68aba",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be3903608196a69f0d10505c9a5d",
+        "action": {
+          "query": "site:mfcr.cz \"Státní rozpočet České republiky skončil v roce 2016\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "site:mfcr.cz \"Státní rozpočet České republiky skončil v roce 2016\"",
+            "\"Státní rozpočet v roce 2016\" \"61,8\" \"Ministerstvo financí\"",
+            "\"Saldo státního rozpočtu\" \"rok 2016\" \"61,8\"",
+            "\"Pokladní plnění státního rozpočtu\" \"rok 2016\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be3e1b70819681a1e1380e12c859",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be4374248196b1244ce45b7e073b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be4a860c8196a9b87f227b744943",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be50681081968d15739a72f8cf39",
+        "action": {
+          "query": "\"Danova kobra\" \"dohoda o spolupraci\" ministr financí",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Danova kobra\" \"dohoda o spolupraci\" ministr financí",
+            "\"projekt \"Daňová kobra\" byl formálně zahájen\"",
+            "Dohoda o spolupráci, výměně informací a koordinaci Danova kobra 11. dubna 2014",
+            "\"Projekt Daňová kobra\" formálně zahájen v dubnu 2014 podpisem meziresortní dohody"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be57975c8196b8c53657ced7ab78",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be6754188196baa74fc7b3db5a88",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be690878819688b8c567c7c1665e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be6ab88c81968f8922ffd9f0bc2a",
+        "action": {
+          "query": "\"zákon o evidenci tržeb\" 112/2016 Sb. účinnost 1.12.2016",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"zákon o evidenci tržeb\" 112/2016 Sb. účinnost 1.12.2016",
+            "elektronická evidence tržeb začne platit od 1.12.2016",
+            "\"Elektronická evidence tržeb\" \"ministerstvo financí\" 2016 tisková zpráva",
+            "\"Elektronická evidence tržeb\" \"vláda schválila\" návrh zákona"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be71e3a08196a115fcbc8c4f2e6d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be7a1d0481968dcfc1794f08210f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be7ccad08196a75d3956e6d59d7c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be7e5b708196922625f8ebbc9826",
+        "action": {
+          "query": "\"360/2014 Sb.\" \"kontrolni hlaseni\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"360/2014 Sb.\" \"kontrolni hlaseni\"",
+            "\"Zákon č. 360/2014 Sb.\" platnost od",
+            "\"povinnost podávat kontrolní hlášení\" \"novelou č. 360/2014 Sb\"",
+            "\"Zákonem č. 360/2014 Sb. byla s účinností od 1. 1. 2016 zavedena\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be83d8508196a5488fdd66adb47f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989be867d148196a81d2304326ba150",
+        "action": {
+          "query": "\"dodanovani nadnarodnich spolecnosti\" \"Andrej Babis\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"dodanovani nadnarodnich spolecnosti\" \"Andrej Babis\"",
+            "\"dodanovani\" \"nadnarodnich\"",
+            "\"dodanovani\" \"nadnarodnim\"",
+            "\"nadnarodnich korporaci\" \"dodaneni\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989be8a45108196bbc1f9a1a8f381cd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_08f4bae812507857006989bec5fec481969b076604e5f7aa2c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_08f4bae812507857006989bec991d881969168dcdf15002a06",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_08f4bae812507857006989bee987448196ba5ac33ba945c541",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1364,
+                "start_index": 1270,
+                "title": "Andrej Babiš | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai"
+              },
+              {
+                "end_index": 2091,
+                "start_index": 1963,
+                "title": "Stát v roce 2016 hospodařil s rekordním přebytkem 62 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2017/stat-v-roce-2016-hospodaril-s-rekordnim-27109?utm_source=openai"
+              },
+              {
+                "end_index": 2421,
+                "start_index": 2334,
+                "title": "Přebytek státního rozpočtu za rok 2016 činí 61,8 mld. Kč. - Finance.cz",
+                "type": "url_citation",
+                "url": "https://www.finance.cz/483680-prebytek-rozpoctu-2016/?utm_source=openai"
+              },
+              {
+                "end_index": 2614,
+                "start_index": 2520,
+                "title": "Andrej Babiš | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai"
+              },
+              {
+                "end_index": 3077,
+                "start_index": 2938,
+                "title": "Česká republika nejlépe hospodařící zemí Evropské unie v roce 2017 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2017/ceska-republika-nejlepe-hospodarici-zemi-30193?utm_source=openai"
+              },
+              {
+                "end_index": 3406,
+                "start_index": 3246,
+                "title": "Statistici potvrdili loňský přebytek veřejných financí. Činil 0,73 procenta HDP - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/ekonomika-statistici-potvrdili-lonsky-prebytek-verejnych-financi-cinil-073-procenta-hdp-40049406?utm_source=openai"
+              },
+              {
+                "end_index": 3787,
+                "start_index": 3659,
+                "title": "Stát v roce 2016 hospodařil s rekordním přebytkem 62 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2017/stat-v-roce-2016-hospodaril-s-rekordnim-27109?utm_source=openai"
+              },
+              {
+                "end_index": 4860,
+                "start_index": 4766,
+                "title": "Daňová „Kobra“ startuje - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/danova-kobra-startuje.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 5148,
+                "start_index": 5054,
+                "title": "Daňová „Kobra“ startuje - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/danova-kobra-startuje.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 5753,
+                "start_index": 5550,
+                "title": "Daňová Kobra zachránila státu už téměř 11,7 miliardy | Tiskové zprávy 2019 | Tiskové zprávy GFŘ | Pro média | Finanční správa | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2019/danova-kobra-zachranila-statu-uz-temer-11-7-miliardy?utm_source=openai"
+              },
+              {
+                "end_index": 6004,
+                "start_index": 5883,
+                "title": "Daňová kobra zachránila státu už téměř 11,7 miliardy - Procesní modelování",
+                "type": "url_citation",
+                "url": "https://mv.gov.cz/webpm/clanek/danova-kobra-zachranila-statu-uz-temer-11-7-miliardy.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 6327,
+                "start_index": 6198,
+                "title": "Za deset let Daňová kobra uchránila celkem 16 miliard Kč - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/za-deset-let-danova-kobra-uchranila-celkem-16-miliard-kc.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 6588,
+                "start_index": 6494,
+                "title": "Andrej Babiš | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai"
+              },
+              {
+                "end_index": 7671,
+                "start_index": 7591,
+                "title": "360/2014 Sb. Zákon, kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů,...",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2014-360?utm_source=openai"
+              },
+              {
+                "end_index": 8043,
+                "start_index": 7966,
+                "title": "ZÁKON č. 360/2014 Sb. - anotace - Nakladatelství Sagit, a.s.",
+                "type": "url_citation",
+                "url": "https://www.sagit.cz/info/sb-anotace-sb14360b?utm_source=openai"
+              },
+              {
+                "end_index": 8521,
+                "start_index": 8366,
+                "title": "Daně pro lidi – Důvodová zpráva k zákonu č. 360/2014 Sb., kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, a další související zákony",
+                "type": "url_citation",
+                "url": "https://www.daneprolidi.cz/duvodova-zprava/duvodova-zprava-k-novele-c-360-2014-sb-zakona-o-dani-z-pridane-hodnoty.htm?utm_source=openai"
+              },
+              {
+                "end_index": 8873,
+                "start_index": 8736,
+                "title": "Povinnost podávat kontrolní hlášení u daně z přidané hodnoty - Frank Bold Advokáti",
+                "type": "url_citation",
+                "url": "https://www.fbadvokati.cz/cs/clanky/354-povinnost-podavat-kontrolni-hlaseni-u-dane-z-pridane-hodnoty?utm_source=openai"
+              },
+              {
+                "end_index": 9287,
+                "start_index": 9137,
+                "title": "Základní informace | Kontrolní hlášení DPH | Daň z přidané hodnoty | Daně | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/kontrolni-hlaseni-dph/zakladni-informace?utm_source=openai"
+              },
+              {
+                "end_index": 9822,
+                "start_index": 9667,
+                "title": "Daně pro lidi – Důvodová zpráva k zákonu č. 360/2014 Sb., kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, a další související zákony",
+                "type": "url_citation",
+                "url": "https://www.daneprolidi.cz/duvodova-zprava/duvodova-zprava-k-novele-c-360-2014-sb-zakona-o-dani-z-pridane-hodnoty.htm?utm_source=openai"
+              },
+              {
+                "end_index": 10822,
+                "start_index": 10742,
+                "title": "112/2016 Sb. Zákon o evidenci tržeb",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2016-112?utm_source=openai"
+              },
+              {
+                "end_index": 10996,
+                "start_index": 10934,
+                "title": "\n112/2016 Sb. Zákon o evidenci tržeb\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2016-112"
+              },
+              {
+                "end_index": 11329,
+                "start_index": 11210,
+                "title": "Zákon č. 112/2016 Sb. | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/legislativa/legislativni-dokumenty/2016/zakon-c-112-2016-sb-26768?utm_source=openai"
+              },
+              {
+                "end_index": 11754,
+                "start_index": 11625,
+                "title": "Evidence tržeb | Portál MOJE daně | Daně elektronicky | Daně | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/dane/dane-elektronicky/danovy-portal/evidence-trzeb?utm_source=openai"
+              },
+              {
+                "end_index": 12063,
+                "start_index": 11964,
+                "title": "Elektronická evidence tržeb",
+                "type": "url_citation",
+                "url": "https://www.dh.cz/index.php/ekonomika/eet/67-ekonomicka-evidence-trzeb?utm_source=openai"
+              },
+              {
+                "end_index": 12547,
+                "start_index": 12412,
+                "title": "Příprava elektronické evidence tržeb | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2014/priprava-elektronicke-evidence-trzeb-18364?utm_source=openai"
+              },
+              {
+                "end_index": 12846,
+                "start_index": 12752,
+                "title": "Andrej Babiš | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai"
+              },
+              {
+                "end_index": 14700,
+                "start_index": 14513,
+                "title": "Specializovaný finanční úřad zahájil celorepublikovou kontrolní akci. Zaměřuje se na převodní ceny u nadnárodních společností. | Tiskové zprávy 2015 | Tiskové zprávy GFŘ | Pro média | Finanční správa | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2015/specializovany-financni-urad-zahajil?utm_source=openai"
+              },
+              {
+                "end_index": 15464,
+                "start_index": 15325,
+                "title": "Kontrolní akce zaměřená na převodní ceny zatím přinesla zjištění v podobě doměření daně v hodnotě více než 170 mil. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2015/kontrolni-akce-zamerena-na-prevodni-ceny-23050?utm_source=openai"
+              },
+              {
+                "end_index": 15927,
+                "start_index": 15751,
+                "title": "▶ Finanční správa loni doměřila necelou půlmiliardu při kontrole převodních cen — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/financni-sprava-loni-domerila-necelou-pulmiliardu-pri-kontrole-prevodnich-cen-117195?utm_source=openai"
+              },
+              {
+                "end_index": 16924,
+                "start_index": 16785,
+                "title": "Česko se připojilo k dohodě proti zneužívání převodních cen u nadnárodních společností | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2016/cesko-se-pripojilo-k-dohode-proti-zneuzi-23817?utm_source=openai"
+              },
+              {
+                "end_index": 17590,
+                "start_index": 17363,
+                "title": "Mnohostranná dohoda o automatické výměně informací o finančních účtech | Globální standard OECD | Mezinárodní zdaňování - Přímé daně | Mezinárodní spolupráce | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/mezinarodni-spoluprace/mezinarodni-zdanovani-prime-dane/globalni-standard-oecd/mnohostranna-dohoda-o-automaticke-vymene-informaci-o-financnich-uctech?utm_source=openai"
+              },
+              {
+                "end_index": 18051,
+                "start_index": 17866,
+                "title": "Dohoda o výměně informací v daňových záležitostech s Andorrským knížectvím | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/kontrola-a-regulace/legislativa/mezinarodni-spoluprace-v-oblasti-dani/aktuality/2014/dohoda-o-vymene-informaci-v-danovych-zal-18025?utm_source=openai"
+              },
+              {
+                "end_index": 18503,
+                "start_index": 18364,
+                "title": "Finanční správa pokračuje v kontrolách převodních cen | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2021/financni-sprava-pokracuje-v-kontrolach-p-41560?utm_source=openai"
+              },
+              {
+                "end_index": 19935,
+                "start_index": 19748,
+                "title": "Specializovaný finanční úřad zahájil celorepublikovou kontrolní akci. Zaměřuje se na převodní ceny u nadnárodních společností. | Tiskové zprávy 2015 | Tiskové zprávy GFŘ | Pro média | Finanční správa | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2015/specializovany-financni-urad-zahajil?utm_source=openai"
+              },
+              {
+                "end_index": 21556,
+                "start_index": 21462,
+                "title": "Andrej Babiš | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai"
+              },
+              {
+                "end_index": 21955,
+                "start_index": 21827,
+                "title": "Stát v roce 2016 hospodařil s rekordním přebytkem 62 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2017/stat-v-roce-2016-hospodaril-s-rekordnim-27109?utm_source=openai"
+              },
+              {
+                "end_index": 22373,
+                "start_index": 22170,
+                "title": "Daňová Kobra zachránila státu už téměř 11,7 miliardy | Tiskové zprávy 2019 | Tiskové zprávy GFŘ | Pro média | Finanční správa | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2019/danova-kobra-zachranila-statu-uz-temer-11-7-miliardy?utm_source=openai"
+              },
+              {
+                "end_index": 22690,
+                "start_index": 22613,
+                "title": "ZÁKON č. 360/2014 Sb. - anotace - Nakladatelství Sagit, a.s.",
+                "type": "url_citation",
+                "url": "https://www.sagit.cz/info/sb-anotace-sb14360b?utm_source=openai"
+              },
+              {
+                "end_index": 22991,
+                "start_index": 22911,
+                "title": "112/2016 Sb. Zákon o evidenci tržeb",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2016-112?utm_source=openai"
+              },
+              {
+                "end_index": 23440,
+                "start_index": 23253,
+                "title": "Specializovaný finanční úřad zahájil celorepublikovou kontrolní akci. Zaměřuje se na převodní ceny u nadnárodních společností. | Tiskové zprávy 2015 | Tiskové zprávy GFŘ | Pro média | Finanční správa | Finanční správa",
+                "type": "url_citation",
+                "url": "https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2015/specializovany-financni-urad-zahajil?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Co přesně ověřujeme\n\nZ výroku Andreje Babiše bereme k ověření tuto část:\n\n> „Já jsem byl ministr financí (…) který  \n> – měl přebytek,  \n> – zavedl Daňovou kobru,  \n> – [zavedl] kontrolní hlášení,  \n> – [zavedl] EET,  \n> – [zavedl] dodaňování nadnárodních společností.“\n\nRozkládáme ji na dílčí tvrzení:\n\n1. Andrej Babiš byl ministrem financí ČR.  \n2. Jako ministr financí „měl přebytek“ (tj. veřejné rozpočty / státní rozpočet byly v jeho období v přebytku).  \n3. Jako ministr financí „zavedl Daňovou Kobru“.  \n4. Jako ministr financí „zavedl kontrolní hlášení“ k DPH.  \n5. Jako ministr financí „zavedl EET (elektronickou evidenci tržeb)“.  \n6. Jako ministr financí „zavedl dodaňování nadnárodních společností“.\n\nNíže u každého bodu:\n\n- shrnutí, co přesně tvrzení znamená,  \n- primární zdroje (vládní weby, zákony, finanční správa, ČSÚ, případně média),  \n- stručné předběžné hodnocení míry podpory důkazy.\n\n---\n\n## 2. Dílčí tvrzení\n\n### 2.1 „Já jsem byl ministr financí“\n\n**Interpretace:** Babiš tvrdí, že byl ministrem financí ČR (implicitně v období, kdy mluví o uvedených opatřeních).\n\n**Důkazy**\n\n- Oficiální web Vlády ČR (profil Andreje Babiše) uvádí, že byl  \n  „1. místopředseda vlády pro ekonomiku a ministr financí od 29. ledna 2014 do 24. května 2017.“ ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Silně podpořeno** – oficiální vládní zdroj jednoznačně potvrzuje.\n\n---\n\n### 2.2 „…který měl přebytek“\n\n**Interpretace:**\n\n- V kontextu výroku o zadlužení a „nejlepších výsledcích“ lze rozumně chápat, že:\n  - za jeho působení jako ministra financí skončil státní rozpočet (nebo celé veřejné finance) v přebytku.\n\n**Důkazy – státní rozpočet**\n\n- Ministerstvo financí, tisková zpráva „Stát v roce 2016 hospodařil s rekordním přebytkem 62 mld. Kč“ (3. 1. 2017) uvádí:  \n  „Hospodaření státního rozpočtu skončilo na konci roku 2016 **přebytkem ve výši 61,8 mld. Kč**…“ ([mf.gov.cz](https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2017/stat-v-roce-2016-hospodaril-s-rekordnim-27109?utm_source=openai))  \n\n- Stejný přebytek (61,8 mld. Kč) potvrzují i další zdroje (Finance.cz, Lidovky, atd.). Např. Finance.cz:  \n  „Státní rozpočet skončil loni v **přebytku 61,8 miliardy korun**, což je nejlepší výsledek od vzniku samostatné České republiky.“ ([finance.cz](https://www.finance.cz/483680-prebytek-rozpoctu-2016/?utm_source=openai))  \n\n- V době tohoto výsledku byl ministrem financí stále Andrej Babiš (do 24. 5. 2017 – viz výše). ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai))  \n\n**Důkazy – veřejné finance (sektor vládních institucí)**\n\n- Ministerstvo financí (Fiskální výhled, shrnující tisková zpráva „Česká republika nejlépe hospodařící zemí Evropské unie v roce 2017“):  \n  „V roce 2016 byl **poprvé v historii dosažen přebytek hospodaření sektoru vládních institucí, a to ve výši 0,7 % HDP**.“ ([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2017/ceska-republika-nejlepe-hospodarici-zemi-30193?utm_source=openai))  \n\n- ČSÚ i média (Např. Novinky/ČTK) potvrzují, že v roce 2016 měly veřejné finance přebytek kolem 0,7 % HDP a že to byl první přebytek po předchozích letech deficitů. ([novinky.cz](https://www.novinky.cz/clanek/ekonomika-statistici-potvrdili-lonsky-prebytek-verejnych-financi-cinil-073-procenta-hdp-40049406?utm_source=openai))  \n\n**Kontext (ostatní roky jeho funkčního období)**\n\n- Rok 2014 a 2015 skončily ve státním rozpočtu deficitem; přebytek je pouze v roce 2016. To ale stačí pro tvrzení, že „měl přebytek“ – rozumí se, že za jeho působení byl dosažen přebytkový rozpočet. ([mf.gov.cz](https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2017/stat-v-roce-2016-hospodaril-s-rekordnim-27109?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Silně podpořeno** – data MF a ČSÚ jasně ukazují, že v roce 2016 (v průběhu jeho mandátu) skončil jak státní rozpočet, tak sektor vládních institucí v přebytku.\n\n---\n\n### 2.3 „…který zavedl Daňovou Kobru“\n\n**Interpretace:**\n\n- „Zavedl“ zde prakticky znamená: za jeho působení jako ministra financí byl **založen a spuštěn projekt Daňová Kobra**, společný mechanismus Policie ČR, Finanční správy a Celní správy.\n- Neznamená to nutně, že šlo výlučně o jeho osobní iniciativu (projekt je meziresortní).\n\n**Důkazy – vznik a povaha „Daňové Kobry“**\n\n- Policie ČR (zpravodajství 2014 „Daňová ‚Kobra‘ startuje“) k podpisu prováděcího protokolu 13. 6. 2014:  \n  - Dne 13. června 2014 byl podepsán **prováděcí protokol ke koordinační dohodě o spolupráci, výměně informací a koordinaci (tzv. ‚Kobra‘)**, která upřesňuje pravidla spolupráce mezi Policií, Finanční správou a Celní správou a je „pomyslnou tečkou za pracemi před oficiálním spuštěním Kobry“. ([policie.gov.cz](https://policie.gov.cz/clanek/danova-kobra-startuje.aspx?utm_source=openai))  \n  - Text uvádí, že (tehdejší) **ministr financí Andrej Babiš** již dříve označil Kobru za „další krok v našem úsilí v boji proti daňové kriminalitě především v oblasti spotřební daně a DPH“. ([policie.gov.cz](https://policie.gov.cz/clanek/danova-kobra-startuje.aspx?utm_source=openai))  \n\n- Finanční správa ČR (tisková zpráva 2019 „Daňová Kobra zachránila státu už téměř 11,7 miliardy“):  \n  - „Projekt **Daňová Kobra byl formálně zahájen přesně před pěti lety, tedy 11. dubna 2014, kdy tehdejší ministři financí a vnitra uzavřeli Dohodu o spolupráci, výměně informací a koordinaci**. Následně byl 13. června 2014 podepsán prováděcí protokol… Projekt Daňová Kobra tak mohl odstartovat.“ ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2019/danova-kobra-zachranila-statu-uz-temer-11-7-miliardy?utm_source=openai))  \n\n- Podobný popis (11. 4. 2014 – dohoda ministrů financí a vnitra, 13. 6. 2014 prováděcí protokol) uvádí i Ministerstvo vnitra. ([mv.gov.cz](https://mv.gov.cz/webpm/clanek/danova-kobra-zachranila-statu-uz-temer-11-7-miliardy.aspx?utm_source=openai))  \n\n- Shrnutí Policie ČR k 10. výročí projektu: „Projekt ‚Daňová kobra‘ byl v České republice **formálně zahájen v dubnu 2014 podpisem meziresortní dohody mezi ministerstvy vnitra a financí**…“ ([policie.gov.cz](https://policie.gov.cz/clanek/za-deset-let-danova-kobra-uchranila-celkem-16-miliard-kc.aspx?utm_source=openai))  \n\n**Souvislost s Babišem**\n\n- V době uzavření dohody (duben 2014) i podpisu prováděcího protokolu (červen 2014) byl Andrej Babiš ministrem financí (od 29. 1. 2014). ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Spíše podpořeno, s nuancí** – projekt Daňová Kobra byl skutečně založen a spuštěn v roce 2014 na základě dohody **ministrů financí a vnitra**. Babiš jako ministr financí byl jedním ze dvou politických „zakladatelů“ a veřejně ho prezentoval, ale šlo o **společnou meziresortní iniciativu**, nikoli čistě individuální krok.\n\n---\n\n### 2.4 „…který zavedl kontrolní hlášení“\n\n**Interpretace:**\n\n- Tvrzení míří na institut **kontrolního hlášení k DPH**, tj. novou povinnost plátců DPH podávat detailní elektronické hlášení, které umožňuje křížové kontroly a ztěžuje daňové úniky.\n- „Zavedl“ zde fakticky znamená, že během jeho mandátu byla schválena novela zákona o DPH obsahující tento institut a ten začal platit.\n\n**Důkazy – legislativa a účinnost**\n\n- Zákon č. 360/2014 Sb., kterým se mění zákon o DPH:  \n  - Zákon byl vyhlášen ve Sbírce zákonů v částce 143/2014, **platnost od 31. 12. 2014, účinnost od 1. 1. 2015**, s některými ustanoveními účinnými až od 1. 1. 2016. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2014-360?utm_source=openai))  \n\n- Anotace zákona č. 360/2014 Sb. (Sagit):  \n  - V části „Změny, které nabývají účinnosti od roku 2016“ se uvádí:  \n    – „**Zavádí se povinnost podávat správci daně kontrolní hlášení.** Právnické osoby budou kontrolní hlášení podávat měsíčně, fyzické osoby podle jejich zdaňovacího období.“ ([sagit.cz](https://www.sagit.cz/info/sb-anotace-sb14360b?utm_source=openai))  \n\n- Důvodová zpráva k zákonu č. 360/2014 Sb. (portál Daně pro lidi) výslovně uvádí mezi hlavními změnami:  \n  - „Mezi hlavní změny zákona o DPH patří **zavedení kontrolního hlášení**… Toto opatření se zavádí z důvodu zlepšení výběru daní, s cílem zavedení účinného a flexibilního nástroje v boji proti daňovým podvodům.“ ([daneprolidi.cz](https://www.daneprolidi.cz/duvodova-zprava/duvodova-zprava-k-novele-c-360-2014-sb-zakona-o-dani-z-pridane-hodnoty.htm?utm_source=openai))  \n\n- Frank Bold Advokáti (odborný článek, shrnující platnou právní úpravu):  \n  - „Od 1. 1. 2016 jsou plátci DPH povinni podávat tzv. **kontrolní hlášení**. Tento institut byl zaveden **novelou č. 360/2014 Sb.**…“ ([fbadvokati.cz](https://www.fbadvokati.cz/cs/clanky/354-povinnost-podavat-kontrolni-hlaseni-u-dane-z-pridane-hodnoty?utm_source=openai))  \n\n- Finanční správa – „Kontrolní hlášení DPH“ (základní informace):  \n  - Stránka stručně popisuje kontrolní hlášení a odkazuje na novelu č. 360/2014 Sb. a ustanovení §101c–§101k zákona o DPH. Uvádí, že povinnost podat kontrolní hlášení platí od **1. 1. 2016**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane/dan-z-pridane-hodnoty/kontrolni-hlaseni-dph/zakladni-informace?utm_source=openai))  \n\n**Souvislost s Babišem**\n\n- Novelou č. 360/2014 Sb. byla změněna DPH s účinnostmi od 2015 a zejména 2016; kontrolní hlášení má odloženou účinnost od 1. 1. 2016.  \n- V době přípravy a schválení této novely byl Andrej Babiš ministrem financí (od ledna 2014). Zákon byl vládním návrhem vycházejícím z koaliční smlouvy a programového prohlášení vlády (jak uvádí důvodová zpráva). ([daneprolidi.cz](https://www.daneprolidi.cz/duvodova-zprava/duvodova-zprava-k-novele-c-360-2014-sb-zakona-o-dani-z-pridane-hodnoty.htm?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Silně podpořeno (z hlediska doby a působnosti)** – institut kontrolního hlášení byl skutečně **zaveden novelou připravenou Ministerstvem financí a prosazenou v době, kdy byl Babiš ministrem financí**. Formálně jde o rozhodnutí vlády a Parlamentu, ale veřejně je kontrolní hlášení spojováno právě s jeho mandátem.\n\n---\n\n### 2.5 „…který zavedl EET (elektronickou evidenci tržeb)“\n\n**Interpretace:**\n\n- Tvrzení míří na **zákon o evidenci tržeb (tzv. EET)**, který zavedl povinnost on‑line evidovat hotovostní tržby prostřednictvím finanční správy.\n- „Zavedl“ zde znamená, že za jeho působení byl tento zákon přijat a systém spuštěn.\n\n**Důkazy – legislativa a účinnost**\n\n- Zákon č. 112/2016 Sb., o evidenci tržeb:  \n  - Zákony pro lidi uvádějí: „Platnost od 13. 04. 2016, **účinnost od 01. 12. 2016** (s postupným náběhem podle oborů činnosti)“; předmětem úpravy je „**evidence tržeb**“. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2016-112?utm_source=openai))  \n  - §1 zákona definuje, že zákon „upravuje práva, povinnosti a postupy uplatňované **při evidenci tržeb**…“. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2016-112))  \n\n- Ministerstvo financí – stránka k zákonu č. 112/2016 Sb.:  \n  - Stránka MF k zákonu č. 112/2016 Sb. (sekce Daně a cla) označuje předpis jako „**o evidenci tržeb**“ a odkazuje na webový portál EET (etrzby.cz). ([mfcr.cz](https://www.mfcr.cz/cs/legislativa/legislativni-dokumenty/2016/zakon-c-112-2016-sb-26768?utm_source=openai))  \n\n- Finanční správa – „Evidence tržeb“:  \n  - Stránka FS popisuje elektronickou evidenci tržeb jako systém elektronické evidence hotovostních tržeb podnikatelů, opřený o zákon č. 112/2016 Sb. a upozorňuje, že povinnost byla později zrušena k 1. 1. 2023 (to je ale až po dobu Babišova mandátu). ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/dane/dane-elektronicky/danovy-portal/evidence-trzeb?utm_source=openai))  \n\n- SH ČMS (odborný přehled pro spolky) shrnuje:  \n  - „**Elektronická evidence tržeb začne platit od 1. 12. 2016** pro činnost NACE 56 – stravování a pohostinství… a od 1. 3. 2017 pro NACE 47 – maloobchod…“ ([dh.cz](https://www.dh.cz/index.php/ekonomika/eet/67-ekonomicka-evidence-trzeb?utm_source=openai))  \n\n**Důkazy – příprava zákona a role MF**\n\n- Tisková zpráva MF „Příprava elektronické evidence tržeb“ (9. 7. 2014):  \n  - Informuje o panelové diskusi k **věcnému záměru zákona o elektronické evidenci tržeb**, pořádané pod záštitou Svazu obchodu a cestovního ruchu. MF, Finanční správa a další instituce zde jednají o podobě připravovaného zákona. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2014/priprava-elektronicke-evidence-trzeb-18364?utm_source=openai))  \n\n**Souvislost s Babišem**\n\n- Příprava věcného záměru zákona o EET probíhala v roce 2014, kdy byl Babiš ministrem financí; zákon byl schválen 2016 a EET spuštěna 1. 12. 2016 – stále v době jeho mandátu. ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Silně podpořeno (časově i obsahově)** – zákon o evidenci tržeb, tedy EET, byl **připraven Ministerstvem financí a přijat v roce 2016 za Babišova působení**. Formálně jde opět o legislativu schválenou Parlamentem a podepsanou prezidentem, ale v politické i odborné debatě je EET jednoznačně spojována s Andrejem Babišem jako jejím hlavním politickým protagonistou.\n\n---\n\n### 2.6 „…který zavedl dodaňování nadnárodních společností“\n\n**Interpretace:**\n\n- Pojem „dodaňování nadnárodních společností“ není přesný právní termín. V kontextu Babišových jiných výroků a kroků MF z let 2014–2017 se může vztahovat zejména k:\n  - **posílení kontrol převodních cen (transfer pricing)** u nadnárodních skupin a následnému **dodatečnému doměření daně**,  \n  - mezinárodním dohodám o výměně informací a **Country‑by‑Country Reporting** u nadnárodních společností.  \n\n- Posuzujeme tedy, zda za jeho mandátu byly zavedeny/rozšířeny **nové mechanismy a systematické akce**, které vedly k dodatečnému zdanění (doměření daní) nadnárodních skupin.\n\n#### a) Kontrolní akce na převodní ceny u nadnárodních společností\n\n- Finanční správa – tisková zpráva „Specializovaný finanční úřad zahájil celorepublikovou kontrolní akci. Zaměřuje se na převodní ceny u nadnárodních společností.“ (18. 2. 2015):  \n  - Zpráva oznamuje, že Specializovaný finanční úřad zahájil kontrolní akci zaměřenou na **prověření správnosti nastavení převodních cen mezi personálně nebo majetkově spojenými firmami**.  \n  - Cílem je „**předejít úmyslnému či neúmyslnému odlivu zisku z České republiky do zahraničí** prostřednictvím transakcí mezi členy nadnárodních skupin podniků…“. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2015/specializovany-financni-urad-zahajil?utm_source=openai))  \n\n- Ministerstvo financí – tisková zpráva „Kontrolní akce zaměřená na převodní ceny zatím přinesla zjištění v podobě doměření daně v hodnotě více než 170 mil. Kč“ (18. 11. 2015):  \n  - Shrnuje výsledky stejné akce za rok 2015: „dosavadním výsledkem… je **zvýšení základu daně … ve výši téměř 600 mil. Kč**, což znamená **doměření daně** ve výši více než 90 mil. Kč,“ později uvádí souhrnně doměření více než 170 mil. Kč.  \n  - Důvodem je „zamezení rozšířené praxe krácení daňové povinnosti, kdy si spřízněné subjekty ve vzájemných transakcích upravují ceny tak, aby zdanitelné zisky plynuly do zemí s nižší mírou zdanění.“ ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2015/kontrolni-akce-zamerena-na-prevodni-ceny-23050?utm_source=openai))  \n\n- ČT24 (21. 4. 2016) ve zpravodajství o těchto kontrolách uvádí, že Finanční správa „loni doměřila 450 milionů“ na dani z příjmů při kontrolách převodních cen a že „Česko se letos připojilo k mezinárodní dohodě proti zneužívání převodních cen u nadnárodních společností“ (viz níže). ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/financni-sprava-loni-domerila-necelou-pulmiliardu-pri-kontrole-prevodnich-cen-117195?utm_source=openai))  \n\n#### b) Mezinárodní výměna informací a Country‑by‑Country Reporting u MNC\n\n- Ministerstvo financí – „Česko se připojilo k dohodě proti zneužívání převodních cen u nadnárodních společností“ (28. 1. 2016):  \n  - MF informuje, že 27. 1. 2016 podepsalo **Mnohostrannou dohodu o výměně Zpráv podle zemí (Country‑by‑Country Reporting)**; jde o automatickou výměnu informací o rozdělení zisků a daní nadnárodních skupin mezi státy.  \n  - Cílem je zabránit tomu, „aby zdanitelné zisky plynuly do zemí s nižší mírou zdanění“. Ministr financí Andrej Babiš je v tiskové zprávě citován, že dohoda pomůže eliminovat praxi, kdy „spřízněné subjekty ve vzájemných transakcích upravují ceny tak, aby zdanitelné zisky plynuly do zemí s nižší mírou zdanění“, a že Finanční správa už na národní úrovni vede kontrolní akci, která přinesla **doměření daně přes 170 mil. Kč**. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2016/cesko-se-pripojilo-k-dohode-proti-zneuzi-23817?utm_source=openai))  \n\n- Finanční správa – přehled mezinárodní výměny informací o finančních účtech (globální standard OECD):  \n  - Uvádí, že **29. října 2014 podepsal první místopředseda vlády a ministr financí Andrej Babiš v Berlíně deklaraci**, kterou se ČR připojila k Mnohostranné dohodě o automatické výměně informací o finančních účtech; text označuje tuto dohodu za „významný nástroj v boji proti daňovým únikům“ a součást globálního standardu OECD. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/mezinarodni-spoluprace/mezinarodni-zdanovani-prime-dane/globalni-standard-oecd/mnohostranna-dohoda-o-automaticke-vymene-informaci-o-financnich-uctech?utm_source=openai))  \n\n- Řada dalších dohod o výměně informací v daňových záležitostech (Andorra, Bahamy, Monako) byla vyhlášena nebo vstoupila v účinnost v letech 2014–2016; důvodové zprávy je označují za „další účinný nástroj pro finanční/daňovou správu“ při správném stanovení a výběru daní. ([mfcr.cz](https://www.mfcr.cz/cs/kontrola-a-regulace/legislativa/mezinarodni-spoluprace-v-oblasti-dani/aktuality/2014/dohoda-o-vymene-informaci-v-danovych-zal-18025?utm_source=openai))  \n\n#### c) Dlouhodobější výsledky kontrol převodních cen (přesah do dalších let)\n\n- Pozdější přehled MF / Finanční správy (2021) shrnuje, že mezi roky 2014–2019 provedla Finanční správa **2182 kontrol zaměřených na převodní ceny**, s doměřenou daní z příjmů 3,2 mld. Kč a zvýšením daňového základu o 39 mld. Kč. ([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2021/financni-sprava-pokracuje-v-kontrolach-p-41560?utm_source=openai))  \n  - Tyto údaje potvrzují, že po roce 2014 (tedy od začátku Babišova mandátu) se kontrola nadnárodních struktur stala systematickou a vedla k významným doměrkům. (Zpráva ale už spadá do období ministryně Schillerové; pro posouzení trendu je však relevantní.)\n\n#### d) Jak to souvisí s tvrzením „zavedl dodaňování nadnárodních společností“?\n\n- Už před rokem 2014 existovala v českém právu pravidla pro transfer pricing i kontrolní činnost vůči nadnárodním skupinám; nelze říci, že **před Babišem žádné dodaňování nadnárodních firem neexistovalo**.  \n- Nicméně v letech 2014–2016 došlo k **viditelnému zintenzivnění a formalizaci** těchto aktivit:\n  - vznikla **celorepubliková kontrolní akce Specializovaného finančního úřadu** zaměřená specificky na **nadnárodní společnosti a převodní ceny**,  \n  - tato akce přinesla **konkrétní doměrky daně** (desítky až stovky milionů Kč ročně),  \n  - ČR se připojila k **mezinárodní dohodě o Country‑by‑Country Reporting** a k dalším dohodám o výměně informací, které jsou zaměřené právě na nadnárodní skupiny a daňové plánování,  \n  - MF samo ve svých tiskových zprávách rámuje tato opatření jako nástroje **boje proti vyvádění zisků do daňových rájů a podhodnocování zdanění u nadnárodních struktur**. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2015/specializovany-financni-urad-zahajil?utm_source=openai))  \n\n**Předběžné hodnocení:**  \n▶ **Částečně podpořeno, s významnou interpretací**\n\n- **Fakta podporují, že za Babišova funkčního období došlo k výraznému posílení a zviditelnění kontrol převodních cen u nadnárodních společností a k doměřování daní v řádu stovek milionů až miliard korun.**  \n- Stejně tak byl za jeho mandátu podepsán a implementován **Country‑by‑Country Reporting** a řada dohod o výměně informací, které prakticky slouží k dodaňování zisků nadnárodních skupin.  \n- Na druhou stranu:\n  - „Dodaňování nadnárodních společností“ **není formálně nový institut**, ale spíše popis výsledku kontrolní činnosti (doměření daně), která existovala i před ním.  \n  - Tvrzení, že to „zavedl“, je tedy spíše **politické zjednodušení** pro „za mého působení jsme výrazně rozjeli a posílili dodaňování nadnárodních struktur“, než přesný právní popis zcela nového institutu.\n\n---\n\n## 3. Přehledné shrnutí dílčích tvrzení\n\n| Dílčí tvrzení                                                                 | Hlavní doklady                                                                                                                   | Předběžné hodnocení |\n|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|\n| (1) Byl jsem ministrem financí                                               | Vládní web: ministr financí 29. 1. 2014 – 24. 5. 2017. ([vlada.gov.cz](https://vlada.gov.cz/cz/clenove-vlady/andrej-babis-115388/?utm_source=openai))                                                       | Silně podpořeno     |\n| (2) „…který měl přebytek“ (veřejné finance / státní rozpočet)               | Státní rozpočet 2016 přebytek 61,8 mld. Kč; sektor vládních institucí v přebytku 0,7 % HDP (poprvé v historii). ([mf.gov.cz](https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2017/stat-v-roce-2016-hospodaril-s-rekordnim-27109?utm_source=openai)) | Silně podpořeno     |\n| (3) „…který zavedl Daňovou Kobru“                                            | Projekt Daňová Kobra formálně zahájen duben 2014 dohodou ministrů financí a vnitra; Babiš ministrem financí. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2019/danova-kobra-zachranila-statu-uz-temer-11-7-miliardy?utm_source=openai)) | Spíše podpořeno (společná iniciativa) |\n| (4) „…který zavedl kontrolní hlášení“                                        | Zákon č. 360/2014 Sb. zavádí kontrolní hlášení DPH účinné od 1. 1. 2016; návrh MF, v době, kdy byl Babiš ministrem. ([sagit.cz](https://www.sagit.cz/info/sb-anotace-sb14360b?utm_source=openai)) | Silně podpořeno     |\n| (5) „…který zavedl EET“                                                      | Zákon č. 112/2016 Sb., o evidenci tržeb, účinný od 1. 12. 2016; příprava věcného záměru od 2014 na MF pod Babišem. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2016-112?utm_source=openai)) | Silně podpořeno     |\n| (6) „…který zavedl dodaňování nadnárodních společností“                      | Od 2014–2016 zavedena systematická kontrolní akce na převodní ceny u nadnárodních společností (doměrky daně), CbCR dohoda OECD, rozšířená výměna informací. ([financnisprava.gov.cz](https://financnisprava.gov.cz/cs/financni-sprava/media-a-verejnost/tiskove-zpravy-gfr/tiskove-zpravy-2015/specializovany-financni-urad-zahajil?utm_source=openai)) | Částečně podpořeno, pojem je vágní a spíše politicky formulovaný |\n\nTato zpráva shrnuje dostupná fakta a zdroje pro každé dílčí tvrzení tak, aby nad nimi mohl lidský fact‑checker učinit závěr o celkové pravdivosti výroku.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 104362,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 19665,
+      "output_tokens_details": {
+        "reasoning_tokens": 12561
+      },
+      "total_tokens": 124027
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1770635074,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

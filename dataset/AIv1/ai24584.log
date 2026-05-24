@@ -1,0 +1,945 @@
+{
+  "claim_id": "24584",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260209_115155",
+  "source_md": "experiments/gpt5.1_h_20260209_115155/brief_fact_check_id24584.md",
+  "fact_check": "# Fact Check for Statement ID 24584\n\n## Statement\nMěli jsme zadlužení 29 %. Když jsme odcházeli, jsme byli šestí nejméně zadlužení.\n\n---\n## AI Fact Check\n## 1. Rozpad výroku na dílčí tvrzení\n\nZ výroku Andreje Babiše:\n\n> „Měli jsme zadlužení 29 %. Když jsme odcházeli, jsme byli šestí nejméně zadlužení.“\n\nlze vydělit dvě základní, ověřitelné části:\n\n1. **(A)** „Měli jsme zadlužení 29 %.“  \n   – není zřejmé, k *jakému* dluhu (státní dluh vs. dluh sektoru vládních institucí) ani k jakému roku se vztahuje, v předchozí větě však mluví o „zadlužení vůči HDP“ jako hlavním kritériu EU.\n\n2. **(B)** „Když jsme odcházeli, jsme byli šestí nejméně zadlužení.“  \n   – implicitně: při odchodu vlády Andreje Babiše (konec roku 2021) byla Česká republika **6. nejméně zadluženou zemí EU** podle poměru dluhu k HDP.\n\nNíže jsou obě části ověřeny zvlášť, a to pro různé možné interpretace.\n\n---\n\n## 2. Tvrzení A: „Měli jsme zadlužení 29 %.“\n\n### 2.1 Zadlužení sektoru vládních institucí (standard EU, Maastricht)\n\nToto je standardní ukazatel „zadlužení vůči HDP“, který se v EU sleduje (tzv. *general government consolidated gross debt* podle ESA 2010, plnící Maastrichtské kritérium).\n\n**Oficiální údaje ČSÚ (notifikační tabulky deficitu a dluhu)** pro Českou republiku uvádějí:([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai))  \n\n- 2018: 32,1 % HDP  \n- 2019: 30,1 % HDP  \n- 2020: 37,7 % HDP  \n- 2021: 41,9 % HDP (první notifikace, později se číslo v revizích pohybuje okolo 40,7–42,0 %)\n\nStarší notifikace pro roky 2016–2019 uvádějí pro rok 2019 hodnotu 30,21–30,24 % HDP.([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2019-second-notification-data-sent-to-eurostat?utm_source=openai))  \n\n**Závěr k této interpretaci:**\n\n- U *celkového veřejného dluhu (sektoru vládních institucí)* **žádný rok za vlády Andreje Babiše nekleslo zadlužení k HDP na 29 %**.  \n- Nejnižší hodnota před pandemií covidu‑19 byla v roce 2019 kolem **30 % HDP** (cca 30,1 %).([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai))  \n\nPokud tedy pod „zadlužením 29 %“ rozumíme běžně používané **vládní zadlužení v pojetí EU**, je údaj **čísleně nepravdivý** (podhodnocuje skutečnou hodnotu zhruba o 1 procentní bod).\n\n---\n\n### 2.2 „Státní dluh“ (úžeji – centrální vláda, Ministerstvo financí)\n\nMinisterstvo financí sleduje a komentuje vedle vládního dluhu i užší ukazatel **„státní dluh“** (dluh centrální vlády). V tiskové zprávě MF k roku 2019 se uvádí:([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai))  \n\n> „V loňském roce se **státní dluh v poměru k HDP** meziročně snížil z **30,5 % na 29,0 %** a klesá tak už šestým rokem v řadě.“\n\nStejný údaj (29 % HDP v roce 2019) přejímá i sekundární zdroj FinTag s odkazem na Zprávu o řízení státního dluhu za rok 2019.([fintag.cz](https://www.fintag.cz/2020/02/14/statni-dluh-ceske-republiky-loni-klesl-na-29-procent-hdp/?utm_source=openai))  \n\n**Závěr k této interpretaci:**\n\n- Pro **státní dluh (centrální vláda)** skutečně platí, že v roce **2019** představoval **29,0 % HDP**.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai))  \n- Pokud Babiš mluví o „zadlužení 29 %“ a má na mysli *státní dluh k HDP v roce 2019*, je **číselně v souladu** s údaji Ministerstva financí.\n\n### 2.3 Hodnocení dílčího tvrzení A\n\n- V kontextu rozhovoru mluví Babiš o **„zadlužení vůči HDP“ jako *hlavním kritériu*** (tedy běžně chápaném jako maastrichtský dluh sektoru vládních institucí). Pro tento ukazatel je hodnota **29 % nesprávná** – nejnižší byla cca 30 % HDP v roce 2019.([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai))  \n- Pokud ale připustíme benevolentnější interpretaci, že měl na mysli **státní dluh** a **rok 2019**, pak číselně odpovídá údajům MF (29,0 % HDP).([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai))  \n\nZ hlediska standardního evropského ukazatele zadlužení je tedy tvrzení „měli jsme zadlužení 29 %“ **nepřesné / zavádějící**, ale **existuje užší ukazatel (státní dluh), pro který číslo 29 % v roce 2019 sedí**.\n\n---\n\n## 3. Tvrzení B: „Když jsme odcházeli, jsme byli šestí nejméně zadlužení.“\n\n### 3.1 Časový kontext: „když jsme odcházeli“\n\n- Andrej Babiš byl předsedou vlády ČR v letech **2017–2021**.([vlada.gov.cz](https://vlada.gov.cz/cz/vlada/clenove-vlady/premier/zivotopis/andrej-babis-223989/?utm_source=openai))  \n- Druhá Babišova vláda byla nahrazena vládou Petra Fialy dne **17. prosince 2021**.([brnodaily.com](https://brnodaily.com/2025/12/09/news/politics/babis-to-be-appointed-pm-for-a-second-term-four-years-after-leaving-office/?utm_source=openai))  \n\nJe tedy přirozené interpretovat „když jsme odcházeli“ jako **stav zadlužení za rok 2021** (resp. data za konec roku 2021, která jsou použita v notifikačních tabulkách a statistice EU).\n\n### 3.2 Výše českého dluhu v roce 2021\n\nJak výše uvedeno, v **notifikačních tabulkách ČSÚ pro rok 2021** je pro Českou republiku uvedeno:([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai))  \n\n- **„General government consolidated gross debt as % of GDP“ – 2021: 41,9 % HDP**  \n  (pozdější revize se mírně liší, ale statistiky EU pro rok 2021 pracují s hodnotou 42 % – viz dále).\n\nTato hodnota je v souladu i s řadou sekundárních agregátorů, které data ČSÚ/Eurostatu přejímají (Take-profit.org: 41,9 % pro rok 2021; FXEmpire: 41,9 % atd.).([take-profit.org](https://take-profit.org/en/statistics/government-debt-to-gdp/czech-republic/?utm_source=openai))  \n\n### 3.3 Postavení ČR mezi státy EU v roce 2021 (dluh/HDP)\n\nPro ověření tvrzení o **šesté nejnižší zadluženosti** je třeba znát **hodnoty dluhu k HDP pro všechny státy EU v roce 2021**.\n\n#### 3.3.1 Oficiální tabulka EU (Macroeconomic Scoreboard 2021, CSO/Eurostat)\n\nIrský statistický úřad (CSO) zveřejňuje v rámci **Macroeconomic Scoreboard 2021 – Headline Indicators** tabulku *„GG Debt (% GDP)“*, která přebírá oficiální data **Eurostatu** pro všechny členské státy EU za rok **2021** (ukazatel sdg_17_40 – *General government gross debt*). V tabulce je uvedeno:\n\n> GG Debt (% GDP), 2021  \n> Estonia 17.6  \n> Bulgaria 23.9  \n> Luxembourg 24.5  \n> Sweden 36.3  \n> Denmark 36.6  \n> **Czechia 42.0**  \n> Latvia 43.6  \n> Lithuania 43.7  \n> Romania 48.9  \n> Netherlands 52.4  \n> Poland 53.8  \n> Ireland ( % of GDP ) 55.38  \n> … až po Řecko 194.5 % atd.([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n\nZ doprovodného textu vyplývá, že jde o **srovnání všech členských států EU**; CSO výslovně uvádí, že Irsko „je 12. nejméně zadluženým státem EU“ při dluhu 55,4 % HDP, což potvrzuje, že tabulka skutečně řadí všechny státy EU.([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n\nSeřadíme‑li státy EU podle této tabulky **vzestupně podle dluhu k HDP v roce 2021**, dostaneme:\n\n1. **Estonsko** – 17,6 %  \n2. **Bulharsko** – 23,9 %  \n3. **Lucembursko** – 24,5 %  \n4. **Švédsko** – 36,3 %  \n5. **Dánsko** – 36,6 %  \n6. **Česko** – **42,0 %**  \n7. Lotyšsko – 43,6 %  \n8. Litva – 43,7 %  \n9. Rumunsko – 48,9 %  \n10. Nizozemsko – 52,4 %  \n11. Polsko – 53,8 %  \n12. Irsko – 55,4 %  \n… až po Řecko 194,5 %.\n\n**Z tohoto oficiálního přehledu jasně vyplývá, že v roce 2021 byla Česká republika šestou nejméně zadluženou zemí EU podle poměru vládního dluhu k HDP.**([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n\n#### 3.3.2 Shodná externí sumarizace (AALEP, další zdroje)\n\nStejný pořádek a velmi podobné hodnoty pro rok 2021 uvádí například i Asociace akreditovaných public policy advokátů při EU (AALEP), která v článku „Government Debt to GDP“ (červen 2022) cituje:([aalep.eu](https://aalep.eu/government-debt-gdp))  \n\n- Nejnižší zadlužení: Estonsko 18,1; Bulharsko 21,4; Lucembursko 24,4; Dánsko 36,7; Švédsko 37,7;  \n- **6. místo: „Czech Republic: 41.9“**; dále Litva, Lotyšsko, Rumunsko, Nizozemsko, Polsko atd.\n\nHodnoty i pořadí odpovídají oficiálním eurostatovým údajům, pouze se liší nepatrně zaokrouhlením (41,9 vs. 42,0).\n\nDalší texty (např. komentáře NKÚ a ekonomů) opakovaně zmiňují, že ČR zůstává „jednou z nejméně zadlužených zemí EU“, i když zároveň v roce 2021 patřila k nejrychleji se zadlužujícím.([nku.cz](https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021%3A-rekordni-schodek-statniho-rozpoctu--nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/))  \n\n### 3.4 Hodnocení dílčího tvrzení B\n\n- Podle oficiálních dat Eurostatu (prostřednictvím Macroeconomic Scoreboard 2021) měla ČR v roce 2021 **6. nejnižší poměr vládního dluhu k HDP v celé EU**.([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n- To je přesně období, kdy Babišova vláda končila (prosinec 2021).([brnodaily.com](https://brnodaily.com/2025/12/09/news/politics/babis-to-be-appointed-pm-for-a-second-term-four-years-after-leaving-office/?utm_source=openai))  \n\nDílčí tvrzení **„když jsme odcházeli, byli jsme šestí nejméně zadlužení“ je tedy v běžně používaném významu (vládní dluh/HDP v rámci EU) fakticky správné.**\n\n---\n\n## 4. Celkové zhodnocení výroku\n\n### Tvrzení A – „Měli jsme zadlužení 29 %.“\n\n- **Pro standardní ukazatel EU (zadlužení sektoru vládních institucí / HDP):**  \n  - Nejnižší hodnota před covidem byla cca **30 % HDP v roce 2019**, nikoli 29 %.([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai))  \n  - V tomto smyslu je číslo **29 % nepřesné**, podhodnocuje skutečné zadlužení.\n- **Pro užší ukazatel Ministerstva financí – „státní dluh/HDP“:**  \n  - V roce **2019** skutečně **státní dluh klesl z 30,5 % na 29,0 % HDP**.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai))  \n\n> **Hodnocení:**  \n> – V kontextu, kde Babiš mluví o „zadlužení vůči HDP“ jako *hlavním kritériu EU*, je použití 29 % **matoucí a neodpovídá ukazateli vládního dluhu**.  \n> – Pokud připustíme, že měl na mysli **užší státní dluh v roce 2019**, je číslo **fakticky správné**, ale není zřejmé z formulace ani z kontextu (mluví totiž bezprostředně o maastrichtském kritériu).\n\n### Tvrzení B – „Když jsme odcházeli, jsme byli šestí nejméně zadlužení.“\n\n- Eurostat/CSO data pro rok **2021** ukazují, že **Česko mělo 6. nejnižší vládní dluh k HDP v EU**.([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n- To odpovídá okamžiku, kdy Babišova vláda v prosinci 2021 skončila.([brnodaily.com](https://brnodaily.com/2025/12/09/news/politics/babis-to-be-appointed-pm-for-a-second-term-four-years-after-leaving-office/?utm_source=openai))  \n\n> **Hodnocení:**  \n> – Tvrzení o **6. nejnižším zadlužení při odchodu vlády** je **podle dostupných dat přesné** (pokud se rozumí poměr vládního dluhu k HDP v rámci EU).\n\n---\n\n## 5. Shrnutí pro fact‑checkera\n\n- **Číselná hodnota „29 %“** neodpovídá **vládnímu dluhu k HDP**, který Babiš v téže pasáži zmiňuje jako hlavní (evropské) kritérium; v tomto významu je tedy výrok **nepravdivý / zkreslující**.  \n- Stejná hodnota **29 %** ovšem **odpovídá státnímu dluhu k HDP v roce 2019** podle Ministerstva financí, takže při benevolentním výkladu (a ignorování toho, že mluví o maastrichtském ukazateli) je číslo **možné obhájit**, ale je to jiný ukazatel a jiný rok, než by z kontextu vyplývalo.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai))  \n- **Pořadí „šestí nejméně zadlužení“** v roce **2021** je podle oficiálních eurostatových dat **přesné**: Česká republika měla 6. nejnižší poměr vládního dluhu k HDP mezi členskými státy EU.([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n\nTento podrobný rozpis umožňuje případně hodnotit celou větu jako kombinaci **přesného tvrzení o pořadí v EU** a **nepřesného či zavádějícího tvrzení o konkrétní výši zadlužení (29 %)**.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-02-07 available from https://www.youtube.com/watch?v=CRryWLn2KSs.\\n\\n\\nThe claim was made by: Andrej Babiš, Předseda vlády ČR, předseda hnutí ANO\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:32:20\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nProsím?\\n00:32:20\\nBára Divišová,moderátorka\\nRozvolníte pravidla?\\n00:32:22\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nProsím vás, hlavní kritérium je zadlužení vůči HDP, jo, a já jsem byl ministr financí, který měl nejlepší výsledky, který měl přebytek, který zavedl daňovou kobru, kontrolní hlášení, EET, dodaňování nadnárodních společností, vybral jsem 600 miliard daní navíc, měli jsme zadlužení 29 %, když jsme odcházeli, jsme byli šestý nejméně zadlužený a stále jsme málo zadlužení. A my potřebujeme investovat, my potřebujeme dostavět ty nemocnice. Takže tady pan Kupka, který lže jak Fiala, ano, předloží rozpočet SFDI, chybí tam 37 miliard, takže my jsme měli říct, zastavíme, nezačneme ten obchvat Břeclavi a Znojma a ty dálnice, nebudeme dělat tu železnici Praha-letiště-Kladno. Ne, co to vykládá ten člověk? My jsme dali peníze na SFDI, tam byla díra 37 miliard, na sociální dávky tam chybělo 17 miliard. Vždyť oni se netrefili v podstatě o 50 miliard minulý rozpočet. Vymýšlí se evropské fondy. Kdo vyjednal ty evropské fondy? Já jsem je vyjednal, 1 000 miliard jsem přinesl, navíc jsem přinesl 42 miliard, tam jsem já seděl, já jsem blokoval Evropskou radu čtyři noci a pět dní. Takže oni neví, o čem to vykládá...\\n00:33:38\\nBára Divišová,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Měli jsme zadlužení 29 %. Když jsme odcházeli, jsme byli šestí nejméně zadlužení.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 347.51 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Andrej Babiš správně uvádí, že při odchodu jeho vlády byla ČR šestou nejméně zadluženou zemí EU. Číslo 29 % ale odpovídá jen užšímu ukazateli státního dluhu, nikoli celkovému vládnímu zadlužení. Výrok proto hodnotíme jako zavádějící.</p>\n\n<p>Výrok zazněl v kontextu, kdy Andrej Babiš srovnává zadlužení České republiky s ostatními státy Evropské unie a mluví o zadlužení vůči HDP jako o hlavním kritériu, podle kterého EU hodnotí fiskální disciplínu. V době jeho vlády, která trvala v letech 2017–2021, byl předsedou vlády kabinetu vedeného hnutím ANO, jak uvádí i oficiální životopis na stránkách <a href=\"https://vlada.gov.cz/cz/vlada/clenove-vlady/premier/zivotopis/andrej-babis-223989/\">Úřadu vlády</a>. V tomto rámci pronesl i slova o „zadlužení 29 %“ a o tom, že při odchodu vlády byla ČR „šestá nejméně zadlužená“.</p>\n\n<p>Ve výroku lze rozlišit dvě samostatná faktická tvrzení. První dílčí tvrzení zní: <i>„Měli jsme zadlužení 29 %.“</i> Druhé dílčí tvrzení zní: <i>„Když jsme odcházeli, jsme byli šestí nejméně zadlužení.“</i> Níže obě části posuzujeme zvlášť.</p>\n\n<p>U prvního tvrzení je klíčové, co přesně má být oním „zadlužením 29 %“. V evropském kontextu se jako základní používá ukazatel dluhu sektoru vládních institucí k HDP podle metodiky ESA 2010, na který navazuje maastrichtské kritérium. Český statistický úřad v tzv. notifikačních tabulkách vládního deficitu a dluhu uvádí, že dluh sektoru vládních institucí v ČR činil v roce 2018 32,1 % HDP, v roce 2019 30,1 % HDP, v roce 2020 37,7 % HDP a v roce 2021 41,9 % HDP, jak je uvedeno v publikaci <a href=\"https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat\">Notification of government deficit and debt 2021</a>. Pro rok 2019 starší notifikace uvádí hodnotu přibližně 30,2 % HDP, viz materiál <a href=\"https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2019-second-notification-data-sent-to-eurostat\">Notification of government deficit and debt 2019</a>. Ani v jednom roce tedy vládní dluh v tomto standardním evropském pojetí neklesl na 29 % HDP, nejnižší hodnota byla zhruba 30 % v roce 2019. Pokud bychom „zadlužení 29 %“ chápali jako tento maastrichtský ukazatel, je číslo fakticky nesprávné a zadlužení podhodnocuje.</p>\n\n<p>Vedle celkového vládního dluhu však existuje užší ukazatel „státní dluh“, tedy dluh centrální vlády, který sleduje a komentuje Ministerstvo financí. V tiskové zprávě Ministerstva financí k vývoji státního dluhu za rok 2019 se výslovně uvádí, že <i>„státní dluh v poměru k HDP […] se meziročně snížil z 30,5 % na 29,0 %“</i>, jak stojí v textu <a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562\">„Státní dluh klesá v poměru k HDP už šestým rokem v řadě“</a>. Toto číslo 29 % tedy přesně odpovídá poměru státního dluhu k HDP v roce 2019, ovšem nikoli celkovému dluhu všech vládních institucí, který sleduje Eurostat a o němž Babiš v jiné části výroku mluví jako o hlavním kritériu EU.</p>\n\n<p>První dílčí tvrzení můžeme shrnout tak, že v běžně používaném evropském smyslu „zadlužení vůči HDP“ (vládní dluh sektoru vládních institucí) není údaj 29 % správný, protože reálné zadlužení bylo přibližně o jeden procentní bod vyšší. Pokud však připustíme, že Babiš měl na mysli úžeji definovaný státní dluh a konkrétně rok 2019, číslo 29 % je v souladu s daty Ministerstva financí. Způsob, jakým je výrok formulován, ale tuto jemnější definici neoznačuje, a v kontextu debaty o maastrichtském kritériu tak číslo působí zavádějícím dojmem.</p>\n\n<p>Druhé dílčí tvrzení, že při odchodu vlády byla Česká republika „šestá nejméně zadlužená“, souvisí s koncem Babišovy vlády v roce 2021. Jak vyplývá z uvedeného životopisu na stránkách <a href=\"https://vlada.gov.cz/cz/vlada/clenove-vlady/premier/zivotopis/andrej-babis-223989/\">Úřadu vlády</a>, druhá Babišova vláda skončila v prosinci 2021. Pro posouzení tvrzení je proto rozhodující zadlužení v roce 2021 v porovnání s ostatními státy EU.</p>\n\n<p>Oficiální srovnání vládních dluhů v EU za rok 2021 přináší tzv. Macroeconomic Scoreboard 2021, který na svých stránkách publikuje irský statistický úřad <a href=\"https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/\">CSO</a> a který vychází z dat Eurostatu. V tabulce ukazatele „GG Debt (% GDP)“ pro rok 2021 je uvedeno, že Estonsko mělo vládní dluh ve výši 17,6 % HDP, Bulharsko 23,9 %, Lucembursko 24,5 %, Švédsko 36,3 %, Dánsko 36,6 % a Česká republika 42,0 % HDP. Dále následují například Lotyšsko, Litva či Rumunsko s vyššími hodnotami dluhu. Z doprovodného textu CSO vyplývá, že tato tabulka pokrývá všechny členské státy EU a slouží k jejich srovnání podle zadlužení. Při seřazení států podle velikosti dluhu k HDP tak Česká republika skutečně zaujímá šesté místo od nejnižšího dluhu. Stejné pořadí a velmi podobné hodnoty uvádí i souhrnný přehled Asociace akreditovaných public policy advokátů při EU, kde je ČR s dluhem 41,9 % HDP označena jako šestá nejméně zadlužená země, viz článek <a href=\"https://aalep.eu/government-debt-gdp\">Government Debt to GDP</a>.</p>\n\n<p>Druhé dílčí tvrzení, že při odchodu Babišovy vlády byla Česká republika „šestá nejméně zadlužená“ země EU při srovnání vládního dluhu k HDP, tedy odpovídá oficiálním evropským statistikám a hodnotíme je jako fakticky správné.</p>\n\n<p>Celkově výrok Andreje Babiše kombinuje přesné tvrzení o relativně nízkém zadlužení ČR v rámci EU při odchodu jeho vlády s nepřesnou číselnou hodnotou „29 %“, která neodpovídá standardně sledovanému vládnímu dluhu, ale jen užšímu ukazateli státního dluhu za rok 2019, aniž by to bylo ve výroku jasně řečeno. Jako celek tak výrok vytváří dojem nižšího zadlužení, než jaké odpovídá hlavnímu evropskému ukazateli, i když pořadí ČR mezi zeměmi EU popisuje správně. Z těchto důvodů hodnotíme prověřovaný výrok jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0a3f4f716ba3776a006989c1f0ee28819097ee4f003f1e3da6",
+    "created_at": 1770635761.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0a3f4f716ba3776a006989c20323f48190939ea856ce6bda56",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c20cc0f8819089601b95c9047be9",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c20d4b348190a84295dff255307d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c20d76cc8190b759be7eb0269c88",
+        "action": {
+          "query": "Czech Republic general government gross debt % of GDP 2021 Eurostat",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Czech Republic general government gross debt % of GDP 2021 Eurostat",
+            "Eurostat \"General government gross debt\" % of GDP 2021 Czechia",
+            "zadluzeni vlady CR 2021 % HDP vlada Babis",
+            "vlada Andreje Babise konec prosinec 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c20f58cc81908c8b73b70d476811",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2120b1881909ec43da5dd50fb24",
+        "action": {
+          "query": "Notification of government deficit and debt 2019 2020 Czech statistical office 2016 2019 government debt as % of GDP",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Notification of government deficit and debt 2019 2020 Czech statistical office 2016 2019 government debt as % of GDP",
+            "\"Notification of government deficit and debt\" 2019 site:csu.gov.cz",
+            "general government consolidated gross debt as % of GDP 2013 2019 Czech Republic Eurostat",
+            "vlada Andreje Babise nastup 2017 prosinec 2017 2018"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2144e308190932556d35ef53e4f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2170f34819090f304ba72676716",
+        "action": {
+          "query": "\"General government gross debt\" 2021 % of GDP EU Member States table",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"General government gross debt\" 2021 % of GDP EU Member States table",
+            "Eurostat government debt 2021 \"/general-government-gross-debt\" 2021",
+            "EU Member States general government gross debt 2021 Czechia 6th lowest",
+            "2021 government debt as a percentage of GDP by country eurostat 2021Q4"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c21936648190b44af8706cb1cb50",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c219c7b08190b40b02b51cb5c9c9",
+        "action": {
+          "query": "\"General government gross debt\" \"2021\" \"Eurostat\" \"% of GDP\" \"2021\" table by Member State",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"General government gross debt\" \"2021\" \"Eurostat\" \"% of GDP\" \"2021\" table by Member State",
+            "\"Government debt\" \"2021\" \"% of GDP\" \"Eurostat\" \"Statistics Explained\"",
+            "\"General government gross debt\" \"Czechia\" \"2021\" 42.0",
+            "2021Q4 general government gross debt EU member states Eurostat"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c21c17408190a9f181f4c25ec212",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c21d23ac81908088c462d14daeaa",
+        "action": {
+          "query": "\"gov_10dd_edpt1\" \"Czechia\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"gov_10dd_edpt1\" \"Czechia\"",
+            "\"Government finance statistics\" \"general government gross debt\" \"gov_10dd_edpt1\"",
+            "\"general government gross debt\" \"gov_10dd\" \"Eurostat data\"",
+            "eurostat data browser general government gross debt % of GDP annual 2021 EU"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2218f9c8190978d7334c571706a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c22770008190986fb721c10f6456",
+        "action": {
+          "query": "\"gov_10dd_edpt1\" 2021 \"PC_GDP\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"gov_10dd_edpt1\" 2021 \"PC_GDP\"",
+            "\"gov_10dd_edpt\" \"SDMX\"",
+            "SDMX gov_10dd_edpt Eurostat 2021 PC_GDP",
+            "gov_10dd_edpt1 general government gross debt % of GDP 2021 sdmx-json"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c229b6788190b51f3d3a69af19e7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c22a822c8190a4bded2435eaa5b7",
+        "action": {
+          "query": "\"Ceská republika\" \"šestá nejméně zadlužená\" \"EU\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Ceská republika\" \"šestá nejméně zadlužená\" \"EU\"",
+            "\"pátá nejméně zadlužená\" \"EU\" \"Ceská republika\"",
+            "\"nejmene zadluzenych zemi EU\" \"Ceská republika\"",
+            "\"zadlužení vlád\" \"Ceská republika\" \"mezi nejméně zadlužené\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c22d61808190b1d4c1b237d500e8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c232258c81909a6c96db0565f7d4",
+        "action": {
+          "query": "\"General government gross debt\" 2021 42.0 \"Czech Republic\" eurostat tradingeconomics 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"General government gross debt\" 2021 42.0 \"Czech Republic\" eurostat tradingeconomics 2021",
+            "\"Czech Republic Government Debt to GDP\" 2021 42.00 2021 tradingeconomics",
+            "\"Government Debt to GDP\" \"Czech Republic\" 2021",
+            "\"EU countries by government debt to GDP 2021\" ranking"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2369c888190b13f93c95dae2d9b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c23ce1f08190b2ecf23c806e750b",
+        "action": {
+          "query": "\"gov_10dd_edpt\" \"TSV\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"gov_10dd_edpt\" \"TSV\"",
+            "\"gov_10dd_edpt1?time\"",
+            "\"general government gross debt\" dataset code \"gov_10dd\"",
+            "\"sdg_17_40\" \"government gross debt\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2401bd0819080940156ad54ccf6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c244627081908b0fbae169ef6707",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c245aaa48190832c132612033e91",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2486a1081908537afb13fbedbed",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c24b32908190bd782bae1ef76dbe",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c24f1a8881908ab2b2ccb3e1d30c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c251a1e8819087b045b908ef398c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c252ac3c81908adbe9406a01cdd3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c25434948190a43d3c7e9720f06e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c258b9008190987f0e212c2f426c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c25a56d4819085bf9288f4d3d188",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c25aee148190842a21da1d38d26d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c25d9cd88190850e116312467080",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c260f4708190b9b418ce837f7ba8",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c26221588190a63928fe53dedbb9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c26316b0819081ed36fca4c5e1f5",
+        "action": {
+          "query": "\"At the end of 2021\" \"general government gross debt\" \"Eurostat\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"At the end of 2021\" \"general government gross debt\" \"Eurostat\"",
+            "\"2021\" \"general government gross debt\" \"18.1\" \"Estonia\"",
+            "\"Estonia 18.1\" \"Bulgaria 21.4\" \"Luxembourg 24.4\" \"general government gross debt\"",
+            "\"Czech Republic 41.9\" \"general government gross debt\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2660f3881909d2a4e1e2c1d5c03",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c27635e08190a628b0f0b2d18806",
+        "action": {
+          "query": "\"Estonia\" 18.1 \"public debt\" \"Bulgaria\" 21.4 \"Luxembourg\" 24.4",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Estonia\" 18.1 \"public debt\" \"Bulgaria\" 21.4 \"Luxembourg\" 24.4",
+            "\"Czech Republic\" 41.9 \"debt to GDP\" \"Estonia\" 18.1",
+            "\"Estonia: 18.1\" \"Bulgaria: 21.4\" \"Luxembourg: 24.4\" \"Denmark: 36.7\"",
+            "\"Estonia 18.1\" \"Bulgaria 21.4\" \"Luxembourg 24.4\" \"Czech\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c27a6ce88190a5295ed188c5c434",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c27ff2c48190b186d91a1b0c0099",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Member State"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2869e808190b8afa86705dc6f90",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c288f50c8190bedae15470a6ae78",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c28e5b1481909e82228443651f25",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2915d44819087abbbd8ed21671b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c29633308190ac31cc3bba8ffc36",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c29ac1e08190b15140a74f11cde0",
+        "action": {
+          "query": "\"Government debt to GDP\" \"Europe\" \"2021\" \"Czech Republic\" 41.9",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Government debt to GDP\" \"Europe\" \"2021\" \"Czech Republic\" 41.9",
+            "\"government debt\" \"Czech\" 41.9 2021 \"Eurostat\"",
+            "\"Czech Republic\" \"41.9 %\" \"debt\" 2021",
+            "\"Czechia\" \"41.9%\" \"general government\" \"debt\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2a2b1a48190956eff513d9f7c55",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2a8910c8190b5da86d9b02551ca",
+        "action": {
+          "query": "\"Public debt\" \"European Union\" \"Member state\" \"2021\" \"as % of GDP\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Public debt\" \"European Union\" \"Member state\" \"2021\" \"as % of GDP\"",
+            "\"Member state\" \"Public debt\" 2021 \"Estonia\" 18.1 \"Bulgaria\" 23.8",
+            "\"Public debt (as % of GDP)\" \"Member State\" 2021 2022 2023",
+            "\"Public finance (with limits according to the Maastricht criterion)\" 2021 2022 2023"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2ac53d881909d021bd3e0be3c19",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2adeff08190b4d5ab5af2b5b8a4",
+        "action": {
+          "query": "\"General government debt\" \"EU\" 2021 table by country",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"General government debt\" \"EU\" 2021 table by country",
+            "\"government debt to GDP\" \"EU\" 2021 \"Eurostat\"",
+            "\"public debt\" 2021 \"as % of GDP\" \"EU27\"",
+            "\"Comparative table\" \"public debt\" \"2021\" \"Eurostat\" \"EU Member States\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2b1e20481908ac255b3d3243fd7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2b4267c8190ba3b597eb406e033",
+        "action": {
+          "query": "\"šesté nejméně zadlužené\" \"země\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"šesté nejméně zadlužené\" \"země\"",
+            "\"6. nejméně zadlužená\" \"Česko\"",
+            "\"Ceská republika\" \"6. nejméně zadluženou\" \"zadlužen\"",
+            "\"šestým nejméně zadluženým\" \"Ceská republika\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2ba51ac8190b07a7e52eb57762f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2ca1d34819088b4ab95cada92a9",
+        "action": {
+          "query": "\"Public debt\" \"as % of GDP\" \"Country\" \"2021\" \"Eurostat\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Public debt\" \"as % of GDP\" \"Country\" \"2021\" \"Eurostat\"",
+            "\"2021\" \"gross debt\" \"% of GDP\" \"EU27\" \"Estonia\" 18.1",
+            "\"2021\" \"general government debt\" \"as a percentage of GDP\" \"Estonia\" 18.1",
+            "\"List of European Union member states by public debt\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2ce68a88190860efa3d8c1af2f4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2d9d45c8190b724031393a9ffe8",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2db676c8190964e05b72fe8bdab",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2dbe0c88190b6bb53d318c89c9c",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Government Debt"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2de33108190a566c4a942711560",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2e8bbe08190a8478f67af8d013b",
+        "action": {
+          "query": "\"Zpráva o řízení státního dluhu České republiky v roce 2019\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Zpráva o řízení státního dluhu České republiky v roce 2019\"",
+            "\"státní dluh\" 2019 29,0 % HDP",
+            "\"V loňském roce se státní dluh v poměru k HDP meziročně snížil z 30,5 % na 29,0 %\"",
+            "\"statni dluh\" \"29,0 %\" \"HDP\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2eec3388190818e2aa23bce043a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0a3f4f716ba3776a006989c2f61a28819081c454677a2ce6dc",
+        "action": {
+          "query": "Andrej Babiš prime minister of the Czech Republic term ended 17 December 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Andrej Babiš prime minister of the Czech Republic term ended 17 December 2021",
+            "\"Andrej Babiš\" předseda vlády 2017 2021",
+            "jmenovani Petr Fiala prezident Zeman 28. 11. 2021 premiér",
+            "Andrej Babis vlada konec prosinec 2021 vláda Petra Fialy jmenování"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a3f4f716ba3776a006989c2faeb9c819080d85b60bce9ad5a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0a3f4f716ba3776a006989c31af0c48190b1012efaeb945aa9",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1267,
+                "start_index": 1112,
+                "title": "Notification of government deficit and debt - 2021 (First notification, data sent to Eurostat) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai"
+              },
+              {
+                "end_index": 1669,
+                "start_index": 1513,
+                "title": "Notification of government deficit and debt - 2019 (Second notification, data sent to Eurostat) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2019-second-notification-data-sent-to-eurostat?utm_source=openai"
+              },
+              {
+                "end_index": 2087,
+                "start_index": 1932,
+                "title": "Notification of government deficit and debt - 2021 (First notification, data sent to Eurostat) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai"
+              },
+              {
+                "end_index": 2640,
+                "start_index": 2511,
+                "title": "Státní dluh klesá v poměru k HDP už šestý rok po sobě | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai"
+              },
+              {
+                "end_index": 3022,
+                "start_index": 2899,
+                "title": "Státní dluh České republiky loni klesl na 29 procent HDP - fintag.cz",
+                "type": "url_citation",
+                "url": "https://www.fintag.cz/2020/02/14/statni-dluh-ceske-republiky-loni-klesl-na-29-procent-hdp/?utm_source=openai"
+              },
+              {
+                "end_index": 3290,
+                "start_index": 3161,
+                "title": "Státní dluh klesá v poměru k HDP už šestý rok po sobě | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai"
+              },
+              {
+                "end_index": 3877,
+                "start_index": 3722,
+                "title": "Notification of government deficit and debt - 2021 (First notification, data sent to Eurostat) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai"
+              },
+              {
+                "end_index": 4154,
+                "start_index": 4025,
+                "title": "Státní dluh klesá v poměru k HDP už šestý rok po sobě | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai"
+              },
+              {
+                "end_index": 4676,
+                "start_index": 4558,
+                "title": "Andrej Babiš | Vláda České republiky",
+                "type": "url_citation",
+                "url": "https://vlada.gov.cz/cz/vlada/clenove-vlady/premier/zivotopis/andrej-babis-223989/?utm_source=openai"
+              },
+              {
+                "end_index": 4921,
+                "start_index": 4762,
+                "title": "Babis Appointed PM For A Second Term, Four Years After Leaving Office – Brno Daily",
+                "type": "url_citation",
+                "url": "https://brnodaily.com/2025/12/09/news/politics/babis-to-be-appointed-pm-for-a-second-term-four-years-after-leaving-office/?utm_source=openai"
+              },
+              {
+                "end_index": 5403,
+                "start_index": 5248,
+                "title": "Notification of government deficit and debt - 2021 (First notification, data sent to Eurostat) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai"
+              },
+              {
+                "end_index": 5867,
+                "start_index": 5752,
+                "title": "Czech Republic External & Government Debt to GDP 2025-2026 | Take-profit.org",
+                "type": "url_citation",
+                "url": "https://take-profit.org/en/statistics/government-debt-to-gdp/czech-republic/?utm_source=openai"
+              },
+              {
+                "end_index": 6819,
+                "start_index": 6719,
+                "title": "Headline Indicators  Macroeconomic Scoreboard 2021 - Central Statistics Office",
+                "type": "url_citation",
+                "url": "https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/"
+              },
+              {
+                "end_index": 7147,
+                "start_index": 7047,
+                "title": "Headline Indicators  Macroeconomic Scoreboard 2021 - Central Statistics Office",
+                "type": "url_citation",
+                "url": "https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/"
+              },
+              {
+                "end_index": 7824,
+                "start_index": 7724,
+                "title": "Headline Indicators  Macroeconomic Scoreboard 2021 - Central Statistics Office",
+                "type": "url_citation",
+                "url": "https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/"
+              },
+              {
+                "end_index": 8132,
+                "start_index": 8082,
+                "title": "GOVERNMENT DEBT TO GDP | Association of Accredited Public Policy Advocates to the European Union",
+                "type": "url_citation",
+                "url": "https://aalep.eu/government-debt-gdp"
+              },
+              {
+                "end_index": 8837,
+                "start_index": 8630,
+                "title": "Hospodaření ČR v roce 2021: rekordní schodek státního rozpočtu, nejrychleji se zadlužující země v EU a ekonomický růst jeden z nejnižších | NKÚ",
+                "type": "url_citation",
+                "url": "https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021%3A-rekordni-schodek-statniho-rozpoctu--nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/"
+              },
+              {
+                "end_index": 9133,
+                "start_index": 9033,
+                "title": "Headline Indicators  Macroeconomic Scoreboard 2021 - Central Statistics Office",
+                "type": "url_citation",
+                "url": "https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/"
+              },
+              {
+                "end_index": 9361,
+                "start_index": 9202,
+                "title": "Babis Appointed PM For A Second Term, Four Years After Leaving Office – Brno Daily",
+                "type": "url_citation",
+                "url": "https://brnodaily.com/2025/12/09/news/politics/babis-to-be-appointed-pm-for-a-second-term-four-years-after-leaving-office/?utm_source=openai"
+              },
+              {
+                "end_index": 9923,
+                "start_index": 9768,
+                "title": "Notification of government deficit and debt - 2021 (First notification, data sent to Eurostat) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai"
+              },
+              {
+                "end_index": 10277,
+                "start_index": 10148,
+                "title": "Státní dluh klesá v poměru k HDP už šestý rok po sobě | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai"
+              },
+              {
+                "end_index": 10928,
+                "start_index": 10828,
+                "title": "Headline Indicators  Macroeconomic Scoreboard 2021 - Central Statistics Office",
+                "type": "url_citation",
+                "url": "https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/"
+              },
+              {
+                "end_index": 11158,
+                "start_index": 10999,
+                "title": "Babis Appointed PM For A Second Term, Four Years After Leaving Office – Brno Daily",
+                "type": "url_citation",
+                "url": "https://brnodaily.com/2025/12/09/news/politics/babis-to-be-appointed-pm-for-a-second-term-four-years-after-leaving-office/?utm_source=openai"
+              },
+              {
+                "end_index": 11983,
+                "start_index": 11854,
+                "title": "Státní dluh klesá v poměru k HDP už šestý rok po sobě | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai"
+              },
+              {
+                "end_index": 12276,
+                "start_index": 12176,
+                "title": "Headline Indicators  Macroeconomic Scoreboard 2021 - Central Statistics Office",
+                "type": "url_citation",
+                "url": "https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/"
+              }
+            ],
+            "text": "## 1. Rozpad výroku na dílčí tvrzení\n\nZ výroku Andreje Babiše:\n\n> „Měli jsme zadlužení 29 %. Když jsme odcházeli, jsme byli šestí nejméně zadlužení.“\n\nlze vydělit dvě základní, ověřitelné části:\n\n1. **(A)** „Měli jsme zadlužení 29 %.“  \n   – není zřejmé, k *jakému* dluhu (státní dluh vs. dluh sektoru vládních institucí) ani k jakému roku se vztahuje, v předchozí větě však mluví o „zadlužení vůči HDP“ jako hlavním kritériu EU.\n\n2. **(B)** „Když jsme odcházeli, jsme byli šestí nejméně zadlužení.“  \n   – implicitně: při odchodu vlády Andreje Babiše (konec roku 2021) byla Česká republika **6. nejméně zadluženou zemí EU** podle poměru dluhu k HDP.\n\nNíže jsou obě části ověřeny zvlášť, a to pro různé možné interpretace.\n\n---\n\n## 2. Tvrzení A: „Měli jsme zadlužení 29 %.“\n\n### 2.1 Zadlužení sektoru vládních institucí (standard EU, Maastricht)\n\nToto je standardní ukazatel „zadlužení vůči HDP“, který se v EU sleduje (tzv. *general government consolidated gross debt* podle ESA 2010, plnící Maastrichtské kritérium).\n\n**Oficiální údaje ČSÚ (notifikační tabulky deficitu a dluhu)** pro Českou republiku uvádějí:([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai))  \n\n- 2018: 32,1 % HDP  \n- 2019: 30,1 % HDP  \n- 2020: 37,7 % HDP  \n- 2021: 41,9 % HDP (první notifikace, později se číslo v revizích pohybuje okolo 40,7–42,0 %)\n\nStarší notifikace pro roky 2016–2019 uvádějí pro rok 2019 hodnotu 30,21–30,24 % HDP.([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2019-second-notification-data-sent-to-eurostat?utm_source=openai))  \n\n**Závěr k této interpretaci:**\n\n- U *celkového veřejného dluhu (sektoru vládních institucí)* **žádný rok za vlády Andreje Babiše nekleslo zadlužení k HDP na 29 %**.  \n- Nejnižší hodnota před pandemií covidu‑19 byla v roce 2019 kolem **30 % HDP** (cca 30,1 %).([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai))  \n\nPokud tedy pod „zadlužením 29 %“ rozumíme běžně používané **vládní zadlužení v pojetí EU**, je údaj **čísleně nepravdivý** (podhodnocuje skutečnou hodnotu zhruba o 1 procentní bod).\n\n---\n\n### 2.2 „Státní dluh“ (úžeji – centrální vláda, Ministerstvo financí)\n\nMinisterstvo financí sleduje a komentuje vedle vládního dluhu i užší ukazatel **„státní dluh“** (dluh centrální vlády). V tiskové zprávě MF k roku 2019 se uvádí:([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai))  \n\n> „V loňském roce se **státní dluh v poměru k HDP** meziročně snížil z **30,5 % na 29,0 %** a klesá tak už šestým rokem v řadě.“\n\nStejný údaj (29 % HDP v roce 2019) přejímá i sekundární zdroj FinTag s odkazem na Zprávu o řízení státního dluhu za rok 2019.([fintag.cz](https://www.fintag.cz/2020/02/14/statni-dluh-ceske-republiky-loni-klesl-na-29-procent-hdp/?utm_source=openai))  \n\n**Závěr k této interpretaci:**\n\n- Pro **státní dluh (centrální vláda)** skutečně platí, že v roce **2019** představoval **29,0 % HDP**.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai))  \n- Pokud Babiš mluví o „zadlužení 29 %“ a má na mysli *státní dluh k HDP v roce 2019*, je **číselně v souladu** s údaji Ministerstva financí.\n\n### 2.3 Hodnocení dílčího tvrzení A\n\n- V kontextu rozhovoru mluví Babiš o **„zadlužení vůči HDP“ jako *hlavním kritériu*** (tedy běžně chápaném jako maastrichtský dluh sektoru vládních institucí). Pro tento ukazatel je hodnota **29 % nesprávná** – nejnižší byla cca 30 % HDP v roce 2019.([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai))  \n- Pokud ale připustíme benevolentnější interpretaci, že měl na mysli **státní dluh** a **rok 2019**, pak číselně odpovídá údajům MF (29,0 % HDP).([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai))  \n\nZ hlediska standardního evropského ukazatele zadlužení je tedy tvrzení „měli jsme zadlužení 29 %“ **nepřesné / zavádějící**, ale **existuje užší ukazatel (státní dluh), pro který číslo 29 % v roce 2019 sedí**.\n\n---\n\n## 3. Tvrzení B: „Když jsme odcházeli, jsme byli šestí nejméně zadlužení.“\n\n### 3.1 Časový kontext: „když jsme odcházeli“\n\n- Andrej Babiš byl předsedou vlády ČR v letech **2017–2021**.([vlada.gov.cz](https://vlada.gov.cz/cz/vlada/clenove-vlady/premier/zivotopis/andrej-babis-223989/?utm_source=openai))  \n- Druhá Babišova vláda byla nahrazena vládou Petra Fialy dne **17. prosince 2021**.([brnodaily.com](https://brnodaily.com/2025/12/09/news/politics/babis-to-be-appointed-pm-for-a-second-term-four-years-after-leaving-office/?utm_source=openai))  \n\nJe tedy přirozené interpretovat „když jsme odcházeli“ jako **stav zadlužení za rok 2021** (resp. data za konec roku 2021, která jsou použita v notifikačních tabulkách a statistice EU).\n\n### 3.2 Výše českého dluhu v roce 2021\n\nJak výše uvedeno, v **notifikačních tabulkách ČSÚ pro rok 2021** je pro Českou republiku uvedeno:([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai))  \n\n- **„General government consolidated gross debt as % of GDP“ – 2021: 41,9 % HDP**  \n  (pozdější revize se mírně liší, ale statistiky EU pro rok 2021 pracují s hodnotou 42 % – viz dále).\n\nTato hodnota je v souladu i s řadou sekundárních agregátorů, které data ČSÚ/Eurostatu přejímají (Take-profit.org: 41,9 % pro rok 2021; FXEmpire: 41,9 % atd.).([take-profit.org](https://take-profit.org/en/statistics/government-debt-to-gdp/czech-republic/?utm_source=openai))  \n\n### 3.3 Postavení ČR mezi státy EU v roce 2021 (dluh/HDP)\n\nPro ověření tvrzení o **šesté nejnižší zadluženosti** je třeba znát **hodnoty dluhu k HDP pro všechny státy EU v roce 2021**.\n\n#### 3.3.1 Oficiální tabulka EU (Macroeconomic Scoreboard 2021, CSO/Eurostat)\n\nIrský statistický úřad (CSO) zveřejňuje v rámci **Macroeconomic Scoreboard 2021 – Headline Indicators** tabulku *„GG Debt (% GDP)“*, která přebírá oficiální data **Eurostatu** pro všechny členské státy EU za rok **2021** (ukazatel sdg_17_40 – *General government gross debt*). V tabulce je uvedeno:\n\n> GG Debt (% GDP), 2021  \n> Estonia 17.6  \n> Bulgaria 23.9  \n> Luxembourg 24.5  \n> Sweden 36.3  \n> Denmark 36.6  \n> **Czechia 42.0**  \n> Latvia 43.6  \n> Lithuania 43.7  \n> Romania 48.9  \n> Netherlands 52.4  \n> Poland 53.8  \n> Ireland ( % of GDP ) 55.38  \n> … až po Řecko 194.5 % atd.([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n\nZ doprovodného textu vyplývá, že jde o **srovnání všech členských států EU**; CSO výslovně uvádí, že Irsko „je 12. nejméně zadluženým státem EU“ při dluhu 55,4 % HDP, což potvrzuje, že tabulka skutečně řadí všechny státy EU.([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n\nSeřadíme‑li státy EU podle této tabulky **vzestupně podle dluhu k HDP v roce 2021**, dostaneme:\n\n1. **Estonsko** – 17,6 %  \n2. **Bulharsko** – 23,9 %  \n3. **Lucembursko** – 24,5 %  \n4. **Švédsko** – 36,3 %  \n5. **Dánsko** – 36,6 %  \n6. **Česko** – **42,0 %**  \n7. Lotyšsko – 43,6 %  \n8. Litva – 43,7 %  \n9. Rumunsko – 48,9 %  \n10. Nizozemsko – 52,4 %  \n11. Polsko – 53,8 %  \n12. Irsko – 55,4 %  \n… až po Řecko 194,5 %.\n\n**Z tohoto oficiálního přehledu jasně vyplývá, že v roce 2021 byla Česká republika šestou nejméně zadluženou zemí EU podle poměru vládního dluhu k HDP.**([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n\n#### 3.3.2 Shodná externí sumarizace (AALEP, další zdroje)\n\nStejný pořádek a velmi podobné hodnoty pro rok 2021 uvádí například i Asociace akreditovaných public policy advokátů při EU (AALEP), která v článku „Government Debt to GDP“ (červen 2022) cituje:([aalep.eu](https://aalep.eu/government-debt-gdp))  \n\n- Nejnižší zadlužení: Estonsko 18,1; Bulharsko 21,4; Lucembursko 24,4; Dánsko 36,7; Švédsko 37,7;  \n- **6. místo: „Czech Republic: 41.9“**; dále Litva, Lotyšsko, Rumunsko, Nizozemsko, Polsko atd.\n\nHodnoty i pořadí odpovídají oficiálním eurostatovým údajům, pouze se liší nepatrně zaokrouhlením (41,9 vs. 42,0).\n\nDalší texty (např. komentáře NKÚ a ekonomů) opakovaně zmiňují, že ČR zůstává „jednou z nejméně zadlužených zemí EU“, i když zároveň v roce 2021 patřila k nejrychleji se zadlužujícím.([nku.cz](https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021%3A-rekordni-schodek-statniho-rozpoctu--nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/))  \n\n### 3.4 Hodnocení dílčího tvrzení B\n\n- Podle oficiálních dat Eurostatu (prostřednictvím Macroeconomic Scoreboard 2021) měla ČR v roce 2021 **6. nejnižší poměr vládního dluhu k HDP v celé EU**.([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n- To je přesně období, kdy Babišova vláda končila (prosinec 2021).([brnodaily.com](https://brnodaily.com/2025/12/09/news/politics/babis-to-be-appointed-pm-for-a-second-term-four-years-after-leaving-office/?utm_source=openai))  \n\nDílčí tvrzení **„když jsme odcházeli, byli jsme šestí nejméně zadlužení“ je tedy v běžně používaném významu (vládní dluh/HDP v rámci EU) fakticky správné.**\n\n---\n\n## 4. Celkové zhodnocení výroku\n\n### Tvrzení A – „Měli jsme zadlužení 29 %.“\n\n- **Pro standardní ukazatel EU (zadlužení sektoru vládních institucí / HDP):**  \n  - Nejnižší hodnota před covidem byla cca **30 % HDP v roce 2019**, nikoli 29 %.([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2021-first-notification-data-sent-to-eurostat?utm_source=openai))  \n  - V tomto smyslu je číslo **29 % nepřesné**, podhodnocuje skutečné zadlužení.\n- **Pro užší ukazatel Ministerstva financí – „státní dluh/HDP“:**  \n  - V roce **2019** skutečně **státní dluh klesl z 30,5 % na 29,0 % HDP**.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai))  \n\n> **Hodnocení:**  \n> – V kontextu, kde Babiš mluví o „zadlužení vůči HDP“ jako *hlavním kritériu EU*, je použití 29 % **matoucí a neodpovídá ukazateli vládního dluhu**.  \n> – Pokud připustíme, že měl na mysli **užší státní dluh v roce 2019**, je číslo **fakticky správné**, ale není zřejmé z formulace ani z kontextu (mluví totiž bezprostředně o maastrichtském kritériu).\n\n### Tvrzení B – „Když jsme odcházeli, jsme byli šestí nejméně zadlužení.“\n\n- Eurostat/CSO data pro rok **2021** ukazují, že **Česko mělo 6. nejnižší vládní dluh k HDP v EU**.([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n- To odpovídá okamžiku, kdy Babišova vláda v prosinci 2021 skončila.([brnodaily.com](https://brnodaily.com/2025/12/09/news/politics/babis-to-be-appointed-pm-for-a-second-term-four-years-after-leaving-office/?utm_source=openai))  \n\n> **Hodnocení:**  \n> – Tvrzení o **6. nejnižším zadlužení při odchodu vlády** je **podle dostupných dat přesné** (pokud se rozumí poměr vládního dluhu k HDP v rámci EU).\n\n---\n\n## 5. Shrnutí pro fact‑checkera\n\n- **Číselná hodnota „29 %“** neodpovídá **vládnímu dluhu k HDP**, který Babiš v téže pasáži zmiňuje jako hlavní (evropské) kritérium; v tomto významu je tedy výrok **nepravdivý / zkreslující**.  \n- Stejná hodnota **29 %** ovšem **odpovídá státnímu dluhu k HDP v roce 2019** podle Ministerstva financí, takže při benevolentním výkladu (a ignorování toho, že mluví o maastrichtském ukazateli) je číslo **možné obhájit**, ale je to jiný ukazatel a jiný rok, než by z kontextu vyplývalo.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/statni-dluh-klesa-v-pomeru-k-hdp-uz-sest-37562?utm_source=openai))  \n- **Pořadí „šestí nejméně zadlužení“** v roce **2021** je podle oficiálních eurostatových dat **přesné**: Česká republika měla 6. nejnižší poměr vládního dluhu k HDP mezi členskými státy EU.([cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-macip/macroeconomicscoreboard2021/hi/))  \n\nTento podrobný rozpis umožňuje případně hodnotit celou větu jako kombinaci **přesného tvrzení o pořadí v EU** a **nepřesného či zavádějícího tvrzení o konkrétní výši zadlužení (29 %)**.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 111078,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 17882,
+      "output_tokens_details": {
+        "reasoning_tokens": 14005
+      },
+      "total_tokens": 128960
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1770636103,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

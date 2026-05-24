@@ -1,0 +1,908 @@
+{
+  "claim_id": "24577",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260209_115155",
+  "source_md": "experiments/gpt5.1_h_20260209_115155/brief_fact_check_id24577.md",
+  "fact_check": "# Fact Check for Statement ID 24577\n\n## Statement\nVybral jsem 600 miliard daní navíc.\n\n---\n## AI Fact Check\n## 1. Identifikace výroku a možných výkladů\n\nSporovaný výrok:  \n\n> „Vybral jsem 600 miliard daní navíc.“\n\nV bezprostředním kontextu Andrej Babiš mluví o svém působení jako ministr financí (2014–2017) a vyjmenovává opatření (daňová kobra, kontrolní hlášení, EET, doměřování nadnárodních společností). Přirozený výklad je:\n\n- **Číselná část**: Za dobu, kdy byl ministrem financí (případně za období 2014–červenec 2017), stát vybral na daních a odvodech zhruba o 600 mld Kč více než předtím, typicky ve srovnání s rokem 2013.  \n- **Příčinná část (implicitní)**: Těch ~600 mld je výsledkem „jeho“ opatření na lepší výběr daní (ne jen hospodářského růstu).\n\nNíže jsou podklady k oběma částem.\n\n---\n\n## 2. Data o výběru daní a odvodů (daňové příjmy + pojistné)\n\nPro srovnávání výroků politiků i MF se běžně používá ukazatel **„daňové příjmy včetně pojistného na sociální zabezpečení a pojistného na veřejné zdravotní pojištění“** na úrovni **celých veřejných rozpočtů** (tzv. „celostátní daně“). Tento ukazatel MF výslovně uvádí v tabulkách jako:\n\n> „Daňové příjmy (vč. poj.na SZ a poj. na VZP)“\n\n### 2.1 Celoroční data 2013–2017\n\nMinisterstvo financí v tiskové zprávě k roku 2015 uvádí pro roky 2013–2015 tyto celostátní hodnoty:([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541))  \n\n- 2013: **1 294,94 mld Kč**  \n- 2014: **1 340,49 mld Kč** (meziroční nárůst +45,55 mld)  \n- 2015: **1 412,68 mld Kč** (meziroční nárůst +72,19 mld)\n\nV tiskové zprávě k výsledkům roku 2018, která obsahuje srovnávací Tab. 2 pro roky 2016–2018, jsou uvedeny:([kurzy.cz](https://www.kurzy.cz/tema/5110833.html))  \n\n- 2016: **1 496,40 mld Kč**  \n- 2017: **1 616,00 mld Kč** (meziroční nárůst +119,60 mld)\n\nSouhrnná tabulka (zaokrouhleno):\n\n| Rok | Daňové příjmy vč. pojistného (mld Kč) |\n|-----|---------------------------------------|\n| 2013 | 1 294,94 |\n| 2014 | 1 340,49 |\n| 2015 | 1 412,68 |\n| 2016 | 1 496,40 |\n| 2017 | 1 616,00 |\n\nZ jednoduchého porovnání:\n\n- **Rozdíl 2017 vs 2013**: 1 616,00 − 1 294,94 ≈ **+321 mld Kč** (roční nárůst).  \n\nTěch 600 mld tedy **nemůže znamenat jen rozdíl mezi dvěma konkrétními roky**, musí jít o nějakou kumulaci přes více let.\n\n### 2.2 Údaje za leden–červenec 2013–2017\n\nPro období „do července“ lze využít měsíční pokladní plnění se stejným ukazatelem.\n\n**Rok 2013 a 2014 – leden–červenec**\n\nTisková zpráva MF „Plnění státního rozpočtu ČR za leden až červenec 2014“ obsahuje v Tab. 1 a 2 tyto údaje za **leden–červenec 2013 a 2014** (celostátní daně):([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678))  \n\n- Daňové příjmy (bez pojistného) 2013: 422,24 mld Kč  \n- Pojistné na sociální zabezpečení 2013: 214,83 mld Kč  \n- Pojistné na veřejné zdravotní pojištění 2013: 99,36 mld Kč  \n\nSoučet = **736,43 mld Kč** za leden–červenec 2013.\n\nStejná tabulka pro 2014:\n\n- Daňové příjmy 2014 (leden–červenec): 455,61 mld Kč  \n- Pojistné na SZ 2014: 220,79 mld Kč  \n- Pojistné na VZP 2014: 103,19 mld Kč  \n\nSoučet = **779,59 mld Kč** za leden–červenec 2014.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678))  \n\n**Roky 2015–2017 – leden–červenec**\n\nTisková zpráva MF „Přebytek rozpočtu dosáhl na konci července rekordních 75,6 mld. Kč“ (2016) uvádí v Tab. 2 pro roky 2014–2016 tyto údaje „Daňové příjmy (vč. poj.na SZ a poj. na VZP)“ za leden–červenec:([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2016/prebytek-rozpoctu-dosahl-na-konci-cerven-25713))  \n\n- 2014: 779,59 mld Kč (viz výše)  \n- 2015: 805,34 mld Kč  \n- 2016: 859,32 mld Kč  \n\nTisková zpráva „Státní rozpočet je po sedmi měsících v přebytku 25 mld. Kč“ (2017) navazuje a uvádí v Tab. 2 pro roky 2015–2017:([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2017/statni-rozpocet-je-po-sedmi-mesicich-v-p-29314))  \n\n- 2015: 805,34 mld Kč (shodné číslo)  \n- 2016: 859,33 mld Kč (zaokrouhlení oproti 859,32)  \n- 2017: 929,09 mld Kč  \n\nSouhrnná tabulka pro **leden–červenec**:\n\n| Rok | Daňové příjmy vč. pojistného, leden–červenec (mld Kč) |\n|-----|--------------------------------------------------------|\n| 2013 | 736,43 *(z komponent v tabulkách MF)* |\n| 2014 | 779,59 |\n| 2015 | 805,34 |\n| 2016 | 859,32 |\n| 2017 | 929,09 |\n\nRozdíl pro stejné období:\n\n- **2017 (leden–červenec) vs 2013 (leden–červenec)**: 929,09 − 736,43 ≈ **+193 mld Kč**.\n\n---\n\n## 3. Výpočet „daní navíc“ podle různých metodik\n\n### 3.1 Scénář A – „2014 až červenec 2017 vs rok 2013“\n\nZ dřívějšího vysvětlení Andreje Babiše pro Hospodářské noviny:\n\n- Babiš uvedl, že **„za období roku 2014 až červenec 2017“** bylo vybráno **o 604,9 mld Kč více** na daních a odvodech ve srovnání s „výběrem daní a odvodů v roce 2013“. (Parafráze z korekční poznámky HN, kde se upřesňuje, že jde o součet více opatření a celé daňové inkaso, nikoli jen EET.)([archiv.hn.cz](https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice?utm_source=openai))  \n\nNa základě oficiálních čísel MF lze takovou konstrukci přiblížit jedním přirozeným způsobem:\n\n- Pro roky **2014, 2015, 2016** vezmeme **celoroční** daňové příjmy vč. pojistného a od nich odečteme jejich hodnotu v roce 2013.  \n- Pro rok **2017** vezmeme jen období **leden–červenec 2017** a odečteme **leden–červenec 2013**.\n\nVýpočet (v mld Kč; čísla z kap. 2):  \n\n- 2014: 1 340,49 − 1 294,94 = **+45,55**  \n- 2015: 1 412,68 − 1 294,94 = **+117,74**  \n- 2016: 1 496,40 − 1 294,94 = **+201,46**  \n- 2017 (1–7): 929,09 − 736,43 = **+192,66**\n\nSoučet:  \n45,55 + 117,74 + 201,46 + 192,66 ≈ **557,4 mld Kč**.\n\nTedy při této zcela transparentní metodice vychází **cca 557 mld Kč**, nikoli 604,9 mld Kč.\n\n### 3.2 Scénář B – celé roky 2014–2017 vs rok 2013\n\nJiná možná interpretace výroku je, že jde o součet „kolik byl **každý rok** výběr daní a odvodů vyšší než v roce 2013“. To znamená:\n\n\\[\n\\sum_{r=2014}^{2017} \\left( \\text{příjmy}_r - \\text{příjmy}_{2013} \\right)\n\\]\n\nS využitím ročních čísel z Tab. 2 MF:\n\n- 2014: 1 340,49 − 1 294,94 = 45,55  \n- 2015: 1 412,68 − 1 294,94 = 117,74  \n- 2016: 1 496,40 − 1 294,94 = 201,46  \n- 2017: 1 616,00 − 1 294,94 = 321,06  \n\nSoučet: ≈ **685,8 mld Kč**.\n\nV tomto pojetí by byl výrok „600 mld navíc“ spíše **podhodnocením**.\n\n### 3.3 Scénář C – pouhé srovnání dvou let\n\nPro úplnost:\n\n- 2017 vs 2013: **+321 mld Kč** (roční rozdíl).  \n\nTo je zhruba polovina uváděných 600 mld, takže výrok určitě **nemůže** znamenat „v mém posledním roce se vybralo o 600 mld více než v roce 2013“.\n\n### 3.4 Shrnutí numerické části\n\n- **Celistvý, oficiální údaj k daním a odvodům (daňové příjmy vč. pojistného na sociální a zdravotní) jasně ukazuje**, že mezi roky 2013 a 2017 došlo k výraznému růstu.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541))  \n- Při **metodice popsané Babišem (2014–červenec 2017 oproti roku 2013)**, pokud ji rekonstruujeme z čísel MF, vychází **cca 557 mld Kč „navíc“**, což je **o ~50 mld méně** než jím uváděných 604,9 mld.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541))  \n- Při jiné rozumné metodice (součet rozdílů celých let 2014–2017 proti 2013) dostaneme **cca 686 mld Kč**.  \n- Číslo **600 mld Kč** je tedy **řádově správné** (v intervalu zhruba 0,56–0,69 bilionu), ale **konkrétní hodnota 604,9 mld, jak ji Babiš dříve formuloval, neodpovídá přesně jednoduché rekonstrukci z veřejně dostupných dat MF**.\n\n---\n\n## 4. Jak Babiš svůj údaj 600 mld předtím vysvětloval\n\nHospodářské noviny v roce 2017 opravily vlastní text, kde původně spojily částku přes 600 mld jen s EET. V opravě uvádějí, že Andrej Babiš na dotaz redakce vysvětlil:  \n\n- že **„zavedená opatření namířená proti daňovým únikům přinesla do rozpočtu stovky miliard navíc“**,  \n- a že **„za období roku 2014 až červenec 2017 jsme vybrali o 604,9 miliard korun navíc proti výběru daní a odvodů v roce 2013“** (parafrázováno, důraz na „daní a odvodů“).([archiv.hn.cz](https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice?utm_source=openai))  \n\nTedy:\n\n- Číslo se **výslovně vztahuje k celkovému inkasu daní a odvodů**, nikoli jen daní úzkého typu (např. jen DPH).  \n- Babiš **sugestivně spojuje** tento kumulovaný nárůst primárně s opatřeními jako kontrolní hlášení, EET, daňová kobra atd., tedy s vlastní politikou.\n\n---\n\n## 5. Jaké faktory za růstem příjmů MF samo zmiňuje\n\nZ tiskových zpráv MF pro roky 2014–2017 vyplývá, že růst daňových příjmů měl **dva hlavní zdroje**:\n\n1. **Ekonomický růst a trh práce**  \n   - MF v opakovaných zprávách zdůrazňuje, že růst inkasa DPH, daně z příjmů právnických i fyzických osob souvisí s **oživením ekonomiky, růstem mezd a zaměstnanosti**.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678))  \n   - Např. v roce 2015 MF připisuje nárůst daňových příjmů mimo jiné „oživení české ekonomiky“ a výslovně uvádí, že na meziročním růstu příjmů se podílejí vyšší příjmy z pojistného a DPPO.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2015/pokladni-plneni-leden-cervenec-22170?utm_source=openai))  \n\n2. **Legislativní a správní opatření proti únikům**  \n   - MF a Finanční správa uvádějí mezi přínosnými opatřeními **kontrolní hlášení k DPH, elektronickou evidenci tržeb, cílenější kontrolní činnost a mezinárodní spolupráci** (např. v boji proti převodním cenám, daňovým rájům).([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2017/prebytek-statniho-rozpoctu-na-konci-brez-28185?utm_source=openai))  \n\nAudit NKÚ k DPH za roky 2011–2013 zároveň upozornil, že **daňová mezera u DPH zůstávala velmi vysoká** (cca 105 mld Kč ročně) a že hlavní problém ležel spíše ve struktuře systému a kontrolních mechanismů, než jen v „šedé ekonomice“, na kterou mířilo EET.([hlidacipes.org](https://hlidacipes.org/nku-stat-na-dph-vloni-prisel-o-105-miliard-problem-je-ale-jinde-nez-rika-babis/?utm_source=openai))  \n\nZ toho plyne:\n\n- **Je nereálné připsat celý růst 500–700 mld Kč jen „lepšímu výběru“ daní v důsledku opatření ministra financí.** Podle oficiálních materiálů MF i nezávislých analýz významnou část vysvětluje:\n  - cyklické oživení ekonomiky,  \n  - růst mezd a zaměstnanosti,  \n  - inflace,  \n  - a jen část souvisí s konkrétními protiúnikovými opatřeními.\n\n---\n\n## 6. Shrnutí podkladů k posouzení výroku\n\n**Numerická přesnost:**\n\n- Oficiální statistiky MF pro **celostátní daňové příjmy včetně pojistného na sociální a zdravotní** jednoznačně potvrzují, že mezi lety 2013–2017 narostly příjmy veřejných rozpočtů v řádu **stovek miliard korun ročně**.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541))  \n- Při rekonstrukci metodiky „2014 až červenec 2017 oproti roku 2013“ z veřejných dat MF vychází **cca 557 mld Kč „navíc“**, nikoli 604,9 mld.  \n- Při alternativní, ale racionální metodice (součet rozdílů 2014–2017 proti roku 2013 po letech) vychází **cca 686 mld Kč**.  \n- Výrok „vybral jsem 600 miliard daní navíc“ je tedy **řádově v souladu** s oficiálními čísly (pohybujeme se mezi ~0,56 a ~0,69 bilionu Kč podle metodiky), ale **konkrétní hodnota 604,9 mld zjevně neodpovídá jednoduchému výpočtu podle Babišem deklarovaného srovnání s rokem 2013**.\n\n**Interpretace a přisuzování zásluh:**\n\n- Babiš číslo prezentuje tak, jako by **hlavním důvodem** tohoto nárůstu byla jeho opatření (EET, kontrolní hlášení, daňová kobra atd.).([archiv.hn.cz](https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice?utm_source=openai))  \n- MF ve svých vlastních dokumentech ale zmiňuje **kombinaci faktorů** – vedle zpřísnění výběru daní i **ekonomické oživení a strukturální vlivy**.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678))  \n- Nezávislé kontroly (např. NKÚ k DPH) navíc ukazují, že značná část potenciálních příjmů zůstávala i nadále nevybraná, a zpochybňují představu, že by protiúniková opatření sama vysvětlovala „stovky miliard navíc“.([hlidacipes.org](https://hlidacipes.org/nku-stat-na-dph-vloni-prisel-o-105-miliard-problem-je-ale-jinde-nez-rika-babis/?utm_source=openai))  \n\n**Pro fact‑checkera:**\n\n- **Číselná část výroku** („600 mld navíc“) je **v zásadě kompatibilní s rozsahem růstu celostátních daňových příjmů a odvodů** po roce 2013, i když údaj 604,9 mld nelze z dostupných dat přesně zreprodukovat.  \n- **Příčinné tvrzení** (implicitní, že jde o efekt jeho opatření) je však značně **nadsazené**, protože růst příjmů je podle oficiálních zdrojů kombinací ekonomického růstu a změn v daňové správě a legislativě, nikoli pouze důsledkem kroků jednoho ministra.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-02-07 available from https://www.youtube.com/watch?v=CRryWLn2KSs.\\n\\n\\nThe claim was made by: Andrej Babiš, Předseda vlády ČR, předseda hnutí ANO\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:32:20\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nProsím?\\n00:32:20\\nBára Divišová,moderátorka\\nRozvolníte pravidla?\\n00:32:22\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nProsím vás, hlavní kritérium je zadlužení vůči HDP, jo, a já jsem byl ministr financí, který měl nejlepší výsledky, který měl přebytek, který zavedl daňovou kobru, kontrolní hlášení, EET, dodaňování nadnárodních společností, vybral jsem 600 miliard daní navíc, měli jsme zadlužení 29 %, když jsme odcházeli, jsme byli šestý nejméně zadlužený a stále jsme málo zadlužení. A my potřebujeme investovat, my potřebujeme dostavět ty nemocnice. Takže tady pan Kupka, který lže jak Fiala, ano, předloží rozpočet SFDI, chybí tam 37 miliard, takže my jsme měli říct, zastavíme, nezačneme ten obchvat Břeclavi a Znojma a ty dálnice, nebudeme dělat tu železnici Praha-letiště-Kladno. Ne, co to vykládá ten člověk? My jsme dali peníze na SFDI, tam byla díra 37 miliard, na sociální dávky tam chybělo 17 miliard. Vždyť oni se netrefili v podstatě o 50 miliard minulý rozpočet. Vymýšlí se evropské fondy. Kdo vyjednal ty evropské fondy? Já jsem je vyjednal, 1 000 miliard jsem přinesl, navíc jsem přinesl 42 miliard, tam jsem já seděl, já jsem blokoval Evropskou radu čtyři noci a pět dní. Takže oni neví, o čem to vykládá...\\n00:33:38\\nBára Divišová,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Vybral jsem 600 miliard daní navíc.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 431.16 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Daňové příjmy státu včetně pojistného po roce 2013 skutečně vzrostly v řádu stovek miliard a součtem za Babišova působení lze dojít k částce kolem 600 mld. Přisuzovat celý tento nárůst jeho opatřením je však zavádějící.</p>\n\n<p>Andrej Babiš výrok o tom, že „vybral 600 miliard daní navíc“, pronáší při bilancování svého působení v čele Ministerstva financí v letech 2014–2017. V této souvislosti vyjmenovává nástroje proti daňovým únikům, jako je kontrolní hlášení k DPH, elektronická evidence tržeb nebo tzv. daňová kobra, a přisuzuje jim zásadní podíl na růstu příjmů státu. V rozhovoru pro <a href=\"https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice\">Hospodářské noviny</a> pak číslo dále vysvětloval.</p>\n\n<p>Výrok obsahuje dvě faktická tvrzení, která je třeba rozlišit. Zaprvé jde o tvrzení, že za dobu Babišova působení na Ministerstvu financí se skutečně vybralo zhruba „600 miliard daní navíc“ oproti stavu před jeho nástupem. Zadruhé jde o implicitní tvrzení, že tento nárůst je převážně výsledkem jeho opatření proti daňovým únikům. Obě roviny posuzujeme zvlášť.</p>\n\n<p>Pro srovnávání vývoje daňových příjmů používá Ministerstvo financí ukazatel „daňové příjmy včetně pojistného na sociální zabezpečení a veřejné zdravotní pojištění“ za celé veřejné rozpočty. V tiskové zprávě k výsledkům roku 2015 MF uvádí, že celostátní daňové příjmy vzrostly z 1 294,94 mld Kč v roce 2013 na 1 340,49 mld Kč v roce 2014 a 1 412,68 mld Kč v roce 2015, tedy o zhruba 118 mld během dvou let (<a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541\">Ministerstvo financí</a>). Přehledová tabulka k výsledkům let 2016–2018 pak pro rok 2016 uvádí 1 496,40 mld Kč a pro rok 2017 1 616,0 mld Kč (<a href=\"https://www.kurzy.cz/zpravy/462676-mmf-prebytek-statniho-rozpoctu-za-rok-2018-dosahl-uspornou-rozpoctovou-politikou-2-9-miliardy-korun/\">souhrnná tabulka k výsledkům roku 2018</a>). Mezi roky 2013 a 2017 tak roční inkaso daní a pojistného narostlo zhruba o 321 mld Kč.</p>\n\n<p>Pro přesnost je důležité, jak je číslo „600 miliard“ počítáno. V reakci na dotaz redakce Hospodářských novin Babiš upřesnil, že má na mysli součet rozdílů mezi výběrem za období 2014 až červenec 2017 a výběrem daní a odvodů v roce 2013; podle něj tak šlo „o 604,9 miliard korun navíc“ (<a href=\"https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice\">Hospodářské noviny</a>). Tedy nejde o prosté srovnání dvou jednotlivých let, ale o kumulaci nárůstů přes více let.</p>\n\n<p>Údaje MF o pokladním plnění za leden až červenec 2013 a 2014 ukazují, že součet daní, pojistného na sociální zabezpečení a pojistného na veřejné zdravotní pojištění činil v roce 2013 za prvních sedm měsíců 736,43 mld Kč a ve stejném období roku 2014 779,59 mld Kč (<a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678\">tisková zpráva MF k plnění rozpočtu za leden až červenec 2014</a>). Následující tisková zpráva MF o rekordním přebytku na konci července 2016 uvádí, že totéž inkaso dosáhlo 805,34 mld Kč v roce 2015 a 859,32 mld Kč v roce 2016 (<a href=\"https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2016/prebytek-rozpoctu-dosahl-na-konci-cerven-25713\">Ministerstvo financí, červenec 2016</a>). Na tuto řadu navazuje zpráva o plnění po sedmi měsících roku 2017, podle níž činily daňové příjmy včetně pojistného za leden až červenec 2017 celkem 929,09 mld Kč (<a href=\"https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2017/statni-rozpocet-je-po-sedmi-mesicich-v-p-29314\">Ministerstvo financí, červenec 2017</a>).</p>\n\n<p>Pokud postupujeme podobně, jak Babiš popisoval, a od celoročních daňových příjmů včetně pojistného za roky 2014–2016 odečteme hodnotu roku 2013 a k tomu přičteme rozdíl mezi inkasem za leden–červenec 2017 a stejným obdobím roku 2013, dostaneme součet nárůstů přibližně 557 mld Kč. Tento výsledek vychází z výše uvedených údajů MF o ročních příjmech za roky 2013–2016 a o příjmech za prvních sedm měsíců roku 2017 (<a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541\">MF – výsledky 2013–2015</a>, <a href=\"https://www.kurzy.cz/zpravy/462676-mmf-prebytek-statniho-rozpoctu-za-rok-2018-dosahl-uspornou-rozpoctovou-politikou-2-9-miliardy-korun/\">přehled 2016–2017</a>, <a href=\"https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2017/statni-rozpocet-je-po-sedmi-mesicich-v-p-29314\">MF – leden až červenec 2017</a>).</p>\n\n<p>Při jiné, rovněž rozumné metodice – když sečteme rozdíly mezi celoročním inkasem let 2014, 2015, 2016 a 2017 a inkasem roku 2013 – dostaneme součet přibližně 686 mld Kč. I tato varianta vychází z oficiálních tabulek Ministerstva financí o celostátních daňových příjmech včetně pojistného (<a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541\">MF – údaje 2013–2015</a>, <a href=\"https://www.kurzy.cz/zpravy/462676-mmf-prebytek-statniho-rozpoctu-za-rok-2018-dosahl-uspornou-rozpoctovou-politikou-2-9-miliardy-korun/\">přehled 2016–2017</a>). Číslo 600 mld se tedy pohybuje mezi těmito dvěma výpočty; z hlediska řádu velikosti je s daty MF v zásadě v souladu, konkrétní hodnota 604,9 mld ale z veřejně dostupných čísel nejde přesně zreprodukovat.</p>\n\n<p>Z hlediska samotného objemu tedy lze říci, že tvrzení o „stovkách miliard navíc“ odpovídá skutečnému růstu daňových příjmů a pojistného po roce 2013. Spornější je však druhá, implicitní část výroku – tedy dojem, že jde převážně o výsledek Babišových opatření proti daňovým únikům.</p>\n\n<p>Samotné Ministerstvo financí ve svých tiskových zprávách opakovaně zdůrazňuje, že růst daňových příjmů v letech 2014–2017 byl kombinací ekonomického vývoje a změn v daňové správě. Zpráva o plnění rozpočtu za leden až červenec 2014 například přičítá růst inkasa především <i>„oživení české ekonomiky“</i>, růstu mezd a zaměstnanosti, vedle vlivu změn v daňových zákonech (<a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678\">MF – plnění rozpočtu 2014</a>). Podobně zpráva o pokladním plnění za leden až červenec 2015 uvádí, že na meziročním nárůstu příjmů se významně podílely vyšší odvody pojistného a daně z příjmů v důsledku zlepšení situace na trhu práce a ekonomického růstu (<a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2015/pokladni-plneni-leden-cervenec-22170\">MF – pokladní plnění 2015</a>).</p>\n\n<p>Zároveň MF a Finanční správa v dalších materiálech zmiňují pozitivní dopad nových nástrojů, zejména kontrolního hlášení k DPH, cílenější kontrolní činnosti či mezinárodní výměny informací; tyto kroky jsou spojovány právě s působením Andreje Babiše na Ministerstvu financí (<a href=\"https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2017/prebytek-statniho-rozpoctu-na-konci-brez-28185\">MF – hodnocení roku 2017</a>). Nelze tedy tvrdit, že jeho opatření neměla žádný efekt – podle oficiálních zdrojů však šlo pouze o jednu z více složek, které růst příjmů vysvětlují.</p>\n\n<p>Na to, že vývoj inkasa daní nelze zjednodušit jen na „lepší výběr“, upozorňuje i Nejvyšší kontrolní úřad. Analýzu výběru DPH za předchozí období shrnuje například článek serveru HlídacíPes.org, podle nějž NKÚ konstatoval, že stát na DPH v jedné z kontrolovaných let přišel zhruba o 105 mld Kč ročně a že hlavní problémy byly ve struktuře systému a kontrolních mechanismech, nikoli pouze v „šedé ekonomice“, na niž mířila EET (<a href=\"https://hlidacipes.org/nku-stat-na-dph-vloni-prisel-o-105-miliard-problem-je-ale-jinde-nez-rika-babis/\">HlídacíPes.org – shrnutí zjištění NKÚ</a>). To naznačuje, že i po zavádění nových nástrojů zůstával významný prostor pro zlepšení a že samotná protiúniková opatření nevysvětlují stamilardové nárůsty příjmů.</p>\n\n<p>Celkově tedy dostupná data potvrzují, že za Babišova působení na Ministerstvu financí skutečně výrazně vzrostly celostátní daňové příjmy včetně pojistného a že součtem jejich meziročních nárůstů lze dojít k číslu zhruba v pásmu 550–690 mld Kč. Samotné číslo „600 miliard“ je proto řádově realistické, ačkoli přesná hodnota, kterou Babiš uvádí, neodpovídá jednoduchému výpočtu z veřejných údajů MF. Zároveň však oficiální dokumenty Ministerstva financí i analýzy NKÚ ukazují, že tento růst byl z velké části důsledkem ekonomického oživení, růstu mezd a zaměstnanosti a dalších makroekonomických faktorů, nikoli výhradně výsledkem kroků jednoho ministra.</p>\n\n<p>Výrok „Vybral jsem 600 miliard daní navíc“ proto hodnotíme jako zavádějící: objemově přibližně odpovídá skutečnému růstu daňových příjmů a pojistného po roce 2013, ale vytváří mylný dojem, že jde téměř výhradně o osobní zásluhu Andreje Babiše a jeho opatření proti daňovým únikům.</p>\n",
+  "deep_research_log": {
+    "id": "resp_05a1892e3c071a2f006989bfb6ff8881a38a1c15f9cef78328",
+    "created_at": 1770635191.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_05a1892e3c071a2f006989bfc7ff8481a3968d9da2f9864fb5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989bfcd7ab081a3b2e6512bc363323d",
+        "action": {
+          "query": "\"vybral jsem 600 miliard daní navíc\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"vybral jsem 600 miliard daní navíc\"",
+            "Babiš 600 miliard daní navíc",
+            "příjmy z daní Česko 2013 2017 ministerstvo financí",
+            "Česká republika příjmy z daní 2012 2020 Český statistický úrad"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989bfd0828481a388a2fcb42ca8c2e1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989bfd3da6881a38370c3822286b85f",
+        "action": {
+          "query": "\"600 miliard\" \"vybral\" \"daní\" Babiš",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"600 miliard\" \"vybral\" \"daní\" Babiš",
+            "\"600 miliard daní\" Babiš",
+            "Babiš \"daní navíc\" \"miliard\"",
+            "\"vybrali jsme 600 miliard\" daní"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989bfd6beac81a3afcbb924fb5bea28",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989bfd7e41881a3b77541a0f374621f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989bfd8f3d081a3af8458d71c7f919c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989bfd944d081a3a75f484d3fa4fc8c",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "600 miliard"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989bfdb24f881a3b5466fdfc088afeb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989bfdbfe2481a39c8a303220c37928",
+        "action": {
+          "query": "\"600 miliard\" \"daní navíc\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"600 miliard\" \"daní navíc\"",
+            "\"600 miliard daní\" \"navíc\"",
+            "\"600 mld\" daní navíc",
+            "\"vybral\" \"600\" \"daní\" \"Babiš\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989bfde8d0481a3be6e26b8e64a4445",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989bfe1a67081a3a3a85f1154df7256",
+        "action": {
+          "query": "\"o 600 miliard\" \"daní\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"o 600 miliard\" \"daní\"",
+            "\"o 600 mld\" \"daní\"",
+            "\"600 miliard\" \"vybrali\" \"daní\"",
+            "\"vybrali\" \"600 miliard\" \"daní\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989bfe469b081a3bb6de73f13a3da3b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989bfe865d881a39da77222a29dfba4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989bfe9fa8881a38ca14f22c938160b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989bfead6f881a3bf56dac17c7fc9a4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989bfec02f081a39c2a7dc9152fc28d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989bfedc7b481a391307d8fdafde5b3",
+        "action": {
+          "query": "\"604,9 miliard\" \"Babiš\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"604,9 miliard\" \"Babiš\"",
+            "\"604,9 mld\" daní",
+            "\"604,9\" \"vybrali\" \"daní\"",
+            "\"604,9 mld\" \"daní a odvodů\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989bff0553881a39b6d0e6d5f270c6c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989bff682c081a39210fdaf63889e11",
+        "action": {
+          "query": "\"daně a pojistné\" 2013 2014 2015 \"Ceská republika\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"daně a pojistné\" 2013 2014 2015 \"Ceská republika\"",
+            "\"daňové příjmy včetně pojistného\" 2013 2014",
+            "\"daně a pojistné na sociální zabezpečení\" \"státní rozpočet\" 2013",
+            "\"daňové příjmy\" \"pojistné\" \"2013\" \"2016\" \"mfcr\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c002121c81a38551d1026e744879",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c00652fc81a3b087fc1ff0236af7",
+        "action": {
+          "query": "\"Pokladní plnění státního rozpočtu\" \"leden až prosinec\" 2015 daňové příjmy včetně pojistného",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Pokladní plnění státního rozpočtu\" \"leden až prosinec\" 2015 daňové příjmy včetně pojistného",
+            "\"Tab. č. 2: Meziroční srovnání celostátních daňových příjmů a pojistného\" \"leden až prosinec\"",
+            "\"Daňové příjmy (vč. poj.na SZ a poj. na VZP)\" \"Celkem r. 2014\"",
+            "\"Celkem r. 2013\" \"Daňové příjmy (vč. poj.na SZ a poj.\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c00a309881a3bbb13841c22feef3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c00a646881a3b29ca48327143269",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c00ba3e481a3956ba542c88973b8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c00c5e1481a3b456c28f54e4a56e",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Tab. č. 2: Meziroční srovnání celostátních daňových příjmů"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c01046ac81a3a82f800e1fbb0c9c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c01304d881a38589230280beb107",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c015b2dc81a3b9e2a3af0ded938e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c016443481a386eaf99104002d8c",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Tab. č. 2"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c017d42881a38fdb83abbd5f4068",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_05a1892e3c071a2f006989c022da4481a383b20b0c2612b6b2",
+        "code": "baseline=1294.94\nvals=[1340.49,1412.68,1496.40,1616.00]\nsum(vals)-4*baseline",
+        "container_id": "cntr_6989bfc6595481919dc102423ca180c3007d56e8356aaa21",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c028688081a38d84ec12d7fb4f24",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c02e73f481a3946559e5fa3797f9",
+        "action": {
+          "query": "\"Daňové příjmy (vč. poj.na SZ a poj. na VZP)\" \"Celkem r. 2012\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Daňové příjmy (vč. poj.na SZ a poj. na VZP)\" \"Celkem r. 2012\"",
+            "\"Daňové příjmy (vč. poj.na SZ a poj. na VZP)\" 2012 2013",
+            "\"Celkem r. 2012\" \"Daňové příjmy\" \"poj.na SZ\"",
+            "\"1 160,03\" \"Daňové příjmy (vč. poj.na SZ\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c031d25c81a3aca3cf5284b060a6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c039206c81a3b8bf62a4cd6949f6",
+        "action": {
+          "query": "\"600\" \"miliard\" \"daní navíc\" \"Andrej Babiš\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"600\" \"miliard\" \"daní navíc\" \"Andrej Babiš\"",
+            "\"600\" \"miliard\" \"daní\" \"navíc\" \"Babiš\"",
+            "\"o 600 miliard\" \"vybrali\"",
+            "\"o 600\" \"miliard daní\" Babiš"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c03cebe881a3a2eacdae55d28729",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c0476b6481a3abe18d24c958d931",
+        "action": {
+          "query": "\"Pokladní plnění státního rozpočtu\" \"červenec 2017\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Pokladní plnění státního rozpočtu\" \"červenec 2017\"",
+            "\"leden až červenec 2017\" \"Daňové příjmy (vč. poj.na SZ a poj. na VZP)",
+            "\"leden až červenec\" 2017 \"pokladní plnění státního rozpočtu\" \"daňové příjmy\"",
+            "\"Daně příjmy (vč. poj.na SZ\" 2017 \"leden-červenec\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c04afd0881a3b69741d9d2e0eed0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c04b614081a3b2bb70a842282845",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c04cae9481a3895b963ca21b8f29",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c04df99c81a38934dbbce711a64c",
+        "action": {
+          "query": "\"Pokladní plnění\" \"leden až červenec 2017\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Pokladní plnění\" \"leden až červenec 2017\"",
+            "\"pokladni plneni\" \"leden-červenec 2017\"",
+            "\"pokladni plneni sr\" 2017 07",
+            "\"pokladní plnění sr\" \"1.8.2017\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c052b46081a3935104d62e6d62b4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c053937481a3b17f285079f35aa4",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Tab. č. 2"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c056b68481a39483a585cc597f84",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_05a1892e3c071a2f006989c061a38081a3a2424991262ba5dd",
+        "code": "baseline_2013=1294.94\nyear2014=1340.49\nyear2015=1412.68\nyear2016=1496.40\njanjul2015=805.34 # but that's 2015; 2017 janjul 929.09; 2016 859.33; 2015 805.34; baseline_janjul_2013_unknown\nyear2017_janjul=929.09\nsum_period=year2014+year2015+year2016+year2017_janjul\nsum_period",
+        "container_id": "cntr_6989bfc6595481919dc102423ca180c3007d56e8356aaa21",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c06992a481a3a53d24069d1deb71",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c06cc8dc81a3a9d8ce4dbc0a566d",
+        "action": {
+          "query": "\"Státní rozpočet je po sedmi měsících\" 2013",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Státní rozpočet je po sedmi měsících\" 2013",
+            "\"leden-červenec\" 2013 \"Daňové příjmy (vč. poj.na SZ a poj. na VZP)",
+            "\"805,34\" \"Daňové příjmy (vč. poj.na SZ\" 2015 \"leden-červenec\"",
+            "\"Celkem r. 2013\" \"Skut.* leden-červenec\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c075464881a383d0ad7d5ec3890e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c076276081a3a876eb8c7434d9fd",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Tab. č. 2: Meziroční srovnání celostátních daňových příjmů"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c079cda081a3bd0e818ff845ee51",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c07dbabc81a3b74b8fda3ece5d0c",
+        "action": {
+          "query": "\"Plnění státního rozpočtu ČR za leden až červenec 2015\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Plnění státního rozpočtu ČR za leden až červenec 2015\"",
+            "\"za leden až červenec 2015\" \"státního rozpočtu\"",
+            "\"Pokladní plnění\" \"leden až červenec 2015\"",
+            "\"Celkem r. 2013\" \"sk.k 31.7.\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c080498481a38dea8d4766f4bde1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c09dbe4c81a3b6233ab85152e0ed",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c09f4ce481a3b543d84be7e0af6e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c0a8002c81a3aa6b61dca3898530",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Pojistné na veřej"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c0a9f1a081a38cf415cb18c56766",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_05a1892e3c071a2f006989c0adf66081a3a6c18883d0c61184",
+        "code": "422.24+214.83+99.36",
+        "container_id": "cntr_6989bfc6595481919dc102423ca180c3007d56e8356aaa21",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c0b13f8081a3b83e38715ee04816",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_05a1892e3c071a2f006989c0b4ea6481a3b6ba7226d2d90008",
+        "code": "year2013_full=1294.94\nyear2014_full=1340.49\nyear2015_full=1412.68\nyear2016_full=1496.40\njanjul2013=736.43\njanjul2017=929.09\nextra = (year2014_full-year2013_full)+(year2015_full-year2013_full)+(year2016_full-year2013_full)+(janjul2017-janjul2013)\nextra",
+        "container_id": "cntr_6989bfc6595481919dc102423ca180c3007d56e8356aaa21",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c0b8c69481a38069fe88e5b4586f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c0bb1a4081a3b7e566c6a3afa989",
+        "action": {
+          "query": "\"Daňové příjmy (vč. poj.na SZ a poj. na VZP)\" \"Celkem r. 2012\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Daňové příjmy (vč. poj.na SZ a poj. na VZP)\" \"Celkem r. 2012\"",
+            "\"Celkem r. 2012\" \"Daňové příjmy (vč. poj\"",
+            "\"Daňové příjmy (vč. poj.na SZ a poj. na VZP)\" 2012 2013 2014",
+            "\"1 294,94\" \"daňové příjmy\",\"vč. poj.na SZ\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c0c18a2481a39180fbad9a15375f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_05a1892e3c071a2f006989c0ce473081a38910ac2e71103aa5",
+        "code": "# Full-year daňové příjmy (vč. poj.na SZ a poj. na VZP)\nfull = {\n    2013:1294.94,\n    2014:1340.49,\n    2015:1412.68,\n    2016:1496.40,\n    2017:1616.00\n}\n\n# Jan-Jul celostátní daňové příjmy (vč. contributions)\njan_jul = {\n    2013:736.43,  # computed 422.24 + 214.83 + 99.36\n    2014:779.59,\n    2015:805.34,\n    2016:859.32,\n    2017:929.09\n}\n\n# Scenario A: 2014-2016 full + 2017 Jan-Jul vs baseline 2013 full & 2013 Jan-Jul\nextra = (full[2014]-full[2013]) + (full[2015]-full[2013]) + (full[2016]-full[2013]) + (jan_jul[2017]-jan_jul[2013])\nextra",
+        "container_id": "cntr_6989bfc6595481919dc102423ca180c3007d56e8356aaa21",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c0d4129881a3afc1fd10b142fe85",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_05a1892e3c071a2f006989c0d78a4481a3b6cf2941807f9731",
+        "action": {
+          "query": "\"Za období roku 2014\" \"604,9\" \"Babiš\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Za období roku 2014\" \"604,9\" \"Babiš\"",
+            "\"604,9 miliard korun\" \"daní\"",
+            "\"604,9 miliard\" \"2014\" \"2017\" \"daní\"",
+            "\"vybrali o 604,9\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_05a1892e3c071a2f006989c0daf45481a38d9f1900dd204bf3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_05a1892e3c071a2f006989c124a9dc81a38fdc3ce2cf9b40b0",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1335,
+                "start_index": 1224,
+                "title": "Schodek státního rozpočtu za rok 2015 je o 37 mld. nižší než plánovaný | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541"
+              },
+              {
+                "end_index": 1646,
+                "start_index": 1594,
+                "title": "Stát v roce 2018 hospodařil s přebytkem 2,9 miliardy korun | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://www.kurzy.cz/tema/5110833.html"
+              },
+              {
+                "end_index": 2638,
+                "start_index": 2528,
+                "title": "Plnění státního rozpočtu ČR za leden až červenec 2014 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678"
+              },
+              {
+                "end_index": 3191,
+                "start_index": 3081,
+                "title": "Plnění státního rozpočtu ČR za leden až červenec 2014 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678"
+              },
+              {
+                "end_index": 3556,
+                "start_index": 3435,
+                "title": "Přebytek rozpočtu dosáhl na konci července rekordních 75,6 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2016/prebytek-rozpoctu-dosahl-na-konci-cerven-25713"
+              },
+              {
+                "end_index": 3893,
+                "start_index": 3772,
+                "title": "Státní rozpočet je po sedmi měsících v přebytku 25 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2017/statni-rozpocet-je-po-sedmi-mesicich-v-p-29314"
+              },
+              {
+                "end_index": 5042,
+                "start_index": 4890,
+                "title": "Proč Babiš ještě nepadl jako Gross: Může se opřít o špičkové odborníky a poslušné straníky | Hospodářské noviny (HN.cz)",
+                "type": "url_citation",
+                "url": "https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice?utm_source=openai"
+              },
+              {
+                "end_index": 6872,
+                "start_index": 6761,
+                "title": "Schodek státního rozpočtu za rok 2015 je o 37 mld. nižší než plánovaný | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541"
+              },
+              {
+                "end_index": 7186,
+                "start_index": 7075,
+                "title": "Schodek státního rozpočtu za rok 2015 je o 37 mld. nižší než plánovaný | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541"
+              },
+              {
+                "end_index": 8186,
+                "start_index": 8034,
+                "title": "Proč Babiš ještě nepadl jako Gross: Může se opřít o špičkové odborníky a poslušné straníky | Hospodářské noviny (HN.cz)",
+                "type": "url_citation",
+                "url": "https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice?utm_source=openai"
+              },
+              {
+                "end_index": 8937,
+                "start_index": 8827,
+                "title": "Plnění státního rozpočtu ČR za leden až červenec 2014 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678"
+              },
+              {
+                "end_index": 9247,
+                "start_index": 9128,
+                "title": "Pokladní plnění státního rozpočtu za leden až červenec 2015 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2015/pokladni-plneni-leden-cervenec-22170?utm_source=openai"
+              },
+              {
+                "end_index": 9659,
+                "start_index": 9530,
+                "title": "Přebytek státního rozpočtu na konci března vzrostl na 4,7 mld. Kč | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2017/prebytek-statniho-rozpoctu-na-konci-brez-28185?utm_source=openai"
+              },
+              {
+                "end_index": 10057,
+                "start_index": 9917,
+                "title": "NKÚ: Stát na DPH přišel o 105 miliard. Problém je ale jinde, než říká Babiš — HlídacíPes.org",
+                "type": "url_citation",
+                "url": "https://hlidacipes.org/nku-stat-na-dph-vloni-prisel-o-105-miliard-problem-je-ale-jinde-nez-rika-babis/?utm_source=openai"
+              },
+              {
+                "end_index": 10821,
+                "start_index": 10710,
+                "title": "Schodek státního rozpočtu za rok 2015 je o 37 mld. nižší než plánovaný | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541"
+              },
+              {
+                "end_index": 11706,
+                "start_index": 11554,
+                "title": "Proč Babiš ještě nepadl jako Gross: Může se opřít o špičkové odborníky a poslušné straníky | Hospodářské noviny (HN.cz)",
+                "type": "url_citation",
+                "url": "https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice?utm_source=openai"
+              },
+              {
+                "end_index": 11965,
+                "start_index": 11855,
+                "title": "Plnění státního rozpočtu ČR za leden až červenec 2014 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678"
+              },
+              {
+                "end_index": 12322,
+                "start_index": 12182,
+                "title": "NKÚ: Stát na DPH přišel o 105 miliard. Problém je ale jinde, než říká Babiš — HlídacíPes.org",
+                "type": "url_citation",
+                "url": "https://hlidacipes.org/nku-stat-na-dph-vloni-prisel-o-105-miliard-problem-je-ale-jinde-nez-rika-babis/?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Identifikace výroku a možných výkladů\n\nSporovaný výrok:  \n\n> „Vybral jsem 600 miliard daní navíc.“\n\nV bezprostředním kontextu Andrej Babiš mluví o svém působení jako ministr financí (2014–2017) a vyjmenovává opatření (daňová kobra, kontrolní hlášení, EET, doměřování nadnárodních společností). Přirozený výklad je:\n\n- **Číselná část**: Za dobu, kdy byl ministrem financí (případně za období 2014–červenec 2017), stát vybral na daních a odvodech zhruba o 600 mld Kč více než předtím, typicky ve srovnání s rokem 2013.  \n- **Příčinná část (implicitní)**: Těch ~600 mld je výsledkem „jeho“ opatření na lepší výběr daní (ne jen hospodářského růstu).\n\nNíže jsou podklady k oběma částem.\n\n---\n\n## 2. Data o výběru daní a odvodů (daňové příjmy + pojistné)\n\nPro srovnávání výroků politiků i MF se běžně používá ukazatel **„daňové příjmy včetně pojistného na sociální zabezpečení a pojistného na veřejné zdravotní pojištění“** na úrovni **celých veřejných rozpočtů** (tzv. „celostátní daně“). Tento ukazatel MF výslovně uvádí v tabulkách jako:\n\n> „Daňové příjmy (vč. poj.na SZ a poj. na VZP)“\n\n### 2.1 Celoroční data 2013–2017\n\nMinisterstvo financí v tiskové zprávě k roku 2015 uvádí pro roky 2013–2015 tyto celostátní hodnoty:([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541))  \n\n- 2013: **1 294,94 mld Kč**  \n- 2014: **1 340,49 mld Kč** (meziroční nárůst +45,55 mld)  \n- 2015: **1 412,68 mld Kč** (meziroční nárůst +72,19 mld)\n\nV tiskové zprávě k výsledkům roku 2018, která obsahuje srovnávací Tab. 2 pro roky 2016–2018, jsou uvedeny:([kurzy.cz](https://www.kurzy.cz/tema/5110833.html))  \n\n- 2016: **1 496,40 mld Kč**  \n- 2017: **1 616,00 mld Kč** (meziroční nárůst +119,60 mld)\n\nSouhrnná tabulka (zaokrouhleno):\n\n| Rok | Daňové příjmy vč. pojistného (mld Kč) |\n|-----|---------------------------------------|\n| 2013 | 1 294,94 |\n| 2014 | 1 340,49 |\n| 2015 | 1 412,68 |\n| 2016 | 1 496,40 |\n| 2017 | 1 616,00 |\n\nZ jednoduchého porovnání:\n\n- **Rozdíl 2017 vs 2013**: 1 616,00 − 1 294,94 ≈ **+321 mld Kč** (roční nárůst).  \n\nTěch 600 mld tedy **nemůže znamenat jen rozdíl mezi dvěma konkrétními roky**, musí jít o nějakou kumulaci přes více let.\n\n### 2.2 Údaje za leden–červenec 2013–2017\n\nPro období „do července“ lze využít měsíční pokladní plnění se stejným ukazatelem.\n\n**Rok 2013 a 2014 – leden–červenec**\n\nTisková zpráva MF „Plnění státního rozpočtu ČR za leden až červenec 2014“ obsahuje v Tab. 1 a 2 tyto údaje za **leden–červenec 2013 a 2014** (celostátní daně):([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678))  \n\n- Daňové příjmy (bez pojistného) 2013: 422,24 mld Kč  \n- Pojistné na sociální zabezpečení 2013: 214,83 mld Kč  \n- Pojistné na veřejné zdravotní pojištění 2013: 99,36 mld Kč  \n\nSoučet = **736,43 mld Kč** za leden–červenec 2013.\n\nStejná tabulka pro 2014:\n\n- Daňové příjmy 2014 (leden–červenec): 455,61 mld Kč  \n- Pojistné na SZ 2014: 220,79 mld Kč  \n- Pojistné na VZP 2014: 103,19 mld Kč  \n\nSoučet = **779,59 mld Kč** za leden–červenec 2014.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678))  \n\n**Roky 2015–2017 – leden–červenec**\n\nTisková zpráva MF „Přebytek rozpočtu dosáhl na konci července rekordních 75,6 mld. Kč“ (2016) uvádí v Tab. 2 pro roky 2014–2016 tyto údaje „Daňové příjmy (vč. poj.na SZ a poj. na VZP)“ za leden–červenec:([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2016/prebytek-rozpoctu-dosahl-na-konci-cerven-25713))  \n\n- 2014: 779,59 mld Kč (viz výše)  \n- 2015: 805,34 mld Kč  \n- 2016: 859,32 mld Kč  \n\nTisková zpráva „Státní rozpočet je po sedmi měsících v přebytku 25 mld. Kč“ (2017) navazuje a uvádí v Tab. 2 pro roky 2015–2017:([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2017/statni-rozpocet-je-po-sedmi-mesicich-v-p-29314))  \n\n- 2015: 805,34 mld Kč (shodné číslo)  \n- 2016: 859,33 mld Kč (zaokrouhlení oproti 859,32)  \n- 2017: 929,09 mld Kč  \n\nSouhrnná tabulka pro **leden–červenec**:\n\n| Rok | Daňové příjmy vč. pojistného, leden–červenec (mld Kč) |\n|-----|--------------------------------------------------------|\n| 2013 | 736,43 *(z komponent v tabulkách MF)* |\n| 2014 | 779,59 |\n| 2015 | 805,34 |\n| 2016 | 859,32 |\n| 2017 | 929,09 |\n\nRozdíl pro stejné období:\n\n- **2017 (leden–červenec) vs 2013 (leden–červenec)**: 929,09 − 736,43 ≈ **+193 mld Kč**.\n\n---\n\n## 3. Výpočet „daní navíc“ podle různých metodik\n\n### 3.1 Scénář A – „2014 až červenec 2017 vs rok 2013“\n\nZ dřívějšího vysvětlení Andreje Babiše pro Hospodářské noviny:\n\n- Babiš uvedl, že **„za období roku 2014 až červenec 2017“** bylo vybráno **o 604,9 mld Kč více** na daních a odvodech ve srovnání s „výběrem daní a odvodů v roce 2013“. (Parafráze z korekční poznámky HN, kde se upřesňuje, že jde o součet více opatření a celé daňové inkaso, nikoli jen EET.)([archiv.hn.cz](https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice?utm_source=openai))  \n\nNa základě oficiálních čísel MF lze takovou konstrukci přiblížit jedním přirozeným způsobem:\n\n- Pro roky **2014, 2015, 2016** vezmeme **celoroční** daňové příjmy vč. pojistného a od nich odečteme jejich hodnotu v roce 2013.  \n- Pro rok **2017** vezmeme jen období **leden–červenec 2017** a odečteme **leden–červenec 2013**.\n\nVýpočet (v mld Kč; čísla z kap. 2):  \n\n- 2014: 1 340,49 − 1 294,94 = **+45,55**  \n- 2015: 1 412,68 − 1 294,94 = **+117,74**  \n- 2016: 1 496,40 − 1 294,94 = **+201,46**  \n- 2017 (1–7): 929,09 − 736,43 = **+192,66**\n\nSoučet:  \n45,55 + 117,74 + 201,46 + 192,66 ≈ **557,4 mld Kč**.\n\nTedy při této zcela transparentní metodice vychází **cca 557 mld Kč**, nikoli 604,9 mld Kč.\n\n### 3.2 Scénář B – celé roky 2014–2017 vs rok 2013\n\nJiná možná interpretace výroku je, že jde o součet „kolik byl **každý rok** výběr daní a odvodů vyšší než v roce 2013“. To znamená:\n\n\\[\n\\sum_{r=2014}^{2017} \\left( \\text{příjmy}_r - \\text{příjmy}_{2013} \\right)\n\\]\n\nS využitím ročních čísel z Tab. 2 MF:\n\n- 2014: 1 340,49 − 1 294,94 = 45,55  \n- 2015: 1 412,68 − 1 294,94 = 117,74  \n- 2016: 1 496,40 − 1 294,94 = 201,46  \n- 2017: 1 616,00 − 1 294,94 = 321,06  \n\nSoučet: ≈ **685,8 mld Kč**.\n\nV tomto pojetí by byl výrok „600 mld navíc“ spíše **podhodnocením**.\n\n### 3.3 Scénář C – pouhé srovnání dvou let\n\nPro úplnost:\n\n- 2017 vs 2013: **+321 mld Kč** (roční rozdíl).  \n\nTo je zhruba polovina uváděných 600 mld, takže výrok určitě **nemůže** znamenat „v mém posledním roce se vybralo o 600 mld více než v roce 2013“.\n\n### 3.4 Shrnutí numerické části\n\n- **Celistvý, oficiální údaj k daním a odvodům (daňové příjmy vč. pojistného na sociální a zdravotní) jasně ukazuje**, že mezi roky 2013 a 2017 došlo k výraznému růstu.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541))  \n- Při **metodice popsané Babišem (2014–červenec 2017 oproti roku 2013)**, pokud ji rekonstruujeme z čísel MF, vychází **cca 557 mld Kč „navíc“**, což je **o ~50 mld méně** než jím uváděných 604,9 mld.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541))  \n- Při jiné rozumné metodice (součet rozdílů celých let 2014–2017 proti 2013) dostaneme **cca 686 mld Kč**.  \n- Číslo **600 mld Kč** je tedy **řádově správné** (v intervalu zhruba 0,56–0,69 bilionu), ale **konkrétní hodnota 604,9 mld, jak ji Babiš dříve formuloval, neodpovídá přesně jednoduché rekonstrukci z veřejně dostupných dat MF**.\n\n---\n\n## 4. Jak Babiš svůj údaj 600 mld předtím vysvětloval\n\nHospodářské noviny v roce 2017 opravily vlastní text, kde původně spojily částku přes 600 mld jen s EET. V opravě uvádějí, že Andrej Babiš na dotaz redakce vysvětlil:  \n\n- že **„zavedená opatření namířená proti daňovým únikům přinesla do rozpočtu stovky miliard navíc“**,  \n- a že **„za období roku 2014 až červenec 2017 jsme vybrali o 604,9 miliard korun navíc proti výběru daní a odvodů v roce 2013“** (parafrázováno, důraz na „daní a odvodů“).([archiv.hn.cz](https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice?utm_source=openai))  \n\nTedy:\n\n- Číslo se **výslovně vztahuje k celkovému inkasu daní a odvodů**, nikoli jen daní úzkého typu (např. jen DPH).  \n- Babiš **sugestivně spojuje** tento kumulovaný nárůst primárně s opatřeními jako kontrolní hlášení, EET, daňová kobra atd., tedy s vlastní politikou.\n\n---\n\n## 5. Jaké faktory za růstem příjmů MF samo zmiňuje\n\nZ tiskových zpráv MF pro roky 2014–2017 vyplývá, že růst daňových příjmů měl **dva hlavní zdroje**:\n\n1. **Ekonomický růst a trh práce**  \n   - MF v opakovaných zprávách zdůrazňuje, že růst inkasa DPH, daně z příjmů právnických i fyzických osob souvisí s **oživením ekonomiky, růstem mezd a zaměstnanosti**.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678))  \n   - Např. v roce 2015 MF připisuje nárůst daňových příjmů mimo jiné „oživení české ekonomiky“ a výslovně uvádí, že na meziročním růstu příjmů se podílejí vyšší příjmy z pojistného a DPPO.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2015/pokladni-plneni-leden-cervenec-22170?utm_source=openai))  \n\n2. **Legislativní a správní opatření proti únikům**  \n   - MF a Finanční správa uvádějí mezi přínosnými opatřeními **kontrolní hlášení k DPH, elektronickou evidenci tržeb, cílenější kontrolní činnost a mezinárodní spolupráci** (např. v boji proti převodním cenám, daňovým rájům).([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2017/prebytek-statniho-rozpoctu-na-konci-brez-28185?utm_source=openai))  \n\nAudit NKÚ k DPH za roky 2011–2013 zároveň upozornil, že **daňová mezera u DPH zůstávala velmi vysoká** (cca 105 mld Kč ročně) a že hlavní problém ležel spíše ve struktuře systému a kontrolních mechanismů, než jen v „šedé ekonomice“, na kterou mířilo EET.([hlidacipes.org](https://hlidacipes.org/nku-stat-na-dph-vloni-prisel-o-105-miliard-problem-je-ale-jinde-nez-rika-babis/?utm_source=openai))  \n\nZ toho plyne:\n\n- **Je nereálné připsat celý růst 500–700 mld Kč jen „lepšímu výběru“ daní v důsledku opatření ministra financí.** Podle oficiálních materiálů MF i nezávislých analýz významnou část vysvětluje:\n  - cyklické oživení ekonomiky,  \n  - růst mezd a zaměstnanosti,  \n  - inflace,  \n  - a jen část souvisí s konkrétními protiúnikovými opatřeními.\n\n---\n\n## 6. Shrnutí podkladů k posouzení výroku\n\n**Numerická přesnost:**\n\n- Oficiální statistiky MF pro **celostátní daňové příjmy včetně pojistného na sociální a zdravotní** jednoznačně potvrzují, že mezi lety 2013–2017 narostly příjmy veřejných rozpočtů v řádu **stovek miliard korun ročně**.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2016/schodek-statniho-rozpoctu-za-rok-2015-je-23541))  \n- Při rekonstrukci metodiky „2014 až červenec 2017 oproti roku 2013“ z veřejných dat MF vychází **cca 557 mld Kč „navíc“**, nikoli 604,9 mld.  \n- Při alternativní, ale racionální metodice (součet rozdílů 2014–2017 proti roku 2013 po letech) vychází **cca 686 mld Kč**.  \n- Výrok „vybral jsem 600 miliard daní navíc“ je tedy **řádově v souladu** s oficiálními čísly (pohybujeme se mezi ~0,56 a ~0,69 bilionu Kč podle metodiky), ale **konkrétní hodnota 604,9 mld zjevně neodpovídá jednoduchému výpočtu podle Babišem deklarovaného srovnání s rokem 2013**.\n\n**Interpretace a přisuzování zásluh:**\n\n- Babiš číslo prezentuje tak, jako by **hlavním důvodem** tohoto nárůstu byla jeho opatření (EET, kontrolní hlášení, daňová kobra atd.).([archiv.hn.cz](https://archiv.hn.cz/c1-65920870-potrebujeme-aby-nam-volici-dali-maximum-rika-babis-jinak-se-muze-chystat-do-opozice?utm_source=openai))  \n- MF ve svých vlastních dokumentech ale zmiňuje **kombinaci faktorů** – vedle zpřísnění výběru daní i **ekonomické oživení a strukturální vlivy**.([mfcr.cz](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2014/plneni-statniho-rozpoctu-cr-za-leden-az-18678))  \n- Nezávislé kontroly (např. NKÚ k DPH) navíc ukazují, že značná část potenciálních příjmů zůstávala i nadále nevybraná, a zpochybňují představu, že by protiúniková opatření sama vysvětlovala „stovky miliard navíc“.([hlidacipes.org](https://hlidacipes.org/nku-stat-na-dph-vloni-prisel-o-105-miliard-problem-je-ale-jinde-nez-rika-babis/?utm_source=openai))  \n\n**Pro fact‑checkera:**\n\n- **Číselná část výroku** („600 mld navíc“) je **v zásadě kompatibilní s rozsahem růstu celostátních daňových příjmů a odvodů** po roce 2013, i když údaj 604,9 mld nelze z dostupných dat přesně zreprodukovat.  \n- **Příčinné tvrzení** (implicitní, že jde o efekt jeho opatření) je však značně **nadsazené**, protože růst příjmů je podle oficiálních zdrojů kombinací ekonomického růstu a změn v daňové správě a legislativě, nikoli pouze důsledkem kroků jednoho ministra.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 117446,
+      "input_tokens_details": {
+        "cached_tokens": 5888
+      },
+      "output_tokens": 24371,
+      "output_tokens_details": {
+        "reasoning_tokens": 19874
+      },
+      "total_tokens": 141817
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1770635615,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

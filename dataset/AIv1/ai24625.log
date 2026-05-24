@@ -1,0 +1,690 @@
+{
+  "claim_id": "24625",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24625.md",
+  "fact_check": "# Fact Check for Statement ID 24625\n\n## Statement\nCena energie se nevypočítává podle zdroje. (...) Ta se počítá na středoevropském energetickém trhu, na principu součtové nabídky a součtové poptávky.\n\n---\n## AI Fact Check\n## 1. Vymezení a rozklad výroku\n\nPosuzovaný výrok Karla Havlíčka (v kontextu debaty o cenách elektřiny a jaderném zdroji Temelín) lze přeložit a rozdělit takto:\n\n> „Cena energie se nevypočítává podle zdroje. (…) Ta se počítá na středoevropském energetickém trhu, na principu součtové nabídky a součtové poptávky.“\n\nPravděpodobný význam v kontextu:\n\n- mluví o **velkoobchodní ceně silové elektřiny** (nikoli o koncové ceně na faktuře),\n- tvrdí, že:\n  1. **(A)** cena se neurčuje „podle zdroje“ (tj. není přímo administrativně navázána na konkrétní typ elektrárny – jádro, uhlí, plyn…),\n  2. **(B)** cena se určuje na **regionálně (středoevropsky / evropsky) propojeném trhu**, nikoli izolovaně jen podle české výroby,\n  3. **(C)** mechanismus tvorby ceny je **průsečík (souhrnné) nabídky a (souhrnné) poptávky** – tzv. merit‑order / mezní (marginal) cena.\n\nNíže je rozbor každé dílčí části se zdroji.\n\n---\n\n## 2. Stručné pozadí: jak je v ČR organizován trh s elektřinou\n\n### 2.1 Právní rámec a role OTE\n\nVyhláška č. 408/2015 Sb. o Pravidlech trhu s elektřinou:\n\n- definuje **organizovaný krátkodobý trh s elektřinou** jako soubor **denního trhu a vnitrodenního trhu**. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n- stanoví, že obchody na tomto trhu jsou **anonymní a probíhají spojením nabídky s poptávkou**. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n- denní trh organizuje operátor trhu (OTE) **ve spolupráci s nominovanými organizátory denního trhu v okolních nabídkových zónách** nebo **v rámci jednotného propojení denních trhů** (Single Day‑Ahead Coupling). ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n\nOTE ve svých materiálech uvádí, že organizuje obchodování na denním, vnitrodenním a blokovém trhu s elektřinou a je **nominovaným organizátorem trhu (NEMO)** pro účely evropského jednotného denního trhu. ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/pro-media/2021_17_06_tz_evropsky-denni-trh-s-elektrinou-se-propojil.pdf))\n\n### 2.2 Jednotný evropský denní trh (SDAC)\n\nENTSO‑E (sdružení evropských provozovatelů přenosových soustav) popisuje **Single Day‑Ahead Coupling (SDAC)** takto:\n\n- cílem je **jednotný panevropský denní trh s elektřinou**, kde jsou trhy různých zemí spojeny **společným algoritmem**, který bere v úvahu **přenosová omezení** a maximalizuje společenský přebytek,  \n- historicky byl český denní trh součástí regionu **4M MC (CZ, SK, HU, RO)** a od roku 2021 je přes tzv. Interim Coupling plně propojen se zbytkem evropského denního trhu. ([entsoe.eu](https://www.entsoe.eu/network_codes/cacm/implementation/sadc/?utm_source=openai))  \n\nTisková zpráva ČEPS a OTE z června 2021 přímo uvádí, že zavedením Interim Couplingu došlo **„k propojení nabídkových zón téměř všech členských států EU a Norska“** na denním trhu, přičemž obchodník nyní získává elektřinu i přeshraniční kapacitu „na jednom místě“. ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/pro-media/2021_17_06_tz_evropsky-denni-trh-s-elektrinou-se-propojil.pdf))  \n\n---\n\n## 3. Dílčí tvrzení C: Cena se určuje průsečíkem (součtové) nabídky a poptávky\n\n### 3.1 Oficiální popis od OTE a české legislativy\n\nV terminologii OTE:\n\n- **„sesouhlasení“** je definováno (v české verzi glosáře) jako proces, ve kterém se **nachází průsečík křivky nabídky a křivky poptávky** – tedy přesně mechanismus, který Havlíček popisuje. ([ote-cr.cz](https://www.ote-cr.cz/en/documentation/useful-information/glossary?utm_source=openai))  \n- glosář dále definuje:\n  - **„Nabídková křivka“** jako křivku vytvořenou **geometrickým součtem nabídek pro danou obchodní hodinu** (tj. agregovaná nabídka),  \n  - **„Křivky sesouhlasení“** jako **křivky nabídek a poptávek, které stanovují akceptované množství a akceptovanou cenu**,  \n  - **„MC – Marginální cena (Market Clearing Price)“** jako cenu elektřiny na denním trhu pro jednotlivé hodiny, stanovenou operátorem trhu. ([ote-cr.cz](https://www.ote-cr.cz/en/documentation/useful-information/glossary))  \n\nVyhláška 408/2015 Sb. výslovně říká, že obchody na organizovaném krátkodobém trhu probíhají **„spojením nabídky s poptávkou“**. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n\n### 3.2 Odborné a popularizační české zdroje\n\nČeské portály popisující spotový trh:\n\n- **TZB‑info (2019)** o denním trhu OTE: po sesouhlasení křivek nabídky a poptávky je určena **marginální cena**, jsou akceptovány všechny nabídky s nižší cenou než marginální a všechny poptávky s vyšší cenou – což je přesný popis jednotné clearingové ceny v průsečíku agregovaných křivek. ([tzb-info.cz](https://www.tzb-info.cz/ceny-paliv-a-energii/19803-jak-se-obchodovalo-na-spotovem-trhu-operatora-trhu-s-elektrinou-v-zari-2019?utm_source=openai))  \n- **Porovnej24** vysvětluje, že na spotovém trhu se cena **vytváří na základě skutečné nabídky a skutečné poptávky**; organizátorem trhu je OTE a každá hodina má svoji cenu. ([porovnej24.cz](https://www.porovnej24.cz/slovnik-pojmu/elektrina/spotovy-trh-s-elektrinou/?utm_source=openai))  \n- specializované weby sledující data OTE (SpotMarketIndex, Energospot) uvádějí, že na denním trhu OTE probíhá **denní aukce**, kde lze anonymně nabízet/poptávat elektřinu a uzavírat obchody **za jednotnou cenu pro jednotlivé hodiny dodávky**. ([spotmarketindex.cz](https://spotmarketindex.cz/?utm_source=openai))  \n\n### 3.3 Závěr k dílčímu tvrzení C\n\nOficiální terminologie OTE (sesouhlasení, křivky sesouhlasení, marginální cena) i nezávislé popisy denního trhu jednoznačně potvrzují, že **hodinová (resp. čtvrthodinová) velkoobchodní cena elektřiny je na denním trhu v ČR stanovena průsečíkem agregované nabídky a agregované poptávky**.  \n\nTvrzení o „principu součtové nabídky a součtové poptávky“ je tedy fakticky v souladu s používaným mechanismem.\n\n---\n\n## 4. Dílčí tvrzení A: „Cena energie se nevypočítává podle zdroje“\n\n### 4.1 Jak funguje velkoobchodní tvorba ceny v EU\n\nEvropská komise shrnuje model tvorby velkoobchodní ceny takto:\n\n- **velkoobchodní trh v EU je systém mezních cen („marginal pricing“, „pay‑as‑clear“) – všichni výrobci v daném okamžiku dostávají stejnou cenu**,  \n- výrobci (bez ohledu na typ zdroje) podávají nabídky podle svých výrobních nákladů, od nejlevnějších po nejdražší; poptávka se uspokojuje od nejlevnějších zdrojů postupně,  \n- **jakmile je poptávka pokryta, všichni přijatí výrobci dostanou cenu posledního (nejdražšího) zdroje nutného k pokrytí poptávky**. ([energy.ec.europa.eu](https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai))  \n\nTento mechanismus:\n\n- **nerozlišuje cenu podle technologie jako takové** (neexistuje zvláštní „jaderná“ nebo „uhelná“ velkoobchodní cena pro stejný čas a stejnou zónu),\n- ale **typ zdroje ovlivňuje jeho nabídkovou cenu** (např. nízké variabilní náklady jaderných či obnovitelných zdrojů → jsou typicky levnější a v merit‑order křivce vlevo).\n\nČeský popularizační článek (překlad textu prof. Liona Hirtha) vysvětluje tzv. **merit‑order**:\n\n- ceny elektřiny se **stanovují podle variabilních nákladů mezního zařízení – nejdražší elektrárny, která je ještě potřeba k uspokojení poptávky („závěrná elektrárna“) – všichni výrobci i spotřebitelé platí tutéž cenu**. ([podnikatel.cz](https://www.podnikatel.cz/clanky/trh-s-elektrinou-neselhal-funguje-spravne-jak-tedy-vznika-cena-elektriny/))  \n\nTo znamená, že **z hlediska samotného algoritmu**:\n\n- cena **není přímo vypočítávána „podle toho, zda jde o jádro, uhlí, plyn“**,  \n- ale **typ zdroje ovlivní, kde leží v nabídkové křivce** – a tedy, zda a kdy se stane mezním zdrojem, který cenu určuje.\n\n### 4.2 Technologie‑specifická podpora (co může tvrzení komplikovat)\n\nJe však důležité upozornit na dva aspekty, které jeho zjednodušenou formulaci částečně rozostřují:\n\n1. **Podpora vybraných zdrojů energie (POZE, zákon o podporovaných zdrojích energie)**  \n   - Zákon o podporovaných zdrojích energie definuje **zelené bonusy a výkupní ceny** jako formy podpory elektřiny z OZE, vysokoúčinné kogenerace a druhotných zdrojů. ([oenergetice.cz](https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai))  \n   - Výši podpory (bonusů a výkupních cen) stanovuje ERÚ pro **jednotlivé typy zdrojů zvlášť** tak, aby se dosáhlo určité návratnosti investice (např. 15 let). ([oenergetice.cz](https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai))  \n   - Tyto podpory jsou **hrazeny z příspěvku na podporované zdroje energie (POZE)**, který tvoří část konečné ceny pro odběratele; média uvádějí, že domácnosti platí ročně řádově miliardy korun na tuto podporu. ([idnes.cz](https://www.idnes.cz/ekonomika/domaci/energeticky-regulacni-urad-centropol-egu-poze.A251104_150511_ekonomika_hyk?utm_source=openai))  \n\n   → **Z hlediska příjmů výrobce** tedy platí, že např. fotovoltaika dostává jinou (technologicky specifickou) celkovou cenu za MWh než jaderná elektrárna – ale část z toho je tržní velkoobchodní cena, část regulovaná podpora.\n\n2. **Koncová cena pro domácnosti a firmy**  \n   - Koncová cena na faktuře se skládá ze:\n     - **neregulované části – silová elektřina**, typicky navázaná na velkoobchodní ceny (spot nebo futures),  \n     - **regulovaných složek** (distribuce, přenos, POZE, systémové služby atd.), které stanovuje ERÚ. ([acer.europa.eu](https://www.acer.europa.eu/news/getting-price-signals-right-fair-and-cost-reflective-electricity-network-tariffs?utm_source=openai))  \n   - Některé regulované složky (např. POZE) jsou přímo určeny k financování konkrétních typů zdrojů; koncová „cena energie“ v tomto širším smyslu tak **částí své struktury na typu zdrojů závisí** – ale jde o **regulační rozhodnutí**, ne o mechanismus tvorby velkoobchodní ceny.\n\n### 4.3 Shrnutí k dílčímu tvrzení A\n\n- **Pro velkoobchodní cenu silové elektřiny v jedné nabídkové zóně a čase**:\n  - cena je výsledkem **společné aukce všech zdrojů**,  \n  - **všichni přijatí výrobci dostávají stejnou cenu bez ohledu na typ zdroje**,  \n  - algoritmus nepočítá odlišnou tržní cenu „podle technologie“; technologie se promítá pouze do nabídkových cen. ([energy.ec.europa.eu](https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai))  \n\n- **Z hlediska celkových příjmů výrobce a konečné ceny pro odběratele**:\n  - existují **technologie‑specifické podpory (výkupní ceny, zelené bonusy)** a poplatky (POZE), které jsou **přímo navázány na typ zdroje** a tvoří část konečné ceny pro zákazníka. ([oenergetice.cz](https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai))  \n\nVýrok „cena energie se nevypočítává podle zdroje“ je tedy **věcně v souladu s fungováním velkoobchodního trhu**, pokud ho vztáhneme k **tržní ceně silové elektřiny**. Zároveň ale **opomíjí** skutečnost, že **technologie‑specifická podpora a její promítnutí do účtů koncových zákazníků** činí celkovou „cenu energie“ pro odběratele částečně závislou na mixu zdrojů a nastavení podpory.\n\n---\n\n## 5. Dílčí tvrzení B: Cena se počítá na „středoevropském energetickém trhu“\n\n### 5.1 Propojení českého denního trhu se zahraničím\n\nHistorie a současnost tržního propojení:\n\n- **2012** – propojení denních trhů ČR, Slovenska a Maďarska (CZ‑SK‑HU Market Coupling). Nabídky a poptávky registrované účastníky všech tří denních trhů se obchodují společně až do výše dostupné přeshraniční kapacity. ([eru.gov.cz](https://eru.gov.cz/11-zari-2012-se-propoji-cesky-slovensky-a-madarsky-denni-trh-s-elektrinou?utm_source=openai))  \n- **2014** – rozšíření na Rumunsko, vznik CZ‑SK‑HU‑RO Market Coupling (4M MC); cílem je kompatibilita s evropským cílovým modelem jednotného trhu s elektřinou. ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/zpravy_ote/uspesne-spojeni-ceskeho-slovenskeho-madarskeho-a-rumunskeho-denniho-trhu-s-elektrinou-1?utm_source=openai))  \n- **2021** – tzv. **Interim Coupling** spojuje 4M MC se západoevropským regionem (MRC), ruší explicitní aukce na hranicích CZ‑DE, CZ‑AT aj. a zavádí **implicitní alokaci**, kdy obchodník získává elektřinu i přeshraniční kapacitu „na jednom místě“; tisková zpráva ČEPS/OTE hovoří o propojení nabídkových zón téměř všech států EU. ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/pro-media/2021_17_06_tz_evropsky-denni-trh-s-elektrinou-se-propojil.pdf))  \n- ENTSO‑E uvádí, že SDAC spojuje **více regionů Evropy do jednoho integrovaného denního trhu** prostřednictvím jednotného algoritmu, který maximálně efektivně alokuje přeshraniční přenosové kapacity. Česká republika v něm vystupuje jako samostatná **nabídková zóna** (bidding zone) propojená s okolními. ([entsoe.eu](https://www.entsoe.eu/network_codes/cacm/implementation/sadc/?utm_source=openai))  \n\nVyhláška 408/2015 Sb. výslovně říká, že denní trh organizuje OTE:\n\n- ve spolupráci s nominovanými organizátory denního trhu v **okolních nabídkových zónách**, nebo  \n- **v rámci jednotného propojení denních trhů** podle přímo použitelného EU předpisu o přidělování kapacity a řízení přetížení. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n\n### 5.2 Charakter ceny v nabídkové zóně\n\nRelevantní body:\n\n- V rámci SDAC se pro každou **nabídkovou zónu a časový interval** počítá **jedna clearingová cena**; tato cena však vzniká **v jednom společném algoritmu** pro všechny zóny, který zároveň optimalizuje i **přeshraniční toky**. ([entsoe.eu](https://www.entsoe.eu/network_codes/cacm/implementation/sadc/?utm_source=openai))  \n- Evropská komise popisuje tržní párování (market coupling) jako mechanismus, který **spojuje více geografických trhů do jednoho většího integrovaného trhu**, s cílem snížit cenové rozdíly, efektivněji využít zdroje a umožnit plynulé přeshraniční toky. ([energy.ec.europa.eu](https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai))  \n\nZároveň:\n\n- český ÚOHS při soutěžně‑právním vymezování trhu obvykle vymezuje **relevantní trh s elektřinou jako národní**, tj. území České republiky, pro účely posuzování koncentrací. ([uohs.gov.cz](https://uohs.gov.cz/cs/hospodarska-soutez/sbirky-rozhodnuti/detail-16352.html?utm_source=openai))  \n  - To ale souvisí s analýzou hospodářské soutěže, nikoli nutně s technickým mechanizmem tvorby cen v SDAC.\n\n### 5.3 Podíl krátkodobých trhů na pokrývání české spotřeby\n\nData OTE ukazují, že:\n\n- na krátkodobých trzích (denní + vnitrodenní) bylo v roce 2023 zobchodováno **31,52 TWh**, což představuje přibližně **polovinu tuzemské netto spotřeby**; na samotném denním trhu pak 25,92 TWh. ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-prekonalo-historicka-maxima-rika-operator-trhu?utm_source=openai))  \n- podobně v roce 2022 se na krátkodobých trzích zobchodovalo 29,42 TWh, což odpovídalo zhruba **47 % netto spotřeby**. ([tzb-info.cz](https://www.tzb-info.cz/ceny-paliv-a-energii/24825-obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-ote-v-roce-2022?utm_source=openai))  \n\nZbytek spotřeby je kryt **dvoustrannými smlouvami a termínovými kontrakty (futures, forwards)**, jejichž ceny však z velké části odrážejí očekávání ohledně budoucích spotových (denních) cen a evropské tržní situace. ([oenergetice.cz](https://oenergetice.cz/trh-s-elektrinou/trh-s-elektrinou?utm_source=openai))  \n\n### 5.4 Shrnutí k dílčímu tvrzení B\n\n- **Formálně** je český denní trh součástí **jednotného evropského denního trhu (SDAC)**, historicky budovaného zejména v rámci regionu střední a východní Evropy (4M MC, Core). ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/zpravy_ote/uspesne-spojeni-ceskeho-slovenskeho-madarskeho-a-rumunskeho-denniho-trhu-s-elektrinou-1?utm_source=openai))  \n- Ceny v české nabídkové zóně jsou **určovány v jednom společném algoritmu spolu s okolními zónami**, přičemž přeshraniční kapacity a nabídky/poptávky v sousedních zemích mají přímý vliv na výslednou cenu v ČR.\n- Přibližně **polovina české netto spotřeby** je obchodována na těchto krátkodobých (a tedy evropsky spojených) trzích; zbytek je kryt dlouhodobými kontrakty, jejichž ceny jsou na tyto trhy silně navázány. ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-prekonalo-historicka-maxima-rika-operator-trhu?utm_source=openai))  \n\nHavlíčkův popis, že se cena „počítá na středoevropském energetickém trhu“, je tedy zjednodušený (ve skutečnosti jde o **pan‑evropský** trh s nabídkovou zónou „Česká republika“), ale **věcně vystihuje, že cena není čistě domácí a je určována v rámci regionálně propojeného trhu**.\n\n---\n\n## 6. Shrnutí důkazů ke všem dílčím tvrzením\n\n### 6.1 Mechanismus tvorby ceny (souhrnná nabídka a poptávka)\n\n- OTE i české odborné zdroje popisují denní trh jako **aukci, v níž se křivky nabídek a poptávek sesouhlasí a vznikne marginální (clearingová) cena**, společná pro všechny přijaté nabídky v dané hodině/čtvrthodině. ([ote-cr.cz](https://www.ote-cr.cz/en/documentation/useful-information/glossary))  \n- Tvrzení o „principu součtové nabídky a součtové poptávky“ je plně v souladu s tímto oficiálním popisem.\n\n### 6.2 Není „cena podle zdroje“ – ale zdroj ovlivňuje marginální cenu a existují technologie‑specifické podpory\n\n- Velkoobchodní **marginal‑pricing model** v EU explicitně říká, že **všichni výrobci v daný okamžik dostávají stejnou cenu bez ohledu na technologii**, pokud se jejich nabídka vešla pod mezní cenu. ([energy.ec.europa.eu](https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai))  \n- **Mechanismus tedy skutečně nepočítá zvláštní tržní cenu pro jednotlivé typy zdrojů.** Rozdíly mezi zdroji se promítají do jejich nabídkových cen, nikoli do výpočtu výsledné ceny pro jednotku elektřiny v rámci zóny.\n- Na druhou stranu **zákon o podporovaných zdrojích energie a rozhodnutí ERÚ stanovují technologie‑specifické výkupní ceny a zelené bonusy**, hrazené z POZE, které se promítají do konečných cen odběratelů. ([oenergetice.cz](https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai))  \n\nZ pohledu **čisté velkoobchodní ceny silové elektřiny** je tedy výrok, že se cena „nevypočítává podle zdroje“, podložen fungováním trhu. Pokud se ale pojem „cena energie“ chápe jako **celková koncová cena**, pak je tvrzení zjednodušující, protože **část účtu je přímo vázána na podporu konkrétních typů zdrojů**.\n\n### 6.3 Regionální / „středoevropský“ charakter trhu\n\n- Historie 4M Market Coupling (CZ, SK, HU, RO) a následné napojení na západoevropský MRC region vedly k vytvoření **jednotného evropského denního trhu SDAC**, v němž se česká cena počítá společně s ostatními zónami. ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/zpravy_ote/uspesne-spojeni-ceskeho-slovenskeho-madarskeho-a-rumunskeho-denniho-trhu-s-elektrinou-1?utm_source=openai))  \n- Česká legislativa (vyhláška 408/2015 Sb.) výslovně počítá s **organizací denního trhu ve spolupráci s nominovanými operátory denního trhu v okolních nabídkových zónách, resp. v rámci jednotného propojení denních trhů**. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n- Krátkodobé trhy OTE (včetně denního trhu) pokrývají cca **polovinu české netto spotřeby**; jejich ceny jsou tedy pro domácí odběratele klíčovým referenčním signálem. ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-prekonalo-historicka-maxima-rika-operator-trhu?utm_source=openai))  \n\nProto je **věcně správné**, že cena (alespoň velkoobchodní) se „počítá“ na **regionálně propojeném trhu**, nikoli izolovaně podle domácího zdroje (například konkrétní jaderné elektrárny v ČR).\n\n---\n\n## 7. Celkové zhodnocení mechanizmu, který Havlíček popisuje\n\nZ dostupných oficiálních dokumentů a odborných zdrojů vyplývá, že:\n\n- Mechanismus tvorby **velkoobchodní** ceny silové elektřiny, který Karel Havlíček popisuje (evropský / středoevropský denní trh, agregovaná nabídka a poptávka, marginální cena), **odpovídá reálnému fungování českého trhu v rámci SDAC**. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n- Výrok ale **zjednodušuje**:\n  - podíl krátkodobých trhů vs. dlouhodobé kontrakty,  \n  - roli **technologie‑specifických podpor (POZE)** a regulovaných složek ceny v konečných účtech odběratelů, které „cenu energie“ (v širším smyslu) na typu zdroje do určité míry navazují. ([oenergetice.cz](https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai))  \n\nTato zpráva poskytuje podklady a citace, aby mohl lidský fact‑checker zodpovědně rozhodnout, do jaké míry je výrok pravdivý v úzkém smyslu (velkoobchodní cena silové elektřiny) a do jaké míry je zavádějící, pokud by byl chápán jako tvrzení o **celkové koncové ceně energie** pro české odběratele.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:16:01\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nTak...\\n00:16:01\\nTerezie Tománková,moderátorka\\nPoslední věc k energiím, pane ministře.\\n00:16:04\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nCena energie se nevypočítává podle zdroje. Kdybysme tady dneska měli Temelín, tak rozhodně nejsou levnější ceny energie, to už jste se mohli za tu dobu doučit. Ta se počítá na středoevropském energetickém trhu, na principu součtové nabídky a součtové poptávky, ale to je možná příliš komplikované pro diváky. Jenom jsem chtěl říct k těm kapitálovým výdajím, že říkáte, vy je nezvyšujete, tak vůči minulému roku je zvyšujeme o 12,3 miliardy korun českých.\\n00:16:26\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Cena energie se nevypočítává podle zdroje. (...) Ta se počítá na středoevropském energetickém trhu, na principu součtové nabídky a součtové poptávky.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 332.86 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Velkoobchodní cena elektřiny se v ČR skutečně určuje v rámci propojeného evropského trhu jako mezní cena z průsečíku nabídky a poptávky, nikoli administrativně podle typu zdroje. Výrok Karla Havlíčka proto hodnotíme jako pravda.</p>\n\n<p>Výrok zazněl v debatě o cenách elektřiny a o roli domácích zdrojů, zejména jaderných elektráren. Karel Havlíček vysvětloval, proč cena, za kterou se elektřina obchoduje, není přímo svázaná s konkrétním typem elektrárny, ale s pravidly velkoobchodního trhu.</p>\n\n<p>Výrok obsahuje tři faktická tvrzení, která je potřeba posoudit samostatně. Zaprvé, že se cena energie „nevypočítává podle zdroje“. Zadruhé, že se určuje na „středoevropském energetickém trhu“. Zatřetí, že se cena tvoří „na principu součtové nabídky a součtové poptávky“ – tedy průsečíkem souhrnné nabídky a souhrnné poptávky.</p>\n\n<p><strong>1) „Cena energie se nevypočítává podle zdroje“</strong></p>\n\n<p>Pravidla velkoobchodního trhu s elektřinou v ČR i v EU vycházejí z principu mezního oceňování. Evropská komise na svých <a href=\"https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai\">stránkách k návrhu trhu s elektřinou</a> popisuje, že velkoobchodní trh funguje v režimu tzv. „marginal pricing“: výrobci bez ohledu na technologii (jádro, uhlí, plyn, obnovitelné zdroje) podávají nabídky podle svých nákladů, poptávka se postupně pokrývá od nejlevnějších zdrojů a všichni výrobci, jejichž nabídka byla přijata, dostávají stejnou cenu odpovídající nejdražšímu ještě potřebnému zdroji.</p>\n\n<p>Popularizační text o fungování trhu s elektřinou na serveru <a href=\"https://www.podnikatel.cz/clanky/trh-s-elektrinou-neselhal-funguje-spravne-jak-tedy-vznika-cena-elektriny/\">Podnikatel.cz</a> vysvětluje tzv. merit‑order: elektrárny jsou seřazeny podle krátkodobých (variabilních) nákladů, systém vždy zapíná další a další zdroje, dokud nepokryje poptávku, a cena pro všechny se pak rovná nákladům tzv. závěrné (mezní) elektrárny. Tento postup nijak nezavádí různé tržní ceny podle technologie – jádro a uhlí v jedné hodině v jedné zóně dostanou stejnou velkoobchodní cenu, pokud jsou jejich nabídky přijaty.</p>\n\n<p>Zjednodušeně řečeno: typ zdroje ovlivňuje, s jak vysokou cenou je výrobce schopen nabídku podat (plynovka má typicky vyšší palivové náklady než jádro či vítr), ale samotný algoritmus výpočtu výsledné ceny nerozhoduje podle toho, zda jde o jádro, uhlí nebo plyn. V tomto smyslu se cena skutečně „nevypočítává podle zdroje“, ale podle společné aukce všech nabídek.</p>\n\n<p>Je ale potřeba dodat, že celkový příjem výrobce a konečná cena pro spotřebitele obsahují i složky, které na typu zdroje závisí. Rozbor zákona č. 165/2012 Sb. na serveru <a href=\"https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai\">Oenergetice</a> ukazuje, že pro obnovitelné zdroje, vysokoúčinnou kogeneraci a některé další technologie stát stanovuje technologicky odlišné výkupní ceny a zelené bonusy a že tyto podpory se hradí z příspěvku na podporované zdroje energie (POZE), který platí koneční odběratelé.</p>\n\n<p>Pokud tedy pojem „cena energie“ chápeme úzce jako velkoobchodní cenu silové elektřiny, tvrzení, že se nevypočítává podle zdroje, odpovídá skutečnému fungování trhu. Pokud bychom pod tím rozuměli celkovou koncovou cenu na faktuře, pak je výrok zjednodušující, protože některé složky účtu jsou přímo navázané na konkrétní typy zdrojů. V kontextu, v němž Havlíček mluvil o tvorbě tržní ceny elektřiny, hodnotíme toto dílčí tvrzení jako pravdivé.</p>\n\n<p><strong>2) „Cena se počítá na středoevropském energetickém trhu“</strong></p>\n\n<p>Krátkodobý trh s elektřinou v ČR – tedy denní a vnitrodenní trh – je popsán ve <a href=\"https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai\">vyhlášce č. 408/2015 Sb. o Pravidlech trhu s elektřinou</a>. Ta stanoví, že obchody na organizovaném krátkodobém trhu probíhají spojením nabídky s poptávkou a že denní trh organizuje operátor trhu OTE buď ve spolupráci s operátory okolních nabídkových zón, nebo v rámci jednotného propojení denních trhů podle evropských předpisů (§ 4 a § 6).</p>\n\n<p>Na evropské úrovni sdružení provozovatelů přenosových soustav ENTSO‑E ve svých <a href=\"https://www.entsoe.eu/network_codes/cacm/implementation/sadc/?utm_source=openai\">materiálech k projektu Single Day‑Ahead Coupling</a> popisuje jednotný denní trh s elektřinou (SDAC). Tento systém společným algoritmem spojuje národní či regionální nabídkové zóny, bere v úvahu omezení přenosových soustav a zároveň optimalizuje přeshraniční toky i ceny v jednotlivých zónách.</p>\n\n<p>ČEPS a OTE ve společné <a href=\"https://www.ote-cr.cz/cs/o-spolecnosti/pro-media/2021_17_06_tz_evropsky-denni-trh-s-elektrinou-se-propojil.pdf\">tiskové zprávě z června 2021</a> po zavedení tzv. Interim Couplingu uvádějí, že na denním trhu došlo k <i>„propojení nabídkových zón téměř všech členských států EU a Norska“</i> (str. 1). Zpráva také vysvětluje, že obchodník nyní nakupuje elektřinu i přeshraniční přenosovou kapacitu „na jednom místě“, což potvrzuje, že český denní trh je součástí širšího integrovaného trhu, a nikoli izolované národní burzy.</p>\n\n<p>Podle článku na serveru <a href=\"https://www.prumyslovaekologie.cz/info/obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-prekonalo-historicka-maxima-rika-operator-trhu?utm_source=openai\">Průmyslová ekologie</a> se na krátkodobých trzích OTE (denní a vnitrodenní) v roce 2023 zobchodovalo 31,52 TWh elektřiny, což odpovídá zhruba polovině české netto spotřeby. Zbytek se obchoduje převážně prostřednictvím dlouhodobých dvoustranných smluv a termínových kontraktů; server <a href=\"https://oenergetice.cz/trh-s-elektrinou/trh-s-elektrinou?utm_source=openai\">Oenergetice</a> uvádí, že ceny těchto kontraktů se zpravidla odvíjejí od očekávaného vývoje spotových cen a celkové evropské tržní situace.</p>\n\n<p>Formálně tedy nejde jen o „středoevropský“ trh, ale o celoevropský jednotný denní trh, v němž Česká republika tvoří jednu z nabídkových zón. Podstatou Havlíčkova tvrzení je ale to, že cena elektřiny v ČR se neurčuje izolovaně podle domácích zdrojů, ale v rámci širšího, přeshraničně propojeného trhu, kde mají význam i nabídky a poptávky v okolních zemích. Tento smysl výroku odpovídá realitě, i když geografické vymezení je poněkud zjednodušené. Dílčí tvrzení proto hodnotíme jako fakticky správné.</p>\n\n<p><strong>3) „Na principu součtové nabídky a součtové poptávky“</strong></p>\n\n<p>Vyhláška č. 408/2015 Sb. stanoví, že na organizovaném krátkodobém trhu probíhají obchody spojením nabídky a poptávky a že denní trh je organizován formou aukce, kde účastníci podávají anonymní nabídky a poptávky na jednotlivé hodiny dodávky elektřiny. Tato základní pravidla shrnuje část druhá vyhlášky, zejména ustanovení o organizovaném krátkodobém trhu a denním trhu (§ 4 a § 6) v úplném znění dostupném v systému <a href=\"https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai\">ASPI</a>.</p>\n\n<p>Společnost OTE ve svém <a href=\"https://www.ote-cr.cz/en/documentation/useful-information/glossary?utm_source=openai\">glosáři pojmů</a> popisuje, že pro každou obchodní hodinu se vytváří agregovaná (souhrnná) křivka nabídky z jednotlivých nabídkových bloků a obdobně křivka poptávky. Proces „sesouhlasení“ pak spočívá v nalezení průsečíku těchto křivek; v tomto bodě se určí obchodované množství a tzv. marginální (clearingová) cena pro danou hodinu. OTE zde přímo definuje i pojem „Market Clearing Price“ jako výslednou cenu elektřiny na denním trhu.</p>\n\n<p>Článek na portálu <a href=\"https://www.tzb-info.cz/ceny-paliv-a-energii/19803-jak-se-obchodovalo-na-spotovem-trhu-operatora-trhu-s-elektrinou-v-zari-2019?utm_source=openai\">TZB‑info</a> popisuje praktické fungování denního trhu tak, že po sesouhlasení nabídkové a poptávkové křivky vznikne pro každou hodinu jedna marginální cena a všechny nabídky s nižší cenou než tato hodnota jsou akceptovány; všichni akceptovaní účastníci pak obchodují za stejnou hodinovou cenu. To přesně odpovídá popisu „principu součtové nabídky a součtové poptávky“, který Havlíček používá.</p>\n\n<p>Z těchto oficiálních i odborných popisů je zřejmé, že velkoobchodní cena elektřiny na denním trhu se skutečně určuje jako průsečík souhrnné nabídky a souhrnné poptávky, nikoli např. individuálním vyjednáváním o různých cenách pro různé účastníky. Toto dílčí tvrzení hodnotíme jako pravdivé.</p>\n\n<p><strong>Závěrečné zhodnocení</strong></p>\n\n<p>Souhrnně lze říci, že mechanismus tvorby velkoobchodní ceny elektřiny, který Karel Havlíček popisuje, odpovídá platným pravidlům. Vyhláška č. 408/2015 Sb. a materiály OTE potvrzují, že na denním trhu v ČR probíhá anonymní aukce, v níž se sesouhlasí souhrnná nabídka a poptávka a vzniká jednotná marginální cena pro danou hodinu. Popisy Evropské komise a ENTSO‑E ukazují, že tento trh je součástí širšího evropského jednotného denního trhu, kde ceny v jednotlivých zónách vznikají v jednom společném algoritmu a nejsou určovány administrativně podle typu zdroje. Zároveň právní úprava podpory vybraných zdrojů energie znamená, že některé složky koncové ceny na faktuře závisí na technologii, což ale nemění podstatu Havlíčkova tvrzení o velkoobchodní ceně silové elektřiny.</p>\n\n<p>Všechna tři dílčí faktická tvrzení ve výroku se tak v kontextu velkoobchodního trhu ukazují jako věcně správná, i když pojem „středoevropský trh“ skutečnost mírně zjednodušuje a nepostihuje plný celoevropský rozsah propojení. Celkově proto výrok Karla Havlíčka hodnotíme jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0015b043216d589e0069a6d1d26f2081938e9625bbd06c0522",
+    "created_at": 1772540370.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0015b043216d589e0069a6d1df31e08193bc80c34cd2a6c512",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d1f568288193807518fa906d0c21",
+        "action": {
+          "query": "OTE princip obchodovani denni trh s elektrinou prusecik nabidky a poptavky jednotna cena",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "OTE princip obchodovani denni trh s elektrinou prusecik nabidky a poptavky jednotna cena",
+            "\"denni trh s elektrinou\" OTE \"nabidkova a poptavkova krivka\"",
+            "Core Flow-Based Market Coupling Czech bidding zone price determination supply demand",
+            "ACER electricity wholesale market marginal pricing uniform price auction intersection of supply and demand"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d1f862c08193a57784e87464f15c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d1f96bd4819397baed0dae2f904e",
+        "action": {
+          "query": "\"křivky sesouhlasení\" OTE denní trh s elektřinou",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"křivky sesouhlasení\" OTE denní trh s elektřinou",
+            "\"křivka sesouhlasení\" denní trh s elektřinou OTE",
+            "\"Market coupling\" \"Czech bidding zone\" day-ahead 4M MC Core FB MC",
+            "ACER \"marginal pricing\" \"wholesale electricity\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d1fc7cc881938398bfbaafc9c4c0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d1fdcb988193ae8c3d8ee06d2478",
+        "action": {
+          "query": "\"Denní trh s elektřinou\" \"OTE, a.s.\" pravidla marginalni cena jednotna cena pro dodavku",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Denní trh s elektřinou\" \"OTE, a.s.\" pravidla marginalni cena jednotna cena pro dodavku",
+            "\"jednotná cena\" \"denním trhu\" \"OTE\"",
+            "\"marginal pricing\" \"single clearing price\" \"electricity\" \"ACER\"",
+            "ACER assessment EU wholesale electricity market design \"pay-as-clear\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d200f10881938125efea9a2f16fe",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d201b20081939deccf284b955e44",
+        "action": {
+          "query": "\"Pravidla krátkodobého trhu\" OTE denní trh s elektřinou marginální cena",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Pravidla krátkodobého trhu\" OTE denní trh s elektřinou marginální cena",
+            "ote \"denní trh s elektřinou\" aukce marg",
+            "\"spotový trh s elektřinou\" cena se vytváří na základě skutečné nabídky a skutečné poptávky",
+            "\"pay-as-clear\" \"marginal pricing\" \"wholesale market in the EU\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d20590d0819392cf363298b1fb1a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d2064dcc819388fcc9339797c7da",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d208690c8193851f23dae05f825b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d208c6048193970f4783b21931fd",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d20d0de881938d05ccec8af464ce",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d21980988193beed1511f1721344",
+        "action": {
+          "query": "\"denni trh s elektrinou\" \"OTE\" \"spojen\" Slovensko Madarsko Rumunsko",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"denni trh s elektrinou\" \"OTE\" \"spojen\" Slovensko Madarsko Rumunsko",
+            "\"4M MC\" \"OTE\" denní trh",
+            "\"Operátor trhu organizuje obchodování na denním, vnitrodenním a blokovém trhu s elektřinou\"",
+            "\"trh s elektřinou v České republice i celé Evropské unii\" \"krátkodobé obchodování\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d21d93bc8193b29f60e90238d7f3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d21e2d348193b967b40ebc9edbe2",
+        "action": {
+          "query": "\"wholesale market in the EU is a system of marginal pricing\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"wholesale market in the EU is a system of marginal pricing\"",
+            "\"v EU je velkoobchodni trh\" \"marginal pricing\"",
+            "ACER final assessment wholesale electricity market design marginal pricing pay-as-clear",
+            "\"všichni výrobci elektřiny\" \"stejnou cenu\" velkoobchodní trh"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d222a038819384d2d03d637f09e8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d235b8d48193ba280cee97e490b2",
+        "action": {
+          "query": "\"podpora obnovitelných zdrojů\" \"výkupní ceny\" elektřina ČR",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"podpora obnovitelných zdrojů\" \"výkupní ceny\" elektřina ČR",
+            "\"zákon o podporovaných zdrojích energie\" výkupní ceny elektřiny",
+            "\"jistá výkupní cena\" elektřiny z obnovitelných zdrojů",
+            "\"jistá výkupní cena\" \"jaderná elektrárna\" \"Hinkley Point\" smlouva CfD"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d23c21f48193946cb6044f918f00",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d24b5e808193b75a1cbd90c2ce43",
+        "action": {
+          "query": "\"na denním trhu\" \"zobchoduje\" \"denní spotřebě\" ČR",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"na denním trhu\" \"zobchoduje\" \"denní spotřebě\" ČR",
+            "\"objem obchodů\" \"denní trh\" \"OTE\" 2023 podíl",
+            "\"zobchodované\" \"denní trh s elektřinou\" srpen 2023 2 346 GWh",
+            "\"denním trhu s elektřinou\" \"zobchodovalo\" \"TWh\" OTE"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d250176481938aeaad1bd7addb8d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d259f9508193b951a4aa150d6535",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d25b84d4819391e0a227cd868cf1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d265f26081939aebcc8b1735292c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d26d52d0819392e6edb5147a3b17",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d26e0560819396b0f6c589ffda03",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d27109b4819396d85e88874ffb05",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0015b043216d589e0069a6d2771ad88193ae086865e96bf05e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0015b043216d589e0069a6d27b26588193badfec692878a949",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0015b043216d589e0069a6d2a000248193a684ef324e6e7d36",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1356,
+                "start_index": 1168,
+                "title": "Vyhláška 408/2015 Sb. - o Pravidlech trhu s elektřinou úplné a aktualní znění | ASPI | Wolters Kluwer ČR, a. s.",
+                "type": "url_citation",
+                "url": "https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai"
+              },
+              {
+                "end_index": 1643,
+                "start_index": 1455,
+                "title": "Vyhláška 408/2015 Sb. - o Pravidlech trhu s elektřinou úplné a aktualní znění | ASPI | Wolters Kluwer ČR, a. s.",
+                "type": "url_citation",
+                "url": "https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai"
+              },
+              {
+                "end_index": 2046,
+                "start_index": 1858,
+                "title": "Vyhláška 408/2015 Sb. - o Pravidlech trhu s elektřinou úplné a aktualní znění | ASPI | Wolters Kluwer ČR, a. s.",
+                "type": "url_citation",
+                "url": "https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai"
+              },
+              {
+                "end_index": 2379,
+                "start_index": 2254,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.ote-cr.cz/cs/o-spolecnosti/pro-media/2021_17_06_tz_evropsky-denni-trh-s-elektrinou-se-propojil.pdf"
+              },
+              {
+                "end_index": 3010,
+                "start_index": 2916,
+                "title": "Single Day-ahead Coupling (SDAC)",
+                "type": "url_citation",
+                "url": "https://www.entsoe.eu/network_codes/cacm/implementation/sadc/?utm_source=openai"
+              },
+              {
+                "end_index": 3403,
+                "start_index": 3278,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.ote-cr.cz/cs/o-spolecnosti/pro-media/2021_17_06_tz_evropsky-denni-trh-s-elektrinou-se-propojil.pdf"
+              },
+              {
+                "end_index": 3855,
+                "start_index": 3756,
+                "title": "Glossary — English",
+                "type": "url_citation",
+                "url": "https://www.ote-cr.cz/en/documentation/useful-information/glossary?utm_source=openai"
+              },
+              {
+                "end_index": 4367,
+                "start_index": 4286,
+                "title": "Glossary — English",
+                "type": "url_citation",
+                "url": "https://www.ote-cr.cz/en/documentation/useful-information/glossary"
+              },
+              {
+                "end_index": 4687,
+                "start_index": 4499,
+                "title": "Vyhláška 408/2015 Sb. - o Pravidlech trhu s elektřinou úplné a aktualní znění | ASPI | Wolters Kluwer ČR, a. s.",
+                "type": "url_citation",
+                "url": "https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai"
+              },
+              {
+                "end_index": 5227,
+                "start_index": 5066,
+                "title": "Jak se obchodovalo na spotovém trhu Operátora trhu s elektřinou v září 2019 - TZB-info",
+                "type": "url_citation",
+                "url": "https://www.tzb-info.cz/ceny-paliv-a-energii/19803-jak-se-obchodovalo-na-spotovem-trhu-operatora-trhu-s-elektrinou-v-zari-2019?utm_source=openai"
+              },
+              {
+                "end_index": 5516,
+                "start_index": 5404,
+                "title": "Spotový trh s elektřinou | Porovnej24.cz",
+                "type": "url_citation",
+                "url": "https://www.porovnej24.cz/slovnik-pojmu/elektrina/spotovy-trh-s-elektrinou/?utm_source=openai"
+              },
+              {
+                "end_index": 5831,
+                "start_index": 5762,
+                "title": "SpotMarketIndex.cz – aktuální ceny elektřiny a plynu na trhu (OTE)",
+                "type": "url_citation",
+                "url": "https://spotmarketindex.cz/?utm_source=openai"
+              },
+              {
+                "end_index": 7047,
+                "start_index": 6919,
+                "title": "Electricity market design",
+                "type": "url_citation",
+                "url": "https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai"
+              },
+              {
+                "end_index": 7836,
+                "start_index": 7711,
+                "title": "Trh s elektřinou neselhal, funguje správně. Jak tedy vzniká cena elektřiny? - Podnikatel.cz",
+                "type": "url_citation",
+                "url": "https://www.podnikatel.cz/clanky/trh-s-elektrinou-neselhal-funguje-spravne-jak-tedy-vznika-cena-elektriny/"
+              },
+              {
+                "end_index": 8647,
+                "start_index": 8521,
+                "title": "Zákon o podporovaných zdrojích energie",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai"
+              },
+              {
+                "end_index": 8936,
+                "start_index": 8810,
+                "title": "Zákon o podporovaných zdrojích energie",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai"
+              },
+              {
+                "end_index": 9294,
+                "start_index": 9150,
+                "title": "Kde se vzal příspěvek na obnovitelné zdroje. Za léta by už vydal na jaderný blok - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/ekonomika/domaci/energeticky-regulacni-urad-centropol-egu-poze.A251104_150511_ekonomika_hyk?utm_source=openai"
+              },
+              {
+                "end_index": 9979,
+                "start_index": 9829,
+                "title": "Getting the price signals right: ACER’s principles for fair and cost-reflective electricity network tariffs | www.acer.europa.eu",
+                "type": "url_citation",
+                "url": "https://www.acer.europa.eu/news/getting-price-signals-right-fair-and-cost-reflective-electricity-network-tariffs?utm_source=openai"
+              },
+              {
+                "end_index": 10757,
+                "start_index": 10629,
+                "title": "Electricity market design",
+                "type": "url_citation",
+                "url": "https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai"
+              },
+              {
+                "end_index": 11142,
+                "start_index": 11016,
+                "title": "Zákon o podporovaných zdrojích energie",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai"
+              },
+              {
+                "end_index": 12056,
+                "start_index": 11930,
+                "title": "11. září 2012 se propojí český, slovenský a maďarský denní trh s elektřinou | eru.gov.cz",
+                "type": "url_citation",
+                "url": "https://eru.gov.cz/11-zari-2012-se-propoji-cesky-slovensky-a-madarsky-denni-trh-s-elektrinou?utm_source=openai"
+              },
+              {
+                "end_index": 12389,
+                "start_index": 12219,
+                "title": "Úspěšné spojení českého, slovenského, maďarského a rumunského denního trhu s elektřinou — Čeština",
+                "type": "url_citation",
+                "url": "https://www.ote-cr.cz/cs/o-spolecnosti/zpravy_ote/uspesne-spojeni-ceskeho-slovenskeho-madarskeho-a-rumunskeho-denniho-trhu-s-elektrinou-1?utm_source=openai"
+              },
+              {
+                "end_index": 12846,
+                "start_index": 12721,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://www.ote-cr.cz/cs/o-spolecnosti/pro-media/2021_17_06_tz_evropsky-denni-trh-s-elektrinou-se-propojil.pdf"
+              },
+              {
+                "end_index": 13247,
+                "start_index": 13153,
+                "title": "Single Day-ahead Coupling (SDAC)",
+                "type": "url_citation",
+                "url": "https://www.entsoe.eu/network_codes/cacm/implementation/sadc/?utm_source=openai"
+              },
+              {
+                "end_index": 13733,
+                "start_index": 13545,
+                "title": "Vyhláška 408/2015 Sb. - o Pravidlech trhu s elektřinou úplné a aktualní znění | ASPI | Wolters Kluwer ČR, a. s.",
+                "type": "url_citation",
+                "url": "https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai"
+              },
+              {
+                "end_index": 14117,
+                "start_index": 14023,
+                "title": "Single Day-ahead Coupling (SDAC)",
+                "type": "url_citation",
+                "url": "https://www.entsoe.eu/network_codes/cacm/implementation/sadc/?utm_source=openai"
+              },
+              {
+                "end_index": 14501,
+                "start_index": 14373,
+                "title": "Electricity market design",
+                "type": "url_citation",
+                "url": "https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai"
+              },
+              {
+                "end_index": 14801,
+                "start_index": 14689,
+                "title": "Úřad pro ochranu hospodářské soutěže | Sbírky rozhodnutí",
+                "type": "url_citation",
+                "url": "https://uohs.gov.cz/cs/hospodarska-soutez/sbirky-rozhodnuti/detail-16352.html?utm_source=openai"
+              },
+              {
+                "end_index": 15379,
+                "start_index": 15192,
+                "title": "Obchodování na krátkodobých trzích s elektřinou a plynem překonalo historická maxima, říká operátor trhu | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-prekonalo-historicka-maxima-rika-operator-trhu?utm_source=openai"
+              },
+              {
+                "end_index": 15659,
+                "start_index": 15501,
+                "title": "Obchodování na krátkodobých trzích s elektřinou a plynem OTE v roce 2022 - TZB-info",
+                "type": "url_citation",
+                "url": "https://www.tzb-info.cz/ceny-paliv-a-energii/24825-obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-ote-v-roce-2022?utm_source=openai"
+              },
+              {
+                "end_index": 15973,
+                "start_index": 15879,
+                "title": "Trh s elektřinou - specifika, účastnící trhu a rozdělení",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/trh-s-elektrinou/trh-s-elektrinou?utm_source=openai"
+              },
+              {
+                "end_index": 16361,
+                "start_index": 16191,
+                "title": "Úspěšné spojení českého, slovenského, maďarského a rumunského denního trhu s elektřinou — Čeština",
+                "type": "url_citation",
+                "url": "https://www.ote-cr.cz/cs/o-spolecnosti/zpravy_ote/uspesne-spojeni-ceskeho-slovenskeho-madarskeho-a-rumunskeho-denniho-trhu-s-elektrinou-1?utm_source=openai"
+              },
+              {
+                "end_index": 16968,
+                "start_index": 16781,
+                "title": "Obchodování na krátkodobých trzích s elektřinou a plynem překonalo historická maxima, říká operátor trhu | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-prekonalo-historicka-maxima-rika-operator-trhu?utm_source=openai"
+              },
+              {
+                "end_index": 17663,
+                "start_index": 17582,
+                "title": "Glossary — English",
+                "type": "url_citation",
+                "url": "https://www.ote-cr.cz/en/documentation/useful-information/glossary"
+              },
+              {
+                "end_index": 18214,
+                "start_index": 18086,
+                "title": "Electricity market design",
+                "type": "url_citation",
+                "url": "https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai"
+              },
+              {
+                "end_index": 18767,
+                "start_index": 18641,
+                "title": "Zákon o podporovaných zdrojích energie",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai"
+              },
+              {
+                "end_index": 19525,
+                "start_index": 19355,
+                "title": "Úspěšné spojení českého, slovenského, maďarského a rumunského denního trhu s elektřinou — Čeština",
+                "type": "url_citation",
+                "url": "https://www.ote-cr.cz/cs/o-spolecnosti/zpravy_ote/uspesne-spojeni-ceskeho-slovenskeho-madarskeho-a-rumunskeho-denniho-trhu-s-elektrinou-1?utm_source=openai"
+              },
+              {
+                "end_index": 19938,
+                "start_index": 19750,
+                "title": "Vyhláška 408/2015 Sb. - o Pravidlech trhu s elektřinou úplné a aktualní znění | ASPI | Wolters Kluwer ČR, a. s.",
+                "type": "url_citation",
+                "url": "https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai"
+              },
+              {
+                "end_index": 20296,
+                "start_index": 20109,
+                "title": "Obchodování na krátkodobých trzích s elektřinou a plynem překonalo historická maxima, říká operátor trhu | Průmyslová ekologie",
+                "type": "url_citation",
+                "url": "https://www.prumyslovaekologie.cz/info/obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-prekonalo-historicka-maxima-rika-operator-trhu?utm_source=openai"
+              },
+              {
+                "end_index": 21055,
+                "start_index": 20867,
+                "title": "Vyhláška 408/2015 Sb. - o Pravidlech trhu s elektřinou úplné a aktualní znění | ASPI | Wolters Kluwer ČR, a. s.",
+                "type": "url_citation",
+                "url": "https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai"
+              },
+              {
+                "end_index": 21459,
+                "start_index": 21333,
+                "title": "Zákon o podporovaných zdrojích energie",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Vymezení a rozklad výroku\n\nPosuzovaný výrok Karla Havlíčka (v kontextu debaty o cenách elektřiny a jaderném zdroji Temelín) lze přeložit a rozdělit takto:\n\n> „Cena energie se nevypočítává podle zdroje. (…) Ta se počítá na středoevropském energetickém trhu, na principu součtové nabídky a součtové poptávky.“\n\nPravděpodobný význam v kontextu:\n\n- mluví o **velkoobchodní ceně silové elektřiny** (nikoli o koncové ceně na faktuře),\n- tvrdí, že:\n  1. **(A)** cena se neurčuje „podle zdroje“ (tj. není přímo administrativně navázána na konkrétní typ elektrárny – jádro, uhlí, plyn…),\n  2. **(B)** cena se určuje na **regionálně (středoevropsky / evropsky) propojeném trhu**, nikoli izolovaně jen podle české výroby,\n  3. **(C)** mechanismus tvorby ceny je **průsečík (souhrnné) nabídky a (souhrnné) poptávky** – tzv. merit‑order / mezní (marginal) cena.\n\nNíže je rozbor každé dílčí části se zdroji.\n\n---\n\n## 2. Stručné pozadí: jak je v ČR organizován trh s elektřinou\n\n### 2.1 Právní rámec a role OTE\n\nVyhláška č. 408/2015 Sb. o Pravidlech trhu s elektřinou:\n\n- definuje **organizovaný krátkodobý trh s elektřinou** jako soubor **denního trhu a vnitrodenního trhu**. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n- stanoví, že obchody na tomto trhu jsou **anonymní a probíhají spojením nabídky s poptávkou**. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n- denní trh organizuje operátor trhu (OTE) **ve spolupráci s nominovanými organizátory denního trhu v okolních nabídkových zónách** nebo **v rámci jednotného propojení denních trhů** (Single Day‑Ahead Coupling). ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n\nOTE ve svých materiálech uvádí, že organizuje obchodování na denním, vnitrodenním a blokovém trhu s elektřinou a je **nominovaným organizátorem trhu (NEMO)** pro účely evropského jednotného denního trhu. ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/pro-media/2021_17_06_tz_evropsky-denni-trh-s-elektrinou-se-propojil.pdf))\n\n### 2.2 Jednotný evropský denní trh (SDAC)\n\nENTSO‑E (sdružení evropských provozovatelů přenosových soustav) popisuje **Single Day‑Ahead Coupling (SDAC)** takto:\n\n- cílem je **jednotný panevropský denní trh s elektřinou**, kde jsou trhy různých zemí spojeny **společným algoritmem**, který bere v úvahu **přenosová omezení** a maximalizuje společenský přebytek,  \n- historicky byl český denní trh součástí regionu **4M MC (CZ, SK, HU, RO)** a od roku 2021 je přes tzv. Interim Coupling plně propojen se zbytkem evropského denního trhu. ([entsoe.eu](https://www.entsoe.eu/network_codes/cacm/implementation/sadc/?utm_source=openai))  \n\nTisková zpráva ČEPS a OTE z června 2021 přímo uvádí, že zavedením Interim Couplingu došlo **„k propojení nabídkových zón téměř všech členských států EU a Norska“** na denním trhu, přičemž obchodník nyní získává elektřinu i přeshraniční kapacitu „na jednom místě“. ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/pro-media/2021_17_06_tz_evropsky-denni-trh-s-elektrinou-se-propojil.pdf))  \n\n---\n\n## 3. Dílčí tvrzení C: Cena se určuje průsečíkem (součtové) nabídky a poptávky\n\n### 3.1 Oficiální popis od OTE a české legislativy\n\nV terminologii OTE:\n\n- **„sesouhlasení“** je definováno (v české verzi glosáře) jako proces, ve kterém se **nachází průsečík křivky nabídky a křivky poptávky** – tedy přesně mechanismus, který Havlíček popisuje. ([ote-cr.cz](https://www.ote-cr.cz/en/documentation/useful-information/glossary?utm_source=openai))  \n- glosář dále definuje:\n  - **„Nabídková křivka“** jako křivku vytvořenou **geometrickým součtem nabídek pro danou obchodní hodinu** (tj. agregovaná nabídka),  \n  - **„Křivky sesouhlasení“** jako **křivky nabídek a poptávek, které stanovují akceptované množství a akceptovanou cenu**,  \n  - **„MC – Marginální cena (Market Clearing Price)“** jako cenu elektřiny na denním trhu pro jednotlivé hodiny, stanovenou operátorem trhu. ([ote-cr.cz](https://www.ote-cr.cz/en/documentation/useful-information/glossary))  \n\nVyhláška 408/2015 Sb. výslovně říká, že obchody na organizovaném krátkodobém trhu probíhají **„spojením nabídky s poptávkou“**. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n\n### 3.2 Odborné a popularizační české zdroje\n\nČeské portály popisující spotový trh:\n\n- **TZB‑info (2019)** o denním trhu OTE: po sesouhlasení křivek nabídky a poptávky je určena **marginální cena**, jsou akceptovány všechny nabídky s nižší cenou než marginální a všechny poptávky s vyšší cenou – což je přesný popis jednotné clearingové ceny v průsečíku agregovaných křivek. ([tzb-info.cz](https://www.tzb-info.cz/ceny-paliv-a-energii/19803-jak-se-obchodovalo-na-spotovem-trhu-operatora-trhu-s-elektrinou-v-zari-2019?utm_source=openai))  \n- **Porovnej24** vysvětluje, že na spotovém trhu se cena **vytváří na základě skutečné nabídky a skutečné poptávky**; organizátorem trhu je OTE a každá hodina má svoji cenu. ([porovnej24.cz](https://www.porovnej24.cz/slovnik-pojmu/elektrina/spotovy-trh-s-elektrinou/?utm_source=openai))  \n- specializované weby sledující data OTE (SpotMarketIndex, Energospot) uvádějí, že na denním trhu OTE probíhá **denní aukce**, kde lze anonymně nabízet/poptávat elektřinu a uzavírat obchody **za jednotnou cenu pro jednotlivé hodiny dodávky**. ([spotmarketindex.cz](https://spotmarketindex.cz/?utm_source=openai))  \n\n### 3.3 Závěr k dílčímu tvrzení C\n\nOficiální terminologie OTE (sesouhlasení, křivky sesouhlasení, marginální cena) i nezávislé popisy denního trhu jednoznačně potvrzují, že **hodinová (resp. čtvrthodinová) velkoobchodní cena elektřiny je na denním trhu v ČR stanovena průsečíkem agregované nabídky a agregované poptávky**.  \n\nTvrzení o „principu součtové nabídky a součtové poptávky“ je tedy fakticky v souladu s používaným mechanismem.\n\n---\n\n## 4. Dílčí tvrzení A: „Cena energie se nevypočítává podle zdroje“\n\n### 4.1 Jak funguje velkoobchodní tvorba ceny v EU\n\nEvropská komise shrnuje model tvorby velkoobchodní ceny takto:\n\n- **velkoobchodní trh v EU je systém mezních cen („marginal pricing“, „pay‑as‑clear“) – všichni výrobci v daném okamžiku dostávají stejnou cenu**,  \n- výrobci (bez ohledu na typ zdroje) podávají nabídky podle svých výrobních nákladů, od nejlevnějších po nejdražší; poptávka se uspokojuje od nejlevnějších zdrojů postupně,  \n- **jakmile je poptávka pokryta, všichni přijatí výrobci dostanou cenu posledního (nejdražšího) zdroje nutného k pokrytí poptávky**. ([energy.ec.europa.eu](https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai))  \n\nTento mechanismus:\n\n- **nerozlišuje cenu podle technologie jako takové** (neexistuje zvláštní „jaderná“ nebo „uhelná“ velkoobchodní cena pro stejný čas a stejnou zónu),\n- ale **typ zdroje ovlivňuje jeho nabídkovou cenu** (např. nízké variabilní náklady jaderných či obnovitelných zdrojů → jsou typicky levnější a v merit‑order křivce vlevo).\n\nČeský popularizační článek (překlad textu prof. Liona Hirtha) vysvětluje tzv. **merit‑order**:\n\n- ceny elektřiny se **stanovují podle variabilních nákladů mezního zařízení – nejdražší elektrárny, která je ještě potřeba k uspokojení poptávky („závěrná elektrárna“) – všichni výrobci i spotřebitelé platí tutéž cenu**. ([podnikatel.cz](https://www.podnikatel.cz/clanky/trh-s-elektrinou-neselhal-funguje-spravne-jak-tedy-vznika-cena-elektriny/))  \n\nTo znamená, že **z hlediska samotného algoritmu**:\n\n- cena **není přímo vypočítávána „podle toho, zda jde o jádro, uhlí, plyn“**,  \n- ale **typ zdroje ovlivní, kde leží v nabídkové křivce** – a tedy, zda a kdy se stane mezním zdrojem, který cenu určuje.\n\n### 4.2 Technologie‑specifická podpora (co může tvrzení komplikovat)\n\nJe však důležité upozornit na dva aspekty, které jeho zjednodušenou formulaci částečně rozostřují:\n\n1. **Podpora vybraných zdrojů energie (POZE, zákon o podporovaných zdrojích energie)**  \n   - Zákon o podporovaných zdrojích energie definuje **zelené bonusy a výkupní ceny** jako formy podpory elektřiny z OZE, vysokoúčinné kogenerace a druhotných zdrojů. ([oenergetice.cz](https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai))  \n   - Výši podpory (bonusů a výkupních cen) stanovuje ERÚ pro **jednotlivé typy zdrojů zvlášť** tak, aby se dosáhlo určité návratnosti investice (např. 15 let). ([oenergetice.cz](https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai))  \n   - Tyto podpory jsou **hrazeny z příspěvku na podporované zdroje energie (POZE)**, který tvoří část konečné ceny pro odběratele; média uvádějí, že domácnosti platí ročně řádově miliardy korun na tuto podporu. ([idnes.cz](https://www.idnes.cz/ekonomika/domaci/energeticky-regulacni-urad-centropol-egu-poze.A251104_150511_ekonomika_hyk?utm_source=openai))  \n\n   → **Z hlediska příjmů výrobce** tedy platí, že např. fotovoltaika dostává jinou (technologicky specifickou) celkovou cenu za MWh než jaderná elektrárna – ale část z toho je tržní velkoobchodní cena, část regulovaná podpora.\n\n2. **Koncová cena pro domácnosti a firmy**  \n   - Koncová cena na faktuře se skládá ze:\n     - **neregulované části – silová elektřina**, typicky navázaná na velkoobchodní ceny (spot nebo futures),  \n     - **regulovaných složek** (distribuce, přenos, POZE, systémové služby atd.), které stanovuje ERÚ. ([acer.europa.eu](https://www.acer.europa.eu/news/getting-price-signals-right-fair-and-cost-reflective-electricity-network-tariffs?utm_source=openai))  \n   - Některé regulované složky (např. POZE) jsou přímo určeny k financování konkrétních typů zdrojů; koncová „cena energie“ v tomto širším smyslu tak **částí své struktury na typu zdrojů závisí** – ale jde o **regulační rozhodnutí**, ne o mechanismus tvorby velkoobchodní ceny.\n\n### 4.3 Shrnutí k dílčímu tvrzení A\n\n- **Pro velkoobchodní cenu silové elektřiny v jedné nabídkové zóně a čase**:\n  - cena je výsledkem **společné aukce všech zdrojů**,  \n  - **všichni přijatí výrobci dostávají stejnou cenu bez ohledu na typ zdroje**,  \n  - algoritmus nepočítá odlišnou tržní cenu „podle technologie“; technologie se promítá pouze do nabídkových cen. ([energy.ec.europa.eu](https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai))  \n\n- **Z hlediska celkových příjmů výrobce a konečné ceny pro odběratele**:\n  - existují **technologie‑specifické podpory (výkupní ceny, zelené bonusy)** a poplatky (POZE), které jsou **přímo navázány na typ zdroje** a tvoří část konečné ceny pro zákazníka. ([oenergetice.cz](https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai))  \n\nVýrok „cena energie se nevypočítává podle zdroje“ je tedy **věcně v souladu s fungováním velkoobchodního trhu**, pokud ho vztáhneme k **tržní ceně silové elektřiny**. Zároveň ale **opomíjí** skutečnost, že **technologie‑specifická podpora a její promítnutí do účtů koncových zákazníků** činí celkovou „cenu energie“ pro odběratele částečně závislou na mixu zdrojů a nastavení podpory.\n\n---\n\n## 5. Dílčí tvrzení B: Cena se počítá na „středoevropském energetickém trhu“\n\n### 5.1 Propojení českého denního trhu se zahraničím\n\nHistorie a současnost tržního propojení:\n\n- **2012** – propojení denních trhů ČR, Slovenska a Maďarska (CZ‑SK‑HU Market Coupling). Nabídky a poptávky registrované účastníky všech tří denních trhů se obchodují společně až do výše dostupné přeshraniční kapacity. ([eru.gov.cz](https://eru.gov.cz/11-zari-2012-se-propoji-cesky-slovensky-a-madarsky-denni-trh-s-elektrinou?utm_source=openai))  \n- **2014** – rozšíření na Rumunsko, vznik CZ‑SK‑HU‑RO Market Coupling (4M MC); cílem je kompatibilita s evropským cílovým modelem jednotného trhu s elektřinou. ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/zpravy_ote/uspesne-spojeni-ceskeho-slovenskeho-madarskeho-a-rumunskeho-denniho-trhu-s-elektrinou-1?utm_source=openai))  \n- **2021** – tzv. **Interim Coupling** spojuje 4M MC se západoevropským regionem (MRC), ruší explicitní aukce na hranicích CZ‑DE, CZ‑AT aj. a zavádí **implicitní alokaci**, kdy obchodník získává elektřinu i přeshraniční kapacitu „na jednom místě“; tisková zpráva ČEPS/OTE hovoří o propojení nabídkových zón téměř všech států EU. ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/pro-media/2021_17_06_tz_evropsky-denni-trh-s-elektrinou-se-propojil.pdf))  \n- ENTSO‑E uvádí, že SDAC spojuje **více regionů Evropy do jednoho integrovaného denního trhu** prostřednictvím jednotného algoritmu, který maximálně efektivně alokuje přeshraniční přenosové kapacity. Česká republika v něm vystupuje jako samostatná **nabídková zóna** (bidding zone) propojená s okolními. ([entsoe.eu](https://www.entsoe.eu/network_codes/cacm/implementation/sadc/?utm_source=openai))  \n\nVyhláška 408/2015 Sb. výslovně říká, že denní trh organizuje OTE:\n\n- ve spolupráci s nominovanými organizátory denního trhu v **okolních nabídkových zónách**, nebo  \n- **v rámci jednotného propojení denních trhů** podle přímo použitelného EU předpisu o přidělování kapacity a řízení přetížení. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n\n### 5.2 Charakter ceny v nabídkové zóně\n\nRelevantní body:\n\n- V rámci SDAC se pro každou **nabídkovou zónu a časový interval** počítá **jedna clearingová cena**; tato cena však vzniká **v jednom společném algoritmu** pro všechny zóny, který zároveň optimalizuje i **přeshraniční toky**. ([entsoe.eu](https://www.entsoe.eu/network_codes/cacm/implementation/sadc/?utm_source=openai))  \n- Evropská komise popisuje tržní párování (market coupling) jako mechanismus, který **spojuje více geografických trhů do jednoho většího integrovaného trhu**, s cílem snížit cenové rozdíly, efektivněji využít zdroje a umožnit plynulé přeshraniční toky. ([energy.ec.europa.eu](https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai))  \n\nZároveň:\n\n- český ÚOHS při soutěžně‑právním vymezování trhu obvykle vymezuje **relevantní trh s elektřinou jako národní**, tj. území České republiky, pro účely posuzování koncentrací. ([uohs.gov.cz](https://uohs.gov.cz/cs/hospodarska-soutez/sbirky-rozhodnuti/detail-16352.html?utm_source=openai))  \n  - To ale souvisí s analýzou hospodářské soutěže, nikoli nutně s technickým mechanizmem tvorby cen v SDAC.\n\n### 5.3 Podíl krátkodobých trhů na pokrývání české spotřeby\n\nData OTE ukazují, že:\n\n- na krátkodobých trzích (denní + vnitrodenní) bylo v roce 2023 zobchodováno **31,52 TWh**, což představuje přibližně **polovinu tuzemské netto spotřeby**; na samotném denním trhu pak 25,92 TWh. ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-prekonalo-historicka-maxima-rika-operator-trhu?utm_source=openai))  \n- podobně v roce 2022 se na krátkodobých trzích zobchodovalo 29,42 TWh, což odpovídalo zhruba **47 % netto spotřeby**. ([tzb-info.cz](https://www.tzb-info.cz/ceny-paliv-a-energii/24825-obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-ote-v-roce-2022?utm_source=openai))  \n\nZbytek spotřeby je kryt **dvoustrannými smlouvami a termínovými kontrakty (futures, forwards)**, jejichž ceny však z velké části odrážejí očekávání ohledně budoucích spotových (denních) cen a evropské tržní situace. ([oenergetice.cz](https://oenergetice.cz/trh-s-elektrinou/trh-s-elektrinou?utm_source=openai))  \n\n### 5.4 Shrnutí k dílčímu tvrzení B\n\n- **Formálně** je český denní trh součástí **jednotného evropského denního trhu (SDAC)**, historicky budovaného zejména v rámci regionu střední a východní Evropy (4M MC, Core). ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/zpravy_ote/uspesne-spojeni-ceskeho-slovenskeho-madarskeho-a-rumunskeho-denniho-trhu-s-elektrinou-1?utm_source=openai))  \n- Ceny v české nabídkové zóně jsou **určovány v jednom společném algoritmu spolu s okolními zónami**, přičemž přeshraniční kapacity a nabídky/poptávky v sousedních zemích mají přímý vliv na výslednou cenu v ČR.\n- Přibližně **polovina české netto spotřeby** je obchodována na těchto krátkodobých (a tedy evropsky spojených) trzích; zbytek je kryt dlouhodobými kontrakty, jejichž ceny jsou na tyto trhy silně navázány. ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-prekonalo-historicka-maxima-rika-operator-trhu?utm_source=openai))  \n\nHavlíčkův popis, že se cena „počítá na středoevropském energetickém trhu“, je tedy zjednodušený (ve skutečnosti jde o **pan‑evropský** trh s nabídkovou zónou „Česká republika“), ale **věcně vystihuje, že cena není čistě domácí a je určována v rámci regionálně propojeného trhu**.\n\n---\n\n## 6. Shrnutí důkazů ke všem dílčím tvrzením\n\n### 6.1 Mechanismus tvorby ceny (souhrnná nabídka a poptávka)\n\n- OTE i české odborné zdroje popisují denní trh jako **aukci, v níž se křivky nabídek a poptávek sesouhlasí a vznikne marginální (clearingová) cena**, společná pro všechny přijaté nabídky v dané hodině/čtvrthodině. ([ote-cr.cz](https://www.ote-cr.cz/en/documentation/useful-information/glossary))  \n- Tvrzení o „principu součtové nabídky a součtové poptávky“ je plně v souladu s tímto oficiálním popisem.\n\n### 6.2 Není „cena podle zdroje“ – ale zdroj ovlivňuje marginální cenu a existují technologie‑specifické podpory\n\n- Velkoobchodní **marginal‑pricing model** v EU explicitně říká, že **všichni výrobci v daný okamžik dostávají stejnou cenu bez ohledu na technologii**, pokud se jejich nabídka vešla pod mezní cenu. ([energy.ec.europa.eu](https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en?utm_source=openai))  \n- **Mechanismus tedy skutečně nepočítá zvláštní tržní cenu pro jednotlivé typy zdrojů.** Rozdíly mezi zdroji se promítají do jejich nabídkových cen, nikoli do výpočtu výsledné ceny pro jednotku elektřiny v rámci zóny.\n- Na druhou stranu **zákon o podporovaných zdrojích energie a rozhodnutí ERÚ stanovují technologie‑specifické výkupní ceny a zelené bonusy**, hrazené z POZE, které se promítají do konečných cen odběratelů. ([oenergetice.cz](https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai))  \n\nZ pohledu **čisté velkoobchodní ceny silové elektřiny** je tedy výrok, že se cena „nevypočítává podle zdroje“, podložen fungováním trhu. Pokud se ale pojem „cena energie“ chápe jako **celková koncová cena**, pak je tvrzení zjednodušující, protože **část účtu je přímo vázána na podporu konkrétních typů zdrojů**.\n\n### 6.3 Regionální / „středoevropský“ charakter trhu\n\n- Historie 4M Market Coupling (CZ, SK, HU, RO) a následné napojení na západoevropský MRC region vedly k vytvoření **jednotného evropského denního trhu SDAC**, v němž se česká cena počítá společně s ostatními zónami. ([ote-cr.cz](https://www.ote-cr.cz/cs/o-spolecnosti/zpravy_ote/uspesne-spojeni-ceskeho-slovenskeho-madarskeho-a-rumunskeho-denniho-trhu-s-elektrinou-1?utm_source=openai))  \n- Česká legislativa (vyhláška 408/2015 Sb.) výslovně počítá s **organizací denního trhu ve spolupráci s nominovanými operátory denního trhu v okolních nabídkových zónách, resp. v rámci jednotného propojení denních trhů**. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n- Krátkodobé trhy OTE (včetně denního trhu) pokrývají cca **polovinu české netto spotřeby**; jejich ceny jsou tedy pro domácí odběratele klíčovým referenčním signálem. ([prumyslovaekologie.cz](https://www.prumyslovaekologie.cz/info/obchodovani-na-kratkodobych-trzich-s-elektrinou-a-plynem-prekonalo-historicka-maxima-rika-operator-trhu?utm_source=openai))  \n\nProto je **věcně správné**, že cena (alespoň velkoobchodní) se „počítá“ na **regionálně propojeném trhu**, nikoli izolovaně podle domácího zdroje (například konkrétní jaderné elektrárny v ČR).\n\n---\n\n## 7. Celkové zhodnocení mechanizmu, který Havlíček popisuje\n\nZ dostupných oficiálních dokumentů a odborných zdrojů vyplývá, že:\n\n- Mechanismus tvorby **velkoobchodní** ceny silové elektřiny, který Karel Havlíček popisuje (evropský / středoevropský denní trh, agregovaná nabídka a poptávka, marginální cena), **odpovídá reálnému fungování českého trhu v rámci SDAC**. ([aspi.cz](https://www.aspi.cz/products/lawText/1/85491/67/2/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou/vyhlaska-c-408-2015-sb-o-pravidlech-trhu-s-elektrinou?utm_source=openai))  \n- Výrok ale **zjednodušuje**:\n  - podíl krátkodobých trhů vs. dlouhodobé kontrakty,  \n  - roli **technologie‑specifických podpor (POZE)** a regulovaných složek ceny v konečných účtech odběratelů, které „cenu energie“ (v širším smyslu) na typu zdroje do určité míry navazují. ([oenergetice.cz](https://oenergetice.cz/energeticka-legislativa-cr/zakon-o-podporovanych-zdrojich-energie?utm_source=openai))  \n\nTato zpráva poskytuje podklady a citace, aby mohl lidský fact‑checker zodpovědně rozhodnout, do jaké míry je výrok pravdivý v úzkém smyslu (velkoobchodní cena silové elektřiny) a do jaké míry je zavádějící, pokud by byl chápán jako tvrzení o **celkové koncové ceně energie** pro české odběratele.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 86039,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 17182,
+      "output_tokens_details": {
+        "reasoning_tokens": 10925
+      },
+      "total_tokens": 103221
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772540674,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

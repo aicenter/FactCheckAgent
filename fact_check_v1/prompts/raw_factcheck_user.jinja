@@ -1,0 +1,11 @@
+{% if source %}
+The following claim comes from: {{source}}
+{% endif %}
+{% if speaker %}
+The claim was made by: {{speaker}}
+{% endif %}
+{% if context %}
+The claim appears in the following immediate context in the source:
+{{context}}
+{% endif %}
+Provide a structured, citation-backed verification of the claim: '{{claim}}'

@@ -1,0 +1,602 @@
+{
+  "claim_id": "24603",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260220_173536",
+  "source_md": "experiments/gpt5.1_h_20260220_173536/brief_fact_check_id24603.md",
+  "fact_check": "# Fact Check for Statement ID 24603\n\n## Statement\nA také přišli o školkovné (příslušníci policie, pozn. Demagog.cz).\n\n---\n## AI Fact Check\n## Shrnutí hodnocení\n\n- **Daňová sleva na dani z příjmů za umístění dítěte v předškolním zařízení („školkovné“) byla skutečně zrušena s účinností od 1. 1. 2024.**\n- Tato změna platí pro **všechny poplatníky** daně z příjmů, tedy i pro policisty jako rodiče – v tomto smyslu tvrzení „přišli o školkovné“ odpovídá realitě.\n- **Nenašel jsem však žádný důkaz**, že by policisté měli ještě **speciální zaměstnanecký benefit typu „příspěvek na školkovné“**, který by byl v roce 2024 cíleně zrušen. Veřejně popsané benefity policie takový příspěvek neuvádějí.\n\nVýrok je tedy **v interpretační rovině „přišli o daňové školkovné“ fakticky správný**, ale je **zavádějící**, pokud by měl budit dojem, že šlo o **speciální benefit odebraný jen příslušníkům bezpečnostních sborů** nebo že šlo o opatření čistě z rozpočtu ministerstva vnitra.\n\n---\n\n## 1. Rozklad tvrzení\n\nVýrok „A také přišli o školkovné (příslušníci policie)“ lze rozumět dvěma způsoby:\n\n1. **Interpretace A – daňová sleva („školkovné“)**  \n   Policisté jako rodiče ztratili **celostátní daňovou slevu** za umístění dítěte v předškolním zařízení, která byla do roku 2023 v zákoně o daních z příjmů.\n\n2. **Interpretace B – zaměstnanecký benefit „příspěvek na školkovné“**  \n   Příslušníci policie měli **speciální benefit od svého zaměstnavatele (MV / Policie ČR)** na úhradu školkovného, o který přišli v důsledku rozpočtových škrtů.\n\nNíže ověřuji obě interpretace odděleně.\n\n---\n\n## 2. Důkazy k interpretaci A: zrušení daňové slevy „školkovné“\n\n### 2.1 Jak „školkovné“ fungovalo do roku 2023\n\nDaňová sleva za umístění dítěte v předškolním zařízení (tzv. **školkovné**) byla upravena v zákoně o daních z příjmů (ZDP):\n\n- Odborný komentář k ZDP popisuje, že **sleva vyplývá z § 35ba odst. 1 písm. g) a podmínky stanoví § 35bb ZDP**; jde o slevu „související s umístěním vyživovaného dítěte v předškolním zařízení“. ([mediprofi.cz](https://www.mediprofi.cz/33/sleva-na-dani-za-umisteni-ditete-v-predskolnim-zarizeni-uniqueidmRRWSbk196FNf8-jVUh4EhvlOvdvsnuEJqh-zn1covqMB8q2Z8oGSQ/?utm_source=openai))  \n  (Zdroj: článek „Sleva na dani za umístění dítěte v předškolním zařízení“, Verlag Dashöfer / Mediprofi – vysvětluje právní úpravu před konsolidačním balíčkem.)\n\n- Praktický přehled změn v daních (Money.cz) připomíná, že do roku 2023 šlo školkovné uplatnit až do výše minimální mzdy daného roku, tedy **17 300 Kč za rok 2023 na jedno dítě**. ([money.cz](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai))  \n\nTo potvrzuje, že **„školkovné“ bylo před rokem 2024 standardní daňovou slevou**, na kterou měli nárok i policisté jako běžní daňoví poplatníci.\n\n---\n\n### 2.2 Zrušení „školkovného“ zákonem č. 349/2023 Sb.\n\nKonsolidační balíček vlády Petra Fialy byl přijat jako **zákon č. 349/2023 Sb.** („Zákon, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů“).\n\n- Oficiální přehled na portálu Zakonyprolidi uvádí u tohoto zákona:  \n  „**Účinnost od 01.01.2024**“; platnost od 12. 12. 2023. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2023-349))  \n  [Zákon č. 349/2023 Sb.](https://www.zakonyprolidi.cz/cs/2023-349)\n\n- Tento zákon mění mj. **zákon o daních z příjmů**. V části věnované ZDP:\n  - V § 35ba odst. 1 se **ruší písmena f) a g)** – právě písmeno g) odkazovalo na slevu za umístění dítěte.  \n  - **§ 35bb je nově přejmenován na „Sleva na manžela“** a upravuje už jen tuto slevu, nikoliv školkovné. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2023-349))  \n\n  Tím je z textu zákona o daních z příjmů přímo odstraněna sleva „za umístění dítěte v předškolním zařízení“.\n\n- Daňový komentář shrnuje dopad takto:  \n  „**Tato sleva na dani však byla zákonem č. 349/2023 Sb. […] s účinností od 1. 1. 2024 zrušena.**“ ([dauc.cz](https://www.dauc.cz/clanky/13057/novely-zakona-o-danich-z-prijmu-ve-vztahu-k-dani-z-prijmu-fyzickych-osob-prijate-v-roce-2023?utm_source=openai))  \n  [Novely zákona o daních z příjmů… (Dauc.cz)](https://www.dauc.cz/clanky/13057/novely-zakona-o-danich-z-prijmu-ve-vztahu-k-dani-z-prijmu-fyzickych-osob-prijate-v-roce-2023)\n\n- Podobně jiný přehled změn srozumitelně uvádí:  \n  „Daňová **‚sleva za umístění dítěte‘, tzv. školkovné, od roku 2024 zcela skončí. Naposled bude možné tuto slevu uplatnit za zdaňovací období 2023.**“ ([money.cz](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai))  \n  [Konsolidační balíček: zrušení daňových slev… (Money.cz)](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/)\n\n- Regionální Deník shrnuje změnu pro širokou veřejnost:  \n  „**Od roku 2024 končí daňová sleva za umístění dítěte neboli školkovné. Naposledy bude možné tuto slevu ponížit daň za zdaňovací období 2023.**“ ([krkonossky.denik.cz](https://krkonossky.denik.cz/zpravy-z-ceska/rodicovsky-prispevek-2024-konec-skolkovneho-slevy-studenti-manzel-manzelka.html?utm_source=openai))  \n  [Deník – Rodiny v roce 2024 čekají změny…](https://krkonossky.denik.cz/zpravy-z-ceska/rodicovsky-prispevek-2024-konec-skolkovneho-slevy-studenti-manzel-manzelka.html)\n\nZ právního hlediska tedy platí:\n\n> **Školkovné (sleva za umístění dítěte) bylo s účinností od 1. 1. 2024 zrušeno konsolidačním balíčkem (zákon č. 349/2023 Sb.).**\n\n---\n\n### 2.3 Praktické potvrzení – informace z mateřských škol a daňových přehledů\n\nNa změnu reagují i mateřské školy ve svých informacích pro rodiče:\n\n- MŠ Čejkovice píše:  \n  „**Od daňového období roku 2024 došlo ke zrušení slevy na dani za umístění dítěte v předškolním zařízení, tudíž ji za rok 2024 již neuplatníte.**“ ([mscejkovice.cz](https://www.mscejkovice.cz/sleva-za-skolkovne-zrusena?utm_source=openai))  \n  [MŠ Čejkovice – Sleva za školkovné zrušena](https://www.mscejkovice.cz/sleva-za-skolkovne-zrusena)\n\n- MŠ Vybíralova 968 (Praha) uvádí podobně:  \n  „**Slevu na dani „školkovné“ již za rok 2024 neuplatníte, byla zrušena.**“ ([msvybiralova968.cz](https://www.msvybiralova968.cz/aktuality/potvrzeni-o-platbach-skolneho-1749cs.html?utm_source=openai))  \n  [MŠ Vybíralova – Potvrzení o platbách školného](https://www.msvybiralova968.cz/aktuality/potvrzeni-o-platbach-skolneho-1749cs.html)\n\n- Mateřská škola Dobřínsko výslovně odkazuje na zákon o daních z příjmů:  \n  „**Dle zákona 586/1992 Sb. o daních z příjmů, zrušením § 35ba odst. 1 písm. g), daňová „sleva za umístění dítěte“, tzv. školkovné, od roku 2024 končí.**“ ([msdobrinsko.cz](https://www.msdobrinsko.cz/pro-rodice/skolne-stravne-a-co-do-skolky/?utm_source=openai))  \n  [MŠ Dobřínsko – Školné, stravné a co do školky](https://www.msdobrinsko.cz/pro-rodice/skolne-stravne-a-co-do-skolky/)\n\nTaké další přehledy pro poplatníky znovu konstatují, že:\n\n- „Rodiče si mohli naposledy uplatnit školkovné v přiznání za rok 2023; **školkovné 2024 – zrušeno.**“ ([finance.cz](https://www.finance.cz/clanky/506043-skolkovne/?utm_source=openai))  \n  (Finance.cz, AZCON – změny při zpracování daňových přiznání.)\n\n---\n\n### 2.4 Dopad na policisty\n\n- Zákon o daních z příjmů se vztahuje obecně na **fyzické osoby – poplatníky daně z příjmů**, tedy i na **policisty ve služebním poměru** (příjmy ze závislé činnosti).\n- Neexistuje zvláštní daňový režim, který by policistům školkovné zachoval; naopak, **stejné zrušení platí pro všechny zaměstnance bez rozdílu profese**.\n\nProto:\n\n> **Příslušníci Policie ČR jako rodiče skutečně „přišli o školkovné“ ve smyslu daňové slevy za umístění dítěte – stejně jako ostatní poplatníci.**\n\n---\n\n## 3. Důkazy k interpretaci B: zaměstnanecký benefit „příspěvek na školkovné“ pro policisty\n\n### 3.1 Obecná existence benefitu „příspěvek na školkovné“ v ČR\n\nMnoho zaměstnavatelů v ČR poskytuje benefit **„příspěvek na školkovné“** (úhradu části úplaty za MŠ):\n\n- Např. 3. lékařská fakulta UK:  \n  „**Příspěvek na školkovné se poskytuje v nepeněžní formě do výše 50 % úplaty, max. 21 800 Kč/rok na dítě.**“ ([lf3.cuni.cz](https://www.lf3.cuni.cz/3LF-2207.html?utm_source=openai))  \n  [3. LF UK – Příspěvek na „školkovné“](https://www.lf3.cuni.cz/3LF-2207.html)\n\n- Daňový článek KPMG vysvětluje, že **nepeněžní příspěvek na školkovné pro děti zaměstnanců je v ČR rozšířený benefit**, který byl od roku 2024 zařazen do limitu osvobozených volnočasových benefitů (max. 8 % minimální mzdy měsíčně na dítě). ([danovky.cz](https://danovky.cz/cs/na-co-se-pripravit-s-prichodem-jmhz-2-dil-skolkovne-a-skolne-hrazene-za-rodinne-prislusniky-zamestnancu?utm_source=openai))  \n  [KPMG – Školkovné a školné hrazené za rodinné příslušníky zaměstnanců](https://danovky.cz/cs/na-co-se-pripravit-s-prichodem-jmhz-2-dil-skolkovne-a-skolne-hrazene-za-rodinne-prislusniky-zamestnancu)\n\nTo ukazuje, že **příspěvek na školkovné jako zaměstnanecký benefit existuje**, ale je věcí jednotlivých zaměstnavatelů – není specifický pro policii.\n\n---\n\n### 3.2 Veřejně deklarované benefity Policie ČR\n\nPro policisty jako příslušníky bezpečnostního sboru jsou benefity popsány na oficiálních webech Policie ČR:\n\n- Stránka „Příjem, výsluhové nároky a další benefity“ uvádí jako benefity např.:  \n  - základní doba služby 37,5 hod./týden,  \n  - 6 týdnů dovolené,  \n  - studijní a služební volno,  \n  - ozdravné pobyty,  \n  - síť resortních zdravotnických zařízení,  \n  - resortní rekreační zařízení,  \n  - příspěvek na penzijní připojištění,  \n  - příspěvky na stravování, rekreaci, lázeňský pobyt, kulturní akce,  \n  - možnost ubytování, náhrady cestovních výdajů. ([policie.gov.cz](https://policie.gov.cz/clanek/sluzebni-prijem-vysluhove-naroky-a-dalsi-socialni-vyhody?utm_source=openai))  \n  [Policie ČR – Příjem, výsluhové nároky a další benefity](https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity)\n\n- Stejný typ seznamu benefitů se opakuje i na krajských náborových stránkách policie (penzijní připojištění, stravování, rekreace atd.), **činí však žádnou zmínku o příspěvku na školkovné nebo podobném benefitu na úhradu mateřské školy**. ([policie.gov.cz](https://policie.gov.cz/clanek/vyhody-a-benefity.aspx?utm_source=openai))  \n\nZ veřejně dostupných oficiálních materiálů Policie ČR tedy **nelze doložit, že by standardním benefitem policistů byl „příspěvek na školkovné“**, natož že by byl v roce 2024 plošně zrušen.\n\n---\n\n### 3.3 Benefity Ministerstva vnitra pro civilní zaměstnance (kontrast)\n\nU civilních zaměstnanců Ministerstva vnitra se v pracovních inzerátech objevuje benefit **„firemní / závodní mateřská školka“**:\n\n- Např. nabídka MV – Centrum zajištěných aktiv zmiňuje pro zaměstnance mj.  \n  „**zvýhodněné závodní stravování, závodní mateřská školka, zvýhodněné rekreační pobyty v resortních hotelových zařízeních, FKSP**“ atd. ([prace.cz](https://www.prace.cz/nabidka/2000862102/?utm_source=openai))  \n\n- Podobně jiný inzerát MV ČR – Odbor fondů EU:  \n  „Benefity: … **firemní školka**, příspěvek na penzijní/životní pojištění, dovolená 5 týdnů, FKSP apod.“ ([pracezarohem.cz](https://www.pracezarohem.cz/dl/jd/G2-2000797815-aden_brand0?utm_source=openai))  \n\nTo ukazuje, že **resort vnitra určité formy podpory péče o děti pro své civilní zaměstnance má**, ale jde o **provoz vlastní mateřské školky**, nikoli o explicitní „příspěvek na školkovné“. A opět: není důkaz, že by tento benefit byl právě v roce 2024 zrušen.\n\n---\n\n### 3.4 Shrnutí k interpretaci B\n\n- V celé sadě dostupných **oficiálních materiálů Policie ČR a MV ČR** se jako standardní benefit pro příslušníky policie **neuvádí „příspěvek na školkovné“**, pouze jiné benefity (dovolená, stravování, penzijní připojištění, rekreace…).\n- Existují sice v ČR běžně **zaměstnanecké příspěvky na školkovné**, ale konkrétní, celosborový benefit tohoto typu pro policisty a jeho pozdější zrušení **nelze z veřejných zdrojů doložit**.\n\nProto:\n\n> **Pokud by měl Metnar na mysli speciální zaměstnanecký benefit „školkovné“ cílený jen na policisty, dostupné důkazy takový benefit ani jeho zrušení nepotvrzují.**\n\n---\n\n## 4. Závěr\n\n### Interpretace A – daňové „školkovné“\n\n- **Prokazatelně pravdivé.**  \n  Daňová sleva za umístění dítěte v předškolním zařízení („školkovné“) byla **zrušena zákonem č. 349/2023 Sb. s účinností od 1. 1. 2024**. Poslední rok, za který ji bylo možné uplatnit, byl rok 2023. ([dauc.cz](https://www.dauc.cz/clanky/13057/novely-zakona-o-danich-z-prijmu-ve-vztahu-k-dani-z-prijmu-fyzickych-osob-prijate-v-roce-2023?utm_source=openai))  \n  Policisté jako poplatníci daně z příjmů tedy o tuto daňovou slevu skutečně přišli – stejně jako všichni ostatní rodiče.\n\n### Interpretace B – specifický benefit „příspěvek na školkovné“ pro policisty\n\n- **Neprokázané / vysoce nepravděpodobné na základě veřejných zdrojů.**  \n  V dostupných oficiálních materiálech o benefitech policie či MV není „příspěvek na školkovné“ uveden. Žádný veřejný dokument nepotvrzuje, že by příslušníci Policie ČR plošně pobírali zvláštní „školkovné“ jako zaměstnanecký benefit, který by byl v roce 2024 zrušen. ([policie.gov.cz](https://policie.gov.cz/clanek/sluzebni-prijem-vysluhove-naroky-a-dalsi-socialni-vyhody?utm_source=openai))  \n\n### Celkové hodnocení výroku\n\n- **Jádro výroku („přišli o školkovné“) je fakticky správné, pokud se vztahuje k daňové slevě za umístění dítěte – ta byla opravdu od roku 2024 zrušena.**\n- Výrok je však **zavádějící v náznaku**, že jde o něco specifického pro „příslušníky bezpečnostních sborů“ nebo o benefit, který byl odebrán z rozpočtu ministerstva vnitra. Ve skutečnosti šlo o **celostátní daňové opatření** dopadající na všechny rodiče, nikoli o cílené škrty jen u policistů.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in iDNES.cz released on 2026-02-18 available from https://www.idnes.cz/zpravy/domaci/lubomir-metnar-zvysovani-platu-policie-zbranova-legislativa-bezpecnost-migranti.A260217_204844_domaci_krou?zdroj=otvirak.\\n\\n\\nThe claim was made by: Lubomír Metnar, Ministr vnitra\\n\\n\\nThe claim appears in the following immediate context in the source:\\nNejdřív řeknu, proč to děláme. My tím hasíme chaos, který vytvořila minulá vláda, když jednostranně navýšila platy vojákům, a to poměrně skokově, a tím se rozevřely nůžky mezi nimi a příslušníky bezpečnostních sborů. Je to reálný problém a my potřebujeme, aby se ty nůžky přivřely a platově byla tato zaměstnání konkurenceschopná.\\nJak na to tedy půjdete?\\nNavýšení nástupních platů policistů a hasičů plánujeme v rámci celého volebního období, protože jsme proti tomu, aby docházelo ke skokovému navýšení, které by vytvářelo rozdíly a mohlo i ohrozit stabilitu rozpočtu. Těch 50 tisíc korun u nástupních platů není částka vycucaná z prstu, děláme to s ohledem na konkurenceschopnost i s přihlédnutím k situaci v zahraničí. V současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun. Celkově to máme spočítané tak, že po celé naše volební období budeme přidávat každý rok na platy bezpečnostních sborů 2,5 miliardy korun.\\nTakže platy porostou začínajícím policistům a hasičům postupně. Ale o kolik?\\nJen vysvětlím, ten rozdíl mezi aktuálním platem a tou naší avizovanou částkou je dnes zhruba 20 procent. Letos se přidalo pět procent, a když každý rok přidáme plus minus dalších pět procent, tak bychom měli za celé volební období smáznout ten rozdíl, aby se nástupním platem dostali na 50 tisíc. Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.\\nZatím se bavíme o platech nově příchozích. Dočkají se ale navýšení platů do budoucna plošně i ostatní policisté a hasiči, kteří ve sboru působí už řadu let?\\nNavyšování platů se musí propsat i do vyšších tříd všem policistům, protože nemůže dojít k situaci, aby měl nastupující policista vyšší plat než ten, který slouží třeba pět let. Takže to se propíše, ale bude to proporcionální. V současnosti je průměrný plat u policie 60 tisíc korun, což je zase na druhou stranu pěkný plat. Nejvíc ale potřebují přidat policisté v nízkých platových třídách, a úplně nejmíň naopak vysocí funkcionáři, u nich s nějakým enormním navýšením nepočítám.\\nTakže to pětiprocentní navýšení za rok podle vás nebude pro všechny?\\nVůbec ne, tak to ani nelze udělat.\\nChcete také zvýšit počty policistů. Dočkají se nováčci kromě navýšení základního platu i nějakých dalších výhod?\\nNechci se vracet do minulosti, ale v tomto musím. V minulém období totiž v roce 2024 vzala předchozí vláda z rozpočtu ministerstva vnitra dvě miliardy a došlo k propadu minimálně o 150 korun u každého příslušníka místo toho, aby se jim přidalo. A také přišli o školkovné a další benefity. To také příslušníkům nepřispělo a vedlo to k tomu, že v tom roce dokonce klesl počet příslušníků pod 40 tisíc. My jim všechny tyto benefity chceme vrátit.\\nV souvislosti s vojáky nepočítáte s náborovým příspěvkem také pro nově příchozí policisty?\\nNáborový příspěvek u policie již je, jak u obecní, tak u policie České republiky. Ale to není to, co by situaci řešilo, protože oni potřebují mít dostatečně vysoký a konkurenceschopný plat a musí mít perspektivu, že dosáhnou na bankovní produkty, kterými by si mohli pomoct k založení rodiny a bydlení.\\n\\nProvide a structured, citation-backed verification of the claim: 'A také přišli o školkovné (příslušníci policie, pozn. Demagog.cz).'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 314.07 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Daňová sleva „školkovné“ byla od roku 2024 zrušena pro všechny poplatníky, tedy i policisty – nejde však o specifický benefit policie, ale o celostátní opatření. Výrok proto hodnotíme jako zavádějící.</p>\n\n<p>Výrok zazněl v debatě o platech a výhodách příslušníků bezpečnostních sborů, kde mluvčí tvrdil, že policisté kromě jiného „přišli o školkovné“. Pro správné posouzení je podstatné, zda mluví o obecné daňové slevě za umístění dítěte v předškolním zařízení, která platila pro všechny rodiče, nebo o nějakém zvláštním zaměstnaneckém benefitu určeném jen policistům.</p>\n\n<p>První zjišťované tvrzení je, zda v Česku do roku 2023 existovalo tzv. školkovné jako daňová sleva, na kterou měli nárok i policisté jako běžní poplatníci. Odborné výklady zákona o daních z příjmů popisují, že sleva za umístění dítěte v předškolním zařízení byla upravena v § 35ba odst. 1 písm. g) a v § 35bb zákona č. 586/1992 Sb. o daních z příjmů jako sleva „související s umístěním vyživovaného dítěte v předškolním zařízení“ <a href=\"https://www.mediprofi.cz/33/sleva-na-dani-za-umisteni-ditete-v-predskolnim-zarizeni-uniqueidmRRWSbk196FNf8-jVUh4EhvlOvdvsnuEJqh-zn1covqMB8q2Z8oGSQ/\">(odborný komentář Verlag Dashöfer)</a>. Praktické daňové přehledy vysvětlují, že do roku 2023 si rodiče mohli odečíst školkovné až do výše roční minimální mzdy, tedy u roku 2023 částku 17 300 Kč na jedno dítě <a href=\"https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/\">(Money.cz)</a>. Z těchto zdrojů plyne, že školkovné bylo standardní celostátní daňovou slevou, kterou mohli využít všichni rodiče včetně policistů.</p>\n\n<p>Druhé tvrzení se týká otázky, zda tato sleva byla skutečně zrušena. Konsolidační balíček vlády byl přijat jako <a href=\"https://www.zakonyprolidi.cz/cs/2023-349\">zákon č. 349/2023 Sb.</a> s účinností od 1. ledna 2024. Tento zákon mění mimo jiné i zákon o daních z příjmů a v jeho textu se výslovně ruší v § 35ba odst. 1 písmena f) a g), přičemž právě písmeno g) se vztahovalo ke slevě za umístění dítěte v předškolním zařízení. Paragraf 35bb je zároveň nově upraven tak, že se týká pouze slevy na manžela či manželku, nikoli školkovného <a href=\"https://www.zakonyprolidi.cz/cs/2023-349\">(zákon č. 349/2023 Sb.)</a>. Daňový komentář shrnuje změnu slovy, že tato sleva na dani byla tímto zákonem „s účinností od 1. 1. 2024 zrušena“ <i>„…tato sleva na dani však byla zákonem č. 349/2023 Sb. […] s účinností od 1. 1. 2024 zrušena“</i> <a href=\"https://www.dauc.cz/clanky/13057/novely-zakona-o-danich-z-prijmu-ve-vztahu-k-dani-z-prijmu-fyzickych-osob-prijate-v-roce-2023\">(<i>Dauc.cz</i>)</a>. Další přehled pro poplatníky uvádí, že „daňová ‚sleva za umístění dítěte‘, tzv. školkovné, od roku 2024 zcela skončí“ a naposledy bylo možné ji uplatnit za rok 2023 <a href=\"https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/\">(Money.cz)</a>.</p>\n\n<p>Změnu potvrzují i informace přímo od mateřských škol, které rodičům vysvětlují, že potvrzení o platbě školného už za rok 2024 nebudou k daňovým účelům potřeba. Například Mateřská škola Čejkovice píše, že „od daňového období roku 2024 došlo ke zrušení slevy na dani za umístění dítěte v předškolním zařízení, tudíž ji za rok 2024 již neuplatníte“ <a href=\"https://www.mscejkovice.cz/sleva-za-skolkovne-zrusena\">(<i>MŠ Čejkovice</i>)</a>. Podobně mateřská škola v Praze uvádí, že slevu „školkovné“ již za rok 2024 nelze uplatnit, protože byla zrušena <a href=\"https://www.msvybiralova968.cz/aktuality/potvrzeni-o-platbach-skolneho-1749cs.html\">(<i>MŠ Vybíralova</i>)</a>. Mateřská škola Dobřínsko výslovně odkazuje na zákon o daních z příjmů a konstatuje, že zrušením § 35ba odst. 1 písm. g) „tzv. školkovné, od roku 2024 končí“ <a href=\"https://www.msdobrinsko.cz/pro-rodice/skolne-stravne-a-co-do-skolky/\">(<i>MŠ Dobřínsko</i>)</a>. Daňové portály pak shrnují, že školkovné je možné naposledy uplatnit v přiznání za rok 2023 a pro rok 2024 je již „školkovné – zrušeno“ <a href=\"https://www.finance.cz/clanky/506043-skolkovne/\">(Finance.cz)</a>.</p>\n\n<p>Z těchto právních i praktických zdrojů vyplývá, že daňová sleva za umístění dítěte v předškolním zařízení byla od 1. ledna 2024 skutečně zrušena a poslední možnost jejího uplatnění se vztahuje k roku 2023. Zákon o daních z příjmů se vztahuje obecně na všechny poplatníky daně z příjmů fyzických osob a neobsahuje pro policisty žádnou výjimku, která by jim školkovné ponechala. Policisté jako rodiče proto o tuto daňovou slevu přišli stejně jako všichni ostatní zaměstnanci. První faktické tvrzení – že „přišli o školkovné“, pokud se tím míní právě tato daňová sleva – je tedy pravdivé.</p>\n\n<p>Další, implicitní tvrzení ve výroku může vyvolávat dojem, že šlo o zvláštní benefit určený příslušníkům policie, který jim byl cíleně odebrán v rámci rozpočtu ministerstva vnitra. Z tohoto důvodu jsme zkoumali, zda Policie ČR někdy nabízela speciální zaměstnanecký benefit v podobě příspěvku na školkovné. Oficiální stránky Policie ČR k náboru a benefitům uvádějí jako výhody například zkrácenou základní dobu služby 37,5 hodiny týdně, šest týdnů dovolené, různé druhy služebního volna, ozdravné pobyty, síť resortních zdravotnických zařízení, využití resortních rekreačních zařízení, příspěvek na penzijní připojištění, příspěvky na stravování, rekreaci, lázeňský pobyt či kulturní akce a možnost ubytování <a href=\"https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity\">(<i>Policie ČR – příjem, výsluhové nároky a další benefity</i>)</a>. V těchto přehledech se však příspěvek na školkovné či jiná forma úhrady mateřské školy jako benefit pro policisty nevyskytuje.</p>\n\n<p>Stejný obraz poskytují i další náborové materiály Policie ČR, kde jsou zmiňovány zejména benefity typu příspěvků z fondu kulturních a sociálních potřeb, příspěvků na penzijní připojištění, zvýhodněného stravování nebo rekreace, nikoli ale nějaký systémový příspěvek na školkovné <a href=\"https://policie.gov.cz/clanek/vyhody-a-benefity.aspx\">(<i>Policie ČR – výhody a benefity</i>)</a>. Z veřejně dostupných oficiálních zdrojů proto nevyplývá, že by policisté měli jako standardní zaměstnanecký benefit zvláštní „příspěvek na školkovné“, natož že by tento benefit byl právě v roce 2024 zrušen.</p>\n\n<p>Pro úplnost doplňujeme, že příspěvek na školkovné jako zaměstnanecký benefit existuje v Česku obecně u některých zaměstnavatelů. Například 3. lékařská fakulta Univerzity Karlovy popisuje svůj benefit tak, že se příspěvek na školkovné poskytuje v nepeněžní formě do 50 % úplaty, maximálně 21 800 Kč ročně na dítě <a href=\"https://www.lf3.cuni.cz/3LF-2207.html\">(<i>3. LF UK</i>)</a>. Daňové analýzy zároveň vysvětlují, že od roku 2024 je tento typ příspěvku zařazen do společného limitu osvobozených volnočasových benefitů zaměstnanců <a href=\"https://danovky.cz/cs/na-co-se-pripravit-s-prichodem-jmhz-2-dil-skolkovne-a-skolne-hrazene-za-rodinne-prislusniky-zamestnancu\">(<i>KPMG – Danovky</i>)</a>. Tyto příklady však jen ukazují, že takový benefit může existovat u jednotlivých zaměstnavatelů, nikoli že by šlo o specifickou výhodu policistů, kterou by stát nyní rušil.</p>\n\n<p>Souhrnně tedy vyhodnocujeme dvě faktická tvrzení obsažená ve výroku. Za prvé, že policisté jako rodiče „přišli o školkovné“ ve smyslu daňové slevy za umístění dítěte v předškolním zařízení: to je pravda, protože tato sleva byla zákonem č. 349/2023 Sb. zrušena s účinností od 1. ledna 2024 a policisté nemají v daňovém zákoně žádný zvláštní režim. Za druhé, implicitní tvrzení, že šlo o specifický benefit přímo pro příslušníky policie (či obecně bezpečnostních sborů), který byl cíleně odebrán jako jejich zaměstnanecká výsada, se nám z dostupných oficiálních materiálů Policie ČR a Ministerstva vnitra nepodařilo doložit; vše nasvědčuje tomu, že žádný takový plošný benefit neexistoval a že změna je čistě celostátní daňové opatření, které se dotklo všech rodičů bez ohledu na povolání. Z tohoto důvodu hodnotíme výrok jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0f7e2ee244711ba000699899e6cd50819fb584ecaf07b5a923",
+    "created_at": 1771608550.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0f7e2ee244711ba000699899f285e4819fa9a22473b907f493",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba000699899fad3d8819f96fe2456b60efbb1",
+        "action": {
+          "query": "\"přišli o školkovné\" policie",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"přišli o školkovné\" policie",
+            "policie Čr školkovné příspěvek na předškolní zařízení 2024",
+            "\"Metnar\" školkovné policie",
+            "benefity policie školkovné 2023 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba000699899fcd11c819fa57a175fe7a7116f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba000699899fd5e70819faf2a8641fe2b57a2",
+        "action": {
+          "query": "\"školkovné\" \"ministerstvo vnitra\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"školkovné\" \"ministerstvo vnitra\"",
+            "\"školkovné\" \"příslušník\" policie",
+            "\"benefity\" \"příslušníků\" policie školkovné",
+            "\"Fond kulturních a sociálních potřeb\" policie školka"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a017184819fbb5116207d4fa470",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a090da4819fbd35103483f6e9eb",
+        "action": {
+          "query": "\"sleva za umístění dítěte\" zrušena 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"sleva za umístění dítěte\" zrušena 2024",
+            "školkovné \"sleva za umístění dítěte\" 2024 konsolidační balíček",
+            "\"zrušení slevy za umístění dítěte\"",
+            "349/2023 Sb. sleva za umístění dítěte"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a0b7e40819f982041eec4178216",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a0f7a38819fa483fd893167022b",
+        "action": {
+          "query": "\"349/2023 Sb.\" \"sleva za umístění dítěte\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"349/2023 Sb.\" \"sleva za umístění dítěte\"",
+            "\"zákonem č. 349/2023 Sb.\" \"sleva za umístění dítěte\"",
+            "\"sleva na dani za umístění dítěte\" \"zrušená\"",
+            "\"sleva na dani za umístění dítěte v předškolním zařízení\" 2023 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a1235d4819facae12cb91b3ebb4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a135ea8819fac0600d2a81cea49",
+        "action": {
+          "query": "\"349/2023 Sb.\" \"konsolidaci verejnych rozpoctu\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"349/2023 Sb.\" \"konsolidaci verejnych rozpoctu\"",
+            "\"zákon č. 349/2023 Sb.\" konsolidaci veřejných rozpočtů",
+            "\"zákonem č. 349/2023 Sb., kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů\"",
+            "\"sleva za umístění dítěte v předškolním zařízení\" zrušení \"349/2023\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a166c90819fa0d086b1e4474411",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a1869f4819fbd80d5af5f923db3",
+        "action": {
+          "query": "\"příspěvek na školkovné\" zaměstnavatele policie",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"příspěvek na školkovné\" zaměstnavatele policie",
+            "\"školkovné\" \"FKSP\" \"Policie\"",
+            "\"školkovné\" \"příslušníc\" \"bezpečnostních sborů\"",
+            "\"benefity\" \"školkovné\" \"bezpečnostní sbory\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a1b0d20819fbbef7b9f42d04ac9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a1d3ff8819fa3d371142b985c6d",
+        "action": {
+          "query": "\"benefity\" \"Policie ČR\" mateřská škola",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"benefity\" \"Policie ČR\" mateřská škola",
+            "\"Fond kulturních a sociálních potřeb\" \"Ministerstva vnitra\" mateřská škola",
+            "\"školkovné\" \"bezpečnostní sbor\"",
+            "\"policie\" \"školkovné\" daňová sleva"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a228e0c819fb4acc8e61f7fb8a2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a2381ec819fbf4af7aded44db25",
+        "action": {
+          "query": "\"školkovné\" \"Odborový svaz policie\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"školkovné\" \"Odborový svaz policie\"",
+            "\"školkovné\" \"NOS PČR\"",
+            "\"příslušníci policie\" \"školkovné\"",
+            "\"Ministerstvo vnitra\" \"příspěvek na školkovné\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a2860a8819f94206f5e84b57788",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a2aa9cc819faa43dc3d12d7834b",
+        "action": {
+          "query": "\"Ministerstvo vnitra\" \"benefity\" \"bezpečnostní sbory\" 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Ministerstvo vnitra\" \"benefity\" \"bezpečnostní sbory\" 2024",
+            "\"FKSP\" \"Ministerstva vnitra\" 2024 škrty",
+            "\"FKSP\" \"MV ČR\" školka",
+            "\"příslušníků\" \"bezpečnostních sborů\" \"benefity\" 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a2f13c4819f91533689bba7ebb3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a43289c819f8aab665c243c93ab",
+        "action": {
+          "query": "\"sleva za umístění dítěte\" site:financnisprava.cz",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"sleva za umístění dítěte\" site:financnisprava.cz",
+            "\"školkovné\" site:financnisprava.cz",
+            "\"sleva za umístění dítěte\" \"konsolidační\"",
+            "\"konsolidaci veřejných rozpočtů\" \"sleva za umístění dítěte\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a479710819f9f39265c896c2289",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a4e5f8c819f9a9de7d570b14df3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a4fce50819fabf0d7e8ecca271a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a520f70819f99f842896b722560",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "umístění dítěte"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a54188c819f84699db8af1ec20a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a57e260819f91ceb2cfdedf8ecf",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a5b0f48819facd8a88678dc0e21",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a5c41b0819fbb205ab32c8b14c4",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Tento zákon nabývá účinnosti"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a5f0e54819fab3b0c6b3cb22464",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a6ffb58819fb38e47e9d1718647",
+        "action": {
+          "query": "\"dětská skupina\" \"Ministerstvo vnitra\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"dětská skupina\" \"Ministerstvo vnitra\"",
+            "\"dětská skupina\" \"MV ČR\"",
+            "\"školka\" \"Ministerstva vnitra\" zaměstnanci",
+            "\"dětských skupin\" \"zaměstnavatel\" \"Ministerstvo vnitra\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a735278819fac3099ab2199e32e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f7e2ee244711ba00069989a781ebc819f8d97c94b28e69437",
+        "action": {
+          "query": "\"přišli o školkovné\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"přišli o školkovné\"",
+            "\"přišly o školkovné\"",
+            "\"přišel o školkovné\"",
+            "\"končí školkovné\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f7e2ee244711ba00069989a7d847c819f9a25e9e4ecac03a0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0f7e2ee244711ba00069989aeaada8819fb4f9aa2c7a95991c",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 2051,
+                "start_index": 1868,
+                "title": "Sleva na dani za umístění dítěte v předškolním zařízení | Medi profi - Databáze odborných textů pro zdravotnictví",
+                "type": "url_citation",
+                "url": "https://www.mediprofi.cz/33/sleva-na-dani-za-umisteni-ditete-v-predskolnim-zarizeni-uniqueidmRRWSbk196FNf8-jVUh4EhvlOvdvsnuEJqh-zn1covqMB8q2Z8oGSQ/?utm_source=openai"
+              },
+              {
+                "end_index": 2537,
+                "start_index": 2396,
+                "title": "Konsolidační balíček: zrušení daňových slev u fyzických osob od 1.1.2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 3107,
+                "start_index": 3045,
+                "title": "\n349/2023 Sb. Zákon, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2023-349"
+              },
+              {
+                "end_index": 3531,
+                "start_index": 3469,
+                "title": "\n349/2023 Sb. Zákon, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů\n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/cs/2023-349"
+              },
+              {
+                "end_index": 3943,
+                "start_index": 3787,
+                "title": "Novely zákona o daních z příjmů ve vztahu k dani z příjmů fyzických osob přijaté v roce 2023",
+                "type": "url_citation",
+                "url": "https://www.dauc.cz/clanky/13057/novely-zakona-o-danich-z-prijmu-ve-vztahu-k-dani-z-prijmu-fyzickych-osob-prijate-v-roce-2023?utm_source=openai"
+              },
+              {
+                "end_index": 4464,
+                "start_index": 4323,
+                "title": "Konsolidační balíček: zrušení daňových slev u fyzických osob od 1.1.2024",
+                "type": "url_citation",
+                "url": "https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai"
+              },
+              {
+                "end_index": 5009,
+                "start_index": 4844,
+                "title": "Rodiny v roce 2024 čekají změny: Bude vyšší rodičovský příspěvek, končí slevy - Krkonošský deník",
+                "type": "url_citation",
+                "url": "https://krkonossky.denik.cz/zpravy-z-ceska/rodicovsky-prispevek-2024-konec-skolkovneho-slevy-studenti-manzel-manzelka.html?utm_source=openai"
+              },
+              {
+                "end_index": 5761,
+                "start_index": 5670,
+                "title": "Sleva za školkovné zrušena | Mateřská škola Čejkovice",
+                "type": "url_citation",
+                "url": "https://www.mscejkovice.cz/sleva-za-skolkovne-zrusena?utm_source=openai"
+              },
+              {
+                "end_index": 6112,
+                "start_index": 5988,
+                "title": "Potvrzení o platbách školného - Oficiální stránky Mateřská škola Vybíralova 968",
+                "type": "url_citation",
+                "url": "https://www.msvybiralova968.cz/aktuality/potvrzeni-o-platbach-skolneho-1749cs.html?utm_source=openai"
+              },
+              {
+                "end_index": 6587,
+                "start_index": 6481,
+                "title": "Školné, stravné a co do školky - Oficiální stránky MŠ Dobřínsko",
+                "type": "url_citation",
+                "url": "https://www.msdobrinsko.cz/pro-rodice/skolne-stravne-a-co-do-skolky/?utm_source=openai"
+              },
+              {
+                "end_index": 6953,
+                "start_index": 6872,
+                "title": "Školkovné 2024 a 2025: sleva na dani, kolik můžete uplatnit, zrušení - Finance.cz",
+                "type": "url_citation",
+                "url": "https://www.finance.cz/clanky/506043-skolkovne/?utm_source=openai"
+              },
+              {
+                "end_index": 8016,
+                "start_index": 7944,
+                "title": "Příspěvek na „školkovné“ - 3. lékařská fakulta",
+                "type": "url_citation",
+                "url": "https://www.lf3.cuni.cz/3LF-2207.html?utm_source=openai"
+              },
+              {
+                "end_index": 8499,
+                "start_index": 8340,
+                "title": "Na co se připravit s příchodem JMHZ (2. díl): Školkovné a školné hrazené za rodinné příslušníky zaměstnanců | KPMG Česká republika",
+                "type": "url_citation",
+                "url": "https://danovky.cz/cs/na-co-se-pripravit-s-prichodem-jmhz-2-dil-skolkovne-a-skolne-hrazene-za-rodinne-prislusniky-zamestnancu?utm_source=openai"
+              },
+              {
+                "end_index": 9593,
+                "start_index": 9469,
+                "title": "Příjem, výsluhové nároky a další benefity - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/sluzebni-prijem-vysluhove-naroky-a-dalsi-socialni-vyhody?utm_source=openai"
+              },
+              {
+                "end_index": 10057,
+                "start_index": 9967,
+                "title": "Výhody a benefity - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/vyhody-a-benefity.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 10746,
+                "start_index": 10674,
+                "title": "Prace.cz - Referent - specialista organizace a logistiky zabaveného majetku - Ministerstvo vnitra – odbor správy majetku",
+                "type": "url_citation",
+                "url": "https://www.prace.cz/nabidka/2000862102/?utm_source=openai"
+              },
+              {
+                "end_index": 11003,
+                "start_index": 10905,
+                "title": "Projektový manažer/ka projektů EU v Ministerstvu vnitra | Práce za rohem",
+                "type": "url_citation",
+                "url": "https://www.pracezarohem.cz/dl/jd/G2-2000797815-aden_brand0?utm_source=openai"
+              },
+              {
+                "end_index": 12357,
+                "start_index": 12201,
+                "title": "Novely zákona o daních z příjmů ve vztahu k dani z příjmů fyzických osob přijaté v roce 2023",
+                "type": "url_citation",
+                "url": "https://www.dauc.cz/clanky/13057/novely-zakona-o-danich-z-prijmu-ve-vztahu-k-dani-z-prijmu-fyzickych-osob-prijate-v-roce-2023?utm_source=openai"
+              },
+              {
+                "end_index": 13028,
+                "start_index": 12904,
+                "title": "Příjem, výsluhové nároky a další benefity - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/sluzebni-prijem-vysluhove-naroky-a-dalsi-socialni-vyhody?utm_source=openai"
+              }
+            ],
+            "text": "## Shrnutí hodnocení\n\n- **Daňová sleva na dani z příjmů za umístění dítěte v předškolním zařízení („školkovné“) byla skutečně zrušena s účinností od 1. 1. 2024.**\n- Tato změna platí pro **všechny poplatníky** daně z příjmů, tedy i pro policisty jako rodiče – v tomto smyslu tvrzení „přišli o školkovné“ odpovídá realitě.\n- **Nenašel jsem však žádný důkaz**, že by policisté měli ještě **speciální zaměstnanecký benefit typu „příspěvek na školkovné“**, který by byl v roce 2024 cíleně zrušen. Veřejně popsané benefity policie takový příspěvek neuvádějí.\n\nVýrok je tedy **v interpretační rovině „přišli o daňové školkovné“ fakticky správný**, ale je **zavádějící**, pokud by měl budit dojem, že šlo o **speciální benefit odebraný jen příslušníkům bezpečnostních sborů** nebo že šlo o opatření čistě z rozpočtu ministerstva vnitra.\n\n---\n\n## 1. Rozklad tvrzení\n\nVýrok „A také přišli o školkovné (příslušníci policie)“ lze rozumět dvěma způsoby:\n\n1. **Interpretace A – daňová sleva („školkovné“)**  \n   Policisté jako rodiče ztratili **celostátní daňovou slevu** za umístění dítěte v předškolním zařízení, která byla do roku 2023 v zákoně o daních z příjmů.\n\n2. **Interpretace B – zaměstnanecký benefit „příspěvek na školkovné“**  \n   Příslušníci policie měli **speciální benefit od svého zaměstnavatele (MV / Policie ČR)** na úhradu školkovného, o který přišli v důsledku rozpočtových škrtů.\n\nNíže ověřuji obě interpretace odděleně.\n\n---\n\n## 2. Důkazy k interpretaci A: zrušení daňové slevy „školkovné“\n\n### 2.1 Jak „školkovné“ fungovalo do roku 2023\n\nDaňová sleva za umístění dítěte v předškolním zařízení (tzv. **školkovné**) byla upravena v zákoně o daních z příjmů (ZDP):\n\n- Odborný komentář k ZDP popisuje, že **sleva vyplývá z § 35ba odst. 1 písm. g) a podmínky stanoví § 35bb ZDP**; jde o slevu „související s umístěním vyživovaného dítěte v předškolním zařízení“. ([mediprofi.cz](https://www.mediprofi.cz/33/sleva-na-dani-za-umisteni-ditete-v-predskolnim-zarizeni-uniqueidmRRWSbk196FNf8-jVUh4EhvlOvdvsnuEJqh-zn1covqMB8q2Z8oGSQ/?utm_source=openai))  \n  (Zdroj: článek „Sleva na dani za umístění dítěte v předškolním zařízení“, Verlag Dashöfer / Mediprofi – vysvětluje právní úpravu před konsolidačním balíčkem.)\n\n- Praktický přehled změn v daních (Money.cz) připomíná, že do roku 2023 šlo školkovné uplatnit až do výše minimální mzdy daného roku, tedy **17 300 Kč za rok 2023 na jedno dítě**. ([money.cz](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai))  \n\nTo potvrzuje, že **„školkovné“ bylo před rokem 2024 standardní daňovou slevou**, na kterou měli nárok i policisté jako běžní daňoví poplatníci.\n\n---\n\n### 2.2 Zrušení „školkovného“ zákonem č. 349/2023 Sb.\n\nKonsolidační balíček vlády Petra Fialy byl přijat jako **zákon č. 349/2023 Sb.** („Zákon, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů“).\n\n- Oficiální přehled na portálu Zakonyprolidi uvádí u tohoto zákona:  \n  „**Účinnost od 01.01.2024**“; platnost od 12. 12. 2023. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2023-349))  \n  [Zákon č. 349/2023 Sb.](https://www.zakonyprolidi.cz/cs/2023-349)\n\n- Tento zákon mění mj. **zákon o daních z příjmů**. V části věnované ZDP:\n  - V § 35ba odst. 1 se **ruší písmena f) a g)** – právě písmeno g) odkazovalo na slevu za umístění dítěte.  \n  - **§ 35bb je nově přejmenován na „Sleva na manžela“** a upravuje už jen tuto slevu, nikoliv školkovné. ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2023-349))  \n\n  Tím je z textu zákona o daních z příjmů přímo odstraněna sleva „za umístění dítěte v předškolním zařízení“.\n\n- Daňový komentář shrnuje dopad takto:  \n  „**Tato sleva na dani však byla zákonem č. 349/2023 Sb. […] s účinností od 1. 1. 2024 zrušena.**“ ([dauc.cz](https://www.dauc.cz/clanky/13057/novely-zakona-o-danich-z-prijmu-ve-vztahu-k-dani-z-prijmu-fyzickych-osob-prijate-v-roce-2023?utm_source=openai))  \n  [Novely zákona o daních z příjmů… (Dauc.cz)](https://www.dauc.cz/clanky/13057/novely-zakona-o-danich-z-prijmu-ve-vztahu-k-dani-z-prijmu-fyzickych-osob-prijate-v-roce-2023)\n\n- Podobně jiný přehled změn srozumitelně uvádí:  \n  „Daňová **‚sleva za umístění dítěte‘, tzv. školkovné, od roku 2024 zcela skončí. Naposled bude možné tuto slevu uplatnit za zdaňovací období 2023.**“ ([money.cz](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/?utm_source=openai))  \n  [Konsolidační balíček: zrušení daňových slev… (Money.cz)](https://money.cz/novinky-a-tipy/dane/konsolidacni-balicek-zruseni-danovych-slev-u-fyzickych-osob-od-1-1-2024/)\n\n- Regionální Deník shrnuje změnu pro širokou veřejnost:  \n  „**Od roku 2024 končí daňová sleva za umístění dítěte neboli školkovné. Naposledy bude možné tuto slevu ponížit daň za zdaňovací období 2023.**“ ([krkonossky.denik.cz](https://krkonossky.denik.cz/zpravy-z-ceska/rodicovsky-prispevek-2024-konec-skolkovneho-slevy-studenti-manzel-manzelka.html?utm_source=openai))  \n  [Deník – Rodiny v roce 2024 čekají změny…](https://krkonossky.denik.cz/zpravy-z-ceska/rodicovsky-prispevek-2024-konec-skolkovneho-slevy-studenti-manzel-manzelka.html)\n\nZ právního hlediska tedy platí:\n\n> **Školkovné (sleva za umístění dítěte) bylo s účinností od 1. 1. 2024 zrušeno konsolidačním balíčkem (zákon č. 349/2023 Sb.).**\n\n---\n\n### 2.3 Praktické potvrzení – informace z mateřských škol a daňových přehledů\n\nNa změnu reagují i mateřské školy ve svých informacích pro rodiče:\n\n- MŠ Čejkovice píše:  \n  „**Od daňového období roku 2024 došlo ke zrušení slevy na dani za umístění dítěte v předškolním zařízení, tudíž ji za rok 2024 již neuplatníte.**“ ([mscejkovice.cz](https://www.mscejkovice.cz/sleva-za-skolkovne-zrusena?utm_source=openai))  \n  [MŠ Čejkovice – Sleva za školkovné zrušena](https://www.mscejkovice.cz/sleva-za-skolkovne-zrusena)\n\n- MŠ Vybíralova 968 (Praha) uvádí podobně:  \n  „**Slevu na dani „školkovné“ již za rok 2024 neuplatníte, byla zrušena.**“ ([msvybiralova968.cz](https://www.msvybiralova968.cz/aktuality/potvrzeni-o-platbach-skolneho-1749cs.html?utm_source=openai))  \n  [MŠ Vybíralova – Potvrzení o platbách školného](https://www.msvybiralova968.cz/aktuality/potvrzeni-o-platbach-skolneho-1749cs.html)\n\n- Mateřská škola Dobřínsko výslovně odkazuje na zákon o daních z příjmů:  \n  „**Dle zákona 586/1992 Sb. o daních z příjmů, zrušením § 35ba odst. 1 písm. g), daňová „sleva za umístění dítěte“, tzv. školkovné, od roku 2024 končí.**“ ([msdobrinsko.cz](https://www.msdobrinsko.cz/pro-rodice/skolne-stravne-a-co-do-skolky/?utm_source=openai))  \n  [MŠ Dobřínsko – Školné, stravné a co do školky](https://www.msdobrinsko.cz/pro-rodice/skolne-stravne-a-co-do-skolky/)\n\nTaké další přehledy pro poplatníky znovu konstatují, že:\n\n- „Rodiče si mohli naposledy uplatnit školkovné v přiznání za rok 2023; **školkovné 2024 – zrušeno.**“ ([finance.cz](https://www.finance.cz/clanky/506043-skolkovne/?utm_source=openai))  \n  (Finance.cz, AZCON – změny při zpracování daňových přiznání.)\n\n---\n\n### 2.4 Dopad na policisty\n\n- Zákon o daních z příjmů se vztahuje obecně na **fyzické osoby – poplatníky daně z příjmů**, tedy i na **policisty ve služebním poměru** (příjmy ze závislé činnosti).\n- Neexistuje zvláštní daňový režim, který by policistům školkovné zachoval; naopak, **stejné zrušení platí pro všechny zaměstnance bez rozdílu profese**.\n\nProto:\n\n> **Příslušníci Policie ČR jako rodiče skutečně „přišli o školkovné“ ve smyslu daňové slevy za umístění dítěte – stejně jako ostatní poplatníci.**\n\n---\n\n## 3. Důkazy k interpretaci B: zaměstnanecký benefit „příspěvek na školkovné“ pro policisty\n\n### 3.1 Obecná existence benefitu „příspěvek na školkovné“ v ČR\n\nMnoho zaměstnavatelů v ČR poskytuje benefit **„příspěvek na školkovné“** (úhradu části úplaty za MŠ):\n\n- Např. 3. lékařská fakulta UK:  \n  „**Příspěvek na školkovné se poskytuje v nepeněžní formě do výše 50 % úplaty, max. 21 800 Kč/rok na dítě.**“ ([lf3.cuni.cz](https://www.lf3.cuni.cz/3LF-2207.html?utm_source=openai))  \n  [3. LF UK – Příspěvek na „školkovné“](https://www.lf3.cuni.cz/3LF-2207.html)\n\n- Daňový článek KPMG vysvětluje, že **nepeněžní příspěvek na školkovné pro děti zaměstnanců je v ČR rozšířený benefit**, který byl od roku 2024 zařazen do limitu osvobozených volnočasových benefitů (max. 8 % minimální mzdy měsíčně na dítě). ([danovky.cz](https://danovky.cz/cs/na-co-se-pripravit-s-prichodem-jmhz-2-dil-skolkovne-a-skolne-hrazene-za-rodinne-prislusniky-zamestnancu?utm_source=openai))  \n  [KPMG – Školkovné a školné hrazené za rodinné příslušníky zaměstnanců](https://danovky.cz/cs/na-co-se-pripravit-s-prichodem-jmhz-2-dil-skolkovne-a-skolne-hrazene-za-rodinne-prislusniky-zamestnancu)\n\nTo ukazuje, že **příspěvek na školkovné jako zaměstnanecký benefit existuje**, ale je věcí jednotlivých zaměstnavatelů – není specifický pro policii.\n\n---\n\n### 3.2 Veřejně deklarované benefity Policie ČR\n\nPro policisty jako příslušníky bezpečnostního sboru jsou benefity popsány na oficiálních webech Policie ČR:\n\n- Stránka „Příjem, výsluhové nároky a další benefity“ uvádí jako benefity např.:  \n  - základní doba služby 37,5 hod./týden,  \n  - 6 týdnů dovolené,  \n  - studijní a služební volno,  \n  - ozdravné pobyty,  \n  - síť resortních zdravotnických zařízení,  \n  - resortní rekreační zařízení,  \n  - příspěvek na penzijní připojištění,  \n  - příspěvky na stravování, rekreaci, lázeňský pobyt, kulturní akce,  \n  - možnost ubytování, náhrady cestovních výdajů. ([policie.gov.cz](https://policie.gov.cz/clanek/sluzebni-prijem-vysluhove-naroky-a-dalsi-socialni-vyhody?utm_source=openai))  \n  [Policie ČR – Příjem, výsluhové nároky a další benefity](https://policie.gov.cz/clanek/prijem-vysluhove-naroky-a-dalsi-benefity)\n\n- Stejný typ seznamu benefitů se opakuje i na krajských náborových stránkách policie (penzijní připojištění, stravování, rekreace atd.), **činí však žádnou zmínku o příspěvku na školkovné nebo podobném benefitu na úhradu mateřské školy**. ([policie.gov.cz](https://policie.gov.cz/clanek/vyhody-a-benefity.aspx?utm_source=openai))  \n\nZ veřejně dostupných oficiálních materiálů Policie ČR tedy **nelze doložit, že by standardním benefitem policistů byl „příspěvek na školkovné“**, natož že by byl v roce 2024 plošně zrušen.\n\n---\n\n### 3.3 Benefity Ministerstva vnitra pro civilní zaměstnance (kontrast)\n\nU civilních zaměstnanců Ministerstva vnitra se v pracovních inzerátech objevuje benefit **„firemní / závodní mateřská školka“**:\n\n- Např. nabídka MV – Centrum zajištěných aktiv zmiňuje pro zaměstnance mj.  \n  „**zvýhodněné závodní stravování, závodní mateřská školka, zvýhodněné rekreační pobyty v resortních hotelových zařízeních, FKSP**“ atd. ([prace.cz](https://www.prace.cz/nabidka/2000862102/?utm_source=openai))  \n\n- Podobně jiný inzerát MV ČR – Odbor fondů EU:  \n  „Benefity: … **firemní školka**, příspěvek na penzijní/životní pojištění, dovolená 5 týdnů, FKSP apod.“ ([pracezarohem.cz](https://www.pracezarohem.cz/dl/jd/G2-2000797815-aden_brand0?utm_source=openai))  \n\nTo ukazuje, že **resort vnitra určité formy podpory péče o děti pro své civilní zaměstnance má**, ale jde o **provoz vlastní mateřské školky**, nikoli o explicitní „příspěvek na školkovné“. A opět: není důkaz, že by tento benefit byl právě v roce 2024 zrušen.\n\n---\n\n### 3.4 Shrnutí k interpretaci B\n\n- V celé sadě dostupných **oficiálních materiálů Policie ČR a MV ČR** se jako standardní benefit pro příslušníky policie **neuvádí „příspěvek na školkovné“**, pouze jiné benefity (dovolená, stravování, penzijní připojištění, rekreace…).\n- Existují sice v ČR běžně **zaměstnanecké příspěvky na školkovné**, ale konkrétní, celosborový benefit tohoto typu pro policisty a jeho pozdější zrušení **nelze z veřejných zdrojů doložit**.\n\nProto:\n\n> **Pokud by měl Metnar na mysli speciální zaměstnanecký benefit „školkovné“ cílený jen na policisty, dostupné důkazy takový benefit ani jeho zrušení nepotvrzují.**\n\n---\n\n## 4. Závěr\n\n### Interpretace A – daňové „školkovné“\n\n- **Prokazatelně pravdivé.**  \n  Daňová sleva za umístění dítěte v předškolním zařízení („školkovné“) byla **zrušena zákonem č. 349/2023 Sb. s účinností od 1. 1. 2024**. Poslední rok, za který ji bylo možné uplatnit, byl rok 2023. ([dauc.cz](https://www.dauc.cz/clanky/13057/novely-zakona-o-danich-z-prijmu-ve-vztahu-k-dani-z-prijmu-fyzickych-osob-prijate-v-roce-2023?utm_source=openai))  \n  Policisté jako poplatníci daně z příjmů tedy o tuto daňovou slevu skutečně přišli – stejně jako všichni ostatní rodiče.\n\n### Interpretace B – specifický benefit „příspěvek na školkovné“ pro policisty\n\n- **Neprokázané / vysoce nepravděpodobné na základě veřejných zdrojů.**  \n  V dostupných oficiálních materiálech o benefitech policie či MV není „příspěvek na školkovné“ uveden. Žádný veřejný dokument nepotvrzuje, že by příslušníci Policie ČR plošně pobírali zvláštní „školkovné“ jako zaměstnanecký benefit, který by byl v roce 2024 zrušen. ([policie.gov.cz](https://policie.gov.cz/clanek/sluzebni-prijem-vysluhove-naroky-a-dalsi-socialni-vyhody?utm_source=openai))  \n\n### Celkové hodnocení výroku\n\n- **Jádro výroku („přišli o školkovné“) je fakticky správné, pokud se vztahuje k daňové slevě za umístění dítěte – ta byla opravdu od roku 2024 zrušena.**\n- Výrok je však **zavádějící v náznaku**, že jde o něco specifického pro „příslušníky bezpečnostních sborů“ nebo o benefit, který byl odebrán z rozpočtu ministerstva vnitra. Ve skutečnosti šlo o **celostátní daňové opatření** dopadající na všechny rodiče, nikoli o cílené škrty jen u policistů.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 74398,
+      "input_tokens_details": {
+        "cached_tokens": 6528
+      },
+      "output_tokens": 17774,
+      "output_tokens_details": {
+        "reasoning_tokens": 13357
+      },
+      "total_tokens": 92172
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1771608862,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

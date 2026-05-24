@@ -1,0 +1,567 @@
+{
+  "claim_id": "24700",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260410_190055",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/reports/report24700.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 110.9,
+        "prompt_length": 4121,
+        "input_tokens": 192923,
+        "cached_input_tokens": 119296,
+        "output_tokens": 5601,
+        "web_searches": 8,
+        "final_response": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/work/claim_interpretation.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Nejprve si ověřím kontext výroku a zkontroluji strukturu pracovních souborů, pak sepíšu interpretaci do `work/claim_interpretation.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'pwd && ls -la && find . -maxdepth 2 -type f | sort'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'rg -n \"style guide|source ranking|guide|sources\" -S .'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám základní strukturu. Teď si načtu příručku a pořadí zdrojů, ať je interpretace kompatibilní s dalšími kroky v pipeline."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/prirucka.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,160p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.ceskatelevize.cz/porady/1096898594-udalosti-komentare/226411000370408/"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "Marek Výborný video demonstrace na podporu prezidenta Petr Pavel"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://ct24.ceskatelevize.cz/clanek/domaci/v-praze-a-dalsich-mestech-lide-vyjadruji-podporu-prezidentu-pavlovi-369869/"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:x.com Marek Výborný demonstrace prezident video únor 2026"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ujasňuji si, k jakým demonstracím výrok nejspíš míří a jak přesně chápat „točit si videa“. To určí, jak úzce formulovat ověřovanou verzi výroku a pozdější vyhledávání zdrojů."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' metadata.json\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la work && find work -maxdepth 1 -type f | sort'",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" demonstrace na podporu prezidenta"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.ceskatelevize.cz/vse-o-ct/api/media/documents/CT-VZ2024.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Stojíme za prezidentem\" Milion chvilek 2025 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://milionchvilek.cz/clanek/spoustime-obcanskou-vyzvu-stojime-za-prezidentem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám dost kontextu pro pracovní interpretaci. Do souboru teď zapíšu ověřovanou verzi výroku jako kontrolu veřejně dohledatelných videí z kampaně „Stojíme za prezidentem“, hlavně z akcí 1. a 15. února 2026 a případně navazujících shromáždění."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretaci jsem zapsal. Ještě ji rychle zkontroluji, aby v ní byly přesně datum výroku, časové okno a jasně vymezená ověřovaná verze tvrzení."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/work/claim_interpretation.md)."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 289.8,
+        "prompt_length": 1771,
+        "input_tokens": 470237,
+        "cached_input_tokens": 258560,
+        "output_tokens": 16344,
+        "web_searches": 31,
+        "final_response": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/work/raw_sources.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Začínám sbírat zdroje podle interpretace z prvního kroku. Nejdřív si znovu načtu pracovní interpretaci a pak projdu primární zdroje: organizátory demonstrací a veřejné profily Marka Výborného."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,120p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" Facebook"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://x.com/MarekVyborny/with_replies"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:x.com/MarekVyborny \"Stojíme za prezidentem\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:facebook.com/MarekVyborny \"Stojíme za prezidentem\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"marekvyborny.cz\" sociální sítě"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:marekvyborny.cz prezident Pavel demonstrace"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" demonstrace video prezident 1. února 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" \"Stojíme za prezidentem\" video"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" video \"Facebook\" prezident Pavel"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"@MarekVyborny\" prezident demonstrace"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" \"February 1, 2026\" X prezident"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:youtube.com \"Marek Výborný\" prezident demonstrace"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://x.com/MarekVyborny/media"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:x.com/MarekVyborny prezident recency:365"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:instagram.com/p/ \"Marek Výborný\" prezident"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:kdu.cz \"Marek Výborný\" \"prezident Pavel\" leden 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.kdu.cz/aktualne/zpravy"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'KDU-ČSL stojí za prezidentem' in https://www.kdu.cz/aktualne/zpravy"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:ct24.ceskatelevize.cz \"Stojíme za prezidentem\" \"1. února 2026\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://ct24.ceskatelevize.cz/clanek/domaci/v-praze-a-dalsich-mestech-lide-vyjadruji-podporu-prezidentu-pavlovi-369869/"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://ct24.ceskatelevize.cz/clanek/domaci/po-cele-republice-se-konaji-akce-na-podporu-prezidenta-pavla-370365"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" \"Staroměstské náměstí\" prezident Pavel"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:twstalker.com/MarekVyborny MarekVyborny prezident"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný @MarekVyborny\" TwStalker"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" \"stojíme za prezidentem\" X"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" \"stojíme za prezidentem Petrem Pavlem\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" video \"Staroměstské náměstí\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:facebook.com \"Marek Výborný\" \"1. února 2026\" prezident Pavel"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám dost zdrojů pro surový podklad: hlavně organizátorské a veřejnoprávní zdroje k samotným demonstracím a několik stop k veřejným kanálům Marka Výborného. Do `work/raw_sources.md` teď zapíšu i to, že jsem zatím nenašel přímý veřejně indexovaný důkaz videa od něj."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Surové zdroje jsou zapsané. Ještě kontroluji, že u každé položky je URL, datum, vztah k dílčím tvrzením a stručné zhodnocení, ať je další krok může rovnou třídit."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/work/raw_sources.md)."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 105.9,
+        "prompt_length": 2274,
+        "input_tokens": 709702,
+        "cached_input_tokens": 440320,
+        "output_tokens": 21889,
+        "web_searches": 7,
+        "final_response": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/work/refined_sources.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď čistím surové zdroje podle žebříčku kvality a zkusím nahradit slabší položky přímějšími primárními zdroji. Znovu si načtu interpretaci, raw zdroje a pořadí domén, pak ověřím odkazy a zkusím dohledat lepší oficiální kanály Marka Výborného."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,160p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Marek Výborný\" Facebook official"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:facebook.com/vybornymarek/posts prezident demonstrace únor 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.facebook.com/vybornymarek/posts/-na-konci-roku-2024-ji%C5%BE-odvedli-uprchl%C3%ADci-z-ukrajiny-do-st%C3%A1tn%C3%ADho-rozpo%C4%8Dtu-66-mil/1061253115825421/"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Stojíme za prezidentem - Staroměstské náměstí v Praze, neděle 1. února od 15:00' in https://milionchvilek.cz/aktuality-sit"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://ct24.ceskatelevize.cz/clanek/domaci/v-praze-a-dalsich-mestech-lide-vyjadruji-podporu-prezidentu-pavlovi-369869"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Navazují na pražskou demonstraci' in https://ct24.ceskatelevize.cz/clanek/domaci/po-cele-republice-se-konaji-akce-na-podporu-prezidenta-pavla-370365"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://stojimezaprezidentem.cz/"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Z refinace vychází dvě věci: kontext demonstrací je už dobře podložený primárními a tier‑1 zdroji, ale pro samotné tvrzení o „videích“ stále chybí silný důkaz. Do `work/refined_sources.md` proto zapíšu očištěný seznam a výslovně označím, že dílčí tvrzení 1 zatím nemá adekvátní zdroj."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam je zapsaný. Ještě ho rychle kontroluji kvůli statusům `kept/flagged`, aby bylo jasné, které zdroje jsou pevné a které jen pomocné."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,320p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/work/refined_sources.md)."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 61.5,
+        "prompt_length": 2388,
+        "input_tokens": 975179,
+        "cached_input_tokens": 679936,
+        "output_tokens": 24961,
+        "web_searches": 1,
+        "final_response": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/work/draft.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Než sepíšu draft, zkusím ještě jednou cíleně dohledat přímý důkaz k samotnému tvrzení o videích. V refinaci vyšlo, že právě tahle část výroku je slabě podložená, takže nejdřív zkusím dohledat konkrétní veřejný post nebo video Marka Výborného."
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:facebook.com/vybornymarek/videos \"Petr Pavel\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Další cílené dohledání nepřineslo přímý veřejný post ani video, takže draft bude muset pracovat s limitem, že samotné tvrzení zatím nemá pevný důkaz. Teď si načtu stylistická pravidla a dva vzorové texty, ať je výsledný report ve správném demagogovském formátu."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/examples.txt\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám podklady i tón vzorových textů. Do draftu teď napíšu krátký kontext, doložím samotné demonstrace a pak vysvětlím, proč z dostupných zdrojů neumíme ověřit právě Výborného kategorické „nikde žádná videa“."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft je hotový. Ještě ho rychle pročtu proti stylu: krátký perex, 4 krátké odstavce, odkazy na klíčových slovech a závěr s jedním jasným verdiktem."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/work/draft.md)."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 74.0,
+        "prompt_length": 1226,
+        "input_tokens": 1296152,
+        "cached_input_tokens": 960640,
+        "output_tokens": 29158,
+        "web_searches": 3,
+        "final_response": "Verifikaci jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/work/verification.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď draft projdu proti checklistu a udělám i reálný spot-check odkazů. Pokud něco neprojde, opravím jen konkrétní problém v draftu a znovu přehodnotím jen selhané body."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,160p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/verification_checklist.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://milionchvilek.cz/clanek/spoustime-obcanskou-vyzvu-stojime-za-prezidentem"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://x.com/MarekVyborny/with_replies"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://ct24.ceskatelevize.cz/clanek/domaci/po-cele-republice-se-konaji-akce-na-podporu-prezidenta-pavla-370365"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Checklist vychází bez nutnosti dalších zásahů do draftu. Do verifikace zapíšu i to, které tři odkazy jsem skutečně otevřel a co na nich sedělo s citací."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikaci jsem zapsal a ještě ji rychle kontroluji kvůli formátu checkboxů a závěrečnému `PASS`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/verification.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikaci jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/work/verification.md)."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 23.1,
+        "prompt_length": 313,
+        "input_tokens": 1617616,
+        "cached_input_tokens": 1273344,
+        "output_tokens": 30764,
+        "web_searches": 0,
+        "final_response": "Finální report jsem zapsal do [output/report.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/output/report.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Nejdřív ověřím, že verifikace skutečně končí `## Result: PASS`, a potom přenesu finální text z draftu do `output/report.md` ve zadané struktuře."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 5 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikace končí `PASS`. Teď zapisuji finální report do `output/report.md` se zněním výroku a kompletním textem z draftu."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Finální report je zapsaný. Ještě ho rychle kontroluji jen kvůli struktuře `Statement` a `Report`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' output/report.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Finální report jsem zapsal do [output/report.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260410_190055/id24700/output/report.md)."
+          }
+        ]
+      }
+    }
+  ]
+}

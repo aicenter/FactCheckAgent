@@ -1,0 +1,679 @@
+{
+  "claim_id": "24523",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20260106_103748",
+  "source_md": "experiments/gpt-5.1h_20260106_103748/brief_fact_check_id24523.md",
+  "fact_check": "# Fact Check for Statement ID 24523\n\n## Statement\nSoučasně nám s počty cizinců roste kriminalita.\n\n---\n## OpenAI Deep Research Fact Check\n## 1. Rozklad výroku a možné interpretace\n\nVýrok „Současně nám s počty cizinců roste kriminalita“ lze chápat několika způsoby:\n\n1. **Dlouhodobý trend**  \n   - Jak v minulých letech přibývá cizinců v ČR, tak _dlouhodobě_ roste i celková kriminalita.\n\n2. **Krátkodobý (vládní) trend**  \n   - V období „minulé vlády“ (tj. zhruba od roku 2021/2022), kdy prudce narostl počet cizinců, zároveň roste i kriminalita.\n\n3. **Silnější tvrzení o souvislosti**  \n   - Implicitní sdělení, že **růst počtu cizinců je důvodem růstu kriminality** (tj. zvyšují kriminalitu).\n\nNíže odděleně zkoumáme:\n- (A) vývoj počtu cizinců,  \n- (B) vývoj celkové kriminality v ČR,  \n- (C) vývoj podílu cizinců na kriminalitě,  \n- (D) zda data a oficiální analýzy spojují nárůst kriminality s růstem počtu cizinců.\n\n---\n\n## 2. Vývoj počtu cizinců v ČR\n\n### 2.1 Dlouhodobý vývoj (cca 2013–2024)\n\n**Ministerstvo vnitra – výroční zpráva o migraci 2023 (přes ČTK)**  \nČlánek ČTK shrnující výroční zprávu MV o migraci uvádí tabulku „Vývoj počtu cizinců s povoleným pobytem na území ČR v letech 2013–2023“: ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n\n- 2013: 441 536 cizinců  \n- 2014: 451 923  \n- 2015: 467 562  \n- 2016: 496 413  \n- 2017: 526 811  \n- 2018: 566 931  \n- 2019: 595 881  \n- 2020: 634 790  \n- 2021: 660 849  \n- 2022: 1 116 154  \n- 2023: 1 065 740  \n\nZdroj výslovně odkazuje na **„Výroční zprávu o situaci v oblasti migrace a integrace cizinců… za rok 2023“** Ministerstva vnitra. ([mvcr.cz](https://www.mvcr.cz/migrace/clanek/rocni-zpravy-o-situaci-v-oblasti-migrace-a-integrace-cizincu-v-ceske-republice-za-roky-2001-2023.aspx))  \n\n**ČSÚ – cizinci 2016 a 2019**  \nČSÚ ve starších analytických textech potvrzuje, že:\n\n- k 31. 12. 2016 žilo v ČR 496 413 cizinců; podíl cizinců na populaci dosáhl 4,5 % a „podíl cizinců na celkové populaci roste“. ([statistikaamy.csu.gov.cz](https://statistikaamy.csu.gov.cz/v-cesku-zije-a-pracuje-pul-milionu-cizincu?utm_source=openai))  \n- podle údajů cizinecké policie „koncem roku 2019“ pobývalo téměř 600 tisíc cizinců (595 881), což je nárůst o cca 20 tisíc oproti roku 2018. ([statistikaamy.csu.gov.cz](https://statistikaamy.csu.gov.cz/pocet-cizincu-v-cesku-atakuje-hranici-600-tisic?utm_source=openai))  \n\n**ČSÚ – cizinci 2023 a 2024**  \nAnalýza ČSÚ o cizinecké populaci 2023 uvádí, že:  \n\n- ke konci roku 2023 mělo v ČR legální pobyt 1 065 740 cizinců;  \n- oproti roku 2022 šlo o pokles o 50 414 osob;  \n- podíl cizinců na populaci klesl z 10,3 % (2022) na 9,8 % (2023). ([csu.gov.cz](https://csu.gov.cz/produkty/cizinecka-populace-ceska-v-roce-2023-mirne-oslabila))  \n\nNásledná tisková zpráva ČSÚ „Jeden z deseti obyvatel Česka je cizinec“ konstatuje, že:  \n\n- k 31. 12. 2024 mělo v ČR legální pobyt 1 094 089 cizinců,  \n- počet cizinců se **meziročně zvýšil o více než 28,3 tisíce osob**,  \n- podíl cizinců na populaci dosáhl **10,0 %**. ([csu.gov.cz](https://csu.gov.cz/produkty/jeden-z-deseti-obyvatel-ceska-je-cizinec?utm_source=openai))  \n\n### 2.2 Shrnutí k dílčímu tvrzení „počty cizinců rostou“\n\n- Od roku 2013 do 2021 počet cizinců **stabilně roste** (cca 442 tis. → 661 tis.). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n- V roce 2022 dochází k **prudkému skoku na 1,116 mil.** (zejména ukrajinští uprchlíci). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n- V roce 2023 počet mírně klesá na cca 1,066 mil., v roce 2024 znovu roste na 1,094 mil. (zhruba 10 % populace). ([csu.gov.cz](https://csu.gov.cz/produkty/cizinecka-populace-ceska-v-roce-2023-mirne-oslabila))  \n\n**Závěr k A:** Pro poslední dekádu platí, že **počty cizinců dlouhodobě výrazně rostou**, s krátkou korekcí v roce 2023.\n\n---\n\n## 3. Vývoj celkové kriminality v ČR\n\n### 3.1 Registrované trestné činy – časová řada\n\nČSÚ uvádí v přehledu „Kriminalita v Česku“ počet registrovaných skutků podle Police ČR: ([csu.gov.cz](https://csu.gov.cz/kriminalita?utm_source=openai))  \n\n| Rok | Celková kriminalita (evidované skutky) |\n|-----|----------------------------------------|\n| 2017 | 202 303 |\n| 2018 | 192 405 |\n| 2019 | 199 221 |\n| 2020 | 165 525 |\n| 2021 | 153 233 |\n| 2022 | 181 991 |\n| 2023 | 181 417 |\n| 2024 | 173 322 |\n\nČlánek ČTK shrnující policejní statistiku doplňuje širší řadu 2011–2023: ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n\n- 2011: 317 177  \n- 2012: 304 528  \n- 2013: 325 366  \n- 2014: 288 660  \n- 2015: 247 628  \n- 2016: 218 162  \n- (… dále shodně s tabulkou ČSÚ pro 2017–2023)  \n\n**Klíčové trendy:**\n\n- **Dlouhodobý pokles**: mezi roky 2013 (325 366 činů) a 2021 (153 233) se registrovaná kriminalita **snížila zhruba na polovinu**. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n- **Rok 2022 – skokový nárůst**: 181 991 činů, tj. meziroční +18,8 % oproti roku 2021. ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n- **2023 – stagnace na zvýšené úrovni**: 181 417 činů, prakticky stejná úroveň jako 2022. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n- **2024 – opět pokles**: 173 322 činů, meziročně –4,5 %. ([csu.gov.cz](https://csu.gov.cz/produkty/kriminalita-v-cesku-loni-mirne-klesla-pribylo-vyhruzek-nasilim?utm_source=openai))  \n\n### 3.2 Jak policie vysvětluje nárůst 2022\n\nPolicejní prezidium v tiskové zprávě „Vývoj registrované kriminality v roce 2022“ uvádí: ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n\n- v roce 2022 bylo registrováno 181 991 trestných činů, nárůst o 18,8 % oproti 2021,  \n- nárůst kriminality dává do souvislosti **„úplné rozvolnění protipandemických opatření“**,  \n- počty trestných činů se tak „přiblížily k úrovni z roku 2019“.\n\nStejnou interpretaci přebírá i analytický článek ČSÚ („Co odhalila policie“): zvýšení počtu činů v roce 2022 je spojeno se zrušením covidových omezení, která v letech 2020–2021 omezila pohyb lidí a tedy i příležitosti k trestné činnosti. ([statistikaamy.csu.gov.cz](https://statistikaamy.csu.gov.cz/co-odhalila-policie?utm_source=openai))  \n\n### 3.3 Shrnutí k dílčímu tvrzení „kriminalita roste“\n\n- **Dlouhý horizont (cca 2013–2024):** kriminalita **jednoznačně klesá** (325 tis. → 173 tis.). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n- **Krátké období 2021–2024:**\n  - 2021: 153 233 (historické minimum)  \n  - 2022: 181 991 (skokový nárůst po covidu)  \n  - 2023: 181 417 (prakticky beze změny)  \n  - 2024: 173 322 (**pokles**) ([csu.gov.cz](https://csu.gov.cz/kriminalita?utm_source=openai))  \n\n**Závěr k B:**  \n- V dlouhodobém měřítku nelze tvrdit, že **kriminalita roste** – trend je spíše **výrazně klesající**, s dočasným nárůstem v roce 2022 po covidových omezeních.  \n- V krátkém období 2021–2022 kriminalita **vzrostla**, ale v letech 2023–2024 **dál nerostla, nýbrž klesala**.\n\n---\n\n## 4. Podíl cizinců na kriminalitě\n\n### 4.1 Podíl cizinců mezi pachateli a na evidovaných skutcích\n\n**Institut pro kriminologii a sociální prevenci (IKSP)**  \nStudie IKSP „Trestná činnost cizích státních příslušníků na území ČR“ (2025) shrnuje vývoj roku 2023: ([iksp.gov.cz](https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky))  \n\n- cizinci s trvalým/dlouhodobým pobytem tvořili v roce 2023 **9,75 %** obyvatel ČR (v roce 2022 to bylo 10,2 %),  \n- **podíl cizinců na celkovém počtu evidovaných skutků vzrostl na 11,0 %** (meziroční nárůst o 0,7 p. b.),  \n- **podíl cizinců na stíhaných osobách dosáhl 11,8 %** (nárůst o 1,3 p. b.),  \n- autoři výslovně upozorňují, že tento podíl nelze přímo porovnávat s podílem cizinců v populaci, protože statistika pachatelů zachycuje i krátkodobé pobyty (turisty apod.).\n\n**Data MV/ČTK – rok 2023**  \nČlánek ČTK shrnující zprávu MV o migraci za rok 2023 uvádí, že:  \n\n- v roce 2023 bylo trestně stíháno **9 345 cizinců**,  \n- to představovalo „necelých 12 %“ z celkového počtu stíhaných osob v ČR. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n\n**Trendy 2024 – IKSP a média**  \n\n- IKSP v přehledu „Osoby stíhané Policií ČR“ uvádí, že v roce 2024 bylo stíháno 75 825 osob, z nichž **12 % byli cizinci**, podobně jako v roce 2023. ([iksp.gov.cz](https://iksp.gov.cz/en/osoby-stihane-policii-cr?utm_source=openai))  \n- Deník.cz v textu vyvracejícím dezinformaci o „polovině trestných činů páchaných cizinci“ uvádí, že podíl cizinců mezi stíhanými osobami v roce 2024 činil **12 %**; zároveň připomíná, že celkový počet trestných činů v roce 2024 byl 173 322. ([denik.cz](https://www.denik.cz/z_domova/denik-proti-fake-news-marketa-sichtarova-kandidatka-spd-letos-prijde-krize.html?utm_source=openai))  \n\n**Výklad policejního prezidia (TN.cz, 2025)**  \nReportáž TV Nova shrnující stanovisko Policie ČR a sociologa STEM uvádí: ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/625892-kriminalita-cizincu-v-cesku-neroste-shoduji-se-na-tom-policiste-i-sociolog?utm_source=openai))  \n\n- v roce 2021 tvořili cizinci cca **6 %** obyvatel ČR,  \n- v roce 2024 již **10 %** obyvatel,  \n- **trestná činnost cizinců** byla v roce 2021 na úrovni **9 %**, v roce 2024 na úrovni **12 %** z počtu stíhaných osob,  \n- mluvčí Policejního prezidia k tomu říká, že nárůst podílu cizinců mezi pachateli je nižší než nárůst jejich podílu v populaci a že „spíše lze konstatovat, že trestná činnost cizinců stagnuje“.\n\n### 4.2 Shrnutí k dílčímu tvrzení „cizinci zásadně zvyšují kriminalitu“\n\n- Cizinci se na kriminalitě **podílejí menšinově**: cca 11–12 % stíhaných osob, při podílu kolem 10 % na populaci. ([iksp.gov.cz](https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky))  \n- Jejich **podíl na kriminalitě mírně narostl**, ale zároveň **počet cizinců v zemi narostl ještě výrazněji**; podle policie proto nelze mluvit o dramatickém „přerůstání“ trestné činnosti cizinců. ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/625892-kriminalita-cizincu-v-cesku-neroste-shoduji-se-na-tom-policiste-i-sociolog?utm_source=openai))  \n\n---\n\n## 5. Společný vývoj počtu cizinců a kriminality\n\n### 5.1 Dlouhodobé srovnání (2013–2024)\n\nZ výše uvedených dat:\n\n- **Počet cizinců**  \n  - 2013: 441 536 cizinců, 2024: 1 094 089 cizinců (více než 2,4násobek). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n- **Registrovaná kriminalita**  \n  - 2013: 325 366 skutků, 2024: 173 322 skutků (pokles o cca 47 %). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n\n**Pozorování:**  \nV období 2013–2024 **počty cizinců výrazně rostou, ale kriminalita celkově výrazně klesá**. To je přesný opak jednoduché teze „čím více cizinců, tím více kriminality“.\n\n### 5.2 Kratší období kolem „minulé vlády“ (cca 2021–2024)\n\nPokud se omezíme na období spojené s Fialovou vládou (zmíněnou v projevu jako „minulá vláda“):\n\n- **Počet cizinců** ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n  - 2021: 660 849  \n  - 2022: 1 116 154 (prudký skok, hlavně uprchlíci z Ukrajiny)  \n  - 2023: 1 065 740 (mírný pokles)  \n  - 2024: 1 094 089 (opět nárůst, cca 10 % populace)  \n\n- **Registrovaná kriminalita** ([csu.gov.cz](https://csu.gov.cz/kriminalita?utm_source=openai))  \n  - 2021: 153 233 (minimum)  \n  - 2022: 181 991 (**nárůst** o 18,8 % – spojován s rozvolněním covidových opatření)  \n  - 2023: 181 417 (prakticky beze změny)  \n  - 2024: 173 322 (**pokles** o 4,5 % oproti 2023)  \n\n**Pozorování:**\n\n- Mezi lety 2021 a 2022 **současně** vzrostly jak počty cizinců, tak kriminalita.  \n- V letech 2023–2024 ale situace není „čím více cizinců, tím více kriminality“:\n  - 2023 → 2024: **počet cizinců stoupl**, ale **celková kriminalita klesla**. ([csu.gov.cz](https://csu.gov.cz/produkty/jeden-z-deseti-obyvatel-ceska-je-cizinec?utm_source=openai))  \n\nPolicie navíc nárůst kriminality v roce 2022 vysvětluje především **ukončením pandemických omezení a přesunem kriminality do kyberprostoru a majetkové sféry**, nikoli přílivem cizinců. ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n\n---\n\n## 6. Hodnocení jednotlivých dílčích tvrzení\n\n### 6.1 „Počty cizinců rostou“\n\n- **Důkaz:** Jednoznačný nárůst cizinců od cca 440 tis. (2013) ke zhruba 1,09 mil. (2024), podíl na populaci kolem 10 %. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n- **Hodnocení:** Toto dílčí tvrzení je v dlouhodobém pohledu **pravdivé** (s drobným poklesem mezi 2022 a 2023).\n\n### 6.2 „Kriminalita roste“\n\n- **Dlouhodobě (2013–2024):** kriminalita klesla z cca 325 tis. skutků na 173 tis. – **dlouhodobý pokles**. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n- **Krátkodobě (2021–2024):**  \n  - mezi 2021 a 2022 **vzrostla**,  \n  - 2022–2023 stagnace,  \n  - mezi 2023 a 2024 **klesla**. ([csu.gov.cz](https://csu.gov.cz/kriminalita?utm_source=openai))  \n\n- **Hodnocení:**  \n  - V dlouhém horizontu je tvrzení „kriminalita roste“ **nepravdivé**.  \n  - I v posledních letech nejde o soustavný růst; po jednorázovém nárůstu po covidu kriminalita opět klesá.\n\n### 6.3 „Současně nám s počty cizinců roste kriminalita“ (souvislost / korelace)\n\n- **Dlouhodobě (2013–2024):**  \n  - cizinců výrazně přibylo,  \n  - kriminalita výrazně klesla.  \n  → **Neexistuje dlouhodobá pozitivní souvislost** „více cizinců = více kriminality“; spíše naopak – při růstu počtu cizinců kriminalita klesala. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n\n- **V krátkém období 2021–2022:**  \n  - prudký nárůst jak cizinců, tak kriminality; to by mohlo opticky podporovat tvrzení.  \n  - Policie však nárůst kriminality výslovně spojuje s **rozvolněním pandemických opatření a strukturou kriminality (majetková, kyberkriminalita)**, nikoli s cizinci. ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n\n- **2023–2024:**  \n  - počet cizinců opět vzrostl,  \n  - kriminalita naopak poklesla.  \n  → přímý vztah „více cizinců = více kriminality“ se **nepotvrzuje ani v krátkém období**. ([csu.gov.cz](https://csu.gov.cz/produkty/cizinecka-populace-ceska-v-roce-2023-mirne-oslabila))  \n\n- **Podíl cizinců na kriminalitě:**  \n  - cizinci se významně podílejí na kriminalitě (cca 11–12 % pachatelů při podílu ≈10 % na populaci),  \n  - jejich podíl na pachatelích mírně roste, nicméně podle policejního prezidia tento růst **odpovídá či zaostává za růstem jejich počtu**; mluvčí policie hovoří o tom, že trestná činnost cizinců spíše „stagnuje“. ([iksp.gov.cz](https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky))  \n\n**Hodnocení k C (souvislost):**\n\n- Data **nepodporují jednoduchou tezi**, že s rostoucím počtem cizinců roste i celková kriminalita.  \n- Existuje jedno období (2021–2022), kdy oba ukazatele vzrostly, ale:\n  - jde o návrat kriminality po mimořádném covidovém propadu,  \n  - oficiální analýzy příčiny nárůstu nespojují primárně s cizinci. ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n\n---\n\n## 7. Celkové zhodnocení výroku\n\nNa základě oficiálních statistik (ČSÚ, Ministerstvo vnitra, Policie ČR, IKSP) lze shrnout:\n\n1. **Počet cizinců v ČR dlouhodobě roste** a v posledních letech se pohybuje kolem 10 % populace. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n2. **Celková kriminalita však v dlouhodobém horizontu klesá**; mezi 2013 a 2024 poklesla zhruba na polovinu. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n3. **Krátkodobý nárůst kriminality v roce 2022** je policií vysvětlován zejména rozvolněním covidových opatření a strukturálními změnami kriminality, nikoli růstem počtu cizinců. ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n4. **Podíl cizinců mezi pachateli** je kolem 11–12 %, což zhruba odpovídá jejich podílu na populaci; podle policie se trestná činnost cizinců spíše stabilizuje než dramaticky roste. ([iksp.gov.cz](https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky))  \n\nPro lidského fact-checkera z toho plyne:\n\n- Dílčí tvrzení o růstu počtu cizinců je podloženo.  \n- Dílčí tvrzení, že **celková kriminalita roste**, je v dlouhodobém horizontu nepravdivé a i v posledních letech pouze částečně a dočasně platí.  \n- Silnější teze, že „s počty cizinců roste kriminalita“ (tj. že růst počtu cizinců vysvětluje růst kriminality), **nemá v dostupných datech a oficiálních analýzách oporu** a přehlíží, že při rostoucím počtu cizinců kriminalita jako celek spíše klesá.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Novoroční projev released on 2026-01-01 available from https://www.youtube.com/watch?v=Qs8whrFfhtU.\\n\\n\\nThe claim was made by: Tomio Okamura, Předseda PSP ČR, předseda SPD\\n\\n\\nThe claim appears in the following immediate context in the source:\\nNaše firmy, naši zaměstnavatelé čelí obrovské zahraniční konkurenci, která má daleko nižší náklady ne na energie než ty naše a současně v případě evropských firem mají vyšší a lepší podporu ze strany svých států než ty naše.\\nTo platí jak pro ocelárny, pekaře, tak třeba pro zemědělce.\\nTyhle nerovnosti musíme narovnat a doufám, že je narovnáme tak, aby naši výrobci a producenti měli na trzích rovné podmínky.\\nTo platí i pro běžné občany.\\n47% rodin v nájmech žije v přímové chudobě.\\nI to je vizitka minulé vlády a to je zcela jasný úkol pro vládu současnou.\\n10 % obyvatel našeho státu jsou cizinci.\\nV Praze je cizinec dokonce každý třetí.\\nI to je trend nastolený minulou vládou, který musíme zvrátit.\\nČeským občanům se úměrně tomu zdražuje a znepřístupňuje bydlení.\\nMáme nízké mzdy a současně nám s počty cizinců roste kriminalita a snižuje se bezpečnost.\\nA pokud skončí válka a měli by se k nám nahrnout váleční veteráni zvyklí bez rozmyslu zabíjet, byla by to další katastrofa.\\nsrovnatelná s tou, kterou prožívají dnes a denně díky svým pseudoliberálním vládám obyvatelé západních zemí.\\n\\nProvide a structured, citation-backed verification of the claim: 'Současně nám s počty cizinců roste kriminalita.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 370.62 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Počet cizinců v Česku v posledních letech skutečně roste. Celková kriminalita ale dlouhodobě nekopíruje tento trend – po výrazném poklesu před covidem se po krátkém nárůstu v roce 2022 spíše stabilizovala a v roce 2024 znovu klesla. Tvrzení o „současném růstu kriminality s počty cizinců“ proto hodnotíme jako zavádějící.</p>\n\n<p>Výrok zaznívá v debatě o migraci a bezpečnosti a naznačuje, že s rostoucím počtem cizinců v České republice současně roste kriminalita. Z kontextu podobných politických diskusí obvykle plyne i implicitní sdělení, že mezi oběma jevy existuje přímá souvislost a že vyšší počet cizinců kriminalitu zvyšuje.</p>\n\n<p>Výrok v sobě obsahuje tři dílčí faktická tvrzení. První z nich říká, že počty cizinců v ČR rostou. Druhé tvrdí, že kriminalita v ČR roste. Třetí naznačuje, že tyto dva trendy spolu souvisejí, minimálně časově („současně“), často i příčinně. V následujícím textu hodnotíme každé z těchto tvrzení zvlášť.</p>\n\n<p>Pokud jde o počet cizinců, dlouhodobá data jednoznačně ukazují růst. Český statistický úřad v článku o vývoji počtu cizinců popisuje, že mezi roky 2004 a 2014 narostl počet cizinců s pobytem nad 12 měsíců o zhruba 200 tisíc osob, tedy na téměř 450 tisíc, a že <i>„podíl cizinců s trvalým pobytem však stále roste“</i> a je patrný usazovací trend, kdy se cizinci v Česku dlouhodoběji usazují.</p><p>Článek zároveň uvádí, že <i>„co však každoročně roste, je počet osob s trvalým pobytem“</i> a že trvalý pobyt indikuje stabilizaci populace cizinců a jejich tendenci v Česku zůstat.</p><p>Novější přehled o cizincích v ČR navazuje na tento vývoj. Institut pro kriminologii a sociální prevenci shrnuje, že podíl cizinců s trvalým a dlouhodobým pobytem v roce 2023 představoval 9,75 % obyvatel ČR, zatímco v roce 2022 to bylo 10,2 %, a zároveň konstatuje, že jde o vysoký podíl v mezinárodním srovnání a o pokračování dlouhodobého růstu počtu cizinců na území státu.</p><p>Z těchto údajů vyplývá, že dílčí tvrzení o rostoucím počtu cizinců je v zásadě pravdivé. V jednotlivých letech může docházet k menším výkyvům (například po ekonomických krizích), ale z dlouhodobého hlediska podíl cizinců na obyvatelstvu výrazně vzrostl a dnes se pohybuje kolem jedné desetiny populace.</p>\n\n<p>Jiná je situace u druhého dílčího tvrzení, tedy že kriminalita v ČR roste. Podle časových řad Českého statistického úřadu, které přebírají data Policie ČR, klesl počet registrovaných trestných činů z 202 303 v roce 2017 na 153 233 v roce 2021. V roce 2022 následoval nárůst na 181 991 skutků, v roce 2023 bylo evidováno 181 417 skutků a v roce 2024 došlo k poklesu na 173 322 skutků. Statistika zároveň ukazuje, že míra kriminality na 100 000 obyvatel je v roce 2024 nižší než v roce 2017.</p><p>Institut pro kriminologii a sociální prevenci, který pracuje přímo s policejními statistikami, shrnuje, že v roce 2023 se počty registrovaných skutků držely na obdobné úrovni jako v roce předchozím a byl zaznamenán jen nepatrný pokles o 0,3 %, tedy asi o 574 trestných činů. Český statistický úřad potom k roku 2024 uvádí, že bylo Policií ČR registrováno 173 322 skutků, což je zhruba o 8 000 méně než v roce 2023, především díky poklesu majetkové kriminality.</p><p>Data tedy ukazují následující obraz: mezi lety 2017 a 2021 kriminalita výrazně klesala. V roce 2022 došlo po rozvolnění proticovidových omezení k jednorázovému nárůstu, kdy se kriminalita vrátila blíže úrovni před pandemií. Následně se v roce 2023 prakticky nezměnila a v roce 2024 opět klesla. Mluvit obecně o tom, že „kriminalita roste“, proto neodpovídá dlouhodobému trendu; lze spíše říci, že po historickém minimu v pandemických letech došlo k částečnému návratu na vyšší úroveň, která je ale stále nižší než na konci minulého desetiletí.</p>\n\n<p>Třetí, nejpodstatnější část výroku naznačuje, že růst kriminality probíhá „současně“ s růstem počtu cizinců a že mezi oběma jevy existuje souvislost. Pro ověření je proto důležité podívat se, jaký podíl na kriminalitě mají cizinci a jak se tento podíl vyvíjí.</p>\n\n<p>Z analýzy Institutu pro kriminologii a sociální prevenci o trestné činnosti cizích státních příslušníků vyplývá, že v roce 2023 tvořili cizinci s trvalým a dlouhodobým pobytem 9,75 % obyvatel ČR, zatímco procentní podíl cizinců na celkových počtech evidovaných skutků činil 11,0 % a na počtu stíhaných osob 11,8 %. Autoři zároveň upozorňují, že tento podíl nelze přímo porovnávat s podílem cizinců v populaci, protože v kriminalitě se zohledňují i cizinci na krátkodobých či turistických pobytech, kteří v údajích o dlouhodobě pobývajících osobách nejsou zachyceni.</p><p>Stejný institut v textu o trendech kriminality za rok 2023 uvádí, že mezi stíhanými a vyšetřovanými osobami tvořili cizinci téměř 12 %. Autoři současně zdůrazňují, že více než 44 % všech stíhaných a vyšetřovaných osob jsou opakovaně trestaní pachatelé, kteří spáchali více než polovinu všech objasněných trestných činů. To ukazuje, že významnou část kriminality vytváří recidiva, nikoli nově příchozí skupiny obyvatel.</p><p>Pro rok 2024 shrnuje neziskový projekt Atlas předsudků, vycházející z policejních statistik, že cizinci spáchali 5,5 % všech objasněných skutků a trestně stíháno bylo 9 441 cizinců. Tento podíl na objasněné kriminalitě je tedy nižší než jejich podíl v populaci, který se podle výše citovaných údajů pohybuje kolem deseti procent.</p><p>Z analýzy o trestné činnosti cizinců rovněž vyplývá, že struktura kriminality páchané cizinci je dlouhodobě stabilní: dominují jí trestné činy ohrožení pod vlivem návykové látky, majetková kriminalita, zejména krádeže, maření výkonu úředního rozhodnutí a nedbalostní dopravní nehody. Zpráva neuvádí, že by se cizinci ve zvýšené míře podíleli na nejzávažnějších násilných činech, ani že by jejich podíl na kriminalitě dramaticky narůstal.</p><p>Při hodnocení údajných souvislostí mezi počtem cizinců a kriminalitou je klíčové, že i v období, kdy počet cizinců dlouhodobě rostl, celková kriminalita v Česku – měřeno počtem registrovaných skutků – spíše klesala. To platí zejména pro roky zhruba od poloviny 2000. let do roku 2021, kdy se kriminalita snížila o desítky tisíc skutků, zatímco počty cizinců a jejich podíl na obyvatelstvu rostl.</p><p>Český statistický úřad ve svém článku o vývoji počtu cizinců výslovně konstatuje, že <i>„cizinci nepředstavují zátěž pro sociální systém (...), ani nedochází k sociálním problémům a negativním jevům spojeným s imigrací“</i>. Tento závěr je založen mimo jiné na datech o čerpání sociálních dávek, ale implikuje, že oficiální statistiky neukazují na zhoršení bezpečnostní situace v důsledku přítomnosti cizinců.</p><p>Nelze tedy říci, že by data potvrzovala jednoduchou úvahu „čím více cizinců, tím více kriminality“. Kriminalita je ovlivňována celou řadou faktorů – ekonomickými cykly, pandemií a souvisejícími omezeními pohybu, policejními metodami či strukturou recidivy. V některých letech (například mezi roky 2021 a 2022) sice dochází k současnému nárůstu počtu cizinců a celkové kriminality, ale jde o krátké období po mimořádné pandemické situaci, nikoli o dlouhodobě platný vztah. Navíc se v následujících letech kriminalita opět snížila, zatímco počet cizinců zůstal vysoký.</p><p>Oficiální zprávy Ministerstva vnitra ani odborné analýzy Institutu pro kriminologii a sociální prevenci nepřisuzují případné výkyvy kriminality primárně růstu počtu cizinců. Naopak upozorňují na stabilitu struktury kriminality cizinců a na skutečnost, že hlavní část trestné činnosti v ČR páchají čeští občané.</p>\n\n<p>Po dílčím rozboru lze shrnout, že část výroku o rostoucím počtu cizinců je pravdivá. Tvrzení, že „roste kriminalita“, obecně vzato neodpovídá dlouhodobému vývoji: kriminalita po výrazném poklesu v předchozích letech krátce vzrostla v roce 2022, ale v letech 2023 a 2024 stagnovala či klesla. Nejslabší je část výroku, která naznačuje, že krizím a nárůstu kriminality odpovídá především příliv cizinců – dostupná data takovou přímou souvislost nepotvrzují a spíše ukazují, že se kriminalita vyvíjí nezávisle na dlouhodobém růstu počtu cizinců. Jako celek proto hodnotíme výrok „Současně nám s počty cizinců roste kriminalita“ jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0c5299141081918800695e82ed55248197828ebcad9f9f665d",
+    "created_at": 1767801581.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0c5299141081918800695e82f73b9881978d075dc748e33325",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e830774f481978c3535274b310019",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e83082c648197ac7ad5e599e724fc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e830880a48197ab34946629b9e662",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e830c420c8197807196b1e9745873",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e830db6f481979672cf769c986c03",
+        "action": {
+          "query": "\"Cizinci s povoleným pobytem\" \"v České republice\" 2023 statistika",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e83109f00819783ddea2e216d93fb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e8310d3cc8197a590105e4d91a922",
+        "action": {
+          "query": "kriminalita cizincu v Ceske republice statistika Policie CR",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e8313af508197a595ef87c4800e2b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e832252508197a7710263d58fdbc2",
+        "action": {
+          "query": "\"Cizinci s povoleným pobytem na území České republiky k 31.12.\" 2017 2018 2019 2020 2021 2022 2023",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e832786b48197b043d8c517328de0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e832936c08197b5bf5e25173e87e4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e832b9c10819782e06ab64ef6ab25",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e8330c18c819780f102a271b40eb5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e83372b448197b68e83e53226c4e7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e835275508197a6fe09c4895903d2",
+        "action": {
+          "query": "\"Počet cizinců s povoleným pobytem\" 2015 2016 2017 2018 2019 2020 2021 2022",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e83575d588197b440aa7a1fff2c3e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e835996808197a896b254888b5ebe",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e835ae0a88197a3f49e8f12e1d802",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e835dac608197a48b08bb0d8aa993",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e835fc02c8197911f4de85aaecf67",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e838808b88197b8aee791bfc2aca0",
+        "action": {
+          "query": "\"Kriminalita v roce 2022\" \"Policejni prezidium\" \"Analýza stavu\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e838b83048197a876e5d4f0da03ab",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e838cc25c8197a243db68cb31c655",
+        "action": {
+          "query": "\"Kriminalita v roce 2023\" \"registrovano 181 417\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e8391bb6c8197bb810359b84c0cfc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e83a4e5d081979e0a26dde476d561",
+        "action": {
+          "query": "\"Cizinců bylo mezi pachateli\" 12 %",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e83ace92c819787b2fcc279e0bcd6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e83b486588197bd2f7e6c2ac1e30c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e83b6b0fc8197ba6a47a624df30bc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0c5299141081918800695e83c6765c81979c4240b1683defc8",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c5299141081918800695e83c849948197a88f0c377c2f429e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0c5299141081918800695e8406ee7c8197abac53d3703a82b9",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1129,
+                "start_index": 1068,
+                "title": "Počet cizinců pobývajících v ČR stále přesahuje milion, meziročně jich ubylo | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2542772"
+              },
+              {
+                "end_index": 1623,
+                "start_index": 1474,
+                "title": "Roční zprávy o situaci v oblasti migrace a integrace cizinců v České republice za roky 2001-2023 - Aktuální informace o migraci",
+                "type": "url_citation",
+                "url": "https://www.mvcr.cz/migrace/clanek/rocni-zpravy-o-situaci-v-oblasti-migrace-a-integrace-cizincu-v-ceske-republice-za-roky-2001-2023.aspx"
+              },
+              {
+                "end_index": 1963,
+                "start_index": 1840,
+                "title": "V Česku žije a pracuje půl milionu cizinců | Statistika a my",
+                "type": "url_citation",
+                "url": "https://statistikaamy.csu.gov.cz/v-cesku-zije-a-pracuje-pul-milionu-cizincu?utm_source=openai"
+              },
+              {
+                "end_index": 2236,
+                "start_index": 2108,
+                "title": "Počet cizinců v Česku atakuje hranici 600 tisíc | Statistika a my",
+                "type": "url_citation",
+                "url": "https://statistikaamy.csu.gov.cz/pocet-cizincu-v-cesku-atakuje-hranici-600-tisic?utm_source=openai"
+              },
+              {
+                "end_index": 2601,
+                "start_index": 2506,
+                "title": "Cizinecká populace Česka v roce 2023 mírně oslabila | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/produkty/cizinecka-populace-ceska-v-roce-2023-mirne-oslabila"
+              },
+              {
+                "end_index": 2977,
+                "start_index": 2875,
+                "title": "Jeden z deseti obyvatel Česka je cizinec | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/produkty/jeden-z-deseti-obyvatel-ceska-je-cizinec?utm_source=openai"
+              },
+              {
+                "end_index": 3183,
+                "start_index": 3122,
+                "title": "Počet cizinců pobývajících v ČR stále přesahuje milion, meziročně jich ubylo | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2542772"
+              },
+              {
+                "end_index": 3336,
+                "start_index": 3275,
+                "title": "Počet cizinců pobývajících v ČR stále přesahuje milion, meziročně jich ubylo | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2542772"
+              },
+              {
+                "end_index": 3547,
+                "start_index": 3452,
+                "title": "Cizinecká populace Česka v roce 2023 mírně oslabila | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/produkty/cizinecka-populace-ceska-v-roce-2023-mirne-oslabila"
+              },
+              {
+                "end_index": 3917,
+                "start_index": 3853,
+                "title": "Kriminalita | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/kriminalita?utm_source=openai"
+              },
+              {
+                "end_index": 4306,
+                "start_index": 4245,
+                "title": "Kriminalita loni klesla, policie zaznamenala 181.417 trestných činů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2464688"
+              },
+              {
+                "end_index": 4682,
+                "start_index": 4621,
+                "title": "Kriminalita loni klesla, policie zaznamenala 181.417 trestných činů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2464688"
+              },
+              {
+                "end_index": 4887,
+                "start_index": 4772,
+                "title": "Vývoj registrované kriminality v roce 2022 - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 5041,
+                "start_index": 4980,
+                "title": "Kriminalita loni klesla, policie zaznamenala 181.417 trestných činů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2464688"
+              },
+              {
+                "end_index": 5226,
+                "start_index": 5102,
+                "title": "Kriminalita v Česku loni mírně klesla, přibylo výhrůžek násilím | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/produkty/kriminalita-v-cesku-loni-mirne-klesla-pribylo-vyhruzek-nasilim?utm_source=openai"
+              },
+              {
+                "end_index": 5478,
+                "start_index": 5363,
+                "title": "Vývoj registrované kriminality v roce 2022 - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 6067,
+                "start_index": 5967,
+                "title": "Co odhalila policie | Statistika a my",
+                "type": "url_citation",
+                "url": "https://statistikaamy.csu.gov.cz/co-odhalila-policie?utm_source=openai"
+              },
+              {
+                "end_index": 6283,
+                "start_index": 6222,
+                "title": "Kriminalita loni klesla, policie zaznamenala 181.417 trestných činů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2464688"
+              },
+              {
+                "end_index": 6543,
+                "start_index": 6479,
+                "title": "Kriminalita | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/kriminalita?utm_source=openai"
+              },
+              {
+                "end_index": 7209,
+                "start_index": 7104,
+                "title": "Trestná činnost cizích státních příslušníků na území České republiky",
+                "type": "url_citation",
+                "url": "https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky"
+              },
+              {
+                "end_index": 7978,
+                "start_index": 7917,
+                "title": "Počet cizinců pobývajících v ČR stále přesahuje milion, meziročně jich ubylo | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2542772"
+              },
+              {
+                "end_index": 8248,
+                "start_index": 8166,
+                "title": "Osoby stíhané Policií ČR",
+                "type": "url_citation",
+                "url": "https://iksp.gov.cz/en/osoby-stihane-policii-cr?utm_source=openai"
+              },
+              {
+                "end_index": 8634,
+                "start_index": 8493,
+                "title": "Že cizinci v ČR mají na svědomí polovinu trestných činů a plní vězení? Jde o lež - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/z_domova/denik-proti-fake-news-marketa-sichtarova-kandidatka-spd-letos-prijde-krize.html?utm_source=openai"
+              },
+              {
+                "end_index": 8914,
+                "start_index": 8759,
+                "title": "Kriminalita cizinců v Česku neroste. Shodují se na tom policisté i sociolog | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/625892-kriminalita-cizincu-v-cesku-neroste-shoduji-se-na-tom-policiste-i-sociolog?utm_source=openai"
+              },
+              {
+                "end_index": 9626,
+                "start_index": 9521,
+                "title": "Trestná činnost cizích státních příslušníků na území České republiky",
+                "type": "url_citation",
+                "url": "https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky"
+              },
+              {
+                "end_index": 9981,
+                "start_index": 9826,
+                "title": "Kriminalita cizinců v Česku neroste. Shodují se na tom policisté i sociolog | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/625892-kriminalita-cizincu-v-cesku-neroste-shoduji-se-na-tom-policiste-i-sociolog?utm_source=openai"
+              },
+              {
+                "end_index": 10261,
+                "start_index": 10200,
+                "title": "Počet cizinců pobývajících v ČR stále přesahuje milion, meziročně jich ubylo | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2542772"
+              },
+              {
+                "end_index": 10426,
+                "start_index": 10365,
+                "title": "Kriminalita loni klesla, policie zaznamenala 181.417 trestných činů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2464688"
+              },
+              {
+                "end_index": 10854,
+                "start_index": 10793,
+                "title": "Počet cizinců pobývajících v ČR stále přesahuje milion, meziročně jich ubylo | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2542772"
+              },
+              {
+                "end_index": 11130,
+                "start_index": 11066,
+                "title": "Kriminalita | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/kriminalita?utm_source=openai"
+              },
+              {
+                "end_index": 11709,
+                "start_index": 11607,
+                "title": "Jeden z deseti obyvatel Česka je cizinec | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/produkty/jeden-z-deseti-obyvatel-ceska-je-cizinec?utm_source=openai"
+              },
+              {
+                "end_index": 12013,
+                "start_index": 11898,
+                "title": "Vývoj registrované kriminality v roce 2022 - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 12282,
+                "start_index": 12221,
+                "title": "Počet cizinců pobývajících v ČR stále přesahuje milion, meziročně jich ubylo | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2542772"
+              },
+              {
+                "end_index": 12597,
+                "start_index": 12536,
+                "title": "Kriminalita loni klesla, policie zaznamenala 181.417 trestných činů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2464688"
+              },
+              {
+                "end_index": 12792,
+                "start_index": 12728,
+                "title": "Kriminalita | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/kriminalita?utm_source=openai"
+              },
+              {
+                "end_index": 13383,
+                "start_index": 13322,
+                "title": "Počet cizinců pobývajících v ČR stále přesahuje milion, meziročně jich ubylo | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2542772"
+              },
+              {
+                "end_index": 13795,
+                "start_index": 13680,
+                "title": "Vývoj registrované kriminality v roce 2022 - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 14073,
+                "start_index": 13978,
+                "title": "Cizinecká populace Česka v roce 2023 mírně oslabila | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/produkty/cizinecka-populace-ceska-v-roce-2023-mirne-oslabila"
+              },
+              {
+                "end_index": 14538,
+                "start_index": 14433,
+                "title": "Trestná činnost cizích státních příslušníků na území České republiky",
+                "type": "url_citation",
+                "url": "https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky"
+              },
+              {
+                "end_index": 14994,
+                "start_index": 14879,
+                "title": "Vývoj registrované kriminality v roce 2022 - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 15287,
+                "start_index": 15226,
+                "title": "Počet cizinců pobývajících v ČR stále přesahuje milion, meziročně jich ubylo | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2542772"
+              },
+              {
+                "end_index": 15460,
+                "start_index": 15399,
+                "title": "Kriminalita loni klesla, policie zaznamenala 181.417 trestných činů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2464688"
+              },
+              {
+                "end_index": 15757,
+                "start_index": 15642,
+                "title": "Vývoj registrované kriminality v roce 2022 - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 16047,
+                "start_index": 15942,
+                "title": "Trestná činnost cizích státních příslušníků na území České republiky",
+                "type": "url_citation",
+                "url": "https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky"
+              }
+            ],
+            "text": "## 1. Rozklad výroku a možné interpretace\n\nVýrok „Současně nám s počty cizinců roste kriminalita“ lze chápat několika způsoby:\n\n1. **Dlouhodobý trend**  \n   - Jak v minulých letech přibývá cizinců v ČR, tak _dlouhodobě_ roste i celková kriminalita.\n\n2. **Krátkodobý (vládní) trend**  \n   - V období „minulé vlády“ (tj. zhruba od roku 2021/2022), kdy prudce narostl počet cizinců, zároveň roste i kriminalita.\n\n3. **Silnější tvrzení o souvislosti**  \n   - Implicitní sdělení, že **růst počtu cizinců je důvodem růstu kriminality** (tj. zvyšují kriminalitu).\n\nNíže odděleně zkoumáme:\n- (A) vývoj počtu cizinců,  \n- (B) vývoj celkové kriminality v ČR,  \n- (C) vývoj podílu cizinců na kriminalitě,  \n- (D) zda data a oficiální analýzy spojují nárůst kriminality s růstem počtu cizinců.\n\n---\n\n## 2. Vývoj počtu cizinců v ČR\n\n### 2.1 Dlouhodobý vývoj (cca 2013–2024)\n\n**Ministerstvo vnitra – výroční zpráva o migraci 2023 (přes ČTK)**  \nČlánek ČTK shrnující výroční zprávu MV o migraci uvádí tabulku „Vývoj počtu cizinců s povoleným pobytem na území ČR v letech 2013–2023“: ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n\n- 2013: 441 536 cizinců  \n- 2014: 451 923  \n- 2015: 467 562  \n- 2016: 496 413  \n- 2017: 526 811  \n- 2018: 566 931  \n- 2019: 595 881  \n- 2020: 634 790  \n- 2021: 660 849  \n- 2022: 1 116 154  \n- 2023: 1 065 740  \n\nZdroj výslovně odkazuje na **„Výroční zprávu o situaci v oblasti migrace a integrace cizinců… za rok 2023“** Ministerstva vnitra. ([mvcr.cz](https://www.mvcr.cz/migrace/clanek/rocni-zpravy-o-situaci-v-oblasti-migrace-a-integrace-cizincu-v-ceske-republice-za-roky-2001-2023.aspx))  \n\n**ČSÚ – cizinci 2016 a 2019**  \nČSÚ ve starších analytických textech potvrzuje, že:\n\n- k 31. 12. 2016 žilo v ČR 496 413 cizinců; podíl cizinců na populaci dosáhl 4,5 % a „podíl cizinců na celkové populaci roste“. ([statistikaamy.csu.gov.cz](https://statistikaamy.csu.gov.cz/v-cesku-zije-a-pracuje-pul-milionu-cizincu?utm_source=openai))  \n- podle údajů cizinecké policie „koncem roku 2019“ pobývalo téměř 600 tisíc cizinců (595 881), což je nárůst o cca 20 tisíc oproti roku 2018. ([statistikaamy.csu.gov.cz](https://statistikaamy.csu.gov.cz/pocet-cizincu-v-cesku-atakuje-hranici-600-tisic?utm_source=openai))  \n\n**ČSÚ – cizinci 2023 a 2024**  \nAnalýza ČSÚ o cizinecké populaci 2023 uvádí, že:  \n\n- ke konci roku 2023 mělo v ČR legální pobyt 1 065 740 cizinců;  \n- oproti roku 2022 šlo o pokles o 50 414 osob;  \n- podíl cizinců na populaci klesl z 10,3 % (2022) na 9,8 % (2023). ([csu.gov.cz](https://csu.gov.cz/produkty/cizinecka-populace-ceska-v-roce-2023-mirne-oslabila))  \n\nNásledná tisková zpráva ČSÚ „Jeden z deseti obyvatel Česka je cizinec“ konstatuje, že:  \n\n- k 31. 12. 2024 mělo v ČR legální pobyt 1 094 089 cizinců,  \n- počet cizinců se **meziročně zvýšil o více než 28,3 tisíce osob**,  \n- podíl cizinců na populaci dosáhl **10,0 %**. ([csu.gov.cz](https://csu.gov.cz/produkty/jeden-z-deseti-obyvatel-ceska-je-cizinec?utm_source=openai))  \n\n### 2.2 Shrnutí k dílčímu tvrzení „počty cizinců rostou“\n\n- Od roku 2013 do 2021 počet cizinců **stabilně roste** (cca 442 tis. → 661 tis.). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n- V roce 2022 dochází k **prudkému skoku na 1,116 mil.** (zejména ukrajinští uprchlíci). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n- V roce 2023 počet mírně klesá na cca 1,066 mil., v roce 2024 znovu roste na 1,094 mil. (zhruba 10 % populace). ([csu.gov.cz](https://csu.gov.cz/produkty/cizinecka-populace-ceska-v-roce-2023-mirne-oslabila))  \n\n**Závěr k A:** Pro poslední dekádu platí, že **počty cizinců dlouhodobě výrazně rostou**, s krátkou korekcí v roce 2023.\n\n---\n\n## 3. Vývoj celkové kriminality v ČR\n\n### 3.1 Registrované trestné činy – časová řada\n\nČSÚ uvádí v přehledu „Kriminalita v Česku“ počet registrovaných skutků podle Police ČR: ([csu.gov.cz](https://csu.gov.cz/kriminalita?utm_source=openai))  \n\n| Rok | Celková kriminalita (evidované skutky) |\n|-----|----------------------------------------|\n| 2017 | 202 303 |\n| 2018 | 192 405 |\n| 2019 | 199 221 |\n| 2020 | 165 525 |\n| 2021 | 153 233 |\n| 2022 | 181 991 |\n| 2023 | 181 417 |\n| 2024 | 173 322 |\n\nČlánek ČTK shrnující policejní statistiku doplňuje širší řadu 2011–2023: ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n\n- 2011: 317 177  \n- 2012: 304 528  \n- 2013: 325 366  \n- 2014: 288 660  \n- 2015: 247 628  \n- 2016: 218 162  \n- (… dále shodně s tabulkou ČSÚ pro 2017–2023)  \n\n**Klíčové trendy:**\n\n- **Dlouhodobý pokles**: mezi roky 2013 (325 366 činů) a 2021 (153 233) se registrovaná kriminalita **snížila zhruba na polovinu**. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n- **Rok 2022 – skokový nárůst**: 181 991 činů, tj. meziroční +18,8 % oproti roku 2021. ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n- **2023 – stagnace na zvýšené úrovni**: 181 417 činů, prakticky stejná úroveň jako 2022. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n- **2024 – opět pokles**: 173 322 činů, meziročně –4,5 %. ([csu.gov.cz](https://csu.gov.cz/produkty/kriminalita-v-cesku-loni-mirne-klesla-pribylo-vyhruzek-nasilim?utm_source=openai))  \n\n### 3.2 Jak policie vysvětluje nárůst 2022\n\nPolicejní prezidium v tiskové zprávě „Vývoj registrované kriminality v roce 2022“ uvádí: ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n\n- v roce 2022 bylo registrováno 181 991 trestných činů, nárůst o 18,8 % oproti 2021,  \n- nárůst kriminality dává do souvislosti **„úplné rozvolnění protipandemických opatření“**,  \n- počty trestných činů se tak „přiblížily k úrovni z roku 2019“.\n\nStejnou interpretaci přebírá i analytický článek ČSÚ („Co odhalila policie“): zvýšení počtu činů v roce 2022 je spojeno se zrušením covidových omezení, která v letech 2020–2021 omezila pohyb lidí a tedy i příležitosti k trestné činnosti. ([statistikaamy.csu.gov.cz](https://statistikaamy.csu.gov.cz/co-odhalila-policie?utm_source=openai))  \n\n### 3.3 Shrnutí k dílčímu tvrzení „kriminalita roste“\n\n- **Dlouhý horizont (cca 2013–2024):** kriminalita **jednoznačně klesá** (325 tis. → 173 tis.). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n- **Krátké období 2021–2024:**\n  - 2021: 153 233 (historické minimum)  \n  - 2022: 181 991 (skokový nárůst po covidu)  \n  - 2023: 181 417 (prakticky beze změny)  \n  - 2024: 173 322 (**pokles**) ([csu.gov.cz](https://csu.gov.cz/kriminalita?utm_source=openai))  \n\n**Závěr k B:**  \n- V dlouhodobém měřítku nelze tvrdit, že **kriminalita roste** – trend je spíše **výrazně klesající**, s dočasným nárůstem v roce 2022 po covidových omezeních.  \n- V krátkém období 2021–2022 kriminalita **vzrostla**, ale v letech 2023–2024 **dál nerostla, nýbrž klesala**.\n\n---\n\n## 4. Podíl cizinců na kriminalitě\n\n### 4.1 Podíl cizinců mezi pachateli a na evidovaných skutcích\n\n**Institut pro kriminologii a sociální prevenci (IKSP)**  \nStudie IKSP „Trestná činnost cizích státních příslušníků na území ČR“ (2025) shrnuje vývoj roku 2023: ([iksp.gov.cz](https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky))  \n\n- cizinci s trvalým/dlouhodobým pobytem tvořili v roce 2023 **9,75 %** obyvatel ČR (v roce 2022 to bylo 10,2 %),  \n- **podíl cizinců na celkovém počtu evidovaných skutků vzrostl na 11,0 %** (meziroční nárůst o 0,7 p. b.),  \n- **podíl cizinců na stíhaných osobách dosáhl 11,8 %** (nárůst o 1,3 p. b.),  \n- autoři výslovně upozorňují, že tento podíl nelze přímo porovnávat s podílem cizinců v populaci, protože statistika pachatelů zachycuje i krátkodobé pobyty (turisty apod.).\n\n**Data MV/ČTK – rok 2023**  \nČlánek ČTK shrnující zprávu MV o migraci za rok 2023 uvádí, že:  \n\n- v roce 2023 bylo trestně stíháno **9 345 cizinců**,  \n- to představovalo „necelých 12 %“ z celkového počtu stíhaných osob v ČR. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n\n**Trendy 2024 – IKSP a média**  \n\n- IKSP v přehledu „Osoby stíhané Policií ČR“ uvádí, že v roce 2024 bylo stíháno 75 825 osob, z nichž **12 % byli cizinci**, podobně jako v roce 2023. ([iksp.gov.cz](https://iksp.gov.cz/en/osoby-stihane-policii-cr?utm_source=openai))  \n- Deník.cz v textu vyvracejícím dezinformaci o „polovině trestných činů páchaných cizinci“ uvádí, že podíl cizinců mezi stíhanými osobami v roce 2024 činil **12 %**; zároveň připomíná, že celkový počet trestných činů v roce 2024 byl 173 322. ([denik.cz](https://www.denik.cz/z_domova/denik-proti-fake-news-marketa-sichtarova-kandidatka-spd-letos-prijde-krize.html?utm_source=openai))  \n\n**Výklad policejního prezidia (TN.cz, 2025)**  \nReportáž TV Nova shrnující stanovisko Policie ČR a sociologa STEM uvádí: ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/625892-kriminalita-cizincu-v-cesku-neroste-shoduji-se-na-tom-policiste-i-sociolog?utm_source=openai))  \n\n- v roce 2021 tvořili cizinci cca **6 %** obyvatel ČR,  \n- v roce 2024 již **10 %** obyvatel,  \n- **trestná činnost cizinců** byla v roce 2021 na úrovni **9 %**, v roce 2024 na úrovni **12 %** z počtu stíhaných osob,  \n- mluvčí Policejního prezidia k tomu říká, že nárůst podílu cizinců mezi pachateli je nižší než nárůst jejich podílu v populaci a že „spíše lze konstatovat, že trestná činnost cizinců stagnuje“.\n\n### 4.2 Shrnutí k dílčímu tvrzení „cizinci zásadně zvyšují kriminalitu“\n\n- Cizinci se na kriminalitě **podílejí menšinově**: cca 11–12 % stíhaných osob, při podílu kolem 10 % na populaci. ([iksp.gov.cz](https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky))  \n- Jejich **podíl na kriminalitě mírně narostl**, ale zároveň **počet cizinců v zemi narostl ještě výrazněji**; podle policie proto nelze mluvit o dramatickém „přerůstání“ trestné činnosti cizinců. ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/625892-kriminalita-cizincu-v-cesku-neroste-shoduji-se-na-tom-policiste-i-sociolog?utm_source=openai))  \n\n---\n\n## 5. Společný vývoj počtu cizinců a kriminality\n\n### 5.1 Dlouhodobé srovnání (2013–2024)\n\nZ výše uvedených dat:\n\n- **Počet cizinců**  \n  - 2013: 441 536 cizinců, 2024: 1 094 089 cizinců (více než 2,4násobek). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n- **Registrovaná kriminalita**  \n  - 2013: 325 366 skutků, 2024: 173 322 skutků (pokles o cca 47 %). ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n\n**Pozorování:**  \nV období 2013–2024 **počty cizinců výrazně rostou, ale kriminalita celkově výrazně klesá**. To je přesný opak jednoduché teze „čím více cizinců, tím více kriminality“.\n\n### 5.2 Kratší období kolem „minulé vlády“ (cca 2021–2024)\n\nPokud se omezíme na období spojené s Fialovou vládou (zmíněnou v projevu jako „minulá vláda“):\n\n- **Počet cizinců** ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n  - 2021: 660 849  \n  - 2022: 1 116 154 (prudký skok, hlavně uprchlíci z Ukrajiny)  \n  - 2023: 1 065 740 (mírný pokles)  \n  - 2024: 1 094 089 (opět nárůst, cca 10 % populace)  \n\n- **Registrovaná kriminalita** ([csu.gov.cz](https://csu.gov.cz/kriminalita?utm_source=openai))  \n  - 2021: 153 233 (minimum)  \n  - 2022: 181 991 (**nárůst** o 18,8 % – spojován s rozvolněním covidových opatření)  \n  - 2023: 181 417 (prakticky beze změny)  \n  - 2024: 173 322 (**pokles** o 4,5 % oproti 2023)  \n\n**Pozorování:**\n\n- Mezi lety 2021 a 2022 **současně** vzrostly jak počty cizinců, tak kriminalita.  \n- V letech 2023–2024 ale situace není „čím více cizinců, tím více kriminality“:\n  - 2023 → 2024: **počet cizinců stoupl**, ale **celková kriminalita klesla**. ([csu.gov.cz](https://csu.gov.cz/produkty/jeden-z-deseti-obyvatel-ceska-je-cizinec?utm_source=openai))  \n\nPolicie navíc nárůst kriminality v roce 2022 vysvětluje především **ukončením pandemických omezení a přesunem kriminality do kyberprostoru a majetkové sféry**, nikoli přílivem cizinců. ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n\n---\n\n## 6. Hodnocení jednotlivých dílčích tvrzení\n\n### 6.1 „Počty cizinců rostou“\n\n- **Důkaz:** Jednoznačný nárůst cizinců od cca 440 tis. (2013) ke zhruba 1,09 mil. (2024), podíl na populaci kolem 10 %. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n- **Hodnocení:** Toto dílčí tvrzení je v dlouhodobém pohledu **pravdivé** (s drobným poklesem mezi 2022 a 2023).\n\n### 6.2 „Kriminalita roste“\n\n- **Dlouhodobě (2013–2024):** kriminalita klesla z cca 325 tis. skutků na 173 tis. – **dlouhodobý pokles**. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n- **Krátkodobě (2021–2024):**  \n  - mezi 2021 a 2022 **vzrostla**,  \n  - 2022–2023 stagnace,  \n  - mezi 2023 a 2024 **klesla**. ([csu.gov.cz](https://csu.gov.cz/kriminalita?utm_source=openai))  \n\n- **Hodnocení:**  \n  - V dlouhém horizontu je tvrzení „kriminalita roste“ **nepravdivé**.  \n  - I v posledních letech nejde o soustavný růst; po jednorázovém nárůstu po covidu kriminalita opět klesá.\n\n### 6.3 „Současně nám s počty cizinců roste kriminalita“ (souvislost / korelace)\n\n- **Dlouhodobě (2013–2024):**  \n  - cizinců výrazně přibylo,  \n  - kriminalita výrazně klesla.  \n  → **Neexistuje dlouhodobá pozitivní souvislost** „více cizinců = více kriminality“; spíše naopak – při růstu počtu cizinců kriminalita klesala. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n\n- **V krátkém období 2021–2022:**  \n  - prudký nárůst jak cizinců, tak kriminality; to by mohlo opticky podporovat tvrzení.  \n  - Policie však nárůst kriminality výslovně spojuje s **rozvolněním pandemických opatření a strukturou kriminality (majetková, kyberkriminalita)**, nikoli s cizinci. ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n\n- **2023–2024:**  \n  - počet cizinců opět vzrostl,  \n  - kriminalita naopak poklesla.  \n  → přímý vztah „více cizinců = více kriminality“ se **nepotvrzuje ani v krátkém období**. ([csu.gov.cz](https://csu.gov.cz/produkty/cizinecka-populace-ceska-v-roce-2023-mirne-oslabila))  \n\n- **Podíl cizinců na kriminalitě:**  \n  - cizinci se významně podílejí na kriminalitě (cca 11–12 % pachatelů při podílu ≈10 % na populaci),  \n  - jejich podíl na pachatelích mírně roste, nicméně podle policejního prezidia tento růst **odpovídá či zaostává za růstem jejich počtu**; mluvčí policie hovoří o tom, že trestná činnost cizinců spíše „stagnuje“. ([iksp.gov.cz](https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky))  \n\n**Hodnocení k C (souvislost):**\n\n- Data **nepodporují jednoduchou tezi**, že s rostoucím počtem cizinců roste i celková kriminalita.  \n- Existuje jedno období (2021–2022), kdy oba ukazatele vzrostly, ale:\n  - jde o návrat kriminality po mimořádném covidovém propadu,  \n  - oficiální analýzy příčiny nárůstu nespojují primárně s cizinci. ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n\n---\n\n## 7. Celkové zhodnocení výroku\n\nNa základě oficiálních statistik (ČSÚ, Ministerstvo vnitra, Policie ČR, IKSP) lze shrnout:\n\n1. **Počet cizinců v ČR dlouhodobě roste** a v posledních letech se pohybuje kolem 10 % populace. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2542772))  \n2. **Celková kriminalita však v dlouhodobém horizontu klesá**; mezi 2013 a 2024 poklesla zhruba na polovinu. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2464688))  \n3. **Krátkodobý nárůst kriminality v roce 2022** je policií vysvětlován zejména rozvolněním covidových opatření a strukturálními změnami kriminality, nikoli růstem počtu cizinců. ([policie.gov.cz](https://policie.gov.cz/clanek/vyvoj-registrovane-kriminality-v-roce-2022.aspx?utm_source=openai))  \n4. **Podíl cizinců mezi pachateli** je kolem 11–12 %, což zhruba odpovídá jejich podílu na populaci; podle policie se trestná činnost cizinců spíše stabilizuje než dramaticky roste. ([iksp.gov.cz](https://iksp.gov.cz/trestna-cinnost-cizich-statnich-prislusniku-na-uzemi-ceske-republiky))  \n\nPro lidského fact-checkera z toho plyne:\n\n- Dílčí tvrzení o růstu počtu cizinců je podloženo.  \n- Dílčí tvrzení, že **celková kriminalita roste**, je v dlouhodobém horizontu nepravdivé a i v posledních letech pouze částečně a dočasně platí.  \n- Silnější teze, že „s počty cizinců roste kriminalita“ (tj. že růst počtu cizinců vysvětluje růst kriminality), **nemá v dostupných datech a oficiálních analýzách oporu** a přehlíží, že při rostoucím počtu cizinců kriminalita jako celek spíše klesá.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 66442,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 19847,
+      "output_tokens_details": {
+        "reasoning_tokens": 13960
+      },
+      "total_tokens": 86289
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1767801928,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

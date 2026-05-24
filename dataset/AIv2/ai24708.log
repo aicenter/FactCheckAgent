@@ -1,0 +1,420 @@
+{
+  "claim_id": "24708",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260421_113102",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/reports/report24708.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 76.9,
+        "prompt_length": 3752,
+        "input_tokens": 114903,
+        "cached_input_tokens": 78208,
+        "output_tokens": 3556,
+        "web_searches": 3,
+        "final_response": "Soubor s interpretací jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/claim_interpretation.md).\n\nZvolil jsem nejcharitativnější interpretaci výroku: ověřovat se má především to, zda základní zákony o ČT a ČRo skutečně pocházejí z raných 90. let, ne přesný okamžik sepsání paragrafů. Datum výroku je v souboru uvedeno jako 17. dubna 2026 a začátek vyhledávacího okna jako 1. ledna 1990.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Prověřím kontext výroku a připravím interpretační soubor pro další krok. Nejdřív si zkontroluji strukturu pracovního adresáře a pak jen omezeně dohledám, k jakým zákonům se výrok nejspíš vztahuje."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc pwd",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'rg --files'",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz zákon o České televizi 483/1991 zákon o Českém rozhlasu 484/1991"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://plus.rozhlas.cz/koncesionarske-poplatky-jsou-zastarale-plati-je-hlavne-seniori-zni-z-spd-opozice-9610185"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'ty zákony byly napsány' in https://plus.rozhlas.cz/koncesionarske-poplatky-jsou-zastarale-plati-je-hlavne-seniori-zni-z-spd-opozice-9610185"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám potvrzený zdroj výroku i to, že rozhovor vyšel 17. dubna 2026. Teď doplním interpretaci: výrok zjevně míří na základní zákony o ČT a ČRo, takže v souboru rozliším samotné stáří těchto zákonů od hodnotící části o jejich pozdějším „flikování“."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'mkdir -p work output && ls -la work'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zapisuji interpretační soubor. Zaměřím ho na nejcharitativnější čtení výroku: nejde o přesné datum sepsání paragrafového znění, ale o to, zda základní zákony upravující ČT a ČRo pocházejí z raných 90. let."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Soubor s interpretací jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/claim_interpretation.md).\n\nZvolil jsem nejcharitativnější interpretaci výroku: ověřovat se má především to, zda základní zákony o ČT a ČRo skutečně pocházejí z raných 90. let, ne přesný okamžik sepsání paragrafů. Datum výroku je v souboru uvedeno jako 17. dubna 2026 a začátek vyhledávacího okna jako 1. ledna 1990."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 181.5,
+        "prompt_length": 1771,
+        "input_tokens": 403183,
+        "cached_input_tokens": 156544,
+        "output_tokens": 11038,
+        "web_searches": 14,
+        "final_response": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/raw_sources.md).\n\nSoubor obsahuje hlavně primární právní zdroje k zákonům č. `483/1991 Sb.` a `484/1991 Sb.`, oficiální legislativní materiály k jejich pozdějším novelám a aktuální kontext k návrhu nového zákona z dubna 2026. Pro charitativní interpretaci výroku jsem nenašel silný přímý protidůkaz; jako „contradicts“ jsem proto zařadil zdroje, které zpochybňují jen užší, doslovné čtení, že dnešní podoba těchto zákonů byla sepsána už na počátku 90. let.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Navazuji vyhledáním zdrojů k jednotlivým dílčím tvrzením. Nejprve si znovu načtu interpretaci a pak posbírám hlavně primární právní zdroje a legislativní kontext, teprve potom doplním sekundární materiály a zkusím dohledat i případný protiargument."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz zákon o České televizi 483/1991"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz 484/1991 Sb. o Českém rozhlasu"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz \"zákon o médiích veřejné služby\" Česká televize Český rozhlas"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"nový zákon o médiích veřejné služby\" Česká televize Český rozhlas duben 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:odok.cz 8242021 média veřejné služby"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/1991-483"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/1991-483"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz \"ze dne 7. listopadu 1991\" \"o České televizi\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz 119/2025 Sb. média veřejné služby"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz/cs/2025-119 Česká televize Český rozhlas"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.psp.cz/eknih/2021ps/tesnopis/tz043.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2025-119"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2025-119"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám už pohromadě jádro důkazů: oba základní zákony z roku 1991, pozdější oficiální novelizační materiály a aktuální kontext k návrhu jednoho nového zákona. Doplním to do `raw_sources.md` tak, aby bylo zřejmé, co podporuje hlavní charitativní čtení výroku a co naopak zpochybňuje jeho užší, doslovnější interpretaci."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/raw_sources.md).\n\nSoubor obsahuje hlavně primární právní zdroje k zákonům č. `483/1991 Sb.` a `484/1991 Sb.`, oficiální legislativní materiály k jejich pozdějším novelám a aktuální kontext k návrhu nového zákona z dubna 2026. Pro charitativní interpretaci výroku jsem nenašel silný přímý protidůkaz; jako „contradicts“ jsem proto zařadil zdroje, které zpochybňují jen užší, doslovné čtení, že dnešní podoba těchto zákonů byla sepsána už na počátku 90. let."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 76.7,
+        "prompt_length": 2274,
+        "input_tokens": 556706,
+        "cached_input_tokens": 292352,
+        "output_tokens": 15637,
+        "web_searches": 0,
+        "final_response": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/refined_sources.md).\n\nVyřadil jsem dvě sekundární média jako nadbytečná, protože stejnou informaci už pokrývají silnější primární zdroje. Pro hlavní jádro výroku teď zůstávají hlavně tier-1 právní a sněmovní materiály; všechna netriviální tvrzení mají pokrytí a žádný ponechaný zdroj není po datu výroku.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď zdroje pročistím proti žebříčku domén a nahradím sekundární články tam, kde už mám stejnou informaci z primárního zdroje. Současně zkontroluji pokrytí všech tří netriviálních tvrzení a u spornějších položek doplním poznámku, proč je ponechávám nebo vyřazuji."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zapisuji už jen redukovaný seznam s hodnocením kvality a náhradami. Sekundární články vyřadím tam, kde stejnou informaci už pokrývá zákon, sněmovní materiál nebo legislativní databáze."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,320p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/refined_sources.md).\n\nVyřadil jsem dvě sekundární média jako nadbytečná, protože stejnou informaci už pokrývají silnější primární zdroje. Pro hlavní jádro výroku teď zůstávají hlavně tier-1 právní a sněmovní materiály; všechna netriviální tvrzení mají pokrytí a žádný ponechaný zdroj není po datu výroku."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 54.9,
+        "prompt_length": 2388,
+        "input_tokens": 789463,
+        "cached_input_tokens": 495488,
+        "output_tokens": 18618,
+        "web_searches": 0,
+        "final_response": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/draft.md).\n\nVerdikt v návrhu je `pravda`. Text stojí na tom, že oba relevantní zákony, `483/1991 Sb.` a `484/1991 Sb.`, byly přijaty 7. listopadu 1991, zatímco pozdější novely jen měnily jejich obsah.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Před psaním návrhu si načtu stylová pravidla a pár hotových textů, ať sedí struktura i tón. Pak sepíšu krátký draft s jediným jasným verdiktem a jen inline odkazy na klíčová slova."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/examples.txt\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Sepisuji finální draft v demagogovském formátu HTML. Držím se nejcharitativnější interpretace výroku, takže závěr stojí hlavně na tom, že oba základní zákony opravdu vznikly v roce 1991."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/draft.md).\n\nVerdikt v návrhu je `pravda`. Text stojí na tom, že oba relevantní zákony, `483/1991 Sb.` a `484/1991 Sb.`, byly přijaty 7. listopadu 1991, zatímco pozdější novely jen měnily jejich obsah."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 124.3,
+        "prompt_length": 1226,
+        "input_tokens": 1251358,
+        "cached_input_tokens": 933504,
+        "output_tokens": 24983,
+        "web_searches": 2,
+        "final_response": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/verification.md) a výsledek je `PASS`.\n\nPři kontrole jsem upravil [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/draft.md): doplnil jsem zdroj do kontextového odstavce a odstranil citaci na PDF bez upřesnění stránky. Potom už checklist vyšel bez dalších výhrad.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ověřím draft proti checklistu a zároveň si namátkově znovu otevřu několik použitých odkazů. Pokud něco nesedí, opravím jen dotčená místa v draftu a pak znovu zkontroluji už jen problematické body."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/verification_checklist.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/1991-483"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/monitor/8242021.htm"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Našel jsem dvě slabší místa: jeden necitovaný kontextový údaj a jednu citaci na PDF bez upřesnění stránky. Opravím jen tyto body a pak checklist znovu projdu už jen na nich."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ještě zmenším jedno zbytečné opakování v těle textu. Samotný závěr se tím nemění, jen bude čistší a lépe projde checklistem na strukturu."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zapisuji kontrolní protokol. U link spot-checku uvedu i to, které tři odkazy jsem znovu otevřel a jakou informaci na nich bylo možné ověřit."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/verification.md) a výsledek je `PASS`.\n\nPři kontrole jsem upravil [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24708/work/draft.md): doplnil jsem zdroj do kontextového odstavce a odstranil citaci na PDF bez upřesnění stránky. Potom už checklist vyšel bez dalších výhrad."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 18.2,
+        "prompt_length": 313,
+        "input_tokens": 1478418,
+        "cached_input_tokens": 1152768,
+        "output_tokens": 25979,
+        "web_searches": 0,
+        "final_response": "Hotovo.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zkontroluji stav ověření a potom přenesu hotový text do finálního výstupu v `output/report.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 5 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ověření končí `## Result: PASS`. Zapisuji finální report do výstupního souboru."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Hotovo."
+          }
+        ]
+      }
+    }
+  ]
+}

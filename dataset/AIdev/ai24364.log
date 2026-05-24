@@ -1,0 +1,430 @@
+{
+  "claim_id": "24364",
+  "split": "old",
+  "source_experiment": "gpt-5-m_20251027_161428",
+  "source_md": "experiments/gpt-5-m_20251027_161428/brief_fact_check_id24364.md",
+  "fact_check": "# Fact Check for Statement ID 24364\n\n## Statement\nOtázka vystupování nebo existence referenda o členství v NATO je něco, co ani nebylo v našem volebním programu, to bylo něco, co se opakovaně probíralo v médiích.\n\n---\n## OpenAI Deep Research Fact Check\nZadání: Ověřit tvrzení Libora Vondráčka (poslanec, předseda Svobodných) z rozhovoru pro Radiožurnál (22. 10. 2025):  \n„Otázka vystupování nebo existence referenda o členství v NATO je něco, co ani nebylo v našem volebním programu, to bylo něco, co se opakovaně probíralo v médiích.“\n\nShrnutí závěru (stručně)\n- První část („ani nebylo v našem volebním programu“): podstata tvrzení je pravdivá, pokud „naším“ rozumíme program strany Svobodní (tj. individuální program Svobodných). Oficiální materiály Svobodných deklarují zakotvení obrany v NATO a zdůrazňují spíše právo na obecné referendum (zejména o EU), nikoli konkrétní výzvu k referendu o vystoupení z NATO. (viz níže citace z volebního programu / webu Svobodných). ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n- Druhá část („to bylo něco, co se opakovaně probíralo v médiích“): podpora — téma „referendum o NATO / referenda o EU a NATO“ bylo v předvolební kampani a v médiích v roce 2025 opakovaně zmiňováno (diskuse o programech SPD, Stačilo!, debaty v ČT/CNN Prima, články v Novinky, Seznam a dalších). Existuje rozsáhlá mediální dokumentace. ([idnes.cz](https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai))\n\nDetailní rozbor (rozdělený na atomické sub-claimy)\n\n1) Sub-claim A — „V našem (Svobodných) volebním programu nebyla otázka referenda o členství v NATO“\n- Co jsme ověřili:\n  - Oficiální prezentace volebního programu Svobodných (před volbami 2025) jasně uvádí, že strana v otázce obrany počítá s „zakotvením v NATO“ a že obranu chce postavit v rámci transatlantického spojenectví (tzn. podpora členství). Text programu mluví o „zakotvení v NATO“, nikoli o výzvě k referendu o vystoupení z NATO. (Svobodní — představení volebního programu). ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n    - Příklad (záznam z tiskového sdělení Svobodných): „…v obraně se chceme opírat o naše zakotvení v NATO a o transatlantické spojenectví.“ ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n  - Na webu Svobodných se opakovaně zmiňuje podpora možnosti referend (zejména návrat možnosti referenda o EU), nicméně dostupné veřejné materiály strany z roku 2025 ukazují, že jejich veřejné aktivity a texty zdůrazňují referendum o EU; nenalezl jsem v oficiálních programových textech Svobodných (veřejně dostupných) přímý bod „referendum o vystoupení z NATO“. (články Svobodných o referendu o EU). ([svobodni.cz](https://svobodni.cz/nezarazene/referendum-o-evropske-unii/?utm_source=openai))\n- Zdrojové doklady (ukázky, odkazy):\n  - „Svobodní představili volební program… ‚v obraně se chceme opírat o naše zakotvení v NATO a o transatlantické spojenectví.‘“ — oficiální stránka Svobodných (představení programu). ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n  - „Svobodní už 16 let navrhují referendum o Evropské unii“ — strana zdůrazňuje iniciativy ohledně referenda o EU, nikoliv explicitně o referendu o NATO v programové části. ([svobodni.cz](https://svobodni.cz/nezarazene/referendum-o-evropske-unii/?utm_source=openai))\n- Poznámka k možné interpretaci „náš volební program“:\n  - Vondráček je poslanec Svobodných, ale kandidoval na kandidátce hnutí SPD ve společné kandidatuře (SPD + Svobodní + Trikolora + PRO). Pokud by „náš“ mluvil o společné kandidatuře/volebním uskupení, je třeba rozlišit: SPD do své platformy explicitně zahrnula bod o referendu o členství (viz níže), zatímco samostatný program Svobodných takový bod veřejně neprezentoval. Radiožurnál v článku přímo odkazuje na to, že v koaličních jednáních se dělaly ústupky ohledně referenda o EU a NATO. ([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024))\n\n2) Sub-claim B — „Téma (referendum o NATO) se opakovaně probíralo v médiích“\n- Co jsme ověřili:\n  - Veřejná debata v létě a na podzim 2025 (před volbami 3.–4. 10. 2025 a v povolebním vyjednávání) aktivně řešila návrhy některých stran (zejména SPD a hnutí Stačilo!) vypisovat referenda o členství v EU a NATO. Téma se objevovalo v hlavních českých médiích, v televizních debatách (CNN Prima, ČT), v textových zpravodajských médiích i v agenturních zprávách (ČTK, Novinky, Echo24, Seznam, iDnes apod.). Přehled několika konkrétních zdrojů:\n    - SPD má v předvolebním programu zmínku o referendu o členství (mediální zpracování programu SPD a komentáře). ([idnes.cz](https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai))\n    - Zprávy a rozhovory, např. poslankyně SPD Lucie Šafránková hovořila v ČT o tom, že „referendum o NATO by se mohlo odehrát nejdřív za pět let“ — to je přímá mediální diskuze o tématu. ([novinky.cz](https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai))\n    - Debaty v médiích (CNN Prima, ČT) a články: např. „Hádka o NATO a referendum…“ (CNN Prima News), množství článků na Novinky, Echo24, Seznam a dalších rozebíralo téma. ([cnn.iprima.cz](https://cnn.iprima.cz/hadka-o-nato-a-referendum-komuniste-nas-skoli-z-demokracie-vpalil-krutilek-konecne-463849?utm_source=openai))\n    - Shrnutí/analýzy konfliktů mezi stranami ohledně referend (iRozhlas a další články) — téma bylo součástí předvolební agendy a zmiňováno v kontextu povolebních vyjednávání. ([irozhlas.cz](https://www.irozhlas.cz/volby/prehled-koalicnich-vazeb-spd-chce-k-moci-jenze-ano-rado-jednobarevnou-vladu-a_2510021650_jgr?utm_source=openai))\n- Konkrétní příklady (s přímými odkazy):\n  - Novinky: „Referendum o NATO? Nejdřív za pět let, řekla poslankyně SPD“ (21. 9. 2025). ([novinky.cz](https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai))\n  - ČT / Českenoviny: „Šafránková: Referendum o NATO by se mohlo odehrát nejdřív za pět let.“ ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2723732?utm_source=openai))\n  - CNN Prima: debata/diskuse o referendu a NATO (reportáž „Hádka o NATO a referendum...“). ([cnn.iprima.cz](https://cnn.iprima.cz/hadka-o-nato-a-referendum-komuniste-nas-skoli-z-demokracie-vpalil-krutilek-konecne-463849?utm_source=openai))\n  - iDnes / přehledy programů: upozornění, že SPD v programu prosazuje referendum o členství v EU (a obdobné body se objevovaly i u některých jiných uskupení). ([idnes.cz](https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai))\n  - Radiožurnál (rozhovor s Vondráčkem) s připomínkou, že v koaličních rozhovorech se musely dělat ústupky ohledně referenda o EU a NATO — tedy i v odborných rozhovorech v médiích se téma objevovalo a řešilo se. ([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024))\n\nZávěrečné zhodnocení tvrzení\n- Pokud „náš volební program“ Vondráček myslel program své strany Svobodní (které je předsedou), pak je tvrzení přesné: ve veřejně dostupných materiálech Svobodných z roku 2025 je zdůrazněno zakotvení obrany v NATO (podpora členství) a strana ve svých textech otevřeně prosazovala referenda zejména o EU; přímý bod „referendum o vystoupení z NATO“ v jejich oficiálním programovém textu nebyl nalezen. Proto lze část tvrzení „ani nebylo v našem volebním programu“ podpořit dostupnými materiály. ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n- Druhá část tvrzení („to bylo něco, co se opakovaně probíralo v médiích“) je dobře podložená: téma referenda o NATO a referenda o EU bylo v předvolebním i povolebním období v roce 2025 opakovaně a široce medializováno (SDP, Stačilo!, diskuse v ČT a v internetových/tištěných médiích). Tudíž i tuto část tvrzení lze považovat za pravdivou. ([novinky.cz](https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai))\n\nSeznam relevantních zdrojů (včetně přímých pasáží, které jsem použil)\n- Radiožurnál: rozhovor s Liborem Vondráčkem (22. 10. 2025) — kontext o ústupcích v otázce referenda o EU a NATO. (viz pasáž o „Ústupek od referenda o EU a NATO jsme udělat museli…“). ([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024))\n  - URL: https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets2-odmitneme-unie-bude-postupovat-jako-u-9571024\n- Svobodní — představení volebního programu (oficiální web): „v obraně se chceme opírat o naše zakotvení v NATO a o transatlantické spojenectví.“ — žádná explicitní výzva k referendu o vystoupení z NATO v představené programové pasáži. ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n  - URL: https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezecnost-i-svobodejsi-zivot-a-podnikani/ (stránka s představením programu)\n- Svobodní — články o referendu o EU (ukázka, že strana dlouhodobě tlačí referendum o EU, nikoli nutně o NATO). ([svobodni.cz](https://svobodni.cz/nezarazene/referendum-o-evropske-unii/?utm_source=openai))\n  - URL: https://svobodni.cz/nezarazene/referendum-o-evropske-unii/ (příklad)\n- iDNES / přehled programů: zmínka, že SPD do své kampaně zahrnula referendum o členství v EU (a podobné body byly součástí debat i o NATO). ([idnes.cz](https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai))\n  - URL: https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall\n- Novinky / Články o tom, že poslankyně SPD hovoří o referendu o NATO („nejdřív za pět let“). ([novinky.cz](https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai))\n  - URL: https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883\n- ČTK / Echo24 (agenturní zpracování) — stejné sdělení Šafránkové o referendu o NATO. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2723732?utm_source=openai))\n- CNN Prima News — debata/diskuse o referendu o NATO (mediální pokrytí a spory). ([cnn.iprima.cz](https://cnn.iprima.cz/hadka-o-nato-a-referendum-komuniste-nas-skoli-z-demokracie-vpalil-krutilek-konecne-463849?utm_source=openai))\n- Seznam Zprávy — komentáře a rozhovory, kde se téma NATO/EU a referenda objevuje v předvolební debatě. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-sef-svobodnych-po-spojeni-s-spd-at-ukrajine-pomaha-kdo-chce-ne-cesky-stat-272343?utm_source=openai))\n\nKrátké doporučení pro posouzení (pro fact-checkera)\n- Pokud potřebujete rozhodnout „pravda / nepravda / zavádějící“, doporučuji uvážit kontext slova „náš“ (Svobodní jako samostatná strana vs. „naše“ jako společná kandidátka se SPD). Vondráček mluvil jako předseda Svobodných — v tomto smyslu je přesné říct, že v oficiálních programových textech Svobodných nebyl bod „referendum o vystoupení z NATO“. Pokud by ale „náš“ měl znamenat společnou platformu aliance (SPD+Svobodní+Trikolora+PRO), pak by tvrzení bylo nepřesné, protože SPD (jako hlavní složka té kandidátky) do své předvolební komunikace zařazovala návrhy na referendum o členství (EU/NATO). Relevantní důkaz o tom, že se téma „referendum o NATO“ objevovalo intenzivně v médiích, je silný (viz výše).\n\nPozn.: Vybral jsem a citoval primární zdroje — oficiální party web Svobodných a řadu článků z českých médií — aby byl důkaz ověřitelný a srozumitelný.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in 20 minut Radiožurnálu released on 2025-10-22 available from https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024.\\n\\n\\nThe claim was made by: Libor Vondráček, Poslanec\\n\\n\\nProvide a structured, citation-backed verification of the claim: 'Otázka vystupování nebo existence referenda o členství v NATO je něco, co ani nebylo v našem volebním programu, to bylo něco, co se opakovaně probíralo v médiích.'\"\n  }\n]\n\nModel: gpt-5-mini-2025-08-07\nWall time: 206.93 seconds\n## Agent work log\n```\nREASONING: \nWEB SEARCH: Libor Vondráček poslanec která strana\nREASONING: **Searching for NATO references**\n\nI'm looking to find references to the NATO referendum in Svobodní or any coalition programs. It seems like this could involve dissecting their manifestos or speeches for mentions of NATO. I’ll make sure to look for any specific discussions or commitments that they have made regarding this topic. This could help understand their stance on NATO and how it fits into their political agenda.\nWEB SEARCH: Svobodní volební program NATO referendum \"referendum o členství v NATO\"\nREASONING: \nWEB SEARCH: site:svobodni.cz NATO referendum \"referendum\"\nREASONING: **Exploring political proposals**\n\nI'm curious about the Svobodní group's historical stance on referenda related to the EU. But what about NATO? Their site search didn’t yield any results for NATO referendums, even though they seem to advocate for referenda generally. I think it's important to look into their specific program for 2025. I’ll search for “volební program Svobodní 2025 NATO” to find more details on their position regarding NATO and potential referendums.\nWEB SEARCH: \"volební program Svobodní\" 2025 NATO\nREASONING: \nWEB SEARCH: \"referendum o členství v NATO\" 2025 ČR 'referendum o NATO' 2025 'referendum o členství'\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: \"Volební program\" \"Svobodní\" 2025 pdf \"referendum\" \"NATO\"\nREASONING: \nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p><strong>Stručně:</strong> Ve smyslu programu strany Svobodní je tvrzení, že v jejich volebním programu nebylo volání po referendu o vystoupení z NATO, podložené; zároveň bylo téma referenda o NATO v létě a na podzim 2025 opakovaně probíráno v českých médiích. (Radiožurnál, oficiální web Svobodných, Novinky aj.)</p>\n\n<p>Kontext: Výrok pronesl Libor Vondráček (předseda Svobodných) v rozhovoru pro <a href=\"https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024\">Radiožurnál</a> (22. 10. 2025). V rozhovoru komentoval obsah volebních programů a medializaci otázek referend o členství v mezinárodních organizacích během předvolebního období.</p>\n\n<p>Sub-claim A — „V našem volebním programu nebyla otázka referenda o členství v NATO“: Podle naší analýzy oficiální prezentace volebního programu strany Svobodní explicitně zmiňuje podporu zakotvení obrany v rámci NATO a transatlantického spojenectví; text programu proto neobsahuje výzvu k referendu o vystoupení z NATO. Konkrétně program obsahuje formulaci <em>„v obraně se chceme opírat o naše zakotvení v NATO a o transatlantické spojenectví.“</em> (viz <a href=\"https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai\">Svobodní — představení volebního programu</a>). Strana zároveň dlouhodobě prosazuje možnost referend, zejména v souvislosti s Evropskou unií (viz článek o <a href=\"https://svobodni.cz/nezarazene/referendum-o-evropske-unii/?utm_source=openai\">referendu o Evropské unii</a>), avšak v dostupných programových textech z roku 2025 jsme nenašli bod, který by výslovně požadoval referendum o vystoupení z NATO. Dále je třeba upozornit na jazykovou nejednoznačnost: Vondráček kandidoval na společné kandidátce (SPD + Svobodní + Trikolora + PRO) a pokud „náš“ mínil společný volební program této koalice, pak by tvrzení bylo nepřesné — hnutí SPD totiž ve své komunikaci před volbami zmiňovalo návrhy na referenda o členství (EU i NATO) (viz přehled programu SPD na <a href=\"https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai\">iDNES</a>). Na základě těchto zjištění hodnotíme sub-claim A takto: ve smyslu samostatného programu Svobodných je tvrzení pravdivé; pokud by však „náš“ znamenalo společnou koaliční platformu včetně SPD, pak je tvrzení nepřesné.</p>\n\n<p>Sub-claim B — „To bylo něco, co se opakovaně probíralo v médiích“: Toto tvrzení podporují četné veřejné zdroje z předvolebního a povolebního období 2025. Téma referenda o NATO a o EU se objevovalo v televizních debatách, tiskových článcích a agenturních zprávách; příklady: zpráva „Referendum o NATO? Nejdřív za pět let, řekla poslankyně SPD“ na <a href=\"https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai\">Novinky</a>, televizní a textové debaty včetně zpravodajství na <a href=\"https://cnn.iprima.cz/hadka-o-nato-a-referendum-komuniste-nas-skoli-z-demokracie-vpalil-krutilek-konecne-463849?utm_source=openai\">CNN Prima</a> a řada přehledů a analýz o programech stran na stránkách jako <a href=\"https://www.irozhlas.cz/volby/prehled-koalicnich-vazeb-spd-chce-k-moci-jenze-ano-rado-jednobarevnou-vladu-a_2510021650_jgr?utm_source=openai\">iRozhlas</a> či <a href=\"https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai\">iDNES</a>. Z našeho přehledu médií vyplývá, že diskuse o referendu o NATO byla v roce 2025 opakovaně a veřejně probírána.</p>\n\n<p>Souhrn a závěr: Z hlediska dostupných oficiálních materiálů strany Svobodní je tvrzení Libora Vondráčka, že ve vlastním (tj. stranickém) volebním programu nebyla výzva k referendu o vystoupení z NATO, podložené. Současně platí, že téma referend (vč. návrhů některých stran na referendum o členství v EU/NATO) bylo v předvolebním i povolebním období 2025 široce medializováno. Vzhledem k možné nejednoznačnosti slova „náš“ (Svobodní vs. společná kandidátka SPD+Svobodní+…) hodnotíme celý složený výrok jako pravdivý, s tím že je nutné rozlišit, zda mluvčí myslel samostatný program Svobodných, nebo koaliční platformu. Výsledek verifikace: pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0991eed5f399d9b90068ff90cc15e08194b30628040ac52815",
+    "created_at": 1761579212.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5-mini-2025-08-07",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0991eed5f399d9b90068ff90d43e588194a9e122f88a7644cc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0991eed5f399d9b90068ff90d7b7688194ba32fb49458d804d",
+        "action": {
+          "query": "Libor Vondráček poslanec která strana",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0991eed5f399d9b90068ff90e170f48194821c49ac47fd2600",
+        "summary": [
+          {
+            "text": "**Searching for NATO references**\n\nI'm looking to find references to the NATO referendum in Svobodní or any coalition programs. It seems like this could involve dissecting their manifestos or speeches for mentions of NATO. I’ll make sure to look for any specific discussions or commitments that they have made regarding this topic. This could help understand their stance on NATO and how it fits into their political agenda.",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0991eed5f399d9b90068ff90e7c2e88194b614dea73fcec76f",
+        "action": {
+          "query": "Svobodní volební program NATO referendum \"referendum o členství v NATO\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0991eed5f399d9b90068ff90f39f18819494da6092209e4a7d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0991eed5f399d9b90068ff90f47e5c81949d046051bee8637b",
+        "action": {
+          "query": "site:svobodni.cz NATO referendum \"referendum\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0991eed5f399d9b90068ff90ff26948194ba6da3e009033d9b",
+        "summary": [
+          {
+            "text": "**Exploring political proposals**\n\nI'm curious about the Svobodní group's historical stance on referenda related to the EU. But what about NATO? Their site search didn’t yield any results for NATO referendums, even though they seem to advocate for referenda generally. I think it's important to look into their specific program for 2025. I’ll search for “volební program Svobodní 2025 NATO” to find more details on their position regarding NATO and potential referendums.",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0991eed5f399d9b90068ff9103ca608194ac31c0687b6d1bf4",
+        "action": {
+          "query": "\"volební program Svobodní\" 2025 NATO",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0991eed5f399d9b90068ff910d3d808194b9124902b417d2b4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0991eed5f399d9b90068ff910e44d88194834061c804ab9d89",
+        "action": {
+          "query": "\"referendum o členství v NATO\" 2025 ČR 'referendum o NATO' 2025 'referendum o členství'",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0991eed5f399d9b90068ff9121768c8194bc5f1825556a385c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0991eed5f399d9b90068ff912349448194ab6e9801b031090a",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0991eed5f399d9b90068ff9129e624819480a93804cd26a7e0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0991eed5f399d9b90068ff912ccef88194a234345610a50f87",
+        "action": {
+          "query": "\"Volební program\" \"Svobodní\" 2025 pdf \"referendum\" \"NATO\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0991eed5f399d9b90068ff913c03e48194a12b0763c27d9c9e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0991eed5f399d9b90068ff9142d1348194a97854411cb6dec4",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 874,
+                "start_index": 721,
+                "title": "Svobodní představili volební program - nízké daně, bezpečnost i svobodnější život a podnikání - Svobodní",
+                "type": "url_citation",
+                "url": "https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai"
+              },
+              {
+                "end_index": 1363,
+                "start_index": 1210,
+                "title": "Hnutí SPD ve volbách 2025: volební program, kandidáti - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai"
+              },
+              {
+                "end_index": 2056,
+                "start_index": 1903,
+                "title": "Svobodní představili volební program - nízké daně, bezpečnost i svobodnější život a podnikání - Svobodní",
+                "type": "url_citation",
+                "url": "https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai"
+              },
+              {
+                "end_index": 2351,
+                "start_index": 2198,
+                "title": "Svobodní představili volební program - nízké daně, bezpečnost i svobodnější život a podnikání - Svobodní",
+                "type": "url_citation",
+                "url": "https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai"
+              },
+              {
+                "end_index": 2846,
+                "start_index": 2753,
+                "title": "Svobodní už 16 let navrhují referendum o Evropské unii - Svobodní",
+                "type": "url_citation",
+                "url": "https://svobodni.cz/nezarazene/referendum-o-evropske-unii/?utm_source=openai"
+              },
+              {
+                "end_index": 3221,
+                "start_index": 3068,
+                "title": "Svobodní představili volební program - nízké daně, bezpečnost i svobodnější život a podnikání - Svobodní",
+                "type": "url_citation",
+                "url": "https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai"
+              },
+              {
+                "end_index": 3489,
+                "start_index": 3396,
+                "title": "Svobodní už 16 let navrhují referendum o Evropské unii - Svobodní",
+                "type": "url_citation",
+                "url": "https://svobodni.cz/nezarazene/referendum-o-evropske-unii/?utm_source=openai"
+              },
+              {
+                "end_index": 4181,
+                "start_index": 4035,
+                "title": "Vondráček: Povolenky jsou škodlivý nástroj. Pokud ETS2 odmítneme, Unie bude postupovat jako u kvót | Radiožurnál",
+                "type": "url_citation",
+                "url": "https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024"
+              },
+              {
+                "end_index": 4989,
+                "start_index": 4836,
+                "title": "Hnutí SPD ve volbách 2025: volební program, kandidáti - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai"
+              },
+              {
+                "end_index": 5320,
+                "start_index": 5178,
+                "title": "Referendum o NATO? Nejdřív za pět let, řekla poslankyně SPD - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai"
+              },
+              {
+                "end_index": 5641,
+                "start_index": 5493,
+                "title": "Hádka o NATO a referendum. Komunisté nás školí z demokracie, vpálil Krutílek Konečné - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/hadka-o-nato-a-referendum-komuniste-nas-skoli-z-demokracie-vpalil-krutilek-konecne-463849?utm_source=openai"
+              },
+              {
+                "end_index": 5976,
+                "start_index": 5819,
+                "title": "Přehled koaličních potenciálů: Kdo s kým by mohl vládnout? | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/volby/prehled-koalicnich-vazeb-spd-chce-k-moci-jenze-ano-rado-jednobarevnou-vladu-a_2510021650_jgr?utm_source=openai"
+              },
+              {
+                "end_index": 6250,
+                "start_index": 6108,
+                "title": "Referendum o NATO? Nejdřív za pět let, řekla poslankyně SPD - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai"
+              },
+              {
+                "end_index": 6424,
+                "start_index": 6345,
+                "title": "Šafránková: Referendum o NATO by se mohlo odehrát nejdřív za pět let | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2723732?utm_source=openai"
+              },
+              {
+                "end_index": 6665,
+                "start_index": 6517,
+                "title": "Hádka o NATO a referendum. Komunisté nás školí z demokracie, vpálil Krutílek Konečné - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/hadka-o-nato-a-referendum-komuniste-nas-skoli-z-demokracie-vpalil-krutilek-konecne-463849?utm_source=openai"
+              },
+              {
+                "end_index": 6979,
+                "start_index": 6826,
+                "title": "Hnutí SPD ve volbách 2025: volební program, kandidáti - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai"
+              },
+              {
+                "end_index": 7338,
+                "start_index": 7192,
+                "title": "Vondráček: Povolenky jsou škodlivý nástroj. Pokud ETS2 odmítneme, Unie bude postupovat jako u kvót | Radiožurnál",
+                "type": "url_citation",
+                "url": "https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024"
+              },
+              {
+                "end_index": 8016,
+                "start_index": 7863,
+                "title": "Svobodní představili volební program - nízké daně, bezpečnost i svobodnější život a podnikání - Svobodní",
+                "type": "url_citation",
+                "url": "https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai"
+              },
+              {
+                "end_index": 8499,
+                "start_index": 8357,
+                "title": "Referendum o NATO? Nejdřív za pět let, řekla poslankyně SPD - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai"
+              },
+              {
+                "end_index": 8901,
+                "start_index": 8755,
+                "title": "Vondráček: Povolenky jsou škodlivý nástroj. Pokud ETS2 odmítneme, Unie bude postupovat jako u kvót | Radiožurnál",
+                "type": "url_citation",
+                "url": "https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024"
+              },
+              {
+                "end_index": 9420,
+                "start_index": 9267,
+                "title": "Svobodní představili volební program - nízké daně, bezpečnost i svobodnější život a podnikání - Svobodní",
+                "type": "url_citation",
+                "url": "https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai"
+              },
+              {
+                "end_index": 9786,
+                "start_index": 9693,
+                "title": "Svobodní už 16 let navrhují referendum o Evropské unii - Svobodní",
+                "type": "url_citation",
+                "url": "https://svobodni.cz/nezarazene/referendum-o-evropske-unii/?utm_source=openai"
+              },
+              {
+                "end_index": 10159,
+                "start_index": 10006,
+                "title": "Hnutí SPD ve volbách 2025: volební program, kandidáti - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai"
+              },
+              {
+                "end_index": 10527,
+                "start_index": 10385,
+                "title": "Referendum o NATO? Nejdřív za pět let, řekla poslankyně SPD - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai"
+              },
+              {
+                "end_index": 10811,
+                "start_index": 10732,
+                "title": "Šafránková: Referendum o NATO by se mohlo odehrát nejdřív za pět let | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2723732?utm_source=openai"
+              },
+              {
+                "end_index": 11041,
+                "start_index": 10893,
+                "title": "Hádka o NATO a referendum. Komunisté nás školí z demokracie, vpálil Krutílek Konečné - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/hadka-o-nato-a-referendum-komuniste-nas-skoli-z-demokracie-vpalil-krutilek-konecne-463849?utm_source=openai"
+              },
+              {
+                "end_index": 11329,
+                "start_index": 11146,
+                "title": "Šéf Svobodných po spojení s SPD: Ať Ukrajině pomáhá, kdo chce. Ne český stát - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-sef-svobodnych-po-spojeni-s-spd-at-ukrajine-pomaha-kdo-chce-ne-cesky-stat-272343?utm_source=openai"
+              }
+            ],
+            "text": "Zadání: Ověřit tvrzení Libora Vondráčka (poslanec, předseda Svobodných) z rozhovoru pro Radiožurnál (22. 10. 2025):  \n„Otázka vystupování nebo existence referenda o členství v NATO je něco, co ani nebylo v našem volebním programu, to bylo něco, co se opakovaně probíralo v médiích.“\n\nShrnutí závěru (stručně)\n- První část („ani nebylo v našem volebním programu“): podstata tvrzení je pravdivá, pokud „naším“ rozumíme program strany Svobodní (tj. individuální program Svobodných). Oficiální materiály Svobodných deklarují zakotvení obrany v NATO a zdůrazňují spíše právo na obecné referendum (zejména o EU), nikoli konkrétní výzvu k referendu o vystoupení z NATO. (viz níže citace z volebního programu / webu Svobodných). ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n- Druhá část („to bylo něco, co se opakovaně probíralo v médiích“): podpora — téma „referendum o NATO / referenda o EU a NATO“ bylo v předvolební kampani a v médiích v roce 2025 opakovaně zmiňováno (diskuse o programech SPD, Stačilo!, debaty v ČT/CNN Prima, články v Novinky, Seznam a dalších). Existuje rozsáhlá mediální dokumentace. ([idnes.cz](https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai))\n\nDetailní rozbor (rozdělený na atomické sub-claimy)\n\n1) Sub-claim A — „V našem (Svobodných) volebním programu nebyla otázka referenda o členství v NATO“\n- Co jsme ověřili:\n  - Oficiální prezentace volebního programu Svobodných (před volbami 2025) jasně uvádí, že strana v otázce obrany počítá s „zakotvením v NATO“ a že obranu chce postavit v rámci transatlantického spojenectví (tzn. podpora členství). Text programu mluví o „zakotvení v NATO“, nikoli o výzvě k referendu o vystoupení z NATO. (Svobodní — představení volebního programu). ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n    - Příklad (záznam z tiskového sdělení Svobodných): „…v obraně se chceme opírat o naše zakotvení v NATO a o transatlantické spojenectví.“ ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n  - Na webu Svobodných se opakovaně zmiňuje podpora možnosti referend (zejména návrat možnosti referenda o EU), nicméně dostupné veřejné materiály strany z roku 2025 ukazují, že jejich veřejné aktivity a texty zdůrazňují referendum o EU; nenalezl jsem v oficiálních programových textech Svobodných (veřejně dostupných) přímý bod „referendum o vystoupení z NATO“. (články Svobodných o referendu o EU). ([svobodni.cz](https://svobodni.cz/nezarazene/referendum-o-evropske-unii/?utm_source=openai))\n- Zdrojové doklady (ukázky, odkazy):\n  - „Svobodní představili volební program… ‚v obraně se chceme opírat o naše zakotvení v NATO a o transatlantické spojenectví.‘“ — oficiální stránka Svobodných (představení programu). ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n  - „Svobodní už 16 let navrhují referendum o Evropské unii“ — strana zdůrazňuje iniciativy ohledně referenda o EU, nikoliv explicitně o referendu o NATO v programové části. ([svobodni.cz](https://svobodni.cz/nezarazene/referendum-o-evropske-unii/?utm_source=openai))\n- Poznámka k možné interpretaci „náš volební program“:\n  - Vondráček je poslanec Svobodných, ale kandidoval na kandidátce hnutí SPD ve společné kandidatuře (SPD + Svobodní + Trikolora + PRO). Pokud by „náš“ mluvil o společné kandidatuře/volebním uskupení, je třeba rozlišit: SPD do své platformy explicitně zahrnula bod o referendu o členství (viz níže), zatímco samostatný program Svobodných takový bod veřejně neprezentoval. Radiožurnál v článku přímo odkazuje na to, že v koaličních jednáních se dělaly ústupky ohledně referenda o EU a NATO. ([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024))\n\n2) Sub-claim B — „Téma (referendum o NATO) se opakovaně probíralo v médiích“\n- Co jsme ověřili:\n  - Veřejná debata v létě a na podzim 2025 (před volbami 3.–4. 10. 2025 a v povolebním vyjednávání) aktivně řešila návrhy některých stran (zejména SPD a hnutí Stačilo!) vypisovat referenda o členství v EU a NATO. Téma se objevovalo v hlavních českých médiích, v televizních debatách (CNN Prima, ČT), v textových zpravodajských médiích i v agenturních zprávách (ČTK, Novinky, Echo24, Seznam, iDnes apod.). Přehled několika konkrétních zdrojů:\n    - SPD má v předvolebním programu zmínku o referendu o členství (mediální zpracování programu SPD a komentáře). ([idnes.cz](https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai))\n    - Zprávy a rozhovory, např. poslankyně SPD Lucie Šafránková hovořila v ČT o tom, že „referendum o NATO by se mohlo odehrát nejdřív za pět let“ — to je přímá mediální diskuze o tématu. ([novinky.cz](https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai))\n    - Debaty v médiích (CNN Prima, ČT) a články: např. „Hádka o NATO a referendum…“ (CNN Prima News), množství článků na Novinky, Echo24, Seznam a dalších rozebíralo téma. ([cnn.iprima.cz](https://cnn.iprima.cz/hadka-o-nato-a-referendum-komuniste-nas-skoli-z-demokracie-vpalil-krutilek-konecne-463849?utm_source=openai))\n    - Shrnutí/analýzy konfliktů mezi stranami ohledně referend (iRozhlas a další články) — téma bylo součástí předvolební agendy a zmiňováno v kontextu povolebních vyjednávání. ([irozhlas.cz](https://www.irozhlas.cz/volby/prehled-koalicnich-vazeb-spd-chce-k-moci-jenze-ano-rado-jednobarevnou-vladu-a_2510021650_jgr?utm_source=openai))\n- Konkrétní příklady (s přímými odkazy):\n  - Novinky: „Referendum o NATO? Nejdřív za pět let, řekla poslankyně SPD“ (21. 9. 2025). ([novinky.cz](https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai))\n  - ČT / Českenoviny: „Šafránková: Referendum o NATO by se mohlo odehrát nejdřív za pět let.“ ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2723732?utm_source=openai))\n  - CNN Prima: debata/diskuse o referendu a NATO (reportáž „Hádka o NATO a referendum...“). ([cnn.iprima.cz](https://cnn.iprima.cz/hadka-o-nato-a-referendum-komuniste-nas-skoli-z-demokracie-vpalil-krutilek-konecne-463849?utm_source=openai))\n  - iDnes / přehledy programů: upozornění, že SPD v programu prosazuje referendum o členství v EU (a obdobné body se objevovaly i u některých jiných uskupení). ([idnes.cz](https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai))\n  - Radiožurnál (rozhovor s Vondráčkem) s připomínkou, že v koaličních rozhovorech se musely dělat ústupky ohledně referenda o EU a NATO — tedy i v odborných rozhovorech v médiích se téma objevovalo a řešilo se. ([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024))\n\nZávěrečné zhodnocení tvrzení\n- Pokud „náš volební program“ Vondráček myslel program své strany Svobodní (které je předsedou), pak je tvrzení přesné: ve veřejně dostupných materiálech Svobodných z roku 2025 je zdůrazněno zakotvení obrany v NATO (podpora členství) a strana ve svých textech otevřeně prosazovala referenda zejména o EU; přímý bod „referendum o vystoupení z NATO“ v jejich oficiálním programovém textu nebyl nalezen. Proto lze část tvrzení „ani nebylo v našem volebním programu“ podpořit dostupnými materiály. ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n- Druhá část tvrzení („to bylo něco, co se opakovaně probíralo v médiích“) je dobře podložená: téma referenda o NATO a referenda o EU bylo v předvolebním i povolebním období v roce 2025 opakovaně a široce medializováno (SDP, Stačilo!, diskuse v ČT a v internetových/tištěných médiích). Tudíž i tuto část tvrzení lze považovat za pravdivou. ([novinky.cz](https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai))\n\nSeznam relevantních zdrojů (včetně přímých pasáží, které jsem použil)\n- Radiožurnál: rozhovor s Liborem Vondráčkem (22. 10. 2025) — kontext o ústupcích v otázce referenda o EU a NATO. (viz pasáž o „Ústupek od referenda o EU a NATO jsme udělat museli…“). ([radiozurnal.rozhlas.cz](https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets-2-odmitneme-unie-bude-postupovat-jako-9571024))\n  - URL: https://radiozurnal.rozhlas.cz/povolenky-jsou-skodlivy-nastroj-pokud-ets2-odmitneme-unie-bude-postupovat-jako-u-9571024\n- Svobodní — představení volebního programu (oficiální web): „v obraně se chceme opírat o naše zakotvení v NATO a o transatlantické spojenectví.“ — žádná explicitní výzva k referendu o vystoupení z NATO v představené programové pasáži. ([svobodni.cz](https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezpecnost-i-svobodnejsi-zivot-a-podnikani/?utm_source=openai))\n  - URL: https://svobodni.cz/clanky/svobodni-predstavili-volebni-program-nizke-dane-bezecnost-i-svobodejsi-zivot-a-podnikani/ (stránka s představením programu)\n- Svobodní — články o referendu o EU (ukázka, že strana dlouhodobě tlačí referendum o EU, nikoli nutně o NATO). ([svobodni.cz](https://svobodni.cz/nezarazene/referendum-o-evropske-unii/?utm_source=openai))\n  - URL: https://svobodni.cz/nezarazene/referendum-o-evropske-unii/ (příklad)\n- iDNES / přehled programů: zmínka, že SPD do své kampaně zahrnula referendum o členství v EU (a podobné body byly součástí debat i o NATO). ([idnes.cz](https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall?utm_source=openai))\n  - URL: https://www.idnes.cz/volby/hnuti-spd-ve-volbach-2025-volebni-program-co-slibuji-a-kdo-kandiduje.A250814_163111_volby_wall\n- Novinky / Články o tom, že poslankyně SPD hovoří o referendu o NATO („nejdřív za pět let“). ([novinky.cz](https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883?utm_source=openai))\n  - URL: https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883\n- ČTK / Echo24 (agenturní zpracování) — stejné sdělení Šafránkové o referendu o NATO. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2723732?utm_source=openai))\n- CNN Prima News — debata/diskuse o referendu o NATO (mediální pokrytí a spory). ([cnn.iprima.cz](https://cnn.iprima.cz/hadka-o-nato-a-referendum-komuniste-nas-skoli-z-demokracie-vpalil-krutilek-konecne-463849?utm_source=openai))\n- Seznam Zprávy — komentáře a rozhovory, kde se téma NATO/EU a referenda objevuje v předvolební debatě. ([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-sef-svobodnych-po-spojeni-s-spd-at-ukrajine-pomaha-kdo-chce-ne-cesky-stat-272343?utm_source=openai))\n\nKrátké doporučení pro posouzení (pro fact-checkera)\n- Pokud potřebujete rozhodnout „pravda / nepravda / zavádějící“, doporučuji uvážit kontext slova „náš“ (Svobodní jako samostatná strana vs. „naše“ jako společná kandidátka se SPD). Vondráček mluvil jako předseda Svobodných — v tomto smyslu je přesné říct, že v oficiálních programových textech Svobodných nebyl bod „referendum o vystoupení z NATO“. Pokud by ale „náš“ měl znamenat společnou platformu aliance (SPD+Svobodní+Trikolora+PRO), pak by tvrzení bylo nepřesné, protože SPD (jako hlavní složka té kandidátky) do své předvolební komunikace zařazovala návrhy na referendum o členství (EU/NATO). Relevantní důkaz o tom, že se téma „referendum o NATO“ objevovalo intenzivně v médiích, je silný (viz výše).\n\nPozn.: Vybral jsem a citoval primární zdroje — oficiální party web Svobodných a řadu článků z českých médií — aby byl důkaz ověřitelný a srozumitelný.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "medium",
+      "generate_summary": null,
+      "summary": "detailed"
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 39182,
+      "input_tokens_details": {
+        "cached_tokens": 4608
+      },
+      "output_tokens": 5646,
+      "output_tokens_details": {
+        "reasoning_tokens": 2304
+      },
+      "total_tokens": 44828
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "store": true
+  }
+}

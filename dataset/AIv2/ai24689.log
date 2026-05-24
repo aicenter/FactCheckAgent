@@ -1,0 +1,492 @@
+{
+  "claim_id": "24689",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260402_164100",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/reports/report24689.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 111.2,
+        "prompt_length": 1987,
+        "input_tokens": 133800,
+        "cached_input_tokens": 94080,
+        "output_tokens": 4934,
+        "web_searches": 4,
+        "final_response": "Interpretace je hotová v [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/claim_interpretation.md).\n\nSoubor obsahuje rozpad na dílčí tvrzení, zvolenou interpretaci výroku, datum výroku a vyhledávací okno, plán hledání zdrojů i poznámku k ne zcela faktickým částem výroku.",
+        "items": [
+          {
+            "type": "AgentMessageItem",
+            "text": "Nejprve zjistím, kde jsou v experimentu uložené konkrétní hodnoty `claim`, `speaker`, `source` a `context`, a přečtu si související soubory pro první krok. Potom sepíšu interpretaci do `work/claim_interpretation.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc pwd",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"find .. -name AGENTS.md -o -name '*guide*' -o -path '../*prompt*'\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'rg --files'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám strukturu experimentu; teď čtu `metadata.json` a stručně i lokální instrukce, abych vytáhl přesné zadání a datum výroku. Pokud bude kontext nejasný, dohledám jen minimum nutné k interpretaci."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' metadata.json\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' AGENTS.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz nominační zákon 2020 vláda Andreje Babiše transparentní odborný výběr"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.psp.cz/eknih/2017ps/tesnopis/tz024.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz 353/2019 výběru osob do řídících a dozorčích orgánů právnických osob s majetkovou účastí státu"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz \"transparentní\" \"odborný\" \"nominační\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretace už je jasnější: výrok míří na tzv. nominační zákon, tedy zákon č. 353/2019 Sb., který nabyl účinnosti v lednu 2020 a měl zavést transparentnější pravidla pro obsazování orgánů firem se státní účastí. Ještě ověřím formulaci účinnosti a pak zapíšu strukturovanou interpretaci do `work/claim_interpretation.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'mkdir -p work output && ls -la work'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Sepisuji finální podobu interpretace. Zaměřím ji na dvě ověřitelné roviny: kdo a kdy nominační zákon zavedl, a jaká oficiální argumentace byla při jeho prosazování."
+          },
+          {
+            "type": "FileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Soubor je zapsaný. Ještě ho rychle kontroluji, aby další krok dostal přesně datum výroku, časové okno a vyhledávací plán."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretace je hotová v [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/claim_interpretation.md).\n\nSoubor obsahuje rozpad na dílčí tvrzení, zvolenou interpretaci výroku, datum výroku a vyhledávací okno, plán hledání zdrojů i poznámku k ne zcela faktickým částem výroku."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 219.5,
+        "prompt_length": 1693,
+        "input_tokens": 422230,
+        "cached_input_tokens": 278912,
+        "output_tokens": 16262,
+        "web_searches": 16,
+        "final_response": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/raw_sources.md).\n\nSoubor obsahuje primární legislativní zdroje, sněmovní stenozáznamy, veřejnoprávní média i několik rozporových či zpřesňujících zdrojů k roku zavedení a k omezenému rozsahu zákona.",
+        "items": [
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď přecházím do vyhledávání zdrojů podle interpretace z kroku 1. Zaměřím se hlavně na legislativní historii zákona, datum účinnosti a oficiální argumentaci vlády, a zároveň dohledám i zdroje, které výroku částečně odporují v tom, že zákon byl schválen už v roce 2019 nebo měl užší působnost."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz sněmovní tisk 220 zákon o výběru osob do řídicích a dozorčích orgánů právnických osob s majetkovou účastí státu"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/ sqw/text/tiskt.sqw?O=8&CT=220&CT1=0 zákon o výběru osob do řídicích a dozorčích orgánů"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/sqw/text/tiskt.sqw O=8 CT=220 CT1=0"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:vlada.cz \"nominační zákon\" \"transparentní\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:mfcr.cz nominační zákon transparentnost objektivnost odbornost"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.vlada.cz/assets/urad-vlady/zpravy-o-cinnosti-uvcr/Zprava-o-cinnosti-Uradu-vlady-v-roce-2020.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2019-353"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/sqw/text/text2.sqw?idd nominační zákon 220/0"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz \"nominační zákon\" odborný výběr vláda 2019"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:irozhlas.cz nominační zákon 353/2019"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:irozhlas.cz \"nominační zákon\" firmy se státní účastí"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.vlada.cz/assets/urad-vlady/zpravy-o-cinnosti-uvcr/Zprava-o-cinnosti-Uradu-vlady-v-roce-2020.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/eknih/2017ps/tisky/t0220_00.htm"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:vlada.cz personální nominace usnesením č. 82 ze dne 27. ledna 2020"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám dost materiálu z primárních zdrojů i z veřejnoprávních médií. Teď je převádím do `work/raw_sources.md` tak, aby v dalším kroku bylo jasně vidět, co podporuje rok 2020, co podporuje transparentnost a odbornost, a co naopak zpochybňuje úplnou novost nebo šíři výroku."
+          },
+          {
+            "type": "FileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsou zapsané. Ještě kontroluji formát a pokrytí jednotlivých dílčích tvrzení, aby další krok mohl rovnou vybírat nejsilnější opory a rozporové nuance."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Našel jsem ještě drobnou formální nepřesnost v metadatech jednoho zdroje. Opravuji ji, aby `raw_sources.md` byl konzistentní."
+          },
+          {
+            "type": "FileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/raw_sources.md).\n\nSoubor obsahuje primární legislativní zdroje, sněmovní stenozáznamy, veřejnoprávní média i několik rozporových či zpřesňujících zdrojů k roku zavedení a k omezenému rozsahu zákona."
+          },
+          {
+            "type": "TodoListItem"
+          }
+        ]
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 120.0,
+        "prompt_length": 2274,
+        "input_tokens": 632469,
+        "cached_input_tokens": 451328,
+        "output_tokens": 23236,
+        "web_searches": 2,
+        "final_response": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/refined_sources.md).\n\nSoubor už rozlišuje ponechané, nahrazené, odstraněné a jen kontextové zdroje, doplňuje tier, stav a poznámky a na konci shrnuje pokrytí všech netriviálních dílčích tvrzení.",
+        "items": [
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď dělám čistění zdrojů: porovnám je s rankingem, vyhodím nadbytečné sekundární odkazy tam, kde už mám přímý primární důkaz, a ověřím, že každý netriviální bod má aspoň jednu silnou oporu."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2019-353"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:vlada.cz nominační zákon odborné kompetence transparentní 2019"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám rozhodnutí pro finální výběr: ponechám hlavně zákon a sněmovní primární zdroje, odstraním nadbytečné mediální duplicity a označím, kde je důkaz spíš kontextový než rozhodující. Teď to převádím do `work/refined_sources.md`."
+          },
+          {
+            "type": "FileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam je hotový. Ještě rychle kontroluji, že shrnutí na konci opravdu odpovídá zbylým zdrojům a že jsem nikde nenechal sekundární zdroj jako hlavní důkaz."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,320p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/refined_sources.md).\n\nSoubor už rozlišuje ponechané, nahrazené, odstraněné a jen kontextové zdroje, doplňuje tier, stav a poznámky a na konci shrnuje pokrytí všech netriviálních dílčích tvrzení."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 101.8,
+        "prompt_length": 1887,
+        "input_tokens": 1006553,
+        "cached_input_tokens": 790144,
+        "output_tokens": 29474,
+        "web_searches": 1,
+        "final_response": "Draft report jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/draft.md).\n\nText je ve formátu HTML, drží se stylu Demagogu a používá jen zdroje z [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/refined_sources.md).",
+        "items": [
+          {
+            "type": "AgentMessageItem",
+            "text": "Než napíšu samotný report, načtu stylové instrukce a dva reálné příklady, aby byl text v přesném demagogím formátu. Pak sepíšu krátké shrnutí, několik HTML odstavců a jednoznačný verdikt."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/examples.txt\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2019-353"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám jasno i v hodnocení: výrok je věcně správný, jen je trochu zkratkovitý v rozsahu zákona a v tom, že byl přijat v roce 2019, ale účinný od ledna 2020. Teď zapíšu hotový draft v přesném HTML formátu."
+          },
+          {
+            "type": "FileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Dělám ještě krátké dočištění draftu, hlavně aby každá nosná věta měla oporu přímo v odkazu a aby byl zákon citovaný co nejpřesněji."
+          },
+          {
+            "type": "FileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft je zapsaný. Ještě ověřím, že má správný počet odstavců, nepoužívá seznamy a drží se čistě zdrojů z `refined_sources.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft report jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/draft.md).\n\nText je ve formátu HTML, drží se stylu Demagogu a používá jen zdroje z [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/refined_sources.md)."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 123.9,
+        "prompt_length": 1226,
+        "input_tokens": 1466483,
+        "cached_input_tokens": 1212032,
+        "output_tokens": 36160,
+        "web_searches": 5,
+        "final_response": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/verification.md).\n\nPři kontrole jsem ještě upravil [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/draft.md), aby měl přesnější linkování, kurzívu u citace a správně označené historické funkce. Výsledek checklistu je `PASS`.",
+        "items": [
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď dělám formální i věcnou kontrolu draftu podle checklistu a současně spot-checknu několik odkazů, jestli vedou na správné místo. Pokud něco neprojde, opravím jen konkrétní problém v `work/draft.md` a znovu přepočtu jen selhané body."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/verification_checklist.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2019-353"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"https://www.psp.cz/eknih/2017ps/stenprot/026schuz/bqbs/b14703301.htm\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/eknih/2017ps/stenprot/026schuz/bqbs/b14703301.htm \"jednotná a transparentní pravidla\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/eknih/2017ps/stenprot/034schuz/bqbs/b29622001.htm \"Současná vláda připravila obdobný návrh zákona\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Našel jsem několik drobných formálních nedostatků: u části vět chyběla přímá vazba na odkaz, u citace scházela kurzíva a u historických funkcí bylo lepší doplnit „tehdejší“. Opravuji jen tyto body a pak sepíšu checklist."
+          },
+          {
+            "type": "FileChangeItem"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/eknih/2017ps/stenprot/026schuz/bqbs/b14703301.htm \"jednotná a transparentní pravidla pro výběr\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Po opravách ještě jednou kontroluji draft proti checklistu. Pokud už sedí citace, formulace i role osob, uzavřu to do `work/verification.md` s finálním PASS."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Checklist doplním položku po položce, včetně poznámky k opravám a ke spot-checku odkazů. Výsledek už vypadá čistě, takže očekávám finální PASS."
+          },
+          {
+            "type": "FileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/verification.md).\n\nPři kontrole jsem ještě upravil [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/id24689/work/draft.md), aby měl přesnější linkování, kurzívu u citace a správně označené historické funkce. Výsledek checklistu je `PASS`."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 23.4,
+        "prompt_length": 313,
+        "input_tokens": 1750125,
+        "cached_input_tokens": 1485184,
+        "output_tokens": 37894,
+        "web_searches": 0,
+        "final_response": "Hotovo.",
+        "items": [
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď už jen ověřím finální PASS ve verifikaci a přenesu původní výrok i hotový report do `output/report.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 20 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"python - <<'PY'\nimport json\nwith open('metadata.json') as f:\n    data=json.load(f)\nprint(data['claim'])\nPY\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikace končí `## Result: PASS`. Přenáším tedy původní výrok a finální znění reportu do výstupního souboru."
+          },
+          {
+            "type": "FileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Hotovo."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "claim_id": "24712",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260421_113102",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/reports/report24712.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 72.6,
+        "prompt_length": 3804,
+        "input_tokens": 156229,
+        "cached_input_tokens": 124928,
+        "output_tokens": 4460,
+        "web_searches": 2,
+        "final_response": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/claim_interpretation.md).\n\nVýrok tam vykládám charitativně jako tvrzení, že Národní divadlo a Národní muzeum jsou standardně financované ze státního rozpočtu přes Ministerstvo kultury, ne jako tvrzení o jejich výlučném stoprocentním financování. Jako datum výroku je uveden 17. duben 2026 podle zdrojového pořadu Českého rozhlasu. ([plus.rozhlas.cz](https://plus.rozhlas.cz/koncesionarske-poplatky-jsou-zastarale-plati-je-hlavne-seniori-zni-z-spd-opozice-9610185))",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Vyjasňuji interpretaci výroku a nejdřív si zkontroluji strukturu pracovního adresáře, pak ověřím přesný kontext citace a sepíšu podklady do `work/claim_interpretation.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc pwd",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'rg --files'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "V adresáři jsou i obecné metodické podklady, takže si teď načtu jen ty, které mohou ovlivnit interpretaci a plán zdrojů, abych se neopřel o špatný standard."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' AGENTS.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' guides/prirucka.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď si beru jen minimum dalšího kontextu: datum a formulaci z původního zdroje a základní status obou institucí, protože to určí, zda výrok číst jako „jsou hrazeny státem“ nebo „stát jim jen přispívá“."
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://plus.rozhlas.cz/koncesionarske-poplatky-jsou-zastarale-plati-je-hlavne-seniori-zni-z-spd-opozice-9610185"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:mk.gov.cz Národní divadlo příspěvková organizace ministerstvo kultury"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám dost kontextu k interpretaci. Ještě zkontroluji, zda už existuje `work/`, a potom tam zapíšu strukturovaný rozklad výroku včetně datového okna a vyhledávacího plánu."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'test -d work && ls -la work || true'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Do souboru zapisuji interpretační rozhodnutí: výrok budu číst v charitativním smyslu jako tvrzení o systémovém financování obou institucí ze státního rozpočtu, ne jako tvrzení o tom, že nemají žádné vlastní příjmy."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Soubor je zapsaný. Ještě ho rychle kontroluji, aby v něm byly všechny požadované části pro další krok a aby datumové omezení odpovídalo zdrojové debatě z 17. dubna 2026."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/claim_interpretation.md).\n\nVýrok tam vykládám charitativně jako tvrzení, že Národní divadlo a Národní muzeum jsou standardně financované ze státního rozpočtu přes Ministerstvo kultury, ne jako tvrzení o jejich výlučném stoprocentním financování. Jako datum výroku je uveden 17. duben 2026 podle zdrojového pořadu Českého rozhlasu. ([plus.rozhlas.cz](https://plus.rozhlas.cz/koncesionarske-poplatky-jsou-zastarale-plati-je-hlavne-seniori-zni-z-spd-opozice-9610185))"
+          }
+        ]
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 230.9,
+        "prompt_length": 1771,
+        "input_tokens": 575193,
+        "cached_input_tokens": 331136,
+        "output_tokens": 14993,
+        "web_searches": 25,
+        "final_response": "Zdroje jsem uložil do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/raw_sources.md).\n\nSoubor obsahuje primární rozpočtové dokumenty Ministerstva kultury, závěrečný účet, oficiální podklady k oběma institucím a i několik zdrojů, které ukazují vlastní příjmy Národního divadla a Národního muzea jako protiváhu k příliš silné interpretaci výroku.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď přecházím na sběr zdrojů. Nejprve znovu načtu interpretační soubor, pak projdu primární zdroje k právnímu statusu a rozpočtům obou institucí a nakonec dohledám i materiály, které ukazují jejich vlastní příjmy jako možnou protiváhu k příliš silné interpretaci výroku."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,120p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:mk.gov.cz Národní divadlo příspěvková organizace"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:narodni-divadlo.cz výroční zpráva 2024 pdf příspěvek zřizovatele"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.narodni-divadlo.cz/cs/o-divadle/dokumenty/vyrocni-zpravy/"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/narodni-muzeum-cs-560"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:narodni-divadlo.cz zřizovací listina Národní divadlo pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:narodni-divadlo.cz \"vlastní\" \"výnosy\" \"Národní divadlo\" 2024"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/narodni-divadlo-cs-147"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Příspěvek na provoz tvoří pouze část úhrnu plánovaných výnosů' in https://mk.gov.cz/doc/dokumenty_file/sr-2025-kapitolni-sesit-vc-priloh-2011.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:irozhlas.cz Národní divadlo vlastní příjmy rozpočet 2025"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:mfcr.cz zákon státní rozpočet 2026 kapitola 334 ministerstvo kultury pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/schvaleny-rozpocet-2024"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/doc/dokumenty_file/sr-2024_komentar-vc-priloh-1705.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Národní divadlo' in https://mk.gov.cz/doc/dokumenty_file/sr-2024_komentar-vc-priloh-1705.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:irozhlas.cz \"Národní divadlo\" rozpočet 2024 vstupné"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/doc/dokumenty_file/sr-2025-kapitolni-sesit-vc-priloh-2011.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.nm.cz/povinne-zverejnovane-informace/vyrocni-zpravy/vyrocni-zprava-za-rok-2024/zprava-o-financnim-hospodareni"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.seznamzpravy.cz/clanek/kultura-narodni-divadlo-v-dalsi-sezone-planuje-19-premier-celkem-nabidne-79-inscenaci-270260"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.nm.cz/file/df856f35264be5a7791a05c22c1e5c90/50032/Dlouhodob%C3%A1%20koncepce%20rozvoje%20VO%20N%C3%A1rodn%C3%AD%20muzeum%20na%20l%C3%A9ta%202024-2028.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/prispevkove-organizace-cs-559"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"míru soběstačnosti přes 36,85 procenta\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám dost zdrojů z primárních dokumentů i několik sekundárních materiálů pro protiváhu. Teď je převádím do `work/raw_sources.md` tak, aby byly oddělené podpůrné a zpochybňující informace pro obě instituce."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Soubor je zapsaný. Ještě ho kontroluji proti zadání, hlavně zda má každý zdroj URL, datum, přiřazení k dílčím tvrzením a označení, jestli výrok podporuje, nebo spíš oslabuje jeho přísnou verzi."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsem uložil do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/raw_sources.md).\n\nSoubor obsahuje primární rozpočtové dokumenty Ministerstva kultury, závěrečný účet, oficiální podklady k oběma institucím a i několik zdrojů, které ukazují vlastní příjmy Národního divadla a Národního muzea jako protiváhu k příliš silné interpretaci výroku."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 105.0,
+        "prompt_length": 2274,
+        "input_tokens": 808846,
+        "cached_input_tokens": 511232,
+        "output_tokens": 20909,
+        "web_searches": 7,
+        "final_response": "Refinovaný seznam jsem uložil do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/refined_sources.md).\n\nZůstaly v něm hlavně tier-1 primární zdroje z Ministerstva kultury a oficiální podklady institucí. Sekundární články z ČT24 a Seznam Zpráv jsem vyřadil jako nadbytečné, protože jejich podstatné informace už pokrývají silnější primární dokumenty.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď čistím surový seznam: znovu načtu pracovní soubory, ověřím každý odkaz a u sekundárních zdrojů zkusím dohledat přímý primární podklad, aby v refinovaném seznamu zůstalo hlavně to, co je skutečně použitelné jako důkaz."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,160p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:narodni-divadlo.cz \"340 milionů\" \"36,85\" \"Národní divadlo\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Národní divadlo v roce 2024 utržilo na vstupném 340 milionů korun\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.narodni-divadlo.cz/cs/o-divadle/dokumenty/vyrocni-zpravy/"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/doc/dokumenty_file/sr-2024_komentar-vc-priloh-1705.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'ND Národní divadlo' in https://mk.gov.cz/doc/dokumenty_file/sr-2025-kapitolni-sesit-vc-priloh-2011.pdf"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam bude užší než surový: nechávám hlavně ministerské rozpočtové dokumenty a oficiální podklady institucí, sekundární média jen tam, kde by nesla něco navíc, což tady nakonec pro samotný důkaz není nutné."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný soubor je zapsaný. Ještě ho rychle kontroluji, zda u vyřazených zdrojů jasně uvádí náhradu a zda závěrečné shrnutí opravdu pokrývá obě dílčí tvrzení."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,320p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam jsem uložil do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/refined_sources.md).\n\nZůstaly v něm hlavně tier-1 primární zdroje z Ministerstva kultury a oficiální podklady institucí. Sekundární články z ČT24 a Seznam Zpráv jsem vyřadil jako nadbytečné, protože jejich podstatné informace už pokrývají silnější primární dokumenty."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 61.6,
+        "prompt_length": 2388,
+        "input_tokens": 1088346,
+        "cached_input_tokens": 762240,
+        "output_tokens": 24136,
+        "web_searches": 0,
+        "final_response": "Draft jsem uložil do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/draft.md).\n\nVerdikt v návrhu je `pravda`. Text stojí na rozpočtových dokumentech Ministerstva kultury a stručně doplňuje, že obě instituce mají i jiné příjmy, takže výrok nečtu v přísném smyslu výlučného financování státem.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď skládám samotný draft. Nejdřív načtu stylové podklady a příklady, abych držel tón Demagogu, a pak z refinovaných zdrojů napíšu krátké HTML odůvodnění s jednoznačným verdiktem."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/examples.txt\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Do draftu teď převádím jen to, co je opřené o ponechané zdroje: status obou institucí, jejich financování z kapitoly Ministerstva kultury a krátké vysvětlení, proč to ještě neznamená výlučné financování ze státního rozpočtu."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft je zapsaný. Ještě kontroluji, jestli splňuje formát Demagogu: krátký perex, HTML odstavce s inline odkazy, žádné seznamy a závěr s jediným výslovným verdiktem."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft jsem uložil do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/draft.md).\n\nVerdikt v návrhu je `pravda`. Text stojí na rozpočtových dokumentech Ministerstva kultury a stručně doplňuje, že obě instituce mají i jiné příjmy, takže výrok nečtu v přísném smyslu výlučného financování státem."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 87.9,
+        "prompt_length": 1226,
+        "input_tokens": 1468237,
+        "cached_input_tokens": 1096192,
+        "output_tokens": 30072,
+        "web_searches": 3,
+        "final_response": "Kontrolu jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/verification.md).\n\nPři verifikaci jsem upravil [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/draft.md): doplnil jsem stránky u PDF odkazů a opřel závěrečný odstavec o přímé citace. Výsledek checklistu je `PASS`.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď dělám kontrolu proti checklistu. Nejdřív načtu ověřovací pravidla a draft, potom namátkově otevřu několik odkazů z textu a podle výsledku případně opravím jen konkrétní slabá místa."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/verification_checklist.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,120p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/doc/dokumenty_file/sr-2025-kapitolni-sesit-vc-priloh-2011.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'15 331100 ND Národní divadlo' in https://mk.gov.cz/doc/dokumenty_file/sr-2025-kapitolni-sesit-vc-priloh-2011.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Ministerstvo kultury je zřizovatelem 31 příspěvkových organizací' in https://mk.gov.cz/doc/dokumenty_file/sr-2024_komentar-vc-priloh-1705.pdf"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Při kontrole vyšly dvě konkrétní slabiny: PDF odkazy potřebují stránkování a závěrečný odstavec je lepší ještě opřít o přímé odkazy. Opravuji jen tyto dvě věci, bez zásahu do argumentace."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Checklist je po opravě čistý. Teď ho zapisuji bod po bodu do `work/verification.md`, včetně poznámky k namátkově otevřeným odkazům."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Kontrolu jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/verification.md).\n\nPři verifikaci jsem upravil [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24712/work/draft.md): doplnil jsem stránky u PDF odkazů a opřel závěrečný odstavec o přímé citace. Výsledek checklistu je `PASS`."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 25.6,
+        "prompt_length": 313,
+        "input_tokens": 1731143,
+        "cached_input_tokens": 1352704,
+        "output_tokens": 31542,
+        "web_searches": 0,
+        "final_response": "Hotovo.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Dokončuji poslední krok: ověřím, že verifikace končí `PASS`, a pak přenesu finální text z draftu do `output/report.md` v požadovaném obalu."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 5 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikace končí `## Result: PASS`. Přenáším finální znění do výstupního souboru beze změn obsahu."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Hotovo."
+          }
+        ]
+      }
+    }
+  ]
+}

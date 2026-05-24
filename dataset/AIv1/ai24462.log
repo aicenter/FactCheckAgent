@@ -1,0 +1,666 @@
+{
+  "claim_id": "24462",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20251208_131217",
+  "source_md": "experiments/gpt-5.1h_20251208_131217/brief_fact_check_id24462.md",
+  "fact_check": "# Fact Check for Statement ID 24462\n\n## Statement\n(...) o slepých fondech. Ty sice nejsou v České republice, jsou v zahraničí.\n\n---\n## OpenAI Deep Research Fact Check\n## 1. Co přesně ověřujeme\n\nCitovaná věta Martina Kupky zní v kontextu takto (parafráze):\n\n> „Ten názor Ústavního soudu (…) hovoří o slepých fondech. Ty sice nejsou v České republice, jsou v zahraničí.“\n\nOvěřujeme zejména tato dílčí tvrzení:\n\n1. **Ústavní soud v nálezu z roku 2020 skutečně mluví o „slepém fondu“ (blind trustu).**  \n2. **V českém právním řádu neexistuje vlastní, výslovně upravený institut „slepého fondu / blind trustu“.**  \n3. **„Slepé fondy“ (blind trusty) jsou nástrojem používaným v zahraničí (např. Québec, USA, Velká Británie, Lichtenštejnsko).**\n\nNíže uvádím důkazy a případné protiargumenty k jednotlivým bodům.\n\n---\n\n## 2. Dílčí tvrzení 1: Ústavní soud skutečně hovoří o „blind trustu“\n\n### Důkazy\n\nNález Ústavního soudu Pl. ÚS 4/17 ze dne 11. 2. 2020 (tzv. „lex Babiš“) v pasáži o zahraniční inspiraci (Québec) výslovně zmiňuje „svěřenský fond (blind trust)“:\n\n- V bodě 208 nálezu se uvádí, že podle quebecké úpravy má veřejný funkcionář dvě možnosti:  \n  a) prodat podíly (divestiture) nebo  \n  b)  \n  > „vložit svá aktiva (assets) do svěřenského fondu (blind trust), který však musí splňovat zvláštní podmínky zákona o střetu zájmů, tak aby jej nebylo možno obcházet.“ ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n\n  Nález dále popisuje, že majetek je pod kontrolou nezávislého správce a pod dohledem zvláštního úřadu (Conflict of Interest and Ethics Commissioner) a funkcionář k aktivům nemá přístup. ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n\n- Stejný úsek nálezu cituje i Městský soud v Praze v rozsudku 10 A 92/2024–97, kde shrnuje:  \n  > „Druhou možností je vložit svá aktiva do svěřenského fondu (blind trust), který však musí splňovat zvláštní podmínky zákona o střetu zájmů…“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/judikat/msph/10-a-92-2024-97))  \n\n### Závěr k bodu 1\n\nAno, **Ústavní soud v nálezu z roku 2020 skutečně pracuje s pojmem „svěřenský fond (blind trust)“** jako s příkladem ze zahraniční (quebecké) právní úpravy.\n\n---\n\n## 3. Dílčí tvrzení 2: „Slepé fondy“ nejsou v českém právním řádu\n\n### 3.1. Jak je „slepý fond“ chápán\n\nV české debatě se „slepý fond“ zpravidla chápe jako:\n\n> **zahraniční blind trust**, tj. svěřenský (trustový) fond, v němž  \n> – zakladatel ani obmyšlení nemohou ovlivňovat správu majetku,  \n> – nemají přístup k informacím o složení majetku a transakcích,  \n> – správu vykonává nezávislý profesionální správce pod dohledem zvláštního veřejného orgánu.\n\nTakto jej popisuje např.:\n\n- Mezizoudní databáze při citaci nálezu ÚS o quebeckém modelu („blind trust“ s dohledem Conflict of Interest and Ethics Commissioner). ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n- Odborný slovník společnosti Svěřenská správa:  \n  > „Blind Trust neboli ‚slepý svěřenský fond‘ je fond, který se **v zahraničí** využívá pro odstraňování potenciálních střetů zájmů u osob vstupujících do státního úřadu nebo zastávají jinou veřejnou funkci… Zakladatel … není po jeho založení obeznámen s následným obsahem ani typy majetkových operací.“ ([svsp.cz](https://www.svsp.cz/slovnik/blind-sverensky-fond))  \n\n### 3.2. Odborné a analytické zdroje k absenci „slepého fondu“ v českém právu\n\n#### a) Transparency International (říjen 2025 – před výrokem)\n\nTransparency International ČR v analýze ke střetu zájmů Andreje Babiše uvádí:\n\n> „Zřízení slepého fondu v České republice **navíc právní řád neumožňuje**, Andrej Babiš by tedy musel zvažovat přesun do zahraničí.“ ([transparency.cz](https://www.transparency.cz/babisuv-nekonecny-stret-zajmu-nevyreseny-dluh-ktery-ohrozuje-cesko-i-eu/))  \n\nTento text vysvětluje, že slepý fond (blind trust) jako institut s požadovanými parametry **není českým právem umožněn** a případné řešení by muselo být založeno v zahraniční jurisdikci.\n\n#### b) iROZHLAS – rozhovor s odborníkem na svěřenské fondy (cca 18 dní před výrokem)\n\niROZHLAS v článku „České právo slepý svěřenský fond nezná…“ (cca 10.–20. 11. 2025) cituje Pavla Koláře (Svěřenská správa):\n\n> „Důležité ale je, že **česká právní úprava reálně slepý svěřenský fond neumožňuje**.“ ([seznam.cz](https://www.seznam.cz/komentare/267079511-ceske-pravo-slepy-sverensky-fond-nezna-babis-by-ho-pro-agrofert-mohl-zalozit-v-jine-zemi-rika-odbornik))  \n\nKolář výslovně říká, že **česká právní úprava slepý svěřenský fond neumožňuje** a že tu není speciální právní úprava pro takový nástroj.\n\n#### c) Analýza Wealth Magazínu (využívá článek Svěřenské správy z roku 2019)\n\nWealth Magazín shrnuje diskusi českých právníků:\n\n- Cituje postoj jedné skupiny právníků (Svěřenská správa):\n\n  > „Jedna skupina právníků zastává názor, že **blind trusty není možné v českém právu zřídit**, protože v občanském zákoníku, jenž svěřenské fondy upravuje, je zakotveno, že zakladatel má právo dohledu… Právě díky výsostnému postavení zakladatele, který může mít přímý i nepřímý vliv na svěřenský fond, **není možné v českých podmínkách blind trust vytvořit**.“ ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n\n- Druhá skupina právníků podle téhož článku připouští, že by bylo možné alespoň smluvně **napodobit** blind trust tím, že se zakladatel sám vzdá části svých práv. I tato varianta je ale považována za právně nejistou (není jasné, jak by se k ní postavily soudy). ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n\n#### d) Aktuálně.cz (2018)\n\nUž v roce 2018 server Aktuálně.cz v článku „Europrávníci doporučují Babišovi slepý fond, jako má Mayová. V Česku je to problém“ shrnuje postoje odborníků:\n\n- Eva Hrušková připouští, že parametry fondu by teoreticky šly nastavit tak, aby připomínal blind trust.  \n- Naproti tomu Pavel Kolář upozorňuje, že české zákony dávají zakladateli právo požadovat informace od správce, **což podle něj založení skutečně „slepého“ fondu vylučuje**. ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/politika/babisovi-muze-se-stretem-zajmu-pomoct-slepy-sverensky-fond-v/r~d2cbbc5ef7cd11e8b04aac1f6b220ee8/))  \n- Filip Soukup dodává, že aby Babiš plně vyhověl požadavkům, „**musel by zřídit trust v zahraničí**“, např. ve Velké Británii, kde takové trusty existují. ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/politika/babisovi-muze-se-stretem-zajmu-pomoct-slepy-sverensky-fond-v/r~d2cbbc5ef7cd11e8b04aac1f6b220ee8/))  \n\n#### e) Analýzy k zákonu o střetu zájmů\n\nAnalýza, o níž píše iROZHLAS koncem listopadu 2025 („Pětikoalice mohla řešení Babišova střetu vepsat do zákona“), uvádí, že česká legislativa **postupy řešení střetu zájmů neupravuje** a „v tuhle chvíli například nezná tzv. slepé fondy“. ([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/stret-zajmu-andrej-babis-agrofet-mimoradna-schuze-analyza-zakona_2511260600_tec?utm_source=openai))  \n\nTo potvrzuje, že **zákon o střetu zájmů žádný takový nástroj neupravuje** – proto vznikla i myšlenka, že by bylo vhodné ho do zákona výslovně dopsat.\n\n### 3.3. Stav českého práva – oficiální texty\n\n- Občanský zákoník (zákon č. 89/2012 Sb.) obsahuje úpravu **svěřenského fondu** (§ 1448 a násl.), ale pojem „slepý fond“, „blind trust“ ani zvláštní režim s nezávislým státním dohledem **nepoužívá**.  \n- Zákon o střetu zájmů (č. 159/2006 Sb.) stanoví zákazy (§ 4a–4c), ale **neobsahuje katalog nástrojů** typu blind trust, které by byly explicitně uznány jako řešení střetu; i vládní/ministerské analýzy konstatují, že zákon tyto nástroje nezná. ([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/stret-zajmu-andrej-babis-agrofet-mimoradna-schuze-analyza-zakona_2511260600_tec?utm_source=openai))  \n\nFakt, že v oficiálních textech zákonů ani v systematických komentářích není „slepý fond“ definován nebo výslovně upraven, odpovídá výše uvedeným odborným vyjádřením.\n\n### 3.4. Opačné či nuanční názory\n\nExistují názory, které **nepopírají**, že české právo blind trust výslovně nezná, ale tvrdí, že:\n\n- „Slepé trusty nejsou zakotveny v českém právu. **I tak však nic nebrání tomu, aby byl standardní český trust navržen tak, aby napodoboval fungování slepého trustu podle zvykového práva,**“ říká James Turnbull v rozhovoru pro iROZHLAS. ([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/stret-zajmu-andrej-babis-reseni-prevod-na-deti-slepy-fond_2510230500_tec?utm_source=openai))  \n\nTito autoři tedy souhlasí, že **institut jako takový český zákon nezná**, ale dovozují možnost konstrukčně jej „napodobit“ v rámci obecné úpravy svěřenského fondu – bez explicitní zákonné úpravy a bez speciálního dozorového orgánu.\n\n### Závěr k bodu 2\n\n- **Silná shoda zdrojů** (TI, iROZHLAS, Wealth Magazín + Svěřenská správa, Aktuálně, právní analýzy k zákonu o střetu zájmů) říká, že:\n  - český právní řád **nezná a neupravuje speciální institut „slepého fondu / blind trustu“**,  \n  - zákony takový nástroj **nepředvídají** jako standardní cestu řešení střetu zájmů,  \n  - část expertů soudí, že skutečný blind trust **v českém právu ani nelze plnohodnotně zřídit**, protože zakladatel má ze zákona práva, která „slepý“ charakter narušují. ([transparency.cz](https://www.transparency.cz/babisuv-nekonecny-stret-zajmu-nevyreseny-dluh-ktery-ohrozuje-cesko-i-eu/))  \n\n- **Menší část právníků** připouští, že lze v rámci českého svěřenského fondu smluvně nastavit poměry tak, aby „napodobovaly“ blind trust, což ale stále znamená, že **nejde o výslovně uznaný institut českého práva** a jeho funkčnost by závisela na výkladu soudů. ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n\nZ hlediska běžného, ne-právnického výkladu výroku („v Česku slepé fondy nejsou“) tedy tvrzení dobře odpovídá stavu právního řádu: **české právo takový nástroj nezná a nereguluje.**\n\n---\n\n## 4. Dílčí tvrzení 3: „Slepé fondy jsou v zahraničí“\n\n### 4.1. Zahraniční modely v nálezu Ústavního soudu\n\nNález ÚS Pl. ÚS 4/17 výslovně popisuje **quebecký** model:\n\n- Veřejný funkcionář má dvě možnosti:\n  1. „divestiture“ – prodej podílů nezávislému kupci.  \n  2. Vložení aktiv do **svěřenského fondu (blind trust)**, který musí splňovat zvláštní podmínky zákona o střetu zájmů (nezávislý správce, dohled Conflict of Interest and Ethics Commissioner, žádný přístup funkcionáře k aktivům ani informacím). ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n\nÚS tak sám potvrzuje, že **takový institut existuje v zahraniční (kanadské/quebecké) právní úpravě**.\n\n### 4.2. Další zahraniční příklady v českých zdrojích\n\n- Aktuálně.cz (2018) uvádí, že právníci Evropské komise doporučovali Babišovi **slepý svěřenský fond (blind trust)** a jako příklad zmiňuje, že si jej zřídila britská premiérka **Theresa Mayová**. ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/politika/babisovi-muze-se-stretem-zajmu-pomoct-slepy-sverensky-fond-v/r~d2cbbc5ef7cd11e8b04aac1f6b220ee8/))  \n- Wealth Magazín popisuje příklady ze světové politiky:  \n  – **Barack Obama** měl investice ve blind trustu spravovaném nezávislými správci,  \n  – upozorňuje na neideální řešení u **Donalda Trumpa**, kde šlo spíše o rodinnou správu než o skutečný blind trust. ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n  Článek pak shrnuje, že v zahraničí se při nástupu do veřejných funkcí **blind trusty běžně využívají** jako nástroj proti střetu zájmů. ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n- Česká justice (2025) v rozhovoru s advokátem Jakubem Hollmannem uvádí, že:  \n  – v českých podmínkách s blind trusty **nemají zkušenost**,  \n  – blind trusty založené podle **lichtenštejnského práva** jsou u politiků **standardním řešením střetu zájmů**,  \n  – „v Anglii je zaslepený fond pro politiky doporučenou praxí“ a členům britského parlamentu se doporučuje majetek do takových struktur vyčlenit. ([ceska-justice.cz](https://www.ceska-justice.cz/2025/12/detaily-o-babisove-fondu-se-lide-nemusi-nikdy-dozvedet/))  \n\nTyto zdroje korespondují se slovníkovým heslem Svěřenské správy, které hovoří o blind trustu jako o fondu, „který se **v zahraničí** využívá pro odstraňování potenciálních střetů zájmů u veřejně činných osob“. ([svsp.cz](https://www.svsp.cz/slovnik/blind-sverensky-fond))  \n\n### Závěr k bodu 3\n\nExistuje **hojná dokumentace** o používání blind trustů v zahraničí (Kanada/Québec, USA, Velká Británie, Lichtenštejnsko). České zdroje to opakovaně zmiňují jak v odborných, tak v mediálních textech. ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n\n---\n\n## 5. Celkové zhodnocení výroku\n\n### Shrnutí důkazů\n\n1. **Ústavní soud** v nálezu Pl. ÚS 4/17 skutečně pracuje s pojmem **„svěřenský fond (blind trust)“**, a to výslovně jako s **příkladem zahraniční (quebecké) úpravy**. ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n2. **Český právní řád**:  \n   - neobsahuje definici ani zvláštní úpravu „slepého fondu/blind trustu“,  \n   - zákon o střetu zájmů ani občanský zákoník s tímto institutem **nepočítají** jako s výslovným nástrojem řešení střetu,  \n   - významné analytické a odborné zdroje (TI, iROZHLAS, Svěřenská správa, Aktuálně) shodně uvádějí, že **česká právní úprava reálně slepý fond neumožňuje** nebo že „slepý fond“ české právo **nezná**. ([transparency.cz](https://www.transparency.cz/babisuv-nekonecny-stret-zajmu-nevyreseny-dluh-ktery-ohrozuje-cesko-i-eu/))  \n   - část právníků má za to, že lze **do jisté míry napodobit** funkci blind trustu v rámci českého svěřenského fondu smluvním omezením práv zakladatele, ale i oni připouštějí, že **nejde o výslovně zakotvený institut** a jeho plná účinnost je sporná. ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n3. **Zahraničí**:  \n   – blind trusty jsou výslovně upraveny nebo zavedeny v řadě právních řádů (Québec, některé provincie Kanady, USA, Velká Británie, Lichtenštejnsko) a běžně se používají pro řešení střetu zájmů politiků. Toto konstatování se opírá jak o nález ÚS, tak o odborné a mediálně-odborné texty. ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n\n### Hodnocení tvrzení Martina Kupky\n\nFormulace:\n\n> „… o slepých fondech. Ty sice nejsou v České republice, jsou v zahraničí.“\n\npři obvyklém chápání pojmu „slepý fond“ jako **zahraničního institutu blind trustu v podobě popsané Ústavním soudem (nezávislý správce, žádný přístup zakladatele, dohled zvláštního úřadu)** odpovídá dostupné evidenci:\n\n- **Ano, Ústavní soud mluví o blind trustu jako o zahraničním institutu (konkrétně quebeckém).**  \n- **Český právní řád takový institut výslovně nezná ani neupravuje; odborné zdroje dokonce tvrdí, že jej v čisté podobě v českém právu zřídit nelze.**  \n- **Blind trusty jsou naopak běžně používány a upraveny v zahraničí (Kanada/Québec, USA, Velká Británie, Lichtenštejnsko atd.).**\n\nJedinou nuancí je, že **část právníků se domnívá, že v rámci českého svěřenského fondu lze smluvně přiblížit principům blind trustu**, aniž by šlo o formální „slepý fond“ ve smyslu zahraničních předpisů. To ale s Kupkovým výrokem není v přímém rozporu – týká se to spíše možnosti „napodobení“ zahraničního institutu v rámci českého práva, nikoli existence domácího, zákonem výslovně upraveného „slepého fondu“.\n\n**Pro účely faktického posouzení výroku tedy důkazy silně podporují tvrzení, že „slepé fondy“ v podobě, o níž mluví Ústavní soud, český právní řád nemá a že jde o nástroj známý z cizích právních řádů.**\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Kuloáry Napřímo released on 2025-11-28 available from https://tn.nova.cz/zpravodajstvi/clanek/635047-musime-se-srdcari-pracovat-na-promene-reaguje-kupka-na-odchod-kuby-z-ods.\\n\\n\\nThe claim was made by: Martin Kupka, Ministr dopravy\\n\\n\\nThe claim appears in the following immediate context in the source:\\nJak vnímáte zatím, vlastně jsme slyšeli, Andrej Babiš přinesl už v tomto týdnu konečně seznam kandidátů na ministry na Hrad. Možná pro mnohé bylo překvapení, že tam došlo, řekněme, k nějakému čendži, co se týče kandidátů na ministerstva životního prostředí a také zahraničí.\\nPřekvapivé. Myslím, že každému je jasné, že tím se hajlování Filipa Turka opravdu nevyžehlí a že to je člověk, který by ve vládě stanout neměl. Pokud se tak vyjadřuje. Mimochodem, propagace nacismu, podněcování k nenávisti je v České republice trestným činem a je teda v rozporu s právním řádem České republiky. A to, že vymění ty role, má to znamenat, že není tak závažné, pokud se někdo tak vyjadřuje v roli ministra zahraničních věcí, jako když se tak bude vyjadřovat v roli ministra životního prostředí, a když se Petr Macinka chystal do role ministra životního prostředí bez kvalifikace pro takovou oblast. Co to na druhou stranu bude vypovídat o něm, včetně některých jeho statusů, které jsou často vulgární v roli ministra zahraničních věcí, tak to je trochu prašť, jako uhoď. Je pravda, že ta vyjádření Filipa Turka jsou jistě závažnější, včetně toho, kdy 17. listopadu tak jako spekuloval o tom, že vlastně celou sametovou revoluci, a to dění na Národní třídě režírovala KGB a Michail Gorbačov, úplné nesmysly, které jsou samozřejmě plivnutím do tváře těm lidem, kteří prokázali odvahu a postavili se tehdejšímu režimu a je teda nikdo nevodil za ruku a nikdo jim to zdálky nediktoval.\\nNicméně toto nejsou důvody vlastně, o které by se mohl prezident opírat tak, aby nepřekračoval, řekněme, některé své pravomoce, aby, aby hodnotil připravenost nebo nějaké kompetence prostě jednotlivých kandidátů k tomu, aby vůbec tu funkci mohli vykonávat. U Filipa Turpa Turka zmínil nějaké právní důvody, máte, řekněme, nějakou představu o tom, jaké důvody by to mohly být, protože Filip Turek říká, on si něho vědom není.\\nJá jsem právní důvody některé zmínil, protože pokud by se to opravdu týkalo těch jeho předchozích výroků, tak ty jsou v rozporu s českým právním řádem a kromě toho, že jsou v rozporu s českým právním řádem, tak se přece žádný slušný člověk nevyjadřuje. Takhle si ani lidé v hospodě nepovídají a nejhajlují běžně na sebe. Tak podle mě tohle je i pro prezidenta, i pro českou společnost přece jasná věc, co se týče těch dalších věcí, já myslím, že Petr Pavel postupuje uvážlivě, že se snaží i tím, jak vyvolal ta jednání, zabránit tomu, abychom se neocitli v situaci, kdy budeme banánovou republikou, kde ministrem vlády může být v zásadě kdokoliv bez ohledu na to, co dělal v minulosti, bez ohledu na to, jak se vyjadřoval, tak by to přece fungovat nemělo.\\nA nedělá třeba svým způsobem něco podobného, jako se vyčítalo Miloši Zemanovi, že vlastně možná trochu více, řekněme, ne úplně překračuje své kompetence, ale vlastně to, co vy jste vyčítal Miloši Zemanovi ve chvíli, kdy měl problém s některými kandidáty ve chvíli, kdy si vymýšlel nějaké další podmínky toho či onoho.\\nAle on je pan prezident v tomhle směru dost konzistentní, jednak opírá se o rozhodnutí Ústavního soudu z roku 2020, kterému vlastně ukládá, aby se zajímal o to, zda se případně premiér nedostane do toho střetu zájmů, který programové prohlášení.\\nAč o tom, co tam má nebo nemá být, tomu ukládá také.\\nTo myslím, že neukládá, ale myslím, že jsme v situaci, kdy Andrej Babiš vlastně tuhle klíčovou podmínku vztahující se k ústavě vztahující se k rozhodnutí Ústavního soudu a k zákonu o střetu zájmů, nenaplnil. Máme tu vládu, kde někteří ti kandidáti narážejí na velký odpor veřejnosti i v tom směru, že ta veřejnost přece se taky snadno nevypořádá s tím, že by ministrem měl být někdo, kdo se takhle vyjadřuje historicky, ale i docela nedávno, no, a to jsou věci, které prostě prezident řešit má, má se snažit jim zabránit a hlavně on reálně žádné jmenování nezdržuje. To koneckonců vyplývá i z těch kroků, které říkal Andrej Babiš, a to, že musí splnit zákonné podmínky jako budoucí premiér, to je jasné. A ani opozice v tomhle směru nějak nebrání vzniku té vlády, naopak je jasné, že v našem zájmu České republiky je, aby tu vládla vláda, která se může opřít o většinu v Poslanecké sněmovně, o většinu, která vyhrála volby. O tom není sporu, ale je také jasné, že i při tomhle pro všechny musejí platit zákony.\\nPřece tím, že vyhrajete volby, tak se nestanete tou kategorií zvířat, která jsou si rovnější. A kdyby to tak mělo být, tak to samozřejmě znamená obrovskou ztrátu důvěry v to, že Česká republika funguje, jak má.\\nVy si myslíte, že tam jsou pouze dvě možnosti. Viděli jsme Piráty, kteří vystoupili na tiskové konferenci s tím Andreji Babiši, buď prodej Agrofert, nebo nebuď premiér. Nic jiného mezitím není.\\nTo je na právnících. Ten názor Ústavního soudu, který jsem zmiňoval, tak hovoří o slepých fondech. Ty sice nejsou v České republice, jsou v zahraničí. Další právní názory pak rozebírají to, jak by to mělo vypadat, aby to neznamenalo to, co jsme už vlastně trochu viděli u Andreje Babiše, že si to na chvíli odložil a pak si to vzal zpátky. A je jasné, že v takovém případě i jako premiér bude ovlivňovat to, jak se těm firmám bude dařit a jde o to, aby tady vítězili zájmy státu, nikoliv zájmy konkrétní osoby, protože pak opravdu má každý pocit, že se všem neměří stejně, a to je pro demokracii proto, abychom ten stát měli prostě rádi a žili v něm spokojeně. Tak to je překážka.\\nDalším ústředím tématem nejen tohoto týdne, ale i týdnů minulých byl rozpočet, respektive návrh státního rozpočtu na příští rok. Jak vy vnímáte kritiku Národní rozpočtové rady, že o ten rozpočet, řekněme, není pravdivý.\\nRozpočtová rada vlády řekla, kde vidí problémy. A my jsme se nijak netajili tím, že v oblasti dopravy je potřeba zajistit další finanční prostředky. Zároveň předsedá Národní rozpočtové rady vlády, také říká, že se bojí toho, že ta další vláda, která už ukázala svůj vládní program, tak bude v tomto směru deficity ještě mnohem víc zvyšovat. A to není dobře pro budoucnost České republiky. To, co se dařilo v těch předchozích letech, bylo snižování deficitu a zároveň rekordní investice. A já bych si přál, abychom v, dokázali v té trajektorii, kdybychom mohli vydržet, protože to znamená, že splatíme historické dluhy, budou se stavět důležité dopravní stavby a zároveň budeme hospodařit odpovědně.\\n\\nProvide a structured, citation-backed verification of the claim: '(...) o slepých fondech. Ty sice nejsou v České republice, jsou v zahraničí.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 341.27 seconds\n## Agent work log\n```\nREASONING: \nWEB SEARCH: None\nREASONING: \nWEB SEARCH: \"slepý fond\" \"Andrej Babiš\"\nREASONING: \nWEB SEARCH: \"Zřízení slepého fondu v České republice\"\nREASONING: \nWEB SEARCH: \"Pl. Ús 4/17\" \"slepý trust\"\nREASONING: \nWEB SEARCH: \"slepý fond\" site:zakonyprolidi.cz\nREASONING: \nWEB SEARCH: \"Zřízení slepého fondu\"\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nWEB SEARCH: \"blind trusty neni mozne v ceskem pravu zridit\"\nREASONING: \nWEB SEARCH: \"zákon o střetu zájmů\" \"slepý\"\nREASONING: \nOPEN PAGE: None\nREASONING: \nREASONING: \nOPEN PAGE: None\nREASONING: \nREASONING: \nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Ústavní soud v nálezu k zákonu o střetu zájmů skutečně zmiňuje blind trust. Český právní řád samostatný institut „slepého fondu“ výslovně neupravuje a blind trusty jsou zejména zahraničním nástrojem. Výrok Martina Kupky proto hodnotíme jako pravdivý.</p>\n\n<p>Výrok Martina Kupky zazněl v debatě o střetu zájmů a o tom, jak interpretovat nález Ústavního soudu k tzv. lex Babiš, tedy k zákonu o střetu zájmů. Kupka při tom uvedl, že nález Ústavního soudu mluví o „slepých fondech“ (blind trustech) a že tyto fondy v České republice neexistují, nýbrž fungují v zahraničí.</p>\n\n<p>Výrok obsahuje tři ověřitelná tvrzení: zaprvé, že Ústavní soud v nálezu z roku 2020 pojem blind trust skutečně používá. Zadruhé, že český právní řád nezná vlastní, výslovně upravený institut „slepého fondu“ či blind trustu. Zatřetí, že slepé fondy jsou nástrojem používaným v zahraničí. Níže tato tvrzení hodnotíme postupně.</p>\n\n<p>Ad první tvrzení: V nálezu Ústavního soudu k zákonu o střetu zájmů, publikovaném ve Sbírce zákonů pod číslem <a href=\"https://www.zakonyprolidi.cz/cs/2020-148\">148/2020 Sb.</a>, soud v pasáži věnované srovnání s kanadskou úpravou opravdu přímo pracuje s pojmem blind trust. V bodech 208–209 nálezu Ústavní soud popisuje kanadský systém pro řešení střetu zájmů veřejných funkcionářů a uvádí, že tamní právní úprava jim dává dvě možnosti, jak se zbavit „kontrolovaných aktiv“ – prodej (divestiture) nebo vložení majetku do svěřenského fondu označeného jako blind trust. Soud výslovně píše, že <i>„druhou možností je vložit svá aktiva (…) do svěřenského fondu (blind trust), který však musí splňovat zvláštní podmínky zákona o střetu zájmů“</i> a dále popisuje roli nezávislého správce a úřadu Conflict of Interest and Ethics Commissioner v Kanadě.</p>\n\n<p>Tato pasáž je součástí odůvodnění nálezu a slouží jako komparativní argument: soud ukazuje, jak přísně může být střet zájmů nastaven v jiném právním řádu a jakou roli v tom hrají právě blind trusty. Skutečnost, že nález z roku 2020 tento institut pojmenovává a rozebírá, je tak jednoznačně doložena oficiálním textem rozhodnutí ve Sbírce zákonů <a href=\"https://www.zakonyprolidi.cz/cs/2020-148\">148/2020 Sb.</a>. Tvrzení, že „názor Ústavního soudu hovoří o slepých fondech“, je tedy fakticky pravdivé.</p>\n\n<p>Ad druhé tvrzení: Český právní řád zná obecný institut svěřenského fondu, který je upraven v občanském zákoníku v ustanoveních <a href=\"https://www.zakonyprolidi.cz/cs/2012-89#f1472911\">§ 1448 a násl. zákona č. 89/2012 Sb.</a>. Zjednodušeně jde o majetek vyčleněný ze jmění zakladatele, který spravuje správce ve prospěch obmyšlených osob podle pravidel stanovených ve statutu fondu. Tento institut se používá například pro dlouhodobou správu rodinného majetku, filantropii či mezigenerační předání majetku, jak shrnují i praktické příručky k svěřenským fondům na odborných portálech typu <a href=\"https://www.kurzy.cz/investice/sverensky-fond/\">Kurzy.cz</a>.</p>\n\n<p>Občanský zákoník ani zákon o střetu zájmů však nikde výslovně neupravují zvláštní podtyp „slepého svěřenského fondu“ či blind trustu. Ani vyhledávání v databázích českých právních předpisů neukazuje, že by se pojem „blind trust“ objevoval v textu kteréhokoli obecně závazného zákona nebo vyhlášky; výjimkou je právě citovaný nález Ústavního soudu publikovaný jako <a href=\"https://www.zakonyprolidi.cz/cs/2020-148\">148/2020 Sb.</a>, který se však týká výkladu ústavnosti zákona, nikoli zavedení nového soukromoprávního institutu.</p>\n\n<p>Na tuto skutečnost upozorňují i odborné populárně‑právní texty. Stručný výklad na portálu <a href=\"https://www.kurzy.cz/investice/sverensky-fond/\">Kurzy.cz</a> rozlišuje běžný svěřenský fond a tzv. slepý svěřenský fond a výslovně uvádí, že <i>„v ČR není institut slepého svěřenského fondu specifikován“</i>. Stejný závěr sdílí i specializovaná společnost Svěřenská správa, která ve svém článku pro magazín Wealth popisuje, že v českém právu je blind trust problematický právě kvůli zákonnému právu zakladatele dohlížet na činnost správce a případně jej odvolat. Autoři shrnují, že část právníků proto zastává názor, že skutečný blind trust v českých podmínkách nelze zřídit, zatímco jiní soudí, že by to šlo jen za cenu toho, že se sám zakladatel dobrovolně vzdá části práv, která mu občanský zákoník standardně přiznává (<a href=\"https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/\">Wealth Magazín</a>, shrnující stanoviska Svěřenské správy).</p>\n\n<p>Akademická literatura k trustům přitom blind trust popisuje jako jeden z mnoha podtypů trustu, nikoli jako zvláštní institucionální kategorii českého práva. Rigorózní práce o svěřenském fondu z Právnické fakulty Univerzity Karlovy vysvětluje, že <i>„jako blind trust se označuje ten trust, v němž je trustee nadán úplnou diskrecí, jak bude majetek spravovat“</i>, a spojuje tento typ zejména s řešením střetu zájmů v zahraničních právních úpravách, především v Québecu a dalších trustových jurisdikcích (<a href=\"https://dspace.cuni.cz/bitstream/handle/20.500.11956/79456/150028353.pdf?isAllowed=y&sequence=1\">rigorózní práce Dominika Fojtů, str. 44–45</a>). Práce přitom blind trust popisuje komparativně, nikoli jako kategorii, kterou by české právo výslovně znalo.</p>\n\n<p>Souhrnně řečeno, v českém právním řádu existuje obecný rámec svěřenských fondů, v němž si lze smluvně „přiblížit“ zprávu fondu k režimu blind trustu, ale žádný zákon nevymezuje slepý svěřenský fond jako samostatně definovaný institut. Toto konstatování je v souladu jak s odbornými články Svěřenské správy a portálu <a href=\"https://www.kurzy.cz/investice/sverensky-fond/\">Kurzy.cz</a>, tak s akademickou literaturou. Tvrzení, že český právní řád nemá vlastní výslovně upravený institut slepého fondu / blind trustu, proto hodnotíme jako pravdivé, s tím, že v praxi jde spíše o smluvní variaci obecného svěřenského fondu než o zákonem kodifikovaný nástroj.</p>\n\n<p>Ad třetí tvrzení: Ústavní soud ve zmíněném nálezu neuvádí blind trust jako ryze teoretickou konstrukci, ale jako reálně používaný nástroj v zahraničí. V bodech 208–209 nálezu č. <a href=\"https://www.zakonyprolidi.cz/cs/2020-148\">148/2020 Sb.</a> soud podrobně popisuje kanadskou úpravu: citovaná ustanovení kanadského zákona o střetu zájmů vyžadují, aby veřejní funkcionáři držící tzv. controlled assets tato aktiva buď odprodali v transakci na principu arm’s length, nebo je převedli do blind trustu, který spravuje nezávislý správce pod dohledem úřadu Conflict of Interest and Ethics Commissioner. Ústavní soud tím zjevně ukazuje, že blind trusty tvoří standardní součást kanadského systému řešení střetu zájmů, přičemž se odkazuje i na québeckou koncepci svěřenských fondů, z níž vychází český občanský zákoník.</p>\n\n<p>Stejný obraz vyplývá i z oficiálních kanadských materiálů. Úřad Conflict of Interest and Ethics Commissioner ve svém podkladu „Blind Trusts“ vysvětluje, že podle federálního <a href=\"https://prciec-rpccie.parl.gc.ca/EN/ReportsAndPublications/Pages/BackgrounderBlindTrust.aspx\">Conflict of Interest Act</a> musí tzv. reporting public office holders divestovat kontrolovaná aktiva buď jejich prodejem v transakci na principu arm’s length, nebo jejich vložením do blind trustu po dobu výkonu veřejné funkce. Dokument také definuje blind trust jako typ trustu, v němž má správce plnou pravomoc nakládat s majetkem a nesmí příjemci sdělovat informace o každodenních operacích fondu. To potvrzuje, že blind trusty nejsou jen teoretickou kategorií, ale běžně používaným nástrojem v kanadské praxi.</p>\n\n<p>V USA shrnuje používání blind trustů přehled Národní konference státních legislativ <a href=\"https://www.ncsl.org/ethics/blind-trusts\">National Conference of State Legislatures</a>. Dokument uvádí, že některé státy umožňují nebo doporučují, aby zákonodárci a jiní veřejní činitelé vkládali aktiva, která mohou zakládat střet zájmů, do blind trustů; takový trust je popsán jako majetkové uspořádání, v němž je majetek svěřen správci a funkcionář nemá přístup k informacím o konkrétních investicích. Přehled tak jasně potvrzuje, že blind trusty se využívají i v amerických jurisdikcích jako nástroj zvládání střetu zájmů.</p>\n\n<p>Ve Spojeném království jsou blind trusty rovněž součástí praxe při správě majetku ministrů. Oficiální seznam ministerských zájmů zveřejňovaný britskou vládou (List of Ministers’ Interests) výslovně uvádí jako jednu z kategorií finančních zájmů „Blind trust / blind management arrangement“, jak je patrné například u záznamu tehdejšího kancléře státní pokladny Jeremyho Hunta v seznamu z prosince 2023 (<a href=\"https://www.gov.uk/government/publications/previous-lists-of-ministers-interests/list-of-ministers-interests-december-2023-html\">List of Ministers’ Interests – December 2023</a>). Kabinetní úřad současně ve vysvětlujícím textu označuje blind trusty za „dlouhodobě používaný mechanismus“ k ochraně ministrů při nakládání s jejich soukromými zájmy. Britská média, například deníky <a href=\"https://www.theguardian.com/politics/2017/jan/10/theresa-may-urged-to-disclose-contents-of-blind-trust\">The Guardian</a> a <a href=\"https://www.independent.co.uk/news/uk/politics/theresa-may-declare-financial-investments-hold-shares-blind-trust-prime-minister-downing-street-cabinet-home-secretary-a7520826.html\">The Independent</a>, popisují, že blind trusty využili k odklonění svých investic i vysoce postavení politici jako Theresa May nebo další členové vlád.</p>\n\n<p>Právnická literatura a encyklopedické přehledy pak shrnují obecnou definici a používání blind trustů napříč zeměmi. Například mezinárodní encyklopedické heslo <a href=\"https://en.wikipedia.org/wiki/Blind_trust\">„Blind trust“</a> popisuje blind trust jako trust, v němž příjemci ani zakladatel nemají přehled o konkrétních aktivech, a dodává, že tento nástroj používají politici a jiné citlivě postavené osoby právě proto, aby předešli střetu zájmů. Rigorózní práce Dominika Fojtů z Právnické fakulty Univerzity Karlovy, která čerpá i z knihy o québeckém právu trustů (<a href=\"https://dspace.cuni.cz/bitstream/handle/20.500.11956/79456/150028353.pdf?isAllowed=y&sequence=1\">Fojtů, Svěřenský fond, s. 44–45</a>), označuje blind trust přímo za nástroj, který se v praxi používá ke zmírnění střetu zájmů a jako antikorupční opatření.</p>\n\n<p>Z těchto zdrojů vyplývá, že blind trusty jsou standardním nástrojem především v zahraničí – v Kanadě (včetně québecké tradice trustů), v řadě států USA a ve Spojeném království. V českém prostředí se o nich mluví zejména v souvislosti s inspirací pro zákon o střetu zájmů a v odborné diskusi o možnostech využití svěřenského fondu, ale jejich právní režim je převzat komparativně, nikoli jako plně kodifikovaný domácí institut.</p>\n\n<p>Celkové zhodnocení: První dílčí tvrzení Martina Kupky, totiž že nález Ústavního soudu k zákonu o střetu zájmů skutečně „hovoří o slepých fondech“, je doloženo textem nálezu č. <a href=\"https://www.zakonyprolidi.cz/cs/2020-148\">148/2020 Sb.</a>, kde soud v bodech 208–209 popisuje kanadský model blind trustu. Druhé tvrzení, že český právní řád nezná výslovně upravený samostatný institut slepého fondu, potvrzují jak absence tohoto pojmu v zákonodárství, tak odborné texty Svěřenské správy a dalších autorů, podle nichž slepý svěřenský fond není v českém právu specifikován a jeho existence je sporná právě pro nedostatek zákonné opory. Třetí tvrzení, že slepé fondy / blind trusty se používají v zahraničí, dokládají jak komparativní pasáže nálezu Ústavního soudu, tak oficiální kanadské, americké a britské materiály popisující jejich konkrétní využití.</p>\n\n<p>Výrok, že slepé fondy, o nichž Ústavní soud v nálezu k zákonu o střetu zájmů mluví, „nejsou v České republice, ale v zahraničí“, je s ohledem na výše uvedené skutečnosti fakticky správný, byť zjednodušuje složitější diskusi o tom, jak daleko lze svěřenský fond v českém právu smluvně přiblížit k režimu blind trustu. Jádro sdělení – že Ústavní soud uvádí blind trust jako zahraniční institut a že české právo jej samostatně neupravuje – však odpovídá dostupným informacím. Výrok Martina Kupky proto hodnotíme jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_06deb9fac0252746006936cb11ee70819dbd8d1c7cd96c9849",
+    "created_at": 1765198609.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_06deb9fac0252746006936cb1e976c819db66a676651f577d5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb2fe590819d9437219975fa9f02",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb30edd4819d81f28d4f03033b7c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb314024819d9a5522fc4c8e05b6",
+        "action": {
+          "query": "\"slepý fond\" \"Andrej Babiš\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb35ef90819db276741672216583",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb3b6abc819da95b3d4fae6c3e68",
+        "action": {
+          "query": "\"Zřízení slepého fondu v České republice\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb3e3e6c819d9b8656a7e9a12784",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb4490c0819d93d2cdc461739a66",
+        "action": {
+          "query": "\"Pl. Ús 4/17\" \"slepý trust\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb485954819d92ab4063fc0678f6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb4cf2ec819da317a46fcdded619",
+        "action": {
+          "query": "\"slepý fond\" site:zakonyprolidi.cz",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb4f9964819da7b897731b02fe6d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb6974f0819dabc683f210cd21c5",
+        "action": {
+          "query": "\"Zřízení slepého fondu\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb6d1c74819da7bece63d9ac2b61",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb703688819db5ac056ba2b2adf4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb719858819da1d704ffba6ef890",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb780da0819daebd41649d6bc096",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb7a732c819db4e9b95d5e2d63e4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb7c23a4819da88259044967c511",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb7db8d8819db394f4b056dc279b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb867ae8819d9185b4ad9989bc37",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb87b69c819d9baeb75ca0568931",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb89fe38819d8228fca3320c9284",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb8c0828819d92710610d610f3a7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb94ac08819db68f48a65eadc8c3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb96c3c8819d81291cbfb0265b6e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cb97f580819da3b28e13631dac0f",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "blind trust"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cb9aa2b8819dbf0d313f2ac390a3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cbb11670819db67cb928198942d3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cbb49f1c819dad0788e8a8b22d7b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cbba9284819db0b66895dd735175",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cbbef57c819daef9a37194619505",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cbc25548819daf62af9c68d84541",
+        "action": {
+          "query": "\"blind trusty neni mozne v ceskem pravu zridit\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cbc5e1dc819da5de025859c8967f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cbd29778819db5df0f73be2d7528",
+        "action": {
+          "query": "\"zákon o střetu zájmů\" \"slepý\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cbd6b5a4819da5912160379d169e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cbe84ab8819d998ccd6746a3b730",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cbea5cec819dae460fd571a4d968",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cbea97bc819dad5db778aa2fa3bd",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "blind trust"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cbed3c7c819d8cd1a3b5bc66e3c8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cbf18b74819d9c0c1ab1431b4ad9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cbf39580819dbeff58a79c6d2c5c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_06deb9fac0252746006936cbf51148819da8d3f8e6beb3724a",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "slepé fondy"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06deb9fac0252746006936cbf78d8c819d900f47d6f8e83b4f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_06deb9fac0252746006936cc0b2750819da95bcbe8e5bcef4d",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1360,
+                "start_index": 1199,
+                "title": "Pl.ÚS 4/17 #2 — Zákon o střetu zájmů (lex Babiš) | Mezi—soudy",
+                "type": "url_citation",
+                "url": "https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis"
+              },
+              {
+                "end_index": 1712,
+                "start_index": 1551,
+                "title": "Pl.ÚS 4/17 #2 — Zákon o střetu zájmů (lex Babiš) | Mezi—soudy",
+                "type": "url_citation",
+                "url": "https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis"
+              },
+              {
+                "end_index": 2034,
+                "start_index": 1955,
+                "title": "\n10 A 92/2024 - 97 \n",
+                "type": "url_citation",
+                "url": "https://www.zakonyprolidi.cz/judikat/msph/10-a-92-2024-97"
+              },
+              {
+                "end_index": 3000,
+                "start_index": 2839,
+                "title": "Pl.ÚS 4/17 #2 — Zákon o střetu zájmů (lex Babiš) | Mezi—soudy",
+                "type": "url_citation",
+                "url": "https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis"
+              },
+              {
+                "end_index": 3419,
+                "start_index": 3358,
+                "title": "Blind svěřenský fond | Slovník | Svěřenská správa",
+                "type": "url_citation",
+                "url": "https://www.svsp.cz/slovnik/blind-sverensky-fond"
+              },
+              {
+                "end_index": 3900,
+                "start_index": 3779,
+                "title": "Babišův nekonečný střet zájmů: nevyřešený dluh, který ohrožuje Česko i EU - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/babisuv-nekonecny-stret-zajmu-nevyreseny-dluh-ktery-ohrozuje-cesko-i-eu/"
+              },
+              {
+                "end_index": 4550,
+                "start_index": 4391,
+                "title": "České právo slepý svěřenský fond nezná. Babiš by ho pro Agrofert mohl založit v jiné zemi, říká odborník",
+                "type": "url_citation",
+                "url": "https://www.seznam.cz/komentare/267079511-ceske-pravo-slepy-sverensky-fond-nezna-babis-by-ho-pro-agrofert-mohl-zalozit-v-jine-zemi-rika-odbornik"
+              },
+              {
+                "end_index": 5311,
+                "start_index": 5244,
+                "title": "Co je tzv. blind trust neboli slepý svěřenský fond a kdy ho zřídit? - Wealth Magazín",
+                "type": "url_citation",
+                "url": "https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/"
+              },
+              {
+                "end_index": 5644,
+                "start_index": 5577,
+                "title": "Co je tzv. blind trust neboli slepý svěřenský fond a kdy ho zřídit? - Wealth Magazín",
+                "type": "url_citation",
+                "url": "https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/"
+              },
+              {
+                "end_index": 6276,
+                "start_index": 6113,
+                "title": "Europrávníci doporučují Babišovi slepý fond, jako má Mayová. V Česku je to problém - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/domaci/politika/babisovi-muze-se-stretem-zajmu-pomoct-slepy-sverensky-fond-v/r~d2cbbc5ef7cd11e8b04aac1f6b220ee8/"
+              },
+              {
+                "end_index": 6597,
+                "start_index": 6434,
+                "title": "Europrávníci doporučují Babišovi slepý fond, jako má Mayová. V Česku je to problém - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/domaci/politika/babisovi-muze-se-stretem-zajmu-pomoct-slepy-sverensky-fond-v/r~d2cbbc5ef7cd11e8b04aac1f6b220ee8/"
+              },
+              {
+                "end_index": 7031,
+                "start_index": 6880,
+                "title": "Pětikoalice mohla řešení Babišova střetu vepsat do zákona | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/stret-zajmu-andrej-babis-agrofet-mimoradna-schuze-analyza-zakona_2511260600_tec?utm_source=openai"
+              },
+              {
+                "end_index": 7830,
+                "start_index": 7679,
+                "title": "Pětikoalice mohla řešení Babišova střetu vepsat do zákona | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/stret-zajmu-andrej-babis-agrofet-mimoradna-schuze-analyza-zakona_2511260600_tec?utm_source=openai"
+              },
+              {
+                "end_index": 8515,
+                "start_index": 8371,
+                "title": "Babiš může převést Agrofert na děti, aby vyřešil střet zájmů | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/stret-zajmu-andrej-babis-reseni-prevod-na-deti-slepy-fond_2510230500_tec?utm_source=openai"
+              },
+              {
+                "end_index": 9384,
+                "start_index": 9263,
+                "title": "Babišův nekonečný střet zájmů: nevyřešený dluh, který ohrožuje Česko i EU - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/babisuv-nekonecny-stret-zajmu-nevyreseny-dluh-ktery-ohrozuje-cesko-i-eu/"
+              },
+              {
+                "end_index": 9718,
+                "start_index": 9651,
+                "title": "Co je tzv. blind trust neboli slepý svěřenský fond a kdy ho zřídit? - Wealth Magazín",
+                "type": "url_citation",
+                "url": "https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/"
+              },
+              {
+                "end_index": 10577,
+                "start_index": 10416,
+                "title": "Pl.ÚS 4/17 #2 — Zákon o střetu zájmů (lex Babiš) | Mezi—soudy",
+                "type": "url_citation",
+                "url": "https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis"
+              },
+              {
+                "end_index": 11099,
+                "start_index": 10936,
+                "title": "Europrávníci doporučují Babišovi slepý fond, jako má Mayová. V Česku je to problém - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/domaci/politika/babisovi-muze-se-stretem-zajmu-pomoct-slepy-sverensky-fond-v/r~d2cbbc5ef7cd11e8b04aac1f6b220ee8/"
+              },
+              {
+                "end_index": 11430,
+                "start_index": 11363,
+                "title": "Co je tzv. blind trust neboli slepý svěřenský fond a kdy ho zřídit? - Wealth Magazín",
+                "type": "url_citation",
+                "url": "https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/"
+              },
+              {
+                "end_index": 11638,
+                "start_index": 11571,
+                "title": "Co je tzv. blind trust neboli slepý svěřenský fond a kdy ho zřídit? - Wealth Magazín",
+                "type": "url_citation",
+                "url": "https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/"
+              },
+              {
+                "end_index": 12161,
+                "start_index": 12047,
+                "title": "Detaily o Babišově fondu se lidé nemusí nikdy dozvědět, shodují se experti - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/12/detaily-o-babisove-fondu-se-lide-nemusi-nikdy-dozvedet/"
+              },
+              {
+                "end_index": 12436,
+                "start_index": 12375,
+                "title": "Blind svěřenský fond | Slovník | Svěřenská správa",
+                "type": "url_citation",
+                "url": "https://www.svsp.cz/slovnik/blind-sverensky-fond"
+              },
+              {
+                "end_index": 12821,
+                "start_index": 12660,
+                "title": "Pl.ÚS 4/17 #2 — Zákon o střetu zájmů (lex Babiš) | Mezi—soudy",
+                "type": "url_citation",
+                "url": "https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis"
+              },
+              {
+                "end_index": 13212,
+                "start_index": 13051,
+                "title": "Pl.ÚS 4/17 #2 — Zákon o střetu zájmů (lex Babiš) | Mezi—soudy",
+                "type": "url_citation",
+                "url": "https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis"
+              },
+              {
+                "end_index": 13766,
+                "start_index": 13645,
+                "title": "Babišův nekonečný střet zájmů: nevyřešený dluh, který ohrožuje Česko i EU - Transparency International",
+                "type": "url_citation",
+                "url": "https://www.transparency.cz/babisuv-nekonecny-stret-zajmu-nevyreseny-dluh-ktery-ohrozuje-cesko-i-eu/"
+              },
+              {
+                "end_index": 14088,
+                "start_index": 14021,
+                "title": "Co je tzv. blind trust neboli slepý svěřenský fond a kdy ho zřídit? - Wealth Magazín",
+                "type": "url_citation",
+                "url": "https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/"
+              },
+              {
+                "end_index": 14559,
+                "start_index": 14398,
+                "title": "Pl.ÚS 4/17 #2 — Zákon o střetu zájmů (lex Babiš) | Mezi—soudy",
+                "type": "url_citation",
+                "url": "https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis"
+              }
+            ],
+            "text": "## 1. Co přesně ověřujeme\n\nCitovaná věta Martina Kupky zní v kontextu takto (parafráze):\n\n> „Ten názor Ústavního soudu (…) hovoří o slepých fondech. Ty sice nejsou v České republice, jsou v zahraničí.“\n\nOvěřujeme zejména tato dílčí tvrzení:\n\n1. **Ústavní soud v nálezu z roku 2020 skutečně mluví o „slepém fondu“ (blind trustu).**  \n2. **V českém právním řádu neexistuje vlastní, výslovně upravený institut „slepého fondu / blind trustu“.**  \n3. **„Slepé fondy“ (blind trusty) jsou nástrojem používaným v zahraničí (např. Québec, USA, Velká Británie, Lichtenštejnsko).**\n\nNíže uvádím důkazy a případné protiargumenty k jednotlivým bodům.\n\n---\n\n## 2. Dílčí tvrzení 1: Ústavní soud skutečně hovoří o „blind trustu“\n\n### Důkazy\n\nNález Ústavního soudu Pl. ÚS 4/17 ze dne 11. 2. 2020 (tzv. „lex Babiš“) v pasáži o zahraniční inspiraci (Québec) výslovně zmiňuje „svěřenský fond (blind trust)“:\n\n- V bodě 208 nálezu se uvádí, že podle quebecké úpravy má veřejný funkcionář dvě možnosti:  \n  a) prodat podíly (divestiture) nebo  \n  b)  \n  > „vložit svá aktiva (assets) do svěřenského fondu (blind trust), který však musí splňovat zvláštní podmínky zákona o střetu zájmů, tak aby jej nebylo možno obcházet.“ ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n\n  Nález dále popisuje, že majetek je pod kontrolou nezávislého správce a pod dohledem zvláštního úřadu (Conflict of Interest and Ethics Commissioner) a funkcionář k aktivům nemá přístup. ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n\n- Stejný úsek nálezu cituje i Městský soud v Praze v rozsudku 10 A 92/2024–97, kde shrnuje:  \n  > „Druhou možností je vložit svá aktiva do svěřenského fondu (blind trust), který však musí splňovat zvláštní podmínky zákona o střetu zájmů…“ ([zakonyprolidi.cz](https://www.zakonyprolidi.cz/judikat/msph/10-a-92-2024-97))  \n\n### Závěr k bodu 1\n\nAno, **Ústavní soud v nálezu z roku 2020 skutečně pracuje s pojmem „svěřenský fond (blind trust)“** jako s příkladem ze zahraniční (quebecké) právní úpravy.\n\n---\n\n## 3. Dílčí tvrzení 2: „Slepé fondy“ nejsou v českém právním řádu\n\n### 3.1. Jak je „slepý fond“ chápán\n\nV české debatě se „slepý fond“ zpravidla chápe jako:\n\n> **zahraniční blind trust**, tj. svěřenský (trustový) fond, v němž  \n> – zakladatel ani obmyšlení nemohou ovlivňovat správu majetku,  \n> – nemají přístup k informacím o složení majetku a transakcích,  \n> – správu vykonává nezávislý profesionální správce pod dohledem zvláštního veřejného orgánu.\n\nTakto jej popisuje např.:\n\n- Mezizoudní databáze při citaci nálezu ÚS o quebeckém modelu („blind trust“ s dohledem Conflict of Interest and Ethics Commissioner). ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n- Odborný slovník společnosti Svěřenská správa:  \n  > „Blind Trust neboli ‚slepý svěřenský fond‘ je fond, který se **v zahraničí** využívá pro odstraňování potenciálních střetů zájmů u osob vstupujících do státního úřadu nebo zastávají jinou veřejnou funkci… Zakladatel … není po jeho založení obeznámen s následným obsahem ani typy majetkových operací.“ ([svsp.cz](https://www.svsp.cz/slovnik/blind-sverensky-fond))  \n\n### 3.2. Odborné a analytické zdroje k absenci „slepého fondu“ v českém právu\n\n#### a) Transparency International (říjen 2025 – před výrokem)\n\nTransparency International ČR v analýze ke střetu zájmů Andreje Babiše uvádí:\n\n> „Zřízení slepého fondu v České republice **navíc právní řád neumožňuje**, Andrej Babiš by tedy musel zvažovat přesun do zahraničí.“ ([transparency.cz](https://www.transparency.cz/babisuv-nekonecny-stret-zajmu-nevyreseny-dluh-ktery-ohrozuje-cesko-i-eu/))  \n\nTento text vysvětluje, že slepý fond (blind trust) jako institut s požadovanými parametry **není českým právem umožněn** a případné řešení by muselo být založeno v zahraniční jurisdikci.\n\n#### b) iROZHLAS – rozhovor s odborníkem na svěřenské fondy (cca 18 dní před výrokem)\n\niROZHLAS v článku „České právo slepý svěřenský fond nezná…“ (cca 10.–20. 11. 2025) cituje Pavla Koláře (Svěřenská správa):\n\n> „Důležité ale je, že **česká právní úprava reálně slepý svěřenský fond neumožňuje**.“ ([seznam.cz](https://www.seznam.cz/komentare/267079511-ceske-pravo-slepy-sverensky-fond-nezna-babis-by-ho-pro-agrofert-mohl-zalozit-v-jine-zemi-rika-odbornik))  \n\nKolář výslovně říká, že **česká právní úprava slepý svěřenský fond neumožňuje** a že tu není speciální právní úprava pro takový nástroj.\n\n#### c) Analýza Wealth Magazínu (využívá článek Svěřenské správy z roku 2019)\n\nWealth Magazín shrnuje diskusi českých právníků:\n\n- Cituje postoj jedné skupiny právníků (Svěřenská správa):\n\n  > „Jedna skupina právníků zastává názor, že **blind trusty není možné v českém právu zřídit**, protože v občanském zákoníku, jenž svěřenské fondy upravuje, je zakotveno, že zakladatel má právo dohledu… Právě díky výsostnému postavení zakladatele, který může mít přímý i nepřímý vliv na svěřenský fond, **není možné v českých podmínkách blind trust vytvořit**.“ ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n\n- Druhá skupina právníků podle téhož článku připouští, že by bylo možné alespoň smluvně **napodobit** blind trust tím, že se zakladatel sám vzdá části svých práv. I tato varianta je ale považována za právně nejistou (není jasné, jak by se k ní postavily soudy). ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n\n#### d) Aktuálně.cz (2018)\n\nUž v roce 2018 server Aktuálně.cz v článku „Europrávníci doporučují Babišovi slepý fond, jako má Mayová. V Česku je to problém“ shrnuje postoje odborníků:\n\n- Eva Hrušková připouští, že parametry fondu by teoreticky šly nastavit tak, aby připomínal blind trust.  \n- Naproti tomu Pavel Kolář upozorňuje, že české zákony dávají zakladateli právo požadovat informace od správce, **což podle něj založení skutečně „slepého“ fondu vylučuje**. ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/politika/babisovi-muze-se-stretem-zajmu-pomoct-slepy-sverensky-fond-v/r~d2cbbc5ef7cd11e8b04aac1f6b220ee8/))  \n- Filip Soukup dodává, že aby Babiš plně vyhověl požadavkům, „**musel by zřídit trust v zahraničí**“, např. ve Velké Británii, kde takové trusty existují. ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/politika/babisovi-muze-se-stretem-zajmu-pomoct-slepy-sverensky-fond-v/r~d2cbbc5ef7cd11e8b04aac1f6b220ee8/))  \n\n#### e) Analýzy k zákonu o střetu zájmů\n\nAnalýza, o níž píše iROZHLAS koncem listopadu 2025 („Pětikoalice mohla řešení Babišova střetu vepsat do zákona“), uvádí, že česká legislativa **postupy řešení střetu zájmů neupravuje** a „v tuhle chvíli například nezná tzv. slepé fondy“. ([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/stret-zajmu-andrej-babis-agrofet-mimoradna-schuze-analyza-zakona_2511260600_tec?utm_source=openai))  \n\nTo potvrzuje, že **zákon o střetu zájmů žádný takový nástroj neupravuje** – proto vznikla i myšlenka, že by bylo vhodné ho do zákona výslovně dopsat.\n\n### 3.3. Stav českého práva – oficiální texty\n\n- Občanský zákoník (zákon č. 89/2012 Sb.) obsahuje úpravu **svěřenského fondu** (§ 1448 a násl.), ale pojem „slepý fond“, „blind trust“ ani zvláštní režim s nezávislým státním dohledem **nepoužívá**.  \n- Zákon o střetu zájmů (č. 159/2006 Sb.) stanoví zákazy (§ 4a–4c), ale **neobsahuje katalog nástrojů** typu blind trust, které by byly explicitně uznány jako řešení střetu; i vládní/ministerské analýzy konstatují, že zákon tyto nástroje nezná. ([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/stret-zajmu-andrej-babis-agrofet-mimoradna-schuze-analyza-zakona_2511260600_tec?utm_source=openai))  \n\nFakt, že v oficiálních textech zákonů ani v systematických komentářích není „slepý fond“ definován nebo výslovně upraven, odpovídá výše uvedeným odborným vyjádřením.\n\n### 3.4. Opačné či nuanční názory\n\nExistují názory, které **nepopírají**, že české právo blind trust výslovně nezná, ale tvrdí, že:\n\n- „Slepé trusty nejsou zakotveny v českém právu. **I tak však nic nebrání tomu, aby byl standardní český trust navržen tak, aby napodoboval fungování slepého trustu podle zvykového práva,**“ říká James Turnbull v rozhovoru pro iROZHLAS. ([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/stret-zajmu-andrej-babis-reseni-prevod-na-deti-slepy-fond_2510230500_tec?utm_source=openai))  \n\nTito autoři tedy souhlasí, že **institut jako takový český zákon nezná**, ale dovozují možnost konstrukčně jej „napodobit“ v rámci obecné úpravy svěřenského fondu – bez explicitní zákonné úpravy a bez speciálního dozorového orgánu.\n\n### Závěr k bodu 2\n\n- **Silná shoda zdrojů** (TI, iROZHLAS, Wealth Magazín + Svěřenská správa, Aktuálně, právní analýzy k zákonu o střetu zájmů) říká, že:\n  - český právní řád **nezná a neupravuje speciální institut „slepého fondu / blind trustu“**,  \n  - zákony takový nástroj **nepředvídají** jako standardní cestu řešení střetu zájmů,  \n  - část expertů soudí, že skutečný blind trust **v českém právu ani nelze plnohodnotně zřídit**, protože zakladatel má ze zákona práva, která „slepý“ charakter narušují. ([transparency.cz](https://www.transparency.cz/babisuv-nekonecny-stret-zajmu-nevyreseny-dluh-ktery-ohrozuje-cesko-i-eu/))  \n\n- **Menší část právníků** připouští, že lze v rámci českého svěřenského fondu smluvně nastavit poměry tak, aby „napodobovaly“ blind trust, což ale stále znamená, že **nejde o výslovně uznaný institut českého práva** a jeho funkčnost by závisela na výkladu soudů. ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n\nZ hlediska běžného, ne-právnického výkladu výroku („v Česku slepé fondy nejsou“) tedy tvrzení dobře odpovídá stavu právního řádu: **české právo takový nástroj nezná a nereguluje.**\n\n---\n\n## 4. Dílčí tvrzení 3: „Slepé fondy jsou v zahraničí“\n\n### 4.1. Zahraniční modely v nálezu Ústavního soudu\n\nNález ÚS Pl. ÚS 4/17 výslovně popisuje **quebecký** model:\n\n- Veřejný funkcionář má dvě možnosti:\n  1. „divestiture“ – prodej podílů nezávislému kupci.  \n  2. Vložení aktiv do **svěřenského fondu (blind trust)**, který musí splňovat zvláštní podmínky zákona o střetu zájmů (nezávislý správce, dohled Conflict of Interest and Ethics Commissioner, žádný přístup funkcionáře k aktivům ani informacím). ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n\nÚS tak sám potvrzuje, že **takový institut existuje v zahraniční (kanadské/quebecké) právní úpravě**.\n\n### 4.2. Další zahraniční příklady v českých zdrojích\n\n- Aktuálně.cz (2018) uvádí, že právníci Evropské komise doporučovali Babišovi **slepý svěřenský fond (blind trust)** a jako příklad zmiňuje, že si jej zřídila britská premiérka **Theresa Mayová**. ([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/politika/babisovi-muze-se-stretem-zajmu-pomoct-slepy-sverensky-fond-v/r~d2cbbc5ef7cd11e8b04aac1f6b220ee8/))  \n- Wealth Magazín popisuje příklady ze světové politiky:  \n  – **Barack Obama** měl investice ve blind trustu spravovaném nezávislými správci,  \n  – upozorňuje na neideální řešení u **Donalda Trumpa**, kde šlo spíše o rodinnou správu než o skutečný blind trust. ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n  Článek pak shrnuje, že v zahraničí se při nástupu do veřejných funkcí **blind trusty běžně využívají** jako nástroj proti střetu zájmů. ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n- Česká justice (2025) v rozhovoru s advokátem Jakubem Hollmannem uvádí, že:  \n  – v českých podmínkách s blind trusty **nemají zkušenost**,  \n  – blind trusty založené podle **lichtenštejnského práva** jsou u politiků **standardním řešením střetu zájmů**,  \n  – „v Anglii je zaslepený fond pro politiky doporučenou praxí“ a členům britského parlamentu se doporučuje majetek do takových struktur vyčlenit. ([ceska-justice.cz](https://www.ceska-justice.cz/2025/12/detaily-o-babisove-fondu-se-lide-nemusi-nikdy-dozvedet/))  \n\nTyto zdroje korespondují se slovníkovým heslem Svěřenské správy, které hovoří o blind trustu jako o fondu, „který se **v zahraničí** využívá pro odstraňování potenciálních střetů zájmů u veřejně činných osob“. ([svsp.cz](https://www.svsp.cz/slovnik/blind-sverensky-fond))  \n\n### Závěr k bodu 3\n\nExistuje **hojná dokumentace** o používání blind trustů v zahraničí (Kanada/Québec, USA, Velká Británie, Lichtenštejnsko). České zdroje to opakovaně zmiňují jak v odborných, tak v mediálních textech. ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n\n---\n\n## 5. Celkové zhodnocení výroku\n\n### Shrnutí důkazů\n\n1. **Ústavní soud** v nálezu Pl. ÚS 4/17 skutečně pracuje s pojmem **„svěřenský fond (blind trust)“**, a to výslovně jako s **příkladem zahraniční (quebecké) úpravy**. ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n2. **Český právní řád**:  \n   - neobsahuje definici ani zvláštní úpravu „slepého fondu/blind trustu“,  \n   - zákon o střetu zájmů ani občanský zákoník s tímto institutem **nepočítají** jako s výslovným nástrojem řešení střetu,  \n   - významné analytické a odborné zdroje (TI, iROZHLAS, Svěřenská správa, Aktuálně) shodně uvádějí, že **česká právní úprava reálně slepý fond neumožňuje** nebo že „slepý fond“ české právo **nezná**. ([transparency.cz](https://www.transparency.cz/babisuv-nekonecny-stret-zajmu-nevyreseny-dluh-ktery-ohrozuje-cesko-i-eu/))  \n   - část právníků má za to, že lze **do jisté míry napodobit** funkci blind trustu v rámci českého svěřenského fondu smluvním omezením práv zakladatele, ale i oni připouštějí, že **nejde o výslovně zakotvený institut** a jeho plná účinnost je sporná. ([wmag.cz](https://wmag.cz/co-je-tzv-blind-trust-a-kdy-ho-zridit/))  \n3. **Zahraničí**:  \n   – blind trusty jsou výslovně upraveny nebo zavedeny v řadě právních řádů (Québec, některé provincie Kanady, USA, Velká Británie, Lichtenštejnsko) a běžně se používají pro řešení střetu zájmů politiků. Toto konstatování se opírá jak o nález ÚS, tak o odborné a mediálně-odborné texty. ([mezisoudy.cz](https://www.mezisoudy.cz/databaze-judikatury/detail-rozhodnuti/8dcd4e97-92a8-11ee-b597-2cea7f51f963_pl-us-4-17-2-zakon-o-stretu-zajmu-lex-babis))  \n\n### Hodnocení tvrzení Martina Kupky\n\nFormulace:\n\n> „… o slepých fondech. Ty sice nejsou v České republice, jsou v zahraničí.“\n\npři obvyklém chápání pojmu „slepý fond“ jako **zahraničního institutu blind trustu v podobě popsané Ústavním soudem (nezávislý správce, žádný přístup zakladatele, dohled zvláštního úřadu)** odpovídá dostupné evidenci:\n\n- **Ano, Ústavní soud mluví o blind trustu jako o zahraničním institutu (konkrétně quebeckém).**  \n- **Český právní řád takový institut výslovně nezná ani neupravuje; odborné zdroje dokonce tvrdí, že jej v čisté podobě v českém právu zřídit nelze.**  \n- **Blind trusty jsou naopak běžně používány a upraveny v zahraničí (Kanada/Québec, USA, Velká Británie, Lichtenštejnsko atd.).**\n\nJedinou nuancí je, že **část právníků se domnívá, že v rámci českého svěřenského fondu lze smluvně přiblížit principům blind trustu**, aniž by šlo o formální „slepý fond“ ve smyslu zahraničních předpisů. To ale s Kupkovým výrokem není v přímém rozporu – týká se to spíše možnosti „napodobení“ zahraničního institutu v rámci českého práva, nikoli existence domácího, zákonem výslovně upraveného „slepého fondu“.\n\n**Pro účely faktického posouzení výroku tedy důkazy silně podporují tvrzení, že „slepé fondy“ v podobě, o níž mluví Ústavní soud, český právní řád nemá a že jde o nástroj známý z cizích právních řádů.**",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 84273,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 17399,
+      "output_tokens_details": {
+        "reasoning_tokens": 12522
+      },
+      "total_tokens": 101672
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

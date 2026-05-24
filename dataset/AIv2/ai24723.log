@@ -1,0 +1,544 @@
+{
+  "claim_id": "24723",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260421_113102",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/reports/report24723.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 72.6,
+        "prompt_length": 3520,
+        "input_tokens": 188503,
+        "cached_input_tokens": 88832,
+        "output_tokens": 4583,
+        "web_searches": 4,
+        "final_response": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/claim_interpretation.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Nejprve si ověřím kontext výroku a projdu lokální instrukce v repozitáři, pak sepíšu interpretaci do `work/claim_interpretation.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc pwd",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'rg --files .'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Našel jsem lokální průvodce. Teď čtu hlavně metodiku a žebříček zdrojů, abych interpretaci připravil ve správném formátu a s vhodným plánem hledání."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' AGENTS.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' guides/prirucka.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:plus.rozhlas.cz koncesionářské poplatky jsou zastaralé platí je hlavně senioři zní z SPD opozice 17. dubna 2026 Turek fond veřejnoprávní média"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"ať si veřejnoprávní média vytvoří fond\" Turek"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://plus.rozhlas.cz/koncesionarske-poplatky-jsou-zastarale-plati-je-hlavne-seniori-zni-z-spd-opozice-9610185"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:irozhlas.cz OR site:plus.rozhlas.cz OR site:ct24.ceskatelevize.cz OR site:seznamzpravy.cz Filip Turek fond veřejnoprávní média dobrovolně 2026"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Kontext je už dostatečně jasný: výrok odkazuje na konkrétní dřívější návrh Filipa Turka v debatě o financování ČT a ČRo. Teď sepíšu atomické podvýroky, vyložím ověřovanou interpretaci a nastavím datumové mantinely pro další krok."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'mkdir -p work output && ls -la work'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zapisuji interpretaci do `work/claim_interpretation.md`. Soustředím se na to, aby další krok měl jasně vymezené podvýroky, datumový filtr a konkrétní vyhledávací dotazy."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Soubor je zapsaný. Ještě rychle kontroluji obsah na disku, aby další krok navazoval bez formálních chyb."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/claim_interpretation.md)."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 194.3,
+        "prompt_length": 1771,
+        "input_tokens": 600885,
+        "cached_input_tokens": 292480,
+        "output_tokens": 14797,
+        "web_searches": 25,
+        "final_response": "Rešerši jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/raw_sources.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď načtu předchozí interpretaci a pak dohledám co nejširší sadu zdrojů k tomu, zda Filip Turek skutečně navrhoval fond s dobrovolnými příspěvky pro veřejnoprávní média."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"test -f work/raw_sources.md && sed -n '1,240p' work/raw_sources.md || true\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:plus.rozhlas.cz OR site:irozhlas.cz OR site:mujrozhlas.cz \"Filip Turek\" veřejnoprávní média fond"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://ct24.ceskatelevize.cz/clanek/domaci/turek-oznacil-za-pravdepodobne-ze-muze-byt-ministrem-zahranici-365815"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://x.com/OtoKlempir/status/1975086152911630788"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Česká televize\" \"dobrovolně\" Turek Motoristé"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Prosadili jsme dobrovolné příspěvky\" veřejnoprávní média Motoristé"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:irozhlas.cz OR site:plus.rozhlas.cz \"Filip Turek\" poplatky ČT ČRo"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:x.com/OtoKlempir dobrovolné příspěvky Česká televize Český rozhlas"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"kteří mají pocit, že je to pro ně garance demokracie\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:vlada.cz OR site:mkcr.cz OR site:psp.cz dobrovolné příspěvky Česká televize Český rozhlas duben 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:motoriste.cz Filip Turek Česká televize Český rozhlas"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "Motoristé veřejnoprávní média dobrovolné příspěvky"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"všichni zastánci veřejnoprávnosti pošlou dvojnásobný poplatek dobrovolně\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:facebook.com/filip.turek \"Myslím, že všichni zastánci veřejnoprávnosti pošlou dvojnásobný poplatek dobrovolně\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"dvojnásobný poplatek\" Turek site:seznamzpravy.cz OR site:irozhlas.cz OR site:ct24.ceskatelevize.cz"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://ct24.ceskatelevize.cz/clanek/domaci/koalice-oznamila-shodu-na-zruseni-poplatku-za-verejnopravni-media-369420"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz dobrovolné příspěvky veřejnoprávní média 14. dubna 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz \"dobrovolných příspěvků\" \"Česká televize\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:x.com/OtoKlempir Česká televize Český rozhlas dobrovolné příspěvky 2026"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://ct24.ceskatelevize.cz/clanek/domaci/klempir-predstavuje-zakony-ke-zmenam-rozhlasovych-a-televiznich-poplatku-372365"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://fs2-ct24.ceskatelevize.cz/file/MGNiOTljODg2MWFlYTE1NHyJiUQKWk5-wL1tkJI13FCQ-sxF5bF5bhgR5lkM3367tFhqIZZEKEezrwhshq-n-17__zCGmyULnlZ-9CpUW-g.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'dobrovoln' in https://fs2-ct24.ceskatelevize.cz/file/MGNiOTljODg2MWFlYTE1NHyJiUQKWk5-wL1tkJI13FCQ-sxF5bF5bhgR5lkM3367tFhqIZZEKEezrwhshq-n-17__zCGmyULnlZ-9CpUW-g.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"14. 4. 2026\" \"Filip Turek\" dobrovolně veřejnoprávní média"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:filipturek.cz Česká televize Český rozhlas dobrovolně"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.filipturek.cz/post/turek-skon%C4%8Dil-v-nemocnici-prvn%C3%AD-slova-z-l%C5%AF%C5%BEka-blesku-popsal-vy%C5%A1et%C5%99en%C3%AD-i-hrozbu-operace"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:filipturek.cz zachování poplatků veřejnoprávní média Motoristé"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám dost podkladů pro první rešerši. Zapisuji je do `work/raw_sources.md` tak, aby bylo vidět, co přímo podporuje dobrovolné příspěvky, co jen dokládá legislativní kontext a co naopak zpochybňuje, že šlo dlouhodobě právě o Turkovu pozici."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Soubor je zapsaný. Ještě kontroluji finální podobu a jestli všechny uvedené zdroje spadají do povoleného časového okna do 17. dubna 2026."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Rešerši jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/raw_sources.md)."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 115.0,
+        "prompt_length": 2274,
+        "input_tokens": 908947,
+        "cached_input_tokens": 537472,
+        "output_tokens": 21288,
+        "web_searches": 5,
+        "final_response": "Refinovaný seznam zdrojů jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/refined_sources.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď projdu sesbírané zdroje proti žebříčku kvality a pokusím se nahradit slabší položky silnějšími, hlavně přímým dokumentem nebo kvalitnějším médiem. Zároveň zkontroluji, jestli hlavní podvýroky opravdu kryje alespoň jeden použitelný zdroj."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Myslím, že všichni zastánci veřejnoprávnosti pošlou dvojnásobný poplatek dobrovolně\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"zastánci veřejnoprávnosti\" Turek"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"Za Motoristy jsme za zachování poplatků\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Nahradil jsem slabý zdroj z Turkovy stránky kvalitnějším textem Seznam Zpráv a vyřadím duplicitní položku. V přehledu zároveň výslovně označím, že přesné „fondové“ znění zatím nemá dost silný přímý důkaz."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.seznamzpravy.cz/clanek/domaci-politika-prezident-jedna-s-kandidaty-motoristu-na-ministry-turek-se-omluvil-293564"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Našel jsem přesnější náhradu k bývalému zdroji z Turkovy stránky i s ověřeným datem publikace. Upravím to v `work/refined_sources.md`, aby seděla časová kontrola."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,280p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam zdrojů jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/refined_sources.md)."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 110.9,
+        "prompt_length": 2388,
+        "input_tokens": 1415289,
+        "cached_input_tokens": 1014016,
+        "output_tokens": 27020,
+        "web_searches": 0,
+        "final_response": "Draft reportu jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/draft.md).",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Než sepíšu draft, načtu ještě stylový manuál a dva reálné příklady, aby text odpovídal formátu Demagogu a seděl i verdikt. Pak z dostupných zdrojů složím odůvodnění bez doplňování nových citací mimo refined seznam."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/examples.txt\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft stavím jako neověřitelný: dobrovolné příspěvky Turkovi doložit umíme, ale ne přesnou pasáž o „fondu“ a navíc část starších zdrojů připisuje formulování návrhů spíš Klempířovi. Zapisuji to do krátkého HTML textu s jedním jasným závěrem."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft je zapsaný. Ještě ho rychle kontroluji proti pravidlům formátu, hlavně délce perexu, počtu odstavců a tomu, jestli závěr obsahuje jediný explicitní verdikt."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"python - <<'PY'\nfrom pathlib import Path\nimport re\ntext=Path('work/draft.md').read_text()\nm=re.search(r'<p class=\\\"perex\\\">(.*?)</p>', text)\nprint(len(m.group(1)))\nprint(m.group(1))\nPY\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "V draftu ještě opravím syntaxi odkazů do čistého HTML, aby odpovídala vzorům v příkladech a prošla i formální kontrolou."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft reportu jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/draft.md)."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 93.3,
+        "prompt_length": 1226,
+        "input_tokens": 1897861,
+        "cached_input_tokens": 1455232,
+        "output_tokens": 32637,
+        "web_searches": 4,
+        "final_response": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/verification.md) a během kontroly jsem upravil i [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/draft.md), aby prošel checklistem.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď projdu draft proti kontrolnímu seznamu a u problematických bodů rovnou opravím jen to, co je potřeba. Zároveň otevřu několik použitých odkazů a ověřím, že skutečně vedou na citovanou informaci."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/verification_checklist.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://fs2-ct24.ceskatelevize.cz/file/MGNiOTljODg2MWFlYTE1NHyJiUQKWk5-wL1tkJI13FCQ-sxF5bF5bhgR5lkM3367tFhqIZZEKEezrwhshq-n-17__zCGmyULnlZ-9CpUW-g.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'dobrovolných příspěvků' in https://fs2-ct24.ceskatelevize.cz/file/MGNiOTljODg2MWFlYTE1NHyJiUQKWk5-wL1tkJI13FCQ-sxF5bF5bhgR5lkM3367tFhqIZZEKEezrwhshq-n-17__zCGmyULnlZ-9CpUW-g.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Filip Turek' in https://ct24.ceskatelevize.cz/clanek/domaci/klempir-predstavuje-zakony-ke-zmenam-rozhlasovych-a-televiznich-poplatku-372365"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "\"kdo bude chtít, může platit koncesionářské poplatky\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "V checklistu vidím dva slabé body: u PDF chybí číslo strany a úvod může přidat víc kontextu než jen parafrázi výroku. To teď opravím přímo v draftu."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Opravy jsou hotové. Ještě jednou draft načtu a pak zapíšu formální vyhodnocení checklistu do `work/verification.md`."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/verification.md) a během kontroly jsem upravil i [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24723/work/draft.md), aby prošel checklistem."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 18.8,
+        "prompt_length": 313,
+        "input_tokens": 2168051,
+        "cached_input_tokens": 1717632,
+        "output_tokens": 34134,
+        "web_searches": 0,
+        "final_response": "Hotovo.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Nejprve ověřím, že `work/verification.md` končí výsledkem PASS, a pak přenesu hotový report do `output/report.md` ve finálním formátu."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 5 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Kontrola dopadla dobře, `verification.md` končí `## Result: PASS`. Teď vytvářím finální výstup do `output/report.md` s původním zněním výroku a hotovým reportem."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Hotovo."
+          }
+        ]
+      }
+    }
+  ]
+}

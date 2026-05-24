@@ -1,0 +1,792 @@
+{
+  "claim_id": "24617",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24617.md",
+  "fact_check": "# Fact Check for Statement ID 24617\n\n## Statement\n(...) celkovou inflaci, jste odrbali lidi o 33 % v průběhu vaší vlády.\n\n---\n## AI Fact Check\n## 1. Shrnutí výroku a hlavní závěr\n\nZ výroku Karla Havlíčka:\n\n> „…ta inflace se stala (…) základem pro celkovou inflaci, **proto jste odrbali lidi o 33 % v průběhu vaší vlády.**“\n\nlze vyčíst faktické tvrzení:  \n**za vlády Petra Fialy vzrostly ceny (celková inflace) přibližně o třetinu, tj. ~33 %.**\n\nNa základě dostupných dat:\n\n- **Kumulativní inflace od prosince 2021 (nástup Fialovy vlády) do dubna 2025** podle ČSÚ dosáhla cca **29,25 %**.([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n- Jiný výpočet téhož období v Manipulátoři.cz dává **27,3 %**.([manipulatori.cz](https://manipulatori.cz/statistika-spolu-je-zavadejici/))  \n- **Od prosince 2021 do prosince 2025** (tedy zhruba přes celé funkční období vlády) vychází na základě meziročních inflací cca **30 %** (viz výpočet v části 5.3).  \n- **Při použití průměrných ročních měr inflace 2022–2025 proti roku 2021** vychází souhrnný růst cen cca **34 %** (tj. zhruba „o třetinu“ – viz 5.4).\n\nČíselně tedy tvrzení o „zhruba třetině“ není vycucané z prstu, ale **33 % je spíše horní konec realistického intervalu (cca 30–34 %)** a závisí na zvolené metodě výpočtu. Slovní část „odrbali lidi“ je hodnotící, nikoli ověřitelný fakt.\n\n---\n\n## 2. Rozklad výroku na dílčí tvrzení\n\n1. **Časové vymezení**  \n   a) Petr Fiala byl předsedou vlády zhruba od konce roku 2021 do poloviny prosince 2025.  \n2. **Vývoj inflace v ČR v tomto období**  \n   a) Inflace v ČR byla v letech 2022 a 2023 velmi vysoká, poté se v letech 2024–2025 výrazně snížila.  \n   b) Ceny za dobu Fialovy vlády stouply celkově zhruba o 30–33 %.  \n3. **Interpretace**  \n   a) Tento cenový růst znamená, že kupní síla lidí klesla o podobný řád, pokud jejich příjmy nerostly s inflací.  \n   b) Tvrzení, že vláda tím „odrbala lidi o 33 %“, je hodnotící (politická interpretace).\n\nDále ověřujeme hlavně body 1 a 2.\n\n---\n\n## 3. Doba trvání vlády Petra Fialy\n\n- **Jmenování premiérem:**  \n  – Petr Fiala byl prezidentem Milošem Zemanem jmenován předsedou vlády **28. listopadu 2021**.([pfiala.cz](https://pfiala.cz/o-mne?utm_source=openai))  \n  – Vláda Petra Fialy byla jako celek jmenována **17. prosince 2021**.([czech.wiki](https://www.czech.wiki/wiki/Petr_Fiala?utm_source=openai))  \n\n- **Ukončení vlády:**  \n  – Po volbách v roce 2025 Fialova vláda podala demisi v listopadu 2025; Fiala fungoval jako premiér v demisi do předání moci.([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/633297-fialova-vlada-oznamila-svou-demisi-skoncit-by-mohla-uz-pred-vanoci?utm_source=openai))  \n  – Nový kabinet Andreje Babiše byl jmenován v prosinci 2025; Fiala předává zprávu o stavu země **15. prosince 2025**.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-politika-fiala-zverejnil-zpravu-o-stavu-ceska-294102?utm_source=openai))  \n\n**Pro účely výpočtu inflace tedy dává smysl brát období přibližně od prosince 2021 do prosince 2025.**\n\n---\n\n## 4. Základní údaje o inflaci v ČR 2021–2025\n\n### 4.1 Průměrná roční míra inflace (ČSÚ)\n\nPrůměrná roční míra inflace (roční přírůstek průměrného indexu spotřebitelských cen) v ČR podle ČSÚ byla:  \n\n| Rok | Průměrná roční míra inflace | Zdroje |\n|-----|-----------------------------|--------|\n| **2021** | **3,8 %** | ČSÚ / shrnuje CEDMO a další (průměrná inflace 3,8 %).([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/?utm_source=openai)) |\n| **2022** | **15,1 %** | ČSÚ – „Míra inflace v ČR v roce 2022“.([csu.gov.cz](https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai)) |\n| **2023** | **10,7 %** | ČSÚ – „Míra inflace v ČR v roce 2023“.([csu.gov.cz](https://csu.gov.cz/csu/xp/mira-inflace-v-ceske-republice-v-roce-2023)) |\n| **2024** | **2,4 %** | ČSÚ – tisková informace 13. 1. 2025 („Průměrná míra inflace 2024 dosáhla 2,4 %“).([zpravy.kurzy.cz](https://zpravy.kurzy.cz/796662-prumerna-mira-inflace-v-roce-2024-dosahla-2-4/?utm_source=openai)) |\n| **2025** | **2,5 %** | ČNB – komentář k inflaci v prosinci 2025 („průměrná míra inflace 2025 dosáhla 2,5 %“).([cnb.cz](https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai)) |\n\nTato čísla jsou konzistentně rekapitulována i dalšími seriózními přehledy, které explicitně uvádějí jako zdroj ČSÚ.([inflace-cesko.cz](https://www.inflace-cesko.cz/))  \n\n### 4.2 Meziroční inflace v prosinci (prosinec daného roku vs. prosinec předchozího)\n\nPro výpočet **změny cen mezi začátkem a koncem vlády** je užitečné sledovat meziroční inflaci v prosinci:\n\n- **Prosinec 2021:** ceny meziročně **+6,6 %**.([finance.cz](https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai))  \n- **Prosinec 2022:** ceny meziročně **+15,8 %**.([finance.cz](https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai))  \n- **Prosinec 2023:** ceny meziročně **+6,9 %**.([inflace-cesko.cz](https://www.inflace-cesko.cz/archiv/))  \n- **Prosinec 2024:** ceny meziročně **+3,0 %**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-prosinci-opet-mirne-zrychlila-357034?utm_source=openai))  \n- **Prosinec 2025:** ceny meziročně **+2,1 %**.([cnb.cz](https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai))  \n\n---\n\n## 5. Kumulativní inflace „během Fialovy vlády“\n\nProtože různé subjekty používají různé metody, je důležité ukázat několik standardních přístupů.\n\n### 5.1 Kumulativní inflace podle ČSÚ / CEDMO (prosinec 2021 → duben 2025)\n\nFact‑checking CEDMO (Demagog.cz) používá data ČSÚ o tzv. **kumulativní inflaci** (úhrnný růst cen mezi dvěma měsíci):\n\n- Autoři výslovně berou **prosinec 2021** jako počátek, „kdy se současný kabinet ujal vlády“.([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n- Na základě otevřených dat ČSÚ uvádějí, že **kumulativní inflace od prosince 2021 do dubna 2025 dosáhla 29,25 %**:  \n\n  > „…podle [údajů ČSÚ] kumulativní inflace od začátku působení Fialovy vlády dosáhla **29,25 %**.“([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n\n- Závěr CEDMO:  \n\n  > „…oproti prosinci 2021 se ceny zboží zvýšily **přibližně o 30 %**.“([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n\nTento výpočet se vztahuje k dubnu 2025, tedy ještě **před koncem** vládního období.\n\n### 5.2 Jiný výpočet (Manipulátoři.cz) – 27,3 %\n\nAnalýza Manipulátoři.cz (Jan Cemper) pracuje rovněž s daty ČSÚ a uvádí:\n\n- „**Ceny za celou vládu Petra Fialy dosud se zvýšily o 27,3 %.**“([manipulatori.cz](https://manipulatori.cz/statistika-spolu-je-zavadejici/))  \n\nČlánek je z konce května 2025 a odkazuje na stav „dosud“, tj. do jara 2025, opět ještě před koncem vlády. Metodika (volba konkrétních měsíců či indexu) není v textu detailně rozvedena, ale jde zjevně o alternativní výpočet téže veličiny – kumulativního růstu cen mezi nástupem a tehdejší aktuální situací.\n\n**Závěr 5.1–5.2:**  \nJeště před koncem vlády se bere jako odborně podložené, že **od prosince 2021 do jara 2025** vzrostly ceny cca **o 27–29 %**, tedy zhruba o **necelou třetinu**.\n\n---\n\n### 5.3 Kumulativní inflace mezi začátkem a koncem vlády (prosinec 2021 → prosinec 2025)\n\nPro období **celé vlády** je nejpřirozenější srovnávat ceny v měsíci jejího nástupu a v měsíci jejího skončení, tedy **prosinec 2021 vs. prosinec 2025**. K tomu lze využít postupných meziročních inflací v prosincích:\n\n- Index cen v prosinci 2022 je vůči prosinci 2021 vyšší o **15,8 %**.([finance.cz](https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai))  \n- Prosinec 2023 vs. prosinec 2022: **+6,9 %**.([investicniweb.cz](https://www.investicniweb.cz/aktuality/216111-cr-inflace-v-prosinci-klesla-na-69-za-cely-rok-cinila-107?utm_source=openai))  \n- Prosinec 2024 vs. prosinec 2023: **+3,0 %**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-prosinci-opet-mirne-zrychlila-357034?utm_source=openai))  \n- Prosinec 2025 vs. prosinec 2024: **+2,1 %**.([cnb.cz](https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai))  \n\nKumulativní růst cen mezi prosincem 2021 a prosincem 2025 je pak součinem těchto meziročních růstů:\n\n\\[\n(1{,}158) \\times (1{,}069) \\times (1{,}030) \\times (1{,}021) \\approx 1{,}30\n\\]\n\n⇒ **cca +30 %**.\n\nJinými slovy, **ceny v prosinci 2025 byly asi o 30 % vyšší než v prosinci 2021**, kdy Fialova vláda nastupovala.\n\nTento výsledek je velmi blízký údajům z CEDMO (29,25 % do dubna 2025) a dobře ilustruje, že **celkový růst cen během celé vlády byl kolem 30 %**.\n\n---\n\n### 5.4 Kumulativní inflace z průměrných ročních měr inflace (2022–2025 vůči 2021)\n\nNěkteré politické materiály (včetně kritiky vlády ANO) vycházejí z **průměrných ročních měr inflace**, které jsme uvedli v tabulce v části 4.1. Pokud je použijeme k odhadu, o kolik se změnila průměrná cenová hladina mezi rokem **2021** a **2025**, dostaneme:\n\n- rok 2022 vs. 2021: **+15,1 %**  \n- rok 2023 vs. 2022: **+10,7 %**  \n- rok 2024 vs. 2023: **+2,4 %**  \n- rok 2025 vs. 2024: **+2,5 %**([csu.gov.cz](https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai))  \n\nKumulativně:\n\n\\[\n(1{,}151) \\times (1{,}107) \\times (1{,}024) \\times (1{,}025) \\approx 1{,}34\n\\]\n\n⇒ **cca +33–34 %**.\n\nTo znamená, že **průměrná cenová hladina za rok 2025 byla zhruba o 34 % vyšší než průměr za rok 2021**.\n\nTento výpočet ovšem:\n\n- používá **průměrné hodnoty za celé roky**, nikoli stav v konkrétních měsících,  \n- a implicitně **připisuje rok 2022 celý „vládě Fiala vs. 2021“**, ačkoli část roku 2021 připadala ještě na vládu Andreje Babiše (inflace v roce 2021 byla 3,8 % a už tehdy akcelerovala).([csu.gov.cz](https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai))  \n\nPrávě tato metodika dává číslo **velmi blízké Havlíčkovým „33 %“**.\n\n---\n\n### 5.5 Další komentáře a odhady\n\n- Seznam Zprávy při komentování inflace za rok 2024 uvádějí, že **za tři roky** (cca 2021–2024) vzrostly ceny o „více než 27 %“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-finance-inflace-v-prosinci-byla-3-procenta-za-cely-lonsky-rok-byl-prumer-24-267875?utm_source=openai))  \n- Publicistický text na Seznam/Medium shrnuje, že „**za celé období vlády vzrostla cenová hladina zhruba o třetinu**“.([medium.seznam.cz](https://medium.seznam.cz/clanek/michal-bartl-nevolis-zaplatis-166986?utm_source=openai))  \n\nTyto odhady potvrzují, že **řádově se růst cen za dobu vlády pohyboval kolem jedné třetiny**.\n\n---\n\n## 6. Hodnotící část výroku („odrbali lidi“) vs. ověřitelná fakta\n\nVýrok obsahuje dvě roviny:\n\n1. **Číselná rovina („o 33 %“) – kvantitativní tvrzení**  \n   - Při měření z **prosinec 2021 → prosinec 2025** vychází kumulativní inflace cca **30 %**.  \n   - Při použití **průměrných ročních měr inflace 2022–2025** vůči roku 2021 vychází cca **34 %**.  \n   - Odborné fact‑checkingové analýzy (CEDMO, Manipulátoři) pracují pro jaro 2025 s hodnotami **27–29 %**, tj. „zhruba třetina“, ovšem ještě před koncem vlády.([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n\n   **Závěr k číselné části:**  \n   – Pokud se použije metoda „průměr 2025 vs. průměr 2021“, číslo kolem **33 %** dobře odpovídá datům ČSÚ.  \n   – Přesnější srovnání „stav na začátku vlády vs. na konci“ (prosinec 2021–prosinec 2025) dává spíše **≈30 %**.  \n   – Tvrzení „odrbali lidi o 33 %“ tedy **čísla nadsazuje o několik procentních bodů**, ale z hlediska řádu velikosti (zhruba třetina) odpovídá realitě.\n\n2. **Hodnotící rovina („odrbali lidi“) – normativní tvrzení**  \n   - Zda je inflace „vina“ konkrétní vlády a zda to lze popsat jako „odrbání“, je **politické a hodnotové posouzení**, nikoli čistě faktická otázka.  \n   - Samotná data ukazují, že:  \n     – růst inflace začal již v roce **2021** před nástupem Fialovy vlády, ([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/?utm_source=openai))  \n     – rekordní inflace v roce **2022** (15,1 %) byla druhá nejvyšší od vzniku ČR a byla silně ovlivněna energetickou krizí, válkou na Ukrajině a dozníváním covidových opatření.([csu.gov.cz](https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai))  \n\n   Odpovědnost za konkrétní vývoj inflace je tedy **sporná a politicky interpretovaná**.\n\n---\n\n## 7. Shrnutí pro rozhodnutí fact‑checkera\n\n- **Faktická část výroku („33 %“) je založena na reálném rozsahu inflace za dobu Fialovy vlády**, pokud se použije metoda kumulace průměrných ročních měr inflace (2022–2025 vůči 2021), která dává cca **34 %**.([csu.gov.cz](https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai))  \n- **Při přímém srovnání cen v prosinci 2021 a prosinci 2025** (což lépe odpovídá skutečnému „začátku“ a „konci“ vlády) vychází růst cen cca **30 %**, tedy o něco méně než uváděných 33 %.([finance.cz](https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai))  \n- Dva nezávislé fact‑checkingové výpočty (CEDMO/Demagog.cz a Manipulátoři.cz) pracují pro jaro 2025 s kumulativním růstem cen **cca 27–29 %**, tedy rovněž blízko „třetině“.([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n\n**Pro lidského fact‑checkera to znamená:**\n\n- Pokud je posuzována **striktní přesnost čísla 33 % pro celé období vlády**, je toto číslo **mírně nadsazené** vůči přímé kumulaci prosinec 2021–prosinec 2025 (~30 %).  \n- Pokud je hodnocena **řádová informace („zhruba třetina kupní síly“) a výpočet přes průměrné roční míry inflace**, pak je výrok **kvantitativně v zásadě v souladu s oficiálními daty**, i když zjednodušuje metodiku a přisuzuje Fialově vládě i část inflačního vývoje, který začal už v roce 2021.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:05:47\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nTa zpráva je založena na číslech, tak ta se nedá ani rozporovat, ale co se týká toho, že se všem lidem určitě dobře nedaří a nedařilo, to jsem nikdy nezpochybňoval. Ta inflace byla velmi náročná, ceny energií rostly raketově. My jsme teda měli nejdražší energie už v době, kdy se o to staral pan Havlíček v Evropě. Ale ten problém tu je dlouhodobý, je strukturální. My jsme se s tím snažili něco dělat, snažili jsme se provést ty klíčové reformy a byli jsme v tom odvážní. Reforma důchodového systému, reforma vzdělávacího systému, reforma energií nebo struktury naší energetické soustavy, to všechno jsme dělali a myslím si, že to byly kroky, které jsou správné a je v nich potřeba pokračovat, abychom se už nedostali do těch problémů, do kterých jsme se dostali, protože třeba díky tomu, že tu vládl osm let Andrej Babiš v různých konstelacích před námi, tak se nic neudělalo s energetickou infrastrukturou. Zastavil se, nezastavila se dostavba Temelína, neposunuly se dál Dukovany, to jsme všechno museli udělat. A to, že jsme to udělali, se pozitivně projeví v budoucnosti.\\n00:06:53\\nTerezie Tománková,moderátorka\\nPojďme rozebrat ta jednotlivá subtémata, ať se už bavíme o konkrétních věcech. Pojďme k těm energiím, pane Havlíčku. Pouze 17 miliard navíc v rozpočtu, snižuje to inflaci, to říká statistický úřad i Česká národní banka, že to mělo přechodný, okamžitý dopad. Ty dotační závody s Německem ale nemůžeme vyhrát, nebo v tom bude Česko pokračovat, jak to bude dál?\\n00:07:14\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nNemůžeme, ani nebudeme soutěžit s Německem. To není možné. Jenom bych upravil, ono to není do rozpočtu dopad 17 miliard, ale 7 miliard, ale to je účetní pohled, že se tam započítávají některé věci, takže čistý dopad do rozpočtu je 7 miliard korun, ale za těch 7 miliard korun máme po dlouhé době srovnaný krok s cenou elektřiny s Evropou. Po dlouhé době mohou firmy říci, že mají přibližně podobné podmínky jako okolní země. A každý, kdo umí do 10 počítat, si dopočítá to, že se to tomu státu vrátí na té příjmové stránce. Proč? No, protože firmy budou zaměstnávat přirozeným způsobem, porostou příjmy těch zaměstnanců, bude se více investovat, budou se, světe, div se, odvádět vyšší daně, budou se odvádět vyšší sociální a zdravotní, to je jedna věc. A druhá věc je, naši lidé nebyli připraveni se dívat na to, že navzdory tomu, že zde energii poměrně levně vyrábíme a exportujeme, že ji budeme mít jednu z nejdražších, elektřinu v tomhle tom případě v celé Evropě. Byl to náš slib, byl to zásadní krok a budeme pokračovat zejména v energeticky náročných odvětvích, jako jsou výrobci cementu, výrobci vápna, výrobci keramiky, chemie a podobně, ocel. To jste úplně hodili přes palubu. A zeptejte se někdy těch firem. Já do nich jezdím dnes a denně. Ta situace u těch firem začíná být kritická a ten problém, který nastává, je v tom, že pochopitelně v Evropě neexistuje dnes jednotný energetický trh tedy pouze na papíře, ale různé země mají různé ceny a různé státy do toho různě zasahují. Akorát, že za vaší vlády jste se chovali tržně, nezasáhli jste do toho, výsledkem bylo to, že se vám to celé utrhlo a není pravda to, že jste to, co jste říkal, s ohledem nejvyšší ceny energií, že byly za nás. Na konci roku 2021, když jsme předávali vládu a podíval jste se do OECD, tak jste zjistil, že co se týká tzv. energetické inflace, tak víte, kde byla nejnižší ze všech zemí z OECD? Nejnižší byla v České republice. Ano, bylo to dáno tímto, uznávám, že jsme zatáhli za ruční brzdu a rychle jsme snížili DPH na nulu. Vy jste to mohli nechat potom třeba na 5 %. Neudělali jste vůbec nic, čekali jste na opatření Evropské unie. Nestalo se nic. Výsledek byl ten, že na konci roku 2021 jste měli nejvyšší energickou inflaci a ta inflace se stala, myslím, energická základem pro celkovou inflaci, proto jste odrbali lidi o 33 % v průběhu vaší vlády. Je třeba, pane poslanče, nedívat se jenom na aktuální čísla, protože logicky ten pokles či růst je ovlivněn tou základnou toho minulého roku. Jinými slovy, o co horší byl výsledek v minulém roce, o to je třeba lepší v tomto roce, ale součet...\\n00:09:43\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: '(...) celkovou inflaci, jste odrbali lidi o 33 % v průběhu vaší vlády.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 418.31 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Ceny v Česku za vlády Petra Fialy opravdu vzrostly zhruba o třetinu. Číslo 33 % odpovídá oficiálním datům o inflaci, i když závisí na metodě výpočtu. Hodnotící výraz o „odrbání“ je politický názor.</p>\n\n<p>Karel Havlíček v politické debatě kritizoval vládu Petra Fialy za vysokou inflaci a uvedl, že kvůli „celkové inflaci“ vláda „odrbala lidi o 33 % v průběhu své vlády“. Zaměřili jsme se na ověřitelnou část výroku, tedy na to, jak dlouho vláda trvala a o kolik se během tohoto období celkově zvýšily ceny.</p>\n\n<p>Výrok v sobě má dvě faktická tvrzení. První tvrdí, že vláda Petra Fialy vládla přibližně od konce roku 2021 do konce roku 2025. Druhé tvrdí, že během tohoto období celkově vzrostly spotřebitelské ceny v ČR zhruba o 33 %. Třetí část výroku – že tím vláda „odrbala lidi“ – je hodnotící soud, který nelze čistě fakticky ověřit, a proto jej jako fakt nehodnotíme.</p>\n\n<p>Podle oficiálního životopisu byl Petr Fiala prezidentem Milošem Zemanem jmenován předsedou vlády 28. listopadu 2021, jak uvádějí jeho <a href=\"https://pfiala.cz/o-mne?utm_source=openai\">osobní stránky</a>. Vláda jako celek byla jmenována 17. prosince 2021, což potvrzuje i encyklopedické <a href=\"https://www.czech.wiki/wiki/Petr_Fiala?utm_source=openai\">heslo</a>. Po volbách v roce 2025 kabinet podal demisi; zpravodajství <a href=\"https://tn.nova.cz/zpravodajstvi/clanek/633297-fialova-vlada-oznamila-svou-demisi-skoncit-by-mohla-uz-pred-vanoci?utm_source=openai\">TV Nova</a> a <a href=\"https://www.seznamzpravy.cz/clanek/domaci-politika-fiala-zverejnil-zpravu-o-stavu-ceska-294102?utm_source=openai\">Seznam Zpráv</a> popisuje, že vláda fungovala v demisi do poloviny prosince 2025. Pro výpočet inflace tedy dává smysl brát období zhruba od prosince 2021 do prosince 2025.</p>\n\n<p>O vývoji inflace v tomto období existují podrobné statistiky Českého statistického úřadu (ČSÚ) a České národní banky. ČSÚ pro rok 2022 uvádí průměrnou roční míru inflace 15,1 %, jak vyplývá z jeho přehledu <a href=\"https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai\">„Míra inflace v České republice v roce 2022“</a>. Pro rok 2023 statistický úřad uvádí průměrnou inflaci 10,7 %, což shrnuje další oficiální <a href=\"https://csu.gov.cz/csu/xp/mira-inflace-v-ceske-republice-v-roce-2023\">komentář</a>. Tisková informace ČSÚ citovaná serverem <a href=\"https://zpravy.kurzy.cz/796662-prumerna-mira-inflace-v-roce-2024-dosahla-2-4/?utm_source=openai\">Kurzy.cz</a> konstatuje, že průměrná inflace v roce 2024 klesla na 2,4 %. Česká národní banka pak ve svém prosincovém <a href=\"https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai\">komentáři</a> uvádí, že průměrná inflace roku 2025 dosáhla 2,5 %. Přehled inflace v roce 2021 (3,8 %) shrnuje například analytický článek projektu CEDMO založený na datech ČSÚ, který popisuje vývoj inflace během Fialovy vlády <a href=\"https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/?utm_source=openai\">v širším časovém kontextu</a>.</p>\n\n<p>Pro zjištění, o kolik se zvýšily ceny mezi začátkem a koncem vlády, je vhodné srovnat prosinec 2021 a prosinec 2025. Přehled na portálu <a href=\"https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai\">Finance.cz</a>, který vychází z údajů ČSÚ, uvádí, že ceny v prosinci 2022 byly meziročně vyšší o 15,8 % a v prosinci 2021 o 6,6 %. Archiv inflace serveru <a href=\"https://www.inflace-cesko.cz/archiv/\">Inflace‑Česko.cz</a> přisuzuje prosinci 2023 meziroční růst cen 6,9 %. Ekonomická rubrika <a href=\"https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-prosinci-opet-mirne-zrychlila-357034?utm_source=openai\">ČT24</a> pak uvádí, že v prosinci 2024 ceny meziročně vzrostly o 3,0 %, a již zmíněný komentář <a href=\"https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai\">ČNB</a> pro prosinec 2025 udává meziroční inflaci 2,1 %.</p>\n\n<p>Pokud tyto roční přírůstky spojíme standardním způsobem (násobením indexů 1,158 × 1,069 × 1,030 × 1,021), dostaneme přibližně 1,30. To znamená, že ceny v prosinci 2025 byly asi o 30 % vyšší než v prosinci 2021, kdy Fialova vláda nastupovala. Při pohledu na začátek a konec vlády tedy celkový růst cen vychází zhruba na třetinu, ale spíše mírně pod 33 %.</p>\n\n<p>Existuje i alternativní, politicky často používaný postup, který vychází z průměrných ročních měr inflace. Vezmeme‑li jako základ průměr cen v roce 2021 a postupně aplikujeme průměrnou inflaci let 2022, 2023, 2024 a 2025 (15,1 %, 10,7 %, 2,4 %, 2,5 %), získáme součin přibližně 1,34. To odpovídá růstu průměrné cenové hladiny asi o 34 % mezi rokem 2021 a rokem 2025, což vyplývá z výše citovaných statistik ČSÚ <a href=\"https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai\">k inflaci 2022</a> a jejich <a href=\"https://csu.gov.cz/csu/xp/mira-inflace-v-ceske-republice-v-roce-2023\">pokračování</a> pro rok 2023, stejně jako z komentáře <a href=\"https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai\">ČNB pro rok 2025</a>.</p>\n\n<p>Nezávislé fact‑checkingové a analytické projekty docházejí k podobným číslům. Projekt CEDMO/Demagog.cz na základě otevřených dat ČSÚ počítá tzv. kumulativní inflaci od prosince 2021, kdy se vláda ujala moci, do dubna 2025 a dochází k hodnotě 29,25 %, kterou shrnuje jako <i>„asi 30 %“</i> <a href=\"https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/?utm_source=openai\">ve své analýze</a>. Server <a href=\"https://manipulatori.cz/statistika-spolu-je-zavadejici/\">Manipulátoři.cz</a> pro podobně vymezené období uvádí růst cen 27,3 %. Obě analýzy tedy pracují s rozmezím necelé třetiny, což je číselně blízko hodnotě 33 %, i když mírně nižší.</p>\n\n<p>Z těchto dat vyplývá, že přesný výsledek závisí na tom, jak přesně období definujeme a jakou metodu výpočtu zvolíme. Při porovnání konkrétních měsíců na začátku a na konci vlády (prosinec 2021 vs. prosinec 2025) vychází růst cen zhruba 30 %, tedy lehce pod uvedenou hodnotou 33 %. Pokud ale porovnáváme průměrnou cenovou hladinu roku 2025 s rokem 2021 na základě průměrných ročních měr inflace, dostaneme nárůst kolem 34 %, což je číselně velmi blízko Havlíčkovu údaji. První faktické tvrzení výroku – že ceny za dobu Fialovy vlády vzrostly zhruba o třetinu – je proto v zásadě v souladu s oficiálními statistikami, přičemž 33 % představuje spíše horní hranici tohoto rozmezí.</p>\n\n<p>Druhé faktické tvrzení, že jde o „celkovou inflaci“ v průběhu vlády, je v podstatě jen jiné označení téhož jevu: souhrnného růstu cen mezi začátkem a koncem mandátu. Tento souhrnný růst se skutečně pohybuje okolo třetiny, jak ukazují jak data ČSÚ a ČNB, tak nezávislé výpočty CEDMO a Manipulátoři.cz.</p>\n\n<p>Naopak část výroku, v níž Havlíček tvrdí, že vláda lidi o tuto částku „odrbala“, je čistě hodnotící politické hodnocení. Neříká nic o tom, jak se v daném období vyvíjely mzdy, důchody či sociální dávky, ani nerozlišuje, jak velkou část inflace způsobily vnější šoky (například energetická krize či ruská invaze na Ukrajinu) a jakou domácí hospodářská politika. Jde tedy o názor, který jako fakt neověřujeme.</p>\n\n<p>Celkově tedy platí, že za dobu vlády Petra Fialy vzrostly ceny zboží a služeb v Česku v souhrnu přibližně o třetinu. Uvedených 33 % odpovídá horní hraně tohoto rozpětí, ale z hlediska řádu velikosti věrně odráží skutečný rozsah inflace v daném období. Výrok proto v jeho faktické části hodnotíme jako <strong>pravda</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_042e7edb634a71f50069a6c4c9538c81a1b65086b750b08aa0",
+    "created_at": 1772537033.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_042e7edb634a71f50069a6c4d2600881a1ac8b75e5d52208d3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c4e5a37481a18194455c4f01297f",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c4e63f6881a1ad4c3fb1340aeeb6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c4e6748081a1899f5609a1c10eaa",
+        "action": {
+          "query": "vláda Petra Fialy kdy nastoupila kdy skončila",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "vláda Petra Fialy kdy nastoupila kdy skončila",
+            "Česká republika index spotřebitelských cen 2021 2022 2023 2024 Čsú",
+            "souhrnná inflace od prosince 2021 do konce vlády Petra Fialy",
+            "\"odrbali lidi o 33 %\" inflace"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c4e9658c81a18af11eee4c0af6ea",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c4ee3bf881a1b44bc8434bc8ee73",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c4ef3b9481a19d6a9bb704bb0dd2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c4efcb8481a1b17065758c9fbdfc",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c4f1225c81a186a6fa44846c0fe3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c4f50f7881a1add1dcf9909ebd82",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c4f6061081a181774abe27199818",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c4f92b6881a1932127b3109f5407",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c4fa72b881a1a4415df4ec765d99",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c504481481a1abdff6c8e5e3f411",
+        "action": {
+          "query": "\"Ceny za celou vládu Petra Fialy\" 27,3",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Ceny za celou vládu Petra Fialy\" 27,3",
+            "\"ceny za vlády Petra Fialy\" \"se zvýšily\" procent",
+            "\"inflace\" \"za vlády Petra Fialy\" 33",
+            "\"celková inflace\" \"vláda Petra Fialy\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c507bcc081a1b48ef66080f4b179",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c5096a8c81a1a2cea7ad0e150202",
+        "action": {
+          "query": "\"Ceny za celou vládu Petra Fialy\" 27,3 %",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Ceny za celou vládu Petra Fialy\" 27,3 %",
+            "\"27,3 %\" \"za celou vládu Petra Fialy\" ceny",
+            "\"ceny za\" \"vládu Petra Fialy\" vzrostly o",
+            "\"celkový nárůst cen\" \"vlády Petra Fialy\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c50db4a881a1a80fb30cbe95453b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c50facb081a1bd8b603059e23b4f",
+        "action": {
+          "query": "\"Průměrná roční míra inflace\" 2022 15,1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Průměrná roční míra inflace\" 2022 15,1",
+            "\"Průměrná roční míra inflace\" \"2023\" \"10,7\" Český statistický úrad",
+            "\"Průměrná míra inflace\" \"v roce 2024\" 2,4",
+            "\"průměrná roční míra inflace\" 2025 Ďský statistický úrad"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c513938081a1817d042ae6c32bc1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_042e7edb634a71f50069a6c5176e2c81a1a6428e2338a65c4d",
+        "code": "rates = [0.151,0.107,0.024,0.025]\ncum = 1\nfor r in rates:\n    cum *= (1+r)\ncum - 1",
+        "container_id": "cntr_69a6c4d1a58481919b048d345641bb7501b4a42f14ffa05d",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c51d7a7881a198cb83b70b96c1db",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c5342fac81a1a52e89a0cfa7d7e4",
+        "action": {
+          "query": "Petr Fiala předseda vlády České republiky 28. listopadu 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Petr Fiala předseda vlády České republiky 28. listopadu 2021",
+            "\"vláda Petra Fialy\" \"vlada.cz\"",
+            "\"konec vlády Petra Fialy\" 2025",
+            "\"Petr Fiala\" předseda vlády do 15. prosince 2025"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c5386d3081a18805bddf73168032",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c540a86c81a1ae0039b4d51ff4f3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c543392081a1a38340dd069c2e13",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c5458e6081a19e2ae7fe0050447b",
+        "action": {
+          "query": "\"průměrná roční míra inflace\" \"v roce 2024\" \"2,4\" csu",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"průměrná roční míra inflace\" \"v roce 2024\" \"2,4\" csu",
+            "\"Průměrná míra inflace za\" \"rok 2024\" \"činila\"",
+            "\"míra inflace v České republice v roce 2024\"",
+            "\"Průměrná míra inflace v České republice za rok 2022\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c54dc5f881a19ea9792c2f1faac3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c55277c881a1a2e225b94c109179",
+        "action": {
+          "query": "\"Průměrná roční míra inflace za rok 2022\" 15,1 %",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Průměrná roční míra inflace za rok 2022\" 15,1 %",
+            "\"Průměrná míra inflace za rok 2022 činila 15,1\"",
+            "\"prumerna mira inflace\" \"za rok 2022\" \"15,1\"",
+            "site:csu.gov.cz \"Průměrná míra inflace\" 2022 15,1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c55856b081a1aa35e77cb4c3b4dd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c55ca04c81a1816cbccec7cd2f29",
+        "action": {
+          "query": "\"Míra inflace v České republice v roce 2021\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Míra inflace v České republice v roce 2021\"",
+            "\"Průměrná míra inflace\" 2021 3,8",
+            "\"Průměrná roční míra inflace\" v roce 2021 3,8",
+            "\"průměrná míra inflace v ČR za rok 2021\" 3,8"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c55fe80081a1989cbce356c9e6ac",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c560d3e081a1baba06eda2b088e5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c562041081a197b67e0f7129b4fb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c5722d8881a196cbee7f6f9b69d9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c57357c481a19d3ad2528900f9ad",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c5763cd481a1a87f8d1db64ee2de",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c57bf21c81a19b6a6dc9bf54f98d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c57d471c81a1ad483d9352f1e9af",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c5832e3481a1ad7a95f145c37223",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_042e7edb634a71f50069a6c592652c81a18bab4dc33b9f8fc0",
+        "code": "cum_dec = (1+0.158)*(1+0.069)*(1+0.03)*(1+0.021)\ncum_dec",
+        "container_id": "cntr_69a6c4d1a58481919b048d345641bb7501b4a42f14ffa05d",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c5994f6081a1834a415247124ca0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_042e7edb634a71f50069a6c5a79cc081a1b6ba75a37b6cd5df",
+        "code": "cum_2021_2025 = 1.038*1.151*1.107*1.024*1.025\ncum_2022_2025 = 1.151*1.107*1.024*1.025\ncum_2021_2025-1, cum_2022_2025-1",
+        "container_id": "cntr_69a6c4d1a58481919b048d345641bb7501b4a42f14ffa05d",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c5aa9ffc81a1987d4569a43bc931",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_042e7edb634a71f50069a6c5f3172081a189f9c5e0544be800",
+        "action": {
+          "query": "\"spotřebitelské ceny v prosinci meziročně\" 6,9 % 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"spotřebitelské ceny v prosinci meziročně\" 6,9 % 2023",
+            "\"v prosinci meziročně stouply o 6,9\" \"spotřebitelské ceny\" 2023",
+            "\"průměrná míra inflace činila 10,7\" \"spotřebitelské ceny v prosinci\" 2023",
+            "\"spotřebitelské ceny v prosinci meziročně vzrostly\" 6,9 % 2023 \"ČSÚ\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_042e7edb634a71f50069a6c5fbbda881a1a15929d84338b9c5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_042e7edb634a71f50069a6c61455d881a1932054d4a842524a",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 512,
+                "start_index": 444,
+                "title": "Inflace během Fialovy vlády - CEDMO",
+                "type": "url_citation",
+                "url": "https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/"
+              },
+              {
+                "end_index": 653,
+                "start_index": 577,
+                "title": "Statistika SPOLU je zavádějící - Manipulátoři.cz",
+                "type": "url_citation",
+                "url": "https://manipulatori.cz/statistika-spolu-je-zavadejici/"
+              },
+              {
+                "end_index": 2074,
+                "start_index": 2018,
+                "title": "o mně / Petr Fiala",
+                "type": "url_citation",
+                "url": "https://pfiala.cz/o-mne?utm_source=openai"
+              },
+              {
+                "end_index": 2219,
+                "start_index": 2147,
+                "title": "▷ Petr Fiala - Česká Wikipedie",
+                "type": "url_citation",
+                "url": "https://www.czech.wiki/wiki/Petr_Fiala?utm_source=openai"
+              },
+              {
+                "end_index": 2520,
+                "start_index": 2373,
+                "title": "Fialova vláda oznámila svou demisi. Skončit by mohla už před Vánoci | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/633297-fialova-vlada-oznamila-svou-demisi-skoncit-by-mohla-uz-pred-vanoci?utm_source=openai"
+              },
+              {
+                "end_index": 2774,
+                "start_index": 2641,
+                "title": "Fiala zveřejnil svou zprávu o stavu Česka - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-fiala-zverejnil-zpravu-o-stavu-ceska-294102?utm_source=openai"
+              },
+              {
+                "end_index": 3344,
+                "start_index": 3258,
+                "title": "Inflace během Fialovy vlády - CEDMO",
+                "type": "url_citation",
+                "url": "https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/?utm_source=openai"
+              },
+              {
+                "end_index": 3510,
+                "start_index": 3411,
+                "title": "Míra inflace v České republice v roce 2022 | Plzeňský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai"
+              },
+              {
+                "end_index": 3661,
+                "start_index": 3577,
+                "title": "Míra inflace v České republice v roce 2023 | Plzeňský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/xp/mira-inflace-v-ceske-republice-v-roce-2023"
+              },
+              {
+                "end_index": 3886,
+                "start_index": 3770,
+                "title": "Průměrná míra inflace v roce 2024 dosáhla 2,4 % | Kurzy.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.kurzy.cz/796662-prumerna-mira-inflace-v-roce-2024-dosahla-2-4/?utm_source=openai"
+              },
+              {
+                "end_index": 4177,
+                "start_index": 4000,
+                "title": "Inflace v prosinci zůstala na 2,1 % - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai"
+              },
+              {
+                "end_index": 4347,
+                "start_index": 4296,
+                "title": "Inflace v České republice | Inflace-Česko.cz",
+                "type": "url_citation",
+                "url": "https://www.inflace-cesko.cz/"
+              },
+              {
+                "end_index": 4697,
+                "start_index": 4591,
+                "title": "Valorizace a růst důchodů v červenci 2023 | Finance.cz",
+                "type": "url_citation",
+                "url": "https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai"
+              },
+              {
+                "end_index": 4854,
+                "start_index": 4748,
+                "title": "Valorizace a růst důchodů v červenci 2023 | Finance.cz",
+                "type": "url_citation",
+                "url": "https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai"
+              },
+              {
+                "end_index": 4962,
+                "start_index": 4904,
+                "title": "Vývoj inflace v ČR | Inflace-Česko.cz",
+                "type": "url_citation",
+                "url": "https://www.inflace-cesko.cz/archiv/"
+              },
+              {
+                "end_index": 5150,
+                "start_index": 5012,
+                "title": "▶ Inflace v prosinci opět mírně zrychlila — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-prosinci-opet-mirne-zrychlila-357034?utm_source=openai"
+              },
+              {
+                "end_index": 5377,
+                "start_index": 5200,
+                "title": "Inflace v prosinci zůstala na 2,1 % - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai"
+              },
+              {
+                "end_index": 5889,
+                "start_index": 5821,
+                "title": "Inflace během Fialovy vlády - CEDMO",
+                "type": "url_citation",
+                "url": "https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/"
+              },
+              {
+                "end_index": 6178,
+                "start_index": 6110,
+                "title": "Inflace během Fialovy vlády - CEDMO",
+                "type": "url_citation",
+                "url": "https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/"
+              },
+              {
+                "end_index": 6339,
+                "start_index": 6271,
+                "title": "Inflace během Fialovy vlády - CEDMO",
+                "type": "url_citation",
+                "url": "https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/"
+              },
+              {
+                "end_index": 6692,
+                "start_index": 6616,
+                "title": "Statistika SPOLU je zavádějící - Manipulátoři.cz",
+                "type": "url_citation",
+                "url": "https://manipulatori.cz/statistika-spolu-je-zavadejici/"
+              },
+              {
+                "end_index": 7674,
+                "start_index": 7568,
+                "title": "Valorizace a růst důchodů v červenci 2023 | Finance.cz",
+                "type": "url_citation",
+                "url": "https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai"
+              },
+              {
+                "end_index": 7866,
+                "start_index": 7723,
+                "title": "ČR: Inflace v prosinci klesla na 6,9 %, za celý rok činila 10,7 % - Investiční web",
+                "type": "url_citation",
+                "url": "https://www.investicniweb.cz/aktuality/216111-cr-inflace-v-prosinci-klesla-na-69-za-cely-rok-cinila-107?utm_source=openai"
+              },
+              {
+                "end_index": 8053,
+                "start_index": 7915,
+                "title": "▶ Inflace v prosinci opět mírně zrychlila — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-prosinci-opet-mirne-zrychlila-357034?utm_source=openai"
+              },
+              {
+                "end_index": 8279,
+                "start_index": 8102,
+                "title": "Inflace v prosinci zůstala na 2,1 % - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai"
+              },
+              {
+                "end_index": 9329,
+                "start_index": 9230,
+                "title": "Míra inflace v České republice v roce 2022 | Plzeňský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai"
+              },
+              {
+                "end_index": 9946,
+                "start_index": 9847,
+                "title": "Míra inflace v České republice v roce 2022 | Plzeňský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai"
+              },
+              {
+                "end_index": 10352,
+                "start_index": 10186,
+                "title": "Inflace v prosinci zrychlila na tři procenta, za celý rok 2024 byl průměr 2,4 - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-inflace-v-prosinci-byla-3-procenta-za-cely-lonsky-rok-byl-prumer-24-267875?utm_source=openai"
+              },
+              {
+                "end_index": 10581,
+                "start_index": 10473,
+                "title": "Nevolíš, zaplatíš! - Médium.cz",
+                "type": "url_citation",
+                "url": "https://medium.seznam.cz/clanek/michal-bartl-nevolis-zaplatis-166986?utm_source=openai"
+              },
+              {
+                "end_index": 11263,
+                "start_index": 11195,
+                "title": "Inflace během Fialovy vlády - CEDMO",
+                "type": "url_citation",
+                "url": "https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/"
+              },
+              {
+                "end_index": 12086,
+                "start_index": 12000,
+                "title": "Inflace během Fialovy vlády - CEDMO",
+                "type": "url_citation",
+                "url": "https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/?utm_source=openai"
+              },
+              {
+                "end_index": 12365,
+                "start_index": 12266,
+                "title": "Míra inflace v České republice v roce 2022 | Plzeňský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai"
+              },
+              {
+                "end_index": 12816,
+                "start_index": 12717,
+                "title": "Míra inflace v České republice v roce 2022 | Plzeňský kraj",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai"
+              },
+              {
+                "end_index": 13111,
+                "start_index": 13005,
+                "title": "Valorizace a růst důchodů v červenci 2023 | Finance.cz",
+                "type": "url_citation",
+                "url": "https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai"
+              },
+              {
+                "end_index": 13354,
+                "start_index": 13286,
+                "title": "Inflace během Fialovy vlády - CEDMO",
+                "type": "url_citation",
+                "url": "https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/"
+              }
+            ],
+            "text": "## 1. Shrnutí výroku a hlavní závěr\n\nZ výroku Karla Havlíčka:\n\n> „…ta inflace se stala (…) základem pro celkovou inflaci, **proto jste odrbali lidi o 33 % v průběhu vaší vlády.**“\n\nlze vyčíst faktické tvrzení:  \n**za vlády Petra Fialy vzrostly ceny (celková inflace) přibližně o třetinu, tj. ~33 %.**\n\nNa základě dostupných dat:\n\n- **Kumulativní inflace od prosince 2021 (nástup Fialovy vlády) do dubna 2025** podle ČSÚ dosáhla cca **29,25 %**.([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n- Jiný výpočet téhož období v Manipulátoři.cz dává **27,3 %**.([manipulatori.cz](https://manipulatori.cz/statistika-spolu-je-zavadejici/))  \n- **Od prosince 2021 do prosince 2025** (tedy zhruba přes celé funkční období vlády) vychází na základě meziročních inflací cca **30 %** (viz výpočet v části 5.3).  \n- **Při použití průměrných ročních měr inflace 2022–2025 proti roku 2021** vychází souhrnný růst cen cca **34 %** (tj. zhruba „o třetinu“ – viz 5.4).\n\nČíselně tedy tvrzení o „zhruba třetině“ není vycucané z prstu, ale **33 % je spíše horní konec realistického intervalu (cca 30–34 %)** a závisí na zvolené metodě výpočtu. Slovní část „odrbali lidi“ je hodnotící, nikoli ověřitelný fakt.\n\n---\n\n## 2. Rozklad výroku na dílčí tvrzení\n\n1. **Časové vymezení**  \n   a) Petr Fiala byl předsedou vlády zhruba od konce roku 2021 do poloviny prosince 2025.  \n2. **Vývoj inflace v ČR v tomto období**  \n   a) Inflace v ČR byla v letech 2022 a 2023 velmi vysoká, poté se v letech 2024–2025 výrazně snížila.  \n   b) Ceny za dobu Fialovy vlády stouply celkově zhruba o 30–33 %.  \n3. **Interpretace**  \n   a) Tento cenový růst znamená, že kupní síla lidí klesla o podobný řád, pokud jejich příjmy nerostly s inflací.  \n   b) Tvrzení, že vláda tím „odrbala lidi o 33 %“, je hodnotící (politická interpretace).\n\nDále ověřujeme hlavně body 1 a 2.\n\n---\n\n## 3. Doba trvání vlády Petra Fialy\n\n- **Jmenování premiérem:**  \n  – Petr Fiala byl prezidentem Milošem Zemanem jmenován předsedou vlády **28. listopadu 2021**.([pfiala.cz](https://pfiala.cz/o-mne?utm_source=openai))  \n  – Vláda Petra Fialy byla jako celek jmenována **17. prosince 2021**.([czech.wiki](https://www.czech.wiki/wiki/Petr_Fiala?utm_source=openai))  \n\n- **Ukončení vlády:**  \n  – Po volbách v roce 2025 Fialova vláda podala demisi v listopadu 2025; Fiala fungoval jako premiér v demisi do předání moci.([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/633297-fialova-vlada-oznamila-svou-demisi-skoncit-by-mohla-uz-pred-vanoci?utm_source=openai))  \n  – Nový kabinet Andreje Babiše byl jmenován v prosinci 2025; Fiala předává zprávu o stavu země **15. prosince 2025**.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-politika-fiala-zverejnil-zpravu-o-stavu-ceska-294102?utm_source=openai))  \n\n**Pro účely výpočtu inflace tedy dává smysl brát období přibližně od prosince 2021 do prosince 2025.**\n\n---\n\n## 4. Základní údaje o inflaci v ČR 2021–2025\n\n### 4.1 Průměrná roční míra inflace (ČSÚ)\n\nPrůměrná roční míra inflace (roční přírůstek průměrného indexu spotřebitelských cen) v ČR podle ČSÚ byla:  \n\n| Rok | Průměrná roční míra inflace | Zdroje |\n|-----|-----------------------------|--------|\n| **2021** | **3,8 %** | ČSÚ / shrnuje CEDMO a další (průměrná inflace 3,8 %).([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/?utm_source=openai)) |\n| **2022** | **15,1 %** | ČSÚ – „Míra inflace v ČR v roce 2022“.([csu.gov.cz](https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai)) |\n| **2023** | **10,7 %** | ČSÚ – „Míra inflace v ČR v roce 2023“.([csu.gov.cz](https://csu.gov.cz/csu/xp/mira-inflace-v-ceske-republice-v-roce-2023)) |\n| **2024** | **2,4 %** | ČSÚ – tisková informace 13. 1. 2025 („Průměrná míra inflace 2024 dosáhla 2,4 %“).([zpravy.kurzy.cz](https://zpravy.kurzy.cz/796662-prumerna-mira-inflace-v-roce-2024-dosahla-2-4/?utm_source=openai)) |\n| **2025** | **2,5 %** | ČNB – komentář k inflaci v prosinci 2025 („průměrná míra inflace 2025 dosáhla 2,5 %“).([cnb.cz](https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai)) |\n\nTato čísla jsou konzistentně rekapitulována i dalšími seriózními přehledy, které explicitně uvádějí jako zdroj ČSÚ.([inflace-cesko.cz](https://www.inflace-cesko.cz/))  \n\n### 4.2 Meziroční inflace v prosinci (prosinec daného roku vs. prosinec předchozího)\n\nPro výpočet **změny cen mezi začátkem a koncem vlády** je užitečné sledovat meziroční inflaci v prosinci:\n\n- **Prosinec 2021:** ceny meziročně **+6,6 %**.([finance.cz](https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai))  \n- **Prosinec 2022:** ceny meziročně **+15,8 %**.([finance.cz](https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai))  \n- **Prosinec 2023:** ceny meziročně **+6,9 %**.([inflace-cesko.cz](https://www.inflace-cesko.cz/archiv/))  \n- **Prosinec 2024:** ceny meziročně **+3,0 %**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-prosinci-opet-mirne-zrychlila-357034?utm_source=openai))  \n- **Prosinec 2025:** ceny meziročně **+2,1 %**.([cnb.cz](https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai))  \n\n---\n\n## 5. Kumulativní inflace „během Fialovy vlády“\n\nProtože různé subjekty používají různé metody, je důležité ukázat několik standardních přístupů.\n\n### 5.1 Kumulativní inflace podle ČSÚ / CEDMO (prosinec 2021 → duben 2025)\n\nFact‑checking CEDMO (Demagog.cz) používá data ČSÚ o tzv. **kumulativní inflaci** (úhrnný růst cen mezi dvěma měsíci):\n\n- Autoři výslovně berou **prosinec 2021** jako počátek, „kdy se současný kabinet ujal vlády“.([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n- Na základě otevřených dat ČSÚ uvádějí, že **kumulativní inflace od prosince 2021 do dubna 2025 dosáhla 29,25 %**:  \n\n  > „…podle [údajů ČSÚ] kumulativní inflace od začátku působení Fialovy vlády dosáhla **29,25 %**.“([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n\n- Závěr CEDMO:  \n\n  > „…oproti prosinci 2021 se ceny zboží zvýšily **přibližně o 30 %**.“([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n\nTento výpočet se vztahuje k dubnu 2025, tedy ještě **před koncem** vládního období.\n\n### 5.2 Jiný výpočet (Manipulátoři.cz) – 27,3 %\n\nAnalýza Manipulátoři.cz (Jan Cemper) pracuje rovněž s daty ČSÚ a uvádí:\n\n- „**Ceny za celou vládu Petra Fialy dosud se zvýšily o 27,3 %.**“([manipulatori.cz](https://manipulatori.cz/statistika-spolu-je-zavadejici/))  \n\nČlánek je z konce května 2025 a odkazuje na stav „dosud“, tj. do jara 2025, opět ještě před koncem vlády. Metodika (volba konkrétních měsíců či indexu) není v textu detailně rozvedena, ale jde zjevně o alternativní výpočet téže veličiny – kumulativního růstu cen mezi nástupem a tehdejší aktuální situací.\n\n**Závěr 5.1–5.2:**  \nJeště před koncem vlády se bere jako odborně podložené, že **od prosince 2021 do jara 2025** vzrostly ceny cca **o 27–29 %**, tedy zhruba o **necelou třetinu**.\n\n---\n\n### 5.3 Kumulativní inflace mezi začátkem a koncem vlády (prosinec 2021 → prosinec 2025)\n\nPro období **celé vlády** je nejpřirozenější srovnávat ceny v měsíci jejího nástupu a v měsíci jejího skončení, tedy **prosinec 2021 vs. prosinec 2025**. K tomu lze využít postupných meziročních inflací v prosincích:\n\n- Index cen v prosinci 2022 je vůči prosinci 2021 vyšší o **15,8 %**.([finance.cz](https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai))  \n- Prosinec 2023 vs. prosinec 2022: **+6,9 %**.([investicniweb.cz](https://www.investicniweb.cz/aktuality/216111-cr-inflace-v-prosinci-klesla-na-69-za-cely-rok-cinila-107?utm_source=openai))  \n- Prosinec 2024 vs. prosinec 2023: **+3,0 %**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-prosinci-opet-mirne-zrychlila-357034?utm_source=openai))  \n- Prosinec 2025 vs. prosinec 2024: **+2,1 %**.([cnb.cz](https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Inflace-v-prosinci-zustala-na-21-?utm_source=openai))  \n\nKumulativní růst cen mezi prosincem 2021 a prosincem 2025 je pak součinem těchto meziročních růstů:\n\n\\[\n(1{,}158) \\times (1{,}069) \\times (1{,}030) \\times (1{,}021) \\approx 1{,}30\n\\]\n\n⇒ **cca +30 %**.\n\nJinými slovy, **ceny v prosinci 2025 byly asi o 30 % vyšší než v prosinci 2021**, kdy Fialova vláda nastupovala.\n\nTento výsledek je velmi blízký údajům z CEDMO (29,25 % do dubna 2025) a dobře ilustruje, že **celkový růst cen během celé vlády byl kolem 30 %**.\n\n---\n\n### 5.4 Kumulativní inflace z průměrných ročních měr inflace (2022–2025 vůči 2021)\n\nNěkteré politické materiály (včetně kritiky vlády ANO) vycházejí z **průměrných ročních měr inflace**, které jsme uvedli v tabulce v části 4.1. Pokud je použijeme k odhadu, o kolik se změnila průměrná cenová hladina mezi rokem **2021** a **2025**, dostaneme:\n\n- rok 2022 vs. 2021: **+15,1 %**  \n- rok 2023 vs. 2022: **+10,7 %**  \n- rok 2024 vs. 2023: **+2,4 %**  \n- rok 2025 vs. 2024: **+2,5 %**([csu.gov.cz](https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai))  \n\nKumulativně:\n\n\\[\n(1{,}151) \\times (1{,}107) \\times (1{,}024) \\times (1{,}025) \\approx 1{,}34\n\\]\n\n⇒ **cca +33–34 %**.\n\nTo znamená, že **průměrná cenová hladina za rok 2025 byla zhruba o 34 % vyšší než průměr za rok 2021**.\n\nTento výpočet ovšem:\n\n- používá **průměrné hodnoty za celé roky**, nikoli stav v konkrétních měsících,  \n- a implicitně **připisuje rok 2022 celý „vládě Fiala vs. 2021“**, ačkoli část roku 2021 připadala ještě na vládu Andreje Babiše (inflace v roce 2021 byla 3,8 % a už tehdy akcelerovala).([csu.gov.cz](https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai))  \n\nPrávě tato metodika dává číslo **velmi blízké Havlíčkovým „33 %“**.\n\n---\n\n### 5.5 Další komentáře a odhady\n\n- Seznam Zprávy při komentování inflace za rok 2024 uvádějí, že **za tři roky** (cca 2021–2024) vzrostly ceny o „více než 27 %“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-finance-inflace-v-prosinci-byla-3-procenta-za-cely-lonsky-rok-byl-prumer-24-267875?utm_source=openai))  \n- Publicistický text na Seznam/Medium shrnuje, že „**za celé období vlády vzrostla cenová hladina zhruba o třetinu**“.([medium.seznam.cz](https://medium.seznam.cz/clanek/michal-bartl-nevolis-zaplatis-166986?utm_source=openai))  \n\nTyto odhady potvrzují, že **řádově se růst cen za dobu vlády pohyboval kolem jedné třetiny**.\n\n---\n\n## 6. Hodnotící část výroku („odrbali lidi“) vs. ověřitelná fakta\n\nVýrok obsahuje dvě roviny:\n\n1. **Číselná rovina („o 33 %“) – kvantitativní tvrzení**  \n   - Při měření z **prosinec 2021 → prosinec 2025** vychází kumulativní inflace cca **30 %**.  \n   - Při použití **průměrných ročních měr inflace 2022–2025** vůči roku 2021 vychází cca **34 %**.  \n   - Odborné fact‑checkingové analýzy (CEDMO, Manipulátoři) pracují pro jaro 2025 s hodnotami **27–29 %**, tj. „zhruba třetina“, ovšem ještě před koncem vlády.([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n\n   **Závěr k číselné části:**  \n   – Pokud se použije metoda „průměr 2025 vs. průměr 2021“, číslo kolem **33 %** dobře odpovídá datům ČSÚ.  \n   – Přesnější srovnání „stav na začátku vlády vs. na konci“ (prosinec 2021–prosinec 2025) dává spíše **≈30 %**.  \n   – Tvrzení „odrbali lidi o 33 %“ tedy **čísla nadsazuje o několik procentních bodů**, ale z hlediska řádu velikosti (zhruba třetina) odpovídá realitě.\n\n2. **Hodnotící rovina („odrbali lidi“) – normativní tvrzení**  \n   - Zda je inflace „vina“ konkrétní vlády a zda to lze popsat jako „odrbání“, je **politické a hodnotové posouzení**, nikoli čistě faktická otázka.  \n   - Samotná data ukazují, že:  \n     – růst inflace začal již v roce **2021** před nástupem Fialovy vlády, ([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/?utm_source=openai))  \n     – rekordní inflace v roce **2022** (15,1 %) byla druhá nejvyšší od vzniku ČR a byla silně ovlivněna energetickou krizí, válkou na Ukrajině a dozníváním covidových opatření.([csu.gov.cz](https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai))  \n\n   Odpovědnost za konkrétní vývoj inflace je tedy **sporná a politicky interpretovaná**.\n\n---\n\n## 7. Shrnutí pro rozhodnutí fact‑checkera\n\n- **Faktická část výroku („33 %“) je založena na reálném rozsahu inflace za dobu Fialovy vlády**, pokud se použije metoda kumulace průměrných ročních měr inflace (2022–2025 vůči 2021), která dává cca **34 %**.([csu.gov.cz](https://csu.gov.cz/plk/mira-inflace-v-ceske-republice-v-roce-2022?utm_source=openai))  \n- **Při přímém srovnání cen v prosinci 2021 a prosinci 2025** (což lépe odpovídá skutečnému „začátku“ a „konci“ vlády) vychází růst cen cca **30 %**, tedy o něco méně než uváděných 33 %.([finance.cz](https://www.finance.cz/545323-valorizace-a-rust-duchodu-v-cervenci-2023/?utm_source=openai))  \n- Dva nezávislé fact‑checkingové výpočty (CEDMO/Demagog.cz a Manipulátoři.cz) pracují pro jaro 2025 s kumulativním růstem cen **cca 27–29 %**, tedy rovněž blízko „třetině“.([cedmohub.eu](https://cedmohub.eu/cs/inflace-behem-fialovy-vlady/))  \n\n**Pro lidského fact‑checkera to znamená:**\n\n- Pokud je posuzována **striktní přesnost čísla 33 % pro celé období vlády**, je toto číslo **mírně nadsazené** vůči přímé kumulaci prosinec 2021–prosinec 2025 (~30 %).  \n- Pokud je hodnocena **řádová informace („zhruba třetina kupní síly“) a výpočet přes průměrné roční míry inflace**, pak je výrok **kvantitativně v zásadě v souladu s oficiálními daty**, i když zjednodušuje metodiku a přisuzuje Fialově vládě i část inflačního vývoje, který začal už v roce 2021.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 82998,
+      "input_tokens_details": {
+        "cached_tokens": 6912
+      },
+      "output_tokens": 20759,
+      "output_tokens_details": {
+        "reasoning_tokens": 16109
+      },
+      "total_tokens": 103757
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772537439,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

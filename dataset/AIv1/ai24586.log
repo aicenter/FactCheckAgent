@@ -1,0 +1,688 @@
+{
+  "claim_id": "24586",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260209_115155",
+  "source_md": "experiments/gpt5.1_h_20260209_115155/brief_fact_check_id24586.md",
+  "fact_check": "# Fact Check for Statement ID 24586\n\n## Statement\nViděla jste inflaci za leden? Je nejnižší za devět let.\n\n---\n## AI Fact Check\n## 1. Identifikace a interpretace výroku\n\nOvěřovaný výrok Andreje Babiše (7. 2. 2026, pořad *Za pět minut dvanáct*):\n\n> „Viděla jste inflaci za leden? Je nejnižší za devět let.“\n\n### Jak výrok interpretujeme\n- „inflace za leden“ – standardně v české debatě znamená **meziroční inflaci v lednu**, tj. přírůstek indexu spotřebitelských cen (CPI) v lednu daného roku oproti lednu předchozího roku, jak jej publikuje ČSÚ.([csu.gov.cz](https://csu.gov.cz/inflace-spotrebitelske-ceny))  \n- Časový kontext – výrok zazněl 7. února 2026, několik dní po zveřejnění **předběžného odhadu inflace za leden 2026** Českým statistickým úřadem (ČSÚ).([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n- „nejnižší za devět let“ – chápeme jako tvrzení, že lednová meziroční inflace 2026 je **nejnižší hodnota od ledna 2017 (resp. od konce roku 2016)**, tedy že v posledních zhruba devíti letech nebyla meziroční inflace v žádném měsíci nižší.\n\nVýrok tedy rozkládáme na dvě dílčí tvrzení:\n\n1. V lednu 2026 byla meziroční inflace určité (konkrétní) nízké hodnoty.\n2. Tato lednová inflace byla nejnižší za (více než) devět let.\n\n---\n\n## 2. Dílčí tvrzení 1: Kolik činila inflace v lednu 2026?\n\n### Evidence z ČSÚ (primární zdroj)\n\nČSÚ vydal 5. února 2026 dokument **„Předběžný odhad indexu spotřebitelských cen – leden 2026“**:\n\n- Titulní věta: „Podle předběžného odhadu se očekává **lednový meziroční růst spotřebitelských cen o 1,6 %**.“([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n- V textu je dále upřesněno: „Dle předběžného odhadu spotřebitelské ceny v lednu 2026 meziměsíčně vzrostly o 0,9 % a **meziročně o 1,6 %**.“([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n- V tabulce k témuž dokumentu je u řádku „Úhrnný index spotřebitelských cen“ uvedeno: prosinec 2025 – 2,1 % (meziroční), leden 2026 – **1,6 % (předběžně)**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n\nNa stránce přehledu inflace ČSÚ je pro předchozí měsíc uvedeno, že v prosinci 2025 „meziročně vzrostly spotřebitelské ceny … o **2,1 %**“ a průměrná míra inflace za rok 2025 byla 2,5 %.([csu.gov.cz](https://csu.gov.cz/inflace-spotrebitelske-ceny))  \n\n### Sekundární zdroje potvrzující stejnou hodnotu\n\nVíce médií (všechna čerpají z ČSÚ / ČTK) uvádí shodnou lednovou hodnotu:\n\n- ČT24: „Spotřebitelské ceny v Česku v lednu **meziročně vzrostly o 1,6 procenta**, zlevnily energie.“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994))  \n- Forbes: „Spotřebitelské ceny v Česku v lednu meziročně vzrostly o **1,6 procenta, vyplývá z předběžného odhadu ČSÚ**.“([forbes.cz](https://forbes.cz/nejnizsi-inflace-za-poslednich-devet-let-ceny-mezirocne-vzrostly-o-16-procenta/))  \n- e15: „Spotřebitelské ceny v Česku v lednu meziročně vzrostly o **1,6 procenta**, vyplývá z předběžného odhadu ČSÚ.“([e15.cz](https://www.e15.cz/byznys/finance-a-bankovnictvi/inflace-je-nejnizsi-od-roku-2016-zlevnily-energie-1430671))  \n- Seznam Zprávy: „Spotřebitelské ceny v Česku v lednu meziročně vzrostly o **1,6 procenta**, vyplývá z předběžného odhadu ČSÚ.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-finance-spotrebitelske-ceny-v-cesku-v-lednu-stouply-nejmene-od-listopadu-2016-298127))  \n- Ekonomický deník: „Spotřebitelské ceny v lednu meziročně vzrostly o **1,6 procenta**.“([ekonomickydenik.cz](https://ekonomickydenik.cz/ceny-rostly-nejpomaleji-devet-let/?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz))  \n\n### Závěr k dílčímu tvrzení 1\n\n- **Fakticky platí**, že podle ČSÚ (předběžný odhad publikovaný 5. 2. 2026) činila meziroční inflace v lednu 2026 **1,6 %**.  \n- V době výroku (7. 2. 2026) byla tato čísla jedinými oficiálně dostupnými daty a mnohonásobně potvrzená v médiích.\n\n---\n\n## 3. Dílčí tvrzení 2: Byla lednová inflace 2026 nejnižší za devět let?\n\nToto tvrzení porovnává lednovou inflaci 2026 s předchozím vývojem inflace v letech zpět.\n\n### 3.1 Co říká ČSÚ o předchozí inflaci\n\n#### Poslední „nižší“ inflace: listopad 2016\n\nČSÚ ve zprávě **„Indexy spotřebitelských cen – inflace – listopad 2016“** uvádí:\n\n- „**Meziročně vzrostly spotřebitelské ceny o 1,5 %**, což bylo … nejvíce od června 2013.“([csu.gov.cz](https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-listopad-2016))  \n\nTj. v listopadu 2016 byla meziroční inflace 1,5 %. Od prosince 2016 začala postupně růst a v následujících letech (před covidovou inflací i během ní) byla – podle časových řad ČSÚ – výrazně výše (běžně nad 2 %, v letech 2021–2024 mnohem více). To je také důvod, proč novinové články shodně uvádějí, že lednová hodnota 1,6 % je **nejnižší od listopadu 2016**.([csu.gov.cz](https://csu.gov.cz/mira_inflace))  \n\n#### Bezprostřední srovnání: prosinec 2025\n\nZ přehledu inflace ČSÚ:  \n\n- V prosinci 2025 „meziročně vzrostly spotřebitelské ceny … o **2,1 %**“.([csu.gov.cz](https://csu.gov.cz/inflace-spotrebitelske-ceny))  \n\nLednových 1,6 % je tedy nejen pokles oproti prosinci 2025, ale zároveň nejnižší hodnota v časové řadě od konce roku 2016.\n\n### 3.2 Jak to popisují sekundární zdroje (na základě dat ČSÚ)\n\nVíce nezávislých médií (ČTK + různé redakce) výslovně počítá období, za které je inflace nejnižší:\n\n- **ČT24**:  \n  - konstatuje, že spotřebitelské ceny v lednu meziročně vzrostly o 1,6 %, a dodává:  \n    - „**Inflace tak byla nejnižší za víc než devět let.**“  \n    - „**Meziroční inflace byla nejnižší od listopadu 2016.**“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994))  \n\n- **Forbes**:  \n  - titulek: „**Nejnižší inflace za posledních devět let.**“  \n  - v textu: „Inflace tak byla **nejnižší za víc než devět let**. Meziroční inflace byla nejnižší od listopadu 2016.“([forbes.cz](https://forbes.cz/nejnizsi-inflace-za-poslednich-devet-let-ceny-mezirocne-vzrostly-o-16-procenta/))  \n\n- **e15**:  \n  - shrnuje: „Spotřebitelské ceny … v lednu meziročně vzrostly o 1,6 procenta, **což je nejnižší inflace za více než devět let**.“  \n  - a dále: „**Meziroční inflace byla nejnižší od listopadu 2016.**“([e15.cz](https://www.e15.cz/byznys/finance-a-bankovnictvi/inflace-je-nejnizsi-od-roku-2016-zlevnily-energie-1430671))  \n\n- **Seznam Zprávy**:  \n  - titulek: „Spotřebitelské ceny v Česku v lednu stouply **nejméně od listopadu 2016**.“  \n  - v textu: „Inflace tak byla **nejnižší za více než devět let** … meziroční inflace byla **nejnižší od listopadu 2016**.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-finance-spotrebitelske-ceny-v-cesku-v-lednu-stouply-nejmene-od-listopadu-2016-298127))  \n\n- **Ekonomický deník**:  \n  - píše, že „Spotřebitelské ceny v lednu meziročně vzrostly o 1,6 procenta. **Inflace tak byla nejnižší za víc než devět let.**“([ekonomickydenik.cz](https://ekonomickydenik.cz/ceny-rostly-nejpomaleji-devet-let/?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz))  \n\nVšechna tato média vycházejí z identických dat ČSÚ a shodně se shodují v tvrzení, že leden 2026 přinesl **nejnižší meziroční inflaci od listopadu 2016**, tedy přibližně po 9 letech a 2 měsících.\n\n### 3.3 Překlad do formulace „za devět let“\n\nFormulace v médiích:\n\n- „nejnižší za víc než devět let“  \n- „nejnižší za posledních devět let“  \n- „nejnižší od roku 2016 / od listopadu 2016“\n\nVšechny tyto formulace odkazují na **stejný faktický vztah**:\n\n- Poslední nižší meziroční inflace byla **v listopadu 2016 (1,5 %)**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-listopad-2016))  \n- V žádném měsíci od prosince 2016 do prosince 2025 neklesla meziroční inflace tak nízko jako 1,6 %. To plyne z časových řad ČSÚ a je shrnuto ve výše citovaných článcích („nejnižší od listopadu 2016“).([csu.gov.cz](https://csu.gov.cz/mira_inflace))  \n\nČasový odstup mezi listopadem 2016 a lednem 2026 je zhruba 9 let a 2 měsíce. Proto část médií formuluje „více než devět let“, jiná „za posledních devět (deset) let“ – jde o rozdílné zaokrouhlení stejného intervalu.\n\nZ hlediska faktických dat je ale jasné: **lednových 1,6 % je skutečně nejnižší meziroční inflace od listopadu 2016**.\n\n### Závěr k dílčímu tvrzení 2\n\n- Primární data ČSÚ a jejich interpretace v řadě nezávislých médií ukazují, že meziroční inflace v lednu 2026 (1,6 %) je **nižší než v kterémkoli měsíci v období od prosince 2016 do prosince 2025**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n- Vyjádření, že je „nejnižší od listopadu 2016“ či „nejnižší za více než devět let“ je v odborných i mediálních textech standardní a opakovaně použité.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994))  \n\nFormulace Andreje Babiše „nejnižší za devět let“ je tedy **fakticky konzistentní** s dostupnými daty – ve skutečnosti je inflace nejnižší za něco přes devět let (od listopadu 2016).\n\n---\n\n## 4. Celkové zhodnocení výroku\n\n**Shrnutí evidence:**\n\n- Lednová meziroční inflace 2026 podle ČSÚ (předběžný odhad ke dni 5. 2. 2026) činí **1,6 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n- ČSÚ uvádí pro listopad 2016 meziroční inflaci **1,5 %** a žádný mezilehlý měsíc (2017–2025) se – podle časových řad, jak je shrnují média – na tak nízkou úroveň nedostal.([csu.gov.cz](https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-listopad-2016))  \n- Řada zpravodajských serverů (ČT24, e15, Forbes, Seznam Zprávy, Ekonomický deník aj.) jednoznačně popisuje lednovou inflaci 2026 jako **nejnižší od listopadu 2016**, resp. **nejnižší za více než devět let**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994))  \n\n**Pro faktickou část výroku „inflace za leden je nejnižší za devět let“ tedy platí:**\n\n- Podle aktuálně dostupných oficiálních dat a jejich standardní interpretace je tvrzení **v zásadě pravdivé** – lednová meziroční inflace 1,6 % je skutečně nejnižší od listopadu 2016, tedy po více než devíti letech.  \n- Jedinou drobnou nuancí je slovní zaokrouhlení: přesnější by bylo „nejnižší za více než devět let“ nebo „nejnižší od listopadu 2016“, ale rozdíl je čistě formulací, nikoli v samotných číslech.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-02-07 available from https://www.youtube.com/watch?v=CRryWLn2KSs.\\n\\n\\nThe claim was made by: Andrej Babiš, Předseda vlády ČR, předseda hnutí ANO\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:33:42\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nJak rozpočtová pravidla?\\n00:33:44\\nBára Divišová,moderátorka\\nVlastně, jestli budete rozvolňovat nějakým způsobem, vlastně tady jsme se v tom minulém volebním období nebo v minulých letech jsme se k něčemu zavázali...\\n00:33:51\\nAndrej Babiš,\\npremiér, předseda hnutí /ANO/\\nMy máme nějaký program a my ho plníme a my jsme řekli, že dáme lidem peníze, tak jsme to hned splnili, takže mě strašně baví... Viděla jste inflaci za leden? Je nejnižší za 9 let. A víte proč? No, protože zkrátka my jsme odpustili to OZE.\\n00:34:12\\nBára Divišová,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Viděla jste inflaci za leden? Je nejnižší za devět let.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 321.03 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Data ČSÚ potvrzují, že meziroční inflace v lednu 2026 dosáhla 1,6 % a byla nejnižší od listopadu 2016, tedy po více než devíti letech. Babišovo tvrzení, že lednová inflace je nejnižší za devět let, proto odpovídá skutečnosti.</p>\n\n<p>Výrok Andreje Babiše zazněl na začátku února 2026 v televizní debatě o ekonomice a životní úrovni domácností. V této debatě reagoval mimo jiné na aktuálně zveřejněná čísla inflace za leden a tvrdil, že jde o nejnižší inflaci za devět let.</p>\n\n<p>V české veřejné debatě se pod pojmem „inflace za leden“ obvykle rozumí meziroční růst indexu spotřebitelských cen (CPI) v lednu daného roku oproti lednu předchozího roku, jak jej publikuje <a href=\"https://csu.gov.cz/inflace-spotrebitelske-ceny\">Český statistický úřad</a>. Výrok tak obsahuje dvě ověřitelná tvrzení: zaprvé, jaká byla meziroční inflace v lednu 2026, a zadruhé, zda šlo o nejnižší hodnotu přinejmenším za posledních devět let.</p>\n\n<p>Nejprve jsme zkoumali samotnou hodnotu inflace v lednu 2026. ČSÚ 5.&nbsp;února 2026 zveřejnil materiál <a href=\"https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026\">„Předběžný odhad indexu spotřebitelských cen – leden 2026“</a>, kde se v úvodu píše: <i>„Podle předběžného odhadu se očekává lednový meziroční růst spotřebitelských cen o 1,6 %.“</i> V textu dokumentu je dále výslovně uvedeno, že spotřebitelské ceny v lednu 2026 meziročně vzrostly o 1,6 %. Tato hodnota je také přebírána v přehledu inflace na stránce ČSÚ <a href=\"https://csu.gov.cz/inflace-spotrebitelske-ceny\">„Inflace – spotřebitelské ceny“</a>, kde je leden 2026 uveden s meziročním růstem 1,6 %.</p>\n\n<p>Tvrzení, že „inflace za leden“ (ve smyslu meziroční inflace) má konkrétní, oficiálně zveřejněnou hodnotu, je tedy fakticky podložené a odpovídá údajům ČSÚ. V době, kdy Andrej Babiš výrok pronesl, byla tato čísla jediným oficiálním zdrojem a šlo o čerstvě publikovaný předběžný odhad.</p>\n\n<p>Následně jsme hodnotili druhou část výroku, tedy zda lednová inflace 1,6 % byla skutečně „nejnižší za devět let“. K tomu je třeba porovnat leden 2026 s předchozím vývojem inflace. ČSÚ ve zprávě <a href=\"https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-listopad-2016\">„Indexy spotřebitelských cen – inflace – listopad 2016“</a> uvádí pro listopad 2016, že <i>„meziročně vzrostly spotřebitelské ceny o 1,5 %…“</i> Šlo tedy o inflaci nižší než lednových 1,6 % v roce 2026.</p>\n\n<p>Podle časových řad, které ČSÚ zveřejňuje v sekci <a href=\"https://csu.gov.cz/mira_inflace\">„Míra inflace – časové řady“</a>, se mezi prosincem 2016 a prosincem 2025 meziroční inflace v žádném měsíci nedostala na tak nízkou úroveň, jakou představuje 1,6 % v lednu 2026. V letech před covidovou krizí se většinou pohybovala nad 2 %, v letech 2021–2023 pak výrazně výše. Lednových 1,6 % je tak podle těchto časových řad skutečně nejnižší meziroční inflací od listopadu 2016.</p>\n\n<p>Tento závěr přebírají i nezávislá média, která čerpají z dat ČSÚ. Zpravodajský web <a href=\"https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994\">ČT24</a> v článku o vývoji cen uvádí, že lednová inflace 1,6 % byla <i>„nejnižší za víc než devět let“</i> a že <i>„meziroční inflace byla nejnižší od listopadu 2016“</i>. Magazín <a href=\"https://forbes.cz/nejnizsi-inflace-za-poslednich-devet-let-ceny-mezirocne-vzrostly-o-16-procenta/\">Forbes</a> píše o „nejnižší inflaci za posledních devět let“ a zároveň doplňuje, že jde o nejnižší meziroční inflaci od listopadu 2016. Podobnou formulaci používá i deník <a href=\"https://www.e15.cz/byznys/finance-a-bankovnictvi/inflace-je-nejnizsi-od-roku-2016-zlevnily-energie-1430671\">e15</a>, podle něhož jde o „nejnižší inflaci za více než devět let“.</p>\n\n<p>Poslední nižší inflace tak podle ČSÚ skutečně připadá na listopad 2016 (1,5 %) a až do prosince 2025 se meziroční inflace na takto nízkou úroveň nevrátila. Mezi listopadem 2016 a lednem 2026 uplynulo přibližně devět let a dva měsíce, což média shrnují formulacemi jako „nejnižší za víc než devět let“ nebo „nejnižší od roku 2016“. Babišova zkratka „nejnižší za devět let“ tak odpovídá běžnému zaokrouhlení tohoto období a nijak nezkresluje podstatu věcného tvrzení.</p>\n\n<p>Na základě oficiálních statistik Českého statistického úřadu a jejich jednoznačné interpretace v několika nezávislých médiích jsme dospěli k závěru, že meziroční inflace v lednu 2026 ve výši 1,6 % byla skutečně nejnižší od listopadu 2016, tedy po více než devíti letech. Výrok Andreje Babiše, že inflace za leden je nejnižší za devět let, proto hodnotíme jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0658e37838033be1006989c6896a0c8195b49c184988d9b4b1",
+    "created_at": 1770636937.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0658e37838033be1006989c699b8f48195bbac469f589e0166",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c6b4cbb481959ae79765cb740f09",
+        "action": {
+          "query": "\"Viděla jste inflaci za leden? Je nejnižší za 9 let\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Viděla jste inflaci za leden? Je nejnižší za 9 let\"",
+            "\"nejnižší za 9 let\" inflace leden Babiš",
+            "Andrej Babiš odpustili OZE inflace za leden nejnižší za devět let",
+            "\"odpustili to OZE\" inflace leden"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c6b88f0c8195adedd18816a14ba1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c6ba74048195ba820b81bcc83f59",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c6bd40d081959374d8062deabebb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c6bd77b0819592d172fe119080f9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c6c040288195b38158749d4a8706",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c6c24c648195884c5566037ff1f5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c6c3ba98819582e8e4c6672f1476",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c6d00ce48195aa5e5ad52c9f32b3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c6d1407c81958b7f5b833c050942",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c6d1ca048195a2ff6bbaaebf1b09",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c6d2be448195b5241c527e265111",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c6d49b588195b6362830772e1a70",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "2) Míra inflace vyjádřená přírůstkem indexu spotřebitelských cen ke stejnému měsíci"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c6d682bc8195876dba9be7893ef1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c6f1635c81958e8a0dd3b17b40a0",
+        "action": {
+          "query": "\"Spotřebitelské ceny v lednu meziročně vzrostly o 1,6 procenta\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Spotřebitelské ceny v lednu meziročně vzrostly o 1,6 procenta\"",
+            "\"Inflace tak byla nejnižší za víc než devět let\"",
+            "\"v lednu byla nejnižší od listopadu 2016\" inflace",
+            "\"nejnizsi za devet let\" \"mezirocni inflace\" leden"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c6f416a88195a07f61df7c99947f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c70641a48195af3dcd95a84db9aa",
+        "action": {
+          "query": "\"Indexy spotřebitelských cen - inflace - listopad 2016\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Indexy spotřebitelských cen - inflace - listopad 2016\"",
+            "\"spotřebitelské ceny v listopadu 2016\" inflace",
+            "\"V listopadu 2016\" \"spotřebitelské ceny\" \"Český statistický úrad\"",
+            "\"Inflace byla v listopadu 2016\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c709138881959e89c2e0ddb17bd7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c744a9e48195a0ad27ad7b60d6f8",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c746ad608195a771d1ff8ea0be5e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c7470430819582378ea4cd265486",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c748eb008195a2655631d425a71a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c74989148195940c3631858814ae",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c74a9ef48195b2b7bec7257c0fe9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c74b1ef08195abac53347f8d73b3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c74da46081958d78bdaff68cb43d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c74ff5548195a00d83abfe60d2cd",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c751ca3c81958e2b67818de7b56a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c7526ab481959a39395eabb24f41",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c755e0cc8195a436985cd738dc84",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c7563ad081959d431da5139140f9",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c75760108195b16cc87c39711203",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c75880f48195ae049b9b8f326c7c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c759790881959c4164760f483881",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c75a6cac819588651e5c75f6e025",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c75cd4bc8195bef8f8b143b68fa1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c75d84388195b76851c098bd49e7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c75eadf881959b011a43e71b2ef8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c75f260c8195960c189283f705ef",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c760750881958cf36df170006344",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c776aeb881958e0e73585248ae2a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c783e0608195ba79dccc79c63f78",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0658e37838033be1006989c7843a24819581b0126af8b5c24a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0658e37838033be1006989c78883588195a7c57b8d108b31ee",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0658e37838033be1006989c78b2cfc819586457c8506a73b10",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 479,
+                "start_index": 417,
+                "title": "Inflace, spotřebitelské ceny | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/inflace-spotrebitelske-ceny"
+              },
+              {
+                "end_index": 739,
+                "start_index": 633,
+                "title": "Předběžný odhad indexu spotřebitelských cen - leden 2026 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026"
+              },
+              {
+                "end_index": 1580,
+                "start_index": 1474,
+                "title": "Předběžný odhad indexu spotřebitelských cen - leden 2026 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026"
+              },
+              {
+                "end_index": 1829,
+                "start_index": 1723,
+                "title": "Předběžný odhad indexu spotřebitelských cen - leden 2026 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026"
+              },
+              {
+                "end_index": 2094,
+                "start_index": 1988,
+                "title": "Předběžný odhad indexu spotřebitelských cen - leden 2026 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026"
+              },
+              {
+                "end_index": 2345,
+                "start_index": 2283,
+                "title": "Inflace, spotřebitelské ceny | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/inflace-spotrebitelske-ceny"
+              },
+              {
+                "end_index": 2724,
+                "start_index": 2576,
+                "title": "▶ Inflace v lednu zpomalila na 1,6 procenta, byla nejnižší za devět let — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994"
+              },
+              {
+                "end_index": 2959,
+                "start_index": 2847,
+                "title": "Nejnižší inflace za posledních devět let. Ceny meziročně vzrostly o 1,6 procenta | Forbes",
+                "type": "url_citation",
+                "url": "https://forbes.cz/nejnizsi-inflace-za-poslednich-devet-let-ceny-mezirocne-vzrostly-o-16-procenta/"
+              },
+              {
+                "end_index": 3197,
+                "start_index": 3079,
+                "title": "Inflace je nejnižší od roku 2016. Zlevnily energie | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/byznys/finance-a-bankovnictvi/inflace-je-nejnizsi-od-roku-2016-zlevnily-energie-1430671"
+              },
+              {
+                "end_index": 3477,
+                "start_index": 3327,
+                "title": "Spotřebitelské ceny v Česku v lednu stouply nejméně od listopadu 2016 - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-spotrebitelske-ceny-v-cesku-v-lednu-stouply-nejmene-od-listopadu-2016-298127"
+              },
+              {
+                "end_index": 3707,
+                "start_index": 3568,
+                "title": "Ceny v Česku rostly nejpomaleji za devět let. Ekonomové popsali hlavní důvod - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/ceny-rostly-nejpomaleji-devet-let/?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz"
+              },
+              {
+                "end_index": 4514,
+                "start_index": 4413,
+                "title": "Indexy spotřebitelských cen - inflace - listopad 2016 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-listopad-2016"
+              },
+              {
+                "end_index": 4923,
+                "start_index": 4876,
+                "title": "Inflace - druhy, definice, tabulky | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/mira_inflace"
+              },
+              {
+                "end_index": 5133,
+                "start_index": 5071,
+                "title": "Inflace, spotřebitelské ceny | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/inflace-spotrebitelske-ceny"
+              },
+              {
+                "end_index": 5797,
+                "start_index": 5649,
+                "title": "▶ Inflace v lednu zpomalila na 1,6 procenta, byla nejnižší za devět let — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994"
+              },
+              {
+                "end_index": 6109,
+                "start_index": 5997,
+                "title": "Nejnižší inflace za posledních devět let. Ceny meziročně vzrostly o 1,6 procenta | Forbes",
+                "type": "url_citation",
+                "url": "https://forbes.cz/nejnizsi-inflace-za-poslednich-devet-let-ceny-mezirocne-vzrostly-o-16-procenta/"
+              },
+              {
+                "end_index": 6445,
+                "start_index": 6327,
+                "title": "Inflace je nejnižší od roku 2016. Zlevnily energie | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/byznys/finance-a-bankovnictvi/inflace-je-nejnizsi-od-roku-2016-zlevnily-energie-1430671"
+              },
+              {
+                "end_index": 6837,
+                "start_index": 6687,
+                "title": "Spotřebitelské ceny v Česku v lednu stouply nejméně od listopadu 2016 - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-spotrebitelske-ceny-v-cesku-v-lednu-stouply-nejmene-od-listopadu-2016-298127"
+              },
+              {
+                "end_index": 7135,
+                "start_index": 6996,
+                "title": "Ceny v Česku rostly nejpomaleji za devět let. Ekonomové popsali hlavní důvod - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/ceny-rostly-nejpomaleji-devet-let/?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz"
+              },
+              {
+                "end_index": 7757,
+                "start_index": 7656,
+                "title": "Indexy spotřebitelských cen - inflace - listopad 2016 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-listopad-2016"
+              },
+              {
+                "end_index": 8008,
+                "start_index": 7961,
+                "title": "Inflace - druhy, definice, tabulky | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/mira_inflace"
+              },
+              {
+                "end_index": 8682,
+                "start_index": 8576,
+                "title": "Předběžný odhad indexu spotřebitelských cen - leden 2026 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026"
+              },
+              {
+                "end_index": 8984,
+                "start_index": 8836,
+                "title": "▶ Inflace v lednu zpomalila na 1,6 procenta, byla nejnižší za devět let — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994"
+              },
+              {
+                "end_index": 9432,
+                "start_index": 9326,
+                "title": "Předběžný odhad indexu spotřebitelských cen - leden 2026 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026"
+              },
+              {
+                "end_index": 9708,
+                "start_index": 9607,
+                "title": "Indexy spotřebitelských cen - inflace - listopad 2016 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-listopad-2016"
+              },
+              {
+                "end_index": 10067,
+                "start_index": 9919,
+                "title": "▶ Inflace v lednu zpomalila na 1,6 procenta, byla nejnižší za devět let — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994"
+              }
+            ],
+            "text": "## 1. Identifikace a interpretace výroku\n\nOvěřovaný výrok Andreje Babiše (7. 2. 2026, pořad *Za pět minut dvanáct*):\n\n> „Viděla jste inflaci za leden? Je nejnižší za devět let.“\n\n### Jak výrok interpretujeme\n- „inflace za leden“ – standardně v české debatě znamená **meziroční inflaci v lednu**, tj. přírůstek indexu spotřebitelských cen (CPI) v lednu daného roku oproti lednu předchozího roku, jak jej publikuje ČSÚ.([csu.gov.cz](https://csu.gov.cz/inflace-spotrebitelske-ceny))  \n- Časový kontext – výrok zazněl 7. února 2026, několik dní po zveřejnění **předběžného odhadu inflace za leden 2026** Českým statistickým úřadem (ČSÚ).([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n- „nejnižší za devět let“ – chápeme jako tvrzení, že lednová meziroční inflace 2026 je **nejnižší hodnota od ledna 2017 (resp. od konce roku 2016)**, tedy že v posledních zhruba devíti letech nebyla meziroční inflace v žádném měsíci nižší.\n\nVýrok tedy rozkládáme na dvě dílčí tvrzení:\n\n1. V lednu 2026 byla meziroční inflace určité (konkrétní) nízké hodnoty.\n2. Tato lednová inflace byla nejnižší za (více než) devět let.\n\n---\n\n## 2. Dílčí tvrzení 1: Kolik činila inflace v lednu 2026?\n\n### Evidence z ČSÚ (primární zdroj)\n\nČSÚ vydal 5. února 2026 dokument **„Předběžný odhad indexu spotřebitelských cen – leden 2026“**:\n\n- Titulní věta: „Podle předběžného odhadu se očekává **lednový meziroční růst spotřebitelských cen o 1,6 %**.“([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n- V textu je dále upřesněno: „Dle předběžného odhadu spotřebitelské ceny v lednu 2026 meziměsíčně vzrostly o 0,9 % a **meziročně o 1,6 %**.“([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n- V tabulce k témuž dokumentu je u řádku „Úhrnný index spotřebitelských cen“ uvedeno: prosinec 2025 – 2,1 % (meziroční), leden 2026 – **1,6 % (předběžně)**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n\nNa stránce přehledu inflace ČSÚ je pro předchozí měsíc uvedeno, že v prosinci 2025 „meziročně vzrostly spotřebitelské ceny … o **2,1 %**“ a průměrná míra inflace za rok 2025 byla 2,5 %.([csu.gov.cz](https://csu.gov.cz/inflace-spotrebitelske-ceny))  \n\n### Sekundární zdroje potvrzující stejnou hodnotu\n\nVíce médií (všechna čerpají z ČSÚ / ČTK) uvádí shodnou lednovou hodnotu:\n\n- ČT24: „Spotřebitelské ceny v Česku v lednu **meziročně vzrostly o 1,6 procenta**, zlevnily energie.“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994))  \n- Forbes: „Spotřebitelské ceny v Česku v lednu meziročně vzrostly o **1,6 procenta, vyplývá z předběžného odhadu ČSÚ**.“([forbes.cz](https://forbes.cz/nejnizsi-inflace-za-poslednich-devet-let-ceny-mezirocne-vzrostly-o-16-procenta/))  \n- e15: „Spotřebitelské ceny v Česku v lednu meziročně vzrostly o **1,6 procenta**, vyplývá z předběžného odhadu ČSÚ.“([e15.cz](https://www.e15.cz/byznys/finance-a-bankovnictvi/inflace-je-nejnizsi-od-roku-2016-zlevnily-energie-1430671))  \n- Seznam Zprávy: „Spotřebitelské ceny v Česku v lednu meziročně vzrostly o **1,6 procenta**, vyplývá z předběžného odhadu ČSÚ.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-finance-spotrebitelske-ceny-v-cesku-v-lednu-stouply-nejmene-od-listopadu-2016-298127))  \n- Ekonomický deník: „Spotřebitelské ceny v lednu meziročně vzrostly o **1,6 procenta**.“([ekonomickydenik.cz](https://ekonomickydenik.cz/ceny-rostly-nejpomaleji-devet-let/?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz))  \n\n### Závěr k dílčímu tvrzení 1\n\n- **Fakticky platí**, že podle ČSÚ (předběžný odhad publikovaný 5. 2. 2026) činila meziroční inflace v lednu 2026 **1,6 %**.  \n- V době výroku (7. 2. 2026) byla tato čísla jedinými oficiálně dostupnými daty a mnohonásobně potvrzená v médiích.\n\n---\n\n## 3. Dílčí tvrzení 2: Byla lednová inflace 2026 nejnižší za devět let?\n\nToto tvrzení porovnává lednovou inflaci 2026 s předchozím vývojem inflace v letech zpět.\n\n### 3.1 Co říká ČSÚ o předchozí inflaci\n\n#### Poslední „nižší“ inflace: listopad 2016\n\nČSÚ ve zprávě **„Indexy spotřebitelských cen – inflace – listopad 2016“** uvádí:\n\n- „**Meziročně vzrostly spotřebitelské ceny o 1,5 %**, což bylo … nejvíce od června 2013.“([csu.gov.cz](https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-listopad-2016))  \n\nTj. v listopadu 2016 byla meziroční inflace 1,5 %. Od prosince 2016 začala postupně růst a v následujících letech (před covidovou inflací i během ní) byla – podle časových řad ČSÚ – výrazně výše (běžně nad 2 %, v letech 2021–2024 mnohem více). To je také důvod, proč novinové články shodně uvádějí, že lednová hodnota 1,6 % je **nejnižší od listopadu 2016**.([csu.gov.cz](https://csu.gov.cz/mira_inflace))  \n\n#### Bezprostřední srovnání: prosinec 2025\n\nZ přehledu inflace ČSÚ:  \n\n- V prosinci 2025 „meziročně vzrostly spotřebitelské ceny … o **2,1 %**“.([csu.gov.cz](https://csu.gov.cz/inflace-spotrebitelske-ceny))  \n\nLednových 1,6 % je tedy nejen pokles oproti prosinci 2025, ale zároveň nejnižší hodnota v časové řadě od konce roku 2016.\n\n### 3.2 Jak to popisují sekundární zdroje (na základě dat ČSÚ)\n\nVíce nezávislých médií (ČTK + různé redakce) výslovně počítá období, za které je inflace nejnižší:\n\n- **ČT24**:  \n  - konstatuje, že spotřebitelské ceny v lednu meziročně vzrostly o 1,6 %, a dodává:  \n    - „**Inflace tak byla nejnižší za víc než devět let.**“  \n    - „**Meziroční inflace byla nejnižší od listopadu 2016.**“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994))  \n\n- **Forbes**:  \n  - titulek: „**Nejnižší inflace za posledních devět let.**“  \n  - v textu: „Inflace tak byla **nejnižší za víc než devět let**. Meziroční inflace byla nejnižší od listopadu 2016.“([forbes.cz](https://forbes.cz/nejnizsi-inflace-za-poslednich-devet-let-ceny-mezirocne-vzrostly-o-16-procenta/))  \n\n- **e15**:  \n  - shrnuje: „Spotřebitelské ceny … v lednu meziročně vzrostly o 1,6 procenta, **což je nejnižší inflace za více než devět let**.“  \n  - a dále: „**Meziroční inflace byla nejnižší od listopadu 2016.**“([e15.cz](https://www.e15.cz/byznys/finance-a-bankovnictvi/inflace-je-nejnizsi-od-roku-2016-zlevnily-energie-1430671))  \n\n- **Seznam Zprávy**:  \n  - titulek: „Spotřebitelské ceny v Česku v lednu stouply **nejméně od listopadu 2016**.“  \n  - v textu: „Inflace tak byla **nejnižší za více než devět let** … meziroční inflace byla **nejnižší od listopadu 2016**.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-finance-spotrebitelske-ceny-v-cesku-v-lednu-stouply-nejmene-od-listopadu-2016-298127))  \n\n- **Ekonomický deník**:  \n  - píše, že „Spotřebitelské ceny v lednu meziročně vzrostly o 1,6 procenta. **Inflace tak byla nejnižší za víc než devět let.**“([ekonomickydenik.cz](https://ekonomickydenik.cz/ceny-rostly-nejpomaleji-devet-let/?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz))  \n\nVšechna tato média vycházejí z identických dat ČSÚ a shodně se shodují v tvrzení, že leden 2026 přinesl **nejnižší meziroční inflaci od listopadu 2016**, tedy přibližně po 9 letech a 2 měsících.\n\n### 3.3 Překlad do formulace „za devět let“\n\nFormulace v médiích:\n\n- „nejnižší za víc než devět let“  \n- „nejnižší za posledních devět let“  \n- „nejnižší od roku 2016 / od listopadu 2016“\n\nVšechny tyto formulace odkazují na **stejný faktický vztah**:\n\n- Poslední nižší meziroční inflace byla **v listopadu 2016 (1,5 %)**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-listopad-2016))  \n- V žádném měsíci od prosince 2016 do prosince 2025 neklesla meziroční inflace tak nízko jako 1,6 %. To plyne z časových řad ČSÚ a je shrnuto ve výše citovaných článcích („nejnižší od listopadu 2016“).([csu.gov.cz](https://csu.gov.cz/mira_inflace))  \n\nČasový odstup mezi listopadem 2016 a lednem 2026 je zhruba 9 let a 2 měsíce. Proto část médií formuluje „více než devět let“, jiná „za posledních devět (deset) let“ – jde o rozdílné zaokrouhlení stejného intervalu.\n\nZ hlediska faktických dat je ale jasné: **lednových 1,6 % je skutečně nejnižší meziroční inflace od listopadu 2016**.\n\n### Závěr k dílčímu tvrzení 2\n\n- Primární data ČSÚ a jejich interpretace v řadě nezávislých médií ukazují, že meziroční inflace v lednu 2026 (1,6 %) je **nižší než v kterémkoli měsíci v období od prosince 2016 do prosince 2025**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n- Vyjádření, že je „nejnižší od listopadu 2016“ či „nejnižší za více než devět let“ je v odborných i mediálních textech standardní a opakovaně použité.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994))  \n\nFormulace Andreje Babiše „nejnižší za devět let“ je tedy **fakticky konzistentní** s dostupnými daty – ve skutečnosti je inflace nejnižší za něco přes devět let (od listopadu 2016).\n\n---\n\n## 4. Celkové zhodnocení výroku\n\n**Shrnutí evidence:**\n\n- Lednová meziroční inflace 2026 podle ČSÚ (předběžný odhad ke dni 5. 2. 2026) činí **1,6 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-leden-2026))  \n- ČSÚ uvádí pro listopad 2016 meziroční inflaci **1,5 %** a žádný mezilehlý měsíc (2017–2025) se – podle časových řad, jak je shrnují média – na tak nízkou úroveň nedostal.([csu.gov.cz](https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-listopad-2016))  \n- Řada zpravodajských serverů (ČT24, e15, Forbes, Seznam Zprávy, Ekonomický deník aj.) jednoznačně popisuje lednovou inflaci 2026 jako **nejnižší od listopadu 2016**, resp. **nejnižší za více než devět let**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/inflace-v-lednu-zpomalila-na-16-procenta-byla-nejnizsi-za-devet-let-369994))  \n\n**Pro faktickou část výroku „inflace za leden je nejnižší za devět let“ tedy platí:**\n\n- Podle aktuálně dostupných oficiálních dat a jejich standardní interpretace je tvrzení **v zásadě pravdivé** – lednová meziroční inflace 1,6 % je skutečně nejnižší od listopadu 2016, tedy po více než devíti letech.  \n- Jedinou drobnou nuancí je slovní zaokrouhlení: přesnější by bylo „nejnižší za více než devět let“ nebo „nejnižší od listopadu 2016“, ale rozdíl je čistě formulací, nikoli v samotných číslech.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 84371,
+      "input_tokens_details": {
+        "cached_tokens": 5504
+      },
+      "output_tokens": 17255,
+      "output_tokens_details": {
+        "reasoning_tokens": 13906
+      },
+      "total_tokens": 101626
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1770637234,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

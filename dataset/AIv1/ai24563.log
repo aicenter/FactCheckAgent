@@ -1,0 +1,745 @@
+{
+  "claim_id": "24563",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260127_092648",
+  "source_md": "experiments/gpt5.1_h_20260127_092648/brief_fact_check_id24563.md",
+  "fact_check": "# Fact Check for Statement ID 24563\n\n## Statement\nA pokud budeme sledovat hlas veřejnosti, tak já jsem zaznamenal, že většina populace si nepřeje člověka profilu Filipa Turka v ministerské pozici.\n\n---\n## AI Fact Check\n## 1. Identifikace výroku a možné interpretace\n\nSporný výrok prezidenta Petra Pavla (24. 1. 2026):\n\n> „…pokud budeme sledovat hlas veřejnosti, tak **já jsem zaznamenal, že většina populace si nepřeje člověka profilu Filipa Turka v ministerské pozici**.“\n\nMožné interpretace:\n\n1. **Úzká (nejpravděpodobnější)**  \n   „Většina populace si nepřeje, aby **Filip Turek** (konkrétní politik) byl ministrem (konkrétně ministrem životního prostředí).“  \n\n2. **Širší, normativní**  \n   „Většina populace si nepřeje, aby se **obecně člověk podobného profilu jako Filip Turek** (radikální, spojený s rasistickými výroky apod.) stal ministrem.“  \n\nPodle kontextu rozhovoru (spor o jmenování konkrétního kandidáta do vlády) je nejpřirozenější interpretace č. 1. V analýze níže se proto soustředíme primárně na ni; u „profilu“ upozorníme zvlášť, co lze a nelze z dat doložit.\n\n---\n\n## 2. Data o veřejném mínění k nominaci Filipa Turka na ministra\n\n### 2.1 Průzkum NMS Research pro Český rozhlas (konec listopadu 2025)\n\n- Zadavatelem byl **Český rozhlas**, realizace agentura **NMS Research**, sběr dat na konci listopadu 2025, vzorek **1021 respondentů**.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n- Zveřejnění 5. 12. 2025 (více než měsíc před výrokem prezidenta).\n\nKlíčové výsledky:\n\n- Deník.cz / ČTK shrnuje:\n\n  - „**Více než polovina oslovených Čechů nechce … Filipa Turka za ministra životního prostředí.**“([denik.cz](https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai))  \n  - „**Proti tomu, aby se Turek stal ministrem životního prostředí, se v průzkumu vyjádřilo 52 procent dotázaných. Naopak 30 procent si myslí, že by se ministrem stát měl, asi 17 procent odpovědělo, že neví.**“([denik.cz](https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai))  \n\n- Zpráva ČTK (ČeskéNoviny):\n\n  - Stejná čísla: **52 % proti**, **30 % pro**, cca **17 % neví**.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n\n- Respekt shrnuje:\n\n  - „**Nadpoloviční většina Čechů (52 procent) nechce, aby se … Filip Turek stal ministrem životního prostředí.**“([respekt.cz](https://www.respekt.cz/tydenik/2025/50/pet-ceskych-zprav?utm_source=openai))  \n\n**Co průzkum měří**\n\nOtázka byla explicitně formulována k tomu, **zda si lidé přejí/nepřejí, aby se Filip Turek stal ministrem životního prostředí**.  \n⇒ Tato data přímo odpovídají na tvrzení typu „většina lidí si Turka ministrem nepřeje“.\n\n---\n\n### 2.2 Průzkum Kantar CZ pro Českou televizi (přelom listopadu/prosince 2025)\n\n- Zadavatel **Česká televize**, realizace **Kantar CZ**, sběr dat na přelomu listopadu a prosince 2025, vzorek **1000 lidí**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- Zveřejnění 7. 12. 2025 v pořadu **Otázky Václava Moravce** (týž spor o Turka).\n\nKlíčová zjištění (ČT24):\n\n- „**Turek je nevhodným kandidátem na ministra pro 63 procent lidí, vyplývá z průzkumu Kantar CZ pro Českou televizi. Za velmi nevhodného … ho považuje 46 procent respondentů a za spíše nevhodného 17 procent.**“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- „**Jako vhodného na ministerstvu vidí Turka necelá třetina lidí – pro jedenáct procent je velmi vhodným kandidátem a pro 15 procent spíše vhodným.**“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- „Průzkumu se … zúčastnilo 1000 lidí.“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\nTato čísla jsou opakována i dalšími médii (Seznam Zprávy, Blesk, ParlamentníListy atd.):  \n– „Filip Turek není vhodným kandidátem na ministra pro téměř dvě třetiny Čechů.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-turek-je-pro-63-procent-lidi-nevhodnym-kandidatem-na-ministra-uvadi-pruzkum-293535?utm_source=openai))  \n\n**Co průzkum měří**\n\nDotazovaný je, **zda je Filip Turek „vhodným“ / „nevhodným“ kandidátem na ministra**.  \n⇒ V přirozeném politickém jazyce lze „nevhodný kandidát na ministra“ chápat jako „lidé si ho v roli ministra nepřejí“.\n\nRozložení odpovědí:\n\n- „velmi nevhodný“ + „spíše nevhodný“ = **63 %**  \n- „spíše vhodný“ + „velmi vhodný“ = **26 %**  \n- Zbývající procenta tvoří „nevím / bez odpovědi“ (zhruba 10 %).([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\n---\n\n### 2.3 Další kvantitativní indikace\n\nI když nejdůležitější jsou dva výše uvedené reprezentativní průzkumy, existují i další náznaky postojů veřejnosti:\n\n1. **Online ankety médií (nereprezentativní, ale konzistentní směr)**  \n   - Lidovky.cz měly anketu „Má být Filip Turek ministrem?“:  \n     – „Ne“ hlasovalo 66 % z 7157 hlasujících, „Ano – životního prostředí“ 18 %, „Ano – zahraničí“ 15 %, „Nevím“ 1 %.([lidovky.cz](https://www.lidovky.cz/nazory/petr-pavel-andrej-babis-filip-turek-vlada-prezident-kompetence-ustava.A251215_165935_ln_nazory_lgs?utm_source=openai))  \n   - Jde o samovýběrové ankety čtenářů, **statisticky nereprezentativní**, ale směr se shoduje s reprezentativními průzkumy (většina proti).\n\n2. **Stranické preference Motoristů sobě a osobní popularita Turka**  \n   - STEM, květen 2025: Motoristé sobě by podle volebního modelu získali jen **2,8 %** hlasů.([e15.cz](https://www.e15.cz/volby/volby-do-snemovny/motoriste-po-turkove-jizde-spadli-pod-tri-procenta-spd-je-pred-starosty-tvrdi-pruzkum-stem-1424798?utm_source=openai))  \n   - Deník N (na základě průzkumu STEM): „Motoristé sobě by … získali pouze 3,6 % hlasů… A co je horší, klesá i osobní popularita Filipa Turka.“([denikn.cz](https://denikn.cz/1736252/motoriste-maji-problem-turkova-popularita-podle-nejnovejsiho-pruzkumu-slabne-a-preference-klesaji/?utm_source=openai))  \n\n   Tyto volební modely a zmínka o klesající osobní popularitě dokreslují, že Turek je spíše **menšinová, polarizující figura**, ale samy o sobě neodpovídají přímo na otázku „chcete/nechcete ho ministrem“.\n\n---\n\n### 2.4 Kontext „profilu“ Filipa Turka\n\nČást veřejnosti i politických elit vnímá „profil“ Filipa Turka jako problematický kvůli jeho minulým výrokům a symbolům:\n\n- Deník N a další média popsala archiv jeho smazaných příspěvků s „rasistickými, sexistickými či homofobními“ výroky a narážkami na nacismus.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/pravdepodobny-ministr-zahranici-v-nove-vlade-a-soucasny-euro/r~78d9aab4a67411f0bb77ac1f6b220ee8/?utm_source=openai))  \n- Policie v říjnu 2025 zahájila trestní řízení kvůli podezření z trestného činu hanobení rasy, národa apod. v souvislosti s jeho výroky.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/posun-v-kauze-turek-policie-zahajila-trestni-rizeni-proveri/r~b1abf850a9a911f095ee0cc47ab5f122/?utm_source=openai))  \n- Shrnutí na Wikipedii (kompilace českých zdrojů) popisuje, že v archivech jeho facebookových komentářů označoval Hitlera za „zlatého tatíčka“, opakovaně používal číslo „88“ jako neonacistický kód a že Deník N zveřejnil desítky vyloženě rasistických a homofobních výroků.([en.wikipedia.org](https://en.wikipedia.org/wiki/Filip_Turek?utm_source=openai))  \n\nTo vysvětluje, co prezident pravděpodobně míní slovním spojením „člověk profilu Filipa Turka“ (tj. politik spojovaný s krajní pravicí, rasistickými či neonacistickými aluzemi).  \n**Žádný z dostupných průzkumů ale neptá na „člověka podobného profilu“, vždy jde přímo o osobu Filipa Turka.**\n\n---\n\n## 3. Hodnocení jednotlivých dílčích tvrzení\n\n### 3.1 „Pokud budeme sledovat hlas veřejnosti…“ – existuje relevantní „hlas veřejnosti“?\n\nAno.\n\n- **NMS Research pro Český rozhlas** (1021 respondentů, konec listopadu 2025) – jasně formulovaná otázka k tomu, zda si lidé přejí, aby se Filip Turek stal ministrem životního prostředí.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n- **Kantar CZ pro Českou televizi** (1000 respondentů, přelom listopadu/prosince 2025) – otázka na vhodnost / nevhodnost Turka jako kandidáta na ministra.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\nObě šetření jsou **standardní reprezentativní průzkumy veřejného mínění na celonárodním vzorku** a byla zveřejněna v hlavních médiích (ČRo, ČT, ČTK) více než měsíc před Pavlovým výrokem. Je proto velmi pravděpodobné, že prezident o těchto datech věděl a mohl na ně narážet.\n\n### 3.2 „…většina populace si nepřeje…“ – ukazují průzkumy skutečně většinu proti Turkově ministerskému jmenování?\n\n#### NMS Research pro Český rozhlas\n\n- **52 %** dotázaných se vyslovilo **„proti tomu, aby se Turek stal ministrem životního prostředí“**.([denik.cz](https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai))  \n- **30 %** bylo pro, **cca 17 %** nevědělo.([denik.cz](https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai))  \n\nPři vzorku ~1000 lidí je běžná statistická chyba kolem ±3 p. b. Rozdíl **52 % proti vs. 30 % pro** je však natolik velký, že i s chybou jde **jednoznačně o většinu populace proti**.\n\n#### Kantar CZ pro Českou televizi\n\n- **63 %** respondentů považuje Turka za **„velmi“ nebo „spíše nevhodného“ kandidáta na ministra**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- **26 %** jej vidí jako vhodného (11 % velmi, 15 % spíše).([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\nI zde rozdíl (63 % vs. 26 %) zřetelně ukazuje, že **nadpoloviční většina respondentů nechce Turka v roli ministra / považuje ho za nevhodného**.\n\n#### Závěr k této dílčí části\n\nAno, **nejméně dva nezávislé reprezentativní průzkumy** zveřejněné v prosinci 2025 ukazují, že:\n\n- **více než polovina populace si Turka ministrem nepřeje** (NMS – 52 % přímo proti jeho jmenování),([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n- **zhruba dvě třetiny populace ho považují za nevhodného kandidáta na ministra** (Kantar – 63 % nevhodný).([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\nNeobjevili jsme žádný kvalitní průzkum z téhož období, který by ukazoval **naopak většinu podporující** jeho jmenování; maximálně přibližně třetina veřejnosti ho vnímá jako vhodného kandidáta.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\nVýrok „většina populace si nepřeje (Filipa Turka) v ministerské pozici“ je tedy **empiricky dobře podložen**.\n\n### 3.3 „…člověka profilu Filipa Turka…“ – lze z dat usuzovat na „profil“?\n\nZde je nutné rozlišit:\n\n- **Co data měří:**  \n  - Konkrétní **osobu Filipa Turka** a její vhodnost / nevhodnost na post ministra.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- **Co prezident říká:**  \n  - „člověka profilu Filipa Turka“ – tedy do jisté míry **zobecnění** z konkrétní osoby na „typ politika“ (radikální, spojovaný s rasismem, neonacistickými symboly apod.).([en.wikipedia.org](https://en.wikipedia.org/wiki/Filip_Turek?utm_source=openai))  \n\n**Co lze říci:**\n\n- Z průzkumů bezpečně plyne, že **většina veřejnosti odmítá přímo Filipa Turka jako ministra**.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n- Vzhledem k tomu, že negativní postoj k němu je silně spojen právě s jeho „profilem“ (kauzy s rasistickými a neonacistickými výroky), je **logické politické čtení**, že část veřejnosti tím odmítá tento typ politika.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/pravdepodobny-ministr-zahranici-v-nove-vlade-a-soucasny-euro/r~78d9aab4a67411f0bb77ac1f6b220ee8/?utm_source=openai))  \n\n**Co už data přímo nepotvrzují:**\n\n- Neexistuje známý reprezentativní průzkum s otázkou typu:  \n  „Souhlasíte s tím, aby se ministrem stal **někdo podobného profilu jako Filip Turek** (bez ohledu na konkrétní jméno)?“  \n  ⇒ Věta o „člověku profilu“ je tedy **interpretace a zobecnění**, nikoli přímo měřený údaj.\n\nJe tedy přesnější říci:\n\n- Data **přímo potvrzují většinový odpor vůči Filipu Turkovi jako ministrovi**.  \n- Zda by totéž platilo pro „kohokoliv podobného profilu“ je **rozumný, ale datově nedoložený odhad**.\n\n### 3.4 „Já jsem zaznamenal…“ – je věrohodné, že prezident vychází z těchto dat?\n\nAno.\n\n- Oba klíčové průzkumy (NMS pro ČRo, Kantar pro ČT) byly široce medializovány v prosinci 2025, často právě v souvislosti s Pavlovými vyjádřeními o Turekově nevhodnosti.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- Články výslovně propojují výsledky průzkumů s jeho postojem; např. Seznam Zprávy píší: „Prezident Petr Pavel označil za málo pravděpodobné, že by mohl Filipa Turka jmenovat ministrem… Většina lidí se s ním shodne.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-turek-je-pro-63-procent-lidi-nevhodnym-kandidatem-na-ministra-uvadi-pruzkum-293535?utm_source=openai))  \n\nTvrzení „já jsem zaznamenal“ je tedy v souladu s faktem, že taková data existovala, byla veřejně dostupná a souběžně komentovaná.\n\n---\n\n## 4. Shrnutí\n\n**Rozložení výroku na dílčí tvrzení:**\n\n1. **Existuje relevantní „hlas veřejnosti“ k nominaci Filipa Turka na ministra.**  \n   – ANO. Dva nezávislé, reprezentativní průzkumy (NMS pro ČRo, Kantar pro ČT) z přelomu listopadu/prosince 2025 přímo měří postoje veřejnosti k tomu, zda má být Turek ministrem a zda je vhodným kandidátem.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n\n2. **Většina populace si Turka v ministerské funkci nepřeje.**  \n   – ANO, **empiricky podloženo**:\n     - NMS: 52 % proti jeho jmenování, 30 % pro.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n     - Kantar: 63 % považuje Turka za nevhodného kandidáta, 26 % za vhodného.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n     – Neexistují zjištěné průzkumy z dané doby, které by ukazovaly opačný většinový trend.\n\n3. **Zobecnění na „člověka profilu Filipa Turka“.**  \n   - Data **přímo měří postoj k osobě Filipa Turka**, nikoliv k hypotetickým „podobně profilovaným“ politikům.  \n   - Vzhledem k tomu, že odpor vůči němu souvisí s jeho veřejným profilem (rasistické, neonacistické a homofobní výroky, kontroverze), je takové zobecnění politicky srozumitelné, ale **striktně vzato jde už o interpretaci, ne o přímo měřený fakt**.([en.wikipedia.org](https://en.wikipedia.org/wiki/Filip_Turek?utm_source=openai))  \n\n**Celkově:**  \nZ hlediska ověřitelné části výroku („většina populace si nepřeje, aby Filip Turek byl ministrem“) je tvrzení **dobře podložené dostupnými reprezentativními průzkumy**. Část o „člověku profilu Filipa Turka“ představuje spíše rétorické zobecnění; pro to již nemáme přímá data, ale jde o rozumnou interpretaci téhož veřejného odporu.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-01-24 available from https://www.youtube.com/watch?v=LLdTdaQK-Y4.\\n\\n\\nThe claim was made by: Petr Pavel, Prezident České republiky\\n\\n\\nThe claim appears in the following immediate context in the source:\\nNicméně vy jste teď v té pozici, o kom se mluví, že by mohl do jisté míry ohýbat Ústavu. Někteří ústavní právníci mluví o tom, že prezident, například Marek Antoš, ústavní právník, mluví o tom, že prezident měl povinnost pana Turka jmenovat, pokud to navrhl předseda vlády, mluví o tom, že není úlohou prezidenta, aby v této věci byl pojistkou, nebo tím posledním spravedlivým, o čemž jste mluvil. Tak když vy jste v té pozici osobně, není ve vašem samotném zájmu třeba na sebe podat kompetenční žalobu, aby se to vyjasnilo?\\nPetr Pavel, prezident republiky\\nOproti těmto právním názorům, které jste jmenoval, tak jsou zase i jiné, které říkají, že jsem postupoval naprosto v souladu s Ústavou. A jestliže nejmenování můžeme označit za něco, co je na hraně Ústavy, a já jsem si toho vědom, ale v tomto případě znovu zopakuji, pokud je prezident poslední pojistkou, tak to asi udělat musí. Kdybychom nebyli v situaci, ve které jsme, tak by pravděpodobně k návrhu Filipa Turka do vlády vůbec nedošlo, protože by ho designovaný premiér pravděpodobně nepředložil, protože si je vědom kontroverzí s ním spojených a určitě by nechtěl, aby potom musel čelit důsledkům.\\nMartin Čermák, moderátor\\nBavil jste se tom s ním, pardon, s panem premiérem?\\nPetr Pavel, prezident republiky\\nJá jsem se o tom samozřejmě s ním bavil a on ale vnímá realitu, realitu trojkoalice, vnímá i to, že na jmenování Filipa Turka Motoristé trvají. A dá se v podstatě říci, že ten problém přenechal mně.\\nMartin Čermák, moderátor\\nMělo by zůstat to formulování v té Ústavě, nechci říct úplně vágní, ale s tím prostorem manipulační, nebo by to mělo být nějak zkonkrétněno, protože už o tom jednal i poslanecký výbor v Poslanecké sněmovně, Poslaneckéká sněmovna si odhlasovala usnesení, abyste při jmenování ministrů dodržoval Ústavu. Je to za vás správně, že ta Ústava je v tomto takto až ořezaná, myslím, slovně.\\nPetr Pavel, prezident republiky\\nJá nejsem expert na ústavu, ale když se vrátím k vámi již jmenovanému doktoru Antošovi, tak ten zároveň také říká, že určitá míra konstruktivní nejistoty je naopak žádoucí a že by asi nebylo úplně dobré vymezit ten prostor tak, aby došlo buďto k posílení pravomoci prezidenta, anebo naopak k posílení role premiéra při návrhu v podstatě kohokoliv, takže ten prostor tam je záměrně. Já si myslím, že to není pouze na ústavních odbornících, případně na politicích, ale je to také na veřejnosti. A pokud budeme sledovat hlas veřejnosti, tak já jsem zaznamenal, že většina populace si nepřeje člověka profilu Filipa Turka v ministerské pozici.\\nMartin Čermák, moderátor\\nKdyž se po nějaké době ukáže, že Filip Turek je dobrým zmocněncem pro Green Deal a pro témata klimatu. Dal byste mu někdy ještě šanci?\\n\\nProvide a structured, citation-backed verification of the claim: 'A pokud budeme sledovat hlas veřejnosti, tak já jsem zaznamenal, že většina populace si nepřeje člověka profilu Filipa Turka v ministerské pozici.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 264.90 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Reprezentativní průzkumy NMS a Kantar z konce roku 2025 ukazují, že nadpoloviční většina Čechů Filipa Turka v ministerské roli odmítá. Část výroku o „člověku profilu Turka“ je zobecňující, jádro tvrzení je ale daty dobře podložené.</p>\n\n<p>Výrok prezidenta Petra Pavla zazněl v kontextu ostrého politického sporu o možné jmenování Filipa Turka do vládní funkce. Debatu v té době rámovaly i čerstvě zveřejněné reprezentativní sociologické průzkumy, které se přímo ptaly na to, zda má být Turek ministrem a jak jej veřejnost jako kandidáta vnímá. Právě na tento „hlas veřejnosti“ prezident ve svém tvrzení odkazuje.</p>\n\n<p>Výrok obsahuje tři ověřitelná tvrzení: že existují relevantní data jako „hlas veřejnosti“ k osobě Filipa Turka v roli ministra, že podle těchto dat si většina populace Turka v ministerské pozici nepřeje, a nakonec rétorické zobecnění, že jde o „člověka profilu Filipa Turka“. Každou část hodnotíme zvlášť.</p>\n\n<p>Nejprve posuzujeme, zda vůbec existuje měřitelný „hlas veřejnosti“, k němuž se prezident může odvolávat. Na konci listopadu 2025 zadal Český rozhlas agentuře NMS Research reprezentativní šetření na vzorku 1 021 respondentů; o výsledcích informovala např. agentura ČTK a deník.cz. Podle jejich zprávy se v tomto <a href=\"https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai\">průzkumu</a> <i>„proti tomu, aby se Turek stal ministrem životního prostředí“</i> vyslovilo 52 % dotázaných, zatímco 30 % bylo pro a zbytek odpověděl „nevím“ či se nevyjádřil. Stejné výsledky shrnuje i deník.cz, který píše, že <i>„více než polovina oslovených Čechů nechce […] Filipa Turka za ministra životního prostředí“</i> a uvádí přesná procenta 52 % proti, 30 % pro a přibližně 17 % nerozhodnutých respondentů, včetně popisu metodiky a velikosti vzorku v daném <a href=\"https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai\">šetu</a>. Podobně týdeník Respekt konstatuje, že podle tohoto <a href=\"https://www.respekt.cz/tydenik/2025/50/pet-ceskych-zprav?utm_source=openai\">průzkumu</a> <i>„nadpoloviční většina Čechů (52 procent) nechce, aby se Filip Turek stal ministrem životního prostředí“</i>. Jde tedy o standardní, reprezentativní měření postojů veřejnosti k Turkově kandidatuře.</p>\n\n<p>Krátce poté, na přelomu listopadu a prosince 2025, zadala Česká televize další výzkum veřejného mínění u agentury Kantar CZ. V televizním zpravodajství ČT24 se uvádí, že se šetření zúčastnilo 1 000 respondentů a že podle výsledků je Filip Turek <i>„nevhodným kandidátem na ministra pro 63 procent lidí“</i>, přičemž 46 % jej hodnotí jako <i>„velmi nevhodného“</i> a 17 % jako <i>„spíše nevhodného“</i>; naopak 11 % dotázaných jej označilo za <i>„velmi vhodného“</i> a 15 % za <i>„spíše vhodného“</i>, jak shrnuje analýza <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai\">Kantaru pro ČT</a>. Stejná čísla přebírají i další média; Seznam Zprávy například píší, že <i>„Filip Turek není vhodným kandidátem na ministra pro téměř dvě třetiny Čechů“</i> a že průzkum na <a href=\"https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-turek-je-pro-63-procent-lidi-nevhodnym-kandidatem-na-ministra-uvadi-pruzkum-293535?utm_source=openai\">vzorku 1000 osob</a> potvrdil 63 % odpovědí „nevhodný“ proti 26 % „vhodný“. Z těchto dvou nezávislých, reprezentativních šetření je tedy zřejmé, že existuje dobře zdokumentovaný „hlas veřejnosti“ k otázce Turka jako ministra, na nějž se prezident může legitimně odvolávat. První dílčí tvrzení výroku – že lze slyšet a kvantifikovat „hlas veřejnosti“ k této otázce – proto hodnotíme jako podložené.</p>\n\n<p>Druhá část výroku říká, že prezident „zaznamenal, že většina populace si nepřeje“ Turka v ministerské pozici. Zde pracujeme s otázkou, zda průzkumy skutečně ukazují většinový odpor. V případě výzkumu NMS pro Český rozhlas vznesli tazatelé přímou otázku, zda má být Filip Turek ministrem životního prostředí. Podle souhrnu ČTK na serveru <a href=\"https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai\">ČeskéNoviny.cz</a> i podle podrobnějšího článku na <a href=\"https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai\">denik.cz</a> odpovědělo 52 % respondentů, že s jeho jmenováním nesouhlasí, zatímco 30 % bylo pro a přibližně 17 % uvedlo, že neví. Při běžné statistické chybě kolem ±3 procentních bodů a rozdílu 22 bodů mezi odpůrci a zastánci se jednoznačně ukazuje, že proti jeho jmenování stojí nadpoloviční většina populace, nikoli jen těsná převaha náhodně daná statistickou chybou.</p>\n\n<p>Podobný závěr plyne z průzkumu Kantar CZ pro Českou televizi. Tam nebyla kladena otázka přímo na „ano/ne“ k jmenování, ale na vhodnost kandidáta. Jak shrnuje server <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai\">ČT24</a>, 46 % dotázaných uvedlo, že je Filip Turek <i>„velmi nevhodným“</i> kandidátem na ministra a 17 % jej označilo za <i>„spíše nevhodného“</i>; dohromady tedy 63 % účastníků průzkumu. Za vhodného (velmi či spíše) jej naproti tomu považovalo celkem 26 % respondentů a asi desetina lidí se přiklonila k odpovědi „nevím“ či nedala žádnou. V běžném politickém jazyce lze takový výsledek rozumně interpretovat tak, že jasná většina veřejnosti si daného člověka v ministerské funkci nepřeje. Jiný reprezentativní průzkum z daného období, který by naopak ukazoval většinovou podporu Turka v roli ministra, se nám dohledat nepodařilo; dostupná šetření buď potvrzují odpor většiny, nebo jej jen nepřímo dokreslují, jako v případě volebního modelu STEM, který podle serveru <a href=\"https://www.e15.cz/volby/volby-do-snemovny/motoriste-po-turkove-jizde-spadli-pod-tri-procenta-spd-je-pred-starosty-tvrdi-pruzkum-stem-1424798?utm_source=openai\">E15.cz</a> přisuzoval hnutí Motoristé sobě jen 2,8 % hlasů, a podle článku v <a href=\"https://denikn.cz/1736252/motoriste-maji-problem-turkova-popularita-podle-nejnovejsiho-pruzkumu-slabne-a-preference-klesaji/?utm_source=openai\">Deníku N</a> navíc ukazoval klesající osobní popularitu Filipa Turka. Z hlediska ověřitelné části výroku tedy platí, že dostupná reprezentativní data skutečně zachycují většinu populace, která Turka v pozici ministra odmítá.</p>\n\n<p>Když prezident říká, že tento postoj „zaznamenal“, jde v podstatě o tvrzení, že vzal tato data na vědomí. Vzhledem k tomu, že oba klíčové průzkumy byly široce medializovány v hlavních zpravodajských kanálech veřejnoprávních médií – Český rozhlas a Česká televize je představily ve svých <a href=\"https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai\">zprávách</a> a <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai\">analýzách</a>, a Seznam Zprávy shrnovaly, že prezident Pavlovu neochotu Turka jmenovat sdílí podle průzkumu <i>„většina lidí“</i> v článku o jeho <a href=\"https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-turek-je-pro-63-procent-lidi-nevhodnym-kandidatem-na-ministra-uvadi-pruzkum-293535?utm_source=openai\">postoji</a> – považujeme tvrzení, že prezident takový „hlas veřejnosti“ zaznamenal, za věrohodné a v souladu s dostupnými informacemi.</p>\n\n<p>Poslední část výroku, že většina populace si nepřeje „člověka profilu Filipa Turka“ v ministerské pozici, má dvě roviny. První, snadno ověřitelnou, je, že jde právě o Filipa Turka. Druhou, zobecňující, je pojem „profil“, který z Turka dělá typ politika, nikoli jen jednotlivce. Z médií přitom vyplývá, co je tímto „profilem“ míněno. Například rozsáhlá analýza serveru Aktuálně.cz, který prošel archivem Turkových smazaných příspěvků, uvádí, že se v nich objevují <i>„rasistické, sexistické či homofobní“</i> výroky a narážky na nacismus, jak stojí v článku o jeho dřívější aktivitě na sociálních sítích na <a href=\"https://zpravy.aktualne.cz/domaci/pravdepodobny-ministr-zahranici-v-nove-vlade-a-soucasny-euro/r~78d9aab4a67411f0bb77ac1f6b220ee8/?utm_source=openai\">Aktuálně.cz</a>. Tatáž redakce později informovala, že policie v říjnu 2025 zahájila trestní řízení kvůli podezření z trestného činu hanobení rasy, národa či etnické skupiny v souvislosti s Turkovými výroky, což dokládá článek o tomto postupu <a href=\"https://zpravy.aktualne.cz/domaci/posun-v-kauze-turek-policie-zahajila-trestni-rizeni-proveri/r~b1abf850a9a911f095ee0cc47ab5f122/?utm_source=openai\">policie</a>. Souhrnný přehled na stránce <a href=\"https://en.wikipedia.org/wiki/Filip_Turek?utm_source=openai\">Wikipedie</a>, který vychází z českých zpravodajských zdrojů, připomíná, že v archivech jeho facebookových komentářů se objevují formulace, v nichž Adolf Hitler vystupuje jako <i>„zlatý tatíček“</i>, a že Turek opakovaně používal číslo „88“ jako známý neonacistický kód. Tyto skutečnosti dokládají, že pod označením „profil Filipa Turka“ se v české debatě běžně míní politik spojovaný s rasistickými, krajně pravicovými či neonacistickými narážkami; jde ovšem již o hodnotový popis, nikoli o čistě kvantitativně měřitelný údaj.</p>\n\n<p>Z hlediska dat o veřejném mínění je ale důležité, že žádný z výše zmíněných reprezentativních průzkumů se neptal na hypotetického „člověka podobného profilu jako Filip Turek“, ale vždy přímo na osobu Filipa Turka. NMS pro Český rozhlas měří, zda si lidé přejí Turka konkrétně jako ministra životního prostředí, a Kantar pro Českou televizi zjišťuje, nakolik je právě on považován za vhodného či nevhodného kandidáta na ministerstvo, jak výslovně uvádějí oba <a href=\"https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai\">zpravodajské</a> a <a href=\"https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai\">analytické</a> texty. Nemáme k dispozici žádné šetření, které by se lidí ptalo obecně na to, zda si přejí „někoho podobného profilu“ bez ohledu na jméno. Část výroku, která toto označení používá, je tedy spíše politickou interpretací dat a jazykovým zobecněním: prezident z konkrétního odmítnutí Turka dovozuje odmítnutí „typu“ politika, který Turek představuje. Tento posun je smysluplný v rovině rétoriky, ale empiricky jej – na rozdíl od postoje k samotnému Turkovi – přímo doložit nedokážeme.</p>\n\n<p>Závěrem shrnujeme naše hodnocení. Reprezentativní průzkumy agentur NMS Research pro Český rozhlas a Kantar CZ pro Českou televizi z konce roku 2025 jasně ukazují, že nadpoloviční většina české populace si nepřeje, aby byl Filip Turek ministrem, resp. jej považuje za nevhodného kandidáta na ministerský post. Prezidentova interpretace, že „většina populace si nepřeje“ Turka ve vládní funkci, je proto fakticky přesná a dobře podložená. Část výroku, která hovoří o „člověku profilu Filipa Turka“, představuje zobecňující, hodnotový prvek, pro nějž neexistují samostatná data; tento aspekt výroku proto nepokládáme za přímo ověřitelný. Podstatná, daty měřitelná část tvrzení je však v souladu s dostupnými důkazy. Celkově proto výrok hodnotíme jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_049515797070dfc3006979e4cbf0d0819e85c1f7df662325a4",
+    "created_at": 1769596107.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_049515797070dfc3006979e4d301cc819eb13e2e6ea5fab013",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e4db5e08819ea2a0b9dc60d2f3ed",
+        "action": {
+          "query": "pruzkum Filip Turek jmenování ministrem názor veřejnosti",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "pruzkum Filip Turek jmenování ministrem názor veřejnosti",
+            "\"Filip Turek\" průzku*",
+            "\"Filip Turek\" popularita",
+            "\"přeje si\" \"Filipa Turka\" ministr"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e4dd63d0819e9823ced1e1d81999",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e4dfd814819ea6bccb17c751a43b",
+        "action": {
+          "query": "Kantar CZ pruzkum Filip Turek nevhodnym kandidatem na ministra pro dve tretiny lidi 7. 12. 2025",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Kantar CZ pruzkum Filip Turek nevhodnym kandidatem na ministra pro dve tretiny lidi 7. 12. 2025",
+            "\"Turek je pro 63 procent\" Kantar CZ",
+            "\"nevhodným kandidátem na ministra\" \"Filip Turek\"",
+            "agentura Kantar CZ pruzkum \"Filip Turek\" ministr"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e4e24c98819ea5f949d9ed1e4752",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e4e5a9a8819e9416bbaafbc9cedf",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e4e73798819e9c3948ac0a0aa07b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e4e77170819e96223460e8e71b16",
+        "action": {
+          "query": "průzku* \"Filipa Turka\" ministrem",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "průzku* \"Filipa Turka\" ministrem",
+            "veřejné mínění \"Filip Turek\" ministr",
+            "STEM \"Filip Turek\"",
+            "Median \"Filip Turek\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e4e96498819ea8eeaa6ce88ce355",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e4ea2540819e978e4ac040ed5936",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e4ec8e14819ea8baf68f2bbec017",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e4ecc360819eb46b84666319ad25",
+        "action": {
+          "query": "site:ceskatelevize.cz \"Kantar CZ\" \"Filip Turek\" ministr",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "site:ceskatelevize.cz \"Kantar CZ\" \"Filip Turek\" ministr",
+            "Otázky Václava Moravce \"Filip Turek\" Kantar",
+            "průzku* Kantar CZ pro ČT \"Turek\" ministr",
+            "OVM 7. 12. 2025 pruzkum Kantar Turek"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e4f0e040819eaf5fa7fbc8bbb2a5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e4f49928819e9ec74c32674729f1",
+        "action": {
+          "query": "\"popularita\" \"Filipa Turka\" průzku*",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"popularita\" \"Filipa Turka\" průzku*",
+            "\"důveřuje\" \"Filipu Turkovi\" průzku*",
+            "\"sympatie\" k Filipu Turkovi průzku*",
+            "Kantar \"důveře\" Turka"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e4f7d498819eba90717f166724b4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e4fa3500819ebda36f38d2e0aa8f",
+        "action": {
+          "query": "průzku* \"dle většiny lidí se Turek na ministra nehodí\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "průzku* \"dle většiny lidí se Turek na ministra nehodí\"",
+            "\"dle většiny lidí se Turek na ministra nehodí\"",
+            "\"většina respondentů\" \"Filip Turek\" ministr",
+            "\"většina dotázaných\" \"Filipa Turka\" ministr"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e4feec80819e98b23d8294c457cc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e5002df4819eb7f4d21e989335a1",
+        "action": {
+          "query": "site:rozhlas.cz \"Filip Turek\" \"NMS Research\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "site:rozhlas.cz \"Filip Turek\" \"NMS Research\"",
+            "NMS Research pruzkum Turka ministrem",
+            "\"Turek ministrem životního prostředí\" \"NMS\"",
+            "\"více než polovina Čechů\" \"Filip Turek\" \"průzkum\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e50576cc819eab7856bf1686d294",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e506c8f0819ebb27cad3a89ed4b1",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e50a438c819ebe1611a72f86cc5c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e50a9d94819e8fc174e31ba4c3a4",
+        "action": {
+          "query": "site:rozhlas.cz \"NMS Research\" \"Filip Turek\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "site:rozhlas.cz \"NMS Research\" \"Filip Turek\"",
+            "\"NMS Market Research\" \"Filip Turek\" rozhlas",
+            "\"Turek by ministrem být neměl\" \"NMS\"",
+            "\"Turka nechce ministrem\" \"Český rozhlas\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e50da774819e8114995da72b6cc1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e51516a8819eaee39ce54c69179e",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e519463c819eb6d087c98fe5948e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e5198364819e9e7866fb5d0a52cb",
+        "action": {
+          "query": "\"Turek je vhodným kandidátem na ministra\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Turek je vhodným kandidátem na ministra\"",
+            "\"vhodným kandidátem na ministra\" \"Filip Turek\"",
+            "\"názory na Filipa Turka\" průzku*",
+            "\"Filip Turek\" \"průzku*\" 2025"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e51ea310819ea8cc2520f994ff59",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e526c528819ea99e6a5dabf3c5a7",
+        "action": {
+          "query": "leden 2026 průzku* \"Filip Turek\" ministr",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "leden 2026 průzku* \"Filip Turek\" ministr",
+            "leden 2026 \"Turka\" ministr \"průzkum\"",
+            "\"Turka odmítá\" \"průzkum\" leden 2026",
+            "\"většina Čechů\" \"Filip Turek\" leden 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e52bad48819ea2b58cede74cce18",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e540f0f0819eb471e5a8e066c38c",
+        "action": {
+          "query": "Filip Turek eurovolby 2024 preferenční hlasy 152 196",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Filip Turek eurovolby 2024 preferenční hlasy 152 196",
+            "Přísaha a Motoristé sobě výsledky voleb do Evropského parlamentu 2024 Česká republika",
+            "Motoristé sobě výsledky sněmovní volby 2025 6,8 procenta",
+            "Jmenné seznamy volby 2025 Motoristé sobě Filip Turek"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e5468c40819ea2207efc3e167a61",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e54727b4819e87b226494bb9347e",
+        "action": {
+          "query": "STEM pruzkum popularita Filipa Turka",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "STEM pruzkum popularita Filipa Turka",
+            "popularita politika \"Filip Turek\" STEM",
+            "\"osobní popularita Filipa Turka\" průzku*",
+            "STEM \"Filip Turek\" popularita klesá"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e54b4b4c819e88e8dded7035c68a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_049515797070dfc3006979e55bc974819e98d4b347b4979523",
+        "action": {
+          "query": "\"Filip Turek\" \"rasistické\" \"homofobní\" příspěvky",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Filip Turek\" \"rasistické\" \"homofobní\" příspěvky",
+            "\"Zlatej tatíček Hitler\" Filip Turek",
+            "\"Popálit cikáně je polehčující okolnost\" Turek",
+            "Deník N \"smazaný svět Filipa Turka\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_049515797070dfc3006979e5616c60819eb15568c8a61d899f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_049515797070dfc3006979e57a088c819e8df3a6004ffdfe4a",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1287,
+                "start_index": 1140,
+                "title": "Průzkum: Turka nechce ministrem životního prostředí 52 procent Čechů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai"
+              },
+              {
+                "end_index": 1637,
+                "start_index": 1503,
+                "title": "Turka nechce ministrem více než polovina Čechů, ukázal průzkum - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai"
+              },
+              {
+                "end_index": 1984,
+                "start_index": 1850,
+                "title": "Turka nechce ministrem více než polovina Čechů, ukázal průzkum - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai"
+              },
+              {
+                "end_index": 2230,
+                "start_index": 2083,
+                "title": "Průzkum: Turka nechce ministrem životního prostředí 52 procent Čechů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai"
+              },
+              {
+                "end_index": 2458,
+                "start_index": 2368,
+                "title": "Pět českých zpráv • RESPEKT",
+                "type": "url_citation",
+                "url": "https://www.respekt.cz/tydenik/2025/50/pet-ceskych-zprav?utm_source=openai"
+              },
+              {
+                "end_index": 3090,
+                "start_index": 2913,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 3589,
+                "start_index": 3412,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 3920,
+                "start_index": 3743,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 4139,
+                "start_index": 3962,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 4491,
+                "start_index": 4314,
+                "title": "Turek je pro 63 procent lidí nevhodným kandidátem na ministra, uvádí průzkum - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-turek-je-pro-63-procent-lidi-nevhodnym-kandidatem-na-ministra-uvadi-pruzkum-293535?utm_source=openai"
+              },
+              {
+                "end_index": 5084,
+                "start_index": 4907,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 5661,
+                "start_index": 5499,
+                "title": "O strašlivé válce Hradu s Turkem. Je faul s dobrým úmyslem povolený? | Názory | Lidovky.cz",
+                "type": "url_citation",
+                "url": "https://www.lidovky.cz/nazory/petr-pavel-andrej-babis-filip-turek-vlada-prezident-kompetence-ustava.A251215_165935_ln_nazory_lgs?utm_source=openai"
+              },
+              {
+                "end_index": 6141,
+                "start_index": 5970,
+                "title": "Motoristé po Turkově jízdě spadli pod tři procenta. SPD je před Starosty, tvrdí průzkum | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/volby/volby-do-snemovny/motoriste-po-turkove-jizde-spadli-pod-tri-procenta-spd-je-pred-starosty-tvrdi-pruzkum-stem-1424798?utm_source=openai"
+              },
+              {
+                "end_index": 6445,
+                "start_index": 6288,
+                "title": "Motoristé mají problém. Turkova popularita podle nejnovějšího průzkumu slábne a preference klesají — Deník N",
+                "type": "url_citation",
+                "url": "https://denikn.cz/1736252/motoriste-maji-problem-turkova-popularita-podle-nejnovejsiho-pruzkumu-slabne-a-preference-klesaji/?utm_source=openai"
+              },
+              {
+                "end_index": 7135,
+                "start_index": 6963,
+                "title": "\"Obama je neg*.\" Turkův údajný rasismus na Facebooku chce řešit už i Babiš - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/domaci/pravdepodobny-ministr-zahranici-v-nove-vlade-a-soucasny-euro/r~78d9aab4a67411f0bb77ac1f6b220ee8/?utm_source=openai"
+              },
+              {
+                "end_index": 7445,
+                "start_index": 7274,
+                "title": "Hanobení rasy a národa. Policie vyšetřuje, zda \"oslavenec\" Turek spáchal trestný čin - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/domaci/posun-v-kauze-turek-policie-zahajila-trestni-rizeni-proveri/r~b1abf850a9a911f095ee0cc47ab5f122/?utm_source=openai"
+              },
+              {
+                "end_index": 7800,
+                "start_index": 7719,
+                "title": "Filip Turek",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Filip_Turek?utm_source=openai"
+              },
+              {
+                "end_index": 8576,
+                "start_index": 8429,
+                "title": "Průzkum: Turka nechce ministrem životního prostředí 52 procent Čechů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai"
+              },
+              {
+                "end_index": 8910,
+                "start_index": 8733,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 9577,
+                "start_index": 9443,
+                "title": "Turka nechce ministrem více než polovina Čechů, ukázal průzkum - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai"
+              },
+              {
+                "end_index": 9757,
+                "start_index": 9623,
+                "title": "Turka nechce ministrem více než polovina Čechů, ukázal průzkum - Deník.cz",
+                "type": "url_citation",
+                "url": "https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai"
+              },
+              {
+                "end_index": 10256,
+                "start_index": 10079,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 10495,
+                "start_index": 10318,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 11020,
+                "start_index": 10873,
+                "title": "Průzkum: Turka nechce ministrem životního prostředí 52 procent Čechů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai"
+              },
+              {
+                "end_index": 11307,
+                "start_index": 11130,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 11680,
+                "start_index": 11503,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 12177,
+                "start_index": 12000,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 12459,
+                "start_index": 12378,
+                "title": "Filip Turek",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Filip_Turek?utm_source=openai"
+              },
+              {
+                "end_index": 12723,
+                "start_index": 12576,
+                "title": "Průzkum: Turka nechce ministrem životního prostředí 52 procent Čechů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai"
+              },
+              {
+                "end_index": 13114,
+                "start_index": 12942,
+                "title": "\"Obama je neg*.\" Turkův údajný rasismus na Facebooku chce řešit už i Babiš - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/domaci/pravdepodobny-ministr-zahranici-v-nove-vlade-a-soucasny-euro/r~78d9aab4a67411f0bb77ac1f6b220ee8/?utm_source=openai"
+              },
+              {
+                "end_index": 14075,
+                "start_index": 13898,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 14471,
+                "start_index": 14294,
+                "title": "Turek je pro 63 procent lidí nevhodným kandidátem na ministra, uvádí průzkum - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-turek-je-pro-63-procent-lidi-nevhodnym-kandidatem-na-ministra-uvadi-pruzkum-293535?utm_source=openai"
+              },
+              {
+                "end_index": 15103,
+                "start_index": 14956,
+                "title": "Průzkum: Turka nechce ministrem životního prostředí 52 procent Čechů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai"
+              },
+              {
+                "end_index": 15402,
+                "start_index": 15255,
+                "title": "Průzkum: Turka nechce ministrem životního prostředí 52 procent Čechů | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai"
+              },
+              {
+                "end_index": 15659,
+                "start_index": 15482,
+                "title": "▶ Průzkum: Dle většiny lidí se Turek na ministra nehodí. Motoristé náhradu nehledají — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai"
+              },
+              {
+                "end_index": 16251,
+                "start_index": 16170,
+                "title": "Filip Turek",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Filip_Turek?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Identifikace výroku a možné interpretace\n\nSporný výrok prezidenta Petra Pavla (24. 1. 2026):\n\n> „…pokud budeme sledovat hlas veřejnosti, tak **já jsem zaznamenal, že většina populace si nepřeje člověka profilu Filipa Turka v ministerské pozici**.“\n\nMožné interpretace:\n\n1. **Úzká (nejpravděpodobnější)**  \n   „Většina populace si nepřeje, aby **Filip Turek** (konkrétní politik) byl ministrem (konkrétně ministrem životního prostředí).“  \n\n2. **Širší, normativní**  \n   „Většina populace si nepřeje, aby se **obecně člověk podobného profilu jako Filip Turek** (radikální, spojený s rasistickými výroky apod.) stal ministrem.“  \n\nPodle kontextu rozhovoru (spor o jmenování konkrétního kandidáta do vlády) je nejpřirozenější interpretace č. 1. V analýze níže se proto soustředíme primárně na ni; u „profilu“ upozorníme zvlášť, co lze a nelze z dat doložit.\n\n---\n\n## 2. Data o veřejném mínění k nominaci Filipa Turka na ministra\n\n### 2.1 Průzkum NMS Research pro Český rozhlas (konec listopadu 2025)\n\n- Zadavatelem byl **Český rozhlas**, realizace agentura **NMS Research**, sběr dat na konci listopadu 2025, vzorek **1021 respondentů**.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n- Zveřejnění 5. 12. 2025 (více než měsíc před výrokem prezidenta).\n\nKlíčové výsledky:\n\n- Deník.cz / ČTK shrnuje:\n\n  - „**Více než polovina oslovených Čechů nechce … Filipa Turka za ministra životního prostředí.**“([denik.cz](https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai))  \n  - „**Proti tomu, aby se Turek stal ministrem životního prostředí, se v průzkumu vyjádřilo 52 procent dotázaných. Naopak 30 procent si myslí, že by se ministrem stát měl, asi 17 procent odpovědělo, že neví.**“([denik.cz](https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai))  \n\n- Zpráva ČTK (ČeskéNoviny):\n\n  - Stejná čísla: **52 % proti**, **30 % pro**, cca **17 % neví**.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n\n- Respekt shrnuje:\n\n  - „**Nadpoloviční většina Čechů (52 procent) nechce, aby se … Filip Turek stal ministrem životního prostředí.**“([respekt.cz](https://www.respekt.cz/tydenik/2025/50/pet-ceskych-zprav?utm_source=openai))  \n\n**Co průzkum měří**\n\nOtázka byla explicitně formulována k tomu, **zda si lidé přejí/nepřejí, aby se Filip Turek stal ministrem životního prostředí**.  \n⇒ Tato data přímo odpovídají na tvrzení typu „většina lidí si Turka ministrem nepřeje“.\n\n---\n\n### 2.2 Průzkum Kantar CZ pro Českou televizi (přelom listopadu/prosince 2025)\n\n- Zadavatel **Česká televize**, realizace **Kantar CZ**, sběr dat na přelomu listopadu a prosince 2025, vzorek **1000 lidí**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- Zveřejnění 7. 12. 2025 v pořadu **Otázky Václava Moravce** (týž spor o Turka).\n\nKlíčová zjištění (ČT24):\n\n- „**Turek je nevhodným kandidátem na ministra pro 63 procent lidí, vyplývá z průzkumu Kantar CZ pro Českou televizi. Za velmi nevhodného … ho považuje 46 procent respondentů a za spíše nevhodného 17 procent.**“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- „**Jako vhodného na ministerstvu vidí Turka necelá třetina lidí – pro jedenáct procent je velmi vhodným kandidátem a pro 15 procent spíše vhodným.**“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- „Průzkumu se … zúčastnilo 1000 lidí.“([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\nTato čísla jsou opakována i dalšími médii (Seznam Zprávy, Blesk, ParlamentníListy atd.):  \n– „Filip Turek není vhodným kandidátem na ministra pro téměř dvě třetiny Čechů.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-turek-je-pro-63-procent-lidi-nevhodnym-kandidatem-na-ministra-uvadi-pruzkum-293535?utm_source=openai))  \n\n**Co průzkum měří**\n\nDotazovaný je, **zda je Filip Turek „vhodným“ / „nevhodným“ kandidátem na ministra**.  \n⇒ V přirozeném politickém jazyce lze „nevhodný kandidát na ministra“ chápat jako „lidé si ho v roli ministra nepřejí“.\n\nRozložení odpovědí:\n\n- „velmi nevhodný“ + „spíše nevhodný“ = **63 %**  \n- „spíše vhodný“ + „velmi vhodný“ = **26 %**  \n- Zbývající procenta tvoří „nevím / bez odpovědi“ (zhruba 10 %).([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\n---\n\n### 2.3 Další kvantitativní indikace\n\nI když nejdůležitější jsou dva výše uvedené reprezentativní průzkumy, existují i další náznaky postojů veřejnosti:\n\n1. **Online ankety médií (nereprezentativní, ale konzistentní směr)**  \n   - Lidovky.cz měly anketu „Má být Filip Turek ministrem?“:  \n     – „Ne“ hlasovalo 66 % z 7157 hlasujících, „Ano – životního prostředí“ 18 %, „Ano – zahraničí“ 15 %, „Nevím“ 1 %.([lidovky.cz](https://www.lidovky.cz/nazory/petr-pavel-andrej-babis-filip-turek-vlada-prezident-kompetence-ustava.A251215_165935_ln_nazory_lgs?utm_source=openai))  \n   - Jde o samovýběrové ankety čtenářů, **statisticky nereprezentativní**, ale směr se shoduje s reprezentativními průzkumy (většina proti).\n\n2. **Stranické preference Motoristů sobě a osobní popularita Turka**  \n   - STEM, květen 2025: Motoristé sobě by podle volebního modelu získali jen **2,8 %** hlasů.([e15.cz](https://www.e15.cz/volby/volby-do-snemovny/motoriste-po-turkove-jizde-spadli-pod-tri-procenta-spd-je-pred-starosty-tvrdi-pruzkum-stem-1424798?utm_source=openai))  \n   - Deník N (na základě průzkumu STEM): „Motoristé sobě by … získali pouze 3,6 % hlasů… A co je horší, klesá i osobní popularita Filipa Turka.“([denikn.cz](https://denikn.cz/1736252/motoriste-maji-problem-turkova-popularita-podle-nejnovejsiho-pruzkumu-slabne-a-preference-klesaji/?utm_source=openai))  \n\n   Tyto volební modely a zmínka o klesající osobní popularitě dokreslují, že Turek je spíše **menšinová, polarizující figura**, ale samy o sobě neodpovídají přímo na otázku „chcete/nechcete ho ministrem“.\n\n---\n\n### 2.4 Kontext „profilu“ Filipa Turka\n\nČást veřejnosti i politických elit vnímá „profil“ Filipa Turka jako problematický kvůli jeho minulým výrokům a symbolům:\n\n- Deník N a další média popsala archiv jeho smazaných příspěvků s „rasistickými, sexistickými či homofobními“ výroky a narážkami na nacismus.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/pravdepodobny-ministr-zahranici-v-nove-vlade-a-soucasny-euro/r~78d9aab4a67411f0bb77ac1f6b220ee8/?utm_source=openai))  \n- Policie v říjnu 2025 zahájila trestní řízení kvůli podezření z trestného činu hanobení rasy, národa apod. v souvislosti s jeho výroky.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/posun-v-kauze-turek-policie-zahajila-trestni-rizeni-proveri/r~b1abf850a9a911f095ee0cc47ab5f122/?utm_source=openai))  \n- Shrnutí na Wikipedii (kompilace českých zdrojů) popisuje, že v archivech jeho facebookových komentářů označoval Hitlera za „zlatého tatíčka“, opakovaně používal číslo „88“ jako neonacistický kód a že Deník N zveřejnil desítky vyloženě rasistických a homofobních výroků.([en.wikipedia.org](https://en.wikipedia.org/wiki/Filip_Turek?utm_source=openai))  \n\nTo vysvětluje, co prezident pravděpodobně míní slovním spojením „člověk profilu Filipa Turka“ (tj. politik spojovaný s krajní pravicí, rasistickými či neonacistickými aluzemi).  \n**Žádný z dostupných průzkumů ale neptá na „člověka podobného profilu“, vždy jde přímo o osobu Filipa Turka.**\n\n---\n\n## 3. Hodnocení jednotlivých dílčích tvrzení\n\n### 3.1 „Pokud budeme sledovat hlas veřejnosti…“ – existuje relevantní „hlas veřejnosti“?\n\nAno.\n\n- **NMS Research pro Český rozhlas** (1021 respondentů, konec listopadu 2025) – jasně formulovaná otázka k tomu, zda si lidé přejí, aby se Filip Turek stal ministrem životního prostředí.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n- **Kantar CZ pro Českou televizi** (1000 respondentů, přelom listopadu/prosince 2025) – otázka na vhodnost / nevhodnost Turka jako kandidáta na ministra.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\nObě šetření jsou **standardní reprezentativní průzkumy veřejného mínění na celonárodním vzorku** a byla zveřejněna v hlavních médiích (ČRo, ČT, ČTK) více než měsíc před Pavlovým výrokem. Je proto velmi pravděpodobné, že prezident o těchto datech věděl a mohl na ně narážet.\n\n### 3.2 „…většina populace si nepřeje…“ – ukazují průzkumy skutečně většinu proti Turkově ministerskému jmenování?\n\n#### NMS Research pro Český rozhlas\n\n- **52 %** dotázaných se vyslovilo **„proti tomu, aby se Turek stal ministrem životního prostředí“**.([denik.cz](https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai))  \n- **30 %** bylo pro, **cca 17 %** nevědělo.([denik.cz](https://www.denik.cz/z_domova/filip-turek-ministr-zivotniho-prostredi-cesi-nazor-pruzkum-20251205.html?utm_source=openai))  \n\nPři vzorku ~1000 lidí je běžná statistická chyba kolem ±3 p. b. Rozdíl **52 % proti vs. 30 % pro** je však natolik velký, že i s chybou jde **jednoznačně o většinu populace proti**.\n\n#### Kantar CZ pro Českou televizi\n\n- **63 %** respondentů považuje Turka za **„velmi“ nebo „spíše nevhodného“ kandidáta na ministra**.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- **26 %** jej vidí jako vhodného (11 % velmi, 15 % spíše).([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\nI zde rozdíl (63 % vs. 26 %) zřetelně ukazuje, že **nadpoloviční většina respondentů nechce Turka v roli ministra / považuje ho za nevhodného**.\n\n#### Závěr k této dílčí části\n\nAno, **nejméně dva nezávislé reprezentativní průzkumy** zveřejněné v prosinci 2025 ukazují, že:\n\n- **více než polovina populace si Turka ministrem nepřeje** (NMS – 52 % přímo proti jeho jmenování),([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n- **zhruba dvě třetiny populace ho považují za nevhodného kandidáta na ministra** (Kantar – 63 % nevhodný).([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\nNeobjevili jsme žádný kvalitní průzkum z téhož období, který by ukazoval **naopak většinu podporující** jeho jmenování; maximálně přibližně třetina veřejnosti ho vnímá jako vhodného kandidáta.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n\nVýrok „většina populace si nepřeje (Filipa Turka) v ministerské pozici“ je tedy **empiricky dobře podložen**.\n\n### 3.3 „…člověka profilu Filipa Turka…“ – lze z dat usuzovat na „profil“?\n\nZde je nutné rozlišit:\n\n- **Co data měří:**  \n  - Konkrétní **osobu Filipa Turka** a její vhodnost / nevhodnost na post ministra.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- **Co prezident říká:**  \n  - „člověka profilu Filipa Turka“ – tedy do jisté míry **zobecnění** z konkrétní osoby na „typ politika“ (radikální, spojovaný s rasismem, neonacistickými symboly apod.).([en.wikipedia.org](https://en.wikipedia.org/wiki/Filip_Turek?utm_source=openai))  \n\n**Co lze říci:**\n\n- Z průzkumů bezpečně plyne, že **většina veřejnosti odmítá přímo Filipa Turka jako ministra**.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n- Vzhledem k tomu, že negativní postoj k němu je silně spojen právě s jeho „profilem“ (kauzy s rasistickými a neonacistickými výroky), je **logické politické čtení**, že část veřejnosti tím odmítá tento typ politika.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/domaci/pravdepodobny-ministr-zahranici-v-nove-vlade-a-soucasny-euro/r~78d9aab4a67411f0bb77ac1f6b220ee8/?utm_source=openai))  \n\n**Co už data přímo nepotvrzují:**\n\n- Neexistuje známý reprezentativní průzkum s otázkou typu:  \n  „Souhlasíte s tím, aby se ministrem stal **někdo podobného profilu jako Filip Turek** (bez ohledu na konkrétní jméno)?“  \n  ⇒ Věta o „člověku profilu“ je tedy **interpretace a zobecnění**, nikoli přímo měřený údaj.\n\nJe tedy přesnější říci:\n\n- Data **přímo potvrzují většinový odpor vůči Filipu Turkovi jako ministrovi**.  \n- Zda by totéž platilo pro „kohokoliv podobného profilu“ je **rozumný, ale datově nedoložený odhad**.\n\n### 3.4 „Já jsem zaznamenal…“ – je věrohodné, že prezident vychází z těchto dat?\n\nAno.\n\n- Oba klíčové průzkumy (NMS pro ČRo, Kantar pro ČT) byly široce medializovány v prosinci 2025, často právě v souvislosti s Pavlovými vyjádřeními o Turekově nevhodnosti.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n- Články výslovně propojují výsledky průzkumů s jeho postojem; např. Seznam Zprávy píší: „Prezident Petr Pavel označil za málo pravděpodobné, že by mohl Filipa Turka jmenovat ministrem… Většina lidí se s ním shodne.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-turek-je-pro-63-procent-lidi-nevhodnym-kandidatem-na-ministra-uvadi-pruzkum-293535?utm_source=openai))  \n\nTvrzení „já jsem zaznamenal“ je tedy v souladu s faktem, že taková data existovala, byla veřejně dostupná a souběžně komentovaná.\n\n---\n\n## 4. Shrnutí\n\n**Rozložení výroku na dílčí tvrzení:**\n\n1. **Existuje relevantní „hlas veřejnosti“ k nominaci Filipa Turka na ministra.**  \n   – ANO. Dva nezávislé, reprezentativní průzkumy (NMS pro ČRo, Kantar pro ČT) z přelomu listopadu/prosince 2025 přímo měří postoje veřejnosti k tomu, zda má být Turek ministrem a zda je vhodným kandidátem.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n\n2. **Většina populace si Turka v ministerské funkci nepřeje.**  \n   – ANO, **empiricky podloženo**:\n     - NMS: 52 % proti jeho jmenování, 30 % pro.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/pruzkum-turka-nechce-ministrem-zivotniho-prostredi-52-procent-cechu/2756399?utm_source=openai))  \n     - Kantar: 63 % považuje Turka za nevhodného kandidáta, 26 % za vhodného.([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/domaci/pruzkum-dle-vetsiny-lidi-se-turek-na-ministra-nehodi-motoriste-nahradu-nehledaji-368020/?utm_source=openai))  \n     – Neexistují zjištěné průzkumy z dané doby, které by ukazovaly opačný většinový trend.\n\n3. **Zobecnění na „člověka profilu Filipa Turka“.**  \n   - Data **přímo měří postoj k osobě Filipa Turka**, nikoliv k hypotetickým „podobně profilovaným“ politikům.  \n   - Vzhledem k tomu, že odpor vůči němu souvisí s jeho veřejným profilem (rasistické, neonacistické a homofobní výroky, kontroverze), je takové zobecnění politicky srozumitelné, ale **striktně vzato jde už o interpretaci, ne o přímo měřený fakt**.([en.wikipedia.org](https://en.wikipedia.org/wiki/Filip_Turek?utm_source=openai))  \n\n**Celkově:**  \nZ hlediska ověřitelné části výroku („většina populace si nepřeje, aby Filip Turek byl ministrem“) je tvrzení **dobře podložené dostupnými reprezentativními průzkumy**. Část o „člověku profilu Filipa Turka“ představuje spíše rétorické zobecnění; pro to již nemáme přímá data, ale jde o rozumnou interpretaci téhož veřejného odporu.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 62845,
+      "input_tokens_details": {
+        "cached_tokens": 6272
+      },
+      "output_tokens": 13510,
+      "output_tokens_details": {
+        "reasoning_tokens": 9000
+      },
+      "total_tokens": 76355
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1769596345,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

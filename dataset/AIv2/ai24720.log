@@ -1,0 +1,523 @@
+{
+  "claim_id": "24720",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260421_113102",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/reports/report24720.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 103.8,
+        "prompt_length": 3343,
+        "input_tokens": 278192,
+        "cached_input_tokens": 197376,
+        "output_tokens": 5280,
+        "web_searches": 10,
+        "final_response": "Analýzu jsem zapsal do [claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/claim_interpretation.md). Obsahuje rozklad na dílčí tvrzení, vybranou interpretaci, datum výroku `17. dubna 2026`, okno pro důkazy a plán hledání pro další krok.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Vyložím nejdřív, co přesně Talíř touto větou nejspíš označuje, a ověřím datum a kontext výroku vůči článku a změně koncesionářských poplatků."
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:plus.rozhlas.cz koncesionarske poplatky jsou zastarale plati je hlavne seniori zni z spd opozice 9610185"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz 348/2005 koncesionářské poplatky 2025 novela"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://plus.rozhlas.cz/na-vlade-panuje-chaos-hrozi-ze-koncesionarske-poplatky-nahradi-paskvil-kritizuje-9601388"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz novela 348/2005 2025 televizní rozhlasové poplatky 2025 Sb."
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2025-119"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:plus.rozhlas.cz \"Koncesionářské poplatky jsou zastaralé\" SPD opozice"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://plus.rozhlas.cz/koncesionarske-poplatky-jsou-zastarale-plati-je-hlavne-seniori-zni-z-spd-opozice-9610185"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám potvrzený zdroj i datum výroku a dohledal jsem, že Talíř zjevně mluví o zvýšení poplatků prosazeném novelou účinnou od 1. května 2025. Teď sepíšu interpretaci tak, aby druhý krok mohl cílit hlavně na zákon, legislativní historii a případně hlasování."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc pwd",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'rg --files work || true'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ještě projdu, jaké lokální průvodce jsou v repu k dispozici, aby zápis do `work/claim_interpretation.md` odpovídal očekávané struktuře pipeline."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'rg --files guides'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'ls -la work'",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/prirucka.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'Účinnost'"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zapíšu teď interpretaci do pracovního souboru. Zaměřím ji na dvě ověřitelné roviny: že poplatky byly skutečně zvýšeny a že Talíř pod „my“ nejspíš myslí tehdejší vládní většinu, jejíž součástí byl."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Soubor je zapsaný. Ještě ho rychle zkontroluji, jestli struktura odpovídá zadání a jsou v něm explicitně uvedená data pro další krok."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Analýzu jsem zapsal do [claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/claim_interpretation.md). Obsahuje rozklad na dílčí tvrzení, vybranou interpretaci, datum výroku `17. dubna 2026`, okno pro důkazy a plán hledání pro další krok."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 226.5,
+        "prompt_length": 1771,
+        "input_tokens": 684480,
+        "cached_input_tokens": 393856,
+        "output_tokens": 16855,
+        "web_searches": 22,
+        "final_response": "Zdroje jsem zapsal do [raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/raw_sources.md). Jsou tam primární právní a parlamentní zdroje, veřejnoprávní média i protidůkazy k užší interpretaci, že Talíř poplatky zvyšoval osobně.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď načtu interpretaci z prvního kroku a začnu sbírat širší sadu zdrojů. Priorita jsou zákony, sněmovní tisk a hlasování; pak doplním veřejnoprávní média a případné zdroje, které zpochybňují užší čtení výroku."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,200p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz 348/2005 rozhlasových a televizních poplatcích § 6 150 Kč 55 Kč"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz tisk 738 České televizi Českém rozhlasu rozhlasových a televizních poplatcích"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz 348/2005 historické znění 31.12.2024 § 6 45 Kč 135 Kč"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:vlada.cz schválila novelu zákona česká televize český rozhlas poplatky 2024"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/sqw/detail.sqw František Talíř poslanec od 2025"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/media2/file/2504/File75003.pdf?attachment-filename=Sb_2025_119_PZZ.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/sqw/hlasy.sqw tisk 738 hlasování 5. 3. 2025 99 89"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:senat.cz veřejnoprávní média poplatky schválil senát 2025"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:senat.cz medialni novela koncesionářské poplatky schůze 2025 tisk"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/sqw/detail.sqw?id=7052 \"poslanec od\""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz/cs/2005-348/zneni-20080101 § 6"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:ceskatelevize.cz televizní poplatek 150 Kč od 1. května 2025"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/cs/2005-348?text=348%2F2005"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz text tisku 738 pdf důvodová zpráva"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": ""
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:zakonyprolidi.cz/cs/2025-119 119/2025 Sb. 2025"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Mám už dost zdrojů na všechny tři roviny výroku. Doplňuji ještě protidůkazy k užší interpretaci „my“ a k Talířově časové zkratce s rokem 2008, pak zapíšu přehled do `work/raw_sources.md`."
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.kdu.cz/aktualne/ruzne/pozvanka-caj-o-seste-s-nove-zvolenymi-poslanci"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://ct24.ceskatelevize.cz/clanek/domaci/senat-bude-hlasovat-o-medialni-novele-359913"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://mk.gov.cz/novinky-a-media-cs-4/5707cs-novela-zakona-o-ceske-televizi-a-ceskem-rozhlasu-ma-finalni-podobu-posili-jejich-nezavislost-a-zajisti-dlouhodobou-stabilitu-financovani"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.irozhlas.cz/zpravy-domov/za-televizi-150-korun-za-rozhlas-55-ministerstvo-kultury-reklo-jak-chce-zvysit_2405141818_nel"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://poplatek.rozhlas.cz/od-1-kvetna-2025-vstoupila-v-ucinnost-novela-zakona-o-rozhlasovych-a-televiznich-9460645"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zapisuju surové zdroje. Vedle podpůrných zdrojů tam dávám i materiály, které oslabují užší výklad výroku nebo korigují Talířovu časovou zkratku u roku 2008."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Surový sběr je zapsaný. Ještě zkontroluji, že tam jsou i protidůkazy a že všechny zdroje spadají před datum výroku 17. dubna 2026."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,280p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zdroje jsem zapsal do [raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/raw_sources.md). Jsou tam primární právní a parlamentní zdroje, veřejnoprávní média i protidůkazy k užší interpretaci, že Talíř poplatky zvyšoval osobně."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 108.4,
+        "prompt_length": 2274,
+        "input_tokens": 917623,
+        "cached_input_tokens": 580608,
+        "output_tokens": 24487,
+        "web_searches": 2,
+        "final_response": "Refinovaný seznam jsem zapsal do [refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/refined_sources.md). Nechal jsem hlavně tier-1 primární zdroje, nahradil mediální referování oficiálním senátním záznamem a anglický profil Talíře českou stránkou Sněmovny; žádné dílčí tvrzení nezůstalo bez adekvátního zdrojového pokrytí.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď zdroje prořežu podle kvality a duplicity. Chci nechat hlavně zákony, sněmovní hlasování, důvodovou zprávu a jen minimum mediálních zdrojů tam, kde doplňují něco, co primární materiál sám neříká."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/raw_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' work/claim_interpretation.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:psp.cz/sqw/detail.sqw František Talíř poslanec od 4. 10. 2025"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "site:poplatky.ceskatelevize.cz/domacnost \"Výše TV poplatku je 150 Kč měsíčně\""
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam zúžím na zdroje, které se skutečně hodí pro odůvodnění. Duplicitní nebo slabší položky označím jako odstraněné či nahrazené, aby bylo zřejmé, proč v další fázi nebudou použité."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refined seznam je hotový. Ještě ho rychle kontroluji kvůli náhradám zdrojů a shrnutí pokrytí jednotlivých dílčích tvrzení."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,320p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Refinovaný seznam jsem zapsal do [refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/refined_sources.md). Nechal jsem hlavně tier-1 primární zdroje, nahradil mediální referování oficiálním senátním záznamem a anglický profil Talíře českou stránkou Sněmovny; žádné dílčí tvrzení nezůstalo bez adekvátního zdrojového pokrytí."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 63.6,
+        "prompt_length": 2388,
+        "input_tokens": 1203699,
+        "cached_input_tokens": 843264,
+        "output_tokens": 28902,
+        "web_searches": 0,
+        "final_response": "Draft jsem zapsal do [draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/draft.md). Vychází jen z refined zdrojů, drží HTML formát i demagogovský styl a uzavírá výrok jako `pravda` při charitativní interpretaci „my“ jako tehdejší vládní většiny.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Než začnu psát text, projdu stylový návod a dva reálné příklady, ať draft drží demagogovský tón i strukturu. Pak z toho rovnou sepíšu publikovatelnou verzi."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/refined_sources.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/examples.txt\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Sepisuji draft jako finální report v HTML. Držím krátké odstavce, průběžné odkazy na klíčová slova a závěr s verdiktem jen jednou."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft je zapsaný. Kontroluji ještě délku perexu, HTML strukturu a to, že verdikt padá jen jednou v závěru."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Draft jsem zapsal do [draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/draft.md). Vychází jen z refined zdrojů, drží HTML formát i demagogovský styl a uzavírá výrok jako `pravda` při charitativní interpretaci „my“ jako tehdejší vládní většiny."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 84.1,
+        "prompt_length": 1226,
+        "input_tokens": 1572806,
+        "cached_input_tokens": 1175552,
+        "output_tokens": 34303,
+        "web_searches": 3,
+        "final_response": "Ověření jsem zapsal do [verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/verification.md). Jediný nalezený problém byl chybějící údaj o stránce u PDF důvodové zprávy; ten jsem opravil přímo v [draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/draft.md), po čemž checklist vyšel celý jako `PASS`.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Teď draft projdu proti checklistu bod po bodu a u 2–3 odkazů udělám skutečný spot-check. Pokud něco neprojde, opravím jen konkrétní místo v draftu a znovu přehodnotím pouze selhané body."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,220p' guides/style_guide.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,260p' guides/verification_checklist.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,200p' guides/source_ranking.csv\"",
+            "exit_code": 0
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://www.zakonyprolidi.cz/media2/file/2406/File68284.pdf?attachment-filename=7767593-2024-06-26-duvodova-zprava-7915535.pdf"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "'o 15 Kč v případě televize a 10 Kč v případě rozhlasu' in https://mk.gov.cz/novinky-a-media-cs-4/5782cs-vlada-schvalila-navrh-velke-medialni-novely-novely-zakonu-o-ceske-televizi-ceskem-rozhlase-a-televiznich-a-rozhlasovych-poplatcich"
+          },
+          {
+            "type": "WebSearchItem",
+            "query": "https://poplatek.rozhlas.cz/od-1-kvetna-2025-vstoupila-v-ucinnost-novela-zakona-o-rozhlasovych-a-televiznich-9460645"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "V checklistu zatím narážím hlavně na jeden formální problém: u odkazované PDF důvodové zprávy chybí číslo stránky. Opravím jen tuto citaci a pak znovu přepočtu jen selhaný bod."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Oprava je v draftu zapsaná. Teď sepíšu finální verifikační protokol už jen s přepočteným bodem o PDF citaci a se záznamem spot-checku odkazů."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikační protokol je zapsaný a po opravě PDF citace už všechny body checklistu vycházejí jako PASS."
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Ověření jsem zapsal do [verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/verification.md). Jediný nalezený problém byl chybějící údaj o stránce u PDF důvodové zprávy; ten jsem opravil přímo v [draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260421_113102/id24720/work/draft.md), po čemž checklist vyšel celý jako `PASS`."
+          }
+        ]
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 25.1,
+        "prompt_length": 313,
+        "input_tokens": 1835238,
+        "cached_input_tokens": 1431680,
+        "output_tokens": 35754,
+        "web_searches": 0,
+        "final_response": "Hotovo.",
+        "items": [
+          {
+            "type": "ErrorItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Zkontroluji závěr verifikace a přenesu finální text reportu do `output/report.md` v požadovaném formátu."
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc \"sed -n '1,240p' work/draft.md\"",
+            "exit_code": 0
+          },
+          {
+            "type": "CommandExecutionItem",
+            "command": "/bin/bash -lc 'tail -n 5 work/verification.md'",
+            "exit_code": 0
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Verifikace končí `## Result: PASS`. Teď už jen ukládám finální report do výstupního souboru."
+          },
+          {
+            "type": "CompatFileChangeItem"
+          },
+          {
+            "type": "AgentMessageItem",
+            "text": "Hotovo."
+          }
+        ]
+      }
+    }
+  ]
+}

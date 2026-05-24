@@ -1,0 +1,583 @@
+{
+  "claim_id": "24631",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24631.md",
+  "fact_check": "# Fact Check for Statement ID 24631\n\n## Statement\nDeficit veřejných financí z 5 %, když jsme ho přebírali po Babišově vládě, pod 2 % HDP.\n\n---\n## AI Fact Check\n### 1. Shrnutí\n\n- **Výchozí hodnota („když jsme ho přebírali po Babišově vládě“)**  \n  Podle Českého statistického úřadu (ČSÚ) činil **deficit sektoru vládních institucí (veřejných financí) v roce 2021 zhruba 5 % HDP** – přesně **–5,1 % HDP** v notifikaci za roky 2020–2023 a **–5,0 % HDP** v novější tabulce za roky 2021–2024.([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat))  \n  Vláda Petra Fialy se ujala úřadu 17. prosince 2021, tedy prakticky na konci účetního roku 2021; výsledky roku 2021 proto odrážejí převážně politiku kabinetu Andreje Babiše.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/vlada-petra-fialy/l~422a71dc3e3711ecb91a0cc47ab5f122/?utm_source=openai))  \n  → Tvrzení o **„5 % při převzetí“ je fakticky dobře ukotvené.**\n\n- **Aktuální stav za vlády Petra Fialy (rok 2024)**  \n  Podle oficiální notifikace ČSÚ a údajů validovaných Eurostatem činil **deficit vládních institucí v roce 2024 –2,2 % HDP**, nikoli méně než 2 % HDP.([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n  Stejnou hodnotu uvádí Ministerstvo financí v květnové Fiskální prognóze 2025 i tabulky zveřejněné ČTK.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n\n- **Strukturální (očištěný) deficit**  \n  Ministerstvo financí ale zároveň uvádí, že **strukturální deficit** (očištěný o cyklus a jednorázová opatření) se v roce 2024 **snížil z 2,7 % na 1,9 % HDP**, tedy **pod 2 % HDP**.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n\n**Závěr:**  \n- Číslo **„5 %“ při převzetí po Babišově vládě** odpovídá oficiálním datům.  \n- **„Pod 2 % HDP“ neodpovídá standardně chápanému deficitu veřejných financí (headline deficit sektoru vládních institucí), který byl v roce 2024 –2,2 % HDP.**  \n- Hodnota **pod 2 %** sedí pouze na **strukturální deficit (≈ –1,9 % HDP)**, nikoli na celkový deficit, který se obvykle míní termínem „deficit veřejných financí“. Výrok tak míchá dvě rozdílné veličiny a výsledek částečně nadsazuje.\n\n---\n\n## 2. Rozpad tvrzení\n\nTvrzení: **„Deficit veřejných financí z 5 %, když jsme ho přebírali po Babišově vládě, pod 2 % HDP.“**\n\nMožné interpretace a dílčí tvrzení:\n\n1. **Definice a kontext**\n   - (1a) „Deficit veřejných financí“ = **saldo sektoru vládních institucí podle ESA 2010**, tj. tzv. **EDP deficit (maastrichtský deficit)** v % HDP.\n   - (1b) Lze ho měřit na roční bázi (kalendářní rok).\n\n2. **Výchozí úroveň při převzetí po Babišově vládě**\n   - (2a) V roce 2021, kdy Fialova vláda nastoupila, byl **deficit veřejných financí přibližně 5 % HDP**.\n   - (2b) Je legitimní přičíst tuto hodnotu „vládě Andreje Babiše“ (politický, nikoli čistě statistický aspekt).\n\n3. **Současný stav za Fialovy vlády**\n   - (3a) Za působení Fialovy vlády byl **headline deficit veřejných financí snížen pod 2 % HDP** (tj. někdy v letech 2022–2024).\n   - (3b) Alternativní čtení: pod 2 % spadl **strukturální deficit** (což je jiný, očištěný ukazatel).\n\nDále jsou ověřeny (2a) a (3a)/(3b) zvlášť.\n\n---\n\n## 3. Kontext: co je „deficit veřejných financí“\n\nČSÚ a Eurostat v rámci **notifikace deficitu a dluhu vládních institucí** pracují se saldem sektoru vládních institucí (general government) podle metodiky **ESA 2010**:\n\n- Notifikace 2023 (za roky 2020–2023) vysvětluje, že notifikace se sestavuje vždy za předchozí 4 roky, používá metodiku ESA 2010 a definuje deficit jako ukazatel B.9 „net borrowing (−) or net lending (+)“ sektoru vládních institucí; zároveň připomíná maastrichtský limit 3 % HDP.([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat))  \n- Notifikace 2024 (za roky 2021–2024) používá stejnou metodiku a slouží k hodnocení plnění maastrichtských kritérií.([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n\nV české debatě je tak **„deficit veřejných financí“ standardně chápán jako toto saldo sektoru vládních institucí (general government deficit v % HDP)**.\n\n---\n\n## 4. Dílčí tvrzení (2a): „při převzetí po Babišovi byl deficit kolem 5 % HDP“\n\n### 4.1 Oficiální data ČSÚ / Eurostat\n\n**Notifikace deficitu a dluhu vládních institucí – 2023 (ČSÚ, 22. 4. 2024)**  \nTabulka „Notification table of government deficit and debt, the Czech Republic, 2020–2023“ uvádí:([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat))  \n\n- „Net borrowing/lending of general government as % of the GDP“:  \n  - 2020: **–5,8 % HDP**  \n  - **2021: –5,1 % HDP**  \n  - 2022: –3,2 % HDP  \n  - 2023: –3,7 % HDP  \n\n**Notifikace deficitu a dluhu vládních institucí – 2024 (ČSÚ, 22. 4. 2025)**  \nAktualizovaná notifikace za roky 2021–2024 uvádí v tabulce:([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n\n- „Saldo hospodaření sektoru vládních institucí v % HDP“:  \n  - 2021: **–5,0 % HDP**  \n  - 2022: –3,1 % HDP  \n  - 2023: –3,8 % HDP  \n  - 2024: –2,2 % HDP  \n\nRozdíl mezi –5,1 % a –5,0 % je dán revizí; v obou případech jde řádově o **„pět procent HDP“**.\n\n### 4.2 Další mezinárodní zdroje\n\n- OECD v publikaci *Government at a Glance 2023 – Czech Republic* uvádí pro Českou republiku **fiskální deficit –5,1 % HDP v roce 2021** a –3,6 % v roce 2022.([oecd.org](https://www.oecd.org/en/publications/government-at-a-glance-2023_c4200b14-en/czech-republic_e8b39a5d-en.html?utm_source=openai))  \n\n### 4.3 Kdo tehdy vládl\n\n- Podle přehledu serveru Aktuálně.cz se **vláda Petra Fialy ujala úřadu 17. prosince 2021**, kdy její členy jmenoval prezident Miloš Zeman.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/vlada-petra-fialy/l~422a71dc3e3711ecb91a0cc47ab5f122/?utm_source=openai))  \n- Předtím vládl kabinet Andreje Babiše; rok 2021 tedy de facto reflektuje převážně jeho rozpočtovou politiku.\n\n### 4.4 Hodnocení dílčího tvrzení (2a)\n\n- **Fakticky:** ČSÚ i OECD potvrzují, že **deficit sektoru vládních institucí v roce 2021 byl okolo –5 % HDP**.  \n- **Rétorika „při převzetí po Babišovi“:** Rok 2021 je z účetního hlediska „smíšený“ (Fialova vláda nastoupila 17. 12.), ale drtivá většina roku proběhla pod Babišovým kabinetem. Politické připsání tohoto deficitu Babišově vládě je běžné zjednodušení.\n\n**Závěr (2a):** Číselně je tvrzení „z 5 % při převzetí po Babišově vládě“ podloženo daty.\n\n---\n\n## 5. Dílčí tvrzení (3a): „za Fialovy vlády se deficit snížil pod 2 % HDP“ – headline deficit\n\n### 5.1 Oficiální roční data (headline deficit)\n\n**ČSÚ – Notifikace 2024 (2021–2024)**  \nJak uvedeno výše, tabulka deficitu vládních institucí v % HDP udává:([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n\n- 2021: –5,0 %  \n- 2022: –3,1 %  \n- 2023: –3,8 %  \n- **2024: –2,2 %**  \n\nToto jsou data potvrzená Eurostatem v rámci procedury nadměrného schodku.\n\n**Ministerstvo financí – tisková zpráva 2. 4. 2025**  \nTisková zpráva MF „ČR poprvé od covidu splnila 3% limit z Maastrichtských kritérií, deficit veřejných financí loni klesl až na 2,2 % HDP“ výslovně uvádí, že:([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/cr-poprve-od-covidu-splnila-3-limit-z-maastrichtsk-59367))  \n\n- Český statistický úřad oznámil, že **české veřejné finance za rok 2024 skončily s deficitem 2,2 % HDP**.  \n- Zpráva mluví o **„deficitu veřejných financí“** právě v této výši (2,2 % HDP).\n\n**Ministerstvo financí – Fiskální prognóza ČR, květen 2025**  \nFiskální prognóza 2025 shrnuje výsledek roku 2024 takto:([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n\n- „Saldo hospodaření sektoru vládních institucí v roce 2024 **skončilo deficitem 2,2 % HDP**.“  \n- Zároveň uvádí, že strukturální saldo se zlepšilo na –1,9 % HDP (viz dále).\n\n**ČTK / ČeskéNoviny – přehled „Hospodaření veřejných financí (v procentech HDP)“**  \nZpravodajství ČTK, které vychází z údajů MF, uvádí tabulku:([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2659361?utm_source=openai))  \n\n- **Saldo sektoru vládních institucí (v % HDP):**  \n  - 2020: –5,6  \n  - 2021: –5,0  \n  - 2022: –3,1  \n  - 2023: –3,8  \n  - **2024: –2,2**  \n  - 2025*: –2,2 (predikce)  \n  - 2026*: –2,0 (predikce)  \n\nTento přehled potvrzuje, že **ani skutečný výsledek 2024, ani oficiální predikce MF pro rok 2025 nepočítaly s deficitem pod 2 % HDP**, nýbrž 2,2 % HDP (resp. 2,0 % v roce 2026).\n\n**Eurostat / Destatis – mezinárodní souhrn**  \nSouhrnná eurostatovská tabulka publikovaná německým statistickým úřadem (Destatis) uvádí u Czechia pro rok 2024:([destatis.de](https://www.destatis.de/Europa/EN/Topic/Key-indicators/EconomyFinance.html?view=main%5BPrint%5D&utm_source=openai))  \n\n- „General government deficit/surplus, % of GDP“: **–2,2 %**,  \n- „General government gross debt, % of GDP“: 43,6 %.\n\n### 5.2 Mezinárodní agregátory\n\nWeb **countryeconomy.com** uvádí pro ČR v roce 2024 deficit –2,00 % HDP.([countryeconomy.com](https://countryeconomy.com/deficit/czech-republic))  \nNejde však o primární oficiální zdroj, nýbrž o agregátor, který pravděpodobně čerpá z Eurostatu / národních statistik a může zaokrouhlovat či používat odlišná meziroční data.\n\n### 5.3 Průběžná data za rok 2025\n\n**ČSÚ – Deficit a dluh vládních institucí, 2. čtvrtletí 2025**  \nZa 2. čtvrtletí 2025 uvádí ČSÚ přebytek sektoru vládních institucí 0,4 % HDP (čtvrtletní údaj, nesezónně očištěný).([csu.gov.cz](https://csu.gov.cz/rychle-informace/deficit-a-dluh-vladnich-instituci-2-ctvrtleti-2025?utm_source=openai))  \nTo ukazuje na pokračující konsolidaci, ale **nejde o roční deficit**, takže nelze tvrdit, že by celý rok 2025 byl už v té chvíli „pod 2 %“.\n\n### 5.4 Pozdější pohled MF (listopad 2025)\n\n**Fiskální výhled ČR, listopad 2025 (MF)**  \nV listopadu 2025 MF v anglickém „Fiscal Outlook“ konstatuje, že:([mfcr.cz](https://www.mfcr.cz/en/fiscal-policy/macroeconomic-analysis/fiscal-forecast-and-fiscal-outlook/2025/fiscal-outlook-of-the-czech-republic-november-2025-61880))  \n\n- „overall balance of the general government sector reached −2.0% of GDP in 2024“ (celkové saldo sektoru vládních institucí dosáhlo –2,0 % HDP v roce 2024)  \n- a pro rok 2025 se **očekává** deficit „just below 2% of GDP“ (těsně pod 2 % HDP).\n\nTento dokument je ale **datově i časově až po výroku Petra Fialy (18. 9. 2025)** a navíc je v mírném rozporu s hodnotou –2,2 % z notifikace ČSÚ/Eurostatu; zjevně zde MF pracuje s jiným zaokrouhlením nebo definičním vymezením.\n\n### 5.5 Hodnocení dílčího tvrzení (3a) – headline deficit\n\n- Všechna **oficiální statistická data ČSÚ a Eurostatu** pro sektor vládních institucí ukazují, že **nejnižší dosažený deficit za Fialovy vlády (do roku 2024) je –2,2 % HDP**, nikoli „pod 2 %“.([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n- Predikce MF zveřejněné **před** výrokem (leden–květen 2025) ukazují pro rok 2025 spíše deficit okolo 2,2–2,3 % HDP, nikoli jasně pod 2 %.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/makroekonomicka-predikce/2025/makroekonomicka-predikce-leden-2025-58624?utm_source=openai))  \n- Až **listopadový** Fiskální výhled 2025 mluví o 2,0 % za rok 2024 a očekávaném deficitu „těsně pod 2 %“ pro 2025, ale je vydán dva měsíce **po** Fialově výroku.([mfcr.cz](https://www.mfcr.cz/en/fiscal-policy/macroeconomic-analysis/fiscal-forecast-and-fiscal-outlook/2025/fiscal-outlook-of-the-czech-republic-november-2025-61880))  \n\n**Závěr (3a):**  \nZ hlediska standardního ukazatele „deficit veřejných financí“ (saldo sektoru vládních institucí podle ESA 2010) **nelze doložit, že by za Fialovy vlády deficit klesl „pod 2 % HDP“; oficiální hodnota za rok 2024 je –2,2 % HDP.** Tvrzení je tedy při tomto běžném čtení **čísleně nadsazené** (zhruba o 0,2 procentního bodu).\n\n---\n\n## 6. Dílčí tvrzení (3b): „pod 2 % HDP“ jako strukturální deficit\n\nV dostupných materiálech MF se objevují **dvě paralelní hodnoty**:\n\n1. **Headline deficit (saldo hospodaření sektoru vládních institucí)**  \n   – pro rok 2024 **–2,2 % HDP**.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n\n2. **Strukturální deficit** (očištěný o hospodářský cyklus a jednorázová opatření)  \n   – MF jej pro rok 2024 uvádí jako **–1,9 % HDP**.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n\nKonkrétně:\n\n- Fiskální prognóza MF (květen 2025) píše, že „**Strukturální saldo se zlepšilo o 0,7 procentního bodu na −1,9 % HDP**“ v roce 2024.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n- Stejný údaj je zopakován i v tiskové zprávě MF z 2. 4. 2025, která zdůrazňuje, že strukturální deficit se snížil z 2,7 % na 1,9 % HDP.([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/cr-poprve-od-covidu-splnila-3-limit-z-maastrichtsk-59367))  \n\n**Z hlediska strukturálního salda tedy opravdu platí, že deficit klesl „pod 2 % HDP“.**\n\nProblém je, že:\n\n- V politické i mediální debatě se výraz **„deficit veřejných financí“** běžně vztahuje k **headline deficitu (EDP deficitu)**, nikoli k jeho strukturální verzi.  \n- Fiala v citovaném výroku nijak neupřesňuje, že má na mysli **strukturální** deficit; naopak navazuje na debatu o zadlužení a maastrichtských kritériích, kde se obvykle používá headline ukazatel (který je 2,2 %, nikoliv <2 %).([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n\n**Závěr (3b):**  \nPokud by výrok byl interpretován tak, že „pod 2 %“ se vztahuje k **strukturálnímu deficitu**, pak **hodnota 1,9 % HDP v roce 2024 odpovídá oficiálním údajům MF**. Výrok by ale musel explicitně zmiňovat, že jde o strukturální ukazatel, což neučinil.\n\n---\n\n## 7. Celkové zhodnocení tvrzení\n\n1. **„…z 5 %, když jsme ho přebírali po Babišově vládě…“**  \n   - Roční deficit sektoru vládních institucí v roce 2021 činil podle ČSÚ zhruba **–5 % HDP** (–5,1 % resp. –5,0 % po revizi).([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat))  \n   - Vláda Petra Fialy nastoupila v prosinci 2021; rok 2021 je proto racionálně chápán jako výstup Babišovy vlády.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/vlada-petra-fialy/l~422a71dc3e3711ecb91a0cc47ab5f122/?utm_source=openai))  \n   → **Tato část tvrzení je fakticky podložena.**\n\n2. **„…[deficit] pod 2 % HDP.“ – headline deficit**  \n   - Všechna relevantní oficiální data (ČSÚ, Eurostat, MF, ČTK) ukazují pro rok 2024 **headline deficit –2,2 % HDP**, tedy **nad 2 % HDP**, a predikce na rok 2025 před výrokem hovoří o cca –2,2 až –2,3 % HDP.([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n   - **Deficit veřejných financí ve smyslu EDP/maastrichtského ukazatele tedy „pod 2 %“ k datu výroku prokázán není.**  \n\n3. **„…pod 2 % HDP.“ – strukturální deficit**  \n   - Strukturální deficit veřejných financí MF pro rok 2024 skutečně uvádí **–1,9 % HDP**, tedy pod 2 %.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n   - Výrok ale mluví obecně o „deficitu veřejných financí“ a v návaznosti na diskusi o zadlužení a maastrichtských kritériích, kde je standardem headline ukazatel.  \n\n**Celkově:**  \n\n- **Směr změny** (výrazné snížení deficitu veřejných financí proti roku 2021) je podle čísel nepochybný.  \n- **Výchozí hodnota „5 %“** při převzetí po Babišově vládě je věcně správná.  \n- **Cílová hodnota „pod 2 % HDP“** je ale ve vztahu ke standardně chápanému **deficitu veřejných financí (headline EDP deficit) nepřesná** – oficiální data ukazují minimum **–2,2 % HDP**. Hodnota **pod 2 %** odpovídá pouze **strukturálnímu saldu**, které Fiala ve výroku výslovně nezmiňuje.\n\nPro následné hodnocení (pravda / polopravda / nepravda) je tedy klíčové, zda fakt-checker přijme širší interpretaci „deficitu veřejných financí“ zahrnující strukturální saldo, nebo bude vycházet z obvyklého a v oficiálních dokumentech převažujícího významu jakožto **headline deficitu sektoru vládních institucí v % HDP**.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Petr Fiala, Poslanec\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:03:09\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nTo jsou nesrovnatelné věci. Jedna, v jedné chvíli jsme byli po pandemii, teď jsme byli samozřejmě asi, já nevím, po energetické krizi atd., ale v každém případě já tvrdím, že ten motor té ekonomiky je privátní sektor. Zeptejme se podnikatelů, jak se jim zaměstnávalo, zeptejme se, jak se vypořádávali s vysokými cenami energií, proč se snížily investice právě v privátním sektoru, a to jsou důsledky toho, co vláda Petra Fialy zde čtyři roky činila. Já neříkám, že všechno, co dělali, byla jejich vina. To zase není možné takhle to říct, že jsme byli v komplikovaném období, byli jsme v době energetické krize, ale opatření, které dělala tato vláda a která mohla dělat, tak to bylo to, co bylo terčem naší kritiky.\\n00:03:50\\nTerezie Tománková,moderátorka\\nDěkuju. A slibuju, že se k inflaci a energiím vrátíme k těm detailům. Pane poslanče Fialo, bylo to opravdu všechno tak růžové, v jakém stavu je ekonomika Česka a celé Česko?\\n00:04:00\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nJá jsem nikdy neříkal, že to je celé růžové, ale říkal jsem, že jdeme správným směrem a že se ekonomice daří, což je pravda a dokládají to čísla. Pan Havlíček se k tomu nemůže vracet, protože by se ukázalo, že to, co říkali před volbami, byla lež, že lhali lidem. A na základě lží o tom, jak je na tom naše ekonomika, jak je naše země spálená, tak vlastně vyhráli volby, a to já nezpochybňuju, že vyhráli volby a nechci se k tomu vracet. Ale když se podíváme na čísla, osmá nejzdravější ekonomika v Evropské unii, jedna z nejnižších inflací, máme teď už dokonce i Alena Schillerová nebo, nebo sám pan Babiš, nevím kdo, říkají, že ta země není tolik zadlužená, předtím říkali, že jsme katastrofálně zadlužení. Deficit veřejných financí z 5 %, když jsme ho přebírali po Babišově vládě, pod 2 % HDP, což je prokazatelný úspěch konsolidační politiky naší vlády. A pokud jde o ty investice, vždyť jsme druhá nejvíce investující země v Evropské unii, a to je samozřejmě dáno vládními investicemi, ale je to dáno investicemi soukromého sektoru. Zaměstnávání zaměstnanců nebo zaměstnávání lidí, vždyť máme jednu z nejnižších nezaměstnaností v EU. Tak já myslím, že pan Havlíček nemůže na základě čísel líčit výsledky naší vlády jako špatné. Té zemi se daří, daří se ekonomicky a mám z toho radost.\\n00:05:21\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Deficit veřejných financí z 5 %, když jsme ho přebírali po Babišově vládě, pod 2 % HDP.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 420.10 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Výrok správně uvádí zhruba 5% schodek při převzetí po Babišově vládě, ale tvrzení o snížení „deficitu veřejných financí“ pod 2 % HDP odpovídá jen strukturálnímu, nikoli běžně sledovanému maastrichtskému deficitu. Celkově je výrok zavádějící.</p>\n\n<p>Premiér mluví o tom, jak se za vlády Petra Fialy podařilo zlepšit hospodaření státu. Přirovnává stav veřejných financí na konci éry Andreje Babiše a po několika letech vlastní vlády a jako důkaz uvádí změnu deficitu veřejných financí z 5 % HDP na méně než 2 % HDP.</p>\n\n<p>V české debatě se pod pojmem „deficit veřejných financí“ obvykle rozumí celkové saldo sektoru vládních institucí (general government) v poměru k HDP, vypočítané podle metodiky ESA 2010. Přesně tento ukazatel používá Český statistický úřad v rychlé informaci <a href=\"https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem\">„Notifikace deficitu a dluhu vládních institucí 2024“</a>, která slouží k hodnocení plnění maastrichtských kritérií a v poznámkách vysvětluje, že přebytek/deficit vládních institucí je čistá výpůjčka či půjčka tohoto sektoru v daném roce.</p>\n\n<p><strong>První dílčí tvrzení: „z 5 %, když jsme ho přebírali po Babišově vládě“</strong></p>\n\n<p>Podle tabulky v uvedené rychlé informaci ČSÚ pro roky 2021–2024 bylo saldo hospodaření sektoru vládních institucí v roce 2021 ve výši <i>–5,0 % HDP</i> a v roce 2024 ve výši <i>–2,2 % HDP</i>. Tato „Notifikační tabulka deficitu a dluhu vládních institucí, Česká republika, 2021–2024“, zveřejněná přímo na stránce <a href=\"https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem\">ČSÚ</a>, tedy jasně ukazuje, že deficit v roce 2021 se pohyboval okolo pěti procent hrubého domácího produktu.</p>\n\n<p>Stejný řád zhruba –5 % HDP pro rok 2021 uváděla už starší anglická rychlá informace ČSÚ „Notification of government deficit and debt 2023“, kde notifikační tabulka pro roky 2020–2023 pracuje s hodnotou –5,1 % HDP pro rok 2021, tedy opět přibližně pět procent <a href=\"https://csu.gov.cz/rychle-informace/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat\">HDP</a>.</p>\n\n<p>Vláda Petra Fialy byla jmenována 17. prosince 2021, jak shrnuje přehled o Fialově kabinetu na serveru <a href=\"https://www.forum24.cz/temata/fialova-vlada\">Forum24</a>. Rozpočtová politika roku 2021 je tak fakticky výsledkem vlády Andreje Babiše a je běžné ji s tímto kabinetem spojovat.</p>\n\n<p>Tuto část výroku, tedy tvrzení, že při převzetí po Babišově vládě byl deficit veřejných financí zhruba 5 % HDP, proto hodnotíme jako fakticky správnou.</p>\n\n<p><strong>Druhé dílčí tvrzení: „[deficit] pod 2 % HDP“</strong></p>\n\n<p>Český statistický úřad v téže rychlé informaci k notifikaci za roky 2021–2024 uvádí, že schodek hospodaření vládních institucí za rok 2024 dosáhl <i>2,2 % HDP</i> a že tuto hodnotu potvrdil Eurostat. V tabulce na téže stránce je u položky „Saldo hospodaření sektoru vládních institucí v % HDP“ pro rok 2024 uvedena hodnota –2,2, pro rok 2021 pak –5,0 <a href=\"https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem\">HDP</a>.</p>\n\n<p>Ministerstvo financí ve své tiskové zprávě s titulkem <i>„ČR poprvé od covidu splnila 3% limit z Maastrichtských kritérií, deficit veřejných financí loni klesl až na 2,2 % HDP“</i> výslovně uvádí, že podle jarní notifikace ČSÚ „české veřejné finance loni skončily s deficitem 2,2 % HDP“ a že jde o nejnižší schodek za posledních pět let <a href=\"https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/cr-poprve-od-covidu-splnila-3-limit-z-maastrichtsk-59367\">Ministerstvo financí</a>. Samotné ministerstvo tedy pro „deficit veřejných financí“ používá stejný ukazatel jako ČSÚ – maastrichtský (EDP) deficit sektoru vládních institucí.</p>\n\n<p>Ve fiskální prognóze zveřejněné koncem května 2025 Ministerstvo financí znovu shrnuje, že saldo hospodaření sektoru vládních institucí v roce 2024 <i>„skončilo deficitem 2,2 % HDP“</i>, a dodává, že <i>„strukturální saldo se zlepšilo … na −1,9 % HDP“</i> <a href=\"https://mf.gov.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931\">Fiskální prognóza MF</a>. Tím MF jasně rozlišuje dvě veličiny: celkový (headline) deficit a strukturální deficit očištěný o hospodářský cyklus a jednorázová opatření.</p>\n\n<p>Z kombinace údajů ČSÚ a Ministerstva financí tedy plyne, že v roce 2024 klesl maastrichtský deficit veřejných financí na 2,2 % HDP. Tento ukazatel, který se v politické debatě obvykle míní výrazem „deficit veřejných financí“ a který je rozhodující pro plnění maastrichtského limitu 3 %, se tedy pod hranici 2 % HDP nedostal.</p>\n\n<p>Zároveň však platí, že zmíněná fiskální prognóza MF uvádí pro rok 2024 strukturální deficit ve výši 1,9 % HDP, tedy skutečně „pod 2 % HDP“ <a href=\"https://mf.gov.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931\">Fiskální prognóza MF</a>. Stejnou hodnotu 1,9 % HDP připomíná i citovaná tisková zpráva Ministerstva financí, která píše, že se <i>„strukturální deficit … snížil z 2,7 % HDP na 1,9 % HDP“</i> <a href=\"https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/cr-poprve-od-covidu-splnila-3-limit-z-maastrichtsk-59367\">Ministerstvo financí</a>.</p>\n\n<p>Pokud bychom tedy výrok interpretovali tak, že premiér mluví o strukturálním deficitu, číslo „pod 2 % HDP“ by odpovídalo oficiálním údajům. Ve výroku však premiér obecně říká „deficit veřejných financí“, navazuje na debatu o zadlužení a maastrichtských kritériích a neupřesňuje, že má na mysli strukturální ukazatel. Běžný posluchač tak výroku pravděpodobně porozumí jako tvrzení o celkovém (maastrichtském) deficitu, kde ovšem data ukazují pouze 2,2 % HDP.</p>\n\n<p>Druhé dílčí tvrzení, že „deficit veřejných financí“ byl za vlády Petra Fialy snížen „pod 2 % HDP“, je proto ve vztahu k běžně chápanému ukazateli deficitu nadsazené zhruba o dvě desetiny procentního bodu. Odpovídá jen jiné, užší definici (strukturálnímu saldu), kterou ale výrok nijak nezmiňuje.</p>\n\n<p>Celkově tedy platí, že výrok správně vystihuje směr změny – deficit veřejných financí se zhruba z 5 % HDP v roce 2021 skutečně snížil k úrovni lehce nad 2 % HDP – a první část výroku je něčím, co potvrzují oficiální statistiky. Zároveň ale tvrzení, že „deficit veřejných financí“ klesl „pod 2 % HDP“, neodpovídá hodnotě klíčového maastrichtského ukazatele, nýbrž pouze strukturálnímu saldu. Výrok proto hodnotíme jako <strong>zavádějící</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0ebc665193893c3c0069a6b2102b588190bab79abcc3e4bd2d",
+    "created_at": 1772532240.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0ebc665193893c3c0069a6b219ee6c8190ba17c0e19bb54a70",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b23754cc81908345681dfdc0e5b1",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b23920a481908da4d8f06972ddfc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b23968a48190b43a92b9665521e0",
+        "action": {
+          "query": "Czech Republic general government deficit 2021 percent of GDP ESA 2010",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Czech Republic general government deficit 2021 percent of GDP ESA 2010",
+            "saldo sektoru vládních institucí 2021 Česká republika procento HDP",
+            "Ministerstvo financi CR deficity a dluh sektoru vládních institucí 2021 2022 2023",
+            "Eurostat general government deficit surplus Czechia 2021 2022 2023"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b23f81f48190a74d00cb17cf3372",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b240b5a08190853e49dc3398c0d0",
+        "action": {
+          "query": "Notifikace vládního deficitu a dluhu Česká republika 2024 Český statistický úrad",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Notifikace vládního deficitu a dluhu Česká republika 2024 Český statistický úrad",
+            "Saldo sektoru vládních institucí jako % HDP 2020 2021 2022 2023 2024 Český statistický úrad",
+            "vládní instituce Čr saldo vládních institucí % HDP 2021",
+            "\"saldo sektoru vládních institucí\" 2024 2,2 % HDP"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b248b7a8819093892900fd93a8b7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b25971b48190b7dc0063586ab3a4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b25abe588190bd44e09434015801",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b260921c8190a589a7d9877c0c61",
+        "action": {
+          "query": "Makroekonomicka predikce cervenec 2025 saldo sektoru vladnich instituci 2025 -2,2",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Makroekonomicka predikce cervenec 2025 saldo sektoru vladnich instituci 2025 -2,2",
+            "\"saldo sektoru vládních institucí\" 2025 predikce -2,2",
+            "\"Fiskální prognóza\" listopad 2024 saldo sektoru vládních institucí 2025 -2,2",
+            "Makroekonomicka predikce CR leden 2025 vládní instituce -2,8 2024 -2,2 2025"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b26541b48190bf03736bc2a0fd3d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b26bd59c819087144c460d668ac7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b26e3aac81908b09267342802544",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b27df8048190a2d4e3681d148e72",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b28303408190aa15c24ae51b4c56",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b28398e081909d2e866f382363f2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b285fd6081909e1fbd404d242921",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b2aa72c88190a4843ab1617976ae",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b2adab64819090701fb19679bd02",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b2af4268819092666ebc8ac84adc",
+        "action": {
+          "query": "Eurostat gov_10dd_edpt1 Czechia 2021 2022 2023 2024 government deficit as % of GDP",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Eurostat gov_10dd_edpt1 Czechia 2021 2022 2023 2024 government deficit as % of GDP",
+            "\"Czechia\" \"General government deficit(-)/surplus(+)\" \"% of GDP\" 2024 Eurostat",
+            "gov_10dd_edpt1 Czechia 2024 -2.2"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b2b7324c8190958682df4fa37538",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b2bf86dc81909435e8929910e6f1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b2c145588190a68957cac8ce94e1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b2c17b348190b9309f8a9abd6286",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b2c425a48190a2d2ee048f20df7a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ebc665193893c3c0069a6b2c616148190a1460f14244230c3",
+        "action": {
+          "query": "vlada Petra Fialy jmenovana 17. prosince 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "vlada Petra Fialy jmenovana 17. prosince 2021",
+            "vlada Andreje Babise II od do"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ebc665193893c3c0069a6b2ca93e8819098484c1fbd8cd4e7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0ebc665193893c3c0069a6b353f7348190874016f75cce3464",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 468,
+                "start_index": 327,
+                "title": "Notification of government deficit and debt - 2023 (First notification, data notified by Eurostat) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat"
+              },
+              {
+                "end_index": 767,
+                "start_index": 645,
+                "title": "Vláda Petra Fialy - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/vlada-petra-fialy/l~422a71dc3e3711ecb91a0cc47ab5f122/?utm_source=openai"
+              },
+              {
+                "end_index": 1190,
+                "start_index": 1040,
+                "title": "Notifikace deficitu a dluhu vládních institucí - 2024 (První notifikace, údaje notifikované Eurostatem) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem"
+              },
+              {
+                "end_index": 1465,
+                "start_index": 1297,
+                "title": "Fiskální prognóza ČR – květen 2025 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai"
+              },
+              {
+                "end_index": 1859,
+                "start_index": 1691,
+                "title": "Fiskální prognóza ČR – květen 2025 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai"
+              },
+              {
+                "end_index": 3985,
+                "start_index": 3844,
+                "title": "Notification of government deficit and debt - 2023 (First notification, data notified by Eurostat) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat"
+              },
+              {
+                "end_index": 4254,
+                "start_index": 4104,
+                "title": "Notifikace deficitu a dluhu vládních institucí - 2024 (První notifikace, údaje notifikované Eurostatem) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem"
+              },
+              {
+                "end_index": 4853,
+                "start_index": 4712,
+                "title": "Notification of government deficit and debt - 2023 (First notification, data notified by Eurostat) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat"
+              },
+              {
+                "end_index": 5313,
+                "start_index": 5163,
+                "title": "Notifikace deficitu a dluhu vládních institucí - 2024 (První notifikace, údaje notifikované Eurostatem) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem"
+              },
+              {
+                "end_index": 5903,
+                "start_index": 5763,
+                "title": "Government at a Glance 2023: Czech Republic | OECD",
+                "type": "url_citation",
+                "url": "https://www.oecd.org/en/publications/government-at-a-glance-2023_c4200b14-en/czech-republic_e8b39a5d-en.html?utm_source=openai"
+              },
+              {
+                "end_index": 6193,
+                "start_index": 6071,
+                "title": "Vláda Petra Fialy - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/vlada-petra-fialy/l~422a71dc3e3711ecb91a0cc47ab5f122/?utm_source=openai"
+              },
+              {
+                "end_index": 7212,
+                "start_index": 7062,
+                "title": "Notifikace deficitu a dluhu vládních institucí - 2024 (První notifikace, údaje notifikované Eurostatem) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem"
+              },
+              {
+                "end_index": 7707,
+                "start_index": 7576,
+                "title": "ČR poprvé od covidu splnila 3% limit z Maastrichtských kritérií, deficit veřejných financí loni klesl až na 2,2 % HDP | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/cr-poprve-od-covidu-splnila-3-limit-z-maastrichtsk-59367"
+              },
+              {
+                "end_index": 8189,
+                "start_index": 8021,
+                "title": "Fiskální prognóza ČR – květen 2025 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai"
+              },
+              {
+                "end_index": 8591,
+                "start_index": 8512,
+                "title": "MF letos čeká deficit českých veřejných financí 2,2 pct HDP jako loni | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2659361?utm_source=openai"
+              },
+              {
+                "end_index": 9263,
+                "start_index": 9133,
+                "title": "Statistisches Bundesamt - German Federal Statistical Office",
+                "type": "url_citation",
+                "url": "https://www.destatis.de/Europa/EN/Topic/Key-indicators/EconomyFinance.html?view=main%5BPrint%5D&utm_source=openai"
+              },
+              {
+                "end_index": 9562,
+                "start_index": 9489,
+                "title": "Czech Republic Government budget deficit | countryeconomy.com",
+                "type": "url_citation",
+                "url": "https://countryeconomy.com/deficit/czech-republic"
+              },
+              {
+                "end_index": 10076,
+                "start_index": 9956,
+                "title": "Deficit a dluh vládních institucí - 2. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/deficit-a-dluh-vladnich-instituci-2-ctvrtleti-2025?utm_source=openai"
+              },
+              {
+                "end_index": 10542,
+                "start_index": 10373,
+                "title": "Fiscal Outlook of the Czech Republic (November 2025) | Ministry of Finance CR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/en/fiscal-policy/macroeconomic-analysis/fiscal-forecast-and-fiscal-outlook/2025/fiscal-outlook-of-the-czech-republic-november-2025-61880"
+              },
+              {
+                "end_index": 11418,
+                "start_index": 11268,
+                "title": "Notifikace deficitu a dluhu vládních institucí - 2024 (První notifikace, údaje notifikované Eurostatem) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem"
+              },
+              {
+                "end_index": 11720,
+                "start_index": 11560,
+                "title": "Makroekonomická predikce - leden 2025 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/makroekonomicka-predikce/2025/makroekonomicka-predikce-leden-2025-58624?utm_source=openai"
+              },
+              {
+                "end_index": 12054,
+                "start_index": 11885,
+                "title": "Fiscal Outlook of the Czech Republic (November 2025) | Ministry of Finance CR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/en/fiscal-policy/macroeconomic-analysis/fiscal-forecast-and-fiscal-outlook/2025/fiscal-outlook-of-the-czech-republic-november-2025-61880"
+              },
+              {
+                "end_index": 12813,
+                "start_index": 12645,
+                "title": "Fiskální prognóza ČR – květen 2025 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai"
+              },
+              {
+                "end_index": 13121,
+                "start_index": 12953,
+                "title": "Fiskální prognóza ČR – květen 2025 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai"
+              },
+              {
+                "end_index": 13437,
+                "start_index": 13269,
+                "title": "Fiskální prognóza ČR – květen 2025 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai"
+              },
+              {
+                "end_index": 13707,
+                "start_index": 13576,
+                "title": "ČR poprvé od covidu splnila 3% limit z Maastrichtských kritérií, deficit veřejných financí loni klesl až na 2,2 % HDP | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/cr-poprve-od-covidu-splnila-3-limit-z-maastrichtsk-59367"
+              },
+              {
+                "end_index": 14358,
+                "start_index": 14208,
+                "title": "Notifikace deficitu a dluhu vládních institucí - 2024 (První notifikace, údaje notifikované Eurostatem) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem"
+              },
+              {
+                "end_index": 14997,
+                "start_index": 14856,
+                "title": "Notification of government deficit and debt - 2023 (First notification, data notified by Eurostat) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat"
+              },
+              {
+                "end_index": 15236,
+                "start_index": 15114,
+                "title": "Vláda Petra Fialy - Aktuálně.cz",
+                "type": "url_citation",
+                "url": "https://zpravy.aktualne.cz/vlada-petra-fialy/l~422a71dc3e3711ecb91a0cc47ab5f122/?utm_source=openai"
+              },
+              {
+                "end_index": 15702,
+                "start_index": 15552,
+                "title": "Notifikace deficitu a dluhu vládních institucí - 2024 (První notifikace, údaje notifikované Eurostatem) | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem"
+              },
+              {
+                "end_index": 16147,
+                "start_index": 15979,
+                "title": "Fiskální prognóza ČR – květen 2025 | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai"
+              }
+            ],
+            "text": "### 1. Shrnutí\n\n- **Výchozí hodnota („když jsme ho přebírali po Babišově vládě“)**  \n  Podle Českého statistického úřadu (ČSÚ) činil **deficit sektoru vládních institucí (veřejných financí) v roce 2021 zhruba 5 % HDP** – přesně **–5,1 % HDP** v notifikaci za roky 2020–2023 a **–5,0 % HDP** v novější tabulce za roky 2021–2024.([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat))  \n  Vláda Petra Fialy se ujala úřadu 17. prosince 2021, tedy prakticky na konci účetního roku 2021; výsledky roku 2021 proto odrážejí převážně politiku kabinetu Andreje Babiše.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/vlada-petra-fialy/l~422a71dc3e3711ecb91a0cc47ab5f122/?utm_source=openai))  \n  → Tvrzení o **„5 % při převzetí“ je fakticky dobře ukotvené.**\n\n- **Aktuální stav za vlády Petra Fialy (rok 2024)**  \n  Podle oficiální notifikace ČSÚ a údajů validovaných Eurostatem činil **deficit vládních institucí v roce 2024 –2,2 % HDP**, nikoli méně než 2 % HDP.([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n  Stejnou hodnotu uvádí Ministerstvo financí v květnové Fiskální prognóze 2025 i tabulky zveřejněné ČTK.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n\n- **Strukturální (očištěný) deficit**  \n  Ministerstvo financí ale zároveň uvádí, že **strukturální deficit** (očištěný o cyklus a jednorázová opatření) se v roce 2024 **snížil z 2,7 % na 1,9 % HDP**, tedy **pod 2 % HDP**.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n\n**Závěr:**  \n- Číslo **„5 %“ při převzetí po Babišově vládě** odpovídá oficiálním datům.  \n- **„Pod 2 % HDP“ neodpovídá standardně chápanému deficitu veřejných financí (headline deficit sektoru vládních institucí), který byl v roce 2024 –2,2 % HDP.**  \n- Hodnota **pod 2 %** sedí pouze na **strukturální deficit (≈ –1,9 % HDP)**, nikoli na celkový deficit, který se obvykle míní termínem „deficit veřejných financí“. Výrok tak míchá dvě rozdílné veličiny a výsledek částečně nadsazuje.\n\n---\n\n## 2. Rozpad tvrzení\n\nTvrzení: **„Deficit veřejných financí z 5 %, když jsme ho přebírali po Babišově vládě, pod 2 % HDP.“**\n\nMožné interpretace a dílčí tvrzení:\n\n1. **Definice a kontext**\n   - (1a) „Deficit veřejných financí“ = **saldo sektoru vládních institucí podle ESA 2010**, tj. tzv. **EDP deficit (maastrichtský deficit)** v % HDP.\n   - (1b) Lze ho měřit na roční bázi (kalendářní rok).\n\n2. **Výchozí úroveň při převzetí po Babišově vládě**\n   - (2a) V roce 2021, kdy Fialova vláda nastoupila, byl **deficit veřejných financí přibližně 5 % HDP**.\n   - (2b) Je legitimní přičíst tuto hodnotu „vládě Andreje Babiše“ (politický, nikoli čistě statistický aspekt).\n\n3. **Současný stav za Fialovy vlády**\n   - (3a) Za působení Fialovy vlády byl **headline deficit veřejných financí snížen pod 2 % HDP** (tj. někdy v letech 2022–2024).\n   - (3b) Alternativní čtení: pod 2 % spadl **strukturální deficit** (což je jiný, očištěný ukazatel).\n\nDále jsou ověřeny (2a) a (3a)/(3b) zvlášť.\n\n---\n\n## 3. Kontext: co je „deficit veřejných financí“\n\nČSÚ a Eurostat v rámci **notifikace deficitu a dluhu vládních institucí** pracují se saldem sektoru vládních institucí (general government) podle metodiky **ESA 2010**:\n\n- Notifikace 2023 (za roky 2020–2023) vysvětluje, že notifikace se sestavuje vždy za předchozí 4 roky, používá metodiku ESA 2010 a definuje deficit jako ukazatel B.9 „net borrowing (−) or net lending (+)“ sektoru vládních institucí; zároveň připomíná maastrichtský limit 3 % HDP.([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat))  \n- Notifikace 2024 (za roky 2021–2024) používá stejnou metodiku a slouží k hodnocení plnění maastrichtských kritérií.([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n\nV české debatě je tak **„deficit veřejných financí“ standardně chápán jako toto saldo sektoru vládních institucí (general government deficit v % HDP)**.\n\n---\n\n## 4. Dílčí tvrzení (2a): „při převzetí po Babišovi byl deficit kolem 5 % HDP“\n\n### 4.1 Oficiální data ČSÚ / Eurostat\n\n**Notifikace deficitu a dluhu vládních institucí – 2023 (ČSÚ, 22. 4. 2024)**  \nTabulka „Notification table of government deficit and debt, the Czech Republic, 2020–2023“ uvádí:([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat))  \n\n- „Net borrowing/lending of general government as % of the GDP“:  \n  - 2020: **–5,8 % HDP**  \n  - **2021: –5,1 % HDP**  \n  - 2022: –3,2 % HDP  \n  - 2023: –3,7 % HDP  \n\n**Notifikace deficitu a dluhu vládních institucí – 2024 (ČSÚ, 22. 4. 2025)**  \nAktualizovaná notifikace za roky 2021–2024 uvádí v tabulce:([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n\n- „Saldo hospodaření sektoru vládních institucí v % HDP“:  \n  - 2021: **–5,0 % HDP**  \n  - 2022: –3,1 % HDP  \n  - 2023: –3,8 % HDP  \n  - 2024: –2,2 % HDP  \n\nRozdíl mezi –5,1 % a –5,0 % je dán revizí; v obou případech jde řádově o **„pět procent HDP“**.\n\n### 4.2 Další mezinárodní zdroje\n\n- OECD v publikaci *Government at a Glance 2023 – Czech Republic* uvádí pro Českou republiku **fiskální deficit –5,1 % HDP v roce 2021** a –3,6 % v roce 2022.([oecd.org](https://www.oecd.org/en/publications/government-at-a-glance-2023_c4200b14-en/czech-republic_e8b39a5d-en.html?utm_source=openai))  \n\n### 4.3 Kdo tehdy vládl\n\n- Podle přehledu serveru Aktuálně.cz se **vláda Petra Fialy ujala úřadu 17. prosince 2021**, kdy její členy jmenoval prezident Miloš Zeman.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/vlada-petra-fialy/l~422a71dc3e3711ecb91a0cc47ab5f122/?utm_source=openai))  \n- Předtím vládl kabinet Andreje Babiše; rok 2021 tedy de facto reflektuje převážně jeho rozpočtovou politiku.\n\n### 4.4 Hodnocení dílčího tvrzení (2a)\n\n- **Fakticky:** ČSÚ i OECD potvrzují, že **deficit sektoru vládních institucí v roce 2021 byl okolo –5 % HDP**.  \n- **Rétorika „při převzetí po Babišovi“:** Rok 2021 je z účetního hlediska „smíšený“ (Fialova vláda nastoupila 17. 12.), ale drtivá většina roku proběhla pod Babišovým kabinetem. Politické připsání tohoto deficitu Babišově vládě je běžné zjednodušení.\n\n**Závěr (2a):** Číselně je tvrzení „z 5 % při převzetí po Babišově vládě“ podloženo daty.\n\n---\n\n## 5. Dílčí tvrzení (3a): „za Fialovy vlády se deficit snížil pod 2 % HDP“ – headline deficit\n\n### 5.1 Oficiální roční data (headline deficit)\n\n**ČSÚ – Notifikace 2024 (2021–2024)**  \nJak uvedeno výše, tabulka deficitu vládních institucí v % HDP udává:([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n\n- 2021: –5,0 %  \n- 2022: –3,1 %  \n- 2023: –3,8 %  \n- **2024: –2,2 %**  \n\nToto jsou data potvrzená Eurostatem v rámci procedury nadměrného schodku.\n\n**Ministerstvo financí – tisková zpráva 2. 4. 2025**  \nTisková zpráva MF „ČR poprvé od covidu splnila 3% limit z Maastrichtských kritérií, deficit veřejných financí loni klesl až na 2,2 % HDP“ výslovně uvádí, že:([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/cr-poprve-od-covidu-splnila-3-limit-z-maastrichtsk-59367))  \n\n- Český statistický úřad oznámil, že **české veřejné finance za rok 2024 skončily s deficitem 2,2 % HDP**.  \n- Zpráva mluví o **„deficitu veřejných financí“** právě v této výši (2,2 % HDP).\n\n**Ministerstvo financí – Fiskální prognóza ČR, květen 2025**  \nFiskální prognóza 2025 shrnuje výsledek roku 2024 takto:([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n\n- „Saldo hospodaření sektoru vládních institucí v roce 2024 **skončilo deficitem 2,2 % HDP**.“  \n- Zároveň uvádí, že strukturální saldo se zlepšilo na –1,9 % HDP (viz dále).\n\n**ČTK / ČeskéNoviny – přehled „Hospodaření veřejných financí (v procentech HDP)“**  \nZpravodajství ČTK, které vychází z údajů MF, uvádí tabulku:([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2659361?utm_source=openai))  \n\n- **Saldo sektoru vládních institucí (v % HDP):**  \n  - 2020: –5,6  \n  - 2021: –5,0  \n  - 2022: –3,1  \n  - 2023: –3,8  \n  - **2024: –2,2**  \n  - 2025*: –2,2 (predikce)  \n  - 2026*: –2,0 (predikce)  \n\nTento přehled potvrzuje, že **ani skutečný výsledek 2024, ani oficiální predikce MF pro rok 2025 nepočítaly s deficitem pod 2 % HDP**, nýbrž 2,2 % HDP (resp. 2,0 % v roce 2026).\n\n**Eurostat / Destatis – mezinárodní souhrn**  \nSouhrnná eurostatovská tabulka publikovaná německým statistickým úřadem (Destatis) uvádí u Czechia pro rok 2024:([destatis.de](https://www.destatis.de/Europa/EN/Topic/Key-indicators/EconomyFinance.html?view=main%5BPrint%5D&utm_source=openai))  \n\n- „General government deficit/surplus, % of GDP“: **–2,2 %**,  \n- „General government gross debt, % of GDP“: 43,6 %.\n\n### 5.2 Mezinárodní agregátory\n\nWeb **countryeconomy.com** uvádí pro ČR v roce 2024 deficit –2,00 % HDP.([countryeconomy.com](https://countryeconomy.com/deficit/czech-republic))  \nNejde však o primární oficiální zdroj, nýbrž o agregátor, který pravděpodobně čerpá z Eurostatu / národních statistik a může zaokrouhlovat či používat odlišná meziroční data.\n\n### 5.3 Průběžná data za rok 2025\n\n**ČSÚ – Deficit a dluh vládních institucí, 2. čtvrtletí 2025**  \nZa 2. čtvrtletí 2025 uvádí ČSÚ přebytek sektoru vládních institucí 0,4 % HDP (čtvrtletní údaj, nesezónně očištěný).([csu.gov.cz](https://csu.gov.cz/rychle-informace/deficit-a-dluh-vladnich-instituci-2-ctvrtleti-2025?utm_source=openai))  \nTo ukazuje na pokračující konsolidaci, ale **nejde o roční deficit**, takže nelze tvrdit, že by celý rok 2025 byl už v té chvíli „pod 2 %“.\n\n### 5.4 Pozdější pohled MF (listopad 2025)\n\n**Fiskální výhled ČR, listopad 2025 (MF)**  \nV listopadu 2025 MF v anglickém „Fiscal Outlook“ konstatuje, že:([mfcr.cz](https://www.mfcr.cz/en/fiscal-policy/macroeconomic-analysis/fiscal-forecast-and-fiscal-outlook/2025/fiscal-outlook-of-the-czech-republic-november-2025-61880))  \n\n- „overall balance of the general government sector reached −2.0% of GDP in 2024“ (celkové saldo sektoru vládních institucí dosáhlo –2,0 % HDP v roce 2024)  \n- a pro rok 2025 se **očekává** deficit „just below 2% of GDP“ (těsně pod 2 % HDP).\n\nTento dokument je ale **datově i časově až po výroku Petra Fialy (18. 9. 2025)** a navíc je v mírném rozporu s hodnotou –2,2 % z notifikace ČSÚ/Eurostatu; zjevně zde MF pracuje s jiným zaokrouhlením nebo definičním vymezením.\n\n### 5.5 Hodnocení dílčího tvrzení (3a) – headline deficit\n\n- Všechna **oficiální statistická data ČSÚ a Eurostatu** pro sektor vládních institucí ukazují, že **nejnižší dosažený deficit za Fialovy vlády (do roku 2024) je –2,2 % HDP**, nikoli „pod 2 %“.([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n- Predikce MF zveřejněné **před** výrokem (leden–květen 2025) ukazují pro rok 2025 spíše deficit okolo 2,2–2,3 % HDP, nikoli jasně pod 2 %.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/makroekonomicka-predikce/2025/makroekonomicka-predikce-leden-2025-58624?utm_source=openai))  \n- Až **listopadový** Fiskální výhled 2025 mluví o 2,0 % za rok 2024 a očekávaném deficitu „těsně pod 2 %“ pro 2025, ale je vydán dva měsíce **po** Fialově výroku.([mfcr.cz](https://www.mfcr.cz/en/fiscal-policy/macroeconomic-analysis/fiscal-forecast-and-fiscal-outlook/2025/fiscal-outlook-of-the-czech-republic-november-2025-61880))  \n\n**Závěr (3a):**  \nZ hlediska standardního ukazatele „deficit veřejných financí“ (saldo sektoru vládních institucí podle ESA 2010) **nelze doložit, že by za Fialovy vlády deficit klesl „pod 2 % HDP“; oficiální hodnota za rok 2024 je –2,2 % HDP.** Tvrzení je tedy při tomto běžném čtení **čísleně nadsazené** (zhruba o 0,2 procentního bodu).\n\n---\n\n## 6. Dílčí tvrzení (3b): „pod 2 % HDP“ jako strukturální deficit\n\nV dostupných materiálech MF se objevují **dvě paralelní hodnoty**:\n\n1. **Headline deficit (saldo hospodaření sektoru vládních institucí)**  \n   – pro rok 2024 **–2,2 % HDP**.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n\n2. **Strukturální deficit** (očištěný o hospodářský cyklus a jednorázová opatření)  \n   – MF jej pro rok 2024 uvádí jako **–1,9 % HDP**.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n\nKonkrétně:\n\n- Fiskální prognóza MF (květen 2025) píše, že „**Strukturální saldo se zlepšilo o 0,7 procentního bodu na −1,9 % HDP**“ v roce 2024.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n- Stejný údaj je zopakován i v tiskové zprávě MF z 2. 4. 2025, která zdůrazňuje, že strukturální deficit se snížil z 2,7 % na 1,9 % HDP.([mf.gov.cz](https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2025/cr-poprve-od-covidu-splnila-3-limit-z-maastrichtsk-59367))  \n\n**Z hlediska strukturálního salda tedy opravdu platí, že deficit klesl „pod 2 % HDP“.**\n\nProblém je, že:\n\n- V politické i mediální debatě se výraz **„deficit veřejných financí“** běžně vztahuje k **headline deficitu (EDP deficitu)**, nikoli k jeho strukturální verzi.  \n- Fiala v citovaném výroku nijak neupřesňuje, že má na mysli **strukturální** deficit; naopak navazuje na debatu o zadlužení a maastrichtských kritériích, kde se obvykle používá headline ukazatel (který je 2,2 %, nikoliv <2 %).([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n\n**Závěr (3b):**  \nPokud by výrok byl interpretován tak, že „pod 2 %“ se vztahuje k **strukturálnímu deficitu**, pak **hodnota 1,9 % HDP v roce 2024 odpovídá oficiálním údajům MF**. Výrok by ale musel explicitně zmiňovat, že jde o strukturální ukazatel, což neučinil.\n\n---\n\n## 7. Celkové zhodnocení tvrzení\n\n1. **„…z 5 %, když jsme ho přebírali po Babišově vládě…“**  \n   - Roční deficit sektoru vládních institucí v roce 2021 činil podle ČSÚ zhruba **–5 % HDP** (–5,1 % resp. –5,0 % po revizi).([csu.gov.cz](https://csu.gov.cz/csu/czso/ari/notification-of-government-deficit-and-debt-2023-first-notification-data-notified-by-eurostat))  \n   - Vláda Petra Fialy nastoupila v prosinci 2021; rok 2021 je proto racionálně chápán jako výstup Babišovy vlády.([zpravy.aktualne.cz](https://zpravy.aktualne.cz/vlada-petra-fialy/l~422a71dc3e3711ecb91a0cc47ab5f122/?utm_source=openai))  \n   → **Tato část tvrzení je fakticky podložena.**\n\n2. **„…[deficit] pod 2 % HDP.“ – headline deficit**  \n   - Všechna relevantní oficiální data (ČSÚ, Eurostat, MF, ČTK) ukazují pro rok 2024 **headline deficit –2,2 % HDP**, tedy **nad 2 % HDP**, a predikce na rok 2025 před výrokem hovoří o cca –2,2 až –2,3 % HDP.([csu.gov.cz](https://csu.gov.cz/rychle-informace/notifikace-deficitu-a-dluhu-vladnich-instituci-2024-prvni-notifikace-udaje-notifikovane-eurostatem))  \n   - **Deficit veřejných financí ve smyslu EDP/maastrichtského ukazatele tedy „pod 2 %“ k datu výroku prokázán není.**  \n\n3. **„…pod 2 % HDP.“ – strukturální deficit**  \n   - Strukturální deficit veřejných financí MF pro rok 2024 skutečně uvádí **–1,9 % HDP**, tedy pod 2 %.([mfcr.cz](https://www.mfcr.cz/cs/rozpoctova-politika/makroekonomika/fiskalni-prognoza-a-fiskalni-vyhled/2025/fiskalni-prognoza-cr-kveten-2025-59931?utm_source=openai))  \n   - Výrok ale mluví obecně o „deficitu veřejných financí“ a v návaznosti na diskusi o zadlužení a maastrichtských kritériích, kde je standardem headline ukazatel.  \n\n**Celkově:**  \n\n- **Směr změny** (výrazné snížení deficitu veřejných financí proti roku 2021) je podle čísel nepochybný.  \n- **Výchozí hodnota „5 %“** při převzetí po Babišově vládě je věcně správná.  \n- **Cílová hodnota „pod 2 % HDP“** je ale ve vztahu ke standardně chápanému **deficitu veřejných financí (headline EDP deficit) nepřesná** – oficiální data ukazují minimum **–2,2 % HDP**. Hodnota **pod 2 %** odpovídá pouze **strukturálnímu saldu**, které Fiala ve výroku výslovně nezmiňuje.\n\nPro následné hodnocení (pravda / polopravda / nepravda) je tedy klíčové, zda fakt-checker přijme širší interpretaci „deficitu veřejných financí“ zahrnující strukturální saldo, nebo bude vycházet z obvyklého a v oficiálních dokumentech převažujícího významu jakožto **headline deficitu sektoru vládních institucí v % HDP**.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 74281,
+      "input_tokens_details": {
+        "cached_tokens": 6272
+      },
+      "output_tokens": 19083,
+      "output_tokens_details": {
+        "reasoning_tokens": 13800
+      },
+      "total_tokens": 93364
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772532631,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

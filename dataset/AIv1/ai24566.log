@@ -1,0 +1,760 @@
+{
+  "claim_id": "24566",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260127_092648",
+  "source_md": "experiments/gpt5.1_h_20260127_092648/brief_fact_check_id24566.md",
+  "fact_check": "# Fact Check for Statement ID 24566\n\n## Statement\nNěkteré země mají miliční způsob, tak jako Švýcarsko, některé mají kombinaci základní služby a profesionální armády téměř v poměru 50 na 50, jako třeba Norsko.\n\n---\n## AI Fact Check\n## 1. Výrok a jeho rozklad\n\nOvěřovaný výrok (Petr Pavel):\n\n> „Některé země mají miliční způsob, tak jako Švýcarsko, některé mají kombinaci základní služby a profesionální armády téměř v poměru 50 na 50, jako třeba Norsko.“\n\nRozdělím jej na dílčí tvrzení:\n\n1. **Tvrzení A (Švýcarsko – „miliční způsob“):**  \n   a) Existují státy, které používají miliční model ozbrojených sil.  \n   b) Švýcarsko je příkladem takového „miličního způsobu“.\n\n2. **Tvrzení B (Norsko – kombinace branců a profesionálů):**  \n   a) Norsko kombinuje základní vojenskou službu (brannou povinnost / brance) a profesionální armádu.  \n   b) Podíl branců a profesionálů je v Norsku „téměř v poměru 50 na 50“.\n\nU tvrzení B.b je podstatné, zda Pavel mluví:\n- o **celých norských ozbrojených silách**, nebo  \n- jen o **pozemních silách (Hæren)**, kde by takový poměr mohl existovat.\n\nNíže uvádím důkazy pro každé dílčí tvrzení.\n\n---\n\n## 2. Tvrzení A: Švýcarsko má „miliční způsob“\n\n### 2.1 Ústavní zakotvení milice\n\nŠvýcarská spolková ústava (1999) v čl. 58 stanoví:\n\n> „Die Schweiz hat eine Armee. Diese ist grundsätzlich nach dem Milizprinzip organisiert.“  \n> („Švýcarsko má armádu. Ta je v zásadě organizována podle milicního principu.“)([verfassungen.ch](https://www.verfassungen.ch/verf99.htm?utm_source=openai))\n\nTento článek je hlavním ústavním ustanovením pro organizaci armády jako **milice** – tedy občanské armády, nikoli klasické velké stálé profesionální armády.\n\nOficiální web švýcarské armády cituje tentýž článek ústavy a sám uvádí, že:\n\n> „Die Schweiz hat eine Armee. Diese ist grundsätzlich nach dem Milizprinzip organisiert.“([armee.ch](https://www.armee.ch/de/ueber-die-armee?utm_source=openai))\n\n### 2.2 Převaha milice nad profesionály\n\nNěkolik zdrojů potvrzuje, že profesionálové tvoří jen malou část armády:\n\n- Studie War Resisters’ International (2009) shrnuje švýcarský systém takto:  \n  – odkazuje na čl. 58 ústavy, že armáda je „organizována jako milice“;  \n  – uvádí, že **„většina“ příslušníků jsou branci** a že **„prakticky neexistuje stálá armáda“** kromě výcvikových kádrů a několika velitelství.([wri-irg.org](https://wri-irg.org/en/programmes/world_survey/reports/Switzerland?utm_source=openai))  \n\n- Encyklopedický přehled „Swiss Armed Forces“ (shrnutí z oficiálních statistik) uvádí:  \n  > „Under the country's militia system, regular soldiers constitute a small part of the military and the rest are conscripts or volunteers aged 19 to 34…“([en.wikipedia.org](https://en.wikipedia.org/wiki/Swiss_Armed_Forces?utm_source=openai))  \n\n- Oficiální stránka „Arbeiten für die Schweizer Armee“ vysvětluje, že armádu **netvoří jen milice**, ale že v pozadí pracuje přibližně **6 000 civilních zaměstnanců a kolem 3 000 profesionálních vojáků** („Berufsmilitär“).([armee.ch](https://www.armee.ch/de/arbeiten-fuer-die-schweizer-armee?utm_source=openai))  \n  To nepřímo ukazuje, že profesionální složka (~9 tisíc osob) je početně malá ve srovnání s celkovou mobilizační silou (cca 100–150 tisíc osob včetně milice a zálohy).([en.wikipedia.org](https://en.wikipedia.org/wiki/Swiss_Armed_Forces?utm_source=openai))  \n\n- Český odborný článek (Obrana a strategie, 2014) charakterizuje švýcarský systém takto:  \n  – obrana je **„založená na miličním principu“**,  \n  – **„stálá armáda neexistuje (je přímo zakázána ústavou) a vojáky se v případě potřeby stávají všichni občané“**,  \n  – „rezerva ve Švýcarsku není doplňkem, ale jádrem armády“.([obranaastrategie.cz](https://www.obranaastrategie.cz/cs/archiv/rocnik-2014/2-2014/clanky/dobrovolna-obcanska-participace-pri-zajistovani-obrany.html?utm_source=openai))  \n\n(I když poznámka o přímém zákazu stálé armády odkazuje na starší verze ústavy, faktický systém je i po revizi 1999 stále založen na milici: malý profesionální kádr, jádro tvoří branci a zálohy.)\n\n### 2.3 Hodnocení tvrzení A\n\n- **Existence „miličního způsobu“:** Český i zahraniční odborný diskurz standardně popisuje švýcarskou armádu jako **milici** (armádu občanů) – koncept je přímo v ústavě.\n- **Švýcarsko jako příklad:** Švýcarsko je učebnicovým příkladem státu s miličním obranným modelem.\n\n**Tvrzení A (Švýcarsko má „miliční způsob“) je velmi dobře podloženo.**\n\n---\n\n## 3. Tvrzení B.a: Norsko kombinuje brance a profesionální armádu\n\n### 3.1 Norsko má brannou povinnost (základní vojenskou službu)\n\nOficiální norský web Forsvaret (ozbrojené síly) vysvětluje:\n\n- **Verneplikt (branná povinnost)**:  \n  – v době míru jsou norští občané ve věku 19–44 let, kteří jsou zdravotně způsobilí, **branně povinni**,  \n  – délka služební povinnosti v míru je **19 měsíců**, z toho část tvoří **první služba (førstegangstjeneste)**, obvykle 12–15 měsíců.([forsvaret.no](https://www.forsvaret.no/forstegangstjeneste/verneplikt?utm_source=openai))  \n\n- Stránka Forsvaret „Universal conscription“ uvádí, že v lednu 2015 Norsko **zavedlo brannou povinnost pro obě pohlaví** a stalo se tak prvním členským státem NATO s národní službou povinnou i pro ženy.([forsvaret.no](https://www.forsvaret.no/en/news/archive/universal-conscription?utm_source=openai))  \n\nEncyklopedický přehled „Norwegian Armed Forces“ shrnuje:\n\n- Norsko uplatňuje „weak form of mandatory military service“, kdy je každoročně povolána jen část ročníku (cca 8–10 tisíc osob z asi 60 tisíc vhodných).([en.wikipedia.org](https://en.wikipedia.org/wiki/Conscription?utm_source=openai))  \n\nOficiální statistika Forsvaret:\n\n- V roce 2023 **9 138 osob dokončilo první službu (førstegangstjeneste)**.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n\nTo jasně dokládá existenci **základní vojenské služby / branců**.\n\n### 3.2 Norsko má zároveň značný počet stálých (profesionálních) zaměstnanců\n\nStejná stránka Forsvaret uvádí:\n\n- V roce 2023 měl Forsvaret **18 348 zaměstnanců během roku**, průměrný počet zaměstnanců po přepočtu na úvazky byl **17 046 osob**.  \n  – Tyto počty **nezahrnují vojáky v první službě** ani studenty či učně.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n\nStarší vyjádření mluvčího Forsvaret (2019) shrnuje poměr podobně:\n\n- Forsvaret má **„rundt 16.000 faste tilsette“** (cca 16 tisíc stálých zaměstnanců) a **„om lag 9.000 vernepliktige soldater i førstegangstjeneste“** (asi 9 tisíc branců v první službě); navíc cca 1 000 studentů a cca 42 000 osob v domobraně Heimevernet.([m24.no](https://www.m24.no/forsvaret-forsvarets-mediesenter-michael-bruteig/pa-to-ar-har-forsvarets-mediesenter-brukt-over-100-mill-det-far-sp-leiar-vedum-til-a-reagera/242656))  \n\nDalší oficiální a mediální přehledy potvrzují řádově podobná čísla (17–18 tisíc zaměstnanců, cca 9–10 tisíc branců ročně, celková „styrkestruktur“ kolem 70 tisíc včetně záloh a Heimevernet).([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell?utm_source=openai))  \n\n### 3.3 Hodnocení tvrzení B.a\n\n- Norsko **má brannou povinnost** a každoročně povolává tisíce branců k první službě.  \n- Zároveň má **desítky tisíc stálých zaměstnanců** (profesionální personál, vojenský i civilní).\n\n**Tvrzení, že Norsko je kombinací základní služby a profesionální armády, je dobře doložené.**\n\n---\n\n## 4. Tvrzení B.b: „poměr téměř 50 na 50, jako třeba Norsko“\n\nToto tvrzení je numerické a je potřeba přesněji vymezit, **o jakou část ozbrojených sil jde**:\n\n- **Varianta 1:** celý norský Forsvaret (všechny složky).  \n- **Varianta 2:** pouze pozemní síly – **Hæren** (tedy „armáda“ v užším slova smyslu).  \n\n### 4.1 Celé ozbrojené síly Norska (Forsvaret) – aktuální poměr\n\nOficiální údaje Forsvaret za rok 2023:\n\n- **Zaměstnanci (profesionálové):**  \n  – průměrný počet zaměstnanců: **17 046 osob** (vojenský i civilní personál); branci v tom **nejsou** zahrnuti.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n\n- **Branci (první služba):**  \n  – **9 138 osob** dokončilo v roce 2023 první službu; polovinu z nich v Hæren (4519 osob).([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n\nPokud srovnáme jen **profesionální zaměstnance vs. brance v aktivní službě**:\n\n- Celkem aktivní personál (zaměstnanci + branci) ≈ 17 046 + 9 138 = **26 184 osob**.  \n- Podíl branců: 9 138 / 26 184 ≈ **35 %**.  \n- Podíl zaměstnanců: 17 046 / 26 184 ≈ **65 %**.\n\nTedy v **celých norských ozbrojených silách** jsou přibližně **dvě třetiny profesionálové** a **třetina branci**, nikoli 50/50.\n\nTento poměr potvrzují i dřívější údaje:\n\n- V roce 2021 měl Forsvaret cca **17 185 „årsverk“** (úvazků) a „drøyt 9 000 vernepliktige“ (přes 9 tisíc branců) při celkové „styrkestruktur“ blížící se 70 tisícům osob.([abcnyheter.no](https://www.abcnyheter.no/nyheter/dette-skjer-dersom-det-blir-krig-i-norge-kun-lovlig-stridende-kan-gripe-til-vapen/270918?utm_source=openai))  \n\n- V roce 2019 mluvčí Forsvaret uváděl cca **16 000 stálých zaměstnanců** a **9 000 branců** v první službě; struktura je tedy obdobná (zhruba 64 % profesionálů ku 36 % branců).([m24.no](https://www.m24.no/forsvaret-forsvarets-mediesenter-michael-bruteig/pa-to-ar-har-forsvarets-mediesenter-brukt-over-100-mill-det-far-sp-leiar-vedum-til-a-reagera/242656))  \n\nZ hlediska **celého Forsvaret** je tedy tvrzení o „téměř 50 na 50“ **výrazně nepřesné** – poměr je spíše kolem **1 : 2** ve prospěch profesionálů.\n\n### 4.2 Norské pozemní síly (Hæren) – poměr je skutečně blízký 50/50\n\nPokud ale výrok vztáhneme **jen na Hæren (pozemní vojsko)**, obraz se mění.\n\n#### Data pro Hæren 2023 (z oficiálního webu Forsvaret)\n\nOficiální stránka „Hæren“ uvádí u položky „Personell“:\n\n- **Hæren má celkem 8 586 osob (v roce 2023)**.  \n- Z toho:  \n  – **4 067 fast ansatte** (stálí zaměstnanci),  \n  – **4 519 soldater i førstegangstjeneste** (vojáci v první službě).([forsvaret.no](https://www.forsvaret.no/h%C3%A6ren))  \n\nVýpočet:\n\n- Celkem: 4 067 + 4 519 = **8 586**.  \n- Podíl branců: 4 519 / 8 586 ≈ **52,6 %**.  \n- Podíl profesionálů: 4 067 / 8 586 ≈ **47,4 %**.\n\nTedy **v Hæren je skutečně přibližně polovina personálu branci a polovina stálí profesionálové** – poměr velmi blízký Pavlovu „50 na 50“.\n\n#### Starší data pro Hæren (2018)\n\nZpráva norského vojenského ombudsmana (2018) o Hæren uvádí:\n\n- „Antall ansatte i Hæren er om lag 3.900…“ (cca 3 900 zaměstnanců)  \n- „Antall vernepliktige i Hæren er 4.650…“ (4 650 branců v Hæren).([forsvarsombudet.no](https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai))  \n\nTaké zde je poměr:\n\n- Zaměstnanci: 3 900; branci: 4 650  \n- Branci ≈ 54 %, zaměstnanci ≈ 46 %.\n\nI v roce 2018 tedy Hæren vykazovala **velmi podobný 50/50 poměr** branců a profesionálů.\n\n#### Shrnutí k Hæren\n\n- V **pozemním vojsku (Hæren)** je dlouhodobě poměr **branců a profesionálů blízký 50/50**.  \n- Oficiální norské zdroje to přímo dokládají jak pro rok **2018**, tak pro rok **2023**.([forsvarsombudet.no](https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai))  \n\n### 4.3 Celková struktura norské obrany a role rezerv\n\nJeště širší obrázek:\n\n- Forsvaret uvádí, že **celková „styrkestruktur“ Norska** (včetně Heimevernet a rezerv) činí okolo **70 000 osob**.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell?utm_source=openai))  \n- Z toho je cca **17 tisíc zaměstnanců**; zbytek jsou branci a zejména rozsáhlé **zálohy a Heimevernet** (např. 40 500 osob v Home Guard podle starších přehledů).([en.wikipedia.org](https://en.wikipedia.org/wiki/Norwegian_Armed_Forces?utm_source=openai))  \n\nZ hlediska **mobilizační struktury** (zaměstnanci vs. celé zálohy) je tedy profesionální složka menší částí celkové síly; ovšem to už je jiný poměr, než o jakém mluví Pavel (ten explicitně zmiňuje kombinaci „základní služby“ a „profesionální armády“ – tedy poměr branců v aktuální službě vs. profesionálů).\n\n### 4.4 Zhodnocení tvrzení B.b\n\n- **Pro celý Forsvaret (všechny složky):**  \n  – Branci v první službě ≈ 9–10 tisíc ročně; stálí zaměstnanci ≈ 17–18 tisíc.  \n  – Podíl branců ≈ 35 %, profesionálů ≈ 65 %.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n  – **Poměr 50/50 zde neplatí**; profesní složka je výrazně větší.\n\n- **Pro Hæren (pozemní síly):**  \n  – V roce 2023: 4 067 zaměstnanců vs. 4 519 branců – podíl velmi blízký 50/50.([forsvaret.no](https://www.forsvaret.no/h%C3%A6ren))  \n  – V roce 2018: 3 900 zaměstnanců vs. 4 650 branců – opět přibližně 50/50.([forsvarsombudet.no](https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai))  \n  – Tvrzení o „kombinaci základní služby a profesionální armády téměř 50 na 50“ zde **dobře odpovídá realitě**.\n\n---\n\n## 5. Celkové shrnutí\n\n### 5.1 Švýcarsko\n\n- Ústava výslovně stanoví, že armáda je organizována podle **milicního (miličního) principu**.([verfassungen.ch](https://www.verfassungen.ch/verf99.htm?utm_source=openai))  \n- Drtivá většina vojenského personálu jsou **branci a milice (zálohy)**; profesionální vojáci a civilní zaměstnanci tvoří jen malou část.([en.wikipedia.org](https://en.wikipedia.org/wiki/Swiss_Armed_Forces?utm_source=openai))  \n\n**Část výroku o „miličním způsobu, tak jako Švýcarsko“ je velmi dobře podložená.**\n\n### 5.2 Norsko\n\n- Norsko má **brannou povinnost** (základní vojenskou službu) pro muže i ženy a zároveň rozsáhlý **profesionální personál** – kombinace branců a profesionálů je reálná.([forsvaret.no](https://www.forsvaret.no/forstegangstjeneste/verneplikt?utm_source=openai))  \n\n- Pokud se výrok vztahuje na **celé norské ozbrojené síly**, číselně neodpovídá:  \n  – branci v první službě tvoří asi **jednu třetinu** aktivního personálu, profesionálové asi **dvě třetiny**; nikoli „téměř 50 na 50“.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n\n- Pokud ale máme na mysli **pozemní síly (Hæren)**, oficiální norské statistiky ukazují:  \n  – v roce 2023 Hæren: **4 067 profesionálů a 4 519 branců** – poměr přibližně 47 : 53, tedy velmi blízko „50 na 50“;([forsvaret.no](https://www.forsvaret.no/h%C3%A6ren))  \n  – v roce 2018 Hæren: **cca 3 900 zaměstnanců a 4 650 branců** – opět blízko 50/50.([forsvarsombudet.no](https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai))  \n\n**Část výroku o „poměru téměř 50 na 50, jako třeba Norsko“ je:**\n\n- **přesvědčivě podložená**, pokud ji chápeme jako popis **pozemního vojska (Hæren)**,  \n- **nepřesná až zavádějící**, pokud ji vztáhneme na **celé norské ozbrojené síly** jako celek, kde jsou profesionálové početně výrazně nad branci.\n\nTento rozdíl v interpretaci (Hæren vs. celý Forsvaret) je klíčový pro posouzení přesnosti Pavlova výroku.\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-01-24 available from https://www.youtube.com/watch?v=LLdTdaQK-Y4.\\n\\n\\nThe claim was made by: Petr Pavel, Prezident České republiky\\n\\n\\nThe claim appears in the following immediate context in the source:\\nKdybych chtěl tématicky skloubit poslední dvě otázky, tedy obranu a rozpočet, podle vyjádření ministryně financí Aleny Schillerové to vypadá, že vláda zatím neplánuje cílit na ten nový cíl, na těch 5 % do roku 2035. Je to něco, co jste buď s ní nebo s Andrejem Babišem na těch konzultacích řešili?\\nPetr Pavel, prezident republiky\\nBavili jsme se o tom, bavíme se o tom, budeme se o tom bavit i nadále. Předpokládám, že to bude jedním z témat 26. 1., až se sejdeme s nejvyššími ústavními činiteli, protože je to jedna ze zásadních věcí pro zajištění naší obranyschopnosti. My nevydáváme peníze na obranu proto, abychom udělali radost někomu v Bruselu na velitelství NATO. My vydáváme peníze na obranu proto, že cítíme potřebu zajistit obranyschopnost země v bezpečnostní situaci, ve které jsme. A už v minulosti jsme si vyhodnotili, a zatím žádná vláda to nezpochybnila, že tím nejlepším a nejlevnějším způsobem zajištění obrany je účast v kolektivním systému, tedy v NATO. A za ty peníze, které my dáváme na obranu, financujeme ten náš díl. A celková kolektivní obrana bude tak efektivní, jak jednotlivé členské státy k tomu přistoupí, když nebudeme naplňovat svůj závazek, pak celá kolektivní obrana bude děravá jako ementál a moc velké garance nám asi neposkytne, takže je to investice do naší bezpečnosti, do naší budoucnosti a měli bychom si jasně říci, že buďto budeme tyto závazky naplňovat a v tom případě očekávat garance bezpečnosti, nebo na to budeme rezignovat a pak bychom měli občanům zodpovědně říci, jakým jiným efektivnějším způsobem zajistíme jejich bezpečnost.\\nMartin Čermák, moderátor\\nJak v tomto světle vnímáte vyjádření koaličního hnutí SPD a zpochybňování nákupu stíhaček F-35?\\nPetr Pavel, prezident republiky\\nJe snadné zpochybňovat něco, o čem máme kusé informace. Ty letouny jsou v procesu už několik let, my už jsme i na zálohách zaplatili poměrně značné sumy. A jsou to letouny, které si objednalo 18 členských zemí NATO, to znamená, budou do značné míry tvořit páteř nejenom protivzdušné obrany, ale i průzkumů, spojení, protože letoun F-35 není pouze stíhačka, ale je to multifunkční letoun, který zajišťuje mnoho funkcí a tím vlastně do určité míry nahrazuje i řadu jiných prostředků. Pokud chceme hovořit o nějakém jiném efektivním zajištění protivzdušné obrany, pak bychom celý ten dosavadní proces měli přehodnotit, smířit se s tím, že přijdeme o již vložené prostředky a uvažovat o náhradě, která plnohodnotně nahradí ty F-35, nejsou to levné prostředky, to rozhodně nejsou, ale musíme, znovu říkám, uvažovat o tom, že si nekupujeme pouze letadlo, ale kupujeme si v podstatě létající průzkumný prostředek, létající místo řízení, kupujeme si prostředek, který je schopen i řídit celou řadu prvků na bojišti, takže je to opravdu multifunkční stroj a tomu samozřejmě i té kvalitě technologické odpovídá cena.\\nMartin Čermák, moderátor\\nLetounů má být v Evropě asi 500. Když se bavíme o domácí obraně nebo obranyschopnosti, tak byla by za vás teď, my jsme se o tom bavili asi před 2 lety, ale teď aktuálně již přijatelná nějaká forma vojenské služby, ať už od nějakých administrativních odvodů, nějakého dobrovolného předurčení, co je za vás teď relevantní forma tohoto řešení?\\nPetr Pavel, prezident republiky\\nVíte, tak způsobů, jak zajistit dostatečný počet vojáků pro efektivní obranu země, je celá řada. Některé země mají miliční způsob, tak jako Švýcarsko, některé mají kombinaci základní služby a profesionální armády téměř v poměru 50 na 50, jako třeba Norsko.\\nMartin Čermák, moderátor\\nNově Chorvatsko.\\n\\nProvide a structured, citation-backed verification of the claim: 'Některé země mají miliční způsob, tak jako Švýcarsko, některé mají kombinaci základní služby a profesionální armády téměř v poměru 50 na 50, jako třeba Norsko.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 323.11 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Armáda Švýcarska je skutečně založena na miličním principu. Norsko ale má v celých ozbrojených silách zhruba dvě třetiny profesionálů a jednu třetinu branců; poměr 50:50 platí jen pro pozemní vojsko. Výrok proto hodnotíme jako zavádějící.</p>\n\n<p>Ve výroku Petr Pavel srovnává různé způsoby organizace ozbrojených sil v Evropě a jako příklady uvádí Švýcarsko a Norsko. V našem hodnocení výrok rozdělujeme na tři dílčí tvrzení: že existuje tzv. miliční způsob, že Švýcarsko je jeho příkladem, že Norsko kombinuje brance a profesionály a že jejich poměr je „téměř 50 na 50“.</p>\n\n<p>První dílčí tvrzení je, že některé státy mají tzv. miliční systém a že typickým příkladem je Švýcarsko. Švýcarská armáda je v tomto ohledu přímo vymezena v ústavě. Článek 58 švýcarské Spolkové ústavy, dostupný v online vydání na stránce <a href=\"https://www.verfassungen.ch/verf99.htm\">verfassungen.ch</a>, říká, že <i>„Švýcarsko má armádu. Ta je zásadně organizována podle miličního principu“</i> (německy <i>„Die Schweiz hat eine Armee. Diese ist grundsätzlich nach dem Milizprinzip organisiert.“</i>). Stejnou formulaci přebírá i oficiální popis ozbrojených sil na webu <a href=\"https://www.armee.ch/de/ueber-die-armee\">švýcarské armády</a>, který výslovně uvádí, že armáda je založena na milici občanů.</p>\n\n<p>Odborné a analytické zdroje, které jsme prošli, tento obraz potvrzují. Studie organizace War Resisters’ International o švýcarské branné povinnosti na stránce <a href=\"https://wri-irg.org/en/programmes/world_survey/reports/Switzerland\">wri-irg.org</a> popisuje, že většinu příslušníků ozbrojených sil tvoří branci, zatímco stálé profesionální jádro je malé. Podle tohoto přehledu prakticky neexistuje velká stálá armáda, ale jen výcvikové a velitel­ské kádry; v případě potřeby se armáda opírá o vycvičené občany v záloze. Encyklopedický přehled <a href=\"https://en.wikipedia.org/wiki/Swiss_Armed_Forces\">Swiss Armed Forces</a> shrnuje, že v rámci tohoto miličního systému tvoří pravidelní profesionálové jen malou část sil a zbytek tvoří branci či dobrovolníci ve stanoveném věkovém rozmezí.</p>\n\n<p>Také český odborný článek „Dobrovolná občanská participace při zajišťování obrany“ v časopise Obrana a strategie, dostupný na webu <a href=\"https://www.obranaastrategie.cz/cs/archiv/rocnik-2014/2-2014/clanky/dobrovolna-obcanska-participace-pri-zajistovani-obrany.html\">obranaastrategie.cz</a>, charakterizuje švýcarskou obranu jako <i>„založenou na miličním principu“</i> a zdůrazňuje, že rezerva a milice zde tvoří jádro armády, nikoliv jen doplněk několika profesionálních jednotek. Z těchto zdrojů podle našeho názoru jednoznačně vyplývá, že Švýcarsko je typickým příkladem „miličního způsobu“ obrany. První dílčí tvrzení proto hodnotíme jako pravdivé.</p>\n\n<p>Druhé dílčí tvrzení říká, že Norsko kombinuje základní vojenskou službu (brance) s profesionální armádou. Oficiální web norských ozbrojených sil <a href=\"https://www.forsvaret.no/forstegangstjeneste/verneplikt\">Forsvaret</a> vysvětluje, že v Norsku existuje institut <i>verneplikt</i>, tedy branná povinnost, která se v mírovém stavu vztahuje na občany obvykle ve věku 19–44 let. Tato povinnost se naplňuje tzv. první službou (<i>førstegangstjeneste</i>), která podle téhož zdroje trvá zpravidla 12–15 měsíců v rámci celkové povinnosti dlouhé 19 měsíců. Anglická verze webu Forsvaret v tiskové zprávě „Universal conscription“ na stránce <a href=\"https://www.forsvaret.no/en/news/archive/universal-conscription\">forsvaret.no</a> připomíná, že Norsko od roku 2015 uplatňuje všeobecnou brannou povinnost i pro ženy a stalo se tak prvním státem NATO, kde je povinná služba zavedena pro obě pohlaví.</p>\n\n<p>Stejné oficiální statistiky, které máme k dispozici, ukazují, že Norsko má zároveň velký stálý profesionální personál. Přehled „Forsvaret i tall – personell“ na stránce <a href=\"https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell\">forsvaret.no</a> uvádí, že v roce 2023 dokončilo základní službu 9 138 branců, zatímco průměrný počet zaměstnanců (vojenských i civilních) přepočtených na úvazky činil 17 046 osob. Přitom je výslovně uvedeno, že do počtu zaměstnanců nejsou zahrnuti vojáci v první službě – ti jsou vedeni odděleně jako branci.</p>\n\n<p>Podobná čísla uvádí i článek na norském serveru <a href=\"https://www.m24.no/forsvaret-forsvarets-mediesenter-michael-bruteig/pa-to-ar-har-forsvarets-mediesenter-brukt-over-100-mill-det-far-sp-leiar-vedum-til-a-reagera/242656\">m24.no</a>, kde mluvčí Forsvaret shrnuje, že ozbrojené síly mají kolem 16 tisíc stálých zaměstnanců a zhruba 9 tisíc branců v první službě, tedy jasnou kombinaci profesionálního jádra a každoročně povolávaného omezeného počtu branců. Na základě těchto údajů je zřejmé, že Norsko skutečně spojuje brannou povinnost se stálou profesionální armádou. Druhé dílčí tvrzení, které tuto kombinaci popisuje, proto hodnotíme jako pravdivé.</p>\n\n<p>Třetí dílčí tvrzení se týká konkrétního poměru branců a profesionálů v Norsku. Petr Pavel tvrdí, že jde o kombinaci „téměř v poměru 50 na 50“. Pro posouzení je klíčové, zda se tento poměr vztahuje na celé norské ozbrojené síly (Forsvaret) nebo jen na jejich pozemní složku, tedy Hæren. V našem hodnocení jsme proto pracovali s oběma možnými výklady.</p>\n\n<p>Nejprve se díváme na celé norské ozbrojené síly. Podle oficiální statistiky „Forsvaret i tall – personell“ na stránce <a href=\"https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell\">forsvaret.no</a> mělo Norsko v roce 2023 v průměru 17 046 zaměstnanců a 9 138 branců, kteří v daném roce absolvovali první službu. Pokud sečteme tyto dvě skupiny, dostaneme zhruba 26 tisíc osob v aktivní službě. Jednoduchým přepočtem vyplývá, že branci tvoří asi 35 % a profesionální zaměstnanci přibližně 65 % aktivního personálu. To je poměr přibližně jedna třetina ku dvěma třetinám, nikoliv téměř 50 na 50.</p>\n\n<p>Tento obraz potvrzují i starší údaje z jiných zdrojů. Článek na norském serveru <a href=\"https://www.abcnyheter.no/nyheter/dette-skjer-dersom-det-blir-krig-i-norge-kun-lovlig-stridende-kan-gripe-til-vapen/270918\">abcnyheter.no</a> uvádí, že norské ozbrojené síly mají kolem 17 tisíc pracovních úvazků (zaměstnanců) a „přes 9 tisíc“ branců, zatímco celková struktura sil včetně záloh a domobrany dosahuje přibližně 70 tisíc osob. I zde tedy vychází, že aktivní profesionální složka tvoří zhruba dvě třetiny, kdežto branci v základní službě jen asi jednu třetinu personálu. Pokud výrok vztáhneme na celý Forsvaret, pak podle námi dohledaných dat poměr „téměř 50 na 50“ neodpovídá realitě.</p>\n\n<p>Jiná situace ale nastává, pokud výrok vztáhneme konkrétně na pozemní vojsko Hæren. Oficiální stránka <a href=\"https://www.forsvaret.no/h%C3%A6ren\">Hæren</a> uvádí u přehledu „Personell“, že v roce 2023 mělo pozemní vojsko celkem 8 586 osob, z toho 4 067 stálých zaměstnanců a 4 519 vojáků v první službě. Po přepočtu vidíme, že branci tvoří v Hæren asi 53 % a profesionálové zhruba 47 % personálu. Tento poměr je skutečně velmi blízký tvrzenému rozložení „50 na 50“ mezi branci a profesionály, pokud se soustředíme jen na pozemní složku.</p>\n\n<p>Podobný poměr potvrzuje i inspekční zpráva norského vojenského ombudsmana „Befaringsrapport – Befaring til Hæren, Bardufoss 29. august 2018“, zveřejněná na stránce <a href=\"https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/\">forsvarsombudet.no</a>. V části věnované personálu se uvádí, že Hæren má zhruba 3 900 zaměstnanců a 4 650 branců, tedy opět přibližně 46 % profesionálů a 54 % branců. Z toho podle našeho výpočtu vyplývá, že i v jiném roce je rozložení sil v Hæren velmi blízké poměru 50 na 50 a že jde o dlouhodobě udržovaný model.</p>\n\n<p>Souhrnně tedy platí, že norské ozbrojené síly jako celek mají podle dostupných dat přibližně dvě třetiny profesionálního personálu a jednu třetinu branců v základní službě, a tvrzení o poměru „téměř 50 na 50“ zde neodpovídá realitě. Pokud však výrok vztáhneme úzce jen na pozemní vojsko Hæren, pak oficiální norské statistiky ukazují, že tam se počty profesionálů a branců skutečně pohybují velmi blízko poměru 50 na 50.</p>\n\n<p>Třetí dílčí tvrzení – že Norsko má kombinaci základní služby a profesionální armády „téměř v poměru 50 na 50“ – je tedy přesné pouze v případě, že mluvíme konkrétně o pozemních jednotkách Hæren. Bez tohoto upřesnění však běžný výklad směřuje k celým norským ozbrojeným silám, kde podle námi zjištěných čísel poměr 50:50 neplatí a profesionální složka je výrazně početnější. Třetí dílčí tvrzení proto hodnotíme jako zavádějící.</p>\n\n<p>Na závěr shrnujeme naše celkové hodnocení. Švýcarsko skutečně provozuje miliční systém obrany, což výslovně stanoví jeho ústava a potvrzují odborné analýzy; první část výroku je tedy pravdivá. Norsko rovněž kombinuje brannou povinnost a profesionální ozbrojené síly, takže i druhá část (o kombinaci branců a profesionálů) odpovídá skutečnosti. Číselné tvrzení o poměru „téměř 50 na 50“ však při pohledu na celé norské ozbrojené síly neplatí a vztahuje se jen na pozemní vojsko Hæren, aniž to výrok výslovně říká. Proto celkově hodnotíme výrok Petra Pavla jako zavádějící.</p>\n",
+  "deep_research_log": {
+    "id": "resp_068897e2b9e26027006979eaa255f081a29ce78aac18fe34a5",
+    "created_at": 1769597602.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_068897e2b9e26027006979eaaac7ac81a29da224ceb54c2104",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eab46fd481a2aca1613e3df61fc9",
+        "action": {
+          "query": "Swiss militia army system conscription citizen soldiers majority of armed forces militia",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Swiss militia army system conscription citizen soldiers majority of armed forces militia",
+            "Switzerland 'militia system' armed forces professional core",
+            "\"Swiss Armed Forces\" militia army universal conscription professional soldiers",
+            "site:admin.ch Swiss armed forces militia army system conscription"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eab6c73881a28186ce5784048728",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eab76bf881a29cb2d7f52b711507",
+        "action": {
+          "query": "\"Schweiz hat eine Armee. Sie ist nach dem Milizprinzip organisiert\" Artikel 58 BV",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Schweiz hat eine Armee. Sie ist nach dem Milizprinzip organisiert\" Artikel 58 BV",
+            "\"La Suisse a une armée. Elle est organisée selon le principe de l'armée de milice\"",
+            "\"Svizzera ha un esercito. Esso è organizzato, in linea di principio, secondo il sistema di milizia\"",
+            "site:admin.ch \"nach dem Milizprinzip\" Armee"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eabaa6fc81a28079606db07d8ba9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eabe97a081a2a8bd9b0f91e4a49a",
+        "action": {
+          "query": "Norway conscription professional army mix conscripts and professional soldiers proportion",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Norway conscription professional army mix conscripts and professional soldiers proportion",
+            "site:regjeringen.no Norway armed forces conscription professional soldiers percentage",
+            "\"Norwegian Armed Forces\" conscripts professional 50 50",
+            "\"universal conscription\" \"Norway\" professional army"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eac262c081a2bdee98ba2231aa13",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eac2c30081a2b9b2281d2ce65833",
+        "action": {
+          "query": "\"about half\" conscripts \"Norwegian Army\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"about half\" conscripts \"Norwegian Army\"",
+            "\"half of the Norwegian Army\" conscripts",
+            "\"50 percent\" conscripts \"Norwegian Armed Forces\"",
+            "site:forsvaret.no verneplikt profesjonelle soldater andel"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eac5379481a2872ae4509ecc479f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979ead06a1481a29687e9ac992e4682",
+        "action": {
+          "query": "\"om lag halvparten\" \"forstegangstjeneste\" \"forsvaret\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"om lag halvparten\" \"forstegangstjeneste\" \"forsvaret\"",
+            "\"halvparten\" \"vernepliktige\" \"ansatte\" \"Forsvaret\"",
+            "\"Forsvaret har rundt 18 000 ansatte og 10 000 soldater i førstegangstjeneste\"",
+            "\"omtrent 50 50\" vernepliktige og ansatte i Hæren"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979ead32dec81a2b4fd29cf8a84a6d2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979ead3aac881a2bd971cb0c0c426f8",
+        "action": {
+          "query": "\"50 prosent\" \"vernepliktige\" \"Hæren\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"50 prosent\" \"vernepliktige\" \"Hæren\"",
+            "\"50 prosent\" \"forstegangstjeneste\" \"Hæren\"",
+            "\"like mange\" vernepliktige som ansatte i Hæren",
+            "Norwegian army consists of both conscripts and professional soldiers"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979ead7ac8081a28f07f833bb99b5e2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eae25ba881a2ad41515732442f63",
+        "action": {
+          "query": "site:vtg.admin.ch \"Milizprinzip\" Armee",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "site:vtg.admin.ch \"Milizprinzip\" Armee",
+            "site:admin.ch \"Milizsystem\" Armee 100 000 Milizangehörige",
+            "site:ch \"Schweizer Armee\" Milizarmee berufsmilitär",
+            "\"Die Schweiz hat eine Armee. Diese ist grundsätzlich nach dem Milizprinzip organisiert\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eae78dec81a2b1529e56de0fdd1d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eae98bd881a2b7ef6e4b86b97465",
+        "action": {
+          "query": "\"miliční systém\" \"Švýcarsko\" armáda",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"miliční systém\" \"Švýcarsko\" armáda",
+            "\"milicni\" armada Švycarsko",
+            "švýcarská armáda milice občanů",
+            "švýcarský miliční systém branná povinnost"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eaf144b081a29249a4d70f969447",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eaf2c7c081a2b7d072f27842e588",
+        "action": {
+          "query": "\"Forsvaret har\" \"ansatte\" \"forstegangstjeneste\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Forsvaret har\" \"ansatte\" \"forstegangstjeneste\"",
+            "\"18 000 ansatte\" \"10 000\" \"forstegangstjeneste\"",
+            "\"totalte styrkestrukturen\" \"70 000\" Forsvaret",
+            "\"styrkestrukturen i Norge\" utgjor rundt 70 000"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eaf77bd881a2b64928ade942fe9e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eb01481c81a2965c057dd550be44",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb04ce0481a29103ed7662ba4ca8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eb14c6a481a299ec4b1e590eb9f6",
+        "action": {
+          "query": "\"I 2021 hadde Forsvaret om lag 17.185 årsverk\" 9000 vernepliktige 70 000",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"I 2021 hadde Forsvaret om lag 17.185 årsverk\" 9000 vernepliktige 70 000",
+            "\"drøyt 9.000 vernepliktige\" \"styrkestrukturen\"",
+            "\"I 2021 hadde Forsvaret om lag\" \"vernepliktige\"",
+            "\"Den totalte styrkestrukturen i Norge\" \"9.000 vernepliktige\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb193b2c81a2af6f150541247a17",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eb1da09481a2950719dd9d394ba8",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb21132481a29b363b40a3ae02b4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eb26194881a2b893b74a1212aa97",
+        "action": {
+          "query": "\"Hæren\" \"vernepliktige\" \"ansatte\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Hæren\" \"vernepliktige\" \"ansatte\"",
+            "\"Hæren\" \"fast ansatte\" \"vernepliktige\"",
+            "\"fast ansatte\" \"vernepliktige\" \"Heimevernet\"",
+            "\"Hæren\" består av\" vernepliktige\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb29474c81a290e0467042ef3b20",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eb37500c81a294df8e71c1692b1f",
+        "action": {
+          "query": "\"Antall ansatte i Hæren\"  \"vernepliktige\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Antall ansatte i Hæren\"  \"vernepliktige\"",
+            "\"Antall ansatte i Hæren er om lag\"",
+            "\"Antall vernepliktige i Hæren\" 2019",
+            "Hæren ansatte vernepliktige 2023"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb3ec21c81a2a6c69e359ac3a62b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eb40634481a28759719f702a839e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb42291081a29553e0fa6e51957f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_068897e2b9e26027006979eb5a894881a2976d26ed4532d2db",
+        "action": {
+          "query": "Forsvaret \"verneplikt\" førstegangstjeneste 12 months",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Forsvaret \"verneplikt\" førstegangstjeneste 12 months",
+            "\"allmenn verneplikt\" Norge 2015 kvinner",
+            "\"universell verneplikt\" Norge 2015 begge kjønn",
+            "Universal conscription Norwegian Armed Forces 11 June 2015"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb61c94881a2ab34c5fb6e685314",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_068897e2b9e26027006979eb71473481a2bc5c9e9886a4e0cd",
+        "code": "conscripts_haeren=4519\nemployees_haeren=4067\nratio_cons=conscripts_haeren/(conscripts_haeren+employees_haeren)\nratio_emp=employees_haeren/(conscripts_haeren+employees_haeren)\nratio_cons, ratio_emp",
+        "container_id": "cntr_6979eaa9d6ac8191bf7025d29b54677c0e053441afd89b70",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb75a23881a28c1e5cf1ca015d3c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_068897e2b9e26027006979eb76eb1081a2b2786bdfd5af8a7d",
+        "code": "conscripts_total=9138\nemployees_total=17046\nratio_cons_total=conscripts_total/(conscripts_total+employees_total)\nratio_emp_total=employees_total/(conscripts_total+employees_total)\nratio_cons_total, ratio_emp_total",
+        "container_id": "cntr_6979eaa9d6ac8191bf7025d29b54677c0e053441afd89b70",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb7c309881a28367eaf0fb50b4b9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_068897e2b9e26027006979eb7cc12c81a2b8fc0a9dee0a666e",
+        "code": "cons_2019=9000\nemp_2019=16000\ncons_2019/(cons_2019+emp_2019), emp_2019/(cons_2019+emp_2019)",
+        "container_id": "cntr_6979eaa9d6ac8191bf7025d29b54677c0e053441afd89b70",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb81074481a2832715ccf372c93b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ci_068897e2b9e26027006979eb866bb881a2a2494f53a7ee83f1",
+        "code": "emp=17046\ntotal=70000\nemp/total",
+        "container_id": "cntr_6979eaa9d6ac8191bf7025d29b54677c0e053441afd89b70",
+        "outputs": null,
+        "status": "completed",
+        "type": "code_interpreter_call"
+      },
+      {
+        "id": "rs_068897e2b9e26027006979eb896a1881a2a130124d008b2619",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_068897e2b9e26027006979eb94a71881a2b8d9ac921210f877",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1284,
+                "start_index": 1207,
+                "title": "Bundesverfassung der Schweizerischen Eidgenossenschaft (1999)",
+                "type": "url_citation",
+                "url": "https://www.verfassungen.ch/verf99.htm?utm_source=openai"
+              },
+              {
+                "end_index": 1682,
+                "start_index": 1611,
+                "title": "Über die Armee – Die Schweizer Landesverteidigung",
+                "type": "url_citation",
+                "url": "https://www.armee.ch/de/ueber-die-armee?utm_source=openai"
+              },
+              {
+                "end_index": 2197,
+                "start_index": 2096,
+                "title": "Switzerland | War Resisters' International",
+                "type": "url_citation",
+                "url": "https://wri-irg.org/en/programmes/world_survey/reports/Switzerland?utm_source=openai"
+              },
+              {
+                "end_index": 2533,
+                "start_index": 2445,
+                "title": "Swiss Armed Forces",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Swiss_Armed_Forces?utm_source=openai"
+              },
+              {
+                "end_index": 2848,
+                "start_index": 2759,
+                "title": "Arbeiten für die Schweizer Armee",
+                "type": "url_citation",
+                "url": "https://www.armee.ch/de/arbeiten-fuer-die-schweizer-armee?utm_source=openai"
+              },
+              {
+                "end_index": 3106,
+                "start_index": 3018,
+                "title": "Swiss Armed Forces",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Swiss_Armed_Forces?utm_source=openai"
+              },
+              {
+                "end_index": 3602,
+                "start_index": 3432,
+                "title": "Dobrovolná občanská participace při zajišťování obrany - Obrana a strategie",
+                "type": "url_citation",
+                "url": "https://www.obranaastrategie.cz/cs/archiv/rocnik-2014/2-2014/clanky/dobrovolna-obcanska-participace-pri-zajistovani-obrany.html?utm_source=openai"
+              },
+              {
+                "end_index": 4746,
+                "start_index": 4655,
+                "title": "Verneplikt - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/forstegangstjeneste/verneplikt?utm_source=openai"
+              },
+              {
+                "end_index": 5051,
+                "start_index": 4952,
+                "title": "Universal Conscription - Norwegian Armed Forces",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/en/news/archive/universal-conscription?utm_source=openai"
+              },
+              {
+                "end_index": 5347,
+                "start_index": 5265,
+                "title": "Conscription",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Conscription?utm_source=openai"
+              },
+              {
+                "end_index": 5540,
+                "start_index": 5458,
+                "title": "Personell - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell"
+              },
+              {
+                "end_index": 6012,
+                "start_index": 5930,
+                "title": "Personell - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell"
+              },
+              {
+                "end_index": 6516,
+                "start_index": 6337,
+                "title": "På to år har Forsvarets medie­senter brukt over 100 mill. Det får Sp-leiar Vedum til å reagera",
+                "type": "url_citation",
+                "url": "https://www.m24.no/forsvaret-forsvarets-mediesenter-michael-bruteig/pa-to-ar-har-forsvarets-mediesenter-brukt-over-100-mill-det-far-sp-leiar-vedum-til-a-reagera/242656"
+              },
+              {
+                "end_index": 6810,
+                "start_index": 6710,
+                "title": "Personell - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell?utm_source=openai"
+              },
+              {
+                "end_index": 7777,
+                "start_index": 7695,
+                "title": "Personell - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell"
+              },
+              {
+                "end_index": 7985,
+                "start_index": 7903,
+                "title": "Personell - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell"
+              },
+              {
+                "end_index": 8749,
+                "start_index": 8590,
+                "title": "Dette skjer dersom det blir krig i Norge: Kun «lovlig stridende» kan gripe til våpen | ABC Nyheter",
+                "type": "url_citation",
+                "url": "https://www.abcnyheter.no/nyheter/dette-skjer-dersom-det-blir-krig-i-norge-kun-lovlig-stridende-kan-gripe-til-vapen/270918?utm_source=openai"
+              },
+              {
+                "end_index": 9108,
+                "start_index": 8929,
+                "title": "På to år har Forsvarets medie­senter brukt over 100 mill. Det får Sp-leiar Vedum til å reagera",
+                "type": "url_citation",
+                "url": "https://www.m24.no/forsvaret-forsvarets-mediesenter-michael-bruteig/pa-to-ar-har-forsvarets-mediesenter-brukt-over-100-mill-det-far-sp-leiar-vedum-til-a-reagera/242656"
+              },
+              {
+                "end_index": 9754,
+                "start_index": 9701,
+                "title": "Hæren - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/h%C3%A6ren"
+              },
+              {
+                "end_index": 10406,
+                "start_index": 10275,
+                "title": "Befaringsrapport – Befaring til Hæren, Bardufoss 29. august 2018 – Forsvarsombudet",
+                "type": "url_citation",
+                "url": "https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai"
+              },
+              {
+                "end_index": 10931,
+                "start_index": 10800,
+                "title": "Befaringsrapport – Befaring til Hæren, Bardufoss 29. august 2018 – Forsvarsombudet",
+                "type": "url_citation",
+                "url": "https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai"
+              },
+              {
+                "end_index": 11227,
+                "start_index": 11127,
+                "title": "Personell - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell?utm_source=openai"
+              },
+              {
+                "end_index": 11484,
+                "start_index": 11392,
+                "title": "Norwegian Armed Forces",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Norwegian_Armed_Forces?utm_source=openai"
+              },
+              {
+                "end_index": 12081,
+                "start_index": 11999,
+                "title": "Personell - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell"
+              },
+              {
+                "end_index": 12318,
+                "start_index": 12265,
+                "title": "Hæren - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/h%C3%A6ren"
+              },
+              {
+                "end_index": 12527,
+                "start_index": 12396,
+                "title": "Befaringsrapport – Befaring til Hæren, Bardufoss 29. august 2018 – Forsvarsombudet",
+                "type": "url_citation",
+                "url": "https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai"
+              },
+              {
+                "end_index": 12861,
+                "start_index": 12784,
+                "title": "Bundesverfassung der Schweizerischen Eidgenossenschaft (1999)",
+                "type": "url_citation",
+                "url": "https://www.verfassungen.ch/verf99.htm?utm_source=openai"
+              },
+              {
+                "end_index": 13089,
+                "start_index": 13001,
+                "title": "Swiss Armed Forces",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Swiss_Armed_Forces?utm_source=openai"
+              },
+              {
+                "end_index": 13452,
+                "start_index": 13361,
+                "title": "Verneplikt - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/forstegangstjeneste/verneplikt?utm_source=openai"
+              },
+              {
+                "end_index": 13756,
+                "start_index": 13674,
+                "title": "Personell - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell"
+              },
+              {
+                "end_index": 14021,
+                "start_index": 13968,
+                "title": "Hæren - Forsvaret",
+                "type": "url_citation",
+                "url": "https://www.forsvaret.no/h%C3%A6ren"
+              },
+              {
+                "end_index": 14239,
+                "start_index": 14108,
+                "title": "Befaringsrapport – Befaring til Hæren, Bardufoss 29. august 2018 – Forsvarsombudet",
+                "type": "url_citation",
+                "url": "https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Výrok a jeho rozklad\n\nOvěřovaný výrok (Petr Pavel):\n\n> „Některé země mají miliční způsob, tak jako Švýcarsko, některé mají kombinaci základní služby a profesionální armády téměř v poměru 50 na 50, jako třeba Norsko.“\n\nRozdělím jej na dílčí tvrzení:\n\n1. **Tvrzení A (Švýcarsko – „miliční způsob“):**  \n   a) Existují státy, které používají miliční model ozbrojených sil.  \n   b) Švýcarsko je příkladem takového „miličního způsobu“.\n\n2. **Tvrzení B (Norsko – kombinace branců a profesionálů):**  \n   a) Norsko kombinuje základní vojenskou službu (brannou povinnost / brance) a profesionální armádu.  \n   b) Podíl branců a profesionálů je v Norsku „téměř v poměru 50 na 50“.\n\nU tvrzení B.b je podstatné, zda Pavel mluví:\n- o **celých norských ozbrojených silách**, nebo  \n- jen o **pozemních silách (Hæren)**, kde by takový poměr mohl existovat.\n\nNíže uvádím důkazy pro každé dílčí tvrzení.\n\n---\n\n## 2. Tvrzení A: Švýcarsko má „miliční způsob“\n\n### 2.1 Ústavní zakotvení milice\n\nŠvýcarská spolková ústava (1999) v čl. 58 stanoví:\n\n> „Die Schweiz hat eine Armee. Diese ist grundsätzlich nach dem Milizprinzip organisiert.“  \n> („Švýcarsko má armádu. Ta je v zásadě organizována podle milicního principu.“)([verfassungen.ch](https://www.verfassungen.ch/verf99.htm?utm_source=openai))\n\nTento článek je hlavním ústavním ustanovením pro organizaci armády jako **milice** – tedy občanské armády, nikoli klasické velké stálé profesionální armády.\n\nOficiální web švýcarské armády cituje tentýž článek ústavy a sám uvádí, že:\n\n> „Die Schweiz hat eine Armee. Diese ist grundsätzlich nach dem Milizprinzip organisiert.“([armee.ch](https://www.armee.ch/de/ueber-die-armee?utm_source=openai))\n\n### 2.2 Převaha milice nad profesionály\n\nNěkolik zdrojů potvrzuje, že profesionálové tvoří jen malou část armády:\n\n- Studie War Resisters’ International (2009) shrnuje švýcarský systém takto:  \n  – odkazuje na čl. 58 ústavy, že armáda je „organizována jako milice“;  \n  – uvádí, že **„většina“ příslušníků jsou branci** a že **„prakticky neexistuje stálá armáda“** kromě výcvikových kádrů a několika velitelství.([wri-irg.org](https://wri-irg.org/en/programmes/world_survey/reports/Switzerland?utm_source=openai))  \n\n- Encyklopedický přehled „Swiss Armed Forces“ (shrnutí z oficiálních statistik) uvádí:  \n  > „Under the country's militia system, regular soldiers constitute a small part of the military and the rest are conscripts or volunteers aged 19 to 34…“([en.wikipedia.org](https://en.wikipedia.org/wiki/Swiss_Armed_Forces?utm_source=openai))  \n\n- Oficiální stránka „Arbeiten für die Schweizer Armee“ vysvětluje, že armádu **netvoří jen milice**, ale že v pozadí pracuje přibližně **6 000 civilních zaměstnanců a kolem 3 000 profesionálních vojáků** („Berufsmilitär“).([armee.ch](https://www.armee.ch/de/arbeiten-fuer-die-schweizer-armee?utm_source=openai))  \n  To nepřímo ukazuje, že profesionální složka (~9 tisíc osob) je početně malá ve srovnání s celkovou mobilizační silou (cca 100–150 tisíc osob včetně milice a zálohy).([en.wikipedia.org](https://en.wikipedia.org/wiki/Swiss_Armed_Forces?utm_source=openai))  \n\n- Český odborný článek (Obrana a strategie, 2014) charakterizuje švýcarský systém takto:  \n  – obrana je **„založená na miličním principu“**,  \n  – **„stálá armáda neexistuje (je přímo zakázána ústavou) a vojáky se v případě potřeby stávají všichni občané“**,  \n  – „rezerva ve Švýcarsku není doplňkem, ale jádrem armády“.([obranaastrategie.cz](https://www.obranaastrategie.cz/cs/archiv/rocnik-2014/2-2014/clanky/dobrovolna-obcanska-participace-pri-zajistovani-obrany.html?utm_source=openai))  \n\n(I když poznámka o přímém zákazu stálé armády odkazuje na starší verze ústavy, faktický systém je i po revizi 1999 stále založen na milici: malý profesionální kádr, jádro tvoří branci a zálohy.)\n\n### 2.3 Hodnocení tvrzení A\n\n- **Existence „miličního způsobu“:** Český i zahraniční odborný diskurz standardně popisuje švýcarskou armádu jako **milici** (armádu občanů) – koncept je přímo v ústavě.\n- **Švýcarsko jako příklad:** Švýcarsko je učebnicovým příkladem státu s miličním obranným modelem.\n\n**Tvrzení A (Švýcarsko má „miliční způsob“) je velmi dobře podloženo.**\n\n---\n\n## 3. Tvrzení B.a: Norsko kombinuje brance a profesionální armádu\n\n### 3.1 Norsko má brannou povinnost (základní vojenskou službu)\n\nOficiální norský web Forsvaret (ozbrojené síly) vysvětluje:\n\n- **Verneplikt (branná povinnost)**:  \n  – v době míru jsou norští občané ve věku 19–44 let, kteří jsou zdravotně způsobilí, **branně povinni**,  \n  – délka služební povinnosti v míru je **19 měsíců**, z toho část tvoří **první služba (førstegangstjeneste)**, obvykle 12–15 měsíců.([forsvaret.no](https://www.forsvaret.no/forstegangstjeneste/verneplikt?utm_source=openai))  \n\n- Stránka Forsvaret „Universal conscription“ uvádí, že v lednu 2015 Norsko **zavedlo brannou povinnost pro obě pohlaví** a stalo se tak prvním členským státem NATO s národní službou povinnou i pro ženy.([forsvaret.no](https://www.forsvaret.no/en/news/archive/universal-conscription?utm_source=openai))  \n\nEncyklopedický přehled „Norwegian Armed Forces“ shrnuje:\n\n- Norsko uplatňuje „weak form of mandatory military service“, kdy je každoročně povolána jen část ročníku (cca 8–10 tisíc osob z asi 60 tisíc vhodných).([en.wikipedia.org](https://en.wikipedia.org/wiki/Conscription?utm_source=openai))  \n\nOficiální statistika Forsvaret:\n\n- V roce 2023 **9 138 osob dokončilo první službu (førstegangstjeneste)**.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n\nTo jasně dokládá existenci **základní vojenské služby / branců**.\n\n### 3.2 Norsko má zároveň značný počet stálých (profesionálních) zaměstnanců\n\nStejná stránka Forsvaret uvádí:\n\n- V roce 2023 měl Forsvaret **18 348 zaměstnanců během roku**, průměrný počet zaměstnanců po přepočtu na úvazky byl **17 046 osob**.  \n  – Tyto počty **nezahrnují vojáky v první službě** ani studenty či učně.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n\nStarší vyjádření mluvčího Forsvaret (2019) shrnuje poměr podobně:\n\n- Forsvaret má **„rundt 16.000 faste tilsette“** (cca 16 tisíc stálých zaměstnanců) a **„om lag 9.000 vernepliktige soldater i førstegangstjeneste“** (asi 9 tisíc branců v první službě); navíc cca 1 000 studentů a cca 42 000 osob v domobraně Heimevernet.([m24.no](https://www.m24.no/forsvaret-forsvarets-mediesenter-michael-bruteig/pa-to-ar-har-forsvarets-mediesenter-brukt-over-100-mill-det-far-sp-leiar-vedum-til-a-reagera/242656))  \n\nDalší oficiální a mediální přehledy potvrzují řádově podobná čísla (17–18 tisíc zaměstnanců, cca 9–10 tisíc branců ročně, celková „styrkestruktur“ kolem 70 tisíc včetně záloh a Heimevernet).([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell?utm_source=openai))  \n\n### 3.3 Hodnocení tvrzení B.a\n\n- Norsko **má brannou povinnost** a každoročně povolává tisíce branců k první službě.  \n- Zároveň má **desítky tisíc stálých zaměstnanců** (profesionální personál, vojenský i civilní).\n\n**Tvrzení, že Norsko je kombinací základní služby a profesionální armády, je dobře doložené.**\n\n---\n\n## 4. Tvrzení B.b: „poměr téměř 50 na 50, jako třeba Norsko“\n\nToto tvrzení je numerické a je potřeba přesněji vymezit, **o jakou část ozbrojených sil jde**:\n\n- **Varianta 1:** celý norský Forsvaret (všechny složky).  \n- **Varianta 2:** pouze pozemní síly – **Hæren** (tedy „armáda“ v užším slova smyslu).  \n\n### 4.1 Celé ozbrojené síly Norska (Forsvaret) – aktuální poměr\n\nOficiální údaje Forsvaret za rok 2023:\n\n- **Zaměstnanci (profesionálové):**  \n  – průměrný počet zaměstnanců: **17 046 osob** (vojenský i civilní personál); branci v tom **nejsou** zahrnuti.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n\n- **Branci (první služba):**  \n  – **9 138 osob** dokončilo v roce 2023 první službu; polovinu z nich v Hæren (4519 osob).([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n\nPokud srovnáme jen **profesionální zaměstnance vs. brance v aktivní službě**:\n\n- Celkem aktivní personál (zaměstnanci + branci) ≈ 17 046 + 9 138 = **26 184 osob**.  \n- Podíl branců: 9 138 / 26 184 ≈ **35 %**.  \n- Podíl zaměstnanců: 17 046 / 26 184 ≈ **65 %**.\n\nTedy v **celých norských ozbrojených silách** jsou přibližně **dvě třetiny profesionálové** a **třetina branci**, nikoli 50/50.\n\nTento poměr potvrzují i dřívější údaje:\n\n- V roce 2021 měl Forsvaret cca **17 185 „årsverk“** (úvazků) a „drøyt 9 000 vernepliktige“ (přes 9 tisíc branců) při celkové „styrkestruktur“ blížící se 70 tisícům osob.([abcnyheter.no](https://www.abcnyheter.no/nyheter/dette-skjer-dersom-det-blir-krig-i-norge-kun-lovlig-stridende-kan-gripe-til-vapen/270918?utm_source=openai))  \n\n- V roce 2019 mluvčí Forsvaret uváděl cca **16 000 stálých zaměstnanců** a **9 000 branců** v první službě; struktura je tedy obdobná (zhruba 64 % profesionálů ku 36 % branců).([m24.no](https://www.m24.no/forsvaret-forsvarets-mediesenter-michael-bruteig/pa-to-ar-har-forsvarets-mediesenter-brukt-over-100-mill-det-far-sp-leiar-vedum-til-a-reagera/242656))  \n\nZ hlediska **celého Forsvaret** je tedy tvrzení o „téměř 50 na 50“ **výrazně nepřesné** – poměr je spíše kolem **1 : 2** ve prospěch profesionálů.\n\n### 4.2 Norské pozemní síly (Hæren) – poměr je skutečně blízký 50/50\n\nPokud ale výrok vztáhneme **jen na Hæren (pozemní vojsko)**, obraz se mění.\n\n#### Data pro Hæren 2023 (z oficiálního webu Forsvaret)\n\nOficiální stránka „Hæren“ uvádí u položky „Personell“:\n\n- **Hæren má celkem 8 586 osob (v roce 2023)**.  \n- Z toho:  \n  – **4 067 fast ansatte** (stálí zaměstnanci),  \n  – **4 519 soldater i førstegangstjeneste** (vojáci v první službě).([forsvaret.no](https://www.forsvaret.no/h%C3%A6ren))  \n\nVýpočet:\n\n- Celkem: 4 067 + 4 519 = **8 586**.  \n- Podíl branců: 4 519 / 8 586 ≈ **52,6 %**.  \n- Podíl profesionálů: 4 067 / 8 586 ≈ **47,4 %**.\n\nTedy **v Hæren je skutečně přibližně polovina personálu branci a polovina stálí profesionálové** – poměr velmi blízký Pavlovu „50 na 50“.\n\n#### Starší data pro Hæren (2018)\n\nZpráva norského vojenského ombudsmana (2018) o Hæren uvádí:\n\n- „Antall ansatte i Hæren er om lag 3.900…“ (cca 3 900 zaměstnanců)  \n- „Antall vernepliktige i Hæren er 4.650…“ (4 650 branců v Hæren).([forsvarsombudet.no](https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai))  \n\nTaké zde je poměr:\n\n- Zaměstnanci: 3 900; branci: 4 650  \n- Branci ≈ 54 %, zaměstnanci ≈ 46 %.\n\nI v roce 2018 tedy Hæren vykazovala **velmi podobný 50/50 poměr** branců a profesionálů.\n\n#### Shrnutí k Hæren\n\n- V **pozemním vojsku (Hæren)** je dlouhodobě poměr **branců a profesionálů blízký 50/50**.  \n- Oficiální norské zdroje to přímo dokládají jak pro rok **2018**, tak pro rok **2023**.([forsvarsombudet.no](https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai))  \n\n### 4.3 Celková struktura norské obrany a role rezerv\n\nJeště širší obrázek:\n\n- Forsvaret uvádí, že **celková „styrkestruktur“ Norska** (včetně Heimevernet a rezerv) činí okolo **70 000 osob**.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell?utm_source=openai))  \n- Z toho je cca **17 tisíc zaměstnanců**; zbytek jsou branci a zejména rozsáhlé **zálohy a Heimevernet** (např. 40 500 osob v Home Guard podle starších přehledů).([en.wikipedia.org](https://en.wikipedia.org/wiki/Norwegian_Armed_Forces?utm_source=openai))  \n\nZ hlediska **mobilizační struktury** (zaměstnanci vs. celé zálohy) je tedy profesionální složka menší částí celkové síly; ovšem to už je jiný poměr, než o jakém mluví Pavel (ten explicitně zmiňuje kombinaci „základní služby“ a „profesionální armády“ – tedy poměr branců v aktuální službě vs. profesionálů).\n\n### 4.4 Zhodnocení tvrzení B.b\n\n- **Pro celý Forsvaret (všechny složky):**  \n  – Branci v první službě ≈ 9–10 tisíc ročně; stálí zaměstnanci ≈ 17–18 tisíc.  \n  – Podíl branců ≈ 35 %, profesionálů ≈ 65 %.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n  – **Poměr 50/50 zde neplatí**; profesní složka je výrazně větší.\n\n- **Pro Hæren (pozemní síly):**  \n  – V roce 2023: 4 067 zaměstnanců vs. 4 519 branců – podíl velmi blízký 50/50.([forsvaret.no](https://www.forsvaret.no/h%C3%A6ren))  \n  – V roce 2018: 3 900 zaměstnanců vs. 4 650 branců – opět přibližně 50/50.([forsvarsombudet.no](https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai))  \n  – Tvrzení o „kombinaci základní služby a profesionální armády téměř 50 na 50“ zde **dobře odpovídá realitě**.\n\n---\n\n## 5. Celkové shrnutí\n\n### 5.1 Švýcarsko\n\n- Ústava výslovně stanoví, že armáda je organizována podle **milicního (miličního) principu**.([verfassungen.ch](https://www.verfassungen.ch/verf99.htm?utm_source=openai))  \n- Drtivá většina vojenského personálu jsou **branci a milice (zálohy)**; profesionální vojáci a civilní zaměstnanci tvoří jen malou část.([en.wikipedia.org](https://en.wikipedia.org/wiki/Swiss_Armed_Forces?utm_source=openai))  \n\n**Část výroku o „miličním způsobu, tak jako Švýcarsko“ je velmi dobře podložená.**\n\n### 5.2 Norsko\n\n- Norsko má **brannou povinnost** (základní vojenskou službu) pro muže i ženy a zároveň rozsáhlý **profesionální personál** – kombinace branců a profesionálů je reálná.([forsvaret.no](https://www.forsvaret.no/forstegangstjeneste/verneplikt?utm_source=openai))  \n\n- Pokud se výrok vztahuje na **celé norské ozbrojené síly**, číselně neodpovídá:  \n  – branci v první službě tvoří asi **jednu třetinu** aktivního personálu, profesionálové asi **dvě třetiny**; nikoli „téměř 50 na 50“.([forsvaret.no](https://www.forsvaret.no/om-forsvaret/forsvaret-i-tall/personell))  \n\n- Pokud ale máme na mysli **pozemní síly (Hæren)**, oficiální norské statistiky ukazují:  \n  – v roce 2023 Hæren: **4 067 profesionálů a 4 519 branců** – poměr přibližně 47 : 53, tedy velmi blízko „50 na 50“;([forsvaret.no](https://www.forsvaret.no/h%C3%A6ren))  \n  – v roce 2018 Hæren: **cca 3 900 zaměstnanců a 4 650 branců** – opět blízko 50/50.([forsvarsombudet.no](https://forsvarsombudet.no/befaringsrapport-befaring-til-haeren-bardufoss-29-august-2018/?utm_source=openai))  \n\n**Část výroku o „poměru téměř 50 na 50, jako třeba Norsko“ je:**\n\n- **přesvědčivě podložená**, pokud ji chápeme jako popis **pozemního vojska (Hæren)**,  \n- **nepřesná až zavádějící**, pokud ji vztáhneme na **celé norské ozbrojené síly** jako celek, kde jsou profesionálové početně výrazně nad branci.\n\nTento rozdíl v interpretaci (Hæren vs. celý Forsvaret) je klíčový pro posouzení přesnosti Pavlova výroku.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 76232,
+      "input_tokens_details": {
+        "cached_tokens": 4736
+      },
+      "output_tokens": 14947,
+      "output_tokens_details": {
+        "reasoning_tokens": 10201
+      },
+      "total_tokens": 91179
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1769597909,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

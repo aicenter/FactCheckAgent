@@ -1,0 +1,969 @@
+{
+  "claim_id": "24632",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24632.md",
+  "fact_check": "# Fact Check for Statement ID 24632\n\n## Statement\nJsme druhá nejvíce investující země v Evropské unii.\n\n---\n## AI Fact Check\n## 1. Shrnutí hodnocení\n\n- Standardní makroekonomické statistiky (Eurostat, IMF, World Bank) ukazují, že **Česko má v EU dlouhodobě nadprůměrný podíl investic na HDP (cca 27–28 % vs. průměr EU kolem 21–22 %)** – tedy patří „mezi nejvíce investující země“ Unie. ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n- **Nenašel jsem nezávislý zdroj, který by pro poslední roky potvrzoval, že je ČR přesně „druhá“ v EU.**  \n  - U dat za rok 2023/2024 podle Eurostatu (hrubá tvorba fixního kapitálu jako % HDP) i IMF (celková investice = hrubá tvorba kapitálu) vychází ČR spíše **na 1. místě** v EU. ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n  - U starších dat (2020) podle Eurostatu je ČR až **za Irskem, Estonskem a Maďarskem**, tedy mimo 2. místo. ([scribd.com](https://www.scribd.com/document/778941670/Agriculture-13-00616-v2?utm_source=openai))  \n- Tvrzení v obecné rovině („patříme mezi nejvíce investující země EU“) je dobře podložené. Konkrétní výrok **„jsme druhá nejvíce investující země v EU“ však dostupná čísla nepodporují** – pořadí vychází buď vyšší (1.), nebo nižší (≥3.), podle roku a přesné definice ukazatele.\n\n---\n\n## 2. Interpretace tvrzení\n\nTvrzení zní: **„Jsme druhá nejvíce investující země v Evropské unii.“**\n\nMožné interpretace:\n\n1. **Absolutní objem investic** (v mld. eur)  \n   – v takovém pořadí by nutně dominovaly velké ekonomiky (Německo, Francie, Itálie). Česko s mnohem menším HDP se mezi špičku dostat nemůže. Tuto interpretaci lze prakticky vyloučit.\n\n2. **Investice na obyvatele**  \n   – v přepočtu na hlavu by opět obvykle vedly bohatší státy (Lucembursko, Irsko, sever Evropy). Neexistují indicie, že by ČR měla 2. nejvyšší investice na obyvatele v EU.\n\n3. **Podíl investic na HDP (investiční míra)** – nejpravděpodobnější:\n   - V jiném projevu Petr Fiala explicitně mluví o **„celkovém poměru investic k HDP ve výši 27,3 %“ a tvrzení, že jsme „druzí nejlepší v celé EU“**, což ukazuje, že má na mysli právě **podíl investic na HDP** (hrubá tvorba kapitálu / HDP). ([pfiala.cz](https://pfiala.cz/aktualita/27268?utm_source=openai))  \n   - Ekonomické analýzy (Česká spořitelna, NRR) také běžně popisují Česko jako zemi s velmi vysokým **podílem investic na HDP** oproti EU průměru. ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/bankovnictvi-komentar-r-kalabisky-zivotni-uroven-v-cesku-je-stale-pod-evropskym-prumerem-ale-porad-vyssi-nez-v-celem-bloku-postkomunistickych-zemi/))  \n\nV dalším textu proto ověřuji tvrzení v tomto hlavním významu:  \n\n> **Pořadí zemí EU podle podílu investic (hrubá tvorba kapitálu / hrubá tvorba fixního kapitálu) na HDP.**\n\n---\n\n## 3. Jak moc Česko skutečně investuje (podíl na HDP)\n\n### 3.1 Eurostat – hrubá tvorba fixního kapitálu (GFCF) jako % HDP\n\n- Podle databáze Eurostatu (převzaté přes TradingEconomics) činila **hrubá tvorba fixního kapitálu v ČR 27,9 % HDP v roce 2023** a **26,5 % HDP v roce 2024**. ([tradingeconomics.com](https://tradingeconomics.com/czech-republic/gross-fixed-capital-formation-investments-eurostat-data.html?utm_source=openai))  \n- Pro **celou EU** (souhrnně) uvádí Eurostat podíl **21,2 % HDP v roce 2024** a rekordních **22,1 % v roce 2023**. ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n\n> ČR tedy v posledních letech investuje (v podobě GFCF) zhruba o 5–7 procentních bodů více než průměr EU.\n\n### 3.2 Světová banka / CEIC – GFCF jako % HDP\n\n- Databáze CEIC, založená na datech Světové banky, uvádí **podíl GFCF v ČR 27,941 % HDP v roce 2023** a **26,488 % v roce 2024**. ([ceicdata.com](https://www.ceicdata.com/en/czech-republic/gross-domestic-product-share-of-gdp/cz-gdp--of-gdp-gross-fixed-capital-formation?utm_source=openai))  \n\nČísla jsou prakticky shodná s eurostatovskými a potvrzují, že investiční míra ČR je velmi vysoká.\n\n### 3.3 IMF – celková investice (gross capital formation) jako % HDP\n\nIMF definuje „total investment“ jako **hrubou tvorbu kapitálu** (hrubá tvorba fixního kapitálu + změna zásob a cenností) dělenou HDP. Statistika Statbase (IMF data) uvádí pro ČR: ([statbase.org](https://statbase.org/data/cze-total-investment/?utm_source=openai))  \n\n- **2023:** 28,02 % HDP  \n- **2024:** 26,21 % HDP  \n\nTyto hodnoty jsou konzistentní s předchozími zdroji a vysvětlují, odkud může pocházet Fialou uváděná hodnota **„27,3 %“** – jde zjevně o stejný řád velikosti.\n\n### 3.4 Česká a další analytická hodnocení\n\n- Národní rozpočtová rada shrnuje, že **„celkové investice (HTFK) přesahují 25 procent HDP, přičemž evropský průměr je kolem 20 procent HDP“** a že ČR „patří k zemím, které mají nejvyšší podíl investic, jak vládních, tak soukromých, na HDP z celé Evropy“. ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/bankovnictvi-komentar-r-kalabisky-zivotni-uroven-v-cesku-je-stale-pod-evropskym-prumerem-ale-porad-vyssi-nez-v-celem-bloku-postkomunistickych-zemi/))  \n- Analýza České spořitelny / Evropy v datech uvádí, že **„Česko patří mezi nejvíce investující země Evropské unie“** a že podíl investic na HDP je dlouhodobě nadprůměrný. ([inregion.cz](https://inregion.cz/2026/02/25/ceska-ekonomika-je-osmou-nejvyspelejsi-v-eu-sila-prumyslu-narazi-na-slabinu-pridane-hodnoty/))  \n- Studie Erste (FXStreet) o zemích střední a východní Evropy uvádí, že **Czechia a Romania mají nejvyšší podíl investic k HDP v regionu CEE, zhruba 27 %, zatímco průměr EU je 22 %**. ([fxstreet.com](https://www.fxstreet.com/analysis/czechia-romania-and-hungary-with-high-investment-ratios-202505260556?utm_source=openai))  \n\n**Závěr k objemu investic:**  \nVšechny hlavní mezinárodní zdroje (Eurostat, IMF, World Bank) i české instituce se shodují, že **Česko je v rámci EU výrazně nadprůměrně investující ekonomika** – podíl investic na HDP kolem 27–28 % je jeden z nejvyšších v Unii.\n\n---\n\n## 4. Srovnání s ostatními státy EU – jaké je skutečné pořadí?\n\n### 4.1 Eurostat (přes TradingEconomics) – GFCF % HDP, rok 2024\n\nZ tabulky „Gross Fixed Capital Formation (investments) – % of GDP“ pro členské státy EU (zdroj: Eurostat, přes TradingEconomics) vyplývá pro rok 2024 toto **pořadí podle poslední hodnoty („Last“) mezi zeměmi EU**: ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n\n**Top hodnoty GFCF (% HDP, 2024):**\n\n| Země | GFCF (% HDP, 2024) |\n|------|--------------------|\n| **Česko** | **26,50** |\n| Rumunsko | 25,30 |\n| Chorvatsko | 25,20 |\n| Švédsko | 25,10 |\n| Estonsko | 23,90 |\n| Rakousko | 23,50 |\n| Dánsko | 23,30 |\n| Maďarsko | 23,10 |\n| ... | ... |\n| Belgie | 24,20 (na jejím profilu; v porovnávací tabulce je neuvedena, ale vlastní stránka potvrzuje ~24 %) ([tradingeconomics.com](https://tradingeconomics.com/belgium/gross-fixed-capital-formation-investments-eurostat-data.html))  \n| Lucembursko | 15,40 ([tradingeconomics.com](https://tradingeconomics.com/luxembourg/gross-fixed-capital-formation-investments-eurostat-data.html))  \n\nZ těchto dat plyne:\n\n- **Česko má v roce 2024 nejvyšší podíl GFCF na HDP v celé EU (26,5 %), nikoli druhý nejvyšší.**\n- Druhé je Rumunsko (25,3 %), třetí Chorvatsko (25,2 %) a čtvrté Švédsko (25,1 %).\n\nPokud tedy Fiala mířil na data za rok 2024 podle Eurostatu, jeho výrok o **„druhém místě“ je v rozporu s tím, že podle těchto dat je ČR spíše **první**.\n\n### 4.2 IMF – total investment (gross capital formation) % HDP, rok 2023\n\nPro ověření použijeme i širší ukazatel IMF „total investment“ (hrubá tvorba kapitálu). Z IMF dat (přes Statbase) za rok **2023** máme pro některé klíčové „vysoce investující“ země EU:  \n\n- **Česko:** 28,02 % HDP ([statbase.org](https://statbase.org/data/cze-total-investment/?utm_source=openai))  \n- **Estonsko:** 27,69 % HDP ([statbase.org](https://statbase.org/data/est-total-investment/))  \n- **Irsko:** 26,33 % HDP ([statbase.org](https://statbase.org/data/irl-total-investment/))  \n- **Rumunsko:** 25,77 % HDP ([statbase.org](https://statbase.org/data/rou-total-investment/?utm_source=openai))  \n- **Maďarsko:** 25,76 % HDP ([statbase.org](https://statbase.org/data/hun-total-investment/))  \n\nTyto země patří dlouhodobě k nejvíce investujícím v EU. Z uvedených hodnot:\n\n- **Česko má nejvyšší podíl celkových investic na HDP (28,02 %) z této skupiny zemí, které jsou v EU „nahoře“.**  \n- U žádné další členské země jsme v dostupných IMF datech nenašli pro rok 2023 podíl vyšší než 28 % HDP – naopak řada velkých ekonomik (Německo, Francie, Itálie) má investiční míru znatelně nižší (okolo 20–23 %). ([fdiintelligence.com](https://www.fdiintelligence.com/content/998ad33f-7ff7-5a42-84d7-91dd010cdf27?utm_source=openai))  \n\nV rámci **rozumné interpretace IMF dat pro rok 2023 tedy Česko opět nevychází jako „druhé“, ale spíše jako **první** v EU podle podílu investic na HDP**.\n\n### 4.3 Eurostat data za rok 2020 – příklad, kdy ČR rozhodně není druhá\n\nStudie v časopise *Agriculture* (2023) pracuje s eurostatovskými daty „Gross fixed capital formation as a share of GDP“ pro **rok 2020**. Tabulka uvádí například: ([scribd.com](https://www.scribd.com/document/778941670/Agriculture-13-00616-v2?utm_source=openai))  \n\n- **Czechia:** 26,5 % HDP  \n- **Estonia:** 30,7 % HDP  \n- **Hungary:** 26,6 % HDP  \n- **Ireland:** 42,4 % HDP  \n- **EU‑27 průměr:** 22,1 % HDP  \n\nZ těchto čísel je zřejmé:\n\n- Irsko (42,4 %), Estonsko (30,7 %) i Maďarsko (26,6 %) mají **vyšší** podíl investic na HDP než ČR (26,5 %).  \n- **Česko tedy v roce 2020 není druhou nejvíce investující zemí EU, ale nejméně čtvrtou.**\n\nTo ukazuje, že v různých letech se pořadí opravdu mění – ale **ani zde nevychází Česko na 2. místě**.\n\n---\n\n## 5. Diskuse možných jiných výkladů\n\n### 5.1 Jiná definice „investic“\n\nTeoreticky by Fiala mohl mít na mysli některou z těchto variant:\n\n- **Investice pouze vládního sektoru** (veřejné investice jako % HDP).  \n  - ČNB a NRR potvrzují, že **podíl vládních investic na HDP je v ČR vysoký – zhruba dvakrát vyšší než v Německu** a že investice obcí a krajů tvoří vysoký podíl na veřejných investicích. ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/bankovnictvi-komentar-r-kalabisky-zivotni-uroven-v-cesku-je-stale-pod-evropskym-prumerem-ale-porad-vyssi-nez-v-celem-bloku-postkomunistickych-zemi/))  \n  - Studie NRR ale uvádí, že **investice územní samosprávy** (obce + kraje) staví ČR **na 7. místo v EU**, nikoli na druhé. ([informaceoobcich.cz](https://www.informaceoobcich.cz/spori-obce-hodne-nebo-primerene/?utm_source=openai))  \n\n- **Investice jen soukromého sektoru / nefinančních podniků** – tato data se veřejně méně často publikují v mezinárodním srovnání; nenašli jsme pro ně ale žádný zdroj, který by potvrzoval **2. místo ČR v EU.**\n\nŽádný běžně používaný a dohledatelný ukazatel (veřejné investice, investice územní samosprávy apod.) tedy **nevede k pořadí „ČR = 2. místo v EU“**.\n\n### 5.2 Možné „úpravy“ pořadí\n\nJe teoreticky možné, že:\n\n- někdo **vyřadil Irsko** kvůli známým statistickým zkreslením (extrémně vysoká, daněmi a korporátní optimalizací nafouknutá investiční čísla),  \n- nebo pracoval jen s určitým podvzorkem zemí (např. jen kontinentální EU, jen CEE, jen země s určitým počtem obyvatel).\n\nTaková omezení však **nejsou v citovaném tvrzení zmíněna** – Fiala mluví obecně o „Evropské unii“ – a ani při omezení na region CEE neplatí „2. místo“, protože dostupné analýzy mluví o tom, že **Česko a Rumunsko mají v regionu CEE nejvyšší investiční míru, tj. Česko je tam společně na 1. místě, ne na druhém.** ([fxstreet.com](https://www.fxstreet.com/analysis/czechia-romania-and-hungary-with-high-investment-ratios-202505260556?utm_source=openai))  \n\n---\n\n## 6. Závěr k tvrzení „Jsme druhá nejvíce investující země v Evropské unii“\n\n### 6.1 Co je podloženo\n\n- **Velmi vysoký podíl investic na HDP v ČR je dobře doložen:**\n  - GFCF i celková investice se podle Eurostatu, IMF i Světové banky pohybuje kolem **27–28 % HDP**, oproti průměru EU kolem **21–22 %**. ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n  - Česko tedy **patří mezi nejvíce investující země EU**; tento obecný nárok je fakticky správný.\n\n### 6.2 Co podloženo není / je v rozporu s daty\n\n- **Konkrétní pořadí „druhá nejvíce investující“ však dostupná data nepotvrzují:**\n  - Pro rok **2024** podle Eurostatu (GFCF / HDP) má ČR **nejvyšší** podíl v EU (26,5 %), před Rumunskem, Chorvatskem a Švédskem. ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n  - Pro rok **2023** podle IMF (total investment / HDP) má ČR **opět nejvyšší podíl** mezi hlavními „vysokoinvestujícími“ zeměmi (Estonsko, Irsko, Rumunsko, Maďarsko), se 28,0 % HDP. ([statbase.org](https://statbase.org/data/cze-total-investment/?utm_source=openai))  \n  - Pro rok **2020** podle Eurostatu naopak ČR zaostává za Irskem, Estonskem a Maďarskem, a je tedy nejméně **čtvrtá**, nikoli druhá. ([scribd.com](https://www.scribd.com/document/778941670/Agriculture-13-00616-v2?utm_source=openai))  \n  - U specifických veřejných či municipálních investic (např. investice obcí a krajů) NRR uvádí, že ČR je **na 7. místě v EU**. ([informaceoobcich.cz](https://www.informaceoobcich.cz/spori-obce-hodne-nebo-primerene/?utm_source=openai))  \n\n### 6.3 Celkové hodnocení\n\n- **Pravdivé je, že Česko patří k vůbec nejvíce investujícím ekonomikám EU podle podílu investic na HDP.**  \n- **Neověřené a v řadě případů proti evidenci je ale tvrzení, že je Česko „druhá nejvíce investující země v EU“.**  \n  - Standardní, dohledatelná data (Eurostat, IMF, World Bank) ukazují, že v posledních letech je ČR buď **na 1. místě**, nebo **až za několika zeměmi** (v závislosti na roce), nikoli stabilně **na 2. místě**.  \n\nPro účely fact‑checkingu lze tedy shrnout, že:\n\n> **Část tvrzení o vysoké investiční aktivitě ČR je fakticky dobře podložena, avšak přesný údaj o „druhém místě v EU“ nelze z dostupných oficiálních statistik potvrdit a spíše neodpovídá realitě.**\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Petr Fiala, Poslanec\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:03:09\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nTo jsou nesrovnatelné věci. Jedna, v jedné chvíli jsme byli po pandemii, teď jsme byli samozřejmě asi, já nevím, po energetické krizi atd., ale v každém případě já tvrdím, že ten motor té ekonomiky je privátní sektor. Zeptejme se podnikatelů, jak se jim zaměstnávalo, zeptejme se, jak se vypořádávali s vysokými cenami energií, proč se snížily investice právě v privátním sektoru, a to jsou důsledky toho, co vláda Petra Fialy zde čtyři roky činila. Já neříkám, že všechno, co dělali, byla jejich vina. To zase není možné takhle to říct, že jsme byli v komplikovaném období, byli jsme v době energetické krize, ale opatření, které dělala tato vláda a která mohla dělat, tak to bylo to, co bylo terčem naší kritiky.\\n00:03:50\\nTerezie Tománková,moderátorka\\nDěkuju. A slibuju, že se k inflaci a energiím vrátíme k těm detailům. Pane poslanče Fialo, bylo to opravdu všechno tak růžové, v jakém stavu je ekonomika Česka a celé Česko?\\n00:04:00\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nJá jsem nikdy neříkal, že to je celé růžové, ale říkal jsem, že jdeme správným směrem a že se ekonomice daří, což je pravda a dokládají to čísla. Pan Havlíček se k tomu nemůže vracet, protože by se ukázalo, že to, co říkali před volbami, byla lež, že lhali lidem. A na základě lží o tom, jak je na tom naše ekonomika, jak je naše země spálená, tak vlastně vyhráli volby, a to já nezpochybňuju, že vyhráli volby a nechci se k tomu vracet. Ale když se podíváme na čísla, osmá nejzdravější ekonomika v Evropské unii, jedna z nejnižších inflací, máme teď už dokonce i Alena Schillerová nebo, nebo sám pan Babiš, nevím kdo, říkají, že ta země není tolik zadlužená, předtím říkali, že jsme katastrofálně zadlužení. Deficit veřejných financí z 5 %, když jsme ho přebírali po Babišově vládě, pod 2 % HDP, což je prokazatelný úspěch konsolidační politiky naší vlády. A pokud jde o ty investice, vždyť jsme druhá nejvíce investující země v Evropské unii, a to je samozřejmě dáno vládními investicemi, ale je to dáno investicemi soukromého sektoru. Zaměstnávání zaměstnanců nebo zaměstnávání lidí, vždyť máme jednu z nejnižších nezaměstnaností v EU. Tak já myslím, že pan Havlíček nemůže na základě čísel líčit výsledky naší vlády jako špatné. Té zemi se daří, daří se ekonomicky a mám z toho radost.\\n00:05:21\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Jsme druhá nejvíce investující země v Evropské unii.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 565.67 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Data Eurostatu a IMF potvrzují, že Česko dlouhodobě patří mezi investiční špičku EU. Oficiální statistiky však neukazují, že bychom byli „druhým nejvíce investujícím“ státem Unie – podle roku a ukazatele jsme buď první, nebo až čtvrtí a níž.</p>\n\n<p>Výrok „Jsme druhá nejvíce investující země v Evropské unii“ pochází z projevu premiéra Petra Fialy na sněmu Hospodářské komory. V tomto projevu premiér tvrdí, že Česko je podle mezinárodních srovnání <i>„druhou nejvíce investující ekonomikou v Evropské unii“</i> a zároveň uvádí, že při <i>„celkovém poměru investic k HDP ve výši 27,3 % jsme druzí nejlepší v celé EU“</i>.<a href=\"https://pfiala.cz/aktualita/27268/\">Záznam projevu na webu Petra Fialy</a> tato tvrzení zachycuje v části, kde premiér bilancuje ekonomické výsledky vlády.</p>\n\n<p>Tvrzení obsahuje dvě samostatně ověřitelná fakta: zaprvé, že Česká republika patří v poměru investic k HDP k nejvíce investujícím ekonomikám EU, zadruhé, že v tomto žebříčku zaujímá právě druhé místo. Každou z těchto částí proto posuzujeme zvlášť.</p>\n\n<p>Premiér explicitně mluví o „celkovém poměru investic k HDP“. V makroekonomické statistice se v takových souvislostech nejčastěji používá buď hrubá tvorba fixního kapitálu (GFCF), nebo širší ukazatel „celkové investice“ (hrubá tvorba kapitálu) jako podíl na HDP. Oba vycházejí z metodiky národních účtů; definici GFCF jako investic do budov, strojů a dalšího dlouhodobého majetku shrnuje například odborný článek v časopise <i>Agriculture</i>, který cituje eurostatovskou metodiku.<a href=\"https://www.scribd.com/document/778941670/Agriculture-13-00616-v2\">Článek „Analysis of the Determinants of Agriculture Performance at the European Union Level“</a> (str. 9) vysvětluje, že GFCF zahrnuje investice do fixních aktiv používáných déle než jeden rok.</p>\n\n<p>Eurostatová data pro rok 2020 ukazují, že hrubá tvorba fixního kapitálu v celé ekonomice tvořila v průměru EU‑27 22,1 % HDP, zatímco v Česku 26,5 % HDP.<a href=\"https://www.scribd.com/document/778941670/Agriculture-13-00616-v2\">Tabulka 3 v uvedeném článku v časopise Agriculture</a> (str. 9) uvádí pro Českou republiku hodnotu 26,5 % HDP, pro EU‑27 pak 22,1 %, a řadí tak Česko výrazně nad unijní průměr.</p>\n\n<p>Novější statistiky Eurostatu, přístupné například přes databázi <a href=\"https://tradingeconomics.com/czech-republic/gross-fixed-capital-formation-investments-eurostat-data.html\">Trading Economics pro Českou republiku</a>, ukazují, že podíl hrubé tvorby fixního kapitálu na HDP dosáhl v Česku v roce 2023 rekordních 27,9 % a v roce 2024 26,5 % HDP. Přehled téhož ukazatele pro celý blok <a href=\"https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html\">European Union – Gross fixed capital formation</a> uvádí pro EU‑27 jako celek 22,1 % HDP v roce 2023 a 21,2 % v roce 2024. Česká ekonomika tak v posledních letech investuje v podobě GFCF zhruba o 5–6 procentních bodů více než činí průměr Unie.</p>\n\n<p>Širší ukazatel „celkové investice“ (hrubá tvorba kapitálu) vyznívá podobně. Podle dat IMF, která zpřístupňuje databáze <a href=\"https://statbase.org/data/cze-total-investment/\">Statbase pro Českou republiku</a>, tvořily v Česku celkové investice v roce 2023 přibližně 28,0 % HDP a v roce 2024 asi 26,2 % HDP. Národní rozpočtová rada ve svém komentáři k vývoji české ekonomiky uvádí, že <i>„celkové investice (HTFK) přesahují 25 procent HDP, přičemž evropský průměr je kolem 20 procent HDP“</i> a že Česko patří k zemím s nejvyšším podílem investic – vládních i soukromých – na HDP v celé Evropě.<a href=\"https://www.rozpoctovarada.cz/bankovnictvi-komentar-r-kalabisky-zivotni-uroven-v-cesku-je-stale-pod-evropskym-prumerem-ale-porad-vyssi-nez-v-celem-bloku-postkomunistickych-zemi/\">Komentář Národní rozpočtové rady</a> tak výslovně potvrzuje, že česká investiční míra je oproti Evropě velmi vysoká.</p>\n\n<p>Stejný závěr přinášejí i další analytické zdroje. Analýza České spořitelny a projektu Evropa v datech konstatuje, že paradoxem české ekonomiky je skutečnost, že Česko <i>„patří mezi nejvíce investující země Evropské unie“</i>, přičemž podíl investic na HDP je dlouhodobě nadprůměrný.<a href=\"https://www.centrum.cz/ceska-ekonomika-je-osmou-nejvyspelejsi-v-eu-sila-prumyslu-narazi-na-slabinu-pridane-hodnoty-ba2e474e-afce-501c-95d7-56570d88a1dd\">Článek Inregion.cz o české ekonomice</a> zároveň upozorňuje, že slabinou není objem investic, ale jejich struktura (převažují investice do strojů před investicemi do nehmotných aktiv). Regionální analýza Erste Bank pak pro země střední a východní Evropy shrnuje, že česká a rumunská ekonomika mají nejvyšší investiční míru v regionu: <i>„Czechia a Romania [mají] nejvyšší podíl investic na HDP kolem 27 %, zatímco průměr EU činí 22 %“</i>.<a href=\"https://www.fxstreet.com/analysis/czechia-romania-and-hungary-with-high-investment-ratios-202505260556\">Studie Erste Bank na portálu FXStreet</a> tak potvrzuje, že Česko je i v rámci CEE na samotném vrcholu.</p>\n\n<p>Z hlediska samotného objemu investic v poměru k HDP je tedy první část výroku – že Česko patří mezi nejvíce investující země Evropské unie – dobře doložená. Tuto část výroku proto hodnotíme jako fakticky pravdivou.</p>\n\n<p>Jiná je situace u konkrétního pořadí „druhá nejvíce investující země“. Pokud vyjdeme z nejaktuálnějších údajů Eurostatu o hrubé tvorbě fixního kapitálu za rok 2024, přehled podle jednotlivých zemí EU, který nabízí <a href=\"https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html\">Trading Economics pro EU‑27</a>, ukazuje, že Česká republika má s hodnotou 26,5 % HDP nejvyšší investiční míru v celé Unii. Za ní následuje Rumunsko (25,3 % HDP), Švédsko (25,1 % HDP) a další státy s ještě nižšími podíly. V tomto srovnání tedy Česko nevystupuje jako „druhé“, ale jako první nejvíce investující země EU.</p>\n\n<p>Při pohledu do minulosti vychází pořadí jinak, ale opět neodpovídá druhému místu. V již citované tabulce Eurostatu za rok 2020 (celková GFCF jako podíl na HDP) měla hrubá tvorba fixního kapitálu v Irsku 42,4 % HDP, v Estonsku 30,7 % a v Maďarsku 26,6 %, zatímco v Česku 26,5 % HDP.<a href=\"https://www.scribd.com/document/778941670/Agriculture-13-00616-v2\">Tabulka 3 v článku v časopise Agriculture</a> (str. 9) tedy staví Českou republiku nejméně na čtvrté místo v rámci EU, nikoli na druhé.</p>\n\n<p>Pro posouzení výroku může být zajímavé i regionální srovnání. Už zmíněná analýza Erste Bank ukazuje, že v zemích střední a východní Evropy mají <i>„Czechia a Romania nejvyšší podíl investic na HDP kolem 27 %, zatímco průměr EU činí 22 %“</i>.<a href=\"https://www.fxstreet.com/analysis/czechia-romania-and-hungary-with-high-investment-ratios-202505260556\">Tento text</a> tak opět ukazuje Česko spíše jako (spolu)prvního lídra regionu, nikoli jako druhé v pořadí.</p>\n\n<p>Výrok by teoreticky mohl odkazovat jen na veřejné investice územní samosprávy (obce a kraje), ale ani v tomto užším vymezení data nepotvrzují druhé místo. Analýza společnosti CRIF založená na údajích Eurostatu uvádí, že v letech 2013–2024 činil průměrný podíl investic územní samosprávy na HDP v zemích EU asi 1,4 %, zatímco v Česku 2,0 % HDP; přesto česká územní samospráva podle této studie <i>„obsadila sedmou příčku“</i> mezi státy Unie.<a href=\"https://www.informaceoobcich.cz/spori-obce-hodne-nebo-primerene/\">Článek „Spoří obce hodně, nebo přiměřeně?“ na webu Informace o obcích</a> tak dokládá, že i v této specifické kategorii se Česko umísťuje vysoko, ale nikoli na druhém místě.</p>\n\n<p>Pro žádnou z běžně používaných definic investic – ať už jde o celkové investice, hrubou tvorbu fixního kapitálu, nebo jen veřejné investice územní samosprávy – jsme v dostupných statistických přehledech nenašli potvrzení, že by Česká republika systematicky zaujímala právě druhé místo v rámci EU. Podle aktuálních dat GFCF na HDP je Česko na prvním místě, podle starších dat pro rok 2020 až za Irskem, Estonskem a Maďarskem, a u investic obcí a krajů na sedmém místě. Tvrzení o „druhém místě v EU“ tedy neodpovídá standardním oficiálním statistikám.</p>\n\n<p>Lze připustit, že výrok mohl vycházet z nějakého neuvedeného přepočtu či omezení dat (například z vyloučení statisticky atypických zemí, jako je Irsko, nebo z omezení jen na určitou skupinu států). Takto upravenou metodiku se nám však z veřejných zdrojů nepodařilo dohledat a v samotném projevu premiér žádné obdobné omezení nezmiňuje. Bez explicitního vysvětlení proto nelze údaj o „druhém místě“ považovat za fakticky podložený.</p>\n\n<p><strong>Závěrečné hodnocení</strong>: Dostupná data Eurostatu, IMF i českých analytických institucí jednoznačně potvrzují, že Česko patří k vůbec nejvíce investujícím ekonomikám Evropské unie, pokud měříme investice jako podíl na HDP. Konkrétní část výroku, podle níž jsme „druhou nejvíce investující zemí v EU“, ale s těmito daty nekoresponduje – podle některých ukazatelů jsme na prvním místě, podle jiných až za několika státy. Jako celek proto výrok hodnotíme jako <strong>zavádějící</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0ddb05e58a32faa10069a6b4c0197c819f9403e3fe041df082",
+    "created_at": 1772532928.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b4c9b700819fa2f9bb7164940e75",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b4d375d0819f8cf67c514a964536",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b4d40bec819f85270706c38eca70",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b4d45904819f8601fa5e21651faa",
+        "action": {
+          "query": "\"druhá nejvíce investující\" země v Evropské unii",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"druhá nejvíce investující\" země v Evropské unii",
+            "Czechia second highest investment rate EU gross fixed capital formation share of GDP",
+            "Eurostat investment rate of the total economy Czechia EU \"share of gross fixed capital formation in GDP\"",
+            "site:ec.europa.eu \"Gross fixed capital formation\" \"Czechia\" \"% of GDP\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b4d762f0819f87375ffc224e1b3d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b4d87728819f98515ec2fa4e0b07",
+        "action": {
+          "query": "Eurostat \"gross fixed capital formation\" \"% of GDP\" \"nama_10_gdp\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Eurostat \"gross fixed capital formation\" \"% of GDP\" \"nama_10_gdp\"",
+            "\"Gross fixed capital formation\" \"% of GDP\" \"EU27\"",
+            "Eurostat \"investment rate of the total economy\" \"nama_10_nfa_tr\"",
+            "\"Investment rate of the total economy\" Czechia Eurostat"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b4da9814819fafd7e928f84bb31c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b4dd1000819fa0e3b67ac2d057d3",
+        "action": {
+          "query": "\"Investment rate of the total economy\" eurostat \"teiis020\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Investment rate of the total economy\" eurostat \"teiis020\"",
+            "\"Gross fixed capital formation\" \"% of GDP\" eurostat t2020_20",
+            "\"gross fixed capital formation\" \"per cent of GDP\" \"eurostat\"",
+            "\"GFCF\" \"% of GDP\" \"eurostat\" \"Czechia\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b4dfc6cc819fa9a1b12948c61afa",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b4e23840819fa65f82d6a6805024",
+        "action": {
+          "query": "\"Gross fixed capital formation (investments)\" \"country\" \"Last\" \"% of GDP\" Eurostat",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Gross fixed capital formation (investments)\" \"country\" \"Last\" \"% of GDP\" Eurostat",
+            "\"Gross Fixed Capital Formation\" \"investments\" \"Country\" \"% of GDP\"",
+            "\"Gross fixed capital formation\" \"% of GDP\" \"Czech Republic\" \"Romania\" \"Sweden\"",
+            "\"Gross fixed capital formation\" \"% of GDP\" \"Czechia\" \"EU average\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b4e5b0dc819face8e88932338b93",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b4e70bf0819f943b1c230cab4aaf",
+        "action": {
+          "query": "\"druhá nejvíce investující země\" Česko",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"druhá nejvíce investující země\" Česko",
+            "\"druhá nejvíce investující\" \"Ceská republika\" investice",
+            "\"jsme druhá nejvíce investující země\"",
+            "\"druhou nejvice investujici zemi\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b4ea4908819f94191a87c060b43c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b4eb4048819fbc98d494930a40c5",
+        "action": {
+          "query": "\"Gross fixed capital formation\" \"% of GDP\" \"2023\" \"Czechia\" \"21.9\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Gross fixed capital formation\" \"% of GDP\" \"2023\" \"Czechia\" \"21.9\"",
+            "\"Gross fixed capital formation\" \"% of GDP\" \"Czech\" \"Eurostat data\"",
+            "\"investments (percentage of GDP)\" Eurostat \"Czech Republic\"",
+            "\"Gross fixed capital formation (investments)\" \"EU\" \"Country\" table"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b4ef486c819fa06512badaa6016f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b4ff8cdc819fa30f3daf6c1d41f2",
+        "action": {
+          "query": "\"Czechia\" \"investment rate\" \"second highest\" \"EU\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Czechia\" \"investment rate\" \"second highest\" \"EU\"",
+            "\"Czech Republic\" \"second highest\" \"investment\" \"EU\"",
+            "\"investment rate of the total economy\" \"highest\" \"Czechia\"",
+            "\"Czechia\" \"Romania\" \"highest investment\" \"EU\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b50462c4819f88456a1070febb20",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5087a74819f8cd71a9ae91c80e1",
+        "action": {
+          "query": "\"nama_10_gdp\" \"Gross fixed capital formation\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nama_10_gdp\" \"Gross fixed capital formation\"",
+            "\"Gross fixed capital formation\" \"pcode\" \"t2020\" eurostat",
+            "\"gfcf\" \"ec.europa.eu/eurostat\" \"GDP\"",
+            "\"Gross fixed capital formation\" \"GFCF\" \"Czechia\" \"Eurostat\" \"nama\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b50c5a78819f821f0c6840f8b449",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b50f0998819f857339e624b4e5cd",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b5106cc4819f94f37bdad1c004bd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5119b28819f865207b44679335e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b512b6dc819f80bf02aa9bd22bbc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5180aec819f897235d6f9480a4b",
+        "action": {
+          "query": "\"hrubá tvorba fixního kapitálu\" \"podíl na HDP\" \"EU\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"hrubá tvorba fixního kapitálu\" \"podíl na HDP\" \"EU\"",
+            "\"hrubá tvorba fixního kapitálu\" \"CŞSÚ\"",
+            "\"investiční aktivita\" \"Ceská ekonomika\" \"EU\" \"26,5 % HDP\"",
+            "\"podíl investic\" \"HDP\" \"Ceská republika\" \"EU\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b51eb654819f87088e67078858e0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b52404d8819f86010c373083bc7d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b525ce0c819f9bf48aa34aaf09b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b52bc608819fb3c7e5dc78f02ece",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b52fa07c819faac24fac74606df4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5381ea0819f9928dde5126bb855",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b53a3980819f9266b9375c6bb94d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b53f16ec819fa14288bf0ec40cb2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b544246c819f9e19221781ae955e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b548c9d8819fa617ce8d1c9e4337",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b54cbd28819fb9792763128514fd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5584538819fa3e054075e81a34b",
+        "action": {
+          "query": "\"nejvíce investující země\" \"Evropské unie\" \"Česko\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nejvíce investující země\" \"Evropské unie\" \"Česko\"",
+            "\"druhou nejvíce investující zemí\" \"EU\"",
+            "\"druhý nejvyšší\" \"podíl investic\" \"HDP\" \"EU\" \"Ďsko\"",
+            "\"tvorby fixního kapitálu\" \"druhý nejvyšší\" \"EU\" \"Česko\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b55bfe58819faa3a5d82a56b1660",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b55c5bfc819f8db44bfd6734bfa9",
+        "action": {
+          "query": "\"druhou nejvíce investující zemí\" \"EU\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"druhou nejvíce investující zemí\" \"EU\"",
+            "\"druhá nejvíce investující\" \"EU\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b5617fc8819f930c392878e7eac5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b56db918819f9b21e347b0494650",
+        "action": {
+          "query": "\"s poměrem investic k HDP\" \"27,3\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"s poměrem investic k HDP\" \"27,3\"",
+            "\"27,3 %\" \"poměr investic\"",
+            "\"poměr investic k HDP\" \"druzí\" \"EU\"",
+            "\"druhá nejvíce investující ekonomika\" \"Evropské unie\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b5753c58819fb2ce26d92ecf6161",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b588281c819f8f647531b785e229",
+        "action": {
+          "query": "\"gross capital formation\" \"% of GDP\" \"Czech Republic\" 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"gross capital formation\" \"% of GDP\" \"Czech Republic\" 2023",
+            "\"Total investment\" \"% of GDP\" \"Czech Republic\" 2023 28",
+            "\"Czech\" \"investment rate\" \"27,3 %\" \"HDP\"",
+            "\"Total investment\" \"Europe\" \"% of GDP\" 2023"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b58e0cb0819f864b59a205ee5c45",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b59a4eec819f936a2440254f1256",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b59bf334819fbd72721b7dfae217",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5aebe7c819f994c81bf7a4154a3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b5b02670819f9ea5c3eafb236839",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5b8ac60819f81040d658c8a3966",
+        "action": {
+          "query": "\"Total investment | Romania – yearly data, chart and table\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Total investment | Romania – yearly data, chart and table\"",
+            "\"Total investment | Hungary\" \"yearly data, chart and table\"",
+            "\"Total investment | Estonia – yearly\" \"IMF\"",
+            "\"Total investment | Sweden\" \"yearly data, chart and table\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b5c67d2c819f99df44b2a12ea05e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5ca3760819f9d881fdb03a6644b",
+        "action": {
+          "query": "\"Total investment | Hungary – yearly data, chart and table\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Total investment | Hungary – yearly data, chart and table\"",
+            "\"Total investment | Estonia – yearly data, chart and table\"",
+            "\"Total investment | Sweden – yearly data, chart and table\"",
+            "\"Total investment | Ireland\" \"yearly data\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b5d58a64819f8dbb73d898b1b8b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5d6035c819fa52ae6f17e964be4",
+        "action": {
+          "query": "\"Total investment | Hungary – yearly data, chart and table\" site:statbase.org",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Total investment | Hungary – yearly data, chart and table\" site:statbase.org",
+            "\"Total investment | Sweden\" \"yearly data, chart and table\"",
+            "\"Total investment | Estonia\" \"yearly data, chart and table\"",
+            "\"Total investment | Ireland\" \"yearly data, chart and table\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b5db5870819faa86993c2e297b31",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5dc6f34819f876481c6eb536e9e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b5e9672c819f94edccb73afc990e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5ef554c819f9441a7b475676db3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b5f3be34819f984c92797938ed2b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b5f49ba4819fb7d487e4fd76a0da",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b5f69870819fa9555e5d6365130b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b6043d3c819fb5e131429f798de3",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "2022"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b606a1dc819f836b1ffbaff9b1eb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0ddb05e58a32faa10069a6b6143b54819fbe715bb32ff8b6ff",
+        "action": {
+          "query": "\"poměrem investic k HDP\" \"27,3 %\" \"Evropské unie\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"poměrem investic k HDP\" \"27,3 %\" \"Evropské unie\"",
+            "\"druhá nejvíce investující ekonomika\" \"Evropské unie\"",
+            "\"druzí nejlepší v celé EU\" \"investic\"",
+            "\"poměrem investic k HDP\" \"druzí\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ddb05e58a32faa10069a6b6244864819f9bc5784cdcce06d9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0ddb05e58a32faa10069a6b69854d8819f8a2e932aa38acc20",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 391,
+                "start_index": 261,
+                "title": "\n\tEuropean Union - Gross fixed capital formation (investments) - 2026 Data  2027 Forecast 2010-2024 Historical\n",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html"
+              },
+              {
+                "end_index": 806,
+                "start_index": 676,
+                "title": "\n\tEuropean Union - Gross fixed capital formation (investments) - 2026 Data  2027 Forecast 2010-2024 Historical\n",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html"
+              },
+              {
+                "end_index": 1017,
+                "start_index": 918,
+                "title": "Agriculture 13 00616 v2 | PDF",
+                "type": "url_citation",
+                "url": "https://www.scribd.com/document/778941670/Agriculture-13-00616-v2?utm_source=openai"
+              },
+              {
+                "end_index": 2239,
+                "start_index": 2173,
+                "title": "Projev premiéra Petra Fialy na 37. sněmu Hospodářské komory / aktuality / Petr Fiala",
+                "type": "url_citation",
+                "url": "https://pfiala.cz/aktualita/27268?utm_source=openai"
+              },
+              {
+                "end_index": 2589,
+                "start_index": 2389,
+                "title": "Bankovnictví: komentář R. Kalabišky: Životní úroveň v Česku je stále pod evropským průměrem, ale pořád vyšší než v celém bloku postkomunistických zemí | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/bankovnictvi-komentar-r-kalabisky-zivotni-uroven-v-cesku-je-stale-pod-evropskym-prumerem-ale-porad-vyssi-nez-v-celem-bloku-postkomunistickych-zemi/"
+              },
+              {
+                "end_index": 3201,
+                "start_index": 3053,
+                "title": "Czech Republic - Gross fixed capital formation (investments) - 2026 Data 2027 Forecast 2010-2024 Historical",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/czech-republic/gross-fixed-capital-formation-investments-eurostat-data.html?utm_source=openai"
+              },
+              {
+                "end_index": 3449,
+                "start_index": 3319,
+                "title": "\n\tEuropean Union - Gross fixed capital formation (investments) - 2026 Data  2027 Forecast 2010-2024 Historical\n",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html"
+              },
+              {
+                "end_index": 3897,
+                "start_index": 3738,
+                "title": "Czech Republic CZ: GDP: % of GDP: Gross Fixed Capital Formation | Economic Indicators | CEIC",
+                "type": "url_citation",
+                "url": "https://www.ceicdata.com/en/czech-republic/gross-domestic-product-share-of-gdp/cz-gdp--of-gdp-gross-fixed-capital-formation?utm_source=openai"
+              },
+              {
+                "end_index": 4332,
+                "start_index": 4249,
+                "title": "Total investment | Czech Republic – yearly data, chart and table",
+                "type": "url_citation",
+                "url": "https://statbase.org/data/cze-total-investment/?utm_source=openai"
+              },
+              {
+                "end_index": 5049,
+                "start_index": 4849,
+                "title": "Bankovnictví: komentář R. Kalabišky: Životní úroveň v Česku je stále pod evropským průměrem, ale pořád vyšší než v celém bloku postkomunistických zemí | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/bankovnictvi-komentar-r-kalabisky-zivotni-uroven-v-cesku-je-stale-pod-evropskym-prumerem-ale-porad-vyssi-nez-v-celem-bloku-postkomunistickych-zemi/"
+              },
+              {
+                "end_index": 5363,
+                "start_index": 5223,
+                "title": "Česká ekonomika je osmou nejvyspělejší v EU. Síla průmyslu naráží na slabinu přidané hodnoty – inregion.cz",
+                "type": "url_citation",
+                "url": "https://inregion.cz/2026/02/25/ceska-ekonomika-je-osmou-nejvyspelejsi-v-eu-sila-prumyslu-narazi-na-slabinu-pridane-hodnoty/"
+              },
+              {
+                "end_index": 5687,
+                "start_index": 5549,
+                "title": "Czechia, Romania and Hungary with high investment ratios",
+                "type": "url_citation",
+                "url": "https://www.fxstreet.com/analysis/czechia-romania-and-hungary-with-high-investment-ratios-202505260556?utm_source=openai"
+              },
+              {
+                "end_index": 6430,
+                "start_index": 6300,
+                "title": "\n\tEuropean Union - Gross fixed capital formation (investments) - 2026 Data  2027 Forecast 2010-2024 Historical\n",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html"
+              },
+              {
+                "end_index": 6949,
+                "start_index": 6826,
+                "title": "\n\tBelgium - Gross fixed capital formation (investments) - 2026 Data  2027 Forecast 2010-2024 Historical\n",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/belgium/gross-fixed-capital-formation-investments-eurostat-data.html"
+              },
+              {
+                "end_index": 7100,
+                "start_index": 6974,
+                "title": "\n\tLuxembourg - Gross fixed capital formation (investments) - 2026 Data  2027 Forecast 2010-2024 Historical\n",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/luxembourg/gross-fixed-capital-formation-investments-eurostat-data.html"
+              },
+              {
+                "end_index": 7829,
+                "start_index": 7746,
+                "title": "Total investment | Czech Republic – yearly data, chart and table",
+                "type": "url_citation",
+                "url": "https://statbase.org/data/cze-total-investment/?utm_source=openai"
+              },
+              {
+                "end_index": 7925,
+                "start_index": 7860,
+                "title": "Total investment | Estonia – yearly data, chart and table",
+                "type": "url_citation",
+                "url": "https://statbase.org/data/est-total-investment/"
+              },
+              {
+                "end_index": 8018,
+                "start_index": 7953,
+                "title": "Total investment | Ireland – yearly data, chart and table",
+                "type": "url_citation",
+                "url": "https://statbase.org/data/irl-total-investment/"
+              },
+              {
+                "end_index": 8132,
+                "start_index": 8049,
+                "title": "Total investment | Romania – yearly data, chart and table",
+                "type": "url_citation",
+                "url": "https://statbase.org/data/rou-total-investment/?utm_source=openai"
+              },
+              {
+                "end_index": 8228,
+                "start_index": 8163,
+                "title": "Total investment | Hungary – yearly data, chart and table",
+                "type": "url_citation",
+                "url": "https://statbase.org/data/hun-total-investment/"
+              },
+              {
+                "end_index": 8756,
+                "start_index": 8637,
+                "title": "fDi Intelligence – Your source for foreign direct investment information - fDiIntelligence.com",
+                "type": "url_citation",
+                "url": "https://www.fdiintelligence.com/content/998ad33f-7ff7-5a42-84d7-91dd010cdf27?utm_source=openai"
+              },
+              {
+                "end_index": 9250,
+                "start_index": 9151,
+                "title": "Agriculture 13 00616 v2 | PDF",
+                "type": "url_citation",
+                "url": "https://www.scribd.com/document/778941670/Agriculture-13-00616-v2?utm_source=openai"
+              },
+              {
+                "end_index": 10338,
+                "start_index": 10138,
+                "title": "Bankovnictví: komentář R. Kalabišky: Životní úroveň v Česku je stále pod evropským průměrem, ale pořád vyšší než v celém bloku postkomunistických zemí | Národní rozpočtová rada",
+                "type": "url_citation",
+                "url": "https://www.rozpoctovarada.cz/bankovnictvi-komentar-r-kalabisky-zivotni-uroven-v-cesku-je-stale-pod-evropskym-prumerem-ale-porad-vyssi-nez-v-celem-bloku-postkomunistickych-zemi/"
+              },
+              {
+                "end_index": 10572,
+                "start_index": 10465,
+                "title": "Spoří obce hodně, nebo přiměřeně? - iRating",
+                "type": "url_citation",
+                "url": "https://www.informaceoobcich.cz/spori-obce-hodne-nebo-primerene/?utm_source=openai"
+              },
+              {
+                "end_index": 11711,
+                "start_index": 11573,
+                "title": "Czechia, Romania and Hungary with high investment ratios",
+                "type": "url_citation",
+                "url": "https://www.fxstreet.com/analysis/czechia-romania-and-hungary-with-high-investment-ratios-202505260556?utm_source=openai"
+              },
+              {
+                "end_index": 12154,
+                "start_index": 12024,
+                "title": "\n\tEuropean Union - Gross fixed capital formation (investments) - 2026 Data  2027 Forecast 2010-2024 Historical\n",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html"
+              },
+              {
+                "end_index": 12649,
+                "start_index": 12519,
+                "title": "\n\tEuropean Union - Gross fixed capital formation (investments) - 2026 Data  2027 Forecast 2010-2024 Historical\n",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html"
+              },
+              {
+                "end_index": 12918,
+                "start_index": 12835,
+                "title": "Total investment | Czech Republic – yearly data, chart and table",
+                "type": "url_citation",
+                "url": "https://statbase.org/data/cze-total-investment/?utm_source=openai"
+              },
+              {
+                "end_index": 13154,
+                "start_index": 13055,
+                "title": "Agriculture 13 00616 v2 | PDF",
+                "type": "url_citation",
+                "url": "https://www.scribd.com/document/778941670/Agriculture-13-00616-v2?utm_source=openai"
+              },
+              {
+                "end_index": 13392,
+                "start_index": 13285,
+                "title": "Spoří obce hodně, nebo přiměřeně? - iRating",
+                "type": "url_citation",
+                "url": "https://www.informaceoobcich.cz/spori-obce-hodne-nebo-primerene/?utm_source=openai"
+              }
+            ],
+            "text": "## 1. Shrnutí hodnocení\n\n- Standardní makroekonomické statistiky (Eurostat, IMF, World Bank) ukazují, že **Česko má v EU dlouhodobě nadprůměrný podíl investic na HDP (cca 27–28 % vs. průměr EU kolem 21–22 %)** – tedy patří „mezi nejvíce investující země“ Unie. ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n- **Nenašel jsem nezávislý zdroj, který by pro poslední roky potvrzoval, že je ČR přesně „druhá“ v EU.**  \n  - U dat za rok 2023/2024 podle Eurostatu (hrubá tvorba fixního kapitálu jako % HDP) i IMF (celková investice = hrubá tvorba kapitálu) vychází ČR spíše **na 1. místě** v EU. ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n  - U starších dat (2020) podle Eurostatu je ČR až **za Irskem, Estonskem a Maďarskem**, tedy mimo 2. místo. ([scribd.com](https://www.scribd.com/document/778941670/Agriculture-13-00616-v2?utm_source=openai))  \n- Tvrzení v obecné rovině („patříme mezi nejvíce investující země EU“) je dobře podložené. Konkrétní výrok **„jsme druhá nejvíce investující země v EU“ však dostupná čísla nepodporují** – pořadí vychází buď vyšší (1.), nebo nižší (≥3.), podle roku a přesné definice ukazatele.\n\n---\n\n## 2. Interpretace tvrzení\n\nTvrzení zní: **„Jsme druhá nejvíce investující země v Evropské unii.“**\n\nMožné interpretace:\n\n1. **Absolutní objem investic** (v mld. eur)  \n   – v takovém pořadí by nutně dominovaly velké ekonomiky (Německo, Francie, Itálie). Česko s mnohem menším HDP se mezi špičku dostat nemůže. Tuto interpretaci lze prakticky vyloučit.\n\n2. **Investice na obyvatele**  \n   – v přepočtu na hlavu by opět obvykle vedly bohatší státy (Lucembursko, Irsko, sever Evropy). Neexistují indicie, že by ČR měla 2. nejvyšší investice na obyvatele v EU.\n\n3. **Podíl investic na HDP (investiční míra)** – nejpravděpodobnější:\n   - V jiném projevu Petr Fiala explicitně mluví o **„celkovém poměru investic k HDP ve výši 27,3 %“ a tvrzení, že jsme „druzí nejlepší v celé EU“**, což ukazuje, že má na mysli právě **podíl investic na HDP** (hrubá tvorba kapitálu / HDP). ([pfiala.cz](https://pfiala.cz/aktualita/27268?utm_source=openai))  \n   - Ekonomické analýzy (Česká spořitelna, NRR) také běžně popisují Česko jako zemi s velmi vysokým **podílem investic na HDP** oproti EU průměru. ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/bankovnictvi-komentar-r-kalabisky-zivotni-uroven-v-cesku-je-stale-pod-evropskym-prumerem-ale-porad-vyssi-nez-v-celem-bloku-postkomunistickych-zemi/))  \n\nV dalším textu proto ověřuji tvrzení v tomto hlavním významu:  \n\n> **Pořadí zemí EU podle podílu investic (hrubá tvorba kapitálu / hrubá tvorba fixního kapitálu) na HDP.**\n\n---\n\n## 3. Jak moc Česko skutečně investuje (podíl na HDP)\n\n### 3.1 Eurostat – hrubá tvorba fixního kapitálu (GFCF) jako % HDP\n\n- Podle databáze Eurostatu (převzaté přes TradingEconomics) činila **hrubá tvorba fixního kapitálu v ČR 27,9 % HDP v roce 2023** a **26,5 % HDP v roce 2024**. ([tradingeconomics.com](https://tradingeconomics.com/czech-republic/gross-fixed-capital-formation-investments-eurostat-data.html?utm_source=openai))  \n- Pro **celou EU** (souhrnně) uvádí Eurostat podíl **21,2 % HDP v roce 2024** a rekordních **22,1 % v roce 2023**. ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n\n> ČR tedy v posledních letech investuje (v podobě GFCF) zhruba o 5–7 procentních bodů více než průměr EU.\n\n### 3.2 Světová banka / CEIC – GFCF jako % HDP\n\n- Databáze CEIC, založená na datech Světové banky, uvádí **podíl GFCF v ČR 27,941 % HDP v roce 2023** a **26,488 % v roce 2024**. ([ceicdata.com](https://www.ceicdata.com/en/czech-republic/gross-domestic-product-share-of-gdp/cz-gdp--of-gdp-gross-fixed-capital-formation?utm_source=openai))  \n\nČísla jsou prakticky shodná s eurostatovskými a potvrzují, že investiční míra ČR je velmi vysoká.\n\n### 3.3 IMF – celková investice (gross capital formation) jako % HDP\n\nIMF definuje „total investment“ jako **hrubou tvorbu kapitálu** (hrubá tvorba fixního kapitálu + změna zásob a cenností) dělenou HDP. Statistika Statbase (IMF data) uvádí pro ČR: ([statbase.org](https://statbase.org/data/cze-total-investment/?utm_source=openai))  \n\n- **2023:** 28,02 % HDP  \n- **2024:** 26,21 % HDP  \n\nTyto hodnoty jsou konzistentní s předchozími zdroji a vysvětlují, odkud může pocházet Fialou uváděná hodnota **„27,3 %“** – jde zjevně o stejný řád velikosti.\n\n### 3.4 Česká a další analytická hodnocení\n\n- Národní rozpočtová rada shrnuje, že **„celkové investice (HTFK) přesahují 25 procent HDP, přičemž evropský průměr je kolem 20 procent HDP“** a že ČR „patří k zemím, které mají nejvyšší podíl investic, jak vládních, tak soukromých, na HDP z celé Evropy“. ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/bankovnictvi-komentar-r-kalabisky-zivotni-uroven-v-cesku-je-stale-pod-evropskym-prumerem-ale-porad-vyssi-nez-v-celem-bloku-postkomunistickych-zemi/))  \n- Analýza České spořitelny / Evropy v datech uvádí, že **„Česko patří mezi nejvíce investující země Evropské unie“** a že podíl investic na HDP je dlouhodobě nadprůměrný. ([inregion.cz](https://inregion.cz/2026/02/25/ceska-ekonomika-je-osmou-nejvyspelejsi-v-eu-sila-prumyslu-narazi-na-slabinu-pridane-hodnoty/))  \n- Studie Erste (FXStreet) o zemích střední a východní Evropy uvádí, že **Czechia a Romania mají nejvyšší podíl investic k HDP v regionu CEE, zhruba 27 %, zatímco průměr EU je 22 %**. ([fxstreet.com](https://www.fxstreet.com/analysis/czechia-romania-and-hungary-with-high-investment-ratios-202505260556?utm_source=openai))  \n\n**Závěr k objemu investic:**  \nVšechny hlavní mezinárodní zdroje (Eurostat, IMF, World Bank) i české instituce se shodují, že **Česko je v rámci EU výrazně nadprůměrně investující ekonomika** – podíl investic na HDP kolem 27–28 % je jeden z nejvyšších v Unii.\n\n---\n\n## 4. Srovnání s ostatními státy EU – jaké je skutečné pořadí?\n\n### 4.1 Eurostat (přes TradingEconomics) – GFCF % HDP, rok 2024\n\nZ tabulky „Gross Fixed Capital Formation (investments) – % of GDP“ pro členské státy EU (zdroj: Eurostat, přes TradingEconomics) vyplývá pro rok 2024 toto **pořadí podle poslední hodnoty („Last“) mezi zeměmi EU**: ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n\n**Top hodnoty GFCF (% HDP, 2024):**\n\n| Země | GFCF (% HDP, 2024) |\n|------|--------------------|\n| **Česko** | **26,50** |\n| Rumunsko | 25,30 |\n| Chorvatsko | 25,20 |\n| Švédsko | 25,10 |\n| Estonsko | 23,90 |\n| Rakousko | 23,50 |\n| Dánsko | 23,30 |\n| Maďarsko | 23,10 |\n| ... | ... |\n| Belgie | 24,20 (na jejím profilu; v porovnávací tabulce je neuvedena, ale vlastní stránka potvrzuje ~24 %) ([tradingeconomics.com](https://tradingeconomics.com/belgium/gross-fixed-capital-formation-investments-eurostat-data.html))  \n| Lucembursko | 15,40 ([tradingeconomics.com](https://tradingeconomics.com/luxembourg/gross-fixed-capital-formation-investments-eurostat-data.html))  \n\nZ těchto dat plyne:\n\n- **Česko má v roce 2024 nejvyšší podíl GFCF na HDP v celé EU (26,5 %), nikoli druhý nejvyšší.**\n- Druhé je Rumunsko (25,3 %), třetí Chorvatsko (25,2 %) a čtvrté Švédsko (25,1 %).\n\nPokud tedy Fiala mířil na data za rok 2024 podle Eurostatu, jeho výrok o **„druhém místě“ je v rozporu s tím, že podle těchto dat je ČR spíše **první**.\n\n### 4.2 IMF – total investment (gross capital formation) % HDP, rok 2023\n\nPro ověření použijeme i širší ukazatel IMF „total investment“ (hrubá tvorba kapitálu). Z IMF dat (přes Statbase) za rok **2023** máme pro některé klíčové „vysoce investující“ země EU:  \n\n- **Česko:** 28,02 % HDP ([statbase.org](https://statbase.org/data/cze-total-investment/?utm_source=openai))  \n- **Estonsko:** 27,69 % HDP ([statbase.org](https://statbase.org/data/est-total-investment/))  \n- **Irsko:** 26,33 % HDP ([statbase.org](https://statbase.org/data/irl-total-investment/))  \n- **Rumunsko:** 25,77 % HDP ([statbase.org](https://statbase.org/data/rou-total-investment/?utm_source=openai))  \n- **Maďarsko:** 25,76 % HDP ([statbase.org](https://statbase.org/data/hun-total-investment/))  \n\nTyto země patří dlouhodobě k nejvíce investujícím v EU. Z uvedených hodnot:\n\n- **Česko má nejvyšší podíl celkových investic na HDP (28,02 %) z této skupiny zemí, které jsou v EU „nahoře“.**  \n- U žádné další členské země jsme v dostupných IMF datech nenašli pro rok 2023 podíl vyšší než 28 % HDP – naopak řada velkých ekonomik (Německo, Francie, Itálie) má investiční míru znatelně nižší (okolo 20–23 %). ([fdiintelligence.com](https://www.fdiintelligence.com/content/998ad33f-7ff7-5a42-84d7-91dd010cdf27?utm_source=openai))  \n\nV rámci **rozumné interpretace IMF dat pro rok 2023 tedy Česko opět nevychází jako „druhé“, ale spíše jako **první** v EU podle podílu investic na HDP**.\n\n### 4.3 Eurostat data za rok 2020 – příklad, kdy ČR rozhodně není druhá\n\nStudie v časopise *Agriculture* (2023) pracuje s eurostatovskými daty „Gross fixed capital formation as a share of GDP“ pro **rok 2020**. Tabulka uvádí například: ([scribd.com](https://www.scribd.com/document/778941670/Agriculture-13-00616-v2?utm_source=openai))  \n\n- **Czechia:** 26,5 % HDP  \n- **Estonia:** 30,7 % HDP  \n- **Hungary:** 26,6 % HDP  \n- **Ireland:** 42,4 % HDP  \n- **EU‑27 průměr:** 22,1 % HDP  \n\nZ těchto čísel je zřejmé:\n\n- Irsko (42,4 %), Estonsko (30,7 %) i Maďarsko (26,6 %) mají **vyšší** podíl investic na HDP než ČR (26,5 %).  \n- **Česko tedy v roce 2020 není druhou nejvíce investující zemí EU, ale nejméně čtvrtou.**\n\nTo ukazuje, že v různých letech se pořadí opravdu mění – ale **ani zde nevychází Česko na 2. místě**.\n\n---\n\n## 5. Diskuse možných jiných výkladů\n\n### 5.1 Jiná definice „investic“\n\nTeoreticky by Fiala mohl mít na mysli některou z těchto variant:\n\n- **Investice pouze vládního sektoru** (veřejné investice jako % HDP).  \n  - ČNB a NRR potvrzují, že **podíl vládních investic na HDP je v ČR vysoký – zhruba dvakrát vyšší než v Německu** a že investice obcí a krajů tvoří vysoký podíl na veřejných investicích. ([rozpoctovarada.cz](https://www.rozpoctovarada.cz/bankovnictvi-komentar-r-kalabisky-zivotni-uroven-v-cesku-je-stale-pod-evropskym-prumerem-ale-porad-vyssi-nez-v-celem-bloku-postkomunistickych-zemi/))  \n  - Studie NRR ale uvádí, že **investice územní samosprávy** (obce + kraje) staví ČR **na 7. místo v EU**, nikoli na druhé. ([informaceoobcich.cz](https://www.informaceoobcich.cz/spori-obce-hodne-nebo-primerene/?utm_source=openai))  \n\n- **Investice jen soukromého sektoru / nefinančních podniků** – tato data se veřejně méně často publikují v mezinárodním srovnání; nenašli jsme pro ně ale žádný zdroj, který by potvrzoval **2. místo ČR v EU.**\n\nŽádný běžně používaný a dohledatelný ukazatel (veřejné investice, investice územní samosprávy apod.) tedy **nevede k pořadí „ČR = 2. místo v EU“**.\n\n### 5.2 Možné „úpravy“ pořadí\n\nJe teoreticky možné, že:\n\n- někdo **vyřadil Irsko** kvůli známým statistickým zkreslením (extrémně vysoká, daněmi a korporátní optimalizací nafouknutá investiční čísla),  \n- nebo pracoval jen s určitým podvzorkem zemí (např. jen kontinentální EU, jen CEE, jen země s určitým počtem obyvatel).\n\nTaková omezení však **nejsou v citovaném tvrzení zmíněna** – Fiala mluví obecně o „Evropské unii“ – a ani při omezení na region CEE neplatí „2. místo“, protože dostupné analýzy mluví o tom, že **Česko a Rumunsko mají v regionu CEE nejvyšší investiční míru, tj. Česko je tam společně na 1. místě, ne na druhém.** ([fxstreet.com](https://www.fxstreet.com/analysis/czechia-romania-and-hungary-with-high-investment-ratios-202505260556?utm_source=openai))  \n\n---\n\n## 6. Závěr k tvrzení „Jsme druhá nejvíce investující země v Evropské unii“\n\n### 6.1 Co je podloženo\n\n- **Velmi vysoký podíl investic na HDP v ČR je dobře doložen:**\n  - GFCF i celková investice se podle Eurostatu, IMF i Světové banky pohybuje kolem **27–28 % HDP**, oproti průměru EU kolem **21–22 %**. ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n  - Česko tedy **patří mezi nejvíce investující země EU**; tento obecný nárok je fakticky správný.\n\n### 6.2 Co podloženo není / je v rozporu s daty\n\n- **Konkrétní pořadí „druhá nejvíce investující“ však dostupná data nepotvrzují:**\n  - Pro rok **2024** podle Eurostatu (GFCF / HDP) má ČR **nejvyšší** podíl v EU (26,5 %), před Rumunskem, Chorvatskem a Švédskem. ([tradingeconomics.com](https://tradingeconomics.com/european-union/gross-fixed-capital-formation-investments-eurostat-data.html))  \n  - Pro rok **2023** podle IMF (total investment / HDP) má ČR **opět nejvyšší podíl** mezi hlavními „vysokoinvestujícími“ zeměmi (Estonsko, Irsko, Rumunsko, Maďarsko), se 28,0 % HDP. ([statbase.org](https://statbase.org/data/cze-total-investment/?utm_source=openai))  \n  - Pro rok **2020** podle Eurostatu naopak ČR zaostává za Irskem, Estonskem a Maďarskem, a je tedy nejméně **čtvrtá**, nikoli druhá. ([scribd.com](https://www.scribd.com/document/778941670/Agriculture-13-00616-v2?utm_source=openai))  \n  - U specifických veřejných či municipálních investic (např. investice obcí a krajů) NRR uvádí, že ČR je **na 7. místě v EU**. ([informaceoobcich.cz](https://www.informaceoobcich.cz/spori-obce-hodne-nebo-primerene/?utm_source=openai))  \n\n### 6.3 Celkové hodnocení\n\n- **Pravdivé je, že Česko patří k vůbec nejvíce investujícím ekonomikám EU podle podílu investic na HDP.**  \n- **Neověřené a v řadě případů proti evidenci je ale tvrzení, že je Česko „druhá nejvíce investující země v EU“.**  \n  - Standardní, dohledatelná data (Eurostat, IMF, World Bank) ukazují, že v posledních letech je ČR buď **na 1. místě**, nebo **až za několika zeměmi** (v závislosti na roce), nikoli stabilně **na 2. místě**.  \n\nPro účely fact‑checkingu lze tedy shrnout, že:\n\n> **Část tvrzení o vysoké investiční aktivitě ČR je fakticky dobře podložena, avšak přesný údaj o „druhém místě v EU“ nelze z dostupných oficiálních statistik potvrdit a spíše neodpovídá realitě.**",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 114380,
+      "input_tokens_details": {
+        "cached_tokens": 6272
+      },
+      "output_tokens": 24693,
+      "output_tokens_details": {
+        "reasoning_tokens": 20229
+      },
+      "total_tokens": 139073
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772533467,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

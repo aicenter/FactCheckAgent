@@ -1,0 +1,575 @@
+{
+  "claim_id": "24622",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24622.md",
+  "fact_check": "# Fact Check for Statement ID 24622\n\n## Statement\nNa konci roku 2021 jste měli nejvyšší energetickou inflaci.\n\n---\n## AI Fact Check\n### 1. Shrnutí\n\n- Pod „energetickou inflací“ se v mezinárodních statistikách běžně rozumí meziroční růst cen energií (elektřina, plyn, paliva apod.) ve spotřebitelském koši – např. složka **HICP – Energy** nebo ceny energií pro bydlení (elektřina, plyn, teplo).([allthatstats.com](https://www.allthatstats.com/en/statistics/teicp250/hicp-energy/notes?utm_source=openai))  \n- Pro **prosinec 2021** byla v ČR meziroční inflace energií podle harmonizovaného indexu HICP (složka „Energy“) cca **1,7 %**, zatímco průměr EU byl **24,6 %**.([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai))  \n- Podle Českého statistického úřadu k **cenám energií pro bydlení** (elektřina, plyn, teplo) v prosinci 2021:  \n  - **nejvyšší meziroční růsty** měly Estonsko (+77,8 %), Nizozemsko (+74,9 %), Belgie (+57,4 %), Španělsko (+54,8 %),  \n  - **nejnižší** Slovensko (–3,9 %) a **Česká republika (–8,5 %)** díky dočasnému odpuštění DPH.([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n- Už na příkladech dalších zemí (Kypr: energie +28 % r/r v prosinci 2021; Lucembursko: plyn +61,3 %, kapalná paliva +63,4 % v prosinci 2021) je patrné, že řada států měla ke konci roku 2021 mnohem vyšší „energetickou inflaci“ než ČR.([en.famagusta.news](https://en.famagusta.news/news/kypros/afxithike-o-deiktis-timon-katanaloti-ton-dekemvrio-tou-2021-poios-o-deiktis-timon-tou-2020?utm_source=openai))  \n\nZ dostupných dat tedy vyplývá, že **Česká republika rozhodně neměla na konci roku 2021 „nejvyšší energetickou inflaci“ – naopak patřila v EU k nejnižším (u energií pro bydlení byla vůbec nejnižší).**  \n\n---\n\n### 2. Rozklad výroku a možné interpretace\n\nVýrok Karla Havlíčka:  \n> „Na konci roku 2021 jste měli nejvyšší energetickou inflaci.“\n\nMožné interpretace:\n\n1. **Doslovná, časová:**\n   - „Na konci roku 2021“ = prosinec 2021 (případně 4. čtvrtletí 2021).\n2. **Obsahová:**\n   - „energetická inflace“ = meziroční růst cen:\n     - a) energií jako celku (HICP – Energy), nebo  \n     - b) energií pro bydlení (elektřina, plyn, teplo), případně  \n     - c) nějaký kumulovaný růst cen energií od určitého bodu.\n3. **Geografický rozsah:**\n   - implicitně podle předchozí části debaty buď **OECD**, nebo **EU** (Havlíček předtím mluví o „energetické inflaci“ v OECD).([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai))  \n\nNíže ověřujeme nejprve **doslovné znění** (prosinec 2021, standardní ukazatele energetické inflace), poté stručně naznačujeme, jak vypadá situace u alternativních, benevolentnějších výkladů.\n\n---\n\n### 3. Co je „energetická inflace“ v oficiálních statistikách\n\n- Eurostat publikuje **HICP – Energy** (COICOP kategorie „Energy“, kód NRGY00), pro který se sleduje mj. **„annual rate of change“**, tedy meziroční míra inflace v %.([allthatstats.com](https://www.allthatstats.com/en/statistics/teicp250/hicp-energy/notes?utm_source=openai))  \n- Český statistický úřad a další instituce používají pojem „energetická inflace“ buď:\n  - pro **meziroční inflaci energií** (elektřina, plyn, teplo, pohonné hmoty), nebo  \n  - pro **specifickou podsložku – ceny energií pro bydlení** (elektřina, plyn, teplo).([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n\nPro ověření výroku proto používáme **dva standardní ukazatele**:\n\n1. **HICP – Energy (Eurostat, HICP.M.CZ.N.NRGY00… – roční míra změny)**  \n2. **Ceny energií pro bydlení** (elektřina, plyn, teplo) podle Eurostatu, shrnuté v analýze ČSÚ.\n\n---\n\n### 4. Data pro konec roku 2021 – HICP „Energy“\n\n#### 4.1 Česká republika\n\nDatabáze YCharts (přebírá přímo harmonizovaná data Eurostatu) uvádí indikátor „Czech Republic Inflation Rate: Energy“, popsaný jako **Harmonised, 12-Month Rate, source: Eurostat**.([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai))  \n\nVýběr hodnot:\n\n- **Prosinec 2021:** **+1,7 %** (meziroční inflace energií)  \n- **Listopad 2021:** +2,7 %  \n\nTento ukazatel tedy říká, že **energetická inflace v ČR v prosinci 2021 byla jen cca 1,7 % r/r.**([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai))  \n\n#### 4.2 Průměr EU\n\nAnalogický indikátor „European Union Inflation Rate: Energy“ (také harmonizovaný HICP – Energy, 12měsíční míra změny, zdroj Eurostat) udává:([ycharts.com](https://ycharts.com/indicators/europe_inflation_rate_energy?utm_source=openai))  \n\n- **EU (27) – prosinec 2021:** **+24,6 %** (meziročně)  \n\nSrovnání:\n\n- ČR: **+1,7 %**  \n- EU průměr: **+24,6 %**\n\nČeská energetická inflace byla tedy na konci roku 2021 **řádově nižší než průměr EU**. Pokud by měla ČR „nejvyšší energetickou inflaci“, musela by být **nejméně na úrovni či nad průměrem**, což evidentně není splněno.\n\n---\n\n### 5. Data pro konec roku 2021 – ceny energií pro bydlení (elektřina, plyn, teplo)\n\nČeský statistický úřad ve své tiskové zprávě z 14. 2. 2022 („Inflaci výrazně zrychlily zejména ceny energií“) shrnuje mj. **mezinárodní srovnání cen energií pro bydlení v prosinci 2021** na základě dat Eurostatu:([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n\n> „Ceny energií pro bydlení, kam kromě plynu a elektřiny patří i tepelná energie, vykázaly v prosinci 2021 nejvyšší meziroční růsty v Estonsku (o 77,8 %), Nizozemí (o 74,9 %), Belgii (o 57,4 %) a ve Španělsku (o 54,8 %), naopak nejnižší na Slovensku (pokles o 3,9 %) a v České republice (**díky dočasnému odpuštění DPH dokonce pokles o 8,5 %**).“\n\nKlíčové body:\n\n- **ČR:** **–8,5 %** (meziroční pokles cen energií pro bydlení v prosinci 2021)  \n- **Nejvyšší růsty:**  \n  - Estonsko: +77,8 %  \n  - Nizozemsko: +74,9 %  \n  - Belgie: +57,4 %  \n  - Španělsko: +54,8 %  \n\nČR tedy **neměla ani kladnou energetickou inflaci v této složce, ale meziroční pokles cen**, a zároveň byla **na úplném konci žebříčku EU** (spolu se Slovenskem).\n\nTato data přímo odporují tvrzení, že by ČR ke konci roku 2021 měla „nejvyšší energetickou inflaci“ – má naopak **nejnižší** (v této kategorii).\n\n---\n\n### 6. Příklady z jiných zemí – vysoká energetická inflace v prosinci 2021\n\nAby bylo zřejmé, že český vývoj byl na konci roku 2021 spíše výjimkou (silné zdražení jinde vs. pokles u nás), lze uvést konkrétní příklady:\n\n#### 6.1 Kypr\n\nStatistický úřad Kypru popisuje vývoj HICP v prosinci 2021 takto:([en.famagusta.news](https://en.famagusta.news/news/kypros/afxithike-o-deiktis-timon-katanaloti-ton-dekemvrio-tou-2021-poios-o-deiktis-timon-tou-2020?utm_source=openai))  \n\n- Největší změna v ekonomických kategoriích byla u **„Energy“: meziroční +28,0 %** (prosinec 2021 vs. prosinec 2020).\n\nTj. **energetická inflace v Kypru +28 % r/r**, zatímco v ČR (HICP – Energy) cca +1,7 % a energie pro bydlení –8,5 %.\n\n#### 6.2 Lucembursko\n\nAnalytický blog pro Lucembursko uvádí pro prosinec 2021:([carlothelenblog.lu](https://www.carlothelenblog.lu/2022/02/17/a-rise-in-prices-for-the-long-haul/?utm_source=openai))  \n\n- **Roční inflace ceny plynu**: +61,3 %  \n- **Roční inflace kapalných paliv**: +63,4 %  \n\nTo opět ilustruje, že ve většině zemí západní Evropy byly růsty cen energií na konci roku 2021 **v desítkách procent**, zatímco v ČR byla díky odpuštění DPH naopak **meziroční stagnace či pokles**.\n\n---\n\n### 7. OECD vs. EU – co z toho plyne\n\n- Země EU, pro které máme výše uvedená čísla, jsou zároveň **členskými zeměmi OECD** (např. Estonsko, Nizozemsko, Belgie, Španělsko).  \n- V těchto zemích byly meziroční růsty cen energií (HICP – Energy či energie pro bydlení) v prosinci 2021 **násobně vyšší** než v ČR.([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n- **Pokud tedy ČR nebyla ani v rámci EU zdaleka na špici (a u energií pro bydlení byla úplně poslední), logicky nemohla mít „nejvyšší energetickou inflaci“ ani v celém OECD.**  \n\n---\n\n### 8. Alternativní, benevolentnější interpretace výroku\n\nPro úplnost (jak ukládají instrukce) je vhodné zmínit, že **v jiných obdobích a pro jinak definované ukazatele** ČR skutečně patřila k zemím s nejvyšší energetickou inflací. To ale **neodpovídá doslovnému znění „na konci roku 2021“**.\n\n#### 8.1 Po lednu 2022 se situace výrazně mění\n\nStejná tisková zpráva ČSÚ dodává:([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n\n> „Situace v cenách energií v Česku se začíná dramaticky měnit od ledna 2022, a to je i jedním z důvodů návratu české inflace na historicky obvyklejší přední místa v evropském žebříčku.“\n\nData HICP – Energy pro ČR (Eurostat, přes YCharts) ukazují, že meziroční energetická inflace po prosinci 2021 prudce narostla – např. v první polovině roku 2022 do hodnot kolem 30–40 % r/r.([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai))  \n\n#### 8.2 Kumulovaný růst cen energií po prosinci 2021\n\nDemagog.cz hodnotil výrok Andreje Babiše, který odkazoval na graf kumulovaného růstu indexu HICP energií v EU **od prosince 2021**. Z jejich analýzy:([demagog.cz](https://demagog.cz/vyrok/24304?utm_source=openai))  \n\n- Podle dat Eurostatu vzrostly ceny energií v ČR mezi **prosincem 2021 a srpnem 2025** nejvíce v celé EU – kumulativně o **64,2 %**,  \n- druhé Rakousko mělo +38,6 %, některým zemím (Švédsko, Španělsko, Nizozemsko) naopak energie zlevnily.\n\nTj. **po** konci roku 2021 (v průběhu vlády Petra Fialy) existuje měřítko, ve kterém je ČR v růstu cen energií opravdu „nejhorší v EU“.\n\n#### 8.3 Havlíčkovy výroky o OECD v letech 2023–2024\n\n- V listopadu 2023 Karel Havlíček ve Sněmovně citoval data OECD o „energetické inflaci“ (meziroční změna cen energií) a uváděl, že průměr OECD je –0,5 %, zatímco v ČR je +12,5 %, což nás řadí na **2. nejhorší místo v OECD (po Kolumbii)**.([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai))  \n- V únoru 2024 pak v rozhovoru pro iDNES.tv mluvil o tom, že „máme největší energetickou inflaci mezi zeměmi OECD“.([tv.idnes.cz](https://tv.idnes.cz/domaci/stinova-vlada-energeticka-inflace-karel-havlicek.V240215_122238_idnestv_heli?utm_source=openai))  \n\nTyto výroky se však týkají **období 2023–2024**, nikoli „konce roku 2021“.\n\n---\n\n### 9. Závěrečné zhodnocení\n\n1. **Pro standardní definice „energetické inflace“ (HICP – Energy, případně ceny energií pro bydlení) a časový okamžik „konec roku 2021“ (prosinec 2021) jsou k dispozici kvalitní mezinárodní statistiky (Eurostat, zprostředkovaně ČSÚ, YCharts).**  \n2. Podle těchto dat:\n   - měla Česká republika v prosinci 2021 **velmi nízkou** energetickou inflaci (HICP – Energy cca +1,7 % vs. průměr EU +24,6 %),([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai))  \n   - ceny energií pro bydlení v ČR dokonce **meziročně klesly o 8,5 %** a byly **nejnižší v celé EU**, zatímco nejvyšší růsty (a tedy „nejvyšší energetickou inflaci“) měly Estonsko, Nizozemsko, Belgie a Španělsko.([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n3. Z toho plyne, že **doslovné tvrzení „Na konci roku 2021 jste měli nejvyšší energetickou inflaci“ je v rozporu s dostupnými daty** – ČR měla v daném okamžiku naopak **jednu z nejnižších** energetických inflací v EU a tím spíše ne nejvyšší v OECD.  \n4. Existují sice **alternativní časové a metodické interpretace** (kumulovaný růst energií od prosince 2021, stav v letech 2023–2024), ve kterých ČR skutečně patří k zemím s nejvyšší energetickou inflací, ty však **neodpovídají konkrétnímu tvrzení o „konci roku 2021“**.\n\n---\n\n### 10. Přehled hlavních použitých zdrojů (URL v kódu)\n\n```text\nČeský statistický úřad – „Inflaci výrazně zrychlily zejména ceny energií“ (14. 2. 2022)\nhttps://csu.gov.cz/produkty/inflaci-vyrazne-zrychlily-zejmena-ceny-energii\n\nYCharts – Czech Republic Inflation Rate: Energy (source: Eurostat HICP – Energy)\nhttps://ycharts.com/indicators/czech_republic_inflation_rate_energy\n\nYCharts – European Union Inflation Rate: Energy (source: Eurostat HICP – Energy)\nhttps://ycharts.com/indicators/europe_inflation_rate_energy\n\nECB Data Portal – HICP Inflation rate – Energy, Czech Republic, Annual rate of change\nhttps://data.ecb.europa.eu/data/datasets/HICP/HICP.M.CZ.N.NRGY00.4D0.ANR\n\nAllThatStats – HICP – Energy (definice ukazatele)\nhttps://www.allthatstats.com/en/statistics/teicp250/hicp-energy/notes\n\nStatistical Service of Cyprus – Consumer Price Index December 2021 (HICP, Energy +28 % y/y)\nhttps://en.famagusta.news/news/kypros/afxithike-o-deiktis-timon-katanaloti-ton-dekemvrio-tou-2021-poios-o-deiktis-timon-tou-2020\n\nCarlo Thelen Blog – Inflace energií v Lucembursku (plyn a kapalná paliva, prosinec 2021)\nhttps://www.carlothelenblog.lu/2022/02/17/a-rise-in-prices-for-the-long-haul/\n\nDemagog.cz – výrok Andreje Babiše o kumulovaném růstu cen energií od prosince 2021\nhttps://demagog.cz/vyrok/24304\n\nStenozáznam Poslanecké sněmovny, 83. schůze, 16. 11. 2023 – vystoupení Karla Havlíčka k „energetické inflaci“ podle OECD\nhttps://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm\n\niDNES.tv – Video „Máme největší energetickou inflaci mezi zeměmi OECD, kritizuje Havlíček“ (15. 2. 2024)\nhttps://tv.idnes.cz/domaci/stinova-vlada-energeticka-inflace-karel-havlicek.V240215_122238_idnestv_heli\n\nČNB blog – „Inflace v Evropě: vysvětlení rozdílů pomocí různé cenové hladiny a energetické náročnosti“ (18. 10. 2023)\nhttps://www.cnb.cz/cs/o_cnb/cnblog/Inflace-v-Evrope-vysvetleni-rozdilu-pomoci-ruzne-cenove-hladiny-a-energeticke-narocnosti/\n```\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:05:47\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nTa zpráva je založena na číslech, tak ta se nedá ani rozporovat, ale co se týká toho, že se všem lidem určitě dobře nedaří a nedařilo, to jsem nikdy nezpochybňoval. Ta inflace byla velmi náročná, ceny energií rostly raketově. My jsme teda měli nejdražší energie už v době, kdy se o to staral pan Havlíček v Evropě. Ale ten problém tu je dlouhodobý, je strukturální. My jsme se s tím snažili něco dělat, snažili jsme se provést ty klíčové reformy a byli jsme v tom odvážní. Reforma důchodového systému, reforma vzdělávacího systému, reforma energií nebo struktury naší energetické soustavy, to všechno jsme dělali a myslím si, že to byly kroky, které jsou správné a je v nich potřeba pokračovat, abychom se už nedostali do těch problémů, do kterých jsme se dostali, protože třeba díky tomu, že tu vládl osm let Andrej Babiš v různých konstelacích před námi, tak se nic neudělalo s energetickou infrastrukturou. Zastavil se, nezastavila se dostavba Temelína, neposunuly se dál Dukovany, to jsme všechno museli udělat. A to, že jsme to udělali, se pozitivně projeví v budoucnosti.\\n00:06:53\\nTerezie Tománková,moderátorka\\nPojďme rozebrat ta jednotlivá subtémata, ať se už bavíme o konkrétních věcech. Pojďme k těm energiím, pane Havlíčku. Pouze 17 miliard navíc v rozpočtu, snižuje to inflaci, to říká statistický úřad i Česká národní banka, že to mělo přechodný, okamžitý dopad. Ty dotační závody s Německem ale nemůžeme vyhrát, nebo v tom bude Česko pokračovat, jak to bude dál?\\n00:07:14\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nNemůžeme, ani nebudeme soutěžit s Německem. To není možné. Jenom bych upravil, ono to není do rozpočtu dopad 17 miliard, ale 7 miliard, ale to je účetní pohled, že se tam započítávají některé věci, takže čistý dopad do rozpočtu je 7 miliard korun, ale za těch 7 miliard korun máme po dlouhé době srovnaný krok s cenou elektřiny s Evropou. Po dlouhé době mohou firmy říci, že mají přibližně podobné podmínky jako okolní země. A každý, kdo umí do 10 počítat, si dopočítá to, že se to tomu státu vrátí na té příjmové stránce. Proč? No, protože firmy budou zaměstnávat přirozeným způsobem, porostou příjmy těch zaměstnanců, bude se více investovat, budou se, světe, div se, odvádět vyšší daně, budou se odvádět vyšší sociální a zdravotní, to je jedna věc. A druhá věc je, naši lidé nebyli připraveni se dívat na to, že navzdory tomu, že zde energii poměrně levně vyrábíme a exportujeme, že ji budeme mít jednu z nejdražších, elektřinu v tomhle tom případě v celé Evropě. Byl to náš slib, byl to zásadní krok a budeme pokračovat zejména v energeticky náročných odvětvích, jako jsou výrobci cementu, výrobci vápna, výrobci keramiky, chemie a podobně, ocel. To jste úplně hodili přes palubu. A zeptejte se někdy těch firem. Já do nich jezdím dnes a denně. Ta situace u těch firem začíná být kritická a ten problém, který nastává, je v tom, že pochopitelně v Evropě neexistuje dnes jednotný energetický trh tedy pouze na papíře, ale různé země mají různé ceny a různé státy do toho různě zasahují. Akorát, že za vaší vlády jste se chovali tržně, nezasáhli jste do toho, výsledkem bylo to, že se vám to celé utrhlo a není pravda to, že jste to, co jste říkal, s ohledem nejvyšší ceny energií, že byly za nás. Na konci roku 2021, když jsme předávali vládu a podíval jste se do OECD, tak jste zjistil, že co se týká tzv. energetické inflace, tak víte, kde byla nejnižší ze všech zemí z OECD? Nejnižší byla v České republice. Ano, bylo to dáno tímto, uznávám, že jsme zatáhli za ruční brzdu a rychle jsme snížili DPH na nulu. Vy jste to mohli nechat potom třeba na 5 %. Neudělali jste vůbec nic, čekali jste na opatření Evropské unie. Nestalo se nic. Výsledek byl ten, že na konci roku 2021 jste měli nejvyšší energickou inflaci a ta inflace se stala, myslím, energická základem pro celkovou inflaci, proto jste odrbali lidi o 33 % v průběhu vaší vlády. Je třeba, pane poslanče, nedívat se jenom na aktuální čísla, protože logicky ten pokles či růst je ovlivněn tou základnou toho minulého roku. Jinými slovy, o co horší byl výsledek v minulém roce, o to je třeba lepší v tomto roce, ale součet...\\n00:09:43\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'Na konci roku 2021 jste měli nejvyšší energetickou inflaci.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 386.94 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Dostupná data ukazují, že na konci roku 2021 patřila Česká republika naopak k zemím s nejnižší „energetickou inflací“ v EU, u energií pro bydlení ceny meziročně klesly. Výrok proto hodnotíme jako nepravdivý.</p>\n\n<p>Výrok <i>„Na konci roku 2021 jste měli nejvyšší energetickou inflaci“</i> zazněl z úst Karla Havlíčka v Poslanecké sněmovně při kritice vývoje cen energií a inflace za vlády Petra Fialy. Vystoupení je zachyceno ve stenozáznamu 83. schůze Poslanecké sněmovny, kde Havlíček mluví o údajně vysoké „energetické inflaci“ v zemích OECD a z toho odvozuje situaci v Česku<a href=\"https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm\">.</a></p>\n\n<p>Výrok obsahuje několik faktických tvrzení, která ověřujeme samostatně. Za prvé, časové vymezení „na konci roku 2021“, což se v ekonomické statistice obvykle chápe jako stav v prosinci 2021, kdy se publikují měsíční hodnoty indexů cen. Za druhé, pojem „energetická inflace“, který v oficiálních statistikách odpovídá meziročnímu růstu cen energií (zejména složce indexu HICP „Energy“). A za třetí, srovnávací tvrzení, že Česká republika tehdy měla <i>„nejvyšší“</i> energetickou inflaci, tedy vyšší než ostatní země EU či OECD.</p>\n\n<p>Pro vysvětlení pojmu „energetická inflace“ vycházíme z metodiky harmonizovaného indexu spotřebitelských cen (HICP). V něm existuje samostatná složka „Energy“, která zahrnuje ceny elektřiny, plynu, pohonných hmot a dalších energií. Eurostat u této složky sleduje roční míru změny, tedy meziroční inflaci v procentech. Metodiku této složky popisuje například přehled HICP – Energy na portálu <a href=\"https://www.allthatstats.com/en/statistics/teicp250/hicp-energy/notes\">AllThatStats</a>, jenž čerpá přímo z dat a definic Eurostatu. V české debatě se výraz „energetická inflace“ běžně používá právě pro tuto meziroční změnu cen energií.</p>\n\n<p>Nejprve se díváme na standardní ukazatel HICP – Energy pro Českou republiku na konci roku 2021. Databáze <a href=\"https://ycharts.com/indicators/czech_republic_inflation_rate_energy\">YCharts „Czech Republic Inflation Rate: Energy“</a>, která přebírá harmonizovaná data Eurostatu, uvádí, že meziroční inflace energií (složka „Energy“ HICP) v prosinci 2021 v ČR dosahovala přibližně <i>+1,7 %</i>. Stejný typ ukazatele pro celou Evropskou unii – <a href=\"https://ycharts.com/indicators/europe_inflation_rate_energy\">„European Union Inflation Rate: Energy“</a> – udává za prosinec 2021 průměrnou energetickou inflaci v EU ve výši zhruba <i>+24,6 %</i>. Z porovnání vyplývá, že česká energetická inflace byla v prosinci 2021 zhruba o dvaadvacet procentních bodů nižší než průměr EU, tedy výrazně pod průměrem, nikoliv na jeho špici.</p>\n\n<p>Ještě názornější je srovnání, pokud se zaměříme na ceny energií pro bydlení, tedy elektřiny, plynu a tepla v domácnostech. Český statistický úřad ve své analýze <a href=\"https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii\">„Inflaci výrazně zrychlily zejména ceny energií“</a> shrnuje eurostatovská data za prosinec 2021 tak, že <i>„ceny energií pro bydlení vykázaly v prosinci 2021 nejvyšší meziroční růsty v Estonsku, Nizozemsku, Belgii a ve Španělsku, naopak nejnižší na Slovensku a v České republice“</i>. Podle téže analýzy se v Česku ceny energií pro bydlení meziročně snížily o zhruba 8,5 %, a to především díky tehdejšímu dočasnému odpuštění DPH na energie. Zatímco v Estonsku rostly ceny energií pro bydlení meziročně přibližně o 77,8 %, v Nizozemsku o 74,9 %, v Belgii o 57,4 % a ve Španělsku o 54,8 %, Česká republika vykazovala jejich meziroční pokles, a byla tedy na samotném konci žebříčku.</p>\n\n<p>Data z jiných zemí potvrzují, že vývoj v České republice byl na konci roku 2021 spíše výjimkou. Statistický úřad Kypru ve zprávě o harmonizovaném indexu spotřebitelských cen za prosinec 2021 uvádí, že v ekonomické kategorii energií šlo o meziroční nárůst přibližně o 28 %, jak shrnuje i zpravodajský web <a href=\"https://en.famagusta.news/news/kypros/afxithike-o-deiktis-timon-katanaloti-ton-dekemvrio-tou-2021-poios-o-deiktis-timon-tou-2020\">Famagusta News</a>. V Lucembursku popisuje blog ekonomické komory, že v prosinci 2021 vzrostly ceny plynu meziročně zhruba o 61,3 % a kapalných paliv o 63,4 %, což dokládá analýza na webu <a href=\"https://www.carlothelenblog.lu/2022/02/17/a-rise-in-prices-for-the-long-haul\">CarloThelenBlog.lu</a>. V mnoha západoevropských státech tak byla energetická inflace v desítkách procent, zatímco v Česku se podle harmonizovaných dat Eurostatu pohybovala jen v jednotkách procent, nebo dokonce v záporných hodnotách u energií pro bydlení.</p>\n\n<p>Srovnávací část výroku tedy neodpovídá realitě. Aby měla Česká republika na konci roku 2021 „nejvyšší energetickou inflaci“, musela by na tom být hůř než země jako Estonsko, Nizozemsko, Belgie či Španělsko, které přitom vykazovaly několikanásobně vyšší růsty cen energií než Česko. Protože všechny tyto státy jsou zároveň členy Evropské unie i OECD, platí, že pokud ČR nebyla na špici ani v rámci EU, nemohla mít nejvyšší energetickou inflaci ani v rámci celé OECD. Tento závěr opět potvrzuje srovnávací analýza Českého statistického úřadu založená na datech Eurostatu<a href=\"https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii\">.</a></p>\n\n<p>Zmíněný výrok lze vykládat i benevolentněji, například tak, že měl na mysli situaci po začátku roku 2022. Sám Český statistický úřad ve stejné analýze uvádí, že situace v cenách energií se v Česku <i>„začíná dramaticky měnit od ledna 2022“</i> a že i kvůli tomu se česká inflace vrací na přední místa evropského žebříčku<a href=\"https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii\">.</a> Nezávislá analýza serveru <a href=\"https://demagog.cz/vyrok/24304\">Demagog.cz</a>, která vychází z údajů Eurostatu, pak ukazuje, že v období od prosince 2021 do srpna 2025 vzrostly ceny energií v ČR kumulativně nejvíce z celé EU, přibližně o 64,2 %, zatímco v druhém Rakousku šlo o zhruba 38,6 %. V těchto pozdějších obdobích tedy Česká republika opravdu patří mezi země s nejvyšším růstem cen energií.</p>\n\n<p>To však nemění skutečnost, že výrok Karla Havlíčka mluví jednoznačně o situaci „na konci roku 2021“. Pro tento okamžik máme k dispozici kvalitní mezinárodní statistiky: harmonizovaný index HICP – Energy pro Českou republiku i pro celou EU a také detailní srovnání cen energií pro bydlení, které zveřejnil Český statistický úřad na základě dat Eurostatu<a href=\"https://ycharts.com/indicators/czech_republic_inflation_rate_energy\">.</a><a href=\"https://ycharts.com/indicators/europe_inflation_rate_energy\">.</a><a href=\"https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii\">.</a> Všechny tyto zdroje ukazují, že v prosinci 2021 měla Česká republika v oblasti energií buď velmi nízkou meziroční inflaci, nebo dokonce meziroční pokles, a v rámci EU patřila spíše k zemím s nejnižšími růsty cen energií.</p>\n\n<p>Nepodařilo se nám najít žádný oficiální ukazatel, ve kterém by měla Česká republika na konci roku 2021 nejvyšší energetickou inflaci v evropském či oecdovském srovnání. Naopak, dostupná data tuto představu přímo vyvracejí. Výrok „Na konci roku 2021 jste měli nejvyšší energetickou inflaci“ proto hodnotíme jako nepravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_056160eb0b36fe170069a6c2dbc724819e97482d67678e24f1",
+    "created_at": 1772536539.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_056160eb0b36fe170069a6c2e61dd4819e85c5303e82e6168a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c2f1c844819eaa42df014895f6a9",
+        "action": {
+          "query": "calculator: 1+1",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "calculator: 1+1"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c2f24c40819e8699f0977d86077b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c2f26f30819ea1093d2f79d199ac",
+        "action": {
+          "query": "OECD \"energy inflation\" December 2021 CPI energy",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "OECD \"energy inflation\" December 2021 CPI energy",
+            "OECD data consumer prices energy December 2021 Czech Republic",
+            "Eurostat HICP energy annual rate of change December 2021 Czech",
+            "\"energeticka inflace\" prosinec 2021 mezinarodni srovnani"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c2f4d614819e92cbd66511bd7256",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c2f58438819e9084acdf07487735",
+        "action": {
+          "query": "\"Consumer prices - Energy\" OECD December 2021 Czech",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Consumer prices - Energy\" OECD December 2021 Czech",
+            "\"CPI - Energy\" OECD monthly inflation 2021",
+            "\"Inflation, consumer prices: energy\" OECD 2021 Czech Republic",
+            "Eurostat HICP energy component 2021 December by country"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c2f8a9f4819e9c968ac28b0007fb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c2faaa14819e9c5b3d9624376927",
+        "action": {
+          "query": "\"prc_hicp_manr\" energy 2021 December",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"prc_hicp_manr\" energy 2021 December",
+            "prc_hicp_manr energy Czechia 2021",
+            "\"HICP (energy)\" annual rate of change December 2021 Eurostat",
+            "\"Annual inflation rate - Energy\" December 2021 Eurostat Czech"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c2fcb6a0819eb346f2d8e6448a73",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c2fd6424819eb94199962afbe09d",
+        "action": {
+          "query": "\"Consumer prices - energy\" \"OECD Data\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Consumer prices - energy\" \"OECD Data\"",
+            "\"Consumer prices, energy\" \"data.oecd.org\"",
+            "\"Consumer price index: energy\" \"OECD.Stat\"",
+            "\"Prague\" \"energeticka inflace\" 2021 OECD"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c3013c7c819ea02c1b060c198d84",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c301a26c819eb89c1e2e8dc2b016",
+        "action": {
+          "query": "\"prc_hicp_manr\" \"Annual rate of change\" energy",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"prc_hicp_manr\" \"Annual rate of change\" energy",
+            "\"HICP\" \"annual rate of change\" \"Energy\"",
+            "\"HICP - monthly data (annual rate of change)\"",
+            "\"Inflation rate - energy\" HICP Czech December 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c3056c98819eb1589afd0b4c13f0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c3089de0819eb0a19b846881e637",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c30c8388819e8b444b458949663e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c312b740819eb0b956b084183a51",
+        "action": {
+          "query": "\"inflace energií\" prosinec 2021 \"Česká republika\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"inflace energií\" prosinec 2021 \"Česká republika\"",
+            "\"HICP energie\" \"prosinec 2021\"",
+            "\"energetická inflace\" \"OECD\" 2021",
+            "\"HICP energy\" \"December 2021\" country comparison"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c31587b0819eb1023926461f0b88",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c3384210819e9edec9564c5d8050",
+        "action": {
+          "query": "\"energetická inflace\" definice",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"energetická inflace\" definice",
+            "\"energetická inflace\" \"harmonizovaný index\"",
+            "\"energetická inflace\" \"Český statistický úřad\"",
+            "\"energeticka inflace\" \"ČNB\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c33ee9e0819e8d9fc096eec87d6d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c3462c60819e9d97088f19320d33",
+        "action": {
+          "query": "\"Consumer prices - energy\" \"Czech Republic\" 2021 OECD",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Consumer prices - energy\" \"Czech Republic\" 2021 OECD",
+            "\"CPI - Energy\" Czech Republic 2021 OECD data",
+            "\"Harmonised index of consumer prices\" energy \"Czechia\" 2021",
+            "\"CPGREN01\" \"Czech Republic\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c349a39c819eb5e5111577ba8e98",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c35bc704819e9c2fefbd29726b88",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c35edf3c819e87f0d3cce58bf8d5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c363c708819eab0fd6b43e8f0470",
+        "action": {
+          "query": "\"Change in consumer prices in the European Union\" \"December 2021\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Change in consumer prices in the European Union\" \"December 2021\"",
+            "\"ceny energií\" \"v prosinci 2021\" \"Estonsku\" \"Nizozemí\"",
+            "\"energií pro bydlení\" \"Estonsku\" \"Nizozemí\" \"Belgii\"",
+            "\"HICP - energy\" \"December 2021\" \"Eurostat\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c3689b0c819e827708bb540ad53b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c36d88d8819eacfec70d5b6cff13",
+        "action": {
+          "query": "\"díky dočasnému odpuštění DPH\" energie prosinec 2021",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"díky dočasnému odpuštění DPH\" energie prosinec 2021",
+            "\"prosincový český harmonizovaný index\" 5,4 5,3 HICP 2021 energie",
+            "\"energetická inflace\" \"prosinec 2021\" \"Česko\"",
+            "\"energetickou inflaci\" 2021 OECD"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c373cdf0819e9a3b9e8fc180718d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_056160eb0b36fe170069a6c377a708819e98c9b32aa317f09b",
+        "action": {
+          "query": "Estonia Inflation Rate: Energy (Eurostat)",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Estonia Inflation Rate: Energy (Eurostat)",
+            "Spain Inflation Rate: Energy (Eurostat)",
+            "Netherlands Inflation Rate: Energy (Eurostat)",
+            "Belgium Inflation Rate: Energy (Eurostat)"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_056160eb0b36fe170069a6c3812ba0819ea238e52feecb1acc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_056160eb0b36fe170069a6c3fc54d8819e9dfada40337736c3",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 370,
+                "start_index": 261,
+                "title": "HICP - energy - All That Stats",
+                "type": "url_citation",
+                "url": "https://www.allthatstats.com/en/statistics/teicp250/hicp-energy/notes?utm_source=openai"
+              },
+              {
+                "end_index": 635,
+                "start_index": 533,
+                "title": "Czech Republic Inflation Rate: Energy (Monthly) - Historica…",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai"
+              },
+              {
+                "end_index": 1057,
+                "start_index": 967,
+                "title": "Inflaci výrazně zrychlily zejména ceny energií | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii"
+              },
+              {
+                "end_index": 1462,
+                "start_index": 1293,
+                "title": "Consumer Price Index increased in December 2021 – What is the 2020 Price Index – Famagusta News",
+                "type": "url_citation",
+                "url": "https://en.famagusta.news/news/kypros/afxithike-o-deiktis-timon-katanaloti-ton-dekemvrio-tou-2021-poios-o-deiktis-timon-tou-2020?utm_source=openai"
+              },
+              {
+                "end_index": 2419,
+                "start_index": 2328,
+                "title": "PČR, PS 2021-..., 83. schůze, část 8 (16. 11. 2023)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai"
+              },
+              {
+                "end_index": 2958,
+                "start_index": 2849,
+                "title": "HICP - energy - All That Stats",
+                "type": "url_citation",
+                "url": "https://www.allthatstats.com/en/statistics/teicp250/hicp-energy/notes?utm_source=openai"
+              },
+              {
+                "end_index": 3309,
+                "start_index": 3219,
+                "title": "Inflaci výrazně zrychlily zejména ceny energií | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii"
+              },
+              {
+                "end_index": 3913,
+                "start_index": 3811,
+                "title": "Czech Republic Inflation Rate: Energy (Monthly) - Historica…",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai"
+              },
+              {
+                "end_index": 4224,
+                "start_index": 4122,
+                "title": "Czech Republic Inflation Rate: Energy (Monthly) - Historica…",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai"
+              },
+              {
+                "end_index": 4482,
+                "start_index": 4388,
+                "title": "European Union Inflation Rate: Energy (Monthly) - Historica…",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/europe_inflation_rate_energy?utm_source=openai"
+              },
+              {
+                "end_index": 5211,
+                "start_index": 5121,
+                "title": "Inflaci výrazně zrychlily zejména ceny energií | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii"
+              },
+              {
+                "end_index": 6563,
+                "start_index": 6394,
+                "title": "Consumer Price Index increased in December 2021 – What is the 2020 Price Index – Famagusta News",
+                "type": "url_citation",
+                "url": "https://en.famagusta.news/news/kypros/afxithike-o-deiktis-timon-katanaloti-ton-dekemvrio-tou-2021-poios-o-deiktis-timon-tou-2020?utm_source=openai"
+              },
+              {
+                "end_index": 7001,
+                "start_index": 6882,
+                "title": "A rise in prices for the long haul | Carlo Thelen Blog",
+                "type": "url_citation",
+                "url": "https://www.carlothelenblog.lu/2022/02/17/a-rise-in-prices-for-the-long-haul/?utm_source=openai"
+              },
+              {
+                "end_index": 7696,
+                "start_index": 7606,
+                "title": "Inflaci výrazně zrychlily zejména ceny energií | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii"
+              },
+              {
+                "end_index": 8348,
+                "start_index": 8258,
+                "title": "Inflaci výrazně zrychlily zejména ceny energií | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii"
+              },
+              {
+                "end_index": 8831,
+                "start_index": 8729,
+                "title": "Czech Republic Inflation Rate: Energy (Monthly) - Historica…",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai"
+              },
+              {
+                "end_index": 9103,
+                "start_index": 9039,
+                "title": "Andrej Babiš (ANO) „Kumulovaný růst cen energií od nástupu vlády...“ — Demagog.cz",
+                "type": "url_citation",
+                "url": "https://demagog.cz/vyrok/24304?utm_source=openai"
+              },
+              {
+                "end_index": 9867,
+                "start_index": 9776,
+                "title": "PČR, PS 2021-..., 83. schůze, část 8 (16. 11. 2023)",
+                "type": "url_citation",
+                "url": "https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai"
+              },
+              {
+                "end_index": 10123,
+                "start_index": 9985,
+                "title": "Máme největší energetickou inflaci mezi zeměmi OECD, kritizuje Havlíček - iDNES.tv",
+                "type": "url_citation",
+                "url": "https://tv.idnes.cz/domaci/stinova-vlada-energeticka-inflace-karel-havlicek.V240215_122238_idnestv_heli?utm_source=openai"
+              },
+              {
+                "end_index": 10737,
+                "start_index": 10635,
+                "title": "Czech Republic Inflation Rate: Energy (Monthly) - Historica…",
+                "type": "url_citation",
+                "url": "https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai"
+              },
+              {
+                "end_index": 11043,
+                "start_index": 10953,
+                "title": "Inflaci výrazně zrychlily zejména ceny energií | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii"
+              }
+            ],
+            "text": "### 1. Shrnutí\n\n- Pod „energetickou inflací“ se v mezinárodních statistikách běžně rozumí meziroční růst cen energií (elektřina, plyn, paliva apod.) ve spotřebitelském koši – např. složka **HICP – Energy** nebo ceny energií pro bydlení (elektřina, plyn, teplo).([allthatstats.com](https://www.allthatstats.com/en/statistics/teicp250/hicp-energy/notes?utm_source=openai))  \n- Pro **prosinec 2021** byla v ČR meziroční inflace energií podle harmonizovaného indexu HICP (složka „Energy“) cca **1,7 %**, zatímco průměr EU byl **24,6 %**.([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai))  \n- Podle Českého statistického úřadu k **cenám energií pro bydlení** (elektřina, plyn, teplo) v prosinci 2021:  \n  - **nejvyšší meziroční růsty** měly Estonsko (+77,8 %), Nizozemsko (+74,9 %), Belgie (+57,4 %), Španělsko (+54,8 %),  \n  - **nejnižší** Slovensko (–3,9 %) a **Česká republika (–8,5 %)** díky dočasnému odpuštění DPH.([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n- Už na příkladech dalších zemí (Kypr: energie +28 % r/r v prosinci 2021; Lucembursko: plyn +61,3 %, kapalná paliva +63,4 % v prosinci 2021) je patrné, že řada států měla ke konci roku 2021 mnohem vyšší „energetickou inflaci“ než ČR.([en.famagusta.news](https://en.famagusta.news/news/kypros/afxithike-o-deiktis-timon-katanaloti-ton-dekemvrio-tou-2021-poios-o-deiktis-timon-tou-2020?utm_source=openai))  \n\nZ dostupných dat tedy vyplývá, že **Česká republika rozhodně neměla na konci roku 2021 „nejvyšší energetickou inflaci“ – naopak patřila v EU k nejnižším (u energií pro bydlení byla vůbec nejnižší).**  \n\n---\n\n### 2. Rozklad výroku a možné interpretace\n\nVýrok Karla Havlíčka:  \n> „Na konci roku 2021 jste měli nejvyšší energetickou inflaci.“\n\nMožné interpretace:\n\n1. **Doslovná, časová:**\n   - „Na konci roku 2021“ = prosinec 2021 (případně 4. čtvrtletí 2021).\n2. **Obsahová:**\n   - „energetická inflace“ = meziroční růst cen:\n     - a) energií jako celku (HICP – Energy), nebo  \n     - b) energií pro bydlení (elektřina, plyn, teplo), případně  \n     - c) nějaký kumulovaný růst cen energií od určitého bodu.\n3. **Geografický rozsah:**\n   - implicitně podle předchozí části debaty buď **OECD**, nebo **EU** (Havlíček předtím mluví o „energetické inflaci“ v OECD).([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai))  \n\nNíže ověřujeme nejprve **doslovné znění** (prosinec 2021, standardní ukazatele energetické inflace), poté stručně naznačujeme, jak vypadá situace u alternativních, benevolentnějších výkladů.\n\n---\n\n### 3. Co je „energetická inflace“ v oficiálních statistikách\n\n- Eurostat publikuje **HICP – Energy** (COICOP kategorie „Energy“, kód NRGY00), pro který se sleduje mj. **„annual rate of change“**, tedy meziroční míra inflace v %.([allthatstats.com](https://www.allthatstats.com/en/statistics/teicp250/hicp-energy/notes?utm_source=openai))  \n- Český statistický úřad a další instituce používají pojem „energetická inflace“ buď:\n  - pro **meziroční inflaci energií** (elektřina, plyn, teplo, pohonné hmoty), nebo  \n  - pro **specifickou podsložku – ceny energií pro bydlení** (elektřina, plyn, teplo).([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n\nPro ověření výroku proto používáme **dva standardní ukazatele**:\n\n1. **HICP – Energy (Eurostat, HICP.M.CZ.N.NRGY00… – roční míra změny)**  \n2. **Ceny energií pro bydlení** (elektřina, plyn, teplo) podle Eurostatu, shrnuté v analýze ČSÚ.\n\n---\n\n### 4. Data pro konec roku 2021 – HICP „Energy“\n\n#### 4.1 Česká republika\n\nDatabáze YCharts (přebírá přímo harmonizovaná data Eurostatu) uvádí indikátor „Czech Republic Inflation Rate: Energy“, popsaný jako **Harmonised, 12-Month Rate, source: Eurostat**.([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai))  \n\nVýběr hodnot:\n\n- **Prosinec 2021:** **+1,7 %** (meziroční inflace energií)  \n- **Listopad 2021:** +2,7 %  \n\nTento ukazatel tedy říká, že **energetická inflace v ČR v prosinci 2021 byla jen cca 1,7 % r/r.**([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai))  \n\n#### 4.2 Průměr EU\n\nAnalogický indikátor „European Union Inflation Rate: Energy“ (také harmonizovaný HICP – Energy, 12měsíční míra změny, zdroj Eurostat) udává:([ycharts.com](https://ycharts.com/indicators/europe_inflation_rate_energy?utm_source=openai))  \n\n- **EU (27) – prosinec 2021:** **+24,6 %** (meziročně)  \n\nSrovnání:\n\n- ČR: **+1,7 %**  \n- EU průměr: **+24,6 %**\n\nČeská energetická inflace byla tedy na konci roku 2021 **řádově nižší než průměr EU**. Pokud by měla ČR „nejvyšší energetickou inflaci“, musela by být **nejméně na úrovni či nad průměrem**, což evidentně není splněno.\n\n---\n\n### 5. Data pro konec roku 2021 – ceny energií pro bydlení (elektřina, plyn, teplo)\n\nČeský statistický úřad ve své tiskové zprávě z 14. 2. 2022 („Inflaci výrazně zrychlily zejména ceny energií“) shrnuje mj. **mezinárodní srovnání cen energií pro bydlení v prosinci 2021** na základě dat Eurostatu:([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n\n> „Ceny energií pro bydlení, kam kromě plynu a elektřiny patří i tepelná energie, vykázaly v prosinci 2021 nejvyšší meziroční růsty v Estonsku (o 77,8 %), Nizozemí (o 74,9 %), Belgii (o 57,4 %) a ve Španělsku (o 54,8 %), naopak nejnižší na Slovensku (pokles o 3,9 %) a v České republice (**díky dočasnému odpuštění DPH dokonce pokles o 8,5 %**).“\n\nKlíčové body:\n\n- **ČR:** **–8,5 %** (meziroční pokles cen energií pro bydlení v prosinci 2021)  \n- **Nejvyšší růsty:**  \n  - Estonsko: +77,8 %  \n  - Nizozemsko: +74,9 %  \n  - Belgie: +57,4 %  \n  - Španělsko: +54,8 %  \n\nČR tedy **neměla ani kladnou energetickou inflaci v této složce, ale meziroční pokles cen**, a zároveň byla **na úplném konci žebříčku EU** (spolu se Slovenskem).\n\nTato data přímo odporují tvrzení, že by ČR ke konci roku 2021 měla „nejvyšší energetickou inflaci“ – má naopak **nejnižší** (v této kategorii).\n\n---\n\n### 6. Příklady z jiných zemí – vysoká energetická inflace v prosinci 2021\n\nAby bylo zřejmé, že český vývoj byl na konci roku 2021 spíše výjimkou (silné zdražení jinde vs. pokles u nás), lze uvést konkrétní příklady:\n\n#### 6.1 Kypr\n\nStatistický úřad Kypru popisuje vývoj HICP v prosinci 2021 takto:([en.famagusta.news](https://en.famagusta.news/news/kypros/afxithike-o-deiktis-timon-katanaloti-ton-dekemvrio-tou-2021-poios-o-deiktis-timon-tou-2020?utm_source=openai))  \n\n- Největší změna v ekonomických kategoriích byla u **„Energy“: meziroční +28,0 %** (prosinec 2021 vs. prosinec 2020).\n\nTj. **energetická inflace v Kypru +28 % r/r**, zatímco v ČR (HICP – Energy) cca +1,7 % a energie pro bydlení –8,5 %.\n\n#### 6.2 Lucembursko\n\nAnalytický blog pro Lucembursko uvádí pro prosinec 2021:([carlothelenblog.lu](https://www.carlothelenblog.lu/2022/02/17/a-rise-in-prices-for-the-long-haul/?utm_source=openai))  \n\n- **Roční inflace ceny plynu**: +61,3 %  \n- **Roční inflace kapalných paliv**: +63,4 %  \n\nTo opět ilustruje, že ve většině zemí západní Evropy byly růsty cen energií na konci roku 2021 **v desítkách procent**, zatímco v ČR byla díky odpuštění DPH naopak **meziroční stagnace či pokles**.\n\n---\n\n### 7. OECD vs. EU – co z toho plyne\n\n- Země EU, pro které máme výše uvedená čísla, jsou zároveň **členskými zeměmi OECD** (např. Estonsko, Nizozemsko, Belgie, Španělsko).  \n- V těchto zemích byly meziroční růsty cen energií (HICP – Energy či energie pro bydlení) v prosinci 2021 **násobně vyšší** než v ČR.([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n- **Pokud tedy ČR nebyla ani v rámci EU zdaleka na špici (a u energií pro bydlení byla úplně poslední), logicky nemohla mít „nejvyšší energetickou inflaci“ ani v celém OECD.**  \n\n---\n\n### 8. Alternativní, benevolentnější interpretace výroku\n\nPro úplnost (jak ukládají instrukce) je vhodné zmínit, že **v jiných obdobích a pro jinak definované ukazatele** ČR skutečně patřila k zemím s nejvyšší energetickou inflací. To ale **neodpovídá doslovnému znění „na konci roku 2021“**.\n\n#### 8.1 Po lednu 2022 se situace výrazně mění\n\nStejná tisková zpráva ČSÚ dodává:([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n\n> „Situace v cenách energií v Česku se začíná dramaticky měnit od ledna 2022, a to je i jedním z důvodů návratu české inflace na historicky obvyklejší přední místa v evropském žebříčku.“\n\nData HICP – Energy pro ČR (Eurostat, přes YCharts) ukazují, že meziroční energetická inflace po prosinci 2021 prudce narostla – např. v první polovině roku 2022 do hodnot kolem 30–40 % r/r.([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai))  \n\n#### 8.2 Kumulovaný růst cen energií po prosinci 2021\n\nDemagog.cz hodnotil výrok Andreje Babiše, který odkazoval na graf kumulovaného růstu indexu HICP energií v EU **od prosince 2021**. Z jejich analýzy:([demagog.cz](https://demagog.cz/vyrok/24304?utm_source=openai))  \n\n- Podle dat Eurostatu vzrostly ceny energií v ČR mezi **prosincem 2021 a srpnem 2025** nejvíce v celé EU – kumulativně o **64,2 %**,  \n- druhé Rakousko mělo +38,6 %, některým zemím (Švédsko, Španělsko, Nizozemsko) naopak energie zlevnily.\n\nTj. **po** konci roku 2021 (v průběhu vlády Petra Fialy) existuje měřítko, ve kterém je ČR v růstu cen energií opravdu „nejhorší v EU“.\n\n#### 8.3 Havlíčkovy výroky o OECD v letech 2023–2024\n\n- V listopadu 2023 Karel Havlíček ve Sněmovně citoval data OECD o „energetické inflaci“ (meziroční změna cen energií) a uváděl, že průměr OECD je –0,5 %, zatímco v ČR je +12,5 %, což nás řadí na **2. nejhorší místo v OECD (po Kolumbii)**.([psp.cz](https://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm?utm_source=openai))  \n- V únoru 2024 pak v rozhovoru pro iDNES.tv mluvil o tom, že „máme největší energetickou inflaci mezi zeměmi OECD“.([tv.idnes.cz](https://tv.idnes.cz/domaci/stinova-vlada-energeticka-inflace-karel-havlicek.V240215_122238_idnestv_heli?utm_source=openai))  \n\nTyto výroky se však týkají **období 2023–2024**, nikoli „konce roku 2021“.\n\n---\n\n### 9. Závěrečné zhodnocení\n\n1. **Pro standardní definice „energetické inflace“ (HICP – Energy, případně ceny energií pro bydlení) a časový okamžik „konec roku 2021“ (prosinec 2021) jsou k dispozici kvalitní mezinárodní statistiky (Eurostat, zprostředkovaně ČSÚ, YCharts).**  \n2. Podle těchto dat:\n   - měla Česká republika v prosinci 2021 **velmi nízkou** energetickou inflaci (HICP – Energy cca +1,7 % vs. průměr EU +24,6 %),([ycharts.com](https://ycharts.com/indicators/czech_republic_inflation_rate_energy?utm_source=openai))  \n   - ceny energií pro bydlení v ČR dokonce **meziročně klesly o 8,5 %** a byly **nejnižší v celé EU**, zatímco nejvyšší růsty (a tedy „nejvyšší energetickou inflaci“) měly Estonsko, Nizozemsko, Belgie a Španělsko.([csu.gov.cz](https://csu.gov.cz/csu/czso/inflaci-vyrazne-zrychlily-zejmena-ceny-energii))  \n3. Z toho plyne, že **doslovné tvrzení „Na konci roku 2021 jste měli nejvyšší energetickou inflaci“ je v rozporu s dostupnými daty** – ČR měla v daném okamžiku naopak **jednu z nejnižších** energetických inflací v EU a tím spíše ne nejvyšší v OECD.  \n4. Existují sice **alternativní časové a metodické interpretace** (kumulovaný růst energií od prosince 2021, stav v letech 2023–2024), ve kterých ČR skutečně patří k zemím s nejvyšší energetickou inflací, ty však **neodpovídají konkrétnímu tvrzení o „konci roku 2021“**.\n\n---\n\n### 10. Přehled hlavních použitých zdrojů (URL v kódu)\n\n```text\nČeský statistický úřad – „Inflaci výrazně zrychlily zejména ceny energií“ (14. 2. 2022)\nhttps://csu.gov.cz/produkty/inflaci-vyrazne-zrychlily-zejmena-ceny-energii\n\nYCharts – Czech Republic Inflation Rate: Energy (source: Eurostat HICP – Energy)\nhttps://ycharts.com/indicators/czech_republic_inflation_rate_energy\n\nYCharts – European Union Inflation Rate: Energy (source: Eurostat HICP – Energy)\nhttps://ycharts.com/indicators/europe_inflation_rate_energy\n\nECB Data Portal – HICP Inflation rate – Energy, Czech Republic, Annual rate of change\nhttps://data.ecb.europa.eu/data/datasets/HICP/HICP.M.CZ.N.NRGY00.4D0.ANR\n\nAllThatStats – HICP – Energy (definice ukazatele)\nhttps://www.allthatstats.com/en/statistics/teicp250/hicp-energy/notes\n\nStatistical Service of Cyprus – Consumer Price Index December 2021 (HICP, Energy +28 % y/y)\nhttps://en.famagusta.news/news/kypros/afxithike-o-deiktis-timon-katanaloti-ton-dekemvrio-tou-2021-poios-o-deiktis-timon-tou-2020\n\nCarlo Thelen Blog – Inflace energií v Lucembursku (plyn a kapalná paliva, prosinec 2021)\nhttps://www.carlothelenblog.lu/2022/02/17/a-rise-in-prices-for-the-long-haul/\n\nDemagog.cz – výrok Andreje Babiše o kumulovaném růstu cen energií od prosince 2021\nhttps://demagog.cz/vyrok/24304\n\nStenozáznam Poslanecké sněmovny, 83. schůze, 16. 11. 2023 – vystoupení Karla Havlíčka k „energetické inflaci“ podle OECD\nhttps://www.psp.cz/eknih/2021ps/stenprot/083schuz/s083008.htm\n\niDNES.tv – Video „Máme největší energetickou inflaci mezi zeměmi OECD, kritizuje Havlíček“ (15. 2. 2024)\nhttps://tv.idnes.cz/domaci/stinova-vlada-energeticka-inflace-karel-havlicek.V240215_122238_idnestv_heli\n\nČNB blog – „Inflace v Evropě: vysvětlení rozdílů pomocí různé cenové hladiny a energetické náročnosti“ (18. 10. 2023)\nhttps://www.cnb.cz/cs/o_cnb/cnblog/Inflace-v-Evrope-vysvetleni-rozdilu-pomoci-ruzne-cenove-hladiny-a-energeticke-narocnosti/\n```",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 63917,
+      "input_tokens_details": {
+        "cached_tokens": 6912
+      },
+      "output_tokens": 16001,
+      "output_tokens_details": {
+        "reasoning_tokens": 11621
+      },
+      "total_tokens": 79918
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772536898,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

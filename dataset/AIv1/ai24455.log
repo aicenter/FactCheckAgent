@@ -1,0 +1,566 @@
+{
+  "claim_id": "24455",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20251208_131217",
+  "source_md": "experiments/gpt-5.1h_20251208_131217/brief_fact_check_id24455.md",
+  "fact_check": "# Fact Check for Statement ID 24455\n\n## Statement\nDneska zveřejnil Český statistický úřad – nezávislá instituce – data o tom, jak roste ekonomika a ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí.\n\n---\n## OpenAI Deep Research Fact Check\n## Strukturovaná zpráva k tvrzení Martina Kupky  \n\n**Ověřované tvrzení:**  \n„Dneska zveřejnil Český statistický úřad – nezávislá instituce – data o tom, jak roste ekonomika a ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí.“\n\nRozkládám na dílčí tvrzení:\n\n1. **(T1)** V den rozhovoru (28. 11. 2025) zveřejnil Český statistický úřad (ČSÚ) nová data o růstu ekonomiky (HDP za 3. čtvrtletí 2025).  \n2. **(T2)** Český statistický úřad je „nezávislá instituce“.  \n3. **(T3)** Tato nová data ukazují **2,8 % meziročního růstu HDP** při porovnání třetích čtvrtletí (Q3 2025 vs. Q3 2024).  \n\n---\n\n## 1. Tvrzení T1: „Dneska zveřejnil Český statistický úřad data o tom, jak roste ekonomika“\n\n### Důkazy\n\n- Rychlá informace ČSÚ **„Tvorba a užití HDP – 3. čtvrtletí 2025“** uvádí:  \n  - nadpis produktu: „Tvorba a užití HDP – 3. čtvrtletí 2025“,  \n  - **„Datum vydání: 28. 11. 2025“**,  \n  - shrnutí: „Podle zpřesněného odhadu vzrostl hrubý domácí produkt ve 3. čtvrtletí…“ apod. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n\n- Předchozí materiál ČSÚ **„Předběžný odhad HDP – 3. čtvrtletí 2025“** z 30. 10. 2025 na konci výslovně oznamuje termín vydání zpřesněné informace:  \n  - „Termín zveřejnění další RI: **28. listopadu 2025 (Tvorba a užití HDP za 3. čtvrtletí 2025)**.“ ([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-hdp-3-ctvrtleti-2025))  \n\n- Zpravodajství:  \n  - ČT24 píše 28. 11. 2025, že „Hrubý domácí produkt stoupl ve třetím čtvrtletí meziročně o 2,8 %… uvedl v pátek Český statistický úřad ve svém zpřesněném odhadu.“ ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/ceska-ekonomika-vzrostla-ve-tretim-ctvrtleti-o-28-procenta-367681?utm_source=openai))  \n  - TN.cz shrnuje, že „Česká ekonomika v letošním třetím čtvrtletí vzrostla meziročně o 2,8 %… Zpřesněné údaje v pátek na webu zveřejnil ČSÚ.“ ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/635025-ceska-ekonomika-zaziva-nejrychlejsi-rust-za-posledni-leta-dari-se-vetsine-odvetvi?utm_source=openai))  \n\n- Článek s rozhovorem s Martinem Kupkou na TN.cz má datum **28. 11. 2025, 15:51**, tedy stejný den jako zveřejnění rychlé informace ČSÚ. ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/635047-musime-se-srdcari-pracovat-na-promene-reaguje-kupka-na-odchod-kuby-z-ods))  \n\n### Hodnocení T1\n\n- **Potvrzeno.** ČSÚ skutečně 28. 11. 2025 zveřejnil nová data o HDP za 3. čtvrtletí 2025, tedy o růstu ekonomiky, a tato data vyšla tentýž den, kdy Kupka hovoří o „dneska“.\n\n---\n\n## 2. Tvrzení T2: „Český statistický úřad – nezávislá instituce“\n\nZde je třeba rozlišit:\n\n- **institucionální postavení** (je to ústřední orgán státní správy, tedy součást státní správy),  \n- **profesionální/statistická nezávislost** (zda je při tvorbě statistik právně a fakticky nezávislý na vládě).\n\n### Důkazy – právní a institucionální rámec\n\n- Podle § 3 zákona č. 89/1995 Sb., o státní statistické službě,  \n  „Státní statistickou službu vykonává **Český statistický úřad, který je ústředním správním úřadem**.“ ([csu.gov.cz](https://csu.gov.cz/3_organy_vykonavajici_statni_statistickou_sluzbu_))  \n\n- Stránka „O ČSÚ“ na oficiálním webu úřadu:  \n  „Český statistický úřad (ČSÚ) **je ústředním orgánem státní správy České republiky**.“ ([csu.gov.cz](https://csu.gov.cz/csu/czso/o-csu))  \n\n- Tentýž zákon v § 5 „Záruky nestrannosti státní statistické služby“ uvádí:  \n  - „Český statistický úřad … **je nezávislý při vytváření statistických informací**. Při získávání údajů a zpracování a vyhodnocování statistických informací postupuje tak, aby nebyla narušena objektivita informací…“ ([csu.gov.cz](https://csu.gov.cz/zakon_o_statni_statisticke_sluzbe))  \n\n- ČSÚ ve svých popularizačních textech opakovaně zdůrazňuje princip **profesionální nezávislosti**:\n  - článek „Důvěra v oficiální statistiky začíná nezávislostí a spoluprací“ vysvětluje, že Kodex evropské statistiky staví na principech jako „profesionální nezávislost“ a že statistické úřady nemají být vystaveny politickým či jiným vnějším tlakům při metodách, zdrojích dat a načasování zveřejnění. ([csu.gov.cz](https://csu.gov.cz/produkty/duvera-v-oficialni-statistiky-zacina-nezavislosti-a-spolupraci))  \n  - starší text „Vláda statistiky neřídí“ (2004) mluví o „principu politické nezávislosti“ a uvádí, že statistický úřad není součástí žádného ministerstva; publikační kalendář (např. HDP, inflace) dodržuje bez ohledu na politickou situaci. ([csu.gov.cz](https://csu.gov.cz/vlada_statistiky_neridi?utm_source=openai))  \n  - článek k Mezinárodnímu dni svobody tisku cituje předsedu ČSÚ, který připomíná „nestrannost a nezávislost ČSÚ“ jako záruku objektivity a důvěryhodnosti statistik. ([csu.gov.cz](https://csu.gov.cz/produkty/csu-podporuje-svobodu-medii-rovnym-pristupem-k-informacim?utm_source=openai))  \n\n- Anglická Wikipedie (sekundární zdroj, shrnující oficiální údaje) popisuje ČSÚ jako „central state administration authority … **independent of the country's government**“, tedy úřad nezávislý na vládě, i když je součástí státní správy. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Czech_Statistical_Office?utm_source=openai))  \n\n### Hodnocení T2\n\n- **Právní stav:**  \n  - ČSÚ je **ústřední orgán státní správy** (součást státního aparátu), nikoli nezávislý ústavní orgán typu Nejvyššího kontrolního úřadu nebo soudů. ([csu.gov.cz](https://csu.gov.cz/3_organy_vykonavajici_statni_statistickou_sluzbu_))  \n  - Zákon mu však **zaručuje profesní nezávislost při vytváření statistických informací** a stanoví princip nestrannosti a objektivity. ([csu.gov.cz](https://csu.gov.cz/zakon_o_statni_statisticke_sluzbe))  \n\n- **Běžné odborné a mediální vyjadřování:**  \n  - V odborném a mediálním diskurzu je ČSÚ běžně prezentován jako **nezávislý/statisticky nezávislý úřad**, jehož výstupy nejsou (mají nebýt) pod politickým vlivem. ([csu.gov.cz](https://csu.gov.cz/produkty/csu-podporuje-svobodu-medii-rovnym-pristupem-k-informacim?utm_source=openai))  \n\n- **Možné interpretace výroku:**\n  - Pokud „nezávislá instituce“ znamená **„profesně/statisticky nezávislá na politických zásazích“**, je to v souladu se zákonem i s tím, jak je ČSÚ chápán a prezentován.  \n  - Pokud by byla výpověď chápána striktně jako „instituce mimo státní správu“, pak by byla nepřesná, protože ČSÚ je ústřední správní úřad.\n\n**Celkově u T2:**  \n- Z hlediska běžného významu v kontextu debaty o politické nestrannosti dat lze tvrzení považovat za **v zásadě pravdivé**, ale **právně přesnější je mluvit o profesionální/statistické nezávislosti úřadu v rámci státní správy**.\n\n---\n\n## 3. Tvrzení T3: „…ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí.“\n\n### Důkazy – hodnota 2,8 % a definice „meziročně“\n\n- Rychlá informace ČSÚ **„Tvorba a užití HDP – 3. čtvrtletí 2025“** uvádí hned v úvodu:  \n  - „Podle zpřesněného odhadu vzrostl hrubý domácí produkt ve 3. čtvrtletí **mezičtvrtletně o 0,8 % a meziročně o 2,8 %**.“ ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n\n- Stejný dokument v komentáři ředitele odboru národních účtů ČSÚ upřesňuje, že HDP očištěný o cenové vlivy a sezónnost „ve srovnání s předchozím čtvrtletím“ vzrostl o 0,8 % a „**meziročně vzrostl o 2,8 %**“. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n\n- Předchozí **„Předběžný odhad HDP – 3. čtvrtletí 2025“** vysvětluje, co znamená „meziročně“ – tam se píše, že HDP byl „ve 3. čtvrtletí … o 0,7 % vyšší než v předchozím čtvrtletí a **v porovnání se stejným čtvrtletím předchozího roku** vzrostl o 2,7 %“. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-hdp-3-ctvrtleti-2025))  \n  - Je tedy zřejmé, že „meziročně“ znamená přesně **porovnání daného čtvrtletí se stejným čtvrtletím předchozího roku** – tedy Q3 2025 vs. Q3 2024.\n\n- Média i další instituce přebírají tuto hodnotu:  \n  - ČT24: „Hrubý domácí produkt stoupl ve třetím čtvrtletí **meziročně o 2,8 % a mezičtvrtletně o 0,8 %**, uvedl v pátek Český statistický úřad ve svém zpřesněném odhadu.“ ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/ceska-ekonomika-vzrostla-ve-tretim-ctvrtleti-o-28-procenta-367681?utm_source=openai))  \n  - TN.cz: „Česká ekonomika v letošním třetím čtvrtletí vzrostla meziročně o **2,8 %**… Proti předchozímu čtvrtletí … o 0,8 %. Zpřesněné údaje v pátek na webu zveřejnil ČSÚ.“ ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/635025-ceska-ekonomika-zaziva-nejrychlejsi-rust-za-posledni-leta-dari-se-vetsine-odvetvi?utm_source=openai))  \n  - Česká národní banka ve svém komentáři k HDP za 3. čtvrtletí 2025 uvádí, že „HDP vzrostl meziročně o **2,8 %**, … vůči předchozímu čtvrtletí se zvýšil o 0,8 %.“ ([cnb.cz](https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Ekonomicky-rust-dal-nabira-na-sile/?utm_source=openai))  \n\n- Zahraniční databáze, které přebírají oficiální data ČSÚ, uvádějí pro **2025Q3** také **+2,8 % meziročně**:  \n  - CountryEconomy: tabulka „Quarterly GDP – 2025“ uvádí u **2025Q3** „Quat. GDP Annual Growth (%) 2.8 %“. ([countryeconomy.com](https://countryeconomy.com/gdp/czech-republic?utm_source=openai))  \n  - TradingEconomics: k Q3 2025 píše, že „On a yearly basis, the economy expanded by **2.8% in Q3**, higher than preliminary estimates of 2.7%…“. ([tradingeconomics.com](https://tradingeconomics.com/czech-republic/gdp-growth/news/505730?utm_source=openai))  \n\n### Hodnocení T3\n\n- **Potvrzeno.**  \n  - Oficiální rychlá informace ČSÚ pro 3. čtvrtletí 2025 uvádí přesně **meziroční růst HDP o 2,8 %**. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n  - Z kontextu předběžného odhadu je jasné, že „meziročně“ znamená **porovnání 3. čtvrtletí 2025 se 3. čtvrtletím 2024**, tedy „při srovnání dat třetích čtvrtletí“. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-hdp-3-ctvrtleti-2025))  \n  - Hodnotu 2,8 % potvrzují jak česká média, tak ČNB a mezinárodní databáze.\n\n---\n\n## 4. Celkové zhodnocení výroku\n\n1. **Časový aspekt („dneska zveřejnil ČSÚ…“)** – plně v souladu s realitou: ČSÚ zveřejnil zpřesněnou informaci o HDP za 3. čtvrtletí 2025 právě **28. 11. 2025**, tedy v den, kdy rozhovor vyšel. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n\n2. **Nezávislost ČSÚ** – zákon i dokumenty ČSÚ potvrzují **profesionální/statistickou nezávislost úřadu**, zároveň je ale ČSÚ **ústředním správním úřadem**, tedy součástí státní správy. V politickém kontextu, kdy jde o zdůraznění nestrannosti statistických dat, je označení „nezávislá instituce“ **v zásadě přiměřené**, i když právně zjednodušující. ([csu.gov.cz](https://csu.gov.cz/zakon_o_statni_statisticke_sluzbe))  \n\n3. **Hodnota 2,8 % meziročně při srovnání třetích čtvrtletí** – přesně odpovídá oficiálnímu zpřesněnému odhadu ČSÚ pro **HDP ve 3. čtvrtletí 2025 (reálný, sezónně očištěný)** a je široce potvrzena dalšími zdroji. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n\n**Celkový závěr:**  \n- Fakticky je tvrzení o **„2,8 % meziročního růstu HDP při srovnání třetích čtvrtletí“ a o tom, že tyto údaje „dneska zveřejnil ČSÚ“, **přesné** a dobře podložené.  \n- Část o „nezávislé instituci“ odpovídá tomu, jak je ČSÚ koncipován (profesionálně nezávislý orgán státní statistiky), i když právní formulace je užší („je nezávislý při vytváření statistických informací“) a úřad je zároveň ústředním orgánem státní správy.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Kuloáry Napřímo released on 2025-11-28 available from https://tn.nova.cz/zpravodajstvi/clanek/635047-musime-se-srdcari-pracovat-na-promene-reaguje-kupka-na-odchod-kuby-z-ods.\\n\\n\\nThe claim was made by: Martin Kupka, Ministr dopravy\\n\\n\\nThe claim appears in the following immediate context in the source:\\nCo přinesla včerejší první mimořádná schůze Poslanecké sněmovny? Poškodí ODS odchod Martina Kuby? A co se řeší v kuloárech? Zeptáme se ministra dopravy v demisi Martina Kupky, také kandidáta na předsedu ODS. Dobrý den. Dobrý den. Proč jste? Včera jsem vás nepotkala? A v kuloárech, nepotkala jsem vás v kuloárech, v předsálí v Poslanecké sněmovny během té mimořádné schůze.\\nByl jsem v sále a my jsme měli tiskovou konferenci i před tou samotnou schůzí, abychom vysvětlili, proč je důležité, aby premiér České republiky nebyl ve střetu zájmů. Ono se to zdá jako abstraktní téma, přitom je to vlastně úplně konkrétní, když by si to člověk představil, kdyby například starosta malé obce nastavoval dotaci té obce a na konci zároveň jeho firmy tu dotaci čerpaly, zneužívaly. Tak ho ti občani vynesou v zubech.\\nA většinu toho jednání. Pardon, že vám do toho skáču. Většinu toho jednání tam seděl pan Výborný, že vlastně i poslanci té většiny se pozastavovali nad tím, tak oni svolají schůzi a potom tady ani nesedí, aby si tu poslechli.\\nJá jsem sledoval chvíli i projev Andreje Babiše, který bohužel byl plný odsudků hodnocení všech těch předchozích let, budování svobodného demokratického státu, kde samozřejmě byly etapy lepší a etapy horší, ale to, že dneska patříme mezi nejvyspělejší evropské země, to nikdo nemůže zpochybnit. A mě vlastně vždycky zlobí, když nikdo z té nastupující vlády, z někdejší opozice nenechá na té zemi nit suchou, že vypadá jako spálená země, no to vůbec neodpovídá realitě. Dneska zveřejnil Český statistický úřad nezávislá instituce data o tom, jak roste ekonomika a ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí. Co to znamená, že jsme třetí nejrychleji rostoucí ekonomika v Evropské unii? To vůbec neodpovídá obrazu spálené země a v tomhleu naopak má zaznít. A je to samozřejmě zásluha podnikatelů. Je to zásluha lidí, kteří v České republice pracují a samozřejmě také hospodářské politiky, kterou se dařilo realizovat v těch předchozích letech. A výsledkem je to, že do toho dalšího období startujeme s dobrými ukazateli. Rostou reálné mzdy.\\nZároveň se podařilo v tomto směru opravdu snížit, stabilizovat inflaci nikde na hodnotě 2,5 %, a to jsou hodnoty, které opravdu znamenají pozitivní zprávu pro každého občana České republiky.\\nSe zeptám znovu, proč jste tam neseděli ve chvíli, kdy svoláváte tu schůzi? Vybavila jsem si několik schůzí, vlastně, jako kdy vy jste potom pranýřovali Andreje Babiše, že tam vlastně u toho není a proč jste vlastně vy, když už to svoláváte? Proč potom tam máte jednoho zástupce, bez jehož přítomnosti by ta schůze vlastně tam potom nemohl.\\n\\nProvide a structured, citation-backed verification of the claim: 'Dneska zveřejnil Český statistický úřad – nezávislá instituce – data o tom, jak roste ekonomika a ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 248.84 seconds\n## Agent work log\n```\nREASONING: \nWEB SEARCH: \"2,8 %\" \"HDP\" \"třetí čtvrtletí\" \"Český statistický úřad\"\nREASONING: \nWEB SEARCH: \"Český statistický úřad\" nezávislost \"státní statistická služba\"\nREASONING: \nWEB SEARCH: \"Český statistický úřad\" \"ústřední orgán\"\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nWEB SEARCH: Tvorba a uziti HDP 3. ctvrtleti 2024 \"+2,8\"\nREASONING: \nWEB SEARCH: \"HDP vzrostl\" \"meziročně o 2,8 %\" \"3. čtvrtletí\"\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nREASONING: \nWEB SEARCH: Eurostat \"Czech\" GDP growth \"2025Q3\"\nREASONING: \nWEB SEARCH: \"Český statistický úřad\" politický tlak\nREASONING: \nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Český statistický úřad 28.&nbsp;listopadu 2025 skutečně zveřejnil zpřesněný odhad HDP za 3.&nbsp;čtvrtletí s meziročním růstem 2,8&nbsp;%. Zákon navíc výslovně zakotvuje nezávislost ČSÚ při tvorbě statistických informací. Výrok proto hodnotíme jako pravda.</p>\n\n<p>Ministr dopravy Martin Kupka použil tento výrok v debatě o stavu ekonomiky a veřejných financí. Odkazoval se přitom na čerstvě zveřejněná čísla Českého statistického úřadu (ČSÚ) k vývoji hrubého domácího produktu (HDP) ve 3.&nbsp;čtvrtletí 2025 a zdůraznil, že jde o data „nezávislé instituce“. V následujícím textu proto rozlišujeme tři dílčí faktická tvrzení obsažená v jeho větě a každé posuzujeme zvlášť.</p>\n\n<p>První dílčí tvrzení říká, že „dneska zveřejnil Český statistický úřad data o tom, jak roste ekonomika“, přičemž výrok zazněl 28.&nbsp;listopadu 2025. ČSÚ v ten den skutečně publikoval rychlou informaci <i>„Tvorba a užití HDP – 3. čtvrtletí 2025“</i>, která je datována právě k 28.&nbsp;11.&nbsp;2025 a shrnuje vývoj HDP v tomto období.<a href=\"https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025\">Rychlá informace ČSÚ</a>([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025?utm_source=openai)) V přehledu <i>„Nejnovější statistické údaje“</i> ČSÚ je navíc u ukazatele <i>„Hrubý domácí produkt, 3. čtvrtletí 2025“</i> uvedeno datum zveřejnění 28.&nbsp;11.&nbsp;2025.<a href=\"https://csu.gov.cz/nejnovejsi-statisticke-udaje\">Nejnovější údaje ČSÚ</a>([csu.gov.cz](https://csu.gov.cz/nejnovejsi-statisticke-udaje?utm_source=openai)) Tvrzení, že právě v daný den úřad nová data o růstu ekonomiky zveřejnil, tedy odpovídá skutečnosti.</p>\n\n<p>Druhé dílčí tvrzení zní, že Český statistický úřad je „nezávislá instituce“. Podle zákona č.&nbsp;89/1995&nbsp;Sb., o státní statistické službě, je ČSÚ ústředním správním úřadem, který vykonává státní statistickou službu; to výslovně uvádí §&nbsp;3 tohoto zákona.<a href=\"https://csu.gov.cz/csu/czso/zakon_o_statni_statisticke_sluzbe\">Zákon o státní statistické službě, §&nbsp;3</a>([csu.gov.cz](https://csu.gov.cz/csu/czso/zakon_o_statni_statisticke_sluzbe?utm_source=openai)) Současně však tentýž zákon v §&nbsp;5 stanoví záruky nestrannosti a uvádí, že ČSÚ <i>„je nezávislý při vytváření statistických informací“</i> a při jejich zpracování musí postupovat tak, aby nebyla narušena objektivita údajů.<a href=\"https://csu.gov.cz/csu/czso/zakon_o_statni_statisticke_sluzbe\">Zákon o státní statistické službě, §&nbsp;5</a>([csu.gov.cz](https://csu.gov.cz/csu/czso/zakon_o_statni_statisticke_sluzbe?utm_source=openai)) Na stránkách o zapojení ČSÚ do Evropského statistického systému úřad sám zdůrazňuje, že dodržuje Kodex evropské statistiky, který klade důraz právě na profesionalitu, důvěryhodnost a nezávislost statistických úřadů.<a href=\"https://csu.gov.cz/evropsky_statisticky_system_a_eu\">Zapojení ČSÚ do ESS</a>([csu.gov.cz](https://csu.gov.cz/evropsky_statisticky_system_a_eu?utm_source=openai)) Z institucionálního hlediska tak sice jde o ústřední orgán státní správy, ale jeho statistická činnost je zákonem i evropským rámcem chráněna jako odborně nezávislá. Označení ČSÚ za „nezávislou instituci“ v kontextu tvorby a zveřejňování statistik proto považujeme za fakticky přiměřené.</p>\n\n<p>Třetí dílčí tvrzení se týká samotné hodnoty růstu HDP. Kupka uvádí, že nová data ČSÚ „ukazují na 2,8&nbsp;% růstu HDP meziročně při srovnání dat třetích čtvrtletí“. V již zmíněné rychlé informaci ČSÚ se píše, že podle zpřesněného odhadu <i>„hrubý domácí produkt (HDP) očištěný o cenové vlivy a sezónnost vzrostl ve srovnání s předchozím čtvrtletím o 0,8&nbsp;% a meziročně vzrostl o 2,8&nbsp;%“</i>.<a href=\"https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025\">Rychlá informace ČSÚ k HDP za 3.&nbsp;čtvrtletí 2025</a>([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025?utm_source=openai)) Meziroční údaj zde znamená přesně to, co politik popisuje – srovnání 3.&nbsp;čtvrtletí 2025 se stejným čtvrtletím roku 2024.</p>\n\n<p>Přehled <i>„Nejnovější statistické údaje“</i> ČSÚ u ukazatele „Hrubý domácí produkt, 3. čtvrtletí 2025“ uvádí hodnotu 2,8&nbsp;% a v popisu vysvětluje, že tento ukazatel ukazuje, „o kolik&nbsp;% reálně stoupl (klesl) hrubý domácí produkt ve sledovaném čtvrtletí roku proti stejnému období roku předchozího, po očištění o sezónní vlivy a nestejný počet pracovních dní“.<a href=\"https://csu.gov.cz/nejnovejsi-statisticke-udaje\">Definice ukazatele HDP v přehledu nejnovějších údajů</a>([csu.gov.cz](https://csu.gov.cz/nejnovejsi-statisticke-udaje?utm_source=openai)) To přesně odpovídá formulaci o „meziročním růstu HDP při srovnání třetích čtvrtletí“.</p>\n\n<p>Na stejnou hodnotu 2,8&nbsp;% meziročního růstu ve 3.&nbsp;čtvrtletí upozorňuje i reportáž veřejnoprávní televize v hlavním zpravodajském pořadu, kde se uvádí, že česká ekonomika je podle čerstvých dat za třetí čtvrtletí v nejlepší kondici za poslední tři roky a že HDP oproti loňsku vzrostl právě o 2,8&nbsp;%.<a href=\"https://www.ceskatelevize.cz/porady/1097181328-udalosti/225411000101128/cast/1154207/\">Reportáž ČT o růstu HDP ve 3.&nbsp;čtvrtletí</a>([ceskatelevize.cz](https://www.ceskatelevize.cz/porady/1097181328-udalosti/225411000101128/cast/1154207/?utm_source=openai)) Některé analytické přehledy, například monitor České bankovní asociace, pracují s mírně odlišnou zaokrouhlenou hodnotou 2,7&nbsp;% meziročně,<a href=\"https://www.cbamonitor.cz/statistika/vyvoj-hrubeho-domaciho-produktu\">statistika ČBA k vývoji HDP</a>([cbamonitor.cz](https://www.cbamonitor.cz/statistika/vyvoj-hrubeho-domaciho-produktu?utm_source=openai)) vycházejí však z primárních dat ČSÚ a rozdíl je pouze v metodě zaokrouhlení. Pro posouzení výroku je rozhodující oficiální hodnota zveřejněná statistickým úřadem, která odpovídá uvedeným 2,8&nbsp;%.</p>\n\n<p>Z našich zjištění tedy plyne, že všechny tři faktické části výroku jsou v souladu s dostupnými oficiálními informacemi: ČSÚ skutečně 28.&nbsp;listopadu 2025 zveřejnil nová data o HDP, zákon a evropský rámec mu zajišťují odbornou nezávislost při tvorbě statistik a publikovaná čísla ukazují na 2,8% meziroční růst reálného HDP při porovnání třetích čtvrtletí. Výrok proto hodnotíme jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0547605fdb279412006936c0d1a6048197944d884b21f1b6b2",
+    "created_at": 1765195985.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0547605fdb279412006936c0ddcda88197b9a630594020b921",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c0e72be08197abc3602a90ce6a72",
+        "action": {
+          "query": "\"2,8 %\" \"HDP\" \"třetí čtvrtletí\" \"Český statistický úřad\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c0ea982c8197b8ecc29c7e67c2b9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c0f0fd6c8197b9fabb5f3ff970f8",
+        "action": {
+          "query": "\"Český statistický úřad\" nezávislost \"státní statistická služba\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c0f5994c8197b51abc42a5d4b413",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c0f769d081978facbce888749e32",
+        "action": {
+          "query": "\"Český statistický úřad\" \"ústřední orgán\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c0fa099c8197b37f329bebc5f9ef",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c0fca7788197b76059ead9102f14",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c0ff31f88197829901c6afce3bec",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c100e8c48197941877fe2017cd68",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c1046d508197aeea6138573a5a50",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c1090df881978e0f3a17c87822ba",
+        "action": {
+          "query": "Tvorba a uziti HDP 3. ctvrtleti 2024 \"+2,8\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c10be3d081978307ae7b8d09dd63",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c11235608197841dddeab3ae5bee",
+        "action": {
+          "query": "\"HDP vzrostl\" \"meziročně o 2,8 %\" \"3. čtvrtletí\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c1168a6c819793d2755bd17c54f7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c1256c3c81978ea512c9e10b9ae2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c12a72548197a5e93866ca58eb57",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c14f2ff88197852fcc3004439811",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c15159e481979bbecd03f6d166a6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c151a7c4819794f243b04a4e94db",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c154cb9481978a016ce856f28420",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c15567cc81979a3cba0304a329e8",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c1573ce48197ae396781c60cfa5f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c15c5800819782847f1e57121a05",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c15ffe3481979b30d21e48048d66",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c16095888197bf6f3aa9845c3206",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "§ 5 Záruky nestrannosti"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c1625c9881978cdb8ca2cd074298",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c163ee308197b91267abfd10ab18",
+        "action": {
+          "query": "Eurostat \"Czech\" GDP growth \"2025Q3\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c16655688197be7648b1fd630495",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0547605fdb279412006936c16b156c819795de226f1c47324f",
+        "action": {
+          "query": "\"Český statistický úřad\" politický tlak",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0547605fdb279412006936c1702d508197b157da8fd8b36a2d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0547605fdb279412006936c17d19fc8197b860eb7e80926692",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1086,
+                "start_index": 999,
+                "title": "Tvorba a užití HDP - 3. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025"
+              },
+              {
+                "end_index": 1428,
+                "start_index": 1340,
+                "title": "Předběžný odhad HDP - 3. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/predbezny-odhad-hdp-3-ctvrtleti-2025"
+              },
+              {
+                "end_index": 1772,
+                "start_index": 1615,
+                "title": "Česká ekonomika vzrostla ve třetím čtvrtletí o 2,8 procenta. Táhla ji spotřeba domácností — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/ceska-ekonomika-vzrostla-ve-tretim-ctvrtleti-o-28-procenta-367681?utm_source=openai"
+              },
+              {
+                "end_index": 2080,
+                "start_index": 1918,
+                "title": "Česká ekonomika zažívá nejrychlejší růst za poslední léta, daří se většině odvětví | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/635025-ceska-ekonomika-zaziva-nejrychlejsi-rust-za-posledni-leta-dari-se-vetsine-odvetvi?utm_source=openai"
+              },
+              {
+                "end_index": 2356,
+                "start_index": 2221,
+                "title": "Musíme se srdcaři pracovat na proměně, reaguje Kupka na odchod Kuby z ODS | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/635047-musime-se-srdcari-pracovat-na-promene-reaguje-kupka-na-odchod-kuby-z-ods"
+              },
+              {
+                "end_index": 3160,
+                "start_index": 3076,
+                "title": "§ 3 Orgány vykonávající státní statistickou službu | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/3_organy_vykonavajici_statni_statistickou_sluzbu_"
+              },
+              {
+                "end_index": 3348,
+                "start_index": 3299,
+                "title": "O ČSÚ | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/csu/czso/o-csu"
+              },
+              {
+                "end_index": 3716,
+                "start_index": 3648,
+                "title": "Zákon č. 89/1995 Sb., o státní statistické službě | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/zakon_o_statni_statisticke_sluzbe"
+              },
+              {
+                "end_index": 4227,
+                "start_index": 4121,
+                "title": "Důvěra v oficiální statistiky začíná nezávislostí a spoluprací | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/produkty/duvera-v-oficialni-statistiky-zacina-nezavislosti-a-spolupraci"
+              },
+              {
+                "end_index": 4546,
+                "start_index": 4470,
+                "title": "Vláda statistiky neřídí | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/vlada_statistiky_neridi?utm_source=openai"
+              },
+              {
+                "end_index": 4834,
+                "start_index": 4715,
+                "title": "ČSÚ podporuje svobodu médií rovným přístupem k informacím | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/produkty/csu-podporuje-svobodu-medii-rovnym-pristupem-k-informacim?utm_source=openai"
+              },
+              {
+                "end_index": 5169,
+                "start_index": 5075,
+                "title": "Czech Statistical Office",
+                "type": "url_citation",
+                "url": "https://en.wikipedia.org/wiki/Czech_Statistical_Office?utm_source=openai"
+              },
+              {
+                "end_index": 5445,
+                "start_index": 5361,
+                "title": "§ 3 Orgány vykonávající státní statistickou službu | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/3_organy_vykonavajici_statni_statistickou_sluzbu_"
+              },
+              {
+                "end_index": 5652,
+                "start_index": 5584,
+                "title": "Zákon č. 89/1995 Sb., o státní statistické službě | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/zakon_o_statni_statisticke_sluzbe"
+              },
+              {
+                "end_index": 5986,
+                "start_index": 5867,
+                "title": "ČSÚ podporuje svobodu médií rovným přístupem k informacím | Produkty",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/produkty/csu-podporuje-svobodu-medii-rovnym-pristupem-k-informacim?utm_source=openai"
+              },
+              {
+                "end_index": 7047,
+                "start_index": 6960,
+                "title": "Tvorba a užití HDP - 3. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025"
+              },
+              {
+                "end_index": 7346,
+                "start_index": 7259,
+                "title": "Tvorba a užití HDP - 3. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025"
+              },
+              {
+                "end_index": 7692,
+                "start_index": 7604,
+                "title": "Předběžný odhad HDP - 3. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/predbezny-odhad-hdp-3-ctvrtleti-2025"
+              },
+              {
+                "end_index": 8225,
+                "start_index": 8068,
+                "title": "Česká ekonomika vzrostla ve třetím čtvrtletí o 2,8 procenta. Táhla ji spotřeba domácností — ČT24 — Česká televize",
+                "type": "url_citation",
+                "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/ceska-ekonomika-vzrostla-ve-tretim-ctvrtleti-o-28-procenta-367681?utm_source=openai"
+              },
+              {
+                "end_index": 8565,
+                "start_index": 8403,
+                "title": "Česká ekonomika zažívá nejrychlejší růst za poslední léta, daří se většině odvětví | TN.cz",
+                "type": "url_citation",
+                "url": "https://tn.nova.cz/zpravodajstvi/clanek/635025-ceska-ekonomika-zaziva-nejrychlejsi-rust-za-posledni-leta-dari-se-vetsine-odvetvi?utm_source=openai"
+              },
+              {
+                "end_index": 8911,
+                "start_index": 8732,
+                "title": "Ekonomický růst dál nabírá na síle - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Ekonomicky-rust-dal-nabira-na-sile/?utm_source=openai"
+              },
+              {
+                "end_index": 9220,
+                "start_index": 9133,
+                "title": "Czech Republic GDP - Gross Domestic Product 2025 | countryeconomy.com",
+                "type": "url_citation",
+                "url": "https://countryeconomy.com/gdp/czech-republic?utm_source=openai"
+              },
+              {
+                "end_index": 9479,
+                "start_index": 9369,
+                "title": "Czech GDP Grows 0.8% in Q3 2025",
+                "type": "url_citation",
+                "url": "https://tradingeconomics.com/czech-republic/gdp-growth/news/505730?utm_source=openai"
+              },
+              {
+                "end_index": 9709,
+                "start_index": 9622,
+                "title": "Tvorba a užití HDP - 3. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025"
+              },
+              {
+                "end_index": 9965,
+                "start_index": 9877,
+                "title": "Předběžný odhad HDP - 3. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/predbezny-odhad-hdp-3-ctvrtleti-2025"
+              },
+              {
+                "end_index": 10365,
+                "start_index": 10278,
+                "title": "Tvorba a užití HDP - 3. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025"
+              },
+              {
+                "end_index": 10787,
+                "start_index": 10719,
+                "title": "Zákon č. 89/1995 Sb., o státní statistické službě | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/zakon_o_statni_statisticke_sluzbe"
+              },
+              {
+                "end_index": 11091,
+                "start_index": 11004,
+                "title": "Tvorba a užití HDP - 3. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025"
+              }
+            ],
+            "text": "## Strukturovaná zpráva k tvrzení Martina Kupky  \n\n**Ověřované tvrzení:**  \n„Dneska zveřejnil Český statistický úřad – nezávislá instituce – data o tom, jak roste ekonomika a ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí.“\n\nRozkládám na dílčí tvrzení:\n\n1. **(T1)** V den rozhovoru (28. 11. 2025) zveřejnil Český statistický úřad (ČSÚ) nová data o růstu ekonomiky (HDP za 3. čtvrtletí 2025).  \n2. **(T2)** Český statistický úřad je „nezávislá instituce“.  \n3. **(T3)** Tato nová data ukazují **2,8 % meziročního růstu HDP** při porovnání třetích čtvrtletí (Q3 2025 vs. Q3 2024).  \n\n---\n\n## 1. Tvrzení T1: „Dneska zveřejnil Český statistický úřad data o tom, jak roste ekonomika“\n\n### Důkazy\n\n- Rychlá informace ČSÚ **„Tvorba a užití HDP – 3. čtvrtletí 2025“** uvádí:  \n  - nadpis produktu: „Tvorba a užití HDP – 3. čtvrtletí 2025“,  \n  - **„Datum vydání: 28. 11. 2025“**,  \n  - shrnutí: „Podle zpřesněného odhadu vzrostl hrubý domácí produkt ve 3. čtvrtletí…“ apod. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n\n- Předchozí materiál ČSÚ **„Předběžný odhad HDP – 3. čtvrtletí 2025“** z 30. 10. 2025 na konci výslovně oznamuje termín vydání zpřesněné informace:  \n  - „Termín zveřejnění další RI: **28. listopadu 2025 (Tvorba a užití HDP za 3. čtvrtletí 2025)**.“ ([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-hdp-3-ctvrtleti-2025))  \n\n- Zpravodajství:  \n  - ČT24 píše 28. 11. 2025, že „Hrubý domácí produkt stoupl ve třetím čtvrtletí meziročně o 2,8 %… uvedl v pátek Český statistický úřad ve svém zpřesněném odhadu.“ ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/ceska-ekonomika-vzrostla-ve-tretim-ctvrtleti-o-28-procenta-367681?utm_source=openai))  \n  - TN.cz shrnuje, že „Česká ekonomika v letošním třetím čtvrtletí vzrostla meziročně o 2,8 %… Zpřesněné údaje v pátek na webu zveřejnil ČSÚ.“ ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/635025-ceska-ekonomika-zaziva-nejrychlejsi-rust-za-posledni-leta-dari-se-vetsine-odvetvi?utm_source=openai))  \n\n- Článek s rozhovorem s Martinem Kupkou na TN.cz má datum **28. 11. 2025, 15:51**, tedy stejný den jako zveřejnění rychlé informace ČSÚ. ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/635047-musime-se-srdcari-pracovat-na-promene-reaguje-kupka-na-odchod-kuby-z-ods))  \n\n### Hodnocení T1\n\n- **Potvrzeno.** ČSÚ skutečně 28. 11. 2025 zveřejnil nová data o HDP za 3. čtvrtletí 2025, tedy o růstu ekonomiky, a tato data vyšla tentýž den, kdy Kupka hovoří o „dneska“.\n\n---\n\n## 2. Tvrzení T2: „Český statistický úřad – nezávislá instituce“\n\nZde je třeba rozlišit:\n\n- **institucionální postavení** (je to ústřední orgán státní správy, tedy součást státní správy),  \n- **profesionální/statistická nezávislost** (zda je při tvorbě statistik právně a fakticky nezávislý na vládě).\n\n### Důkazy – právní a institucionální rámec\n\n- Podle § 3 zákona č. 89/1995 Sb., o státní statistické službě,  \n  „Státní statistickou službu vykonává **Český statistický úřad, který je ústředním správním úřadem**.“ ([csu.gov.cz](https://csu.gov.cz/3_organy_vykonavajici_statni_statistickou_sluzbu_))  \n\n- Stránka „O ČSÚ“ na oficiálním webu úřadu:  \n  „Český statistický úřad (ČSÚ) **je ústředním orgánem státní správy České republiky**.“ ([csu.gov.cz](https://csu.gov.cz/csu/czso/o-csu))  \n\n- Tentýž zákon v § 5 „Záruky nestrannosti státní statistické služby“ uvádí:  \n  - „Český statistický úřad … **je nezávislý při vytváření statistických informací**. Při získávání údajů a zpracování a vyhodnocování statistických informací postupuje tak, aby nebyla narušena objektivita informací…“ ([csu.gov.cz](https://csu.gov.cz/zakon_o_statni_statisticke_sluzbe))  \n\n- ČSÚ ve svých popularizačních textech opakovaně zdůrazňuje princip **profesionální nezávislosti**:\n  - článek „Důvěra v oficiální statistiky začíná nezávislostí a spoluprací“ vysvětluje, že Kodex evropské statistiky staví na principech jako „profesionální nezávislost“ a že statistické úřady nemají být vystaveny politickým či jiným vnějším tlakům při metodách, zdrojích dat a načasování zveřejnění. ([csu.gov.cz](https://csu.gov.cz/produkty/duvera-v-oficialni-statistiky-zacina-nezavislosti-a-spolupraci))  \n  - starší text „Vláda statistiky neřídí“ (2004) mluví o „principu politické nezávislosti“ a uvádí, že statistický úřad není součástí žádného ministerstva; publikační kalendář (např. HDP, inflace) dodržuje bez ohledu na politickou situaci. ([csu.gov.cz](https://csu.gov.cz/vlada_statistiky_neridi?utm_source=openai))  \n  - článek k Mezinárodnímu dni svobody tisku cituje předsedu ČSÚ, který připomíná „nestrannost a nezávislost ČSÚ“ jako záruku objektivity a důvěryhodnosti statistik. ([csu.gov.cz](https://csu.gov.cz/produkty/csu-podporuje-svobodu-medii-rovnym-pristupem-k-informacim?utm_source=openai))  \n\n- Anglická Wikipedie (sekundární zdroj, shrnující oficiální údaje) popisuje ČSÚ jako „central state administration authority … **independent of the country's government**“, tedy úřad nezávislý na vládě, i když je součástí státní správy. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Czech_Statistical_Office?utm_source=openai))  \n\n### Hodnocení T2\n\n- **Právní stav:**  \n  - ČSÚ je **ústřední orgán státní správy** (součást státního aparátu), nikoli nezávislý ústavní orgán typu Nejvyššího kontrolního úřadu nebo soudů. ([csu.gov.cz](https://csu.gov.cz/3_organy_vykonavajici_statni_statistickou_sluzbu_))  \n  - Zákon mu však **zaručuje profesní nezávislost při vytváření statistických informací** a stanoví princip nestrannosti a objektivity. ([csu.gov.cz](https://csu.gov.cz/zakon_o_statni_statisticke_sluzbe))  \n\n- **Běžné odborné a mediální vyjadřování:**  \n  - V odborném a mediálním diskurzu je ČSÚ běžně prezentován jako **nezávislý/statisticky nezávislý úřad**, jehož výstupy nejsou (mají nebýt) pod politickým vlivem. ([csu.gov.cz](https://csu.gov.cz/produkty/csu-podporuje-svobodu-medii-rovnym-pristupem-k-informacim?utm_source=openai))  \n\n- **Možné interpretace výroku:**\n  - Pokud „nezávislá instituce“ znamená **„profesně/statisticky nezávislá na politických zásazích“**, je to v souladu se zákonem i s tím, jak je ČSÚ chápán a prezentován.  \n  - Pokud by byla výpověď chápána striktně jako „instituce mimo státní správu“, pak by byla nepřesná, protože ČSÚ je ústřední správní úřad.\n\n**Celkově u T2:**  \n- Z hlediska běžného významu v kontextu debaty o politické nestrannosti dat lze tvrzení považovat za **v zásadě pravdivé**, ale **právně přesnější je mluvit o profesionální/statistické nezávislosti úřadu v rámci státní správy**.\n\n---\n\n## 3. Tvrzení T3: „…ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí.“\n\n### Důkazy – hodnota 2,8 % a definice „meziročně“\n\n- Rychlá informace ČSÚ **„Tvorba a užití HDP – 3. čtvrtletí 2025“** uvádí hned v úvodu:  \n  - „Podle zpřesněného odhadu vzrostl hrubý domácí produkt ve 3. čtvrtletí **mezičtvrtletně o 0,8 % a meziročně o 2,8 %**.“ ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n\n- Stejný dokument v komentáři ředitele odboru národních účtů ČSÚ upřesňuje, že HDP očištěný o cenové vlivy a sezónnost „ve srovnání s předchozím čtvrtletím“ vzrostl o 0,8 % a „**meziročně vzrostl o 2,8 %**“. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n\n- Předchozí **„Předběžný odhad HDP – 3. čtvrtletí 2025“** vysvětluje, co znamená „meziročně“ – tam se píše, že HDP byl „ve 3. čtvrtletí … o 0,7 % vyšší než v předchozím čtvrtletí a **v porovnání se stejným čtvrtletím předchozího roku** vzrostl o 2,7 %“. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-hdp-3-ctvrtleti-2025))  \n  - Je tedy zřejmé, že „meziročně“ znamená přesně **porovnání daného čtvrtletí se stejným čtvrtletím předchozího roku** – tedy Q3 2025 vs. Q3 2024.\n\n- Média i další instituce přebírají tuto hodnotu:  \n  - ČT24: „Hrubý domácí produkt stoupl ve třetím čtvrtletí **meziročně o 2,8 % a mezičtvrtletně o 0,8 %**, uvedl v pátek Český statistický úřad ve svém zpřesněném odhadu.“ ([ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz/clanek/ekonomika/ceska-ekonomika-vzrostla-ve-tretim-ctvrtleti-o-28-procenta-367681?utm_source=openai))  \n  - TN.cz: „Česká ekonomika v letošním třetím čtvrtletí vzrostla meziročně o **2,8 %**… Proti předchozímu čtvrtletí … o 0,8 %. Zpřesněné údaje v pátek na webu zveřejnil ČSÚ.“ ([tn.nova.cz](https://tn.nova.cz/zpravodajstvi/clanek/635025-ceska-ekonomika-zaziva-nejrychlejsi-rust-za-posledni-leta-dari-se-vetsine-odvetvi?utm_source=openai))  \n  - Česká národní banka ve svém komentáři k HDP za 3. čtvrtletí 2025 uvádí, že „HDP vzrostl meziročně o **2,8 %**, … vůči předchozímu čtvrtletí se zvýšil o 0,8 %.“ ([cnb.cz](https://www.cnb.cz/cs/verejnost/servis-pro-media/komentare-cnb-ke-zverejnenym-statistickym-udajum-o-inflaci-a-hdp/Ekonomicky-rust-dal-nabira-na-sile/?utm_source=openai))  \n\n- Zahraniční databáze, které přebírají oficiální data ČSÚ, uvádějí pro **2025Q3** také **+2,8 % meziročně**:  \n  - CountryEconomy: tabulka „Quarterly GDP – 2025“ uvádí u **2025Q3** „Quat. GDP Annual Growth (%) 2.8 %“. ([countryeconomy.com](https://countryeconomy.com/gdp/czech-republic?utm_source=openai))  \n  - TradingEconomics: k Q3 2025 píše, že „On a yearly basis, the economy expanded by **2.8% in Q3**, higher than preliminary estimates of 2.7%…“. ([tradingeconomics.com](https://tradingeconomics.com/czech-republic/gdp-growth/news/505730?utm_source=openai))  \n\n### Hodnocení T3\n\n- **Potvrzeno.**  \n  - Oficiální rychlá informace ČSÚ pro 3. čtvrtletí 2025 uvádí přesně **meziroční růst HDP o 2,8 %**. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n  - Z kontextu předběžného odhadu je jasné, že „meziročně“ znamená **porovnání 3. čtvrtletí 2025 se 3. čtvrtletím 2024**, tedy „při srovnání dat třetích čtvrtletí“. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/predbezny-odhad-hdp-3-ctvrtleti-2025))  \n  - Hodnotu 2,8 % potvrzují jak česká média, tak ČNB a mezinárodní databáze.\n\n---\n\n## 4. Celkové zhodnocení výroku\n\n1. **Časový aspekt („dneska zveřejnil ČSÚ…“)** – plně v souladu s realitou: ČSÚ zveřejnil zpřesněnou informaci o HDP za 3. čtvrtletí 2025 právě **28. 11. 2025**, tedy v den, kdy rozhovor vyšel. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n\n2. **Nezávislost ČSÚ** – zákon i dokumenty ČSÚ potvrzují **profesionální/statistickou nezávislost úřadu**, zároveň je ale ČSÚ **ústředním správním úřadem**, tedy součástí státní správy. V politickém kontextu, kdy jde o zdůraznění nestrannosti statistických dat, je označení „nezávislá instituce“ **v zásadě přiměřené**, i když právně zjednodušující. ([csu.gov.cz](https://csu.gov.cz/zakon_o_statni_statisticke_sluzbe))  \n\n3. **Hodnota 2,8 % meziročně při srovnání třetích čtvrtletí** – přesně odpovídá oficiálnímu zpřesněnému odhadu ČSÚ pro **HDP ve 3. čtvrtletí 2025 (reálný, sezónně očištěný)** a je široce potvrzena dalšími zdroji. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025))  \n\n**Celkový závěr:**  \n- Fakticky je tvrzení o **„2,8 % meziročního růstu HDP při srovnání třetích čtvrtletí“ a o tom, že tyto údaje „dneska zveřejnil ČSÚ“, **přesné** a dobře podložené.  \n- Část o „nezávislé instituci“ odpovídá tomu, jak je ČSÚ koncipován (profesionálně nezávislý orgán státní statistiky), i když právní formulace je užší („je nezávislý při vytváření statistických informací“) a úřad je zároveň ústředním orgánem státní správy.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 66149,
+      "input_tokens_details": {
+        "cached_tokens": 5376
+      },
+      "output_tokens": 12688,
+      "output_tokens_details": {
+        "reasoning_tokens": 8843
+      },
+      "total_tokens": 78837
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

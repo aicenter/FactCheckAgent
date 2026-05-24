@@ -1,0 +1,443 @@
+{
+  "claim_id": "24347",
+  "split": "old",
+  "source_experiment": "demagog_dr_gpt-5-m_20251014_172505",
+  "source_md": "experiments/demagog_dr_gpt-5-m_20251014_172505/brief_fact_check_id24347.md",
+  "fact_check": "# Fact Check for Statement ID 24347\n\n## Statement\nNení pravda, co říká premiér, tedy že je tam nějaký strop (u emisních povolenek ETS II, pozn. Demagog.cz)\n\n---\n## OpenAI Deep Research Fact Check\nShrnutí tvrzení\n- Tvrzení (od Andreje Babiše): „Není pravda, co říká premiér, tedy že je tam nějaký strop (u emisních povolenek ETS II)“ — tj. že u systému ETS2 neexistuje „strop“ (nebo že tvrzení premiéra o „stropu“ je nepravdivé).\n- Nutné vyjasnit význam slova „strop“: může znamenat (a) kvantitativní strop (omezené množství emisních povolenek — cap v „cap‑and‑trade“ systému) nebo (b) cenový strop (pevné maximum ceny povolenky).\n\nKrátké shrnutí výsledku kontroly\n- Pokud „strop“ = kvantitativní limit (celkové množství povolenek): tvrzení Babiše je nepravdivé. ETS2 je cap‑and‑trade systém s jasně stanoveným „Union‑wide quantity“ (unijním množstvím povolenek) a lineárním snižováním; Komise již pro rok 2027 publikovala přesné množství povolenek. (viz důkazy níže)\n- Pokud „strop“ = trvalý pevný cenový limit (pevná maximální cena povolenky): v právním textu není trvalý „cenový strop“ (hard price cap). Existují však pravidla pro uvolnění dodatečných povolenek z trhu při nadměrném růstu ceny (tzv. price‑containment / opatření pro případ nadměrného růstu cen), vč. spouštěče založeného na prahu 45 EUR (indexováno na 2020 ceny). To není totéž co trvalý cenový strop, ale je to legislativně definovaný mechanismus, který může zmírnit prudké nárůsty ceny. (viz důkazy níže)\n\nDůkazy (rozdělené na dílčí podtvrzení)\n\nA) ETS2 je „cap‑and‑trade“ s unijním (EEA‑rozsahovým) množstvím povolenek — tedy existuje kvantitativní ‚strop‘ nabídky povolenek\n- Znění směrnice (konsolidované znění) a její úpravy zavádějí kapitolu ETS2 a vyžadují, aby Komise publikovala „Union‑wide quantity of allowances“ pro rok 2027 (tj. stanovení množství povolenek = cap). Viz čl. 30c směrnice 2003/87/EC (novelizované) a související kapitoly. Příklad (konsolidované znění): „the Union‑wide quantity of allowances issued under this Chapter each year …“; a kapitola o ETS2 upravuje, jak se stanoví množství a lineární redukční faktor. (plné znění směrnice viz níže). Zdroj: EUR‑Lex — konsolidované znění směrnice (Directive 2003/87/EC, verze s novelami 2023). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\n- Komise skutečně přijala rozhodnutí, kterým pro rok 2027 stanovila unijní množství povolenek pro ETS2: Commission Decision (EU) 2024/2951 ze dne 29. 11. 2024 — stanoví: „For 2027, the Union‑wide quantity of allowances … shall amount to 1 036 288 784.“ (Article 1). To je přímý důkaz existence kvantitativního stropu pro rok 2027. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n  - Odkaz (oficiální publikace/OJ): Commission Decision (EU) 2024/2951. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n\n- Evropská komise na svých stránkách o ETS2 explicitně uvádí, že ETS2 bude cap‑and‑trade, že „The ETS2 cap will be set to bring emissions down by 42% by 2030 compared to 2005 levels“ a že bude platit unijní množství povolenek; rovněž popisuje roli aukcí apod. (European Commission — ETS2 stránka). ([climate.ec.europa.eu](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai))\n\nZávěr k A): legislativně i ve faktické implementaci ETS2 existuje kvantitativní „strop“ (cap). Tvrzení Babiše, že „není pravda … že je tam nějaký strop“, je tedy v této interpretaci (kvantitativní strop) nepravdivé.\n\nB) Existuje v legislativě i nějaké pravidlo o „stropu cen“ (hard price cap)? — skutečnost vs. možné nejasnosti\n- V textu novelizované směrnice je článek věnovaný „Measures in the event of an excessive price increase“ (čl. 30h). Ten stanoví dvě samostatné spouštěcí podmínky pro uvolnění povolenek z Market Stability Reserve (MSR) při rychlém růstu cen:\n  1) Pokud je průměrná aukční cena více než dvojnásobkem (po dobu >3 měsíců) relativně k průměru z předchozích 6 měsíců (pro roky 2027–2028 platí pro podmínku nižší násobek 1,5x), uvolní se 50 milionů povolenek z MSR.  \n  2) Pokud průměrná cena povolenky přesáhne EUR 45 po dobu dvou po sobě jdoucích měsíců, uvolní se 20 milionů povolenek z MSR (indexováno podle indexu spotřebitelských cen pro rok 2020). Toto opatření je omezeno do 31. 12. 2029. (přímé znění viz čl. 30h(1)–(2) v konsolidovaném textu směrnice). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\n- Citace (výřez z konsolidovaného textu směrnice, čl. 30h(2)): „Where the average price of allowances referred to in paragraph 1 of this Article exceeds a price of EUR 45 for a period of two consecutive months, 20 million allowances covered by this Chapter shall be released from the market stability reserve ... Indexation based on the European index of consumer prices for 2020 shall apply. Allowances shall be released through the mechanism provided for in this paragraph up to 31 December 2029.“ (viz zdroj). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\n- Interpretace: výše uvedená pravidla nejsou „trvalým cenovým stropem“ v tom smyslu, že by cena povolenky měla pevnou horní hranici, nad kterou již nemůže růst. Jde o mechanismy uvolnění dodatečného objemu povolenek při prudkých cenových nárůstech (price‑containment / MSR‑releases). To může tlumit krátkodobé skoky ceny, ale nemění podstatu cap‑and‑trade (omezené množství) a není to stejné jako trvalý „hard cap“ na cenu. Relevantní právní text to jasně popisuje. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\nC) Praktický kontext / aktuální události (komentáře premiéra, česká iniciativa)\n- Český premiér Petr Fiala v létě/podle medializace sdělil, že Evropská komise „vyhoví iniciativě“ (non‑paper skupiny členských států včetně ČR) a „připraví návrh, aby cena emisní povolenky byla skutečně zastropována“ (tj. politické prohlášení o tom, že Komise zváží návrh či změnu). To je politické/připravované opatření — NENÍ to totéž jako již existující právní úprava s trvalým cenovým stropem. (viz české zprávy, např. Ekolist / Echo24 apod.). ([ekolist.cz](https://ekolist.cz/cz/zpravodajstvi/zpravy/fiala-ek-vyhovi-iniciative-zadajici-zastropovani-cen-novych-povolenek?utm_source=openai))\n\n- Současně trh obchoduje futures na povolenky ETS2 a v roce 2025/2026 se objevily ceny výrazně nad 45 EUR (např. zprávy o cenách ~76–77 EUR na EEX/ICE), což v praxi ukazuje, že instituované mechanismy (uvolnění z MSR při překročení 45 EUR) fungují jako pravidla, nikoli jako absolutní strop, a že trhy ceny nad 45 EUR obchodují. To komentují i česká média a analytici. (viz např. EEX/ICE zprávy a česká média). ([ekonomickydenik.cz](https://ekonomickydenik.cz/eex-nove-emisi-povolenky-77-eur/?utm_source=openai))\n\nRelevantní primární zdroje (výběr, s odkazem na konkrétní pasáže)\n1) Directive 2003/87/EC (konsolidované/novelizované znění, zahrnuje kapitolu o ETS2; čl. 30c, 30h, 30k apod.) — viz zejména čl. 30h (Measures in the event of an excessive price increase) a čl. 30c (Union‑wide quantity).  \n   - EUR‑Lex (consolidated text, Article 30h uveden). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n   - Přímý odkaz na čl. 30h v konsolidovaném textu: viz EUR‑Lex (consolidated) — Article 30h (Measures in the event of an excessive price increase). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\n2) Commission Decision (EU) 2024/2951 (29.11.2024) — „on the Union‑wide quantity of allowances … for 2027“; Article 1 stanoví: 1 036 288 784 allowances pro rok 2027. (to je přímé stanovení kvantitativního stropu pro rok 2027). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n\n3) European Commission — oficiální stránka „ETS2: buildings, road transport and additional sectors“ (vysvětlení, že ETS2 je cap‑and‑trade a že „The ETS2 cap will be set to bring emissions down by 42% by 2030 …“). ([climate.ec.europa.eu](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai))\n\n4) International Carbon Action Partnership (ICAP) — stručné shrnutí ETS2 včetně popisu Market Stability Reserve a price‑containment (uvedení prahu 45 EUR a dalších detailů). (užitečné pro vysvětlení mechanismu, ale primární právní text je směrnice). ([icapcarbonaction.com](https://icapcarbonaction.com/en/ets/eu-emissions-trading-system-buildings-and-road-transport-eu-ets-2?utm_source=openai))\n\n5) České zdroje o politických prohlášeních: např. Ekolist / Echo24 — komentáře k stanovisku premiéra Petra Fialy ohledně iniciativy „zastropování ceny“. (ilustruje politické prohlášení premiéra; ovšem právní úprava s trvalým cenovým stropem v době zkoumaného data neexistovala). ([ekolist.cz](https://ekolist.cz/cz/zpravodajstvi/zpravy/fiala-ek-vyhovi-iniciative-zadajici-zastropovani-cen-novych-povolenek?utm_source=openai))\n\nZávěr (stručně, s hodnocením tvrzení)\n- Tvrzení Andreje Babiše „Není pravda … že je tam nějaký strop (u emisních povolenek ETS II)“ hodnotím jako zavádějící / nepravdivé, pokud se tím míní, že u ETS2 neexistuje žádný „strop“ obecně:\n  - Jestliže „strop“ znamená kvantitativní množstevní limit (cap): takový strop existuje — ETS2 je cap‑and‑trade systém a Komise stanovila union‑wide množství povolenek pro rok 2027 (Commission Decision (EU) 2024/2951). Tvrzení proto v této interpretaci neodpovídá skutečnosti. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n  - Jestliže „strop“ Babiš měl na mysli trvalý pevný cenový limit (hard price cap): v právu EU ke dni zkoumání není trvalý cenový strop; existují však konkrétně upravené price‑containment mechanismy (čl. 30h), včetně uvolnění povolenek při překročení prahové ceny (EUR 45, indexováno), a také mechanismus pro případ „nadměrného“ růstu cen (uvolnění 50 milionů povolenek). To znamená, že tvrzení „není tam žádný strop“ je v této interpretaci také matoucí: není tam trvalý hard cap na cenu, ale existují legislativně dané mechanismy, které při překročení definovaných prahů uvolní další objem povolenek. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\nCelkové hodnocení pro účel fakt‑checku: tvrzení je nepravdivé (pokud se pod „stropem“ myslí limit množství povolenek — což je běžná interpretace v kontextu ETS). Pokud Babiš zamýšlel „strop“ jako trvalý cenový strop, pak jeho tvrzení může být částečně pravdivé (trvalý cenový strop legislativně není), ale zároveň zavádějící, protože existují přesně upravené cenou spouštěné mechanismy (čl. 30h), a politické prohlášení premiéra o „zastropování“ se týkalo návrhu/intiativy, nikoli již platného právního stavu. Doporučené označení: „Nepravda / Zavádějící“ v závislosti na interpretaci slova „strop“.\n\nSeznam všech relevantních nalezených zdrojů (s odkazem na konkrétní pasáže)\n- Directive 2003/87/EC (konsolidované znění, včetně novel 2023) — Article 30h (Measures in the event of an excessive price increase) a související články (30c, 30k). EUR‑Lex (konsolidované znění). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n  - Přímý link (konsolidované znění směrnice na EUR‑Lex): https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05 (viz čl. 30h atd.). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\n- Commission Decision (EU) 2024/2951 of 29 November 2024 — on the Union‑wide quantity of allowances for 2027 (stanovení množství 1 036 288 784 pro rok 2027). EUR‑Lex / Official Journal. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n  - Přímý link: https://eur-lex.europa.eu/eli/dec/2024/2951/oj. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n\n- European Commission — „ETS2: buildings, road transport and additional sectors“ (oficiální stránka vysvětlující, že ETS2 je cap‑and‑trade a že cap má přispět k 42% snížení emisí). ([climate.ec.europa.eu](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai))\n  - Přímý link: https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en. ([climate.ec.europa.eu](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai))\n\n- ICAP (International Carbon Action Partnership) — shrnutí ETS2, včetně popisu MSR a mechanismu uvolnění při překročení prahu 45 EUR. ([icapcarbonaction.com](https://icapcarbonaction.com/en/ets/eu-emissions-trading-system-buildings-and-road-transport-eu-ets-2?utm_source=openai))\n\n- Evropská komise — tisková zpráva / news: „Emissions Trading System for buildings, road transport and small industry (ETS2): cap adopted for 2027“ (3. 12. 2024). (oznamuje přijetí cap pro 2027). ([climate.ec.europa.eu](https://climate.ec.europa.eu/news-your-voice/news/emissions-trading-system-buildings-road-transport-and-small-industry-ets2-cap-adopted-2027-2024-12-03_en?utm_source=openai))\n\n- České mediální zdroje o politických prohlášeních premiéra a o snahách ČR o „zastropování“ / iniciativě států: např. Ekolist, Echo24, iDNES, Kurzy.cz (komentáře a reporty o jednáních ČR/komise a trhu). (Ilustrují politický kontext; nejedná se o právní dokumenty). ([ekolist.cz](https://ekolist.cz/cz/zpravodajstvi/zpravy/fiala-ek-vyhovi-iniciative-zadajici-zastropovani-cen-novych-povolenek?utm_source=openai))\n\nPoznámka k metodě\n- Nejvýznamnější právní a faktické důkazy pocházejí z primárních dokumentů EU: konsolidované znění směrnice o EU ETS (s novelami zavádějícími kapitolu o ETS2) a z Komisního rozhodnutí, kterým bylo pro 2027 stanoveno konkrétní unijní množství povolenek. Tyto dokumenty jednoznačně prokazují existenci množstevního „cap“. Legislativa zároveň upravuje mechanismy reagující na prudký růst cen; tyto mechanismy nejsou totéž co trvalý cenový „strop“.\n\nKonec.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the Claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for Evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid Newer Sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid Using the Source the Claim Came From**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer Official Czech Sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"The following claim comes from: An article in Deník released on 2025-10-10\\nThe claim was made by: Andrej Babiš, Poslanec, Předseda hnutí ANO\\nProvide a structured, citation-backed verification of the claim: 'Není pravda, co říká premiér, tedy že je tam nějaký strop (u emisních povolenek ETS II, pozn. Demagog.cz)'\\n\"\n  }\n]\n\nModel: gpt-5-mini-2025-08-07\nWall time: 288.40 seconds\n## Agent work log\n```\nREASONING: **Evaluating emissions trading system**\n\nI’m considering whether the ETS II has a cap on emissions allowances. I’ll need to look up the EU legislation or regulation text that establishes ETS II or the related emissions trading system for road transport and buildings, known as ETS2. There was a proposal by the European Commission for a new emissions trading system in 2021, and I think the final agreement came in early to mid-2024. I need to perform a web search for this.\nWEB SEARCH: EU ETS II buildings and road transport regulation text 'ETS II' cap 'cap on allowances' 'emission cap' 'Supply' 'price ceiling' 'price cap' 'quantity cap' 'Market stability' 'allowances' 'EU ETS II regulation 2024 2025'\nREASONING: **Searching for ETS information**\n\nI see that the search results indicate that ETS2 has a cap on the total quantity of allowances and a linear reduction factor. I need an authoritative primary source, like the EU Directive or Regulation that established the ETS for buildings and road transport. I'm thinking it might be Directive (EU) 2023/?? but earlier results point to recitals from Parliament 2022. So, I’ll search EUR-Lex to find more details on the ETS framework.\nWEB SEARCH: None\nWEB SEARCH: EUR-Lex 'emissions trading for buildings and road transport' 'ETS 2' 'Official Journal' 'Directive'\nREASONING: **Searching for price containment mechanisms**\n\nI’m looking into whether there are price containment measures like the Market Stability Reserve (MSR) and a price collar that activates if prices exceed EUR 45. According to ICAP, allowances can be released from the MSR if prices go above that amount, referring to 2020 prices. I’ll need to find the specific directive text about MSR and rules for \"exceptional price increases.\" So, let’s search for the relevant ETS Directive amendment text and its 2023 revisions!\nWEB SEARCH: Directive 2003/87/EC amendment ETS2 'Chapter IVa' 'Article 30c' 'Commission Decision 2024/2951' 'text of Directive' 'Official Journal'\nREASONING: \nWEB SEARCH: None\nWEB SEARCH: Directive (EU) 2023/959 'Article 30h' 'ETS2' 'measures in the event of an excessive price increase' 'EUR-Lex'\nREASONING: \nWEB SEARCH: \"Article 30h\" \"Directive 2003/87/EC\" 'measures in the event of an excessive price increase' '30h(2)' 'ETS2' 'EUR-Lex'\nREASONING: \nWEB SEARCH: Ministerstvo životního prostředí ČR ETS2 'emisní povolenky budovy doprava' 'strop' 'ETS2' 'Česko' '2024'\nREASONING: **Evaluating EU price cap discussion**\n\nCzech sources confirm PM Fiala commented that the Commission will consider capping prices. However, current EU law doesn't include a permanent price cap, just temporary price containment measures. If the PM mentioned a \"cap,\" he might mean the Commission is open to it. But Babiš counters by saying that is not true. As of October 2025, it's clear there’s a union-wide quantity cap but no permanent fixed price ceiling, just temporary measures for price releases.; **Preparing structured report**\n\nI need to clarify that Babiš's denial of any cap is false, as there is a clear cap on total allowances. While there's no general price cap, the Directive provides mechanisms for releasing allowances when prices spike. The Commission has even adopted a cap for 2027. I’ll gather citations for relevant directives and decisions, ensuring to avoid using the original source of the claim. I’ll structure the report in Czech and include sections for the statement, interpretations, evidence, and a conclusion with a rating.; **Gathering citations and links**\n\nI need to provide exact citations and URLs for the most relevant sections in markdown format. I'll include quotes from Articles, specifically using the EUR-Lex text for Article 30h and others. I should also link the Commission Decision for 2024/2951. So, I have the links ready: one for the EUR-Lex consolidated document and another for the Commission Decision. Now, I’ll search for the Commission Decision on EUR-Lex with the ID 32024D2951 to ensure accuracy in my citations.\nWEB SEARCH: 32024D2951 Commission Decision Union-wide quantity of allowances 29 November 2024 '2951' 'EUR-Lex'\nREASONING: \nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p><strong>Stručně (max 280 znaků):</strong> Tvrzení, že u ETS2 „není žádný strop“, je zavádějící. Pokud myslíme množstevní strop (cap), tak existuje a Komise stanovila konkrétní počet povolenek pro 2027. Pokud myslíme trvalý cenový strop, ten legislativa nezavádí, ale obsahuje mechanismy uvolnění při prudkém růstu ceny.</p>\n\n<p>Kontext: Výrok Andreje Babiše reaguje na prohlášení premiéra o „stropu“ u nového systému obchodování s emisními povolenkami pro budovy a silniční dopravu (tzv. ETS2). Pojem „strop“ lze chápat dvěma způsoby: jako množstevní limit (cap) nebo jako pevný cenový limit (hard price cap). Pro posouzení tvrzení je nutné hodnotit obě interpretace.</p>\n\n<p>1) Množstevní „strop“ (cap): Legislativní a faktické důkazy ukazují, že ETS2 je klasický cap‑and‑trade systém s unijním množstvím povolenek. V konsolidovaném znění směrnice EU o ETS jsou pravidla o „Union‑wide quantity of allowances“ a Komise pro rok 2027 skutečně přijala rozhodnutí, kterým stanovila přesné množství povolenek: „For 2027, the Union‑wide quantity of allowances … shall amount to 1 036 288 784.“ Tato ustanovení potvrzují, že existuje kvantitativní strop nabídky povolenek. Odkazy: konsolidované znění směrnice (viz čl. 30c a související články) — <a href=\"https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai\">konsolidované znění směrnice</a>, a rozhodnutí Komise — <a href=\"https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai\">Commission Decision (EU) 2024/2951</a>, čl. 1 („For 2027 … 1 036 288 784“).</p>\n\n<p>Hodnocení k této části: Pokud Babiš tvrzením myslel, že u ETS2 neexistuje množstevní strop, tak to není pravda. My hodnotíme toto tvrzení jako nepravdivé.</p>\n\n<p>2) Cenový „strop“ (hard price cap): V právním textu EU pro ETS2 není zaveden trvalý pevný cenový limit, který by znemožňoval překročit určitou cenu. Legislativní úprava však obsahuje opatření pro případ nadměrného růstu cen (tzv. price‑containment), která při splnění definovaných prahů uvolní další povolenky z trhu. Například směrnice stanoví: <em>„Where the average price … exceeds a price of EUR 45 for a period of two consecutive months, 20 million allowances … shall be released from the market stability reserve … Indexation … shall apply. … Allowances shall be released … up to 31 December 2029.“</em> (čl. 30h). To znamená, že existuje legislativně upravený mechanismus, který může tlumit prudké cenové výkyvy, ale nejedná se o trvalý hard cap na cenu. Odkaz: <a href=\"https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai\">konsolidované znění směrnice, čl. 30h</a>.</p>\n\n<p>Hodnocení k této části: Pokud Babiš tvrzením myslel, že neexistuje žádný legislativně daný mechanismus související s cenou, tak to není přesné: trvalý cenový strop legislativa nezavádí, ale jsou tam konkrétní pravidla pro uvolnění dodatečných povolenek při překročení stanovených prahů. Tvrzení je zde tedy zavádějící — částečně pravdivé, ale neúplné.</p>\n\n<p>Další kontext: Politická prohlášení premiéra o „zastropování“ ceny se týkala iniciativy a návrhů, které Komise měla posoudit; to je politický krok, nikoli potvrzení existence již platné trvalé právní úpravy cenového stropu. Současně trh v praxi obchoduje i za ceny nad uvedenými prahy (což ukazuje, že mechanismy uvolnění jsou reaktivní, nikoli absolutně omezující cenu).</p>\n\n<p>Závěr: Výrok „není pravda, že je tam nějaký strop“ je v závislosti na významu slova „strop“ buď nepravdivý (pokud jde o množstevní cap — ten existuje a byl pro 2027 stanoven), nebo zavádějící (pokud jde o trvalý cenový cap — takový hard cap legislativa nezavádí, avšak obsahuje definované mechanismy uvolnění povolenek při překročení cenových prahů). Nejvýstižněji hodnotíme tvrzení jako nepravdivé/zavádějící podle výše uvedeného rozlišení.</p>\n\n<p>Klikatelné zdroje (vybrané): konsolidované znění směrnice (čl. 30c, 30h) — <a href=\"https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai\">EUR‑Lex: Directive 2003/87/EC (consolidated)</a>, Commission Decision (EU) 2024/2951 o množství pro 2027 — <a href=\"https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai\">EUR‑Lex: Decision 2024/2951</a>, oficiální vysvětlení Komise k ETS2 — <a href=\"https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai\">European Commission – ETS2</a>.</p>\n\n<p>Krátké shrnutí závěru: Cap (množstevní strop) u ETS2 existuje a byl úředně stanoven; trvalý cenový strop neexistuje, ale legislativa obsahuje mechanismy pro uvolnění povolenek při překročení definovaných cenových prahů. Tvrzení v obecné podobě tedy považujeme za nepravdivé nebo zavádějící podle interpretace pojmu „strop“.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0aeb23c70cd1d65c0068ee7663578c8193865bfadd16a74057",
+    "created_at": 1760458339.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5-mini-2025-08-07",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0aeb23c70cd1d65c0068ee766b65808193a4fcd3190057876b",
+        "summary": [
+          {
+            "text": "**Evaluating emissions trading system**\n\nI’m considering whether the ETS II has a cap on emissions allowances. I’ll need to look up the EU legislation or regulation text that establishes ETS II or the related emissions trading system for road transport and buildings, known as ETS2. There was a proposal by the European Commission for a new emissions trading system in 2021, and I think the final agreement came in early to mid-2024. I need to perform a web search for this.",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0aeb23c70cd1d65c0068ee7676ce0c8193915c43d0744c5be2",
+        "action": {
+          "query": "EU ETS II buildings and road transport regulation text 'ETS II' cap 'cap on allowances' 'emission cap' 'Supply' 'price ceiling' 'price cap' 'quantity cap' 'Market stability' 'allowances' 'EU ETS II regulation 2024 2025'",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0aeb23c70cd1d65c0068ee76a24b988193b703385a51884f0e",
+        "summary": [
+          {
+            "text": "**Searching for ETS information**\n\nI see that the search results indicate that ETS2 has a cap on the total quantity of allowances and a linear reduction factor. I need an authoritative primary source, like the EU Directive or Regulation that established the ETS for buildings and road transport. I'm thinking it might be Directive (EU) 2023/?? but earlier results point to recitals from Parliament 2022. So, I’ll search EUR-Lex to find more details on the ETS framework.",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0aeb23c70cd1d65c0068ee76a576e08193829423e1a1e55131",
+        "action": {
+          "query": null,
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "ws_0aeb23c70cd1d65c0068ee76a6072c81939ad62b2c5f282eb2",
+        "action": {
+          "query": "EUR-Lex 'emissions trading for buildings and road transport' 'ETS 2' 'Official Journal' 'Directive'",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0aeb23c70cd1d65c0068ee76bb3b288193add62051ef886420",
+        "summary": [
+          {
+            "text": "**Searching for price containment mechanisms**\n\nI’m looking into whether there are price containment measures like the Market Stability Reserve (MSR) and a price collar that activates if prices exceed EUR 45. According to ICAP, allowances can be released from the MSR if prices go above that amount, referring to 2020 prices. I’ll need to find the specific directive text about MSR and rules for \"exceptional price increases.\" So, let’s search for the relevant ETS Directive amendment text and its 2023 revisions!",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0aeb23c70cd1d65c0068ee76c1c8c48193b79932a49eae3966",
+        "action": {
+          "query": "Directive 2003/87/EC amendment ETS2 'Chapter IVa' 'Article 30c' 'Commission Decision 2024/2951' 'text of Directive' 'Official Journal'",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0aeb23c70cd1d65c0068ee76dae960819394b88dc93bace4ca",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0aeb23c70cd1d65c0068ee76dc4ac88193a0686bb735d4c75c",
+        "action": {
+          "query": null,
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "ws_0aeb23c70cd1d65c0068ee76dda9b4819396a5942eadb85892",
+        "action": {
+          "query": "Directive (EU) 2023/959 'Article 30h' 'ETS2' 'measures in the event of an excessive price increase' 'EUR-Lex'",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0aeb23c70cd1d65c0068ee772a35b081939eb283c463eb057a",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0aeb23c70cd1d65c0068ee772ea7f8819394ed1fe6affa4381",
+        "action": {
+          "query": "\"Article 30h\" \"Directive 2003/87/EC\" 'measures in the event of an excessive price increase' '30h(2)' 'ETS2' 'EUR-Lex'",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0aeb23c70cd1d65c0068ee773af5f8819391bd63f105077ecb",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0aeb23c70cd1d65c0068ee773f48ec81939c318301b02069db",
+        "action": {
+          "query": "Ministerstvo životního prostředí ČR ETS2 'emisní povolenky budovy doprava' 'strop' 'ETS2' 'Česko' '2024'",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0aeb23c70cd1d65c0068ee77471b448193860ce065be821a07",
+        "summary": [
+          {
+            "text": "**Evaluating EU price cap discussion**\n\nCzech sources confirm PM Fiala commented that the Commission will consider capping prices. However, current EU law doesn't include a permanent price cap, just temporary price containment measures. If the PM mentioned a \"cap,\" he might mean the Commission is open to it. But Babiš counters by saying that is not true. As of October 2025, it's clear there’s a union-wide quantity cap but no permanent fixed price ceiling, just temporary measures for price releases.",
+            "type": "summary_text"
+          },
+          {
+            "text": "**Preparing structured report**\n\nI need to clarify that Babiš's denial of any cap is false, as there is a clear cap on total allowances. While there's no general price cap, the Directive provides mechanisms for releasing allowances when prices spike. The Commission has even adopted a cap for 2027. I’ll gather citations for relevant directives and decisions, ensuring to avoid using the original source of the claim. I’ll structure the report in Czech and include sections for the statement, interpretations, evidence, and a conclusion with a rating.",
+            "type": "summary_text"
+          },
+          {
+            "text": "**Gathering citations and links**\n\nI need to provide exact citations and URLs for the most relevant sections in markdown format. I'll include quotes from Articles, specifically using the EUR-Lex text for Article 30h and others. I should also link the Commission Decision for 2024/2951. So, I have the links ready: one for the EUR-Lex consolidated document and another for the Commission Decision. Now, I’ll search for the Commission Decision on EUR-Lex with the ID 32024D2951 to ensure accuracy in my citations.",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0aeb23c70cd1d65c0068ee7753bc74819389774ee1064e39b0",
+        "action": {
+          "query": "32024D2951 Commission Decision Union-wide quantity of allowances 29 November 2024 '2951' 'EUR-Lex'",
+          "type": "search"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0aeb23c70cd1d65c0068ee7759d9d081939672dcec87c09aa1",
+        "summary": [],
+        "type": "reasoning",
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0aeb23c70cd1d65c0068ee775b592881938d1005e171ae35ad",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 2136,
+                "start_index": 2039,
+                "title": "EUR-Lex - 02003L0087-20230605 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai"
+              },
+              {
+                "end_index": 2556,
+                "start_index": 2469,
+                "title": "Decision - EU - 2024/2951 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai"
+              },
+              {
+                "end_index": 2716,
+                "start_index": 2629,
+                "title": "Decision - EU - 2024/2951 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai"
+              },
+              {
+                "end_index": 3212,
+                "start_index": 3016,
+                "title": "ETS2: buildings, road transport and additional sectors - European Commission",
+                "type": "url_citation",
+                "url": "https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai"
+              },
+              {
+                "end_index": 4396,
+                "start_index": 4299,
+                "title": "EUR-Lex - 02003L0087-20230605 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai"
+              },
+              {
+                "end_index": 5008,
+                "start_index": 4911,
+                "title": "EUR-Lex - 02003L0087-20230605 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai"
+              },
+              {
+                "end_index": 5573,
+                "start_index": 5476,
+                "title": "EUR-Lex - 02003L0087-20230605 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai"
+              },
+              {
+                "end_index": 6250,
+                "start_index": 6104,
+                "title": "Fiala: Evropská komise vyhoví iniciativě žádající zastropování cen nových povolenek - Ekolist.cz",
+                "type": "url_citation",
+                "url": "https://ekolist.cz/cz/zpravodajstvi/zpravy/fiala-ek-vyhovi-iniciative-zadajici-zastropovani-cen-novych-povolenek?utm_source=openai"
+              },
+              {
+                "end_index": 6764,
+                "start_index": 6663,
+                "title": "Unijní strop nefunguje. Nové emisní povolenky se obchodují za 77 eur - Ekonomický deník",
+                "type": "url_citation",
+                "url": "https://ekonomickydenik.cz/eex-nove-emisi-povolenky-77-eur/?utm_source=openai"
+              },
+              {
+                "end_index": 7205,
+                "start_index": 7108,
+                "title": "EUR-Lex - 02003L0087-20230605 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai"
+              },
+              {
+                "end_index": 7452,
+                "start_index": 7355,
+                "title": "EUR-Lex - 02003L0087-20230605 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai"
+              },
+              {
+                "end_index": 7768,
+                "start_index": 7681,
+                "title": "Decision - EU - 2024/2951 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai"
+              },
+              {
+                "end_index": 8179,
+                "start_index": 7983,
+                "title": "ETS2: buildings, road transport and additional sectors - European Commission",
+                "type": "url_citation",
+                "url": "https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai"
+              },
+              {
+                "end_index": 8576,
+                "start_index": 8431,
+                "title": "EU Emissions Trading System for buildings and road transport (\"EU ETS 2\") | International Carbon Action Partnership",
+                "type": "url_citation",
+                "url": "https://icapcarbonaction.com/en/ets/eu-emissions-trading-system-buildings-and-road-transport-eu-ets-2?utm_source=openai"
+              },
+              {
+                "end_index": 9003,
+                "start_index": 8857,
+                "title": "Fiala: Evropská komise vyhoví iniciativě žádající zastropování cen nových povolenek - Ekolist.cz",
+                "type": "url_citation",
+                "url": "https://ekolist.cz/cz/zpravodajstvi/zpravy/fiala-ek-vyhovi-iniciative-zadajici-zastropovani-cen-novych-povolenek?utm_source=openai"
+              },
+              {
+                "end_index": 9603,
+                "start_index": 9516,
+                "title": "Decision - EU - 2024/2951 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai"
+              },
+              {
+                "end_index": 10303,
+                "start_index": 10206,
+                "title": "EUR-Lex - 02003L0087-20230605 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai"
+              },
+              {
+                "end_index": 11275,
+                "start_index": 11178,
+                "title": "EUR-Lex - 02003L0087-20230605 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai"
+              },
+              {
+                "end_index": 11504,
+                "start_index": 11407,
+                "title": "EUR-Lex - 02003L0087-20230605 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai"
+              },
+              {
+                "end_index": 11779,
+                "start_index": 11692,
+                "title": "Decision - EU - 2024/2951 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai"
+              },
+              {
+                "end_index": 11931,
+                "start_index": 11844,
+                "title": "Decision - EU - 2024/2951 - EN - EUR-Lex",
+                "type": "url_citation",
+                "url": "https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai"
+              },
+              {
+                "end_index": 12310,
+                "start_index": 12114,
+                "title": "ETS2: buildings, road transport and additional sectors - European Commission",
+                "type": "url_citation",
+                "url": "https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai"
+              },
+              {
+                "end_index": 12654,
+                "start_index": 12458,
+                "title": "ETS2: buildings, road transport and additional sectors - European Commission",
+                "type": "url_citation",
+                "url": "https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai"
+              },
+              {
+                "end_index": 12935,
+                "start_index": 12790,
+                "title": "EU Emissions Trading System for buildings and road transport (\"EU ETS 2\") | International Carbon Action Partnership",
+                "type": "url_citation",
+                "url": "https://icapcarbonaction.com/en/ets/eu-emissions-trading-system-buildings-and-road-transport-eu-ets-2?utm_source=openai"
+              },
+              {
+                "end_index": 13331,
+                "start_index": 13133,
+                "title": "Emissions Trading System for buildings, road transport and small industry (ETS2): cap adopted for 2027 - Climate Action",
+                "type": "url_citation",
+                "url": "https://climate.ec.europa.eu/news-your-voice/news/emissions-trading-system-buildings-road-transport-and-small-industry-ets2-cap-adopted-2027-2024-12-03_en?utm_source=openai"
+              },
+              {
+                "end_index": 13744,
+                "start_index": 13598,
+                "title": "Fiala: Evropská komise vyhoví iniciativě žádající zastropování cen nových povolenek - Ekolist.cz",
+                "type": "url_citation",
+                "url": "https://ekolist.cz/cz/zpravodajstvi/zpravy/fiala-ek-vyhovi-iniciative-zadajici-zastropovani-cen-novych-povolenek?utm_source=openai"
+              }
+            ],
+            "text": "Shrnutí tvrzení\n- Tvrzení (od Andreje Babiše): „Není pravda, co říká premiér, tedy že je tam nějaký strop (u emisních povolenek ETS II)“ — tj. že u systému ETS2 neexistuje „strop“ (nebo že tvrzení premiéra o „stropu“ je nepravdivé).\n- Nutné vyjasnit význam slova „strop“: může znamenat (a) kvantitativní strop (omezené množství emisních povolenek — cap v „cap‑and‑trade“ systému) nebo (b) cenový strop (pevné maximum ceny povolenky).\n\nKrátké shrnutí výsledku kontroly\n- Pokud „strop“ = kvantitativní limit (celkové množství povolenek): tvrzení Babiše je nepravdivé. ETS2 je cap‑and‑trade systém s jasně stanoveným „Union‑wide quantity“ (unijním množstvím povolenek) a lineárním snižováním; Komise již pro rok 2027 publikovala přesné množství povolenek. (viz důkazy níže)\n- Pokud „strop“ = trvalý pevný cenový limit (pevná maximální cena povolenky): v právním textu není trvalý „cenový strop“ (hard price cap). Existují však pravidla pro uvolnění dodatečných povolenek z trhu při nadměrném růstu ceny (tzv. price‑containment / opatření pro případ nadměrného růstu cen), vč. spouštěče založeného na prahu 45 EUR (indexováno na 2020 ceny). To není totéž co trvalý cenový strop, ale je to legislativně definovaný mechanismus, který může zmírnit prudké nárůsty ceny. (viz důkazy níže)\n\nDůkazy (rozdělené na dílčí podtvrzení)\n\nA) ETS2 je „cap‑and‑trade“ s unijním (EEA‑rozsahovým) množstvím povolenek — tedy existuje kvantitativní ‚strop‘ nabídky povolenek\n- Znění směrnice (konsolidované znění) a její úpravy zavádějí kapitolu ETS2 a vyžadují, aby Komise publikovala „Union‑wide quantity of allowances“ pro rok 2027 (tj. stanovení množství povolenek = cap). Viz čl. 30c směrnice 2003/87/EC (novelizované) a související kapitoly. Příklad (konsolidované znění): „the Union‑wide quantity of allowances issued under this Chapter each year …“; a kapitola o ETS2 upravuje, jak se stanoví množství a lineární redukční faktor. (plné znění směrnice viz níže). Zdroj: EUR‑Lex — konsolidované znění směrnice (Directive 2003/87/EC, verze s novelami 2023). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\n- Komise skutečně přijala rozhodnutí, kterým pro rok 2027 stanovila unijní množství povolenek pro ETS2: Commission Decision (EU) 2024/2951 ze dne 29. 11. 2024 — stanoví: „For 2027, the Union‑wide quantity of allowances … shall amount to 1 036 288 784.“ (Article 1). To je přímý důkaz existence kvantitativního stropu pro rok 2027. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n  - Odkaz (oficiální publikace/OJ): Commission Decision (EU) 2024/2951. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n\n- Evropská komise na svých stránkách o ETS2 explicitně uvádí, že ETS2 bude cap‑and‑trade, že „The ETS2 cap will be set to bring emissions down by 42% by 2030 compared to 2005 levels“ a že bude platit unijní množství povolenek; rovněž popisuje roli aukcí apod. (European Commission — ETS2 stránka). ([climate.ec.europa.eu](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai))\n\nZávěr k A): legislativně i ve faktické implementaci ETS2 existuje kvantitativní „strop“ (cap). Tvrzení Babiše, že „není pravda … že je tam nějaký strop“, je tedy v této interpretaci (kvantitativní strop) nepravdivé.\n\nB) Existuje v legislativě i nějaké pravidlo o „stropu cen“ (hard price cap)? — skutečnost vs. možné nejasnosti\n- V textu novelizované směrnice je článek věnovaný „Measures in the event of an excessive price increase“ (čl. 30h). Ten stanoví dvě samostatné spouštěcí podmínky pro uvolnění povolenek z Market Stability Reserve (MSR) při rychlém růstu cen:\n  1) Pokud je průměrná aukční cena více než dvojnásobkem (po dobu >3 měsíců) relativně k průměru z předchozích 6 měsíců (pro roky 2027–2028 platí pro podmínku nižší násobek 1,5x), uvolní se 50 milionů povolenek z MSR.  \n  2) Pokud průměrná cena povolenky přesáhne EUR 45 po dobu dvou po sobě jdoucích měsíců, uvolní se 20 milionů povolenek z MSR (indexováno podle indexu spotřebitelských cen pro rok 2020). Toto opatření je omezeno do 31. 12. 2029. (přímé znění viz čl. 30h(1)–(2) v konsolidovaném textu směrnice). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\n- Citace (výřez z konsolidovaného textu směrnice, čl. 30h(2)): „Where the average price of allowances referred to in paragraph 1 of this Article exceeds a price of EUR 45 for a period of two consecutive months, 20 million allowances covered by this Chapter shall be released from the market stability reserve ... Indexation based on the European index of consumer prices for 2020 shall apply. Allowances shall be released through the mechanism provided for in this paragraph up to 31 December 2029.“ (viz zdroj). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\n- Interpretace: výše uvedená pravidla nejsou „trvalým cenovým stropem“ v tom smyslu, že by cena povolenky měla pevnou horní hranici, nad kterou již nemůže růst. Jde o mechanismy uvolnění dodatečného objemu povolenek při prudkých cenových nárůstech (price‑containment / MSR‑releases). To může tlumit krátkodobé skoky ceny, ale nemění podstatu cap‑and‑trade (omezené množství) a není to stejné jako trvalý „hard cap“ na cenu. Relevantní právní text to jasně popisuje. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\nC) Praktický kontext / aktuální události (komentáře premiéra, česká iniciativa)\n- Český premiér Petr Fiala v létě/podle medializace sdělil, že Evropská komise „vyhoví iniciativě“ (non‑paper skupiny členských států včetně ČR) a „připraví návrh, aby cena emisní povolenky byla skutečně zastropována“ (tj. politické prohlášení o tom, že Komise zváží návrh či změnu). To je politické/připravované opatření — NENÍ to totéž jako již existující právní úprava s trvalým cenovým stropem. (viz české zprávy, např. Ekolist / Echo24 apod.). ([ekolist.cz](https://ekolist.cz/cz/zpravodajstvi/zpravy/fiala-ek-vyhovi-iniciative-zadajici-zastropovani-cen-novych-povolenek?utm_source=openai))\n\n- Současně trh obchoduje futures na povolenky ETS2 a v roce 2025/2026 se objevily ceny výrazně nad 45 EUR (např. zprávy o cenách ~76–77 EUR na EEX/ICE), což v praxi ukazuje, že instituované mechanismy (uvolnění z MSR při překročení 45 EUR) fungují jako pravidla, nikoli jako absolutní strop, a že trhy ceny nad 45 EUR obchodují. To komentují i česká média a analytici. (viz např. EEX/ICE zprávy a česká média). ([ekonomickydenik.cz](https://ekonomickydenik.cz/eex-nove-emisi-povolenky-77-eur/?utm_source=openai))\n\nRelevantní primární zdroje (výběr, s odkazem na konkrétní pasáže)\n1) Directive 2003/87/EC (konsolidované/novelizované znění, zahrnuje kapitolu o ETS2; čl. 30c, 30h, 30k apod.) — viz zejména čl. 30h (Measures in the event of an excessive price increase) a čl. 30c (Union‑wide quantity).  \n   - EUR‑Lex (consolidated text, Article 30h uveden). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n   - Přímý odkaz na čl. 30h v konsolidovaném textu: viz EUR‑Lex (consolidated) — Article 30h (Measures in the event of an excessive price increase). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\n2) Commission Decision (EU) 2024/2951 (29.11.2024) — „on the Union‑wide quantity of allowances … for 2027“; Article 1 stanoví: 1 036 288 784 allowances pro rok 2027. (to je přímé stanovení kvantitativního stropu pro rok 2027). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n\n3) European Commission — oficiální stránka „ETS2: buildings, road transport and additional sectors“ (vysvětlení, že ETS2 je cap‑and‑trade a že „The ETS2 cap will be set to bring emissions down by 42% by 2030 …“). ([climate.ec.europa.eu](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai))\n\n4) International Carbon Action Partnership (ICAP) — stručné shrnutí ETS2 včetně popisu Market Stability Reserve a price‑containment (uvedení prahu 45 EUR a dalších detailů). (užitečné pro vysvětlení mechanismu, ale primární právní text je směrnice). ([icapcarbonaction.com](https://icapcarbonaction.com/en/ets/eu-emissions-trading-system-buildings-and-road-transport-eu-ets-2?utm_source=openai))\n\n5) České zdroje o politických prohlášeních: např. Ekolist / Echo24 — komentáře k stanovisku premiéra Petra Fialy ohledně iniciativy „zastropování ceny“. (ilustruje politické prohlášení premiéra; ovšem právní úprava s trvalým cenovým stropem v době zkoumaného data neexistovala). ([ekolist.cz](https://ekolist.cz/cz/zpravodajstvi/zpravy/fiala-ek-vyhovi-iniciative-zadajici-zastropovani-cen-novych-povolenek?utm_source=openai))\n\nZávěr (stručně, s hodnocením tvrzení)\n- Tvrzení Andreje Babiše „Není pravda … že je tam nějaký strop (u emisních povolenek ETS II)“ hodnotím jako zavádějící / nepravdivé, pokud se tím míní, že u ETS2 neexistuje žádný „strop“ obecně:\n  - Jestliže „strop“ znamená kvantitativní množstevní limit (cap): takový strop existuje — ETS2 je cap‑and‑trade systém a Komise stanovila union‑wide množství povolenek pro rok 2027 (Commission Decision (EU) 2024/2951). Tvrzení proto v této interpretaci neodpovídá skutečnosti. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n  - Jestliže „strop“ Babiš měl na mysli trvalý pevný cenový limit (hard price cap): v právu EU ke dni zkoumání není trvalý cenový strop; existují však konkrétně upravené price‑containment mechanismy (čl. 30h), včetně uvolnění povolenek při překročení prahové ceny (EUR 45, indexováno), a také mechanismus pro případ „nadměrného“ růstu cen (uvolnění 50 milionů povolenek). To znamená, že tvrzení „není tam žádný strop“ je v této interpretaci také matoucí: není tam trvalý hard cap na cenu, ale existují legislativně dané mechanismy, které při překročení definovaných prahů uvolní další objem povolenek. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\nCelkové hodnocení pro účel fakt‑checku: tvrzení je nepravdivé (pokud se pod „stropem“ myslí limit množství povolenek — což je běžná interpretace v kontextu ETS). Pokud Babiš zamýšlel „strop“ jako trvalý cenový strop, pak jeho tvrzení může být částečně pravdivé (trvalý cenový strop legislativně není), ale zároveň zavádějící, protože existují přesně upravené cenou spouštěné mechanismy (čl. 30h), a politické prohlášení premiéra o „zastropování“ se týkalo návrhu/intiativy, nikoli již platného právního stavu. Doporučené označení: „Nepravda / Zavádějící“ v závislosti na interpretaci slova „strop“.\n\nSeznam všech relevantních nalezených zdrojů (s odkazem na konkrétní pasáže)\n- Directive 2003/87/EC (konsolidované znění, včetně novel 2023) — Article 30h (Measures in the event of an excessive price increase) a související články (30c, 30k). EUR‑Lex (konsolidované znění). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n  - Přímý link (konsolidované znění směrnice na EUR‑Lex): https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05 (viz čl. 30h atd.). ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dir/2003/87/2023-06-05/eng?utm_source=openai))\n\n- Commission Decision (EU) 2024/2951 of 29 November 2024 — on the Union‑wide quantity of allowances for 2027 (stanovení množství 1 036 288 784 pro rok 2027). EUR‑Lex / Official Journal. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n  - Přímý link: https://eur-lex.europa.eu/eli/dec/2024/2951/oj. ([eur-lex.europa.eu](https://eur-lex.europa.eu/eli/dec/2024/2951/oj?utm_source=openai))\n\n- European Commission — „ETS2: buildings, road transport and additional sectors“ (oficiální stránka vysvětlující, že ETS2 je cap‑and‑trade a že cap má přispět k 42% snížení emisí). ([climate.ec.europa.eu](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai))\n  - Přímý link: https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en. ([climate.ec.europa.eu](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/ets2-buildings-road-transport-and-additional-sectors_en?etrans=esA&prefLang=sl&utm_source=openai))\n\n- ICAP (International Carbon Action Partnership) — shrnutí ETS2, včetně popisu MSR a mechanismu uvolnění při překročení prahu 45 EUR. ([icapcarbonaction.com](https://icapcarbonaction.com/en/ets/eu-emissions-trading-system-buildings-and-road-transport-eu-ets-2?utm_source=openai))\n\n- Evropská komise — tisková zpráva / news: „Emissions Trading System for buildings, road transport and small industry (ETS2): cap adopted for 2027“ (3. 12. 2024). (oznamuje přijetí cap pro 2027). ([climate.ec.europa.eu](https://climate.ec.europa.eu/news-your-voice/news/emissions-trading-system-buildings-road-transport-and-small-industry-ets2-cap-adopted-2027-2024-12-03_en?utm_source=openai))\n\n- České mediální zdroje o politických prohlášeních premiéra a o snahách ČR o „zastropování“ / iniciativě států: např. Ekolist, Echo24, iDNES, Kurzy.cz (komentáře a reporty o jednáních ČR/komise a trhu). (Ilustrují politický kontext; nejedná se o právní dokumenty). ([ekolist.cz](https://ekolist.cz/cz/zpravodajstvi/zpravy/fiala-ek-vyhovi-iniciative-zadajici-zastropovani-cen-novych-povolenek?utm_source=openai))\n\nPoznámka k metodě\n- Nejvýznamnější právní a faktické důkazy pocházejí z primárních dokumentů EU: konsolidované znění směrnice o EU ETS (s novelami zavádějícími kapitolu o ETS2) a z Komisního rozhodnutí, kterým bylo pro 2027 stanoveno konkrétní unijní množství povolenek. Tyto dokumenty jednoznačně prokazují existenci množstevního „cap“. Legislativa zároveň upravuje mechanismy reagující na prudký růst cen; tyto mechanismy nejsou totéž co trvalý cenový „strop“.\n\nKonec.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "reasoning": {
+      "effort": "medium",
+      "generate_summary": null,
+      "summary": "detailed"
+    },
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 36676,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 7513,
+      "output_tokens_details": {
+        "reasoning_tokens": 3456
+      },
+      "total_tokens": 44189
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "prompt_cache_key": null,
+    "safety_identifier": null,
+    "store": true
+  }
+}

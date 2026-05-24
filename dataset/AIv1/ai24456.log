@@ -1,0 +1,821 @@
+{
+  "claim_id": "24456",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20251208_131217",
+  "source_md": "experiments/gpt-5.1h_20251208_131217/brief_fact_check_id24456.md",
+  "fact_check": "# Fact Check for Statement ID 24456\n\n## Statement\nRostou reálné mzdy.\n\n---\n## OpenAI Deep Research Fact Check\n## Shrnutí hodnocení\n\n- **Na celostátní úrovni** průměrná reálná mzda (průměrná hrubá měsíční mzda očištěná o inflaci) v ČR **od 1. čtvrtletí 2024 každé čtvrtletí meziročně roste**, podle oficiálních dat ČSÚ i ČNB.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n- V **letech 2021–2023 naopak reálné mzdy výrazně klesaly** a podle ČNB a OECD byly ztráty v Česku jedny z největších v OECD.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023))  \n- Podle ČNB byla **hrubá reálná mzda ve 3. čtvrtletí 2024 stále v průměru o 4,4 % nižší než v roce 2019**, tedy před vysokou inflací.([cnb.cz](https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech))  \n- V některých **odvětvích veřejného sektoru** (např. vzdělávání, veřejná správa) mzdy v roce 2024 sice nominálně rostly, ale **reálně buď nerostly vůbec, nebo jen minimálně**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n\n**Předběžné zhodnocení:**  \nPro standardní makroekonomický výklad („průměrná reálná mzda v ekonomice“) je výrok *„Rostou reálné mzdy“* v době výroku (28. 11. 2025) **v zásadě pravdivý**, ale:\n- jde o růst **z předchozího hlubokého propadu**,  \n- a **neplatí pro každé odvětví či každého zaměstnance**.\n\n---\n\n## 1. Výklad výroku\n\nVýrok „Rostou reálné mzdy“ lze chápat několika způsoby:\n\n1. **Úzký, statistický výklad (nejpravděpodobnější):**  \n   „Průměrná reálná mzda v národním hospodářství (podle ČSÚ) meziročně roste.“\n\n2. **Širší výklad:**  \n   „Kupní síla mezd většiny zaměstnanců v ČR nyní roste.“\n\n3. **Silný (implicitní) výklad:**  \n   „Reálné mzdy se nejen zvedají, ale už jsou zpět nebo nad úrovní před inflací (např. 2019/2021).“\n\nNíže ověřujeme především (1), u (2) a (3) upozorňujeme na limity.\n\n---\n\n## 2. Vývoj reálných mezd podle ČSÚ\n\nČSÚ zveřejňuje čtvrtletní „Rychlé informace – Průměrné mzdy“, kde uvádí **meziroční změnu nominální a reálné mzdy** (tj. po očištění o inflaci).\n\n### 2.1 Období poklesu (2021–2023)\n\nPřed obratem reálné mzdy několik let klesaly:\n\n- **2. čtvrtletí 2023**  \n  - Nominální mzda +7,7 % (na 43 193 Kč),  \n  - **reálně −3,1 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023))  \n  - ČSÚ komentuje, že „reálná mzda klesla posedmé za sebou“.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023))  \n\n- **4. čtvrtletí 2023 a celý rok 2023**  \n  - 4Q 2023: nominálně +6,3 %, **reálně −1,2 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-4-ctvrtleti-2023))  \n  - Za celý rok 2023: nominálně +7,5 %, ale inflace 10,7 %,  \n    **reálně tak mzda za rok 2023 klesla o 2,9 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-4-ctvrtleti-2023))  \n\nČNB v odpovědi na žádost podle zákona č. 106/1999 Sb. výslovně shrnuje, že **reálné mzdy v letech 2021–2023 klesaly**, protože růst nominálních mezd nekompenzoval vysokou inflaci.([cnb.cz](https://www.cnb.cz/cs/o_cnb/106/informace-poskytnute-ceskou-narodni-bankou-podle-zakona-c.-106-1999-sb.-o-svobodnem-pristupu-k-informacim/Informace-poskytnute-na-zadost-ze-dne-8.nbsp9.-2025-tykajici-se-vyvoje-realnych-mezd))  \n\nPodle analýzy OECD shrnuté ČTK **reálné mzdy mezi 4Q 2019 a 1Q 2024 v ČR klesly o 7,5 %**, což je společně se Švédskem největší propad v OECD.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2541530))  \n\n### 2.2 Obrat v roce 2024: reálné mzdy začínají růst\n\nOd 1. čtvrtletí 2024 ČSÚ zaznamenává **pozitivní meziroční růst reálné mzdy**:\n\n- **1. čtvrtletí 2024**  \n  - Nominální mzda +7,0 % (43 941 Kč),  \n  - inflace 2,1 %,  \n  - **reálně +4,8 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n  - ČSÚ komentuje: „Reálná mzda v 1. čtvrtletí 2024 vzrostla o 4,8 %… Po devíti čtvrtletích tak nastal obrat, i když v některých odvětvích zaměstnancům mzda reálně nevzrostla.“([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n\n- **2. čtvrtletí 2024**  \n  - Nominální mzda +6,5 % (45 854 Kč),  \n  - inflace 2,5 %,  \n  - **reálně +3,9 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024))  \n  - ČSÚ opět upozorňuje, že v některých odvětvích reálné mzdy nerostly, ale průměr za celé hospodářství ano.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024))  \n\n- **3. čtvrtletí 2024**  \n  - Nominální mzda +7,0 % (45 412 Kč),  \n  - inflace 2,3 %,  \n  - **reálně +4,6 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-3-ctvrtleti-2024))  \n\nZa **1.–3. čtvrtletí 2024** dohromady průměrná mzda 45 107 Kč, nominálně +6,9 %, **reálně +4,5 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-3-ctvrtleti-2024))  \n\n### 2.3 Vývoj v roce 2025 do data výroku\n\nDo data výroku (28. 11. 2025) byly zveřejněny výsledky za **1. a 2. čtvrtletí 2025**:\n\n- **1. čtvrtletí 2025** (Rychlá informace ČSÚ vydaná 4. 6. 2025)  \n  - Nominální mzda +6,7 % (46 924 Kč),  \n  - inflace 2,7 %,  \n  - **reálně +3,9 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2025))  \n  - Komentář ČSÚ: „Průměrná reálná mzda vzrostla v 1. čtvrtletí 2025 o 3,9 %.“([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2025))  \n\n- **2. čtvrtletí 2025** (Rychlá informace ČSÚ vydaná 3. 9. 2025 – tedy téměř tři měsíce před výrokem)  \n  - Nominální mzda +7,8 % (49 402 Kč),  \n  - inflace 2,4 %,  \n  - **reálně +5,3 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2025))  \n  - ČSÚ shrnuje: „Ve 2. čtvrtletí 2025 … mzda reálně vzrostla o 5,3 %“, a za **1. pololetí 2025**:  \n    - nominálně +7,2 %,  \n    - inflace 2,6 %,  \n    - **reálně +4,5 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2025))  \n\nTyto údaje byly **oficiálně k dispozici dlouho před 28. 11. 2025** a potvrzují, že **minimálně 6 po sobě jdoucích čtvrtletí (1Q 2024 – 2Q 2025) vykazuje kladný meziroční růst průměrné reálné mzdy**.\n\n> Poznámka: Data za **3. čtvrtletí 2025** (vydaná 4. 12. 2025, tedy až po výroku) ukazují další meziroční růst reálné mzdy o 4,5 %, ale z hlediska ověřování tvrzení jde už o dodatečný kontext.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-3-ctvrtleti-2025?utm_source=openai))  \n\n---\n\n## 3. Další oficiální zdroje potvrzující růst reálných mezd\n\n### 3.1 Česká národní banka\n\nNa stránce ČNB „Inflace u 2% cíle“ (edukační text k inflaci) se výslovně píše:\n\n- Reálné mzdy „od začátku roku 2024 opět rostou“ a  \n- ve **2. čtvrtletí 2025 vzrostly v meziročním srovnání o 5,3 %**.([cnb.cz](https://www.cnb.cz/cs/menova-politika/inflacni-cil/tema-inflace))  \n\nČNB zde vychází z dat ČSÚ a shrnuje přesně totéž, co uvádějí „Rychlé informace“ o mzdách.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2025))  \n\nV analytickém boxu „Vývoj čisté mzdy v posledních letech“ (ZoMP zima 2025) ČNB doplňuje, že:\n\n- **hrubá reálná mzda** ve 3. čtvrtletí 2024 byla **oproti roku 2019 v průměru nižší o 4,4 %** (v mediánu o 2,4 %),  \n- zatímco **čistá reálná mzda** (po zdanění) už byla oproti 2019 o něco vyšší.([cnb.cz](https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech))  \n\nTo dokládá, že **reálné mzdy sice od roku 2024 rostou, ale úroveň hrubé reálné mzdy ještě v roce 2024 nedorovnala předcovidový rok 2019.**\n\n### 3.2 Ministerstvo financí ČR\n\nMinisterstvo financí ve svých makroekonomických predikcích trend růstu reálných mezd opakovaně potvrzuje:\n\n- **Dubnová predikce MF (10. 4. 2025):**  \n  Ministr financí Zbyněk Stanjura uvádí, že MF v roce 2025 **očekává růst reálných mezd** a že napjatý trh práce znamená „další zvýšení reálných výdělků – jak v letošním, tak i v příštím roce“.([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/dubnova-predikce-mf-hospodarske-oziveni-pri-nizke-59454))  \n\n- **Listopadová predikce MF (6. 11. 2025)** – necelý měsíc před výrokem:  \n  V tiskové zprávě MF je citováno:  \n  > „Dnes se česká ekonomika řadí mezi nejrychleji rostoucí ekonomiky EU, **rostou reálné mzdy**, daří se realizovat investiční projekty…“([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ceska-ekonomika-nabira-na-sile-ministerstvo-financ-61826))  \n\n  Dále MF kvantifikuje, že **v roce 2025 porostou reálné výdělky o 4,3 %**, v roce 2026 o 3,4 %.([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ceska-ekonomika-nabira-na-sile-ministerstvo-financ-61826))  \n\nTyto predikce a výroky MF jsou sekundárním (ale oficiálním) potvrzením toho, co primárně ukazují data ČSÚ.\n\n---\n\n## 4. Omezení a protiargumenty\n\n### 4.1 Reálné mzdy stále pod úrovní roku 2019 (hrubá mzda)\n\nČNB ve zmíněném boxu shrnuje, že:\n\n- **hrubá reálná mzda** ve 3. čtvrtletí 2024 byla stále **o 4,4 % pod úrovní roku 2019** (v mediánu o 2,4 %),  \n- zatímco **čistá reálná mzda** díky daňovým změnám už úroveň z roku 2019 přesáhla.([cnb.cz](https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech))  \n\nTo znamená, že:\n\n- i když reálné mzdy od roku 2024 rostou,  \n- **celkovou ztrátu kupní síly z let 2021–2023 ještě (v hrubé mzdě) zcela nedohnaly**.\n\nPokud by tedy někdo výrok interpretoval jako „jsme na tom reálně lépe než před inflací“, bylo by to předčasné (pro hrubou mzdu).\n\n### 4.2 Nerovnoměrnost mezi sektory a odvětvími\n\nČSÚ v několika tiskových zprávách upozorňuje, že růst reálné mzdy **není rovnoměrný napříč odvětvími**:\n\n- V 1. čtvrtletí 2024 a 2. čtvrtletí 2024 uvádí, že i když průměrná reálná mzda v ekonomice vzrostla, „v některých odvětvích zaměstnancům mzda reálně nevzrostla“.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n\n- V odvětvích **vzdělávání** a **veřejná správa a obrana** byl růst nominálních mezd v 1Q–2Q 2024 jen okolo 2–3 %, což je přibližně na úrovni nebo pod úrovní inflace (2,1–2,5 %) – tam tedy reálné mzdy prakticky nestouply nebo dokonce mírně klesly.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024))  \n\nCelkový výrok „rostou reálné mzdy“ tak **platí pro ekonomiku jako celek**, ale **nikoli pro všechny obory**.\n\n### 4.3 Rozdíl mezi průměrnou a typickou (mediánovou) mzdou\n\n- Medián mezd (typická mzda „prostředního“ zaměstnance) také roste – např. v 1Q 2025 o 5,3 %, ve 2Q 2025 o 7,2 % meziročně.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2025))  \n- Proto lze říci, že **růst se neodehrává pouze „nahoře“, ale dotýká se i většiny zaměstnanců**, byť ne všech stejně.\n\nZároveň ale platí, že **dvě třetiny zaměstnanců mají mzdu nižší než celostátní průměr**, jak ČSÚ opakovaně připomíná v metodických poznámkách.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n\n---\n\n## 5. Závěr k různým interpretacím výroku\n\n### a) „Průměrná reálná mzda v ČR nyní roste“\n\n- Od **1. čtvrtletí 2024 do 2. čtvrtletí 2025** (poslední data dostupná před výrokem) **průměrná reálná mzda v každém čtvrtletí meziročně vzrostla** (o 3,9–5,3 %).([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n- Tento trend potvrzují i ČNB a MF.([cnb.cz](https://www.cnb.cz/cs/menova-politika/inflacni-cil/tema-inflace))  \n\n**Hodnocení:**  \nPro tento standardní statistický výklad je výrok „Rostou reálné mzdy“ **fakticky podložen a odpovídá realitě v době výroku.**\n\n### b) „Reálné mzdy rostou většině zaměstnanců / napříč celou ekonomikou“\n\n- Většina odvětví i regionů eviduje kladný růst reálných mezd, ale **některé obory (zejména část veřejného sektoru) reálný růst v roce 2024 neměly**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024))  \n\n**Hodnocení:**  \nVýrok je **v obecné rovině pravdivý**, ale **není přesný**, pokud by byl chápán tak, že se růst týká **všech** zaměstnanců bez výjimky.\n\n### c) „Jsme už reálně nad úrovní před inflací (2019/2021)“\n\n- ČNB uvádí, že **hrubá reálná mzda** byla ve 3Q 2024 stále pod úrovní roku 2019 (−4,4 % v průměru).([cnb.cz](https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech))  \n- Reálná **čistá** mzda tuto úroveň již dosáhla, ale to je jiná veličina (po zdanění).([cnb.cz](https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech))  \n\n**Hodnocení:**  \nPokud by výrok implicitně naznačoval plnou kompenzaci ztrát z let 2021–2023 v hrubé mzdě, bylo by to **nepravdivé**. Sám Kupka to ale v citovaném výroku výslovně netvrdí.\n\n---\n\n## Celkové shrnutí pro fact–checkera\n\n- **Jádrná část výroku („reálné mzdy v ČR nyní rostou“) je v době výroku v souladu s oficiálními daty ČSÚ a potvrzují ji i ČNB a MF.**  \n- Je ovšem potřeba dodat, že:\n  - jde o růst **po předchozím výrazném propadu** (2021–2023),  \n  - **hrubé reálné mzdy se ještě úplně nevrátily na úroveň roku 2019**,  \n  - a růst **není rovnoměrný napříč všemi odvětvími** – část zaměstnanců, zejména ve veřejném sektoru, reálný růst dosud nepocítila.\n\nTyto souvislosti mohou být při finálním hodnocení výroku (např. „pravdivý, ale neúplný“) důležité.\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Kuloáry Napřímo released on 2025-11-28 available from https://tn.nova.cz/zpravodajstvi/clanek/635047-musime-se-srdcari-pracovat-na-promene-reaguje-kupka-na-odchod-kuby-z-ods.\\n\\n\\nThe claim was made by: Martin Kupka, Ministr dopravy\\n\\n\\nThe claim appears in the following immediate context in the source:\\nCo přinesla včerejší první mimořádná schůze Poslanecké sněmovny? Poškodí ODS odchod Martina Kuby? A co se řeší v kuloárech? Zeptáme se ministra dopravy v demisi Martina Kupky, také kandidáta na předsedu ODS. Dobrý den. Dobrý den. Proč jste? Včera jsem vás nepotkala? A v kuloárech, nepotkala jsem vás v kuloárech, v předsálí v Poslanecké sněmovny během té mimořádné schůze.\\nByl jsem v sále a my jsme měli tiskovou konferenci i před tou samotnou schůzí, abychom vysvětlili, proč je důležité, aby premiér České republiky nebyl ve střetu zájmů. Ono se to zdá jako abstraktní téma, přitom je to vlastně úplně konkrétní, když by si to člověk představil, kdyby například starosta malé obce nastavoval dotaci té obce a na konci zároveň jeho firmy tu dotaci čerpaly, zneužívaly. Tak ho ti občani vynesou v zubech.\\nA většinu toho jednání. Pardon, že vám do toho skáču. Většinu toho jednání tam seděl pan Výborný, že vlastně i poslanci té většiny se pozastavovali nad tím, tak oni svolají schůzi a potom tady ani nesedí, aby si tu poslechli.\\nJá jsem sledoval chvíli i projev Andreje Babiše, který bohužel byl plný odsudků hodnocení všech těch předchozích let, budování svobodného demokratického státu, kde samozřejmě byly etapy lepší a etapy horší, ale to, že dneska patříme mezi nejvyspělejší evropské země, to nikdo nemůže zpochybnit. A mě vlastně vždycky zlobí, když nikdo z té nastupující vlády, z někdejší opozice nenechá na té zemi nit suchou, že vypadá jako spálená země, no to vůbec neodpovídá realitě. Dneska zveřejnil Český statistický úřad nezávislá instituce data o tom, jak roste ekonomika a ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí. Co to znamená, že jsme třetí nejrychleji rostoucí ekonomika v Evropské unii? To vůbec neodpovídá obrazu spálené země a v tomhleu naopak má zaznít. A je to samozřejmě zásluha podnikatelů. Je to zásluha lidí, kteří v České republice pracují a samozřejmě také hospodářské politiky, kterou se dařilo realizovat v těch předchozích letech. A výsledkem je to, že do toho dalšího období startujeme s dobrými ukazateli. Rostou reálné mzdy.\\nZároveň se podařilo v tomto směru opravdu snížit, stabilizovat inflaci nikde na hodnotě 2,5 %, a to jsou hodnoty, které opravdu znamenají pozitivní zprávu pro každého občana České republiky.\\nSe zeptám znovu, proč jste tam neseděli ve chvíli, kdy svoláváte tu schůzi? Vybavila jsem si několik schůzí, vlastně, jako kdy vy jste potom pranýřovali Andreje Babiše, že tam vlastně u toho není a proč jste vlastně vy, když už to svoláváte? Proč potom tam máte jednoho zástupce, bez jehož přítomnosti by ta schůze vlastně tam potom nemohl.\\n\\nProvide a structured, citation-backed verification of the claim: 'Rostou reálné mzdy.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 371.48 seconds\n## Agent work log\n```\nREASONING: \nWEB SEARCH: csu prumerna hruba mzda realna mzda 2025 2. ctvrtleti\nREASONING: \nWEB SEARCH: Průměrná hrubá mzda 2. čtvrtletí 2025 'czso'\nREASONING: \nWEB SEARCH: \"Průměrná hrubá mzda\" \"2. čtvrtletí 2025\"\nREASONING: \nWEB SEARCH: \"Průměrné mzdy - 4. čtvrtletí 2024\" \"Rychlé informace\"\nREASONING: \nWEB SEARCH: \"Průměrné mzdy - 3. čtvrtletí 2025\"\nREASONING: \nWEB SEARCH: \"Průměrné mzdy - 2. čtvrtletí 2024\" \"Rychlé informace\"\nREASONING: \nWEB SEARCH: vyvoj realnych mezd 2024 2025 ceska republika 'reálné mzdy opět rostou'\nREASONING: \nWEB SEARCH: reálná mzda 2024 nižší než 2019 Česká republika\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nWEB SEARCH: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nWEB SEARCH: None\nREASONING: \nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nREASONING: \nOPEN PAGE: None\nREASONING: \nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Statistiky ČSÚ a ČNB ukazují, že od roku 2024 průměrná reálná mzda v Česku skutečně meziročně roste, stále však nedohnala propad z let 2021–2023 a neplatí to pro všechna odvětví. Výrok proto hodnotíme jako pravda.</p>\n\n<p>Výrok zaznívá v době, kdy se v politické debatě často střetávají dva obrazy české ekonomiky: na jedné straně argument, že životní úroveň „už zase roste“, na druhé straně zkušenost lidí, že si za svůj plat stále koupí méně než před nástupem vysoké inflace. Pro posouzení je klíčové, že pod pojmem reálná mzda se v ekonomické statistice rozumí průměrná hrubá měsíční mzda očištěná o růst cen, tak jak ji publikuje <a href=\"https://www.csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024\">Český statistický úřad</a> a ve svých analýzách používá také <a href=\"https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech\">Česká národní banka</a>.</p>\n\n<p>Výrok obsahuje jedno faktické tvrzení: že reálné mzdy v Česku rostou. Toto tvrzení posuzujeme na úrovni celé ekonomiky – tedy podle vývoje průměrné reálné mzdy za všechny zaměstnance, nikoli podle situace v jednotlivých firmách či profesích. V našem hodnocení vycházíme z oficiálních čtvrtletních údajů o mzdách, které dlouhodobě zveřejňuje <a href=\"https://www.csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023\">ČSÚ</a>, a z analytického materiálu <a href=\"https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech\">ČNB o vývoji čisté mzdy v posledních letech</a>.</p>\n\n<p>Nejprve je důležitý vývoj v předchozích letech. Podle časových řad ČSÚ reálné mzdy v letech 2021–2023 v důsledku vysoké inflace výrazně klesaly, přestože nominální mzdy (v korunách „na papíře“) rostly. Statistiky k průměrné mzdě za rok 2022 a první polovinu roku 2023 ukazují, že po očištění o inflaci se kupní síla průměrného platu snižovala, což potvrzují například souhrnné údaje v publikaci <a href=\"https://www.csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023\">„Průměrné mzdy – 2. čtvrtletí 2023“</a>, kde je pokles reálné mzdy popsán i v meziročním srovnání.</p>\n\n<p>Obrat nastává v roce 2024. Ve vydání <a href=\"https://www.csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024\">„Průměrné mzdy – 1. čtvrtletí 2024“</a> ČSÚ uvádí, že po dvou letech poklesu se průměrná reálná mzda meziročně zvýšila, protože růst nominálních mezd byl poprvé po delší době vyšší než inflace. Analýza ČNB <a href=\"https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech\">„Vývoj čisté mzdy v posledních letech“</a> shrnuje, že od 1. čtvrtletí 2024 reálná mzda v meziročním vyjádření postupně roste i v dalších čtvrtletích roku 2024, což potvrzuje, že trend poklesu byl zlomem nahrazen růstem.</p>\n\n<p>Zároveň ale data ukazují, že i přes tento novější růst jsou reálné mzdy stále pod úrovní před nástupem vysoké inflace. ČNB v uvedené analýze vysvětluje, že ve 3. čtvrtletí 2024 byla průměrná hrubá reálná mzda v české ekonomice stále zhruba o několik procent nižší než v roce 2019, tedy v období před inflanční vlnou, přičemž konkrétně uvádí pokles přibližně o 4,4 % oproti roku 2019. Tento údaj dokumentuje, že současný růst reálných mezd znamená spíše dohánění dřívější ztráty než zvyšování kupní síly nad předcovidovou a předinflační úroveň.</p>\n\n<p>Dále je potřeba zohlednit rozdíly mezi odvětvími. Přehled podle odvětví, který ČSÚ zveřejňuje v rámci stejného statistického sdělení <a href=\"https://www.csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024\">„Průměrné mzdy – 1. čtvrtletí 2024“</a>, ukazuje, že výraznější růst reálné mzdy v roce 2024 zaznamenala část podnikatelského sektoru, například zpracovatelský průmysl či některé služby. V odvětvích veřejného sektoru, zejména ve vzdělávání a ve veřejné správě, byl růst nominálních mezd skromnější, a po zohlednění inflace zde reálné mzdy v roce 2024 buď prakticky nerostly, nebo rostly jen velmi mírně. Pro jednotlivé zaměstnance v těchto odvětvích tak tvrzení o růstu reálných mezd nemusí odpovídat jejich osobní zkušenosti, přestože celkový průměr ekonomiky roste.</p>\n\n<p>Souhrnně tedy platí, že pokud výrok „rostou reálné mzdy“ chápeme v běžném makroekonomickém významu jako tvrzení o průměrné reálné mzdě v celé ekonomice, statistiky ČSÚ i analýza ČNB potvrzují, že od roku 2024 reálné mzdy skutečně meziročně rostou. Zároveň ale tato formulace neříká nic o tom, že se stále jen dohání předchozí výrazný propad a že růst není rovnoměrný ve všech odvětvích. Na samotnou pravdivost výroku o směru současného vývoje to však nemá vliv. Výrok proto hodnotíme jako <strong>pravda</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0dd345c3cee156bd006936c3207fb881929dc1ba0732e9df9a",
+    "created_at": 1765196576.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0dd345c3cee156bd006936c32bc3d481928e71af327eba2f9e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c3363f8481928b6b9c11a0f80a25",
+        "action": {
+          "query": "csu prumerna hruba mzda realna mzda 2025 2. ctvrtleti",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c3392fe881929d4bf066582a5a41",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c33a13208192a425e68ab7e4bca0",
+        "action": {
+          "query": "Průměrná hrubá mzda 2. čtvrtletí 2025 'czso'",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c34395c4819288f9fe482fa02715",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c345328c8192b8c74f4617692b61",
+        "action": {
+          "query": "\"Průměrná hrubá mzda\" \"2. čtvrtletí 2025\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c348af148192a6ff08e7d052e9e2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c34994e881928404587936998eda",
+        "action": {
+          "query": "\"Průměrné mzdy - 4. čtvrtletí 2024\" \"Rychlé informace\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c34d68688192bd512fe6b42d781c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c357af8c8192a77319cb72e66615",
+        "action": {
+          "query": "\"Průměrné mzdy - 3. čtvrtletí 2025\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c359b004819288c51039f4ea6236",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c35bd4708192a7259eb1ee2f3b50",
+        "action": {
+          "query": "\"Průměrné mzdy - 2. čtvrtletí 2024\" \"Rychlé informace\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c35f05888192b6ae467be98f1f3e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c369d7ac8192824fdb02dc1c0b57",
+        "action": {
+          "query": "vyvoj realnych mezd 2024 2025 ceska republika 'reálné mzdy opět rostou'",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c36cfe9c819284ec662a4384334a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c371590481929becbf3428c2bd18",
+        "action": {
+          "query": "reálná mzda 2024 nižší než 2019 Česká republika",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c377703081928f79ad69e279e395",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c37930748192aabbe269be3ab3e3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c37badd881928bd09326a1420a1d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c37c08888192853de9c6fa97f1bc",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c37e8d848192a03dc1eece5f53b8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c38074788192ab50ca60eb76beec",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c38476308192836c100fc708deb2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c384f59c819290a7f1cb56ed690d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c38667248192aa4807911dea1498",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c3cdc0a881929ebba98fb716a10a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c3d0609c8192b5339344dec56158",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c3e8b2b081929554f0da36a1bef0",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c3ea83bc819280e7e701ae997f9b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c3eadd3c81928521eff3ab455c56",
+        "action": {
+          "query": null,
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c3ed842881928c7c54da66cd60d7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c3edd26c8192a28dc2694c210f5d",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Reálná mzda v 1. čtvrtletí 2024 vzrostla"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c3f027dc8192900591fd5845cf9f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c3f0a4e08192bb3c87145f75d8e4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c3f2d13c8192bcb5838ae597c120",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c3f304c08192abc90222e819962d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c3f5d8b48192a7a9566a5add03ce",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c3f5e4988192a3ae4ae2c880306a",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c3fa1928819289500a110d7afbe4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c3fb4bd48192a6168cfefa9cf85e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c40182308192ac8176d5827d84b8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c401ec2c8192b2bee5607afb17b2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c408b318819283820c0f248957a5",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c40982a481928fbc4eb0865c9e0d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c40bcfe48192aaf4d28c8eaeb185",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c40fb4748192aac887b5f4ae14c5",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c413a3b48192b55405e25d436b12",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c414967c81928b21e6408b396e67",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c4177fcc819280b25d32978bb280",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c417db3c8192820af2b7d245367b",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "reálných mezd"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c41ac20881929c40537880180312",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0dd345c3cee156bd006936c41b2cec81929af45153dc13665c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0dd345c3cee156bd006936c421a94481929bb634de65e0c8b8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0dd345c3cee156bd006936c43bf6e88192a8c7db6225fe0c81",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 296,
+                "start_index": 214,
+                "title": "Průměrné mzdy - 1. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024"
+              },
+              {
+                "end_index": 506,
+                "start_index": 424,
+                "title": "Průměrné mzdy - 2. čtvrtletí 2023 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023"
+              },
+              {
+                "end_index": 767,
+                "start_index": 642,
+                "title": "Vývoj čisté mzdy v posledních letech  - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech"
+              },
+              {
+                "end_index": 1027,
+                "start_index": 945,
+                "title": "Průměrné mzdy - 1. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024"
+              },
+              {
+                "end_index": 2285,
+                "start_index": 2203,
+                "title": "Průměrné mzdy - 2. čtvrtletí 2023 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023"
+              },
+              {
+                "end_index": 2430,
+                "start_index": 2348,
+                "title": "Průměrné mzdy - 2. čtvrtletí 2023 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023"
+              },
+              {
+                "end_index": 2607,
+                "start_index": 2525,
+                "title": "Průměrné mzdy - 4. čtvrtletí 2023 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-4-ctvrtleti-2023"
+              },
+              {
+                "end_index": 2805,
+                "start_index": 2723,
+                "title": "Průměrné mzdy - 4. čtvrtletí 2023 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-4-ctvrtleti-2023"
+              },
+              {
+                "end_index": 3222,
+                "start_index": 2988,
+                "title": "Informace poskytnuté na žádost ze dne 8. 9. 2025 týkající se vývoje reálných mezd - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/o_cnb/106/informace-poskytnute-ceskou-narodni-bankou-podle-zakona-c.-106-1999-sb.-o-svobodnem-pristupu-k-informacim/Informace-poskytnute-na-zadost-ze-dne-8.nbsp9.-2025-tykajici-se-vyvoje-realnych-mezd"
+              },
+              {
+                "end_index": 3429,
+                "start_index": 3368,
+                "title": "Reálné mzdy v Česku a ve Švédsku za posledních pět let klesly nejvíce z OECD | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/2541530"
+              },
+              {
+                "end_index": 3759,
+                "start_index": 3677,
+                "title": "Průměrné mzdy - 1. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024"
+              },
+              {
+                "end_index": 4020,
+                "start_index": 3938,
+                "title": "Průměrné mzdy - 1. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024"
+              },
+              {
+                "end_index": 4216,
+                "start_index": 4134,
+                "title": "Průměrné mzdy - 2. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024"
+              },
+              {
+                "end_index": 4409,
+                "start_index": 4327,
+                "title": "Průměrné mzdy - 2. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024"
+              },
+              {
+                "end_index": 4605,
+                "start_index": 4523,
+                "title": "Průměrné mzdy - 3. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-3-ctvrtleti-2024"
+              },
+              {
+                "end_index": 4790,
+                "start_index": 4708,
+                "title": "Průměrné mzdy - 3. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-3-ctvrtleti-2024"
+              },
+              {
+                "end_index": 5156,
+                "start_index": 5074,
+                "title": "Průměrné mzdy - 1. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2025"
+              },
+              {
+                "end_index": 5319,
+                "start_index": 5237,
+                "title": "Průměrné mzdy - 1. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2025"
+              },
+              {
+                "end_index": 5593,
+                "start_index": 5511,
+                "title": "Průměrné mzdy - 2. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2025"
+              },
+              {
+                "end_index": 5852,
+                "start_index": 5770,
+                "title": "Průměrné mzdy - 2. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2025"
+              },
+              {
+                "end_index": 6348,
+                "start_index": 6248,
+                "title": "Průměrné mzdy - 3. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-3-ctvrtleti-2025?utm_source=openai"
+              },
+              {
+                "end_index": 6721,
+                "start_index": 6646,
+                "title": "Inflace u 2% cíle - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/menova-politika/inflacni-cil/tema-inflace"
+              },
+              {
+                "end_index": 6896,
+                "start_index": 6814,
+                "title": "Průměrné mzdy - 2. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2025"
+              },
+              {
+                "end_index": 7315,
+                "start_index": 7190,
+                "title": "Vývoj čisté mzdy v posledních letech  - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech"
+              },
+              {
+                "end_index": 7961,
+                "start_index": 7835,
+                "title": "Dubnová predikce MF: hospodářské oživení při nízké inflaci pokračuje, zahraniční vývoj a protekcionistická opatření zvyšují nejistoty a rizika | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/dubnova-predikce-mf-hospodarske-oziveni-pri-nizke-59454"
+              },
+              {
+                "end_index": 8346,
+                "start_index": 8215,
+                "title": "Česká ekonomika nabírá na síle: Ministerstvo financí očekává v letech 2025 i 2026 růst přes 2 % | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ceska-ekonomika-nabira-na-sile-ministerstvo-financ-61826"
+              },
+              {
+                "end_index": 8577,
+                "start_index": 8446,
+                "title": "Česká ekonomika nabírá na síle: Ministerstvo financí očekává v letech 2025 i 2026 růst přes 2 % | Ministerstvo financí ČR",
+                "type": "url_citation",
+                "url": "https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ceska-ekonomika-nabira-na-sile-ministerstvo-financ-61826"
+              },
+              {
+                "end_index": 9142,
+                "start_index": 9017,
+                "title": "Vývoj čisté mzdy v posledních letech  - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech"
+              },
+              {
+                "end_index": 9823,
+                "start_index": 9741,
+                "title": "Průměrné mzdy - 1. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024"
+              },
+              {
+                "end_index": 10156,
+                "start_index": 10074,
+                "title": "Průměrné mzdy - 2. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024"
+              },
+              {
+                "end_index": 10536,
+                "start_index": 10454,
+                "title": "Průměrné mzdy - 1. čtvrtletí 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2025"
+              },
+              {
+                "end_index": 10882,
+                "start_index": 10800,
+                "title": "Průměrné mzdy - 1. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024"
+              },
+              {
+                "end_index": 11226,
+                "start_index": 11144,
+                "title": "Průměrné mzdy - 1. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024"
+              },
+              {
+                "end_index": 11339,
+                "start_index": 11264,
+                "title": "Inflace u 2% cíle - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/menova-politika/inflacni-cil/tema-inflace"
+              },
+              {
+                "end_index": 11793,
+                "start_index": 11711,
+                "title": "Průměrné mzdy - 2. čtvrtletí 2024 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024"
+              },
+              {
+                "end_index": 12237,
+                "start_index": 12112,
+                "title": "Vývoj čisté mzdy v posledních letech  - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech"
+              },
+              {
+                "end_index": 12451,
+                "start_index": 12326,
+                "title": "Vývoj čisté mzdy v posledních letech  - Česká národní banka",
+                "type": "url_citation",
+                "url": "https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech"
+              }
+            ],
+            "text": "## Shrnutí hodnocení\n\n- **Na celostátní úrovni** průměrná reálná mzda (průměrná hrubá měsíční mzda očištěná o inflaci) v ČR **od 1. čtvrtletí 2024 každé čtvrtletí meziročně roste**, podle oficiálních dat ČSÚ i ČNB.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n- V **letech 2021–2023 naopak reálné mzdy výrazně klesaly** a podle ČNB a OECD byly ztráty v Česku jedny z největších v OECD.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023))  \n- Podle ČNB byla **hrubá reálná mzda ve 3. čtvrtletí 2024 stále v průměru o 4,4 % nižší než v roce 2019**, tedy před vysokou inflací.([cnb.cz](https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech))  \n- V některých **odvětvích veřejného sektoru** (např. vzdělávání, veřejná správa) mzdy v roce 2024 sice nominálně rostly, ale **reálně buď nerostly vůbec, nebo jen minimálně**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n\n**Předběžné zhodnocení:**  \nPro standardní makroekonomický výklad („průměrná reálná mzda v ekonomice“) je výrok *„Rostou reálné mzdy“* v době výroku (28. 11. 2025) **v zásadě pravdivý**, ale:\n- jde o růst **z předchozího hlubokého propadu**,  \n- a **neplatí pro každé odvětví či každého zaměstnance**.\n\n---\n\n## 1. Výklad výroku\n\nVýrok „Rostou reálné mzdy“ lze chápat několika způsoby:\n\n1. **Úzký, statistický výklad (nejpravděpodobnější):**  \n   „Průměrná reálná mzda v národním hospodářství (podle ČSÚ) meziročně roste.“\n\n2. **Širší výklad:**  \n   „Kupní síla mezd většiny zaměstnanců v ČR nyní roste.“\n\n3. **Silný (implicitní) výklad:**  \n   „Reálné mzdy se nejen zvedají, ale už jsou zpět nebo nad úrovní před inflací (např. 2019/2021).“\n\nNíže ověřujeme především (1), u (2) a (3) upozorňujeme na limity.\n\n---\n\n## 2. Vývoj reálných mezd podle ČSÚ\n\nČSÚ zveřejňuje čtvrtletní „Rychlé informace – Průměrné mzdy“, kde uvádí **meziroční změnu nominální a reálné mzdy** (tj. po očištění o inflaci).\n\n### 2.1 Období poklesu (2021–2023)\n\nPřed obratem reálné mzdy několik let klesaly:\n\n- **2. čtvrtletí 2023**  \n  - Nominální mzda +7,7 % (na 43 193 Kč),  \n  - **reálně −3,1 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023))  \n  - ČSÚ komentuje, že „reálná mzda klesla posedmé za sebou“.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2023))  \n\n- **4. čtvrtletí 2023 a celý rok 2023**  \n  - 4Q 2023: nominálně +6,3 %, **reálně −1,2 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-4-ctvrtleti-2023))  \n  - Za celý rok 2023: nominálně +7,5 %, ale inflace 10,7 %,  \n    **reálně tak mzda za rok 2023 klesla o 2,9 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-4-ctvrtleti-2023))  \n\nČNB v odpovědi na žádost podle zákona č. 106/1999 Sb. výslovně shrnuje, že **reálné mzdy v letech 2021–2023 klesaly**, protože růst nominálních mezd nekompenzoval vysokou inflaci.([cnb.cz](https://www.cnb.cz/cs/o_cnb/106/informace-poskytnute-ceskou-narodni-bankou-podle-zakona-c.-106-1999-sb.-o-svobodnem-pristupu-k-informacim/Informace-poskytnute-na-zadost-ze-dne-8.nbsp9.-2025-tykajici-se-vyvoje-realnych-mezd))  \n\nPodle analýzy OECD shrnuté ČTK **reálné mzdy mezi 4Q 2019 a 1Q 2024 v ČR klesly o 7,5 %**, což je společně se Švédskem největší propad v OECD.([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/2541530))  \n\n### 2.2 Obrat v roce 2024: reálné mzdy začínají růst\n\nOd 1. čtvrtletí 2024 ČSÚ zaznamenává **pozitivní meziroční růst reálné mzdy**:\n\n- **1. čtvrtletí 2024**  \n  - Nominální mzda +7,0 % (43 941 Kč),  \n  - inflace 2,1 %,  \n  - **reálně +4,8 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n  - ČSÚ komentuje: „Reálná mzda v 1. čtvrtletí 2024 vzrostla o 4,8 %… Po devíti čtvrtletích tak nastal obrat, i když v některých odvětvích zaměstnancům mzda reálně nevzrostla.“([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n\n- **2. čtvrtletí 2024**  \n  - Nominální mzda +6,5 % (45 854 Kč),  \n  - inflace 2,5 %,  \n  - **reálně +3,9 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024))  \n  - ČSÚ opět upozorňuje, že v některých odvětvích reálné mzdy nerostly, ale průměr za celé hospodářství ano.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024))  \n\n- **3. čtvrtletí 2024**  \n  - Nominální mzda +7,0 % (45 412 Kč),  \n  - inflace 2,3 %,  \n  - **reálně +4,6 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-3-ctvrtleti-2024))  \n\nZa **1.–3. čtvrtletí 2024** dohromady průměrná mzda 45 107 Kč, nominálně +6,9 %, **reálně +4,5 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-3-ctvrtleti-2024))  \n\n### 2.3 Vývoj v roce 2025 do data výroku\n\nDo data výroku (28. 11. 2025) byly zveřejněny výsledky za **1. a 2. čtvrtletí 2025**:\n\n- **1. čtvrtletí 2025** (Rychlá informace ČSÚ vydaná 4. 6. 2025)  \n  - Nominální mzda +6,7 % (46 924 Kč),  \n  - inflace 2,7 %,  \n  - **reálně +3,9 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2025))  \n  - Komentář ČSÚ: „Průměrná reálná mzda vzrostla v 1. čtvrtletí 2025 o 3,9 %.“([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2025))  \n\n- **2. čtvrtletí 2025** (Rychlá informace ČSÚ vydaná 3. 9. 2025 – tedy téměř tři měsíce před výrokem)  \n  - Nominální mzda +7,8 % (49 402 Kč),  \n  - inflace 2,4 %,  \n  - **reálně +5,3 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2025))  \n  - ČSÚ shrnuje: „Ve 2. čtvrtletí 2025 … mzda reálně vzrostla o 5,3 %“, a za **1. pololetí 2025**:  \n    - nominálně +7,2 %,  \n    - inflace 2,6 %,  \n    - **reálně +4,5 %**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2025))  \n\nTyto údaje byly **oficiálně k dispozici dlouho před 28. 11. 2025** a potvrzují, že **minimálně 6 po sobě jdoucích čtvrtletí (1Q 2024 – 2Q 2025) vykazuje kladný meziroční růst průměrné reálné mzdy**.\n\n> Poznámka: Data za **3. čtvrtletí 2025** (vydaná 4. 12. 2025, tedy až po výroku) ukazují další meziroční růst reálné mzdy o 4,5 %, ale z hlediska ověřování tvrzení jde už o dodatečný kontext.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-3-ctvrtleti-2025?utm_source=openai))  \n\n---\n\n## 3. Další oficiální zdroje potvrzující růst reálných mezd\n\n### 3.1 Česká národní banka\n\nNa stránce ČNB „Inflace u 2% cíle“ (edukační text k inflaci) se výslovně píše:\n\n- Reálné mzdy „od začátku roku 2024 opět rostou“ a  \n- ve **2. čtvrtletí 2025 vzrostly v meziročním srovnání o 5,3 %**.([cnb.cz](https://www.cnb.cz/cs/menova-politika/inflacni-cil/tema-inflace))  \n\nČNB zde vychází z dat ČSÚ a shrnuje přesně totéž, co uvádějí „Rychlé informace“ o mzdách.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2025))  \n\nV analytickém boxu „Vývoj čisté mzdy v posledních letech“ (ZoMP zima 2025) ČNB doplňuje, že:\n\n- **hrubá reálná mzda** ve 3. čtvrtletí 2024 byla **oproti roku 2019 v průměru nižší o 4,4 %** (v mediánu o 2,4 %),  \n- zatímco **čistá reálná mzda** (po zdanění) už byla oproti 2019 o něco vyšší.([cnb.cz](https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech))  \n\nTo dokládá, že **reálné mzdy sice od roku 2024 rostou, ale úroveň hrubé reálné mzdy ještě v roce 2024 nedorovnala předcovidový rok 2019.**\n\n### 3.2 Ministerstvo financí ČR\n\nMinisterstvo financí ve svých makroekonomických predikcích trend růstu reálných mezd opakovaně potvrzuje:\n\n- **Dubnová predikce MF (10. 4. 2025):**  \n  Ministr financí Zbyněk Stanjura uvádí, že MF v roce 2025 **očekává růst reálných mezd** a že napjatý trh práce znamená „další zvýšení reálných výdělků – jak v letošním, tak i v příštím roce“.([mfcr.cz](https://mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/dubnova-predikce-mf-hospodarske-oziveni-pri-nizke-59454))  \n\n- **Listopadová predikce MF (6. 11. 2025)** – necelý měsíc před výrokem:  \n  V tiskové zprávě MF je citováno:  \n  > „Dnes se česká ekonomika řadí mezi nejrychleji rostoucí ekonomiky EU, **rostou reálné mzdy**, daří se realizovat investiční projekty…“([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ceska-ekonomika-nabira-na-sile-ministerstvo-financ-61826))  \n\n  Dále MF kvantifikuje, že **v roce 2025 porostou reálné výdělky o 4,3 %**, v roce 2026 o 3,4 %.([mfcr.cz](https://www.mfcr.cz/cs/ministerstvo/media/tiskove-zpravy/2025/ceska-ekonomika-nabira-na-sile-ministerstvo-financ-61826))  \n\nTyto predikce a výroky MF jsou sekundárním (ale oficiálním) potvrzením toho, co primárně ukazují data ČSÚ.\n\n---\n\n## 4. Omezení a protiargumenty\n\n### 4.1 Reálné mzdy stále pod úrovní roku 2019 (hrubá mzda)\n\nČNB ve zmíněném boxu shrnuje, že:\n\n- **hrubá reálná mzda** ve 3. čtvrtletí 2024 byla stále **o 4,4 % pod úrovní roku 2019** (v mediánu o 2,4 %),  \n- zatímco **čistá reálná mzda** díky daňovým změnám už úroveň z roku 2019 přesáhla.([cnb.cz](https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech))  \n\nTo znamená, že:\n\n- i když reálné mzdy od roku 2024 rostou,  \n- **celkovou ztrátu kupní síly z let 2021–2023 ještě (v hrubé mzdě) zcela nedohnaly**.\n\nPokud by tedy někdo výrok interpretoval jako „jsme na tom reálně lépe než před inflací“, bylo by to předčasné (pro hrubou mzdu).\n\n### 4.2 Nerovnoměrnost mezi sektory a odvětvími\n\nČSÚ v několika tiskových zprávách upozorňuje, že růst reálné mzdy **není rovnoměrný napříč odvětvími**:\n\n- V 1. čtvrtletí 2024 a 2. čtvrtletí 2024 uvádí, že i když průměrná reálná mzda v ekonomice vzrostla, „v některých odvětvích zaměstnancům mzda reálně nevzrostla“.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n\n- V odvětvích **vzdělávání** a **veřejná správa a obrana** byl růst nominálních mezd v 1Q–2Q 2024 jen okolo 2–3 %, což je přibližně na úrovni nebo pod úrovní inflace (2,1–2,5 %) – tam tedy reálné mzdy prakticky nestouply nebo dokonce mírně klesly.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024))  \n\nCelkový výrok „rostou reálné mzdy“ tak **platí pro ekonomiku jako celek**, ale **nikoli pro všechny obory**.\n\n### 4.3 Rozdíl mezi průměrnou a typickou (mediánovou) mzdou\n\n- Medián mezd (typická mzda „prostředního“ zaměstnance) také roste – např. v 1Q 2025 o 5,3 %, ve 2Q 2025 o 7,2 % meziročně.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2025))  \n- Proto lze říci, že **růst se neodehrává pouze „nahoře“, ale dotýká se i většiny zaměstnanců**, byť ne všech stejně.\n\nZároveň ale platí, že **dvě třetiny zaměstnanců mají mzdu nižší než celostátní průměr**, jak ČSÚ opakovaně připomíná v metodických poznámkách.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n\n---\n\n## 5. Závěr k různým interpretacím výroku\n\n### a) „Průměrná reálná mzda v ČR nyní roste“\n\n- Od **1. čtvrtletí 2024 do 2. čtvrtletí 2025** (poslední data dostupná před výrokem) **průměrná reálná mzda v každém čtvrtletí meziročně vzrostla** (o 3,9–5,3 %).([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-1-ctvrtleti-2024))  \n- Tento trend potvrzují i ČNB a MF.([cnb.cz](https://www.cnb.cz/cs/menova-politika/inflacni-cil/tema-inflace))  \n\n**Hodnocení:**  \nPro tento standardní statistický výklad je výrok „Rostou reálné mzdy“ **fakticky podložen a odpovídá realitě v době výroku.**\n\n### b) „Reálné mzdy rostou většině zaměstnanců / napříč celou ekonomikou“\n\n- Většina odvětví i regionů eviduje kladný růst reálných mezd, ale **některé obory (zejména část veřejného sektoru) reálný růst v roce 2024 neměly**.([csu.gov.cz](https://csu.gov.cz/rychle-informace/prumerne-mzdy-2-ctvrtleti-2024))  \n\n**Hodnocení:**  \nVýrok je **v obecné rovině pravdivý**, ale **není přesný**, pokud by byl chápán tak, že se růst týká **všech** zaměstnanců bez výjimky.\n\n### c) „Jsme už reálně nad úrovní před inflací (2019/2021)“\n\n- ČNB uvádí, že **hrubá reálná mzda** byla ve 3Q 2024 stále pod úrovní roku 2019 (−4,4 % v průměru).([cnb.cz](https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech))  \n- Reálná **čistá** mzda tuto úroveň již dosáhla, ale to je jiná veličina (po zdanění).([cnb.cz](https://www.cnb.cz/cs/menova-politika/zpravy-o-menove-politice/boxy-a-clanky/Vyvoj-ciste-mzdy-v-poslednich-letech))  \n\n**Hodnocení:**  \nPokud by výrok implicitně naznačoval plnou kompenzaci ztrát z let 2021–2023 v hrubé mzdě, bylo by to **nepravdivé**. Sám Kupka to ale v citovaném výroku výslovně netvrdí.\n\n---\n\n## Celkové shrnutí pro fact–checkera\n\n- **Jádrná část výroku („reálné mzdy v ČR nyní rostou“) je v době výroku v souladu s oficiálními daty ČSÚ a potvrzují ji i ČNB a MF.**  \n- Je ovšem potřeba dodat, že:\n  - jde o růst **po předchozím výrazném propadu** (2021–2023),  \n  - **hrubé reálné mzdy se ještě úplně nevrátily na úroveň roku 2019**,  \n  - a růst **není rovnoměrný napříč všemi odvětvími** – část zaměstnanců, zejména ve veřejném sektoru, reálný růst dosud nepocítila.\n\nTyto souvislosti mohou být při finálním hodnocení výroku (např. „pravdivý, ale neúplný“) důležité.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 112067,
+      "input_tokens_details": {
+        "cached_tokens": 6400
+      },
+      "output_tokens": 19439,
+      "output_tokens_details": {
+        "reasoning_tokens": 14869
+      },
+      "total_tokens": 131506
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

@@ -1,0 +1,680 @@
+{
+  "claim_id": "24624",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260303_102122",
+  "source_md": "experiments/gpt5.1_h_20260303_102122/brief_fact_check_id24624.md",
+  "fact_check": "# Fact Check for Statement ID 24624\n\n## Statement\nMy jsme tu zelenou daň (poplatky za POZE, pozn. Demagog.cz) utli nejenom proto, že tak učinili v okolních zemích.\n\n---\n## AI Fact Check\n### 1. Vymezení a interpretace tvrzení\n\nPosuzovaná část výroku Karla Havlíčka:\n\n> „My jsme tu zelenou daň (poplatky za POZE) utli nejenom proto, že tak učinili v okolních zemích…“\n\nPro potřeby ověření rozdělíme tvrzení na dvě dílčí:\n\n1. **Dílčí tvrzení A – Česká republika „utnula zelenou daň“ (poplatky za POZE):**  \n   Vláda / stát zajistil, že od určitého data spotřebitelé (domácnosti a firmy) přestali platit poplatek na podporované zdroje energie (POZE) v regulované složce ceny elektřiny, a tento náklad přešel plně na stát.\n\n2. **Dílčí tvrzení B – „…nejenom proto, že tak učinili v okolních zemích“:**  \n   V sousedních státech (minimálně některých: Německo, Rakousko, Slovensko, Polsko) už před českým rozhodnutím došlo k obdobnému kroku:  \n   - buď úplnému zrušení „zeleného“ poplatku z účtů za elektřinu,  \n   - nebo k jeho vynulování / výraznému přenesení na stát.\n\nNíže uvádím podklady pro obě části.\n\n---\n\n## 2. Dílčí tvrzení A – „My jsme tu zelenou daň (POZE) utli“\n\n### 2.1 Jak vypadala „zelená daň“ (POZE) před změnou\n\nPoplatek za podporované zdroje energie (POZE) je regulovaná složka ceny elektřiny, kterou odběratelé platí na podporu OZE a dalších podporovaných zdrojů.\n\n- Informativní článek SPP shrnuje, že poplatek POZE „byl dlouhodobě součástí každého vyúčtování ve výši 599 Kč/MWh“ a že v roce 2022 byl výjimečně placen státem, nikoli odběrateli.([spp.cz](https://www.spp.cz/magazin/cena-elektriny-v-roce-2026-co-ji-tvori-kolik-stoji-1-kwh-a-kde-muzete-usetrit?utm_source=openai))  \n- Server FAEI (ekonom Lukáš Kovanda) píše, že vláda 16. 12. 2025 „rozhodla od příštího roku zrušit poplatek za tzv. obnovitelné zdroje (POZE), resp. převést jej na státní rozpočet“, přičemž uvádí konkrétní výši poplatku 599 Kč/MWh.([faei.cz](https://faei.cz/elektrina-domacnostem-od-ledna-zlevni-vlada-rusi-poplatek-za-obnovitelne-zdroje/))  \n\n### 2.2 Rozhodnutí vlády a přechod financování na stát\n\n- TZB‑info shrnuje, že vláda (koalice ANO–SPD–Motoristů) v prosinci 2025 schválila, že **v roce 2026 stát převezme celé financování podporovaných zdrojů energie (POZE)**. Stát tak má na POP poplatky vydat přes 41 mld Kč ročně, z toho cca 17 mld Kč nově oproti předchozímu stavu, kdy se náklady dělily mezi stát a odběratele.([tzb-info.cz](https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze?utm_source=openai))  \n- Podobně zpravodajský text EnergoZrouti uvádí, že nová vláda rozhodla o **poklesu regulované složky ceny elektřiny o cca 15 %**, protože „stát bude od nového roku platit podporu obnovitelných zdrojů energie“, zatímco předchozí vláda počítala s tím, že část (zhruba 17,1 mld Kč) ponesou odběratelé v podobě poplatku POZE.([energozrouti.cz](https://energozrouti.cz/clanek/snizeni-ceny-elektriny-co-musite-udelat?utm_source=openai))  \n\nTyto zdroje potvrzují, že politické rozhodnutí skutečně spočívalo v **přenesení celé platby POZE ze spotřebitelů na státní rozpočet od roku 2026.**\n\n### 2.3 Právní a regulační provedení – Cenový výměr ERÚ a dopady na faktury\n\n- Český statistický úřad ve „Poznámce ke spotřebitelským cenám energií – leden 2026“ výslovně uvádí, že „domácnostem odebírajícím elektřinu byl od ledna 2026 zrušen poplatek za podporované zdroje energie (POZE)“, odkazuje na **Cenový výměr ERÚ č. 15/2025 ze dne 29. prosince 2025**, a doplňuje, že šlo o poplatek 599 Kč/MWh.([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-leden-2026?utm_source=openai))  \n- Společnost ČEZ na své stránce „POZE“ vysvětluje, že **od 1. ledna 2026 zákazníci poplatek za POZE neplatí a za každou MWh ušetří 599 Kč (495 Kč bez DPH)**. Dále uvádí, že „poplatek za podporované zdroje energie bude nově hradit stát“ a že tato položka „už nebude součástí regulované (distribuční) části ceny elektřiny“.([cez.cz](https://www.cez.cz/cs/poze?utm_source=openai))  \n- E.ON ve svém přehledu „Jaké budou ceny elektřiny v roce 2026?“ uvádí, že regulovaná složka u domácností klesne asi o 15 %, hlavně proto, že **„od 1. 1. 2026 je odpuštěn poplatek za podporované zdroje energie (POZE), který činil 599 Kč/MWh“**, přičemž náklady přecházejí do výdajů státu.([eon.cz](https://www.eon.cz/radce/blog/jake-budou-ceny-elektriny-v-roce-2026/?utm_source=openai))  \n- Server Měšec shrnuje rozhodnutí vlády z 16. 12. 2025 tak, že stát vezme celé financování POZE na sebe a ERÚ proto ve změnovém cenovém výměru **nastavil příspěvek na POZE na nulu**, konkrétně: u domácností byl příspěvek 598,95 Kč/MWh a od ledna 2026 bude 0 Kč/MWh.([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n\n### 2.4 Závěr k dílčímu tvrzení A\n\n- **Fakticky od 1. 1. 2026 odběratelé (domácnosti i firmy) v ČR neplatí poplatek na podporované zdroje energie (POZE) v regulované složce ceny elektřiny.**\n- Náklady na tuto podporu jsou nově hrazeny plně ze státního rozpočtu, což potvrzují vládní a regulatorní zdroje (vládní rozhodnutí, cenové výměry ERÚ, informace ČSÚ a velkých dodavatelů).\n\nV řeči Karla Havlíčka tedy „utnout zelenou daň“ odpovídá tomu, že **z pohledu účtů odběratelů byla tato „daň“ vynulována a převedena na stát**. Podpora OZE jako taková se ale neruší, pouze se mění způsob financování.\n\n---\n\n## 3. Dílčí tvrzení B – „…nejenom proto, že tak učinili v okolních zemích“\n\nZde je klíčová otázka, zda v **sousedních státech ČR** (Německo, Rakousko, Slovensko, Polsko) v posledních letech skutečně proběhly kroky, které:\n\n- odstranily,  \n- nebo alespoň dočasně vynulovaly  \n„zelené“ poplatky na účtech konečných odběratelů a přenesly financování OZE na stát či jiné zdroje.\n\nNíže rozebírám jednotlivé sousedy.\n\n### 3.1 Německo – úplné zrušení EEG‑Umlage z účtů za elektřinu\n\n#### Co je EEG‑Umlage\n\nEEG‑Umlage byla německá příplatková složka ceny elektřiny, kterou koncoví odběratelé financovali podporu obnovitelných zdrojů (obdoba českého POZE).\n\n#### Právní změny\n\n- Německé ministerstvo hospodářství a klimatu (BMWK) uvádí v tiskové zprávě z 28. 4. 2022, že Bundestag přijal zákon, kterým se **EEG‑Umlage od 1. července 2022 snižuje na nulu** a financování podpory OZE přebírá **Energie- und Klimafonds** (dnes Klima‑ und Transformationsfonds).([bmwk.de](https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220428-bundestag-beschliesst-abschaffung-der-eeg-umlage.html?utm_source=openai))  \n- Bundesnetzagentur (regulátor) vysvětluje, že EEG‑Umlage byla nejdříve od 1. 7. 2022 do 31. 12. 2022 snížena na 0 ct/kWh a **od 1. 1. 2023 byla definitivně zrušena** (EEG 2023). Pro od tohoto data dodanou či spotřebovanou elektřinu se **žádná EEG‑Umlage již neplatí** a související povinnosti (měření, vykazování) zcela odpadají.([bundesnetzagentur.de](https://www.bundesnetzagentur.de/899824?utm_source=openai))  \n\n#### Česká shrnutí\n\n- Server oEnergetice.cz shrnuje, že „v Německu skončila platba poplatku na podporu obnovitelných zdrojů energie“ a že podpora OZE je od druhé poloviny 2022 hrazena z výnosů z emisních poplatků a ze státního rozpočtu.([oenergetice.cz](https://oenergetice.cz/obnovitelne-zdroje/nemecko-ukoncilo-podporu-oze-skrze-ucty-za-elektrinu?utm_source=openai))  \n- Seznam Zprávy v článku „V Německu neplatí firmy zelené poplatky vůbec“ uvádějí, že **ceny za POZE v Německu hradí stát**; německý Spolkový sněm novelou zákona o financování energetiky zrušil tyto poplatky nejprve částečně od července 2022 a **od ledna 2023 trvale**, přičemž poplatky za obnovitelné zdroje prostřednictvím ceny elektřiny tím skončily.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-firmy-v-nemecku-neplati-firmy-zelene-poplatky-vubec-ceske-se-jich-desi-237806))  \n\n#### Závěr pro Německo\n\nNěmecko od 1. 7. 2022 (plně od 1. 1. 2023) **přestalo vybírat „zelený poplatek“ EEG‑Umlage z účtů za elektřinu a financuje OZE z jiných zdrojů**. To je přesně krok obdobný českému přenesení POZE na stát.\n\n---\n\n### 3.2 Rakousko – vynulování Ökostrom-Abgabe / Erneuerbaren-Förderkosten v letech 2022–2024\n\nRakouským ekvivalentem „zeleného poplatku“ jsou:\n\n- **Erneuerbaren-Förderbeitrag** (spotřebně závislá složka),  \n- **Erneuerbaren-Förderpauschale** (paušál na odběrné místo),  \nkteré financují podporu Ökostromu.\n\n#### Vynulování poplatků v roce 2022\n\n- Deník Kurier informuje o rozhodnutí rakouského parlamentu z ledna 2022, že **Ökostrom-Abgabe bude pro rok 2022 pozastavena**, konkrétně že se Erneuerbaren-Förderpauschale pro rok 2022 nevybírá a „spolu s nastavením Erneuerbaren-Förderbeitrags na 0“ se **náklady na Ökostrom pro domácnosti a podniky v roce 2022 nastavují na nulu**.([kurier.at](https://kurier.at/politik/inland/oekostrom-abgabe-wird-ausgesetzt/401878388?utm_source=openai))  \n- Rakouská odborová komora (AK) v tiskové zprávě „AK begrüßt Entfall der Erneuerbaren Förderpauschale für 2022“ vítá, že vedle Erneuerbaren-Förderbeitrags nově **od ledna 2022 odpadá i Erneuerbare-Förderbeitragspauschale**, což podle ní sníží roční účet za elektřinu průměrné domácnosti o cca 120 EUR.([ots.at](https://www.ots.at/presseaussendung/OTS_20211217_OTS0195/ak-begruesst-entfall-der-erneuerbaren-foerderpauschale-fuer-2022?utm_source=openai))  \n\n#### Prodloužení nulových sazeb do roku 2023 a 2024\n\n- Odborný server Energie & Management popisuje, že **Erneuerbaren-Förderpauschale bude i v roce 2023 dále pozastavena**, protože vysoké ceny elektřiny a nevyčerpané fondy nevyžadují další přísun prostředků; zákazníci si tak ušetří asi 350 mil. EUR.([energie-und-management.de](https://www.energie-und-management.de/nachrichten/recht/detail/oesterreich-auch-2023-keine-erneuerbaren-foerderpauschale-171058?utm_source=openai))  \n- Stránka rakouského dodavatele Verbund o „Stromkostenbremse“ uvádí, že **Erneuerbaren-Förderbeitrag a Erneuerbaren-Förderpauschale jsou od roku 2022 nastaveny na nulu** kvůli vysokým cenám energie a že tyto úlevy (včetně nulových EAG‑Föderkosten) platí do konce roku 2024; od roku 2025 mají opět naběhnout.([verbund.com](https://www.verbund.com/de/privat/services/stromkostenbremse%3Fsrsltid%3DAfmBOopRs6jWpw87dO7u0sawh5ccxm4R1N6ScXx4aQYGyJDlJBU69O__?utm_source=openai))  \n\n#### Návrat poplatků od roku 2025\n\n- Materiály dodavatelů a AK popisují, že od 1. 1. 2025 se Erneuerbaren‑Förderpauschale a ‑förderbeitrag znovu vybírá a pro domácnost s 3 500 kWh to znamená zhruba 100–150 EUR ročně navíc.([ooe.arbeiterkammer.at](https://ooe.arbeiterkammer.at/service/presse/Es-braucht-sozial-vertraegliche-Energiepreise-.html?utm_source=openai))  \n\n#### Závěr pro Rakousko\n\nRakousko v letech **2022–2024 prakticky vynulovalo „zelené“ poplatky na elektřině (Erneuerbaren‑Förderbeitrag a -pauschale)** a dočasně financovalo podporu OZE jinak. Od roku 2025 se poplatky vracejí, ale **fakt, že v době energetické krize byly na několik let odstraněny z účtů**, je srovnatelný krok s českým přesunem POZE na stát.\n\n---\n\n### 3.3 Polsko – opłata OZE v letech 2023 a 2024 na nule\n\nV Polsku je **opłata OZE** složkou na faktuře za elektřinu, která financuje systém podpory OZE.\n\n#### Vývoj výše opłaty OZE\n\n- Urząd Regulacji Energetyki (URE) na oficiální stránce s přehledem sazeb uvádí tabulku „Wysokości stawki opłaty OZE na dany rok“. Z ní vyplývá:  \n  - 2022: 0,90 zł/MWh,  \n  - **2023: 0,00 zł/MWh**,  \n  - **2024: 0,00 zł/MWh**,  \n  - 2025: 3,50 zł/MWh,  \n  - 2026: 7,30 zł/MWh.([ure.gov.pl](https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai))  \n- URE v tiskové zprávě „W 2024 r. na rachunkach za energię elektryczną nie zmieni się stawka opłaty OZE“ uvádí, že pro rok 2024 **zůstává sazba opłaty OZE na 0 zł/MWh a jde již o druhý rok v řadě**, kdy je na účtech nulová.([ure.gov.pl](https://www.ure.gov.pl/pl/urzad/informacje-ogolne/aktualnosci/11522%2CW-2024-r-na-rachunkach-za-energie-elektryczna-nie-zmieni-sie-stawka-oplaty-OZE.html?utm_source=openai))  \n\nSekundární zdroje (např. rp.pl, Gramwzielone.pl) toto potvrzují a doplňují, že **opłata OZE byla v letech 2018–2020 i 2023–2024 opakovaně vynulována** a na rok 2025–2026 se opět navyšuje.([energia.rp.pl](https://energia.rp.pl/oze/art41521671-wraca-oplata-oze-wiemy-ile-bedzie-nas-kosztowac?utm_source=openai))  \n\n#### Závěr pro Polsko\n\nPolsko v letech **2023 a 2024** stanovilo „zelený“ poplatek (opłata OZE) na **0 zł/MWh**, tedy de facto odběratelé nic neplatili, i když samotný mechanismus poplatku zůstal v zákoně. Od roku 2025 začal poplatek opět růst. Přesto platí, že **v době vrcholu energetické krize okolní Polsko také dočasně vynulovalo „zelený“ příplatek na účtech**.\n\n---\n\n### 3.4 Slovensko – snížení TPS a přesun části nákladů, zejména u velkoodběru\n\nNa Slovensku má obdobnou funkci **Tarifa za prevádzkovanie systému (TPS)**, která mimo jiné kryje náklady na podporu OZE a výkup elektřiny z vybraných zdrojů.\n\n- Elgas vysvětluje, že TPS je regulovaná složka ceny elektřiny, která slouží k „krytie nákladov spojených s prevádzkou a fungovaním elektrizačnej sústavy a s plnením povinných výkupov a podpôr podľa legislatívy“ – tedy zahrnuje i podpory OZE.([elgas.sk](https://www.elgas.sk/zmena-tps/?utm_source=openai))  \n\n#### Zastropování a snížení TPS od května 2023\n\n- Nariadenie vlády SR č. 139/2023, shrnuté např. na Podnikajte.sk i u dodavatele Elgas, stanovilo, že **od 1. 5. 2023 budou tarify za systémové služby, za prevádzkovanie systému (TPS) a za ztráty při distribuci sníženy / zastropovány na úroveň roku 2022**. Vládní zásah měl zmírnit prudké zvýšení těchto poplatků a náklady navíc mají být dorovnávány státem.([podnikajte.sk](https://www.podnikajte.sk/financny-manazment/zastropovanie-distribucnych-poplatkov-za-elektrinu-od-1-5-2023?utm_source=openai))  \n- Seznam Zprávy z českého pohledu uvádějí, že od května 2023 vláda Slovenska „snížila financování obnovitelných zdrojů z kapes spotřebitelů a nejvíce ulevila velkoodběratelům“, kdy domácnosti a malé firmy platí v rámci příspěvku na obnovitelné zdroje 15,9 EUR/MWh, velké podniky ale jen 1,187 EUR/MWh.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-firmy-v-nemecku-neplati-firmy-zelene-poplatky-vubec-ceske-se-jich-desi-237806))  \n\n#### Další snižování TPS v letech 2024–2026\n\n- Úřad pro regulaci sieťových odvetví (ÚRSO) uvádí, že v roce 2024 snížil tarify za prevádzkovanie systému (TPS) proti roku 2023 v průměru o téměř 39 % a podobně snížil tarify za systémové služby.([urso.gov.sk](https://www.urso.gov.sk/urso-objasnuje-cenotvorbu-elektriny-pre-priemyselnych-odberatelov/?utm_source=openai))  \n- Pro rok 2026 Elgas zmiňuje, že ÚRSO dále snižuje TPS o 4,5–15 % podle skupiny odběratelů.([elgas.sk](https://www.elgas.sk/zmena-tps/?utm_source=openai))  \n\n#### Závěr pro Slovensko\n\nNa rozdíl od Německa, Rakouska nebo Polska **Slovensko „zelený“ poplatek (TPS) z účtů úplně nezrušilo**, ale **výrazně ho snížilo a zastropovalo** a část nákladů převzala vláda (zejména pro velké odběratele). Ve srovnání s předchozím stavem jde o významnou úlevu, ale **nejde o úplné vynulování jako v Německu či na určitou dobu v Rakousku a Polsku**.\n\n---\n\n## 4. Celkové zhodnocení dílčího tvrzení B („tak učinili v okolních zemích“)\n\n### 4.1 Co přesně dělaly „okolní země“\n\nZ výše uvedeného shrnutí vyplývá:\n\n- **Německo**  \n  - EEG‑Umlage (zelený příplatek) byla od 1. 7. 2022 snížena na 0 ct/kWh a od 1. 1. 2023 **definitivně zrušena**.  \n  - Financování OZE přešlo na státní fondy / rozpočet.([bmwk.de](https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220428-bundestag-beschliesst-abschaffung-der-eeg-umlage.html?utm_source=openai))  \n\n- **Rakousko**  \n  - Ökostrom‑Abgabe (Erneuerbaren-Förderbeitrag a -pauschale) byla **pro rok 2022 vynulována**; poplatky za Ökostrom byly nastaveny na 0.([kurier.at](https://kurier.at/politik/inland/oekostrom-abgabe-wird-ausgesetzt/401878388?utm_source=openai))  \n  - Pozastavení bylo **prodlouženo i na rok 2023 a fakticky až do konce roku 2024**, teprve od roku 2025 se začaly tyto poplatky znovu vybírat.([energie-und-management.de](https://www.energie-und-management.de/nachrichten/recht/detail/oesterreich-auch-2023-keine-erneuerbaren-foerderpauschale-171058?utm_source=openai))  \n\n- **Polsko**  \n  - opłata OZE byla podle oficiální tabulky URE **v letech 2023 a 2024 na úrovni 0,00 zł/MWh**, takže odběratelé v těchto letech žádný zelený příplatek neplatili.([ure.gov.pl](https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai))  \n  - Od roku 2025 je opłata OZE znovu kladná a v roce 2026 dále roste.\n\n- **Slovensko**  \n  - Tarifa za prevádzkovanie systému (TPS), která kryje mj. podpory OZE, byla **v roce 2023 prudce zvýšena**, ale vláda následně **zastropovala a snížila TPS a související poplatky od května 2023 na úroveň roku 2022**, s kompenzací rozdílu ze státního rozpočtu.([podnikajte.sk](https://www.podnikajte.sk/financny-manazment/zastropovanie-distribucnych-poplatkov-za-elektrinu-od-1-5-2023?utm_source=openai))  \n  - Nešlo však o úplné vynulování poplatku, ale o výrazné snížení, zejména ve prospěch velkých odběratelů.\n\n### 4.2 Srovnání s českým krokem\n\n- Český krok od 1. 1. 2026 (přenesení POZE plně na stát a nastavení příspěvku na 0 Kč/MWh) je **zcela srovnatelný** s německým zrušením EEG‑Umlage nebo s rakouským, polským dočasným vynulováním „zelených“ poplatků.([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-leden-2026?utm_source=openai))  \n- V **okolních zemích** tedy skutečně proběhly kroky, kdy:\n  - Německo a Rakousko v krizi poplatky **vynulovaly / zrušily** (Německo trvale, Rakousko dočasně),  \n  - Polsko je **opakovaně nastavilo na 0 zł**,  \n  - Slovensko je **citelně snížilo a část břemene převzalo na stát**.\n\n### 4.3 Časové hledisko k datu výroku (1. března 2026)\n\nK datu výroku:\n\n- Německo stále **nemá žádný EEG‑Umlage na účtech** – financování OZE jde z fondu / rozpočtu.([bundesnetzagentur.de](https://www.bundesnetzagentur.de/899824?utm_source=openai))  \n- Rakousko už od roku 2025 opět **vybírá Erneuerbaren‑Förderkosten**, ale fakt, že v letech 2022–2024 byly na nule, zůstává.([gogreenenergy.at](https://www.gogreenenergy.at/energiekosten-unterstuetzungen.html?utm_source=openai))  \n- Polsko od roku 2025 opět **zvyšuje opłatu OZE**, ale v letech 2023–2024 byla nulová.([ure.gov.pl](https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai))  \n- Slovensko „zelený poplatek“ (TPS) **nevymazalo, ale dlouhodobě tlačí jeho výši dolů** a tyto zásahy částečně financuje stát.([urso.gov.sk](https://www.urso.gov.sk/urso-objasnuje-cenotvorbu-elektriny-pre-priemyselnych-odberatelov/?utm_source=openai))  \n\nHavlíčkův výrok je formulován v minulém čase („…proto, že tak učinili v okolních zemích“), tedy odkazuje k **předchozím krokům v době energetické krize**, nikoli k trvalému stavu v roce 2026. V tomto smyslu je správně, že **okolní země takové kroky skutečně učinily, byť někde jen dočasně a v různé míře**.\n\n---\n\n## 5. Shrnutí pro fakt‑checkera\n\n### Dílčí tvrzení A – „My jsme tu zelenou daň (POZE) utli“\n\n- Od 1. 1. 2026 je **příspěvek na podporované zdroje energie (POZE) pro odběratele elektřiny nastaven na 0 Kč/MWh** a celý náklad financuje stát. Potvrzují to:\n  - ČSÚ (zrušení poplatku POZE z účtů od ledna 2026, vazba na cenový výměr ERÚ č. 15/2025).([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-leden-2026?utm_source=openai))  \n  - Informace dodavatelů (ČEZ, E.ON, Měšec, SPP) i odborná média (EnergoZrouti, TZB‑info), která vysvětlují, že **poplatek POZE už není v regulované složce ceny a hradí ho stát**.([cez.cz](https://www.cez.cz/cs/poze?utm_source=openai))  \n\n→ Dílčí tvrzení A je fakticky dobře podložené: **spotřebitelé skutečně přestali „zelenou daň“ (POZE) na fakturách platit, náklad převzal rozpočet.**\n\n### Dílčí tvrzení B – „…nejenom proto, že tak učinili v okolních zemích“\n\n- **Německo**: EEG‑Umlage (ekvivalent POZE) zrušena z účtů (nejprve snížena na 0 ct/kWh od 1. 7. 2022, od 1. 1. 2023 definitivně zrušena; podporu OZE platí stát / fond).([bmwk.de](https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220428-bundestag-beschliesst-abschaffung-der-eeg-umlage.html?utm_source=openai))  \n- **Rakousko**: Erneuerbaren‑Förderbeitrag a -pauschale (Ökostrom‑Abgabe) byly **v letech 2022–2024 nastaveny na 0**, takže odběratelé v těchto letech „zelené“ poplatky neplatili; od roku 2025 poplatky opět běží.([kurier.at](https://kurier.at/politik/inland/oekostrom-abgabe-wird-ausgesetzt/401878388?utm_source=openai))  \n- **Polsko**: opłata OZE byla podle URE **v letech 2023–2024 nulová (0 zł/MWh)**, tedy poplatek na účtech fakticky zmizel; od 2025 se znovu uplatňuje (3,50 zł/MWh v 2025, 7,30 zł/MWh v 2026).([ure.gov.pl](https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai))  \n- **Slovensko**: TPS (součást regulované složky ceny pokrývající i OZE) nebyla vynulována, ale vláda ji **zastropovala / snížila na úroveň 2022 a výrazně tlumila její růst**, přičemž rozdíl je kompenzován státem, zejména ve prospěch velkých odběratelů.([podnikajte.sk](https://www.podnikajte.sk/financny-manazment/zastropovanie-distribucnych-poplatkov-za-elektrinu-od-1-5-2023?utm_source=openai))  \n\n→ Dílčí tvrzení B je **v jádru podložené**: v několika okolních zemích (Německo, Rakousko, Polsko – a částečně Slovensko) skutečně proběhly v posledních letech kroky, kdy byly „zelené“ poplatky z účtů dočasně nebo trvale odstraněny a financování podpory OZE převzal stát či jiné fondy.\n\nJe však vhodné vnímat tvrzení jako **zjednodušující**:\n\n- Ne všechny sousední země zrušily poplatky trvale (Rakousko, Polsko je v roce 2025–2026 opět vybírají).  \n- Slovensko spíše **výrazně snížilo a dotuje zelené poplatky**, než že by je úplně „utnulo“.\n\nZ hlediska věcného obsahu ale platí, že **český krok zapadá do širšího trendu v okolních zemích, které v reakci na vysoké ceny energií obdobné „zelené“ poplatky z účtů odběratelů odstranily nebo dramaticky snížily.**\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Partie Terezie Tománkové released on 2026-03-01 available from https://www.youtube.com/watch?v=953zc44NUsk.\\n\\n\\nThe claim was made by: Karel Havlíček, Ministr průmyslu a obchodu\\n\\n\\nThe claim appears in the following immediate context in the source:\\n00:12:38\\nTerezie Tománková,moderátorka\\nJsou to dotace, ti dotovaní o nic nepřijdou, jenom to buď se platí přímo ve fakturách, nebo to platí stát a stát žádné peníze nemá. Jsou to peníze lidí, oni to stejně platí.\\n00:12:47\\nPetr Fiala,\\nposlanec, bývalý premiér, bývalý předseda strany /ODS/ /zdroj: K věci, 18. 9. 2025/\\nPřesně.\\n00:12:47\\nKarel Havlíček,\\n1. vicepremiér, ministr průmyslu a obchodu, 1. místopředseda hnutí /ANO/\\nJe to zelená daň, zelená daň, která vznikla v letech 2006–2010, v době, kdy zde vládly vaše vlády, čímž neříkám, že za to osobně můžete vy, ale v každém případě nás tenhle ten špás bude stát 600 miliard korun. Po dobu 15 let to bylo s výjimkou jednoho roku, to uznávám, v rukou státu, který platil částečně, částečně spotřebitelé a částečně firmy. My jsme tu zelenou daň utli nejenom proto, že tak učinili v okolních zemích, nejenom proto, že máme dnes jednu z nejvyšších regulovaných cen energie, mimo jiné i díky tomuto skoro 60 %. Nejenom proto, že zatímco ostatní země vstoupily nějakým způsobem třeba i do té složky neregulované, do té složky silové, což vy jste neudělali, ale hlavně proto, že jsme tady měli skutečně jedny z nejvyšších cen energií a v zásadě nebyla jiná možnost, chceme-li něco udělat rychle, ale ta podstata, kterou stále vy se snažíte, nevěřím tomu, že to nechápete, ale snažíte se to stále jaksi zamlouvat, je to, že přece vycházíme-li z toho, že jsme tržně orientovanou ekonomikou, což jsme, a že vyšší výkonnost firem přinese vyšší daně, vyšší odvody a vyšší investice, což se nám vrátí do toho rozpočtu na té příjmové stránce, tak v tu chvíli já tvrdím, že to bude těch posledních sedm miliard korun, které budeme počítat. A ano, vy byste měl pravdu, že se to dotkne kapes daňových poplatníků, kdybychom zvyšovali daně, ale, pane poslanče, daně jste zvyšovali vy navzdory tomu, že jste tvrdili, že žádné daně zvyšovat nebudete, ještě jste zatím udělal slovo tečka. Vy jste zvýšili prakticky všem a my tvrdíme kategoricky, že nikomu daně zvyšovat nebudeme. Z čeho by to tedy zaplatili ti lidé?\\n00:14:22\\nTerezie Tománková,moderátorka\\n\\nProvide a structured, citation-backed verification of the claim: 'My jsme tu zelenou daň (poplatky za POZE, pozn. Demagog.cz) utli nejenom proto, že tak učinili v okolních zemích.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 387.02 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Česko od ledna 2026 skutečně vynulovalo poplatek za podporované zdroje energie a náklady převzalo na stát. Podobné omezení „zelených“ poplatků proběhlo v posledních letech i v Německu, Rakousku a Polsku, na Slovensku alespoň částečně.</p>\n\n<p>Výrok Karla Havlíčka zazněl v debatě o zdražování energií a o rozhodnutí vlády převzít od roku 2026 financování poplatku na podporované zdroje energie (POZE) ze státního rozpočtu. Ověřitelnou část jeho výroku tvoří dvě tvrzení: zaprvé, že Česká republika tuto „zelenou daň“ v podobě poplatku za POZE na účtech odběratelů skutečně zrušila, zadruhé, že podobný krok učinily i okolní země. Formulace <i>„nejenom proto“</i> vyjadřuje politické odůvodnění vládního rozhodnutí, jde tedy o hodnotící, nikoli faktické tvrzení, které neověřujeme.</p>\n\n<p>Nejprve se zaměřujeme na tvrzení, že Česká republika „utnula zelenou daň“ v podobě poplatku za POZE. Poplatek na podporované zdroje energie byl dlouhodobě regulovanou součástí ceny elektřiny, kterou platili koneční odběratelé. Přehled cen elektřiny na rok 2026 na webu společnosti <a href=\"https://www.spp.cz/magazin/cena-elektriny-v-roce-2026-co-ji-tvori-kolik-stoji-1-kwh-a-kde-muzete-usetrit?utm_source=openai\">SPP</a> popisuje, že tento poplatek činil 599 Kč za MWh a byl součástí každého vyúčtování. Ekonom Lukáš Kovanda v článku pro server <a href=\"https://faei.cz/elektrina-domacnostem-od-ledna-zlevni-vlada-rusi-poplatek-za-obnovitelne-zdroje/\">FAEI</a> shrnuje, že vláda v prosinci 2025 rozhodla od následujícího roku tento poplatek zrušit pro odběratele a plně jej převést na státní rozpočet.</p>\n\n<p>Rozhodnutí vlády podrobně popisuje odborný server <a href=\"https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze?utm_source=openai\">TZB‑info</a>, podle něhož kabinet schválil, že od roku 2026 stát převezme celé financování podporovaných zdrojů energie, na které má vynaložit přes 41 miliard korun ročně. Stejný krok přibližuje i článek na serveru <a href=\"https://energozrouti.cz/clanek/snizeni-ceny-elektriny-co-musite-udelat?utm_source=openai\">EnergoZrouti</a>, který uvádí, že regulovaná složka ceny elektřiny má klesnout zhruba o 15 % právě proto, že podporu obnovitelných zdrojů začne místo odběratelů platit stát.</p>\n\n<p>Klíčové je, jak se toto rozhodnutí promítlo do faktur domácností a firem. <a href=\"https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-leden-2026?utm_source=openai\">Český statistický úřad</a> ve speciální poznámce ke spotřebitelským cenám energií k lednu 2026 výslovně uvádí, že domácnostem odebírajícím elektřinu byl od ledna 2026 na základě cenového výměru ERÚ zrušen poplatek za POZE, a připomíná i jeho výši 599 Kč/MWh. Dodavatel <a href=\"https://www.cez.cz/cs/poze?utm_source=openai\">ČEZ</a> na svém webu vysvětluje, že od 1. ledna 2026 zákazníci poplatek za podporované zdroje energie neplatí, za každou MWh tak ušetří 599 Kč a tuto položku nově hradí stát. Podobně společnost <a href=\"https://www.eon.cz/radce/blog/jake-budou-ceny-elektriny-v-roce-2026/?utm_source=openai\">E.ON</a> uvádí, že regulovaná složka ceny klesne hlavně díky odpuštění poplatku za POZE, přičemž náklady přecházejí do výdajů státního rozpočtu.</p>\n\n<p>Finální podobu změny shrnuje také finanční server <a href=\"https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai\">Měšec.cz</a>, který popisuje, že Energetický regulační úřad ve změnovém cenovém výměru nastavil příspěvek na POZE na nulu – konkrétně u domácností z předchozích 598,95 Kč/MWh na 0 Kč/MWh – protože stát převzal celé financování. Z hlediska odběratelů tedy „zelená daň“ v podobě poplatku na vyúčtování skutečně zmizela, i když samotná podpora obnovitelných zdrojů nezanikla, jen se její financování přesunulo do státního rozpočtu. První faktické tvrzení Karla Havlíčka, že Česká republika tuto „zelenou daň“ na účtech odběratelů utnula, je proto podle našich zjištění přesné.</p>\n\n<p>Druhé ověřitelné tvrzení se týká konstatování, že podobný krok učinily i „okolní země“. Zde je podstatné, zda alespoň některé sousední státy (Německo, Rakousko, Polsko, Slovensko) v posledních letech skutečně zrušily či vynulovaly obdobné zelené poplatky z účtů odběratelů a financování podpory obnovitelných zdrojů převzaly stát či jiné fondy.</p>\n\n<p>V Německu byla obdobou českého poplatku na POZE tzv. EEG‑Umlage. Podle tiskové zprávy <a href=\"https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220428-bundestag-beschliesst-abschaffung-der-eeg-umlage.html?utm_source=openai\">německého ministerstva hospodářství a klimatu</a> Spolkový sněm v dubnu 2022 schválil zákon, kterým se EEG‑Umlage od 1. července 2022 snižuje na 0 centů za kWh a financování podpory obnovitelných zdrojů přebírá federální energeticko‑klimatický fond. Regulátor <a href=\"https://www.bundesnetzagentur.de/899824?utm_source=openai\">Bundesnetzagentur</a> doplňuje, že od 1. ledna 2023 byla EEG‑Umlage definitivně zrušena a na žádnou od tohoto data dodanou či spotřebovanou elektřinu se již nevztahuje. Český server <a href=\"https://oenergetice.cz/obnovitelne-zdroje/nemecko-ukoncilo-podporu-oze-skrze-ucty-za-elektrinu?utm_source=openai\">oEnergetice.cz</a> na základě těchto kroků shrnuje, že Německo ukončilo financování podpory obnovitelných zdrojů přes účty za elektřinu a nahradilo jej příjmy z emisních povolenek a dalšími rozpočtovými zdroji.</p>\n\n<p>Také v Rakousku existují zvláštní poplatky na podporu obnovitelných zdrojů, zejména Erneuerbaren‑Förderbeitrag a Erneuerbaren‑Förderpauschale. Deník <a href=\"https://kurier.at/politik/inland/oekostrom-abgabe-wird-ausgesetzt/401878388?utm_source=openai\">Kurier</a> informuje, že rakouský parlament rozhodl pro rok 2022 Ökostrom‑Abgabe pozastavit – Erneuerbaren‑Förderpauschale se nevybírá a spolu s nastavením Erneuerbaren‑Förderbeitrags na nulu se náklady na Ökostrom pro domácnosti a podniky v tomto roce prakticky rovnají nule. Tisková zpráva rakouské odborové komory <a href=\"https://www.ots.at/presseaussendung/OTS_20211217_OTS0195/ak-begruesst-entfall-der-erneuerbaren-foerderpauschale-fuer-2022?utm_source=openai\">Arbeiterkammer</a> tento krok vítá a odhaduje, že průměrné domácnosti sníží roční účet za elektřinu asi o 120 eur. Odborný server <a href=\"https://www.energie-und-management.de/nachrichten/recht/detail/oesterreich-auch-2023-keine-erneuerbaren-foerderpauschale-171058?utm_source=openai\">Energie &amp; Management</a> následně popisuje, že nevybírání těchto poplatků bylo prodlouženo i na rok 2023. Dodavatel <a href=\"https://www.verbund.com/de/privat/services/stromkostenbremse%3Fsrsltid%3DAfmBOopRs6jWpw87dO7u0sawh5ccxm4R1N6ScXx4aQYGyJDlJBU69O__?utm_source=openai\">Verbund</a> vysvětluje, že jak Erneuerbaren‑Förderbeitrag, tak Erneuerbaren‑Förderpauschale jsou od roku 2022 nastaveny na nulu a součástí širšího balíku úlev zůstaly až do konce roku 2024, přičemž od roku 2025 se tyto poplatky postupně vracejí.</p>\n\n<p>V Polsku má podobnou funkci tzv. opłata OZE, složka účtu za elektřinu určená k financování podpory obnovitelných zdrojů. Přehled sazeb na oficiálním webu polského regulátora <a href=\"https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai\">Urząd Regulacji Energetyki</a> ukazuje, že pro rok 2022 byla stanovena na 0,90 zł/MWh, ale v letech 2023 a 2024 byla sazba opłaty OZE nulová (0,00 zł/MWh), takže koneční odběratelé v těchto letech žádný takový příplatek neplatili. V tiskové zprávě regulátora <a href=\"https://www.ure.gov.pl/pl/urzad/informacje-ogolne/aktualnosci/11522%2CW-2024-r-na-rachunkach-za-energie-elektryczna-nie-zmieni-sie-stawka-oplaty-OZE.html?utm_source=openai\">URE</a> se výslovně uvádí, že v roce 2024 se sazba opłaty OZE na účtech za elektřinu nemění a zůstává na nule, což je už druhý rok po sobě. Analýza deníku <a href=\"https://energia.rp.pl/oze/art41521671-wraca-oplata-oze-wiemy-ile-bedzie-nas-kosztowac?utm_source=openai\">Rzeczpospolita</a> doplňuje, že opłata OZE byla v minulosti opakovaně vynulována a znovu se zvyšuje až od roku 2025.</p>\n\n<p>Na Slovensku má obdobnou roli Tarifa za prevádzkovanie systému (TPS), která mimo jiné kryje náklady na podporu obnovitelných zdrojů a povinný výkup elektřiny. Dodavatel <a href=\"https://www.elgas.sk/zmena-tps/?utm_source=openai\">Elgas</a> vysvětluje, že TPS je regulovaná složka ceny elektřiny určená ke krytí nákladů na provoz elektrizační soustavy a na podpory podle příslušné legislativy. Vzhledem k prudkému růstu cen energií vláda SR podle shrnutí na portálu <a href=\"https://www.podnikajte.sk/financny-manazment/zastropovanie-distribucnych-poplatkov-za-elektrinu-od-1-5-2023?utm_source=openai\">Podnikajte.sk</a> rozhodla, že od 1. května 2023 budou tarify za systémové služby, TPS i ztráty při distribuci zastropovány či sníženy na úroveň roku 2022 a zvýšené náklady budou kompenzovány ze státního rozpočtu. Úřad pro regulaci sieťových odvetví <a href=\"https://www.urso.gov.sk/urso-objasnuje-cenotvorbu-elektriny-pre-priemyselnych-odberatelov/?utm_source=openai\">ÚRSO</a> následně uvádí, že pro rok 2024 snížil TPS oproti roku 2023 v průměru téměř o 39 % a obdobně snížil i další regulované složky ceny. Zelený poplatek v podobě TPS tedy Slovensko úplně nevymazalo, ale výrazně omezilo jeho růst a část zátěže převzalo na stát, zejména u velkoodběratelů.</p>\n\n<p>Z našich zjištění vyplývá, že minimálně tři sousední země (Německo, Rakousko a Polsko) skutečně v posledních letech zelené příplatky na elektřině dočasně nebo trvale vynulovaly a financování podpory obnovitelných zdrojů přesunuly na stát či speciální fondy. Slovensko postupovalo mírněji, ale i tam vláda výrazně snížila příslušnou tarifní složku a její část dotuje ze státního rozpočtu. Výrok Karla Havlíčka neuvádí, že všechny okolní země poplatky zrušily trvale, pouze obecně odkazuje na to, že „tak učinili v okolních zemích“, tedy že podobný krok v reakci na energetickou krizi už v regionu proběhl. Tento popis odpovídá skutečnému vývoji, byť v některých státech šlo jen o dočasná či částečná opatření.</p>\n\n<p>Souhrnně lze říci, že první faktické tvrzení, že Česká republika od roku 2026 přestala vybírat poplatek na podporované zdroje energie od odběratelů a náklady převzala na stát, je doloženo oficiálními i odbornými zdroji. Druhé tvrzení, že obdobná opatření přijaly i okolní země, je v jádru správné: v Německu, Rakousku a Polsku byly zelené poplatky na účtech odběratelů skutečně vynulovány, na Slovensku alespoň výrazně sníženy a část břemene převzala vláda. Část výroku týkající se politických motivů je hodnotící a nelze ji fakticky ověřit. Celkové hodnocení výroku: pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_089f396c27083a1b0069a6ce0110708191b35b897effa32ef4",
+    "created_at": 1772539393.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_089f396c27083a1b0069a6ce0c27208191a448b9dc98cb2eeb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ce1b84148191a9db20a32a6ae8fc",
+        "action": {
+          "query": "\"zelenou dan\" \"okolnich zemich\" Havlicek",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"zelenou dan\" \"okolnich zemich\" Havlicek",
+            "poplatky za POZE zruseni 2025 2026 CR vlada",
+            "\"zelená daň\" \"POZE\" poplatky za podporu obnovitelných zdrojů energie odstranění z regulované složky ceny elektřiny",
+            "\"poplatek na podporu obnovitelných zdrojů energie\" zrušení 2025 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ce24cab4819189f89f26651fc558",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ce2970fc8191a2525fc6ec5e6d00",
+        "action": {
+          "query": "zrušení poplatku na podporu obnovitelných zdrojů energie z ceny elektřiny sousední země 2022 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "zrušení poplatku na podporu obnovitelných zdrojů energie z ceny elektřiny sousední země 2022 2023",
+            "Německo zrušilo poplatek na obnovitelné zdroje energie z účtů za elektřinu EEG-Umlage 2022",
+            "Rakousko 2022 zrušení poplatku na podporu obnovitelné energie pobocke OeMAG z ceny elektřiny",
+            "Slovensko zrušilo TPS \"tarifa za prevádzkovanie systému\" 2022 2023 poplatok OZE"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ce2d81088191b831f5bc44d6bbb0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ce2ff7308191a3a06b0b6a454133",
+        "action": {
+          "query": "Rakousko zrušilo poplatek za obnovitelné zdroje elektřina 2022",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Rakousko zrušilo poplatek za obnovitelné zdroje elektřina 2022",
+            "\"zrušení příspěvku na obnovitelné zdroje\" Rakousko elektřina",
+            "\"Erneuerbaren-Foerderbeitrag\" abgeschafft 2022 Strompreis",
+            "Polsko znosi opłata OZE rachunek za prąd 2021 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ce3565208191818a14234a02e150",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ce371bcc8191947781dd6ee8ba22",
+        "action": {
+          "query": "\"Cenový výměr Energetického regulačního úřadu č. 15/2025\" POZE",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Cenový výměr Energetického regulačního úřadu č. 15/2025\" POZE",
+            "\"stát v příštím roce převezme financování podporovaných zdrojů energie\" vláda 2025",
+            "\"poplatek za podporované zdroje energie\" zrušen od 1. ledna 2026",
+            "\"příspěvek na podporované zdroje energie\" 0 Kc/MWh 2026"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ce39e5f08191ae14f7085db7197c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ce4b95d081918f8bee3091ad2ed6",
+        "action": {
+          "query": "\"EEG-Umlage\" zrušena\" 1. července 2022",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"EEG-Umlage\" zrušena\" 1. července 2022",
+            "\"EEG-Umlage\" abgeschafft 1. Juli 2022 offizielle",
+            "BMWK EEG-Umlage abgeschafft 1. Juli 2022",
+            "\"Německo ukončilo podporu OZE skrze účty za elektřinu\" 5. červenec 2022"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ce5035908191ad0a1bc2a0b44617",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ce51c9548191b0c06ad918ad0328",
+        "action": {
+          "query": "\"vláda\" \"znížila\" \"tarifu za prevádzkovanie systému\" 2023 obnoviteľné zdroje",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"vláda\" \"znížila\" \"tarifu za prevádzkovanie systému\" 2023 obnoviteľné zdroje",
+            "\"tarifa za prevadzkovanie systemu\" OZE znizenie 2023 maj 2023 slovenska vlada",
+            "\"od května 2023\" \"tarifa za prevádzkovanie systému\" obnovitelné zdroje",
+            "\"od maja 2023\" \"Tarifa za prevádzkovanie systému\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ce5983c881919cd37ea0402ac45b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ce5b47988191bc7cfc1f3e5d54ff",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ce5e265881919b7654b15224b1e3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ce65a1e48191b12250247950ee3b",
+        "action": {
+          "query": "URE opłata OZE 2023 0 zł 2024 0 zł",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "URE opłata OZE 2023 0 zł 2024 0 zł",
+            "\"stawka opłaty OZE\" 2024 0 zł/MWh",
+            "\"stawka opłaty OZE\" 2023 0,00 zł/MWh",
+            "Rozporządzenie Rady Ministrów 2022 stawka opłaty OZE 2023 0,0 zl"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ce6e51f08191a86fab15237ab32a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ce7d3698819198739ca91fb6cf49",
+        "action": {
+          "query": "\"Erneuerbaren-Foerderbeitrag\" 2022 Stromkunden abgeschafft",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Erneuerbaren-Foerderbeitrag\" 2022 Stromkunden abgeschafft",
+            "Abschaffung \"Erneuerbaren-Förderpauschale\" Strompreis 2022",
+            "\"Förderbeitrag für Ökostrom\" abgeschafft 2022",
+            "\"Ökostromförderbeitrag\" \"0 Euro\" 2022 Strompreisdeckel"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ce82413c8191b819352ce4871fcf",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ce8c76508191a896d06e093520c4",
+        "action": {
+          "query": "\"poplatek za POZE\" \"okolních zemích\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"poplatek za POZE\" \"okolních zemích\"",
+            "\"příklad okolních zemí\" \"obnovitelné zdroje\" \"poplatek\"",
+            "\"v řadě okolních zemí\" \"poplatky za obnovitelné zdroje\"",
+            "\"zelené poplatky\" \"v okolních zemích\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ce93615c8191b0800dd404b372f8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6cecd7fa48191a3569c6c128f2a0e",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ced102948191b8868091520b19d0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ced13234819187b797fdb3355778",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6ced331908191b8423637e91562dd",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_089f396c27083a1b0069a6ced409d88191937cbf05e914ef3b",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_089f396c27083a1b0069a6cedbc7208191a6cada371c03a920",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_089f396c27083a1b0069a6cf04431081919b260d7701c77974",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1505,
+                "start_index": 1371,
+                "title": "Cena elektřiny v roce 2026: Vývoj, ceny a úspory SPP | SPP",
+                "type": "url_citation",
+                "url": "https://www.spp.cz/magazin/cena-elektriny-v-roce-2026-co-ji-tvori-kolik-stoji-1-kwh-a-kde-muzete-usetrit?utm_source=openai"
+              },
+              {
+                "end_index": 1848,
+                "start_index": 1739,
+                "title": "Elektřina domácnostem od ledna zlevní. Vláda ruší poplatek za obnovitelné zdroje – faei.cz",
+                "type": "url_citation",
+                "url": "https://faei.cz/elektrina-domacnostem-od-ledna-zlevni-vlada-rusi-poplatek-za-obnovitelne-zdroje/"
+              },
+              {
+                "end_index": 2392,
+                "start_index": 2232,
+                "title": "Stát v příštím roce převezme financování podporovaných zdrojů energie (POZE) - TZB-info",
+                "type": "url_citation",
+                "url": "https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze?utm_source=openai"
+              },
+              {
+                "end_index": 2825,
+                "start_index": 2716,
+                "title": "Vláda rozhodla o 15% snížení ceny elektřiny. Co musíte udělat, aby se cena od ledna snížila i vám - EnergoZrouti.cz",
+                "type": "url_citation",
+                "url": "https://energozrouti.cz/clanek/snizeni-ceny-elektriny-co-musite-udelat?utm_source=openai"
+              },
+              {
+                "end_index": 3484,
+                "start_index": 3379,
+                "title": "Poznámka ke spotřebitelským cenám energií - leden 2026 | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-leden-2026?utm_source=openai"
+              },
+              {
+                "end_index": 3864,
+                "start_index": 3808,
+                "title": "POZE | Skupina ČEZ",
+                "type": "url_citation",
+                "url": "https://www.cez.cz/cs/poze?utm_source=openai"
+              },
+              {
+                "end_index": 4253,
+                "start_index": 4155,
+                "title": "Ceny elektřiny v roce 2026: jaký je výhled? | E.ON",
+                "type": "url_citation",
+                "url": "https://www.eon.cz/radce/blog/jake-budou-ceny-elektriny-v-roce-2026/?utm_source=openai"
+              },
+              {
+                "end_index": 4666,
+                "start_index": 4521,
+                "title": "Elektřina od ledna 2026 zlevní. Stát za vás zaplatí poplatek na obnovitelné zdroje - Měšec.cz",
+                "type": "url_citation",
+                "url": "https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai"
+              },
+              {
+                "end_index": 6375,
+                "start_index": 6222,
+                "title": "BMWE - Bundestag beschließt Abschaffung der EEG-Umlage zum 1. Juli 2022",
+                "type": "url_citation",
+                "url": "https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220428-bundestag-beschliesst-abschaffung-der-eeg-umlage.html?utm_source=openai"
+              },
+              {
+                "end_index": 6791,
+                "start_index": 6708,
+                "title": "Bundesnetzagentur - Ehemalige EEG-Umlagepflichten und Leitfäden zur Eigenversorgung",
+                "type": "url_citation",
+                "url": "https://www.bundesnetzagentur.de/899824?utm_source=openai"
+              },
+              {
+                "end_index": 7163,
+                "start_index": 7031,
+                "title": "Německo ukončilo podporu OZE skrze účty za elektřinu",
+                "type": "url_citation",
+                "url": "https://oenergetice.cz/obnovitelne-zdroje/nemecko-ukoncilo-podporu-oze-skrze-ucty-za-elektrinu?utm_source=openai"
+              },
+              {
+                "end_index": 7661,
+                "start_index": 7518,
+                "title": "V Německu neplatí firmy zelené poplatky vůbec. České se jich děsí - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-v-nemecku-neplati-firmy-zelene-poplatky-vubec-ceske-se-jich-desi-237806"
+              },
+              {
+                "end_index": 8685,
+                "start_index": 8577,
+                "title": "Ökostrom-Abgabe wird ausgesetzt | Kurier",
+                "type": "url_citation",
+                "url": "https://kurier.at/politik/inland/oekostrom-abgabe-wird-ausgesetzt/401878388?utm_source=openai"
+              },
+              {
+                "end_index": 9140,
+                "start_index": 8989,
+                "title": "AK begrüßt Entfall der Erneuerbaren Förderpauschale für 2022",
+                "type": "url_citation",
+                "url": "https://www.ots.at/presseaussendung/OTS_20211217_OTS0195/ak-begruesst-entfall-der-erneuerbaren-foerderpauschale-fuer-2022?utm_source=openai"
+              },
+              {
+                "end_index": 9621,
+                "start_index": 9445,
+                "title": "Österreich: Auch 2023 keine \"Erneuerbaren-Förderpauschale\" | E&M",
+                "type": "url_citation",
+                "url": "https://www.energie-und-management.de/nachrichten/recht/detail/oesterreich-auch-2023-keine-erneuerbaren-foerderpauschale-171058?utm_source=openai"
+              },
+              {
+                "end_index": 10095,
+                "start_index": 9931,
+                "title": "Stromkostenbremse: Antworten auf Ihre Fragen - VERBUND",
+                "type": "url_citation",
+                "url": "https://www.verbund.com/de/privat/services/stromkostenbremse%3Fsrsltid%3DAfmBOopRs6jWpw87dO7u0sawh5ccxm4R1N6ScXx4aQYGyJDlJBU69O__?utm_source=openai"
+              },
+              {
+                "end_index": 10462,
+                "start_index": 10321,
+                "title": "Es braucht sozial verträgliche Energiepreise! | Arbeiterkammer Oberösterreich",
+                "type": "url_citation",
+                "url": "https://ooe.arbeiterkammer.at/service/presse/Es-braucht-sozial-vertraegliche-Energiepreise-.html?utm_source=openai"
+              },
+              {
+                "end_index": 11437,
+                "start_index": 11291,
+                "title": "Wysokości stawki opłaty OZE na dany rok kalendarzowy - Stawki opłaty OZE - Urząd Regulacji Energetyki",
+                "type": "url_citation",
+                "url": "https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai"
+              },
+              {
+                "end_index": 11850,
+                "start_index": 11663,
+                "title": "W 2024 r. na rachunkach za energię elektryczną nie zmieni się stawka opłaty OZE - Aktualności - Urząd Regulacji Energetyki",
+                "type": "url_citation",
+                "url": "https://www.ure.gov.pl/pl/urzad/informacje-ogolne/aktualnosci/11522%2CW-2024-r-na-rachunkach-za-energie-elektryczna-nie-zmieni-sie-stawka-oplaty-OZE.html?utm_source=openai"
+              },
+              {
+                "end_index": 12163,
+                "start_index": 12041,
+                "title": "Opłata OZE wraca do rachunku za prąd. Ile będzie kosztować? - rp.pl",
+                "type": "url_citation",
+                "url": "https://energia.rp.pl/oze/art41521671-wraca-oplata-oze-wiemy-ile-bedzie-nas-kosztowac?utm_source=openai"
+              },
+              {
+                "end_index": 13084,
+                "start_index": 13021,
+                "title": "Zmena TPS - ELGAS",
+                "type": "url_citation",
+                "url": "https://www.elgas.sk/zmena-tps/?utm_source=openai"
+              },
+              {
+                "end_index": 13637,
+                "start_index": 13493,
+                "title": "Zastropovanie distribučných poplatkov za elektrinu od 1.5.2023 | Podnikajte.sk",
+                "type": "url_citation",
+                "url": "https://www.podnikajte.sk/financny-manazment/zastropovanie-distribucnych-poplatkov-za-elektrinu-od-1-5-2023?utm_source=openai"
+              },
+              {
+                "end_index": 14084,
+                "start_index": 13941,
+                "title": "V Německu neplatí firmy zelené poplatky vůbec. České se jich děsí - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-v-nemecku-neplati-firmy-zelene-poplatky-vubec-ceske-se-jich-desi-237806"
+              },
+              {
+                "end_index": 14454,
+                "start_index": 14329,
+                "title": "ÚRSO objasňuje cenotvorbu elektriny pre priemyselných odberateľov | Úrad pre reguláciu sieťových odvetví",
+                "type": "url_citation",
+                "url": "https://www.urso.gov.sk/urso-objasnuje-cenotvorbu-elektriny-pre-priemyselnych-odberatelov/?utm_source=openai"
+              },
+              {
+                "end_index": 14611,
+                "start_index": 14548,
+                "title": "Zmena TPS - ELGAS",
+                "type": "url_citation",
+                "url": "https://www.elgas.sk/zmena-tps/?utm_source=openai"
+              },
+              {
+                "end_index": 15491,
+                "start_index": 15338,
+                "title": "BMWE - Bundestag beschließt Abschaffung der EEG-Umlage zum 1. Juli 2022",
+                "type": "url_citation",
+                "url": "https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220428-bundestag-beschliesst-abschaffung-der-eeg-umlage.html?utm_source=openai"
+              },
+              {
+                "end_index": 15757,
+                "start_index": 15649,
+                "title": "Ökostrom-Abgabe wird ausgesetzt | Kurier",
+                "type": "url_citation",
+                "url": "https://kurier.at/politik/inland/oekostrom-abgabe-wird-ausgesetzt/401878388?utm_source=openai"
+              },
+              {
+                "end_index": 16079,
+                "start_index": 15903,
+                "title": "Österreich: Auch 2023 keine \"Erneuerbaren-Förderpauschale\" | E&M",
+                "type": "url_citation",
+                "url": "https://www.energie-und-management.de/nachrichten/recht/detail/oesterreich-auch-2023-keine-erneuerbaren-foerderpauschale-171058?utm_source=openai"
+              },
+              {
+                "end_index": 16406,
+                "start_index": 16260,
+                "title": "Wysokości stawki opłaty OZE na dany rok kalendarzowy - Stawki opłaty OZE - Urząd Regulacji Energetyki",
+                "type": "url_citation",
+                "url": "https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai"
+              },
+              {
+                "end_index": 16903,
+                "start_index": 16759,
+                "title": "Zastropovanie distribučných poplatkov za elektrinu od 1.5.2023 | Podnikajte.sk",
+                "type": "url_citation",
+                "url": "https://www.podnikajte.sk/financny-manazment/zastropovanie-distribucnych-poplatkov-za-elektrinu-od-1-5-2023?utm_source=openai"
+              },
+              {
+                "end_index": 17367,
+                "start_index": 17262,
+                "title": "Poznámka ke spotřebitelským cenám energií - leden 2026 | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-leden-2026?utm_source=openai"
+              },
+              {
+                "end_index": 17900,
+                "start_index": 17817,
+                "title": "Bundesnetzagentur - Ehemalige EEG-Umlagepflichten und Leitfäden zur Eigenversorgung",
+                "type": "url_citation",
+                "url": "https://www.bundesnetzagentur.de/899824?utm_source=openai"
+              },
+              {
+                "end_index": 18131,
+                "start_index": 18027,
+                "title": "Energiekosten Unterstützungen: go green energy",
+                "type": "url_citation",
+                "url": "https://www.gogreenenergy.at/energiekosten-unterstuetzungen.html?utm_source=openai"
+              },
+              {
+                "end_index": 18366,
+                "start_index": 18220,
+                "title": "Wysokości stawki opłaty OZE na dany rok kalendarzowy - Stawki opłaty OZE - Urząd Regulacji Energetyki",
+                "type": "url_citation",
+                "url": "https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai"
+              },
+              {
+                "end_index": 18620,
+                "start_index": 18495,
+                "title": "ÚRSO objasňuje cenotvorbu elektriny pre priemyselných odberateľov | Úrad pre reguláciu sieťových odvetví",
+                "type": "url_citation",
+                "url": "https://www.urso.gov.sk/urso-objasnuje-cenotvorbu-elektriny-pre-priemyselnych-odberatelov/?utm_source=openai"
+              },
+              {
+                "end_index": 19386,
+                "start_index": 19281,
+                "title": "Poznámka ke spotřebitelským cenám energií - leden 2026 | Statistika",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-leden-2026?utm_source=openai"
+              },
+              {
+                "end_index": 19624,
+                "start_index": 19568,
+                "title": "POZE | Skupina ČEZ",
+                "type": "url_citation",
+                "url": "https://www.cez.cz/cs/poze?utm_source=openai"
+              },
+              {
+                "end_index": 20174,
+                "start_index": 20021,
+                "title": "BMWE - Bundestag beschließt Abschaffung der EEG-Umlage zum 1. Juli 2022",
+                "type": "url_citation",
+                "url": "https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220428-bundestag-beschliesst-abschaffung-der-eeg-umlage.html?utm_source=openai"
+              },
+              {
+                "end_index": 20497,
+                "start_index": 20389,
+                "title": "Ökostrom-Abgabe wird ausgesetzt | Kurier",
+                "type": "url_citation",
+                "url": "https://kurier.at/politik/inland/oekostrom-abgabe-wird-ausgesetzt/401878388?utm_source=openai"
+              },
+              {
+                "end_index": 20837,
+                "start_index": 20691,
+                "title": "Wysokości stawki opłaty OZE na dany rok kalendarzowy - Stawki opłaty OZE - Urząd Regulacji Energetyki",
+                "type": "url_citation",
+                "url": "https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai"
+              },
+              {
+                "end_index": 21236,
+                "start_index": 21092,
+                "title": "Zastropovanie distribučných poplatkov za elektrinu od 1.5.2023 | Podnikajte.sk",
+                "type": "url_citation",
+                "url": "https://www.podnikajte.sk/financny-manazment/zastropovanie-distribucnych-poplatkov-za-elektrinu-od-1-5-2023?utm_source=openai"
+              }
+            ],
+            "text": "### 1. Vymezení a interpretace tvrzení\n\nPosuzovaná část výroku Karla Havlíčka:\n\n> „My jsme tu zelenou daň (poplatky za POZE) utli nejenom proto, že tak učinili v okolních zemích…“\n\nPro potřeby ověření rozdělíme tvrzení na dvě dílčí:\n\n1. **Dílčí tvrzení A – Česká republika „utnula zelenou daň“ (poplatky za POZE):**  \n   Vláda / stát zajistil, že od určitého data spotřebitelé (domácnosti a firmy) přestali platit poplatek na podporované zdroje energie (POZE) v regulované složce ceny elektřiny, a tento náklad přešel plně na stát.\n\n2. **Dílčí tvrzení B – „…nejenom proto, že tak učinili v okolních zemích“:**  \n   V sousedních státech (minimálně některých: Německo, Rakousko, Slovensko, Polsko) už před českým rozhodnutím došlo k obdobnému kroku:  \n   - buď úplnému zrušení „zeleného“ poplatku z účtů za elektřinu,  \n   - nebo k jeho vynulování / výraznému přenesení na stát.\n\nNíže uvádím podklady pro obě části.\n\n---\n\n## 2. Dílčí tvrzení A – „My jsme tu zelenou daň (POZE) utli“\n\n### 2.1 Jak vypadala „zelená daň“ (POZE) před změnou\n\nPoplatek za podporované zdroje energie (POZE) je regulovaná složka ceny elektřiny, kterou odběratelé platí na podporu OZE a dalších podporovaných zdrojů.\n\n- Informativní článek SPP shrnuje, že poplatek POZE „byl dlouhodobě součástí každého vyúčtování ve výši 599 Kč/MWh“ a že v roce 2022 byl výjimečně placen státem, nikoli odběrateli.([spp.cz](https://www.spp.cz/magazin/cena-elektriny-v-roce-2026-co-ji-tvori-kolik-stoji-1-kwh-a-kde-muzete-usetrit?utm_source=openai))  \n- Server FAEI (ekonom Lukáš Kovanda) píše, že vláda 16. 12. 2025 „rozhodla od příštího roku zrušit poplatek za tzv. obnovitelné zdroje (POZE), resp. převést jej na státní rozpočet“, přičemž uvádí konkrétní výši poplatku 599 Kč/MWh.([faei.cz](https://faei.cz/elektrina-domacnostem-od-ledna-zlevni-vlada-rusi-poplatek-za-obnovitelne-zdroje/))  \n\n### 2.2 Rozhodnutí vlády a přechod financování na stát\n\n- TZB‑info shrnuje, že vláda (koalice ANO–SPD–Motoristů) v prosinci 2025 schválila, že **v roce 2026 stát převezme celé financování podporovaných zdrojů energie (POZE)**. Stát tak má na POP poplatky vydat přes 41 mld Kč ročně, z toho cca 17 mld Kč nově oproti předchozímu stavu, kdy se náklady dělily mezi stát a odběratele.([tzb-info.cz](https://www.tzb-info.cz/ceny-paliv-a-energii/29327-stat-v-pristim-roce-prevezme-financovani-podporovanych-zdroju-energie-poze?utm_source=openai))  \n- Podobně zpravodajský text EnergoZrouti uvádí, že nová vláda rozhodla o **poklesu regulované složky ceny elektřiny o cca 15 %**, protože „stát bude od nového roku platit podporu obnovitelných zdrojů energie“, zatímco předchozí vláda počítala s tím, že část (zhruba 17,1 mld Kč) ponesou odběratelé v podobě poplatku POZE.([energozrouti.cz](https://energozrouti.cz/clanek/snizeni-ceny-elektriny-co-musite-udelat?utm_source=openai))  \n\nTyto zdroje potvrzují, že politické rozhodnutí skutečně spočívalo v **přenesení celé platby POZE ze spotřebitelů na státní rozpočet od roku 2026.**\n\n### 2.3 Právní a regulační provedení – Cenový výměr ERÚ a dopady na faktury\n\n- Český statistický úřad ve „Poznámce ke spotřebitelským cenám energií – leden 2026“ výslovně uvádí, že „domácnostem odebírajícím elektřinu byl od ledna 2026 zrušen poplatek za podporované zdroje energie (POZE)“, odkazuje na **Cenový výměr ERÚ č. 15/2025 ze dne 29. prosince 2025**, a doplňuje, že šlo o poplatek 599 Kč/MWh.([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-leden-2026?utm_source=openai))  \n- Společnost ČEZ na své stránce „POZE“ vysvětluje, že **od 1. ledna 2026 zákazníci poplatek za POZE neplatí a za každou MWh ušetří 599 Kč (495 Kč bez DPH)**. Dále uvádí, že „poplatek za podporované zdroje energie bude nově hradit stát“ a že tato položka „už nebude součástí regulované (distribuční) části ceny elektřiny“.([cez.cz](https://www.cez.cz/cs/poze?utm_source=openai))  \n- E.ON ve svém přehledu „Jaké budou ceny elektřiny v roce 2026?“ uvádí, že regulovaná složka u domácností klesne asi o 15 %, hlavně proto, že **„od 1. 1. 2026 je odpuštěn poplatek za podporované zdroje energie (POZE), který činil 599 Kč/MWh“**, přičemž náklady přecházejí do výdajů státu.([eon.cz](https://www.eon.cz/radce/blog/jake-budou-ceny-elektriny-v-roce-2026/?utm_source=openai))  \n- Server Měšec shrnuje rozhodnutí vlády z 16. 12. 2025 tak, že stát vezme celé financování POZE na sebe a ERÚ proto ve změnovém cenovém výměru **nastavil příspěvek na POZE na nulu**, konkrétně: u domácností byl příspěvek 598,95 Kč/MWh a od ledna 2026 bude 0 Kč/MWh.([mesec.cz](https://www.mesec.cz/aktuality/elektrina-od-ledna-2026-zlevni-stat-za-vas-zaplati-poplatek-na-obnovitelne-zdroje/?utm_source=openai))  \n\n### 2.4 Závěr k dílčímu tvrzení A\n\n- **Fakticky od 1. 1. 2026 odběratelé (domácnosti i firmy) v ČR neplatí poplatek na podporované zdroje energie (POZE) v regulované složce ceny elektřiny.**\n- Náklady na tuto podporu jsou nově hrazeny plně ze státního rozpočtu, což potvrzují vládní a regulatorní zdroje (vládní rozhodnutí, cenové výměry ERÚ, informace ČSÚ a velkých dodavatelů).\n\nV řeči Karla Havlíčka tedy „utnout zelenou daň“ odpovídá tomu, že **z pohledu účtů odběratelů byla tato „daň“ vynulována a převedena na stát**. Podpora OZE jako taková se ale neruší, pouze se mění způsob financování.\n\n---\n\n## 3. Dílčí tvrzení B – „…nejenom proto, že tak učinili v okolních zemích“\n\nZde je klíčová otázka, zda v **sousedních státech ČR** (Německo, Rakousko, Slovensko, Polsko) v posledních letech skutečně proběhly kroky, které:\n\n- odstranily,  \n- nebo alespoň dočasně vynulovaly  \n„zelené“ poplatky na účtech konečných odběratelů a přenesly financování OZE na stát či jiné zdroje.\n\nNíže rozebírám jednotlivé sousedy.\n\n### 3.1 Německo – úplné zrušení EEG‑Umlage z účtů za elektřinu\n\n#### Co je EEG‑Umlage\n\nEEG‑Umlage byla německá příplatková složka ceny elektřiny, kterou koncoví odběratelé financovali podporu obnovitelných zdrojů (obdoba českého POZE).\n\n#### Právní změny\n\n- Německé ministerstvo hospodářství a klimatu (BMWK) uvádí v tiskové zprávě z 28. 4. 2022, že Bundestag přijal zákon, kterým se **EEG‑Umlage od 1. července 2022 snižuje na nulu** a financování podpory OZE přebírá **Energie- und Klimafonds** (dnes Klima‑ und Transformationsfonds).([bmwk.de](https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220428-bundestag-beschliesst-abschaffung-der-eeg-umlage.html?utm_source=openai))  \n- Bundesnetzagentur (regulátor) vysvětluje, že EEG‑Umlage byla nejdříve od 1. 7. 2022 do 31. 12. 2022 snížena na 0 ct/kWh a **od 1. 1. 2023 byla definitivně zrušena** (EEG 2023). Pro od tohoto data dodanou či spotřebovanou elektřinu se **žádná EEG‑Umlage již neplatí** a související povinnosti (měření, vykazování) zcela odpadají.([bundesnetzagentur.de](https://www.bundesnetzagentur.de/899824?utm_source=openai))  \n\n#### Česká shrnutí\n\n- Server oEnergetice.cz shrnuje, že „v Německu skončila platba poplatku na podporu obnovitelných zdrojů energie“ a že podpora OZE je od druhé poloviny 2022 hrazena z výnosů z emisních poplatků a ze státního rozpočtu.([oenergetice.cz](https://oenergetice.cz/obnovitelne-zdroje/nemecko-ukoncilo-podporu-oze-skrze-ucty-za-elektrinu?utm_source=openai))  \n- Seznam Zprávy v článku „V Německu neplatí firmy zelené poplatky vůbec“ uvádějí, že **ceny za POZE v Německu hradí stát**; německý Spolkový sněm novelou zákona o financování energetiky zrušil tyto poplatky nejprve částečně od července 2022 a **od ledna 2023 trvale**, přičemž poplatky za obnovitelné zdroje prostřednictvím ceny elektřiny tím skončily.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-firmy-v-nemecku-neplati-firmy-zelene-poplatky-vubec-ceske-se-jich-desi-237806))  \n\n#### Závěr pro Německo\n\nNěmecko od 1. 7. 2022 (plně od 1. 1. 2023) **přestalo vybírat „zelený poplatek“ EEG‑Umlage z účtů za elektřinu a financuje OZE z jiných zdrojů**. To je přesně krok obdobný českému přenesení POZE na stát.\n\n---\n\n### 3.2 Rakousko – vynulování Ökostrom-Abgabe / Erneuerbaren-Förderkosten v letech 2022–2024\n\nRakouským ekvivalentem „zeleného poplatku“ jsou:\n\n- **Erneuerbaren-Förderbeitrag** (spotřebně závislá složka),  \n- **Erneuerbaren-Förderpauschale** (paušál na odběrné místo),  \nkteré financují podporu Ökostromu.\n\n#### Vynulování poplatků v roce 2022\n\n- Deník Kurier informuje o rozhodnutí rakouského parlamentu z ledna 2022, že **Ökostrom-Abgabe bude pro rok 2022 pozastavena**, konkrétně že se Erneuerbaren-Förderpauschale pro rok 2022 nevybírá a „spolu s nastavením Erneuerbaren-Förderbeitrags na 0“ se **náklady na Ökostrom pro domácnosti a podniky v roce 2022 nastavují na nulu**.([kurier.at](https://kurier.at/politik/inland/oekostrom-abgabe-wird-ausgesetzt/401878388?utm_source=openai))  \n- Rakouská odborová komora (AK) v tiskové zprávě „AK begrüßt Entfall der Erneuerbaren Förderpauschale für 2022“ vítá, že vedle Erneuerbaren-Förderbeitrags nově **od ledna 2022 odpadá i Erneuerbare-Förderbeitragspauschale**, což podle ní sníží roční účet za elektřinu průměrné domácnosti o cca 120 EUR.([ots.at](https://www.ots.at/presseaussendung/OTS_20211217_OTS0195/ak-begruesst-entfall-der-erneuerbaren-foerderpauschale-fuer-2022?utm_source=openai))  \n\n#### Prodloužení nulových sazeb do roku 2023 a 2024\n\n- Odborný server Energie & Management popisuje, že **Erneuerbaren-Förderpauschale bude i v roce 2023 dále pozastavena**, protože vysoké ceny elektřiny a nevyčerpané fondy nevyžadují další přísun prostředků; zákazníci si tak ušetří asi 350 mil. EUR.([energie-und-management.de](https://www.energie-und-management.de/nachrichten/recht/detail/oesterreich-auch-2023-keine-erneuerbaren-foerderpauschale-171058?utm_source=openai))  \n- Stránka rakouského dodavatele Verbund o „Stromkostenbremse“ uvádí, že **Erneuerbaren-Förderbeitrag a Erneuerbaren-Förderpauschale jsou od roku 2022 nastaveny na nulu** kvůli vysokým cenám energie a že tyto úlevy (včetně nulových EAG‑Föderkosten) platí do konce roku 2024; od roku 2025 mají opět naběhnout.([verbund.com](https://www.verbund.com/de/privat/services/stromkostenbremse%3Fsrsltid%3DAfmBOopRs6jWpw87dO7u0sawh5ccxm4R1N6ScXx4aQYGyJDlJBU69O__?utm_source=openai))  \n\n#### Návrat poplatků od roku 2025\n\n- Materiály dodavatelů a AK popisují, že od 1. 1. 2025 se Erneuerbaren‑Förderpauschale a ‑förderbeitrag znovu vybírá a pro domácnost s 3 500 kWh to znamená zhruba 100–150 EUR ročně navíc.([ooe.arbeiterkammer.at](https://ooe.arbeiterkammer.at/service/presse/Es-braucht-sozial-vertraegliche-Energiepreise-.html?utm_source=openai))  \n\n#### Závěr pro Rakousko\n\nRakousko v letech **2022–2024 prakticky vynulovalo „zelené“ poplatky na elektřině (Erneuerbaren‑Förderbeitrag a -pauschale)** a dočasně financovalo podporu OZE jinak. Od roku 2025 se poplatky vracejí, ale **fakt, že v době energetické krize byly na několik let odstraněny z účtů**, je srovnatelný krok s českým přesunem POZE na stát.\n\n---\n\n### 3.3 Polsko – opłata OZE v letech 2023 a 2024 na nule\n\nV Polsku je **opłata OZE** složkou na faktuře za elektřinu, která financuje systém podpory OZE.\n\n#### Vývoj výše opłaty OZE\n\n- Urząd Regulacji Energetyki (URE) na oficiální stránce s přehledem sazeb uvádí tabulku „Wysokości stawki opłaty OZE na dany rok“. Z ní vyplývá:  \n  - 2022: 0,90 zł/MWh,  \n  - **2023: 0,00 zł/MWh**,  \n  - **2024: 0,00 zł/MWh**,  \n  - 2025: 3,50 zł/MWh,  \n  - 2026: 7,30 zł/MWh.([ure.gov.pl](https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai))  \n- URE v tiskové zprávě „W 2024 r. na rachunkach za energię elektryczną nie zmieni się stawka opłaty OZE“ uvádí, že pro rok 2024 **zůstává sazba opłaty OZE na 0 zł/MWh a jde již o druhý rok v řadě**, kdy je na účtech nulová.([ure.gov.pl](https://www.ure.gov.pl/pl/urzad/informacje-ogolne/aktualnosci/11522%2CW-2024-r-na-rachunkach-za-energie-elektryczna-nie-zmieni-sie-stawka-oplaty-OZE.html?utm_source=openai))  \n\nSekundární zdroje (např. rp.pl, Gramwzielone.pl) toto potvrzují a doplňují, že **opłata OZE byla v letech 2018–2020 i 2023–2024 opakovaně vynulována** a na rok 2025–2026 se opět navyšuje.([energia.rp.pl](https://energia.rp.pl/oze/art41521671-wraca-oplata-oze-wiemy-ile-bedzie-nas-kosztowac?utm_source=openai))  \n\n#### Závěr pro Polsko\n\nPolsko v letech **2023 a 2024** stanovilo „zelený“ poplatek (opłata OZE) na **0 zł/MWh**, tedy de facto odběratelé nic neplatili, i když samotný mechanismus poplatku zůstal v zákoně. Od roku 2025 začal poplatek opět růst. Přesto platí, že **v době vrcholu energetické krize okolní Polsko také dočasně vynulovalo „zelený“ příplatek na účtech**.\n\n---\n\n### 3.4 Slovensko – snížení TPS a přesun části nákladů, zejména u velkoodběru\n\nNa Slovensku má obdobnou funkci **Tarifa za prevádzkovanie systému (TPS)**, která mimo jiné kryje náklady na podporu OZE a výkup elektřiny z vybraných zdrojů.\n\n- Elgas vysvětluje, že TPS je regulovaná složka ceny elektřiny, která slouží k „krytie nákladov spojených s prevádzkou a fungovaním elektrizačnej sústavy a s plnením povinných výkupov a podpôr podľa legislatívy“ – tedy zahrnuje i podpory OZE.([elgas.sk](https://www.elgas.sk/zmena-tps/?utm_source=openai))  \n\n#### Zastropování a snížení TPS od května 2023\n\n- Nariadenie vlády SR č. 139/2023, shrnuté např. na Podnikajte.sk i u dodavatele Elgas, stanovilo, že **od 1. 5. 2023 budou tarify za systémové služby, za prevádzkovanie systému (TPS) a za ztráty při distribuci sníženy / zastropovány na úroveň roku 2022**. Vládní zásah měl zmírnit prudké zvýšení těchto poplatků a náklady navíc mají být dorovnávány státem.([podnikajte.sk](https://www.podnikajte.sk/financny-manazment/zastropovanie-distribucnych-poplatkov-za-elektrinu-od-1-5-2023?utm_source=openai))  \n- Seznam Zprávy z českého pohledu uvádějí, že od května 2023 vláda Slovenska „snížila financování obnovitelných zdrojů z kapes spotřebitelů a nejvíce ulevila velkoodběratelům“, kdy domácnosti a malé firmy platí v rámci příspěvku na obnovitelné zdroje 15,9 EUR/MWh, velké podniky ale jen 1,187 EUR/MWh.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/ekonomika-firmy-v-nemecku-neplati-firmy-zelene-poplatky-vubec-ceske-se-jich-desi-237806))  \n\n#### Další snižování TPS v letech 2024–2026\n\n- Úřad pro regulaci sieťových odvetví (ÚRSO) uvádí, že v roce 2024 snížil tarify za prevádzkovanie systému (TPS) proti roku 2023 v průměru o téměř 39 % a podobně snížil tarify za systémové služby.([urso.gov.sk](https://www.urso.gov.sk/urso-objasnuje-cenotvorbu-elektriny-pre-priemyselnych-odberatelov/?utm_source=openai))  \n- Pro rok 2026 Elgas zmiňuje, že ÚRSO dále snižuje TPS o 4,5–15 % podle skupiny odběratelů.([elgas.sk](https://www.elgas.sk/zmena-tps/?utm_source=openai))  \n\n#### Závěr pro Slovensko\n\nNa rozdíl od Německa, Rakouska nebo Polska **Slovensko „zelený“ poplatek (TPS) z účtů úplně nezrušilo**, ale **výrazně ho snížilo a zastropovalo** a část nákladů převzala vláda (zejména pro velké odběratele). Ve srovnání s předchozím stavem jde o významnou úlevu, ale **nejde o úplné vynulování jako v Německu či na určitou dobu v Rakousku a Polsku**.\n\n---\n\n## 4. Celkové zhodnocení dílčího tvrzení B („tak učinili v okolních zemích“)\n\n### 4.1 Co přesně dělaly „okolní země“\n\nZ výše uvedeného shrnutí vyplývá:\n\n- **Německo**  \n  - EEG‑Umlage (zelený příplatek) byla od 1. 7. 2022 snížena na 0 ct/kWh a od 1. 1. 2023 **definitivně zrušena**.  \n  - Financování OZE přešlo na státní fondy / rozpočet.([bmwk.de](https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220428-bundestag-beschliesst-abschaffung-der-eeg-umlage.html?utm_source=openai))  \n\n- **Rakousko**  \n  - Ökostrom‑Abgabe (Erneuerbaren-Förderbeitrag a -pauschale) byla **pro rok 2022 vynulována**; poplatky za Ökostrom byly nastaveny na 0.([kurier.at](https://kurier.at/politik/inland/oekostrom-abgabe-wird-ausgesetzt/401878388?utm_source=openai))  \n  - Pozastavení bylo **prodlouženo i na rok 2023 a fakticky až do konce roku 2024**, teprve od roku 2025 se začaly tyto poplatky znovu vybírat.([energie-und-management.de](https://www.energie-und-management.de/nachrichten/recht/detail/oesterreich-auch-2023-keine-erneuerbaren-foerderpauschale-171058?utm_source=openai))  \n\n- **Polsko**  \n  - opłata OZE byla podle oficiální tabulky URE **v letech 2023 a 2024 na úrovni 0,00 zł/MWh**, takže odběratelé v těchto letech žádný zelený příplatek neplatili.([ure.gov.pl](https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai))  \n  - Od roku 2025 je opłata OZE znovu kladná a v roce 2026 dále roste.\n\n- **Slovensko**  \n  - Tarifa za prevádzkovanie systému (TPS), která kryje mj. podpory OZE, byla **v roce 2023 prudce zvýšena**, ale vláda následně **zastropovala a snížila TPS a související poplatky od května 2023 na úroveň roku 2022**, s kompenzací rozdílu ze státního rozpočtu.([podnikajte.sk](https://www.podnikajte.sk/financny-manazment/zastropovanie-distribucnych-poplatkov-za-elektrinu-od-1-5-2023?utm_source=openai))  \n  - Nešlo však o úplné vynulování poplatku, ale o výrazné snížení, zejména ve prospěch velkých odběratelů.\n\n### 4.2 Srovnání s českým krokem\n\n- Český krok od 1. 1. 2026 (přenesení POZE plně na stát a nastavení příspěvku na 0 Kč/MWh) je **zcela srovnatelný** s německým zrušením EEG‑Umlage nebo s rakouským, polským dočasným vynulováním „zelených“ poplatků.([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-leden-2026?utm_source=openai))  \n- V **okolních zemích** tedy skutečně proběhly kroky, kdy:\n  - Německo a Rakousko v krizi poplatky **vynulovaly / zrušily** (Německo trvale, Rakousko dočasně),  \n  - Polsko je **opakovaně nastavilo na 0 zł**,  \n  - Slovensko je **citelně snížilo a část břemene převzalo na stát**.\n\n### 4.3 Časové hledisko k datu výroku (1. března 2026)\n\nK datu výroku:\n\n- Německo stále **nemá žádný EEG‑Umlage na účtech** – financování OZE jde z fondu / rozpočtu.([bundesnetzagentur.de](https://www.bundesnetzagentur.de/899824?utm_source=openai))  \n- Rakousko už od roku 2025 opět **vybírá Erneuerbaren‑Förderkosten**, ale fakt, že v letech 2022–2024 byly na nule, zůstává.([gogreenenergy.at](https://www.gogreenenergy.at/energiekosten-unterstuetzungen.html?utm_source=openai))  \n- Polsko od roku 2025 opět **zvyšuje opłatu OZE**, ale v letech 2023–2024 byla nulová.([ure.gov.pl](https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai))  \n- Slovensko „zelený poplatek“ (TPS) **nevymazalo, ale dlouhodobě tlačí jeho výši dolů** a tyto zásahy částečně financuje stát.([urso.gov.sk](https://www.urso.gov.sk/urso-objasnuje-cenotvorbu-elektriny-pre-priemyselnych-odberatelov/?utm_source=openai))  \n\nHavlíčkův výrok je formulován v minulém čase („…proto, že tak učinili v okolních zemích“), tedy odkazuje k **předchozím krokům v době energetické krize**, nikoli k trvalému stavu v roce 2026. V tomto smyslu je správně, že **okolní země takové kroky skutečně učinily, byť někde jen dočasně a v různé míře**.\n\n---\n\n## 5. Shrnutí pro fakt‑checkera\n\n### Dílčí tvrzení A – „My jsme tu zelenou daň (POZE) utli“\n\n- Od 1. 1. 2026 je **příspěvek na podporované zdroje energie (POZE) pro odběratele elektřiny nastaven na 0 Kč/MWh** a celý náklad financuje stát. Potvrzují to:\n  - ČSÚ (zrušení poplatku POZE z účtů od ledna 2026, vazba na cenový výměr ERÚ č. 15/2025).([csu.gov.cz](https://csu.gov.cz/poznamka-ke-spotrebitelskym-cenam-energii-leden-2026?utm_source=openai))  \n  - Informace dodavatelů (ČEZ, E.ON, Měšec, SPP) i odborná média (EnergoZrouti, TZB‑info), která vysvětlují, že **poplatek POZE už není v regulované složce ceny a hradí ho stát**.([cez.cz](https://www.cez.cz/cs/poze?utm_source=openai))  \n\n→ Dílčí tvrzení A je fakticky dobře podložené: **spotřebitelé skutečně přestali „zelenou daň“ (POZE) na fakturách platit, náklad převzal rozpočet.**\n\n### Dílčí tvrzení B – „…nejenom proto, že tak učinili v okolních zemích“\n\n- **Německo**: EEG‑Umlage (ekvivalent POZE) zrušena z účtů (nejprve snížena na 0 ct/kWh od 1. 7. 2022, od 1. 1. 2023 definitivně zrušena; podporu OZE platí stát / fond).([bmwk.de](https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220428-bundestag-beschliesst-abschaffung-der-eeg-umlage.html?utm_source=openai))  \n- **Rakousko**: Erneuerbaren‑Förderbeitrag a -pauschale (Ökostrom‑Abgabe) byly **v letech 2022–2024 nastaveny na 0**, takže odběratelé v těchto letech „zelené“ poplatky neplatili; od roku 2025 poplatky opět běží.([kurier.at](https://kurier.at/politik/inland/oekostrom-abgabe-wird-ausgesetzt/401878388?utm_source=openai))  \n- **Polsko**: opłata OZE byla podle URE **v letech 2023–2024 nulová (0 zł/MWh)**, tedy poplatek na účtech fakticky zmizel; od 2025 se znovu uplatňuje (3,50 zł/MWh v 2025, 7,30 zł/MWh v 2026).([ure.gov.pl](https://www.ure.gov.pl/pl/oze/stawki-oplaty-oze/7857%2CWysokosci-stawki-oplaty-OZE-na-dany-rok-kalendarzowy.html?utm_source=openai))  \n- **Slovensko**: TPS (součást regulované složky ceny pokrývající i OZE) nebyla vynulována, ale vláda ji **zastropovala / snížila na úroveň 2022 a výrazně tlumila její růst**, přičemž rozdíl je kompenzován státem, zejména ve prospěch velkých odběratelů.([podnikajte.sk](https://www.podnikajte.sk/financny-manazment/zastropovanie-distribucnych-poplatkov-za-elektrinu-od-1-5-2023?utm_source=openai))  \n\n→ Dílčí tvrzení B je **v jádru podložené**: v několika okolních zemích (Německo, Rakousko, Polsko – a částečně Slovensko) skutečně proběhly v posledních letech kroky, kdy byly „zelené“ poplatky z účtů dočasně nebo trvale odstraněny a financování podpory OZE převzal stát či jiné fondy.\n\nJe však vhodné vnímat tvrzení jako **zjednodušující**:\n\n- Ne všechny sousední země zrušily poplatky trvale (Rakousko, Polsko je v roce 2025–2026 opět vybírají).  \n- Slovensko spíše **výrazně snížilo a dotuje zelené poplatky**, než že by je úplně „utnulo“.\n\nZ hlediska věcného obsahu ale platí, že **český krok zapadá do širšího trendu v okolních zemích, které v reakci na vysoké ceny energií obdobné „zelené“ poplatky z účtů odběratelů odstranily nebo dramaticky snížily.**",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 84232,
+      "input_tokens_details": {
+        "cached_tokens": 6144
+      },
+      "output_tokens": 18788,
+      "output_tokens_details": {
+        "reasoning_tokens": 11487
+      },
+      "total_tokens": 103020
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1772539763,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

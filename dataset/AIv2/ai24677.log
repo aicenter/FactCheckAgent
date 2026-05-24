@@ -1,0 +1,62 @@
+{
+  "claim_id": "24677",
+  "split": "v2",
+  "source_experiment": "v2_gpt-5.4_20260402_164100",
+  "source_md": "fact_check_v2/experiments/v2_gpt-5.4_20260402_164100/reports/report24677.md",
+  "step_logs": [
+    {
+      "file": "step1_interpret_log.json",
+      "content": {
+        "step": "step1_interpret",
+        "elapsed_seconds": 74.55734491348267,
+        "prompt_length": 1987,
+        "final_response": "Interpretaci jsem zapsal do [work/claim_interpretation.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_155801/id24677/work/claim_interpretation.md).\n\nSoubor obsahuje rozpad výroku na 3 netriviální sub-claimy, zvolenou charitativní interpretaci pro další ověřování, datum výroku `19. března 2026`, vymezení hledacího okna od `8. října 2021` a konkrétní plán dotazů a zdrojů pro krok 2."
+      }
+    },
+    {
+      "file": "step2_search_log.json",
+      "content": {
+        "step": "step2_search",
+        "elapsed_seconds": 241.39998531341553,
+        "prompt_length": 1693,
+        "final_response": "Surový sběr zdrojů jsem zapsal do [work/raw_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_155801/id24677/work/raw_sources.md).\n\nJsou tam primární i sekundární zdroje k focení u benzinek/totemů i k tomu, že opozice téma používala kvůli cenám paliv. Zároveň jsem poznamenal hlavní slabinu pro další krok: přímé důkazy na „focení“ jsou silné hlavně pro ANO, zatímco přímý protizdroj jsem v kvalitních materiálech nenašel."
+      }
+    },
+    {
+      "file": "step3_refine_log.json",
+      "content": {
+        "step": "step3_refine",
+        "elapsed_seconds": 135.56720852851868,
+        "prompt_length": 2274,
+        "final_response": "Refinovaný seznam jsem zapsal do [work/refined_sources.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_155801/id24677/work/refined_sources.md).\n\nVyřadil jsem oba zdroje z `demagog.cz` jako blokované, slabší sekundární články jsem nahradil nebo odsunul ve prospěch `psp.cz` a `ČT`, a na konci jsem doplnil souhrn pokrytí všech tří sub-claimů. Největší zbývající slabina je stejná jako předtím: opakovanost je doložená použitelně, ale konkrétní příklady se soustředí hlavně na ANO."
+      }
+    },
+    {
+      "file": "step4_draft_log.json",
+      "content": {
+        "step": "step4_draft",
+        "elapsed_seconds": 63.36423873901367,
+        "prompt_length": 1887,
+        "final_response": "Draft jsem zapsal do [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_155801/id24677/work/draft.md).\n\nText je ve formátu HTML, má perex pod limitem, pět krátkých odstavců a závěr s jediným výslovně uvedeným verdiktem `pravda`. Odkazy jsem nechal jen na klíčových slovech a opřel jsem se o zdroje, které zůstaly po refinaci."
+      }
+    },
+    {
+      "file": "step5_verify_log.json",
+      "content": {
+        "step": "step5_verify",
+        "elapsed_seconds": 83.39339470863342,
+        "prompt_length": 1226,
+        "final_response": "Ověření jsem zapsal do [work/verification.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_155801/id24677/work/verification.md).\n\nBěhem kontroly jsem v [work/draft.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_155801/id24677/work/draft.md) doplnil u stenozáznamů konkrétní části schůzí, aby splňovaly požadavek na citaci dlouhých dokumentů. Po té úpravě prošly všechny položky checklistu a výsledek je `PASS`."
+      }
+    },
+    {
+      "file": "step6_finalize_log.json",
+      "content": {
+        "step": "step6_finalize",
+        "elapsed_seconds": 21.08806276321411,
+        "prompt_length": 313,
+        "final_response": "Hotový výstup je v [output/report.md](/home/vilo/demagog/fact_check_v2/experiments/v2_gpt-5.4_20260402_155801/id24677/output/report.md)."
+      }
+    }
+  ]
+}

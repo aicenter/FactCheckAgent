@@ -1,0 +1,590 @@
+{
+  "claim_id": "24463",
+  "split": "v1",
+  "source_experiment": "gpt-5.1h_20251208_131217",
+  "source_md": "experiments/gpt-5.1h_20251208_131217/brief_fact_check_id24463.md",
+  "fact_check": "# Fact Check for Statement ID 24463\n\n## Statement\nJsme třetí nejrychleji rostoucí ekonomika v Evropské unii.\n\n---\n## OpenAI Deep Research Fact Check\n### 1. Shrnutí tvrzení a kontextu\n\nV rozhovoru 28. 11. 2025 Martin Kupka říká, že ČSÚ ten den zveřejnil údaje o růstu HDP a dodává:\n\n> „…ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí. **Co to znamená, že jsme třetí nejrychleji rostoucí ekonomika v Evropské unii?**“\n\nTvrzení tedy zjevně odkazuje na **meziroční růst reálného HDP ve 3. čtvrtletí 2025** a z něj odvozené **pořadí v rámci EU**.\n\n---\n\n### 2. Možné interpretace tvrzení\n\n1. **Hlavní (nejpravděpodobnější) interpretace – meziroční růst ve 3Q 2025:**\n\n   „Ve 3. čtvrtletí 2025 jsme podle meziročního růstu HDP třetí nejrychleji rostoucí ekonomikou EU.“\n\n2. **Alternativní interpretace A – mezikvartální růst ve 3Q 2025:**\n\n   „Ve 3. čtvrtletí 2025 jsme podle mezikvartálního (q‑o‑q) růstu třetí nejrychleji rostoucí ekonomikou EU.“\n\n3. **Alternativní interpretace B – odkaz na starší/předběžná data:**\n\n   „Podle prvního (neúplného) rychlého odhadu Eurostatu pro 3Q 2025 (resp. dřívějších čtvrtletí) jsme třetí nejrychleji rostoucí ekonomi­kou v EU“, ale bez zmínky, že jde o **neúplný soubor zemí**.\n\nNíže jsou pro každou interpretaci uvedena data a pořadí.\n\n---\n\n## 3. Jak rychle rostla česká ekonomika ve 3Q 2025?\n\n### 3.1 Údaje Českého statistického úřadu (28. 11. 2025)\n\nČSÚ ve zprávě „GDP Resources and Uses – 3. quarter of 2025“ zveřejněné 28. 11. 2025 uvádí:\n\n- „…hrubý domácí produkt se ve 3. čtvrtletí 2025 **zvýšil o 0,8 % mezičtvrtletně a o 2,8 % meziročně** (v reálných, sezónně očištěných hodnotách).“ ([csu.gov.cz](https://csu.gov.cz/rychle-informace/gdp-resources-and-uses-3-quarter-of-2025?utm_source=openai))  \n\nTo potvrzuje **meziroční růst 2,8 %** (Q3 2025 vs Q3 2024) a **mezikvartální růst 0,8 %** (Q3 2025 vs Q2 2025) pro Českou republiku.\n\n### 3.2 Údaje Eurostatu pro ČR\n\nEurostat ve flash odhadu (14. 11. 2025) uvádí pro Česko tyto růstové míry reálného HDP (sezónně a kalendářně očištěno): ([ec.europa.eu](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-14112025-ap))  \n\n- Mezikvartálně (2025Q3 vs 2025Q2): **+0,7 %**  \n- Meziročně (2025Q3 vs 2024Q3): **+2,7 %**\n\nRozdíl 0,1 p. b. oproti ČSÚ je dán metodikou/zaokrouhlením, ale **řádově jde o týž výsledek**.\n\n---\n\n## 4. Postavení ČR v EU podle meziročního růstu HDP ve 3Q 2025  \n*(hlavní interpretace tvrzení)*\n\n### 4.1 Eurostat + souhrnná tabulka HCSO (19. 11. 2025)\n\nMaďarský statistický úřad (HCSO) publikoval 19. 11. 2025 srovnání růstu HDP v zemích EU za 3Q 2025, založené na datech Eurostatu (t+45 flash estimate z 14. 11. 2025). ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n\nV tabulce „Change in volume of gross domestic product in EU member states, Q3 2025“ jsou pro jednotlivé země uvedeny:\n\n- **Mezikvartální změna (%)**\n- **Meziroční změna (%)**\n\nPro meziroční růst (2025Q3 vs 2024Q3) jsou uvedeny (vybrané země):\n\n- **Ireland**: +12,3 %  \n- **Poland**: +3,7 %  \n- **Cyprus**: +3,6 %  \n- **Bulgaria**: +3,2 %  \n- **Spain**: +2,8 %  \n- **Czechia**: +2,7 %  \n- **Portugal**: +2,4 %  \n- **Sweden**: +2,4 %  \n- **Lithuania**: +1,9 %  \n- **Netherlands**: +1,6 %  \n- **Slovenia**: +1,6 %  \n- (další země mají ještě nižší tempo, část zemí v tabulce ještě chybí) ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n\nEurostat v téže tabulce potvrzuje pro Česko meziroční růst **2,7 %** v 3Q 2025. ([ec.europa.eu](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-14112025-ap))  \n\nZ těchto dat plyne:\n\n- **nejrychlejší růst**: Irsko (12,3 %) – extrémně ovlivněno aktivitami nadnárodních firem, jak upozorňuje HCSO ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n- další pořadí (meziroční růst, EU27 – tam, kde jsou data k dispozici k 14. 11. 2025):\n\n| Pořadí | Země        | Meziroční růst HDP Q3 2025 |\n|--------|------------|----------------------------|\n| 1.     | Irsko      | 12,3 % |\n| 2.     | Polsko     | 3,7 % |\n| 3.     | Kypr       | 3,6 % |\n| 4.     | Bulharsko  | 3,2 % |\n| 5.     | Španělsko  | 2,8 % |\n| **6.** | **Česko**  | **2,7 %** |\n| 7.–8.  | Portugalsko, Švédsko | 2,4 % |\n| …      | …          | nižší hodnoty, část zemí bez dat |\n\n=> **Česká republika je podle těchto údajů (Eurostat t+45, stav k 14. 11. 2025) „až“ šestou nejrychleji rostoucí ekonomikou EU, sdílí 6. místo se Španělskem (Španělsko je ale objektivně výše, 2,8 vs 2,7 %).**\n\n### 4.2 Sekundární zdroj přímo k pořadí (28. 11. 2025)\n\nV den Kupkova výroku (28. 11. 2025) komentuje nová data ČSÚ ekonom Petr Dufek na Investujeme.cz:\n\n> „…Česká ekonomika si v tomto období polepšila o 0,8 % mezikvartálně a s meziročním růstem 2,8 % se **stala spolu se Španělskem šestou nejrychleji rostoucí ekonomikou EU. Dlužno dodat, že ne všechny země už svá čísla prezentovaly.**“ ([investujeme.cz](https://www.investujeme.cz/kratke-zpravy/cr-zatim-sesta-nejrychleji-rostouci-ekonomika-eu/?utm_campaign=cerstvezpravy&utm_medium=partner&utm_source=cerstvezpravy.cz))  \n\nTento komentář:\n- vychází z téhož meziročního růstu, který zmiňuje Kupka (2,8 %),\n- **explicitně uvádí, že jde o 6. místo v EU (spolu se Španělskem)**,\n- a současně upozorňuje, že data některých zemí EU stále chybí – což znamená, že **pořadí se může ještě dále zhoršit, ale těžko zlepšit na „třetí místo“**, protože už v tuto chvíli je nad Českem **minimálně pět zemí** (Irsko, Polsko, Kypr, Bulharsko, Španělsko).\n\n### 4.3 Další kontextové zdroje\n\n- Portu magazín (3. 11. 2025) shrnuje předběžný odhad ČSÚ (meziroční +2,7 %, mezikvartální +0,7 %) a konstatuje, že „v porovnání s Evropskou unií patří Česká republika mezi nejrychleji rostoucí ekonomiky“, přičemž **eurozóna rostla meziročně o 1,3 % a EU o 1,5 %**. ([magazin.portu.cz](https://magazin.portu.cz/tyden-v-ceske-ekonomice-rust-ekonomiky-cr-nejrychlejsi-v-evrope-a-dalsi-novinky-z-ceske-ekonomiky/))  \n  – ČR je tedy **„mezi nejrychlejšími“**, ale **neříká se, že je třetí**.\n\n- Zpravodajství ČTK / ČeskéNoviny.cz (30. 10. 2025) po zveřejnění předběžného odhadu ČSÚ (meziroční +2,7 %, mezikvartální +0,7 %) uvádí, že se česká ekonomika „řadí mezi nejrychleji rostoucí v Evropě“, ale **bez uvedení konkrétního pořadí**. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/ekonomika-cr-ve-3-ctvrtleti-mezirocne-stoupla-podle-odhadu-csu-o-27/2740736?utm_source=openai))  \n\n**Závěr k hlavní interpretaci (meziroční růst 3Q 2025):**\n\n- Podle ČSÚ meziročně HDP ČR ve 3Q 2025 vzrostl o 2,8 %. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/gdp-resources-and-uses-3-quarter-of-2025))  \n- Podle dat Eurostatu z 14. 11. 2025 (a jejich přehledu u HCSO z 19. 11. 2025) je ale **nejméně pět členských zemí EU, které v tomtéž čtvrtletí rostly rychleji než ČR** (Polsko, Kypr, Bulharsko, Španělsko, Irsko). ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n- V důsledku toho **Česko není 3., ale cca 6. nejrychleji rostoucí ekonomikou EU** podle meziročního růstu HDP ve 3Q 2025 (a i toto pořadí je ještě vztaženo jen k zemím, které do 14. 11. nahlásily data).\n\n➡ **Tvrzení „Jsme třetí nejrychleji rostoucí ekonomika v EU“ je při tomto přirozeném a Kupkou naznačeném výkladu (meziroční růst HDP ve 3Q 2025) v rozporu s dostupnými daty Eurostatu – pořadí je horší, přibližně 6. místo.**\n\n---\n\n## 5. Postavení ČR podle mezikvartálního růstu HDP ve 3Q 2025  \n*(alternativní interpretace A)*\n\n### 5.1 Flash odhad Eurostatu t+45 (14. 11. 2025)\n\nPodle Eurostatu (tabulka „Growth rates of GDP in volume“) mají ve 3Q 2025 (q‑o‑q) tyto země vyšší či srovnatelný mezikvartální růst než ČR: ([ec.europa.eu](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-14112025-ap))  \n\n- **Švédsko**: +1,1 %  \n- **Kypr**: +0,9 %  \n- **Polsko**: +0,8 %  \n- **Portugalsko**: +0,8 %  \n- **Slovinsko**: +0,8 %  \n- **Bulharsko**: +0,7 %  \n- **Česko**: +0,7 %  \n- (Španělsko +0,6 %, Francie +0,5 %, další země méně)\n\nTo znamená, že **v mezikvartálním srovnání je ČR až někde kolem 6.–7. místa (sdílí hodnotu 0,7 % s Bulharskem), nikoli třetí.**\n\n### 5.2 Předběžný flash odhad t+30 (30. 10. 2025)\n\nStarší, ještě neúplný flash odhad Eurostatu t+30 (30. 10. 2025) uváděl:\n\n> „Among the Member States for which data are available for the third quarter of 2025, **Sweden (+1.1%) recorded the highest increase compared to the previous quarter, followed by Portugal (+0.8%) and Czechia (+0.7%).**“ ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap))  \n\n- Tento text skutečně řadí ČR **na 3. místo v EU podle mezikvartálního růstu**, ale:\n  - jde o **předběžná data z 30. 10. 2025**,\n  - jsou založena jen na **částečném souboru 19 členských zemí** (podle poznámky k release; ostatní země tehdy ještě data nedodaly). ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap))  \n\nPo doplnění dalších zemí do t+45 release (14. 11. 2025) už Česko **ve stejném mezikvartálním srovnání 3. není** – viz výše.\n\n**Závěr k mezikvartálnímu růstu:**\n\n- K **30. 10. 2025** (na základě velmi neúplného souboru zemí) bylo tvrzení „Česko je 3. nejrychleji rostoucí ekonomika EU (mezikvartálně)“ v souladu s textem Eurostatu. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap))  \n- **K datu výroku (28. 11. 2025)** už ale existoval novější, úplnější flash odhad (t+45) a srovnávací tabulka HCSO, z nichž vyplývá, že **ČR měla mezikvartálně stejné či nižší tempo růstu než minimálně pět zemí** (Švédsko, Kypr, Polsko, Portugalsko, Slovinsko, navíc Bulharsko se stejnou hodnotou). ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n\n➡ I v mezikvartálním pojetí **už v době výroku nelze tvrdit, že ČR je třetí nejrychleji rostoucí ekonomikou EU**, pokud se opíráme o nejaktuálnější dostupná data.\n\n---\n\n## 6. Starší komentáře k jiným čtvrtletím – možné zdroje záměny  \n*(alternativní interpretace B)*\n\nExistují starší texty, které mohly přispět k dojmu „třetí nejrychlejší ekonomika“, ale **vztahují se k jinému období a/nebo k neúplným datům**:\n\n1. **2Q 2025 – článek Lenky Zlámalové / Info.cz / e15 (30. 7. 2025)**  \n   Komentář k výsledkům za jiné čtvrtletí uvádí:\n\n   > „Česká ekonomika s meziročním vzestupem o 2,4 % je **třetí nejrychleji rostoucí** z celé Evropské unie (chybí ale data u některých států, např. Polsko a Slovensko, pozn. red).“ ([e15.cz](https://www.e15.cz/nazory-a-analyzy/navzdory-trumpovu-chaosu-se-amerika-vratila-k-rustu-bohatne-dvakrat-rychleji-nez-evropa-1426385))  \n\n   – už zde je výslovně upozorněno, že **Polsko, Slovensko aj. chybí**, takže „třetí místo“ platí jen v rámci omezeného souboru zemí.\n\n2. **3Q 2025 – různé komentáře**  \n   Jak už bylo zmíněno:\n   - Portu.cz (3. 11. 2025) a ČeskéNoviny.cz (30. 10. 2025) mluví o tom, že ČR **patří mezi nejrychleji rostoucí ekonomiky v Evropě**,  \n   - Investujeme.cz (28. 11. 2025) explicitně uvádí **„šestou nejrychleji rostoucí“**. ([magazin.portu.cz](https://magazin.portu.cz/tyden-v-ceske-ekonomice-rust-ekonomiky-cr-nejrychlejsi-v-evrope-a-dalsi-novinky-z-ceske-ekonomiky/))  \n\nJe tedy možné, že:\n\n- Kupka si **zaměnil starší mediální interpretace („třetí nejrychlejší“ z jiného čtvrtletí / neúplných dat)** s aktuální situací po zveřejnění revidovaných dat,\n- a současně smíchal **meziroční údaj ČSÚ (2,8 %)** s **pořadím, které kdysi vycházelo z mezikvartálního flash odhadu Eurostatu na menším vzorku zemí (t+30)**.\n\nTo ovšem nic nemění na tom, že **v okamžiku výroku už tvrzení neodpovídalo aktuálně dostupným celoevropským datům.**\n\n---\n\n## 7. Celkové zhodnocení tvrzení\n\n**Hlavní faktická otázka:**  \nJe pravda, že ve 3. čtvrtletí 2025 byla Česká republika „třetí nejrychleji rostoucí ekonomikou v Evropské unii“?\n\n- Podle **aktuálních údajů ČSÚ**: meziroční růst HDP ČR v 3Q 2025 činil 2,8 %. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/gdp-resources-and-uses-3-quarter-of-2025))  \n- Podle **Eurostatu (t+45, 14. 11. 2025) a přehledu HCSO (19. 11. 2025)** mělo **minimálně pět zemí EU vyšší meziroční růst** (Polsko, Kypr, Bulharsko, Španělsko, Irsko), takže Česko je v tomto srovnání **cca šesté**, nikoli třetí. ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n- Podle téhož zdroje je ČR v mezikvartálním růstu také **až kolem 6.–7. místa**, i když starší, neúplný flash (30. 10. 2025) ji v rámci menšího počtu zemí řadil na 3. místo. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap))  \n\n**Shrnutí:**\n\n- **Jádro výroku („třetí nejrychleji rostoucí ekonomika EU“) neodpovídá stavu dostupných celoevropských statistik v době, kdy bylo tvrzení proneseno.**\n- Nejbližší relevantní číslo je, že **Česko bylo dle týchž dat kolem 6. místa v EU** (spolu se Španělskem), což výslovně potvrzuje i odborný komentář z téhož dne. ([investujeme.cz](https://www.investujeme.cz/kratke-zpravy/cr-zatim-sesta-nejrychleji-rostouci-ekonomika-eu/?utm_campaign=cerstvezpravy&utm_medium=partner&utm_source=cerstvezpravy.cz))  \n- Tvrzení lze vysvětlit jako **založené na dřívějších, neúplných flash odhadech**, případně na starších článcích za jiná čtvrtletí, ale v **aktuálním kontextu 28. 11. 2025 je fakticky nepřesné a zavádějící.**\n---\n## Prompt\n[\n  {\n    \"role\": \"developer\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Kuloáry Napřímo released on 2025-11-28 available from https://tn.nova.cz/zpravodajstvi/clanek/635047-musime-se-srdcari-pracovat-na-promene-reaguje-kupka-na-odchod-kuby-z-ods.\\n\\n\\nThe claim was made by: Martin Kupka, Ministr dopravy\\n\\n\\nThe claim appears in the following immediate context in the source:\\nCo přinesla včerejší první mimořádná schůze Poslanecké sněmovny? Poškodí ODS odchod Martina Kuby? A co se řeší v kuloárech? Zeptáme se ministra dopravy v demisi Martina Kupky, také kandidáta na předsedu ODS. Dobrý den. Dobrý den. Proč jste? Včera jsem vás nepotkala? A v kuloárech, nepotkala jsem vás v kuloárech, v předsálí v Poslanecké sněmovny během té mimořádné schůze.\\nByl jsem v sále a my jsme měli tiskovou konferenci i před tou samotnou schůzí, abychom vysvětlili, proč je důležité, aby premiér České republiky nebyl ve střetu zájmů. Ono se to zdá jako abstraktní téma, přitom je to vlastně úplně konkrétní, když by si to člověk představil, kdyby například starosta malé obce nastavoval dotaci té obce a na konci zároveň jeho firmy tu dotaci čerpaly, zneužívaly. Tak ho ti občani vynesou v zubech.\\nA většinu toho jednání. Pardon, že vám do toho skáču. Většinu toho jednání tam seděl pan Výborný, že vlastně i poslanci té většiny se pozastavovali nad tím, tak oni svolají schůzi a potom tady ani nesedí, aby si tu poslechli.\\nJá jsem sledoval chvíli i projev Andreje Babiše, který bohužel byl plný odsudků hodnocení všech těch předchozích let, budování svobodného demokratického státu, kde samozřejmě byly etapy lepší a etapy horší, ale to, že dneska patříme mezi nejvyspělejší evropské země, to nikdo nemůže zpochybnit. A mě vlastně vždycky zlobí, když nikdo z té nastupující vlády, z někdejší opozice nenechá na té zemi nit suchou, že vypadá jako spálená země, no to vůbec neodpovídá realitě. Dneska zveřejnil Český statistický úřad nezávislá instituce data o tom, jak roste ekonomika a ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí. Co to znamená, že jsme třetí nejrychleji rostoucí ekonomika v Evropské unii? To vůbec neodpovídá obrazu spálené země a v tomhleu naopak má zaznít. A je to samozřejmě zásluha podnikatelů. Je to zásluha lidí, kteří v České republice pracují a samozřejmě také hospodářské politiky, kterou se dařilo realizovat v těch předchozích letech. A výsledkem je to, že do toho dalšího období startujeme s dobrými ukazateli. Rostou reálné mzdy.\\nZároveň se podařilo v tomto směru opravdu snížit, stabilizovat inflaci nikde na hodnotě 2,5 %, a to jsou hodnoty, které opravdu znamenají pozitivní zprávu pro každého občana České republiky.\\nSe zeptám znovu, proč jste tam neseděli ve chvíli, kdy svoláváte tu schůzi? Vybavila jsem si několik schůzí, vlastně, jako kdy vy jste potom pranýřovali Andreje Babiše, že tam vlastně u toho není a proč jste vlastně vy, když už to svoláváte? Proč potom tam máte jednoho zástupce, bez jehož přítomnosti by ta schůze vlastně tam potom nemohl.\\n\\nProvide a structured, citation-backed verification of the claim: 'Jsme třetí nejrychleji rostoucí ekonomika v Evropské unii.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 342.37 seconds\n## Agent work log\n```\nREASONING: \nWEB SEARCH: \"2,8 %\" \"růst HDP\" \"třetí čtvrtletí\" \"Český statistický úrad\" 2025\nREASONING: \nWEB SEARCH: \"third fastest growing economy in the EU\" \"Czech\" \"Q3 2025\"\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nWEB SEARCH: \"Česko\" \"třetí nejrychleji rostoucí ekonomika\" EU HDP\nREASONING: \nWEB SEARCH: \"Česko\" \"třetí nejrychleji rostoucí ekonomika\" \"Evropské unii\"\nREASONING: \nOPEN PAGE: None\nREASONING: \nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nWEB SEARCH: \"Czechia\" \"third fastest\" \"EU\" GDP 2024\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nOPEN PAGE: None\nREASONING: \nUNKNOWN ACTION: message\n```\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Tvrzení, že je Česko ve 3. čtvrtletí 2025 třetí nejrychleji rostoucí ekonomikou EU, vychází z růstu HDP o 2,8&nbsp;% podle <a href=\"https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025\">ČSÚ</a>, ale mezinárodní srovnání ukazují zhruba šesté místo. Výrok proto hodnotíme jako nepravdivý.</p>\n\n<p>Tvrzení zaznělo v souvislosti s nově zveřejněnými výsledky české ekonomiky za 3. čtvrtletí 2025. Politik při tom zmiňuje meziroční růst HDP o 2,8&nbsp;% a z tohoto čísla vyvozuje závěr, že Česká republika je třetí nejrychleji rostoucí ekonomikou v Evropské unii. My ověřujeme jednak samotnou hodnotu růstu, jednak z ní odvozené pořadí v rámci EU.</p>\n\n<p>Nejprve k samotnému růstu HDP. Zpřesněný odhad Českého statistického úřadu uvádí, že ve 3. čtvrtletí 2025 hrubý domácí produkt po očištění o cenové vlivy meziročně vzrostl o 2,8&nbsp;% a mezičtvrtletně o 0,8&nbsp;%. V tiskové zprávě ČSÚ je doslova napsáno, že HDP ve 3. čtvrtletí 2025 <i>„meziročně vzrostl o&nbsp;2,8&nbsp;%“</i> a že jde o zpřesněný odhad zveřejněný 28.&nbsp;listopadu 2025.</p>\n\n<p>Tyto údaje jsou dostupné v materiálu <a href=\"https://csu.gov.cz/rychle-informace/tvorba-a-uziti-hdp-3-ctvrtleti-2025\">„Tvorba a užití HDP – 3. čtvrtletí 2025“</a>, kde ČSÚ popisuje, že růst podpořila především spotřeba domácností a tvorba kapitálu a potvrzuje meziroční přírůstek 2,8&nbsp;%. Hodnota růstu HDP, kterou politik cituje, tedy odpovídá oficiálním údajům české statistiky a tuto dílčí část tvrzení hodnotíme jako fakticky správnou.</p>\n\n<p>Klíčová je ale druhá část výroku, podle níž má tento výsledek znamenat, že Česko je třetí nejrychleji rostoucí ekonomi­kou v EU. Zde je nutné rozlišit, o jaký typ srovnání jde. Evropský statistický úřad Eurostat ve svém předběžném odhadu pro 3. čtvrtletí 2025 uvádí, že v celé EU vzrostl HDP mezičtvrtletně o 0,3&nbsp;% a meziročně o 1,5&nbsp;%. Zároveň píše, že mezi státy, pro které měl k dispozici rychlá data, dosáhly ve srovnání s předchozím čtvrtletím nejvyššího růstu Švédsko (+1,1&nbsp;%), Portugalsko (+0,8&nbsp;%) a Česká republika (+0,7&nbsp;%). V anglickém originále stojí, že <i>„Sweden (+1.1%) recorded the highest increase compared to the previous quarter, followed by Portugal (+0.8%) and Czechia (+0.7%)“</i>.</p>\n\n<p>Toto srovnání, zveřejněné v předběžném odhadu Eurostatu pro 3. čtvrtletí 2025, je dostupné v tiskové zprávě <a href=\"https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap\">„GDP up by 0.2% in the euro area and by 0.3% in the EU“</a>. Tabulka v této zprávě ukazuje, že údaj 0,7&nbsp;% pro Česko se týká <strong>mezičtvrtletního</strong> růstu, nikoli meziročního, a že Eurostat v tomto předběžném odhadu pracoval jen s daty z 19 členských států, které v té době statistiku poskytly. Česká republika je tedy podle tohoto konkrétního, časově omezeného srovnání třetí nejrychleji rostoucí ekonomikou <strong>mezi těmito 19 zeměmi</strong> a jen při pohledu na růst proti předchozímu čtvrtletí, nikoliv při meziročním srovnání.</p>\n\n<p>Pro výrok, který výslovně odkazuje na meziroční růst 2,8&nbsp;%, je ale podstatné, jak si Česko stojí právě v meziročním srovnání vůči <strong>celé</strong> Evropské unii. Čerstvější analýza hlavního ekonoma Banky Creditas, zveřejněná 28.&nbsp;listopadu 2025 na serveru <a href=\"https://www.investujeme.cz/kratke-zpravy/cr-zatim-sesta-nejrychleji-rostouci-ekonomika-eu/\">Investujeme.cz</a>, pracuje s téměř stejnými čísly jako ČSÚ (mezičtvrtletní růst 0,8&nbsp;% a meziroční 2,8&nbsp;%), ale po porovnání s ostatními státy EU dospívá k jinému závěru. Autor zde uvádí, že Česko se díky těmto výsledkům <i>„s meziročním růstem 2,8&nbsp;% stalo spolu se Španělskem šestou nejrychleji rostoucí ekonomikou EU. Dlužno dodat, že ne všechny země už svá čísla prezentovaly.“</i> Analýza tedy staví Česko přibližně na šesté místo, nikoliv na třetí, a výslovně upozorňuje, že některé země v době zveřejnění ještě chyběly.</p>\n\n<p>Že existují členské státy s rychlejším růstem než Česko, potvrzují i jednotlivé národní statistiky a pozdější souhrny. Například statistický úřad Kypru ve své zprávě o <a href=\"https://www.gov.cy/en/economy-and-finance/gdp-growth-rate-3rd-quarter-2025-flash-estimate\">růstu HDP ve 3. čtvrtletí 2025</a> uvádí, že tamní ekonomika vzrostla v reálném vyjádření meziročně o 3,6&nbsp;%, tedy znatelně rychleji než českých 2,8&nbsp;%. Aktualizovaná tisková zpráva kyperského úřadu <a href=\"https://www.gov.cy/en/economy-and-finance/quarterly-national-accounts-3rd-quarter-2025\">k čtvrtletním národním účtům</a> pak stejný údaj 3,6&nbsp;% potvrzuje i v detailnějším rozboru. Z předběžných tabulek Eurostatu dále vyplývá, že mimořádně vysoký meziroční růst zaznamenalo Irsko, kde se HDP ve 3. čtvrtletí 2025 meziročně zvýšil zhruba o dvojciferné hodnoty v důsledku aktivit nadnárodních firem, což český růst rovněž zřetelně převyšuje.</p>\n\n<p>V souhrnu tedy platí, že:</p>\n\n<p>– Česko mělo podle ČSÚ ve 3. čtvrtletí 2025 meziroční růst HDP 2,8&nbsp;% a patřilo k rychleji rostoucím ekonomikám EU. Tento dílčí údaj je správný.</p>\n\n<p>– Předběžný odhad Eurostatu z 30.&nbsp;října 2025 řadí Českou republiku na třetí místo, ale pouze při pohledu na mezičtvrtletní růst a jen mezi 19 státy, které tehdy dodaly data. Nejde tedy o plnohodnotné žebříček všech 27 zemí EU ani o žebříček podle meziročního růstu.</p>\n\n<p>– Při meziročním srovnání, k němuž se politik sám odvolává, vyplývá z dostupných mezinárodních srovnání, že česká ekonomika byla zhruba šestou nejrychleji rostoucí ekonomikou Evropské unie, jak shrnuje například analýza na serveru <a href=\"https://www.investujeme.cz/kratke-zpravy/cr-zatim-sesta-nejrychleji-rostouci-ekonomika-eu/\">Investujeme.cz</a>, a zároveň existují členské státy (například Kypr či Irsko), které rostly rychleji než Česko.</p>\n\n<p>Politik tedy používá správnou hodnotu růstu HDP, ale její důsledek pro postavení Česka v rámci EU nadsazuje a opírá se zřejmě o starší, neúplná a navíc jinak definovaná data (mezičtvrtletní srovnání omezeného počtu států), než jaká sám zmiňuje (meziroční růst celého HDP). Vztaženo k meziročnímu růstu a celé Evropské unii neplatí, že je Česko třetí nejrychleji rostoucí ekonomikou.</p>\n\n<p>Celkově proto výrok „Jsme třetí nejrychleji rostoucí ekonomika v Evropské unii“ hodnotíme jako <strong>nepravda</strong>.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0f3a50df6ade326d006936c1ca1004819daf545ac7723bc7f7",
+    "created_at": 1765196234.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0f3a50df6ade326d006936c1d16440819db265bc33373d133c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c1e03238819db09e4223aad082de",
+        "action": {
+          "query": "\"2,8 %\" \"růst HDP\" \"třetí čtvrtletí\" \"Český statistický úrad\" 2025",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c1e463ec819da65b8688646c38c8",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c1e4f6d8819dbf0255f0d28b6274",
+        "action": {
+          "query": "\"third fastest growing economy in the EU\" \"Czech\" \"Q3 2025\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c1e8b550819db565f1bd00d4cada",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c1edc45c819db2c0a7c235e20441",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c1eeb8f0819da2db9272439f260d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c1f3e550819d9095353f68556b97",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c1f62eec819dbc1c4d56a25b92a1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c1f6abd8819db5a7f5acc2f71cb6",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c1f97f40819d9c2a095f860c2f14",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c1f99ce8819d8e0e0083bf454213",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c1fa8450819d99cf1d05f5536c33",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c2190e60819db0ac01a66b2826d7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c219fec0819d84bdfcd55686aea7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c2260ddc819db8af1cc4fe0eae35",
+        "action": {
+          "query": "\"Česko\" \"třetí nejrychleji rostoucí ekonomika\" EU HDP",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c2293dec819d98f49382d1b82e88",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c2298968819d99dcb40c9d3781f1",
+        "action": {
+          "query": "\"Česko\" \"třetí nejrychleji rostoucí ekonomika\" \"Evropské unii\"",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c22d37cc819db9bbe4c58af8665e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c23132cc819da9e865f794d70122",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c2329278819d8bccdfa0d4b815e3",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c2333d6c819db003b300e165ed7c",
+        "action": {
+          "query": null,
+          "type": "find_in_page",
+          "sources": null,
+          "pattern": "Česko mezi třemi nejrychlejšími"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c2354df0819d8c9974cade4f35ec",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c24368b0819db8bea988ee54106d",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c2460bcc819dbca6e59da1c994ed",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c25550f0819d915bbc8424c6f0fd",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c2576d5c819da1ce758ba8609be0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c266ae54819d8590b9ff98ffc8a1",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c2690174819d9bec5dc81ac6ff37",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c28dec8c819db9b6e61d4e274223",
+        "action": {
+          "query": "\"Czechia\" \"third fastest\" \"EU\" GDP 2024",
+          "type": "search",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c2910538819d903e4e3e1fcd0728",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c2922e18819db55886e896aa4268",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c293a89c819d879e921b9d9ce38b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c2944bfc819dbc6f978f1c7be423",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c2982bd8819d92f3a5a99add8951",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c299186c819dbef01ba944b3ff65",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c2a1871c819d8fd81a0c4a3f726d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0f3a50df6ade326d006936c2bf8b6c819daed2d6a379ad96a7",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0f3a50df6ade326d006936c2c166e8819d94a171af33092c24",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0f3a50df6ade326d006936c2cf9030819dbe82230e30d2cca5",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1620,
+                "start_index": 1510,
+                "title": "GDP Resources and Uses - 3. quarter of 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/gdp-resources-and-uses-3-quarter-of-2025?utm_source=openai"
+              },
+              {
+                "end_index": 2005,
+                "start_index": 1910,
+                "title": "GDP up by 0.2% and employment up by 0.1% in the euro area - Euro indicators - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-14112025-ap"
+              },
+              {
+                "end_index": 2689,
+                "start_index": 2525,
+                "title": "Comparison of changes in volume of GDP in EU member states, Q3 2025 (expanded first estimate) – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/"
+              },
+              {
+                "end_index": 3441,
+                "start_index": 3277,
+                "title": "Comparison of changes in volume of GDP in EU member states, Q3 2025 (expanded first estimate) – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/"
+              },
+              {
+                "end_index": 3620,
+                "start_index": 3525,
+                "title": "GDP up by 0.2% and employment up by 0.1% in the euro area - Euro indicators - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-14112025-ap"
+              },
+              {
+                "end_index": 3921,
+                "start_index": 3757,
+                "title": "Comparison of changes in volume of GDP in EU member states, Q3 2025 (expanded first estimate) – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/"
+              },
+              {
+                "end_index": 5201,
+                "start_index": 5017,
+                "title": "ČR – zatím šestá nejrychleji rostoucí ekonomika EU - Investujeme.cz - odborný server společnosti Swiss Life Select a.s.",
+                "type": "url_citation",
+                "url": "https://www.investujeme.cz/kratke-zpravy/cr-zatim-sesta-nejrychleji-rostouci-ekonomika-eu/?utm_campaign=cerstvezpravy&utm_medium=partner&utm_source=cerstvezpravy.cz"
+              },
+              {
+                "end_index": 6065,
+                "start_index": 5920,
+                "title": "\n                    Týden v České ekonomice: Růst ekonomiky ČR patří k nejrychlejším v Evropě a další novinky - Portu magazín\n            ",
+                "type": "url_citation",
+                "url": "https://magazin.portu.cz/tyden-v-ceske-ekonomice-rust-ekonomiky-cr-nejrychlejsi-v-evrope-a-dalsi-novinky-z-ceske-ekonomiky/"
+              },
+              {
+                "end_index": 6532,
+                "start_index": 6385,
+                "title": "Ekonomika ČR ve 3. čtvrtletí meziročně stoupla podle odhadu ČSÚ o 2,7% | ČeskéNoviny.cz",
+                "type": "url_citation",
+                "url": "https://www.ceskenoviny.cz/zpravy/ekonomika-cr-ve-3-ctvrtleti-mezirocne-stoupla-podle-odhadu-csu-o-27/2740736?utm_source=openai"
+              },
+              {
+                "end_index": 6744,
+                "start_index": 6652,
+                "title": "GDP Resources and Uses - 3. quarter of 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/gdp-resources-and-uses-3-quarter-of-2025"
+              },
+              {
+                "end_index": 7125,
+                "start_index": 6961,
+                "title": "Comparison of changes in volume of GDP in EU member states, Q3 2025 (expanded first estimate) – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/"
+              },
+              {
+                "end_index": 7946,
+                "start_index": 7851,
+                "title": "GDP up by 0.2% and employment up by 0.1% in the euro area - Euro indicators - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-14112025-ap"
+              },
+              {
+                "end_index": 8741,
+                "start_index": 8649,
+                "title": "GDP up by 0.2% in the euro area and by 0.3% in the EU - Euro indicators - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap"
+              },
+              {
+                "end_index": 9100,
+                "start_index": 9008,
+                "title": "GDP up by 0.2% in the euro area and by 0.3% in the EU - Euro indicators - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap"
+              },
+              {
+                "end_index": 9527,
+                "start_index": 9435,
+                "title": "GDP up by 0.2% in the euro area and by 0.3% in the EU - Euro indicators - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap"
+              },
+              {
+                "end_index": 9993,
+                "start_index": 9829,
+                "title": "Comparison of changes in volume of GDP in EU member states, Q3 2025 (expanded first estimate) – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/"
+              },
+              {
+                "end_index": 10857,
+                "start_index": 10714,
+                "title": "Navzdory Trumpovu chaosu se Amerika vrátila k růstu. Bohatne dvakrát rychleji než Evropa | e15.cz",
+                "type": "url_citation",
+                "url": "https://www.e15.cz/nazory-a-analyzy/navzdory-trumpovu-chaosu-se-amerika-vratila-k-rustu-bohatne-dvakrat-rychleji-nez-evropa-1426385"
+              },
+              {
+                "end_index": 11424,
+                "start_index": 11279,
+                "title": "\n                    Týden v České ekonomice: Růst ekonomiky ČR patří k nejrychlejším v Evropě a další novinky - Portu magazín\n            ",
+                "type": "url_citation",
+                "url": "https://magazin.portu.cz/tyden-v-ceske-ekonomice-rust-ekonomiky-cr-nejrychlejsi-v-evrope-a-dalsi-novinky-z-ceske-ekonomiky/"
+              },
+              {
+                "end_index": 12242,
+                "start_index": 12150,
+                "title": "GDP Resources and Uses - 3. quarter of 2025 | Rychlé informace",
+                "type": "url_citation",
+                "url": "https://csu.gov.cz/rychle-informace/gdp-resources-and-uses-3-quarter-of-2025"
+              },
+              {
+                "end_index": 12641,
+                "start_index": 12477,
+                "title": "Comparison of changes in volume of GDP in EU member states, Q3 2025 (expanded first estimate) – HCSO Experimental statistics",
+                "type": "url_citation",
+                "url": "https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/"
+              },
+              {
+                "end_index": 12910,
+                "start_index": 12818,
+                "title": "GDP up by 0.2% in the euro area and by 0.3% in the EU - Euro indicators - Eurostat",
+                "type": "url_citation",
+                "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap"
+              },
+              {
+                "end_index": 13427,
+                "start_index": 13243,
+                "title": "ČR – zatím šestá nejrychleji rostoucí ekonomika EU - Investujeme.cz - odborný server společnosti Swiss Life Select a.s.",
+                "type": "url_citation",
+                "url": "https://www.investujeme.cz/kratke-zpravy/cr-zatim-sesta-nejrychleji-rostouci-ekonomika-eu/?utm_campaign=cerstvezpravy&utm_medium=partner&utm_source=cerstvezpravy.cz"
+              }
+            ],
+            "text": "### 1. Shrnutí tvrzení a kontextu\n\nV rozhovoru 28. 11. 2025 Martin Kupka říká, že ČSÚ ten den zveřejnil údaje o růstu HDP a dodává:\n\n> „…ta data ukazují na 2,8 % růstu HDP meziročně při srovnání dat třetích čtvrtletí. **Co to znamená, že jsme třetí nejrychleji rostoucí ekonomika v Evropské unii?**“\n\nTvrzení tedy zjevně odkazuje na **meziroční růst reálného HDP ve 3. čtvrtletí 2025** a z něj odvozené **pořadí v rámci EU**.\n\n---\n\n### 2. Možné interpretace tvrzení\n\n1. **Hlavní (nejpravděpodobnější) interpretace – meziroční růst ve 3Q 2025:**\n\n   „Ve 3. čtvrtletí 2025 jsme podle meziročního růstu HDP třetí nejrychleji rostoucí ekonomikou EU.“\n\n2. **Alternativní interpretace A – mezikvartální růst ve 3Q 2025:**\n\n   „Ve 3. čtvrtletí 2025 jsme podle mezikvartálního (q‑o‑q) růstu třetí nejrychleji rostoucí ekonomikou EU.“\n\n3. **Alternativní interpretace B – odkaz na starší/předběžná data:**\n\n   „Podle prvního (neúplného) rychlého odhadu Eurostatu pro 3Q 2025 (resp. dřívějších čtvrtletí) jsme třetí nejrychleji rostoucí ekonomi­kou v EU“, ale bez zmínky, že jde o **neúplný soubor zemí**.\n\nNíže jsou pro každou interpretaci uvedena data a pořadí.\n\n---\n\n## 3. Jak rychle rostla česká ekonomika ve 3Q 2025?\n\n### 3.1 Údaje Českého statistického úřadu (28. 11. 2025)\n\nČSÚ ve zprávě „GDP Resources and Uses – 3. quarter of 2025“ zveřejněné 28. 11. 2025 uvádí:\n\n- „…hrubý domácí produkt se ve 3. čtvrtletí 2025 **zvýšil o 0,8 % mezičtvrtletně a o 2,8 % meziročně** (v reálných, sezónně očištěných hodnotách).“ ([csu.gov.cz](https://csu.gov.cz/rychle-informace/gdp-resources-and-uses-3-quarter-of-2025?utm_source=openai))  \n\nTo potvrzuje **meziroční růst 2,8 %** (Q3 2025 vs Q3 2024) a **mezikvartální růst 0,8 %** (Q3 2025 vs Q2 2025) pro Českou republiku.\n\n### 3.2 Údaje Eurostatu pro ČR\n\nEurostat ve flash odhadu (14. 11. 2025) uvádí pro Česko tyto růstové míry reálného HDP (sezónně a kalendářně očištěno): ([ec.europa.eu](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-14112025-ap))  \n\n- Mezikvartálně (2025Q3 vs 2025Q2): **+0,7 %**  \n- Meziročně (2025Q3 vs 2024Q3): **+2,7 %**\n\nRozdíl 0,1 p. b. oproti ČSÚ je dán metodikou/zaokrouhlením, ale **řádově jde o týž výsledek**.\n\n---\n\n## 4. Postavení ČR v EU podle meziročního růstu HDP ve 3Q 2025  \n*(hlavní interpretace tvrzení)*\n\n### 4.1 Eurostat + souhrnná tabulka HCSO (19. 11. 2025)\n\nMaďarský statistický úřad (HCSO) publikoval 19. 11. 2025 srovnání růstu HDP v zemích EU za 3Q 2025, založené na datech Eurostatu (t+45 flash estimate z 14. 11. 2025). ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n\nV tabulce „Change in volume of gross domestic product in EU member states, Q3 2025“ jsou pro jednotlivé země uvedeny:\n\n- **Mezikvartální změna (%)**\n- **Meziroční změna (%)**\n\nPro meziroční růst (2025Q3 vs 2024Q3) jsou uvedeny (vybrané země):\n\n- **Ireland**: +12,3 %  \n- **Poland**: +3,7 %  \n- **Cyprus**: +3,6 %  \n- **Bulgaria**: +3,2 %  \n- **Spain**: +2,8 %  \n- **Czechia**: +2,7 %  \n- **Portugal**: +2,4 %  \n- **Sweden**: +2,4 %  \n- **Lithuania**: +1,9 %  \n- **Netherlands**: +1,6 %  \n- **Slovenia**: +1,6 %  \n- (další země mají ještě nižší tempo, část zemí v tabulce ještě chybí) ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n\nEurostat v téže tabulce potvrzuje pro Česko meziroční růst **2,7 %** v 3Q 2025. ([ec.europa.eu](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-14112025-ap))  \n\nZ těchto dat plyne:\n\n- **nejrychlejší růst**: Irsko (12,3 %) – extrémně ovlivněno aktivitami nadnárodních firem, jak upozorňuje HCSO ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n- další pořadí (meziroční růst, EU27 – tam, kde jsou data k dispozici k 14. 11. 2025):\n\n| Pořadí | Země        | Meziroční růst HDP Q3 2025 |\n|--------|------------|----------------------------|\n| 1.     | Irsko      | 12,3 % |\n| 2.     | Polsko     | 3,7 % |\n| 3.     | Kypr       | 3,6 % |\n| 4.     | Bulharsko  | 3,2 % |\n| 5.     | Španělsko  | 2,8 % |\n| **6.** | **Česko**  | **2,7 %** |\n| 7.–8.  | Portugalsko, Švédsko | 2,4 % |\n| …      | …          | nižší hodnoty, část zemí bez dat |\n\n=> **Česká republika je podle těchto údajů (Eurostat t+45, stav k 14. 11. 2025) „až“ šestou nejrychleji rostoucí ekonomikou EU, sdílí 6. místo se Španělskem (Španělsko je ale objektivně výše, 2,8 vs 2,7 %).**\n\n### 4.2 Sekundární zdroj přímo k pořadí (28. 11. 2025)\n\nV den Kupkova výroku (28. 11. 2025) komentuje nová data ČSÚ ekonom Petr Dufek na Investujeme.cz:\n\n> „…Česká ekonomika si v tomto období polepšila o 0,8 % mezikvartálně a s meziročním růstem 2,8 % se **stala spolu se Španělskem šestou nejrychleji rostoucí ekonomikou EU. Dlužno dodat, že ne všechny země už svá čísla prezentovaly.**“ ([investujeme.cz](https://www.investujeme.cz/kratke-zpravy/cr-zatim-sesta-nejrychleji-rostouci-ekonomika-eu/?utm_campaign=cerstvezpravy&utm_medium=partner&utm_source=cerstvezpravy.cz))  \n\nTento komentář:\n- vychází z téhož meziročního růstu, který zmiňuje Kupka (2,8 %),\n- **explicitně uvádí, že jde o 6. místo v EU (spolu se Španělskem)**,\n- a současně upozorňuje, že data některých zemí EU stále chybí – což znamená, že **pořadí se může ještě dále zhoršit, ale těžko zlepšit na „třetí místo“**, protože už v tuto chvíli je nad Českem **minimálně pět zemí** (Irsko, Polsko, Kypr, Bulharsko, Španělsko).\n\n### 4.3 Další kontextové zdroje\n\n- Portu magazín (3. 11. 2025) shrnuje předběžný odhad ČSÚ (meziroční +2,7 %, mezikvartální +0,7 %) a konstatuje, že „v porovnání s Evropskou unií patří Česká republika mezi nejrychleji rostoucí ekonomiky“, přičemž **eurozóna rostla meziročně o 1,3 % a EU o 1,5 %**. ([magazin.portu.cz](https://magazin.portu.cz/tyden-v-ceske-ekonomice-rust-ekonomiky-cr-nejrychlejsi-v-evrope-a-dalsi-novinky-z-ceske-ekonomiky/))  \n  – ČR je tedy **„mezi nejrychlejšími“**, ale **neříká se, že je třetí**.\n\n- Zpravodajství ČTK / ČeskéNoviny.cz (30. 10. 2025) po zveřejnění předběžného odhadu ČSÚ (meziroční +2,7 %, mezikvartální +0,7 %) uvádí, že se česká ekonomika „řadí mezi nejrychleji rostoucí v Evropě“, ale **bez uvedení konkrétního pořadí**. ([ceskenoviny.cz](https://www.ceskenoviny.cz/zpravy/ekonomika-cr-ve-3-ctvrtleti-mezirocne-stoupla-podle-odhadu-csu-o-27/2740736?utm_source=openai))  \n\n**Závěr k hlavní interpretaci (meziroční růst 3Q 2025):**\n\n- Podle ČSÚ meziročně HDP ČR ve 3Q 2025 vzrostl o 2,8 %. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/gdp-resources-and-uses-3-quarter-of-2025))  \n- Podle dat Eurostatu z 14. 11. 2025 (a jejich přehledu u HCSO z 19. 11. 2025) je ale **nejméně pět členských zemí EU, které v tomtéž čtvrtletí rostly rychleji než ČR** (Polsko, Kypr, Bulharsko, Španělsko, Irsko). ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n- V důsledku toho **Česko není 3., ale cca 6. nejrychleji rostoucí ekonomikou EU** podle meziročního růstu HDP ve 3Q 2025 (a i toto pořadí je ještě vztaženo jen k zemím, které do 14. 11. nahlásily data).\n\n➡ **Tvrzení „Jsme třetí nejrychleji rostoucí ekonomika v EU“ je při tomto přirozeném a Kupkou naznačeném výkladu (meziroční růst HDP ve 3Q 2025) v rozporu s dostupnými daty Eurostatu – pořadí je horší, přibližně 6. místo.**\n\n---\n\n## 5. Postavení ČR podle mezikvartálního růstu HDP ve 3Q 2025  \n*(alternativní interpretace A)*\n\n### 5.1 Flash odhad Eurostatu t+45 (14. 11. 2025)\n\nPodle Eurostatu (tabulka „Growth rates of GDP in volume“) mají ve 3Q 2025 (q‑o‑q) tyto země vyšší či srovnatelný mezikvartální růst než ČR: ([ec.europa.eu](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-14112025-ap))  \n\n- **Švédsko**: +1,1 %  \n- **Kypr**: +0,9 %  \n- **Polsko**: +0,8 %  \n- **Portugalsko**: +0,8 %  \n- **Slovinsko**: +0,8 %  \n- **Bulharsko**: +0,7 %  \n- **Česko**: +0,7 %  \n- (Španělsko +0,6 %, Francie +0,5 %, další země méně)\n\nTo znamená, že **v mezikvartálním srovnání je ČR až někde kolem 6.–7. místa (sdílí hodnotu 0,7 % s Bulharskem), nikoli třetí.**\n\n### 5.2 Předběžný flash odhad t+30 (30. 10. 2025)\n\nStarší, ještě neúplný flash odhad Eurostatu t+30 (30. 10. 2025) uváděl:\n\n> „Among the Member States for which data are available for the third quarter of 2025, **Sweden (+1.1%) recorded the highest increase compared to the previous quarter, followed by Portugal (+0.8%) and Czechia (+0.7%).**“ ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap))  \n\n- Tento text skutečně řadí ČR **na 3. místo v EU podle mezikvartálního růstu**, ale:\n  - jde o **předběžná data z 30. 10. 2025**,\n  - jsou založena jen na **částečném souboru 19 členských zemí** (podle poznámky k release; ostatní země tehdy ještě data nedodaly). ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap))  \n\nPo doplnění dalších zemí do t+45 release (14. 11. 2025) už Česko **ve stejném mezikvartálním srovnání 3. není** – viz výše.\n\n**Závěr k mezikvartálnímu růstu:**\n\n- K **30. 10. 2025** (na základě velmi neúplného souboru zemí) bylo tvrzení „Česko je 3. nejrychleji rostoucí ekonomika EU (mezikvartálně)“ v souladu s textem Eurostatu. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap))  \n- **K datu výroku (28. 11. 2025)** už ale existoval novější, úplnější flash odhad (t+45) a srovnávací tabulka HCSO, z nichž vyplývá, že **ČR měla mezikvartálně stejné či nižší tempo růstu než minimálně pět zemí** (Švédsko, Kypr, Polsko, Portugalsko, Slovinsko, navíc Bulharsko se stejnou hodnotou). ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n\n➡ I v mezikvartálním pojetí **už v době výroku nelze tvrdit, že ČR je třetí nejrychleji rostoucí ekonomikou EU**, pokud se opíráme o nejaktuálnější dostupná data.\n\n---\n\n## 6. Starší komentáře k jiným čtvrtletím – možné zdroje záměny  \n*(alternativní interpretace B)*\n\nExistují starší texty, které mohly přispět k dojmu „třetí nejrychlejší ekonomika“, ale **vztahují se k jinému období a/nebo k neúplným datům**:\n\n1. **2Q 2025 – článek Lenky Zlámalové / Info.cz / e15 (30. 7. 2025)**  \n   Komentář k výsledkům za jiné čtvrtletí uvádí:\n\n   > „Česká ekonomika s meziročním vzestupem o 2,4 % je **třetí nejrychleji rostoucí** z celé Evropské unie (chybí ale data u některých států, např. Polsko a Slovensko, pozn. red).“ ([e15.cz](https://www.e15.cz/nazory-a-analyzy/navzdory-trumpovu-chaosu-se-amerika-vratila-k-rustu-bohatne-dvakrat-rychleji-nez-evropa-1426385))  \n\n   – už zde je výslovně upozorněno, že **Polsko, Slovensko aj. chybí**, takže „třetí místo“ platí jen v rámci omezeného souboru zemí.\n\n2. **3Q 2025 – různé komentáře**  \n   Jak už bylo zmíněno:\n   - Portu.cz (3. 11. 2025) a ČeskéNoviny.cz (30. 10. 2025) mluví o tom, že ČR **patří mezi nejrychleji rostoucí ekonomiky v Evropě**,  \n   - Investujeme.cz (28. 11. 2025) explicitně uvádí **„šestou nejrychleji rostoucí“**. ([magazin.portu.cz](https://magazin.portu.cz/tyden-v-ceske-ekonomice-rust-ekonomiky-cr-nejrychlejsi-v-evrope-a-dalsi-novinky-z-ceske-ekonomiky/))  \n\nJe tedy možné, že:\n\n- Kupka si **zaměnil starší mediální interpretace („třetí nejrychlejší“ z jiného čtvrtletí / neúplných dat)** s aktuální situací po zveřejnění revidovaných dat,\n- a současně smíchal **meziroční údaj ČSÚ (2,8 %)** s **pořadím, které kdysi vycházelo z mezikvartálního flash odhadu Eurostatu na menším vzorku zemí (t+30)**.\n\nTo ovšem nic nemění na tom, že **v okamžiku výroku už tvrzení neodpovídalo aktuálně dostupným celoevropským datům.**\n\n---\n\n## 7. Celkové zhodnocení tvrzení\n\n**Hlavní faktická otázka:**  \nJe pravda, že ve 3. čtvrtletí 2025 byla Česká republika „třetí nejrychleji rostoucí ekonomikou v Evropské unii“?\n\n- Podle **aktuálních údajů ČSÚ**: meziroční růst HDP ČR v 3Q 2025 činil 2,8 %. ([csu.gov.cz](https://csu.gov.cz/rychle-informace/gdp-resources-and-uses-3-quarter-of-2025))  \n- Podle **Eurostatu (t+45, 14. 11. 2025) a přehledu HCSO (19. 11. 2025)** mělo **minimálně pět zemí EU vyšší meziroční růst** (Polsko, Kypr, Bulharsko, Španělsko, Irsko), takže Česko je v tomto srovnání **cca šesté**, nikoli třetí. ([ksh.hu](https://www.ksh.hu/s/en/experimental-statistics/publications/comparison-of-changes-in-volume-of-gdp-in-eu-member-states-q3-2025-expanded-first-estimate/))  \n- Podle téhož zdroje je ČR v mezikvartálním růstu také **až kolem 6.–7. místa**, i když starší, neúplný flash (30. 10. 2025) ji v rámci menšího počtu zemí řadil na 3. místo. ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102025-ap))  \n\n**Shrnutí:**\n\n- **Jádro výroku („třetí nejrychleji rostoucí ekonomika EU“) neodpovídá stavu dostupných celoevropských statistik v době, kdy bylo tvrzení proneseno.**\n- Nejbližší relevantní číslo je, že **Česko bylo dle týchž dat kolem 6. místa v EU** (spolu se Španělskem), což výslovně potvrzuje i odborný komentář z téhož dne. ([investujeme.cz](https://www.investujeme.cz/kratke-zpravy/cr-zatim-sesta-nejrychleji-rostouci-ekonomika-eu/?utm_campaign=cerstvezpravy&utm_medium=partner&utm_source=cerstvezpravy.cz))  \n- Tvrzení lze vysvětlit jako **založené na dřívějších, neúplných flash odhadech**, případně na starších článcích za jiná čtvrtletí, ale v **aktuálním kontextu 28. 11. 2025 je fakticky nepřesné a zavádějící.**",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 79255,
+      "input_tokens_details": {
+        "cached_tokens": 6400
+      },
+      "output_tokens": 21298,
+      "output_tokens_details": {
+        "reasoning_tokens": 16588
+      },
+      "total_tokens": 100553
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

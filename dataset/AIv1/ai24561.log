@@ -1,0 +1,489 @@
+{
+  "claim_id": "24561",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260127_092648",
+  "source_md": "experiments/gpt5.1_h_20260127_092648/brief_fact_check_id24561.md",
+  "fact_check": "# Fact Check for Statement ID 24561\n\n## Statement\nMiloš Zeman svůj odpor například ke jmenování Jana Lipavského zdůvodňoval nedostatečným vzděláním.\n\n---\n## AI Fact Check\n## 1. Specifikace výroku\n\nOvěřovaný výrok (Petr Pavel):  \n„Miloš Zeman svůj odpor například ke jmenování Jana Lipavského zdůvodňoval nedostatečným vzděláním.“\n\nVýrok míří ke sporu z prosince 2021, kdy tehdejší prezident Miloš Zeman odmítal jmenovat Jana Lipavského (Piráti) ministrem zahraničí ve vládě Petra Fialy.\n\n---\n\n## 2. Rozklad výroku na dílčí tvrzení\n\n1. **(A1)** Miloš Zeman vyjadřoval odpor k jmenování Jana Lipavského ministrem zahraničí (odmítal ho jmenovat na návrh premiéra).\n2. **(A2)** Jedním z výrazně komunikovaných důvodů tohoto odporu bylo, že Zeman považoval Lipavského vzdělání/kvalifikaci za nedostatečné (zejména proto, že má „jen“ bakalářské studium a špatně hodnocenou bakalářskou práci).\n\n---\n\n## 3. Důkazy k jednotlivým dílčím tvrzením\n\n### 3.1 A1: Zeman odmítal jmenovat Jana Lipavského ministrem zahraničí\n\n#### Podpůrné zdroje\n\n**a) Oficiální stanovisko prezidenta (přesný text tiskového prohlášení)**  \n\nText tiskového prohlášení „Stanovisko prezidenta republiky“ z 10. 12. 2021 (původně na webu Pražského hradu, zde v autorizovaném přepisu na webu KSČM, se zdrojem „hrad.cz“) uvádí:\n\n> „Jedinou výjimkou je osoba Jana Lipavského, jehož prezident republiky odmítá jmenovat z těchto důvodů:“([linux.kscm.cz](https://linux.kscm.cz/cs/node/520888))  \n\nTo je přímý (byť distribuovaný) přepis oficiálního stanoviska Hradu a jednoznačně dokládá, že prezident Zeman **odmítal Lipavského jmenovat**.\n\nStejný text (včetně této věty) je přetištěn např. na JV Press a dalších webech, s uvedeným autorem Jiřím Ovčáčkem a zdrojem hrad.cz.([jvpress.cz](https://jvpress.cz/2021/12/11/politika-stanovisko-prezidenta-republiky-milose-zemana-k-odmitavemu-postoji-ke-jmenovani-navrzeneho-jana-lipavskeho/))  \n\n**b) Deník N – zpravodajství z 10. 12. 2021**\n\nDeník N shrnuje prezidentovo vyjádření takto:\n\n> „Miloš Zeman podle svého vyjádření souhlasí se všemi kandidáty na ministerské posty vlády Petra Fialy, ale s jednou výjimkou: Janem Lipavským. Kandidáta Pirátů odmítá jmenovat ministrem zahraničí…“([denikn.cz](https://denikn.cz/minuta/765762/))  \n\nTo potvrzuje, že Zemanův „odpor“ nebyl jen rétorický, ale konkrétně šlo o **odmítnutí jmenování**.\n\n**c) Pražský deník (Deník.cz)**  \n\nPražský deník informuje:\n\n> „Prezident Miloš Zeman se … rozhodl nejmenovat ministrem zahraničí Jana Lipavského.“([prazsky.denik.cz](https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai))  \n\nA dále vysvětluje, že Lipavský je **jedinou výjimkou**, u níž prezident odmítá podpis.([prazsky.denik.cz](https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai))  \n\n**d) Další média (Seznam Zprávy, iROZHLAS, iDNES, aj.)**\n\nNapř. článek Seznam Zpráv shrnuje:\n\n> „Prezident Miloš Zeman v pátek oznámil, že odmítá jmenovat kandidáta Pirátů na ministra zahraničí Jana Lipavského. Je jediným nominantem, kterého hlava státu odmítne.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-politika-fiala-pujde-za-zemanem-v-pondeli-nekula-si-na-jmenovani-pocka-183067?utm_source=openai))  \n\nPodobně i další média (iDNES, iROZHLAS, aj.) konzistentně informují, že Zeman návrh na jmenování Lipavského odmítl.([patria.cz](https://www.patria.cz/zpravodajstvi/4864144/zeman-nejmenuje-lipavskeho-ministrem-zahranici.html?utm_source=openai))  \n\n#### Závěr k A1\n\nExistuje široká shoda napříč zdroji i v oficiálním stanovisku Hradu, že **Miloš Zeman odmítl Jana Lipavského jmenovat ministrem zahraničí**. Dílčí tvrzení A1 je doložené.\n\n---\n\n### 3.2 A2: Jako jeden z hlavních důvodů uváděl „nedostatečné vzdělání“ / nízkou kvalifikaci\n\nJe třeba rozlišit:\n\n- co říká **oficiální písemné stanovisko Hradu**,  \n- jak to shrnují média a komentátoři,  \n- jak Zeman později o tomtéž mluví v rozhovorech.\n\n#### 3.2.1 Oficiální písemné stanovisko Hradu\n\nVe stejném dokumentu „Stanovisko prezidenta republiky“ (10. 12. 2021) jsou uvedeny konkrétní důvody, proč Zeman Lipavského odmítá jmenovat. Bod 1 se týká přímo vzdělání:\n\n> „Jedinou výjimkou je osoba Jana Lipavského, jehož prezident republiky odmítá jmenovat z těchto důvodů:  \n>  1. **Nízká kvalifikace.** Na rozdíl od ostatních kandidátů pan Lipavský absolvoval pouze bakalářské studium a podle týdeníku Euro jeho závěrečná bakalářská práce byla hodnocena nejhorší možnou známkou.“([linux.kscm.cz](https://linux.kscm.cz/cs/node/520888))  \n\nKlíčové body:\n\n- Hrad uvádí u Jana Lipavského **čtyři důvody**, z nichž **první je „nízká kvalifikace“**.  \n- Tato „nízká kvalifikace“ je **konkrétně vyjádřena přes formální vzdělání**: jen bakalářské studium a navíc špatné hodnocení bakalářské práce. Tedy nejde o neurčitou „odbornou zkušenost“, ale explicitně o **úroveň formálního vzdělání**.\n\nToto stanovisko je přesně v této podobě přetištěno na řadě webů (JV Press, Britské listy, Patria, Raptor TV) s uvedeným autorem Jiřím Ovčáčkem a citací zdroje hrad.cz.([blisty.cz](https://www.blisty.cz/art/106144-zeman-do-toho-nema-co-mluvit.html?utm_source=openai))  \n\n#### 3.2.2 Zpravodajské shrnutí důvodů – média\n\n**Pražský deník (Deník.cz)** shrnuje oficiální argumentaci takto:\n\n- „Důvody jsou podle hlavy státu jeho nedostatečná kvalifikace a některé názory.“([prazsky.denik.cz](https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai))  \n- Dále rozvádí, že jedním z důvodů je „nízká kvalifikace“ a že „pan Lipavský absolvoval pouze bakalářské studium“ a jeho bakalářská práce měla nejhorší možnou známku.([prazsky.denik.cz](https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai))  \n\n**iDNES – článek „Zeman zdůvodnil odmítnutí Lipavského“ (10. 12. 2021)** přímo cituje pasáž ze stanoviska:\n\n> „Na rozdíl od ostatních kandidátů pan Lipavský absolvoval pouze bakalářské studium a podle týdeníku Euro jeho závěrečná bakalářská práce byla hodnocena nejhorší možnou známkou,“ kritizoval Zeman.([idnes.cz](https://www.idnes.cz/zpravy/domaci/zeman-vlada-fiala-jmenovani-prezident-premier-ministri.A211210_120057_domaci_remy?utm_source=openai))  \n\n**Deník N – Minuta N „Zeman trvá na nejmenování Lipavského, vadí mu, že má pouze bakaláře“ (10. 12. 2021)** uvádí:\n\n> „Kandidáta Pirátů odmítá jmenovat ministrem zahraničí podle svých slov z důvodů, že má pouze bakalářský titul a má distancovaný postoj k Izraeli a visegrádské spolupráci.“([denikn.cz](https://denikn.cz/minuta/765762/))  \n\nZ toho je patrné, že **formální vzdělání („pouze bakalářský titul“) je v médiích uváděno jako jeden z hlavních oficiálních důvodů** pro nejmenování.\n\n**Seznam Zprávy – shrnující článek k rozhovoru s ústavním právníkem Antošem (14. 12. 2021)** výslovně používá formulaci „nedostatečné vzdělání“:\n\n> „Prezidentovi vadilo, že má Jan Lipavský vlažný vztah k Visegrádské čtyřce i Izraeli a pouze bakalářský titul.“  \n> „Odkaz prezidenta na **údajně nedostatečné vzdělání** Jana Lipavského pro výkon ministra zahraničí byl na první pohled absurdní.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-zeman-zmenil-nazor-na-jmenovani-lipavskeho-zalekl-se-mozne-zaloby-183302))  \n\nTento článek shrnuje prezidentovu argumentaci a hodnotí, že odkaz na „nedostatečné vzdělání“ je z hlediska Ústavy irelevantní – ale i kritické hodnocení vychází z toho, že **prezident skutečně svou výtku formuloval v rovině vzdělání**.\n\n**iROZHLAS – komentář ústavního právníka Jana Wintra (11. 12. 2021)** uvádí, že mezi důvody Hradu jsou i výhrady ke vzdělání, a kritizuje je:\n\n> „To, že někdo nemá vzdělání nebo byla špatně hodnocena jeho bakalářská práce…“ – Wintr tyto argumenty označuje za „absurdní“ mj. proto, že v Zemanově vládě byli i lidé bez vysoké školy.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/milos-zeman-jan-lipavsky-kompetencni-zaloba-ustavni-pravnici-politolog_2112110500_vtk))  \n\nTaké zde je zřejmé, že **vzdělání (včetně konkrétní úrovně titulu a hodnocení práce) bylo jádrem jednoho z uváděných důvodů**.\n\n#### 3.2.3 Pozdější vyjádření Miloše Zemana (po jmenování Lipavského)\n\nI poté, co Miloš Zeman po dohodě s premiérem Lipavského nakonec jmenoval, vracel se ve veřejných vystoupeních k tématu jeho vzdělání:\n\n**Seznam Zprávy – článek „Zeman: Lipavský je slabý kus ve stádě“ (19. 12. 2021)** shrnuje prezidentův rozhovor (Partie, CNN Prima News):\n\n> „Novému ministrovi zahraničí také vyčítá, že nemá magisterské vzdělání…“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847))  \n\nA dále:\n\n> „Zopakoval však, že **nedostatečné vzdělání** Lipavskému vyčítá. ‚Jeho bakalářská práce byla ostatně hodnocena nejhorší možnou známkou…‘“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847))  \n\nTo je přímé shrnutí prezidentových slov v televizním rozhovoru a používá přesně formulaci „nedostatečné vzdělání“.\n\n**CNN Prima NEWS – shrnutí stejného rozhovoru** (jiný článek) uvádí:\n\n> „Prezident Lipavskému vyčítal také **nedostatečné vzdělání**, jelikož má ‚pouze‘ bakalářský titul… ‚Panu Lipavskému jsme vyčítali, že jako jediný z členů vlády je jenom bakalář a jeho bakalářská práce byla ohodnocena nejhorší možnou známkou.‘“([cnn.iprima.cz](https://cnn.iprima.cz/zeman-k-lipavskemu-premier-mi-osobne-garantoval-udrzeni-dobrych-vztahu-s-izraelem-53556?utm_source=openai))  \n\nToto potvrzuje, že **sám Zeman v rozhovoru rámoval svůj problém s Lipavským jako problém „nedostatečného vzdělání“ (pouze bakalářský titul, špatně hodnocená práce)**.\n\n#### 3.2.4 Kontext a protinázory (Ústava, jiné důvody)\n\n- V oficiálním stanovisku jsou uvedeny **čtyři důvody**:  \n  1. nízká kvalifikace (vysvětlená přes bakalářský titul a špatnou práci),  \n  2. distancovaný postoj k Visegrádské spolupráci,  \n  3. distancovaný postoj ke vztahu s Izraelem,  \n  4. návrh uspořádat Sudetoněmecké dny v ČR.([linux.kscm.cz](https://linux.kscm.cz/cs/node/520888))  \n\n  Tj. **vzdělání / kvalifikace nebyl jediný důvod**, ale byl uveden **na prvním místě** a velmi detailně.\n\n- Ústavní právníci (např. Antoš, Wintr) upozorňovali, že:\n\n  - Ústava **nepředepisuje žádnou formální úroveň vzdělání** pro členy vlády;([novinky.cz](https://www.novinky.cz/clanek/domaci-zemanovy-duvody-nestaci-rika-ustavni-pravnik-40380760?utm_source=openai))  \n  - argumenty se vzděláním považují za zástupné či absurdní.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/milos-zeman-jan-lipavsky-kompetencni-zaloba-ustavni-pravnici-politolog_2112110500_vtk))  \n\n  To ale nijak nepopírá, že Zeman tyto **vzdělanostní argumenty skutečně použil** – jen zpochybňuje jejich relevanci.\n\n- Média i komentátoři (včetně pozdějších analýz) tento aspekt shrnují právě jako výhradu k „nedostatečnému vzdělání“ Jana Lipavského.([neviditelnypes.lidovky.cz](https://neviditelnypes.lidovky.cz/cirkus/je-to-oficialne.A211210_174000_p_cirkus_nef?utm_source=openai))  \n\n#### Závěr k A2\n\n- Oficiální stanovisko prezidenta explicitně uvádí jako první důvod **„nízkou kvalifikaci“**, která je výslovně konkretizována jako **„pouze bakalářské studium“ a špatně hodnocená bakalářská práce**.([linux.kscm.cz](https://linux.kscm.cz/cs/node/520888))  \n- Následné televizní vystoupení prezidenta Zemana tento motiv potvrdilo a Zeman sám v něm (podle přepisů médií) hovoří o **„nedostatečném vzdělání“**, které Lipavskému vyčítá.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847))  \n\nTedy lze říci, že **svůj odpor k Lipavského jmenování skutečně významně zdůvodňoval právě výtkami k jeho formálnímu vzdělání**.\n\n---\n\n## 4. Celkové zhodnocení výroku\n\n- Dílčí tvrzení **A1** (Zeman odmítl jmenovat Lipavského ministrem) je jednoznačně doloženo oficiálním stanoviskem Hradu i širokou shodou médií.\n- Dílčí tvrzení **A2** (tento odpor byl – mj. – zdůvodňován „nedostatečným vzděláním“) je rovněž dobře podloženo:\n  - v oficiálním dokumentu je vzdělání/kvalifikace **první uvedený důvod**, vyložený skrze „pouze bakalářské studium“ a špatné hodnocení práce;([linux.kscm.cz](https://linux.kscm.cz/cs/node/520888))  \n  - v pozdějších rozhovorech Zeman sám hovoří o **„nedostatečném vzdělání“** Jana Lipavského jako o výhradě;([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847))  \n  - média a ústavní právníci tento prezidentův argument shrnují právě jako odkaz na „nedostatečné vzdělání“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-zeman-zmenil-nazor-na-jmenovani-lipavskeho-zalekl-se-mozne-zaloby-183302))  \n\nJediné upřesnění je, že **nejmenování nebylo odůvodněno jen vzděláním**, ale také hodnotovými a politickými postoji (V4, Izrael, Sudetoněmecké dny). Výrok Petra Pavla to ale nepopírá – říká, že Zeman svůj odpor „například“ v tomto případě zdůvodňoval nedostatečným vzděláním, což odpovídá realitě.\n\n**Z faktického hlediska tedy výrok Petra Pavla odpovídá doloženým informacím (s vědomím, že šlo o jeden z více uvedených důvodů).**\n\n---\n\n## 5. Přehled klíčových zdrojů (URL)\n\n*(URL jsou uvedeny v kódu, aby byly v souladu s instrukcemi systému.)*\n\n```text\nOficiální stanovisko (přepis / kopie):\n- https://linux.kscm.cz/cs/node/520888\n- https://jvpress.cz/2021/12/11/politika-stanovisko-prezidenta-republiky-milose-zemana-k-odmitavemu-postoji-ke-jmenovani-navrzeneho-jana-lipavskeho/\n- (původní: https://www.hrad.cz/.../stanovisko-prezidenta-republiky-16207 – nyní 404)\n\nZpravodajství o odmítnutí Lipavského:\n- https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html\n- https://denikn.cz/minuta/765762/\n- https://www.idnes.cz/zpravy/domaci/zeman-vlada-fiala-jmenovani-prezident-premier-ministri.A211210_120057_domaci_remy\n- https://www.seznamzpravy.cz/clanek/domaci-politika-lipavskeho-nejmenuji-je-nekompetentni-oznamil-zeman-183067\n- https://www.irozhlas.cz/zpravy-domov/jan-lipavsky-milos-zeman-ministr-zahranici_2112101228_ako\n\nRozhovory a komentáře k „nedostatečnému vzdělání“:\n- https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-zeman-zmenil-nazor-na-jmenovani-lipavskeho-zalekl-se-mozne-zaloby-183302\n- https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847\n- https://cnn.iprima.cz/zeman-k-lipavskemu-premier-mi-osobne-garantoval-udrzeni-dobrych-vztahu-s-izraelem-53556\n- https://www.novinky.cz/clanek/domaci-zemanovy-duvody-nestaci-rika-ustavni-pravnik-40380760\n- https://www.irozhlas.cz/zpravy-domov/milos-zeman-jan-lipavsky-kompetencni-zaloba-ustavni-pravnici-politolog_2112110500_vtk\n```\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in Za pět minut dvanáct released on 2026-01-24 available from https://www.youtube.com/watch?v=LLdTdaQK-Y4.\\n\\n\\nThe claim was made by: Petr Pavel, Prezident České republiky\\n\\n\\nThe claim appears in the following immediate context in the source:\\nJá chápu, že vy máte nějaké vaše vidění světa, do kterého Filip Turek nezapadá, na to máme asi každý nějaké osobní občanské právo si každého zařadit do nějaké škatulky, nebo si o něm něco myslet. Nicméně ve chvíli, kdy jste v té funkci prezidenta, který jmenuje člena vlády na návrh premiéra, neměl by ten osobní názor jít do jisté míry stranou a respektovat to, co vám navrhuje zvolený premiér?\\nPetr Pavel, prezident republiky\\nOn to právě není tak úplně osobní názor, protože můj názor je v této věci v podstatě irelevantní, ale jde o to, jakým způsobem se ten nominovaný kandidát srovnává nebo nesrovnává s naším právním řádem a s Ústavou. Když jsem se opravdu díval na některé ty případy, člověk, který se dlouhodobě hlásí, ať už formou přímé podpory, nebo jak Filip Turek říkal, černým humorem k režimu, který skutečně napáchal mnoho zla, když se vyjadřuje s takovým despektem o ženách, například formou toho, že největší chybou 20. století bylo dát ženám volební právo, nebo o menšinách, o černoších, o Židech a dalších, no, pak samozřejmě, pokud by takový člověk měl být ministrem, pak běžný občan si řekne, všechno to, co reprezentuje Filip Turek, je akceptovatelné. A já mám nejenom svůj názor, ale opírám to i o znění Ústavy, to se opravdu neztotožňuje. A tím základním filtrem, aby se lidé tohoto profilu nedostali do vysokých funkcí, by měly být na prvním místě politické strany, které by je neměly nominovat, protože by si měly být vědomy toho rizika. Na druhou stranu Motoristé na kontroverzi Filipa Turka v podstatě postavili volební kampaň, a to, že to oslovilo necelých 7 % obyvatelstva, ještě neznamená, že ta zbylá procenta se s tím mají smířit. A i proto jsem považoval za správné, i když jsem si byl vědom, že to vyvolá velkou debatu, že jsem-li tím posledním, kdo tomu může zabránit, tak to v souladu s ústavou udělat musím.\\nMartin Čermák, moderátor\\nKdyž mluvíte o tom, že měl Filip Turek adorovat nacistický režim a mluvíte o těch všech kauzách, tak když bych se podíval na vás, tak vy jste až do roku 1989 byl členem komunistické strany, vlastně také zlého režimu, který napáchal mnoho zlého v České republice, v Československu, pardon, když budeme si projíždět ty články předvolebních kampaní, tak existuje fotografie, na které řídíte bez helmy. V jednom rozhovoru jste říkal, že jste řídil pod vlivem alkoholu, nebo že jste si dal alkohol před jízdou, když bych měl uplatnit nějaký takový pohled na vás jako naprosto nezaujatý pozorovatel, nemohl bych říct něco podobného o vás, když bych chtěl být ve vaší pozici?\\nPetr Pavel, prezident republiky\\nMožná byste mohl, na druhou stranu je asi potřeba to uvést do správného kontextu. Já jsem jel bez přilby, bylo to asi 50 metrů po veřejné komunikaci, čímž jsem tak maximálně ohrozil sám sebe. V okamžiku, kdy se ten můj prohřešek dostal na veřejnost, tak jsem se nesnažil tvrdit, že to bylo na polní cestě nebo v Německu, ale prostě jsem se k tomu přihlásil, řekl jsem jasně, že to byla chyba a hned jsem poukázal peníze na Fond dopravních nehod. Pokud hovoříte o mém předlistopadovém členství v KSČ, já jsem ho nikdy neskrýval, ale zároveň jsem taky nedával žádným způsobem najevo, že bych tento režim adoroval. Já jsem byl členem KSČ z toho důvodu, že jsem byl v ozbrojených silách, kde to bylo víceméně standardem. A pokud se budeme bavit o různých dalších prohřešcích, musím uvést na pravou míru, to s tím alkoholem, já jsem měl asi ve 23 po jednom večerním slavení ráno zbytkový alkohol, ne, že jsem požil okolo před jízdou, to se těžko, těžko zjišťuje, když nemáte doma detekční prostředky, ale i tak byl to prohřešek, který jsem neskrýval, za který jsem byl potrestán, měl jsem tři měsíce bez řidičského průkazu a já neříkám, že jsem bez chyb. Na druhou stranu, když se podívám na Filipa Turka, tak ten se těchto prohřešků dopouštěl kontinuálně a ještě nedávno. Ještě v nedávné době se Filip Turek na adresu Němců vyjádřil ve smyslu, že všichni dobří Němci zemřeli do roku 1945 a ti dnešní jsou jenom negramotní magoři.\\nMartin Čermák, moderátor\\nJá se o tom bavím vlastně spíš principiálně, uplatňuji ten princip, a také s ohledem na to, že vlastně během prezidentské kampaně, vy sám jste mluvil o tom, že prezident by neměl veřejně kádrovat ministry, že přece jen ta vláda je odpovědností premiéra a pak vláda odpovídá Poslanecké sněmovně, která dala těm poslancům nějakou důvěru, tak jestli tím trochu i nezrazujete ty voliče, kteří vás možná volili, protože si říkali, tak on to neudělá, tak, jako to dělal Miloš Zeman, když mu premiér předloží ministra, on ho jmenuje.\\nPetr Pavel, prezident republiky\\nJá v tom vidím zásadní rozdíl, když se podíváte na odmítání například ze strany Miloše Zemana, tak Miloš Zeman svůj odpor například ke jmenování Jana Lipavského zdůvodňoval nedostatečným vzděláním. V jiném případě to byla možná nějaká stranická kontroverze v případě pana Pocheho. V mém případě to není opravdu o tom, že bych zpochybňoval odbornost, vzdělání, ale základní hodnotové nastavení, a to je trochu jiná věc. A já jsem nikoho z ministrů nekádroval. Já jsem požádal tehdy designovaného premiéra, jestli by mi předložil zatím neformálně seznam lidí, se kterými počítá do vlády, z toho důvodu, že bych se s nimi chtěl seznámit, slyšet jejich priority, ne jim vnucovat svoje, je zkoušet z jazyka, z odbornosti, nebo z čehokoliv jiného, prostě jsem jenom chtěl vědět, koho bych měl případně jmenovat. A udělal jsem to samé i s Filipem Turkem. Takže jemu jsem dal příležitost, aby se k tomu, co se kolem něho děje, mohl vyjádřit. A ten můj názor opravdu není o žádné osobní animozitě.\\nMartin Čermák, moderátor\\nNicméně vy jste teď v té pozici, o kom se mluví, že by mohl do jisté míry ohýbat Ústavu. Někteří ústavní právníci mluví o tom, že prezident, například Marek Antoš, ústavní právník, mluví o tom, že prezident měl povinnost pana Turka jmenovat, pokud to navrhl předseda vlády, mluví o tom, že není úlohou prezidenta, aby v této věci byl pojistkou, nebo tím posledním spravedlivým, o čemž jste mluvil. Tak když vy jste v té pozici osobně, není ve vašem samotném zájmu třeba na sebe podat kompetenční žalobu, aby se to vyjasnilo?\\n\\nProvide a structured, citation-backed verification of the claim: 'Miloš Zeman svůj odpor například ke jmenování Jana Lipavského zdůvodňoval nedostatečným vzděláním.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 326.15 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Miloš Zeman skutečně odmítal jmenovat Jana Lipavského ministrem zahraničí a v oficiálním stanovisku i následných rozhovorech jako jeden z důvodů uváděl jeho údajně nedostatečné vzdělání.</p>\n\n<p>Výrok se vztahuje ke sporu z prosince 2021 při sestavování první vlády Petra Fialy, kdy tehdejší prezident Miloš Zeman jako jediného z navržených ministrů odmítal Jana Lipavského na post ministra zahraničí. Spor měl i ústavní rozměr, protože se řešilo, zda prezident může návrh premiéra odmítnout.</p>\n\n<p>Výrok obsahuje dvě hlavní ověřitelná tvrzení: za prvé, že Miloš Zeman projevoval odpor k jmenování Jana Lipavského ministrem zahraničí (odmítal ho jmenovat), a za druhé, že tento odpor zdůvodňoval mimo jiné nedostatečným vzděláním Jana Lipavského.</p>\n\n<p><strong>První dílčí tvrzení – odpor k jmenování Jana Lipavského</strong><br>Ve zveřejněném <a href=\"https://linux.kscm.cz/cs/node/520888\">Stanovisku prezidenta republiky</a> z 10. prosince 2021, které přepisuje text z webu Hradu, se píše, že Zeman souhlasí se všemi kandidáty do vlády Petra Fialy, ale <i>„jedinou výjimkou je osoba Jana Lipavského, jehož prezident republiky odmítá jmenovat z těchto důvodů…“</i>. Stejný text s uvedením zdroje hrad.cz je otištěn i na serveru <a href=\"https://jvpress.cz/2021/12/11/politika-stanovisko-prezidenta-republiky-milose-zemana-k-odmitavemu-postoji-ke-jmenovani-navrzeneho-jana-lipavskeho/\">JV Press</a>.</p>\n\n<p>O tom, že prezident kandidáta Pirátů skutečně odmítá jmenovat, shodně informovala i média. <a href=\"https://denikn.cz/minuta/765762/\">Deník N</a> shrnuje, že Zeman podle svého vyjádření všechny kandidáty přijímá, ale <i>„s jednou výjimkou: Janem Lipavským. Kandidáta Pirátů odmítá jmenovat ministrem zahraničí…“</i>. Podobně <a href=\"https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html\">Pražský deník</a> uvádí, že se Zeman rozhodl Lipavského ministrem zahraničí nejmenovat a že jde o jediného nominanta, kterého hlava státu nechce jmenovat.</p>\n\n<p>Na základě těchto shodných informací z oficiálního stanoviska i zpravodajství považujeme první dílčí tvrzení, že Miloš Zeman vyjadřoval odpor k jmenování Jana Lipavského a odmítal jej jmenovat ministrem zahraničí, za fakticky doložené.</p>\n\n<p><strong>Druhé dílčí tvrzení – odůvodnění „nedostatečným vzděláním“</strong><br>Ve stejném oficiálním <a href=\"https://linux.kscm.cz/cs/node/520888\">stanovisku prezidenta</a> jsou vyjmenovány konkrétní důvody, proč Zeman Lipavského odmítá jmenovat. První bod je nadepsán jako <i>„Nízká kvalifikace“</i> a dále se konkretizuje tím, že Lipavský <i>„absolvoval pouze bakalářské studium“</i> a jeho bakalářská práce byla podle týdeníku Euro hodnocena nejhorší možnou známkou. Z textu je zřejmé, že prezidentův výklad „nízké kvalifikace“ se týká především formálního vzdělání, tedy úrovně dosaženého vysokoškolského titulu a hodnocení závěrečné práce.</p>\n\n<p>Tuto argumentaci převzala i média. Server <a href=\"https://www.idnes.cz/zpravy/domaci/zeman-vlada-fiala-jmenovani-prezident-premier-ministri.A211210_120057_domaci_remy\">iDNES.cz</a> cituje Zemanovo vyjádření, že na rozdíl od ostatních kandidátů Lipavský absolvoval pouze bakalářské studium a jeho bakalářská práce byla hodnocena nejhorší možnou známkou. <a href=\"https://denikn.cz/minuta/765762/\">Deník N</a> shrnuje prezidentovy důvody tak, že mu vadí, že má Jan Lipavský pouze bakalářský titul a zároveň „vlažný“ postoj k Izraeli a visegrádské spolupráci. I z tohoto shrnutí je patrné, že úroveň vzdělání je prezentována jako jeden z hlavních důvodů výhrad.</p>\n\n<p>Také pozdější mediální analýzy prezidentovu výtku formulují přímo jako kritiku nedostatečného vzdělání. Například v rozhovorovém pořadu shrnutém na <a href=\"https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-zeman-zmenil-nazor-na-jmenovani-lipavskeho-zalekl-se-mozne-zaloby-183302\">Seznam Zprávách</a> se píše, že Zemanovi vadilo, že má Lipavský pouze bakalářský titul, a ústavní právník zde mluví o prezidentově odkazu na <i>„údajně nedostatečné vzdělání“</i>.</p>\n\n<p>I po tom, co byl Jan Lipavský po dohodě s premiérem nakonec jmenován, Zeman tento motiv opakoval v rozhovorech. V pořadu Partie na CNN Prima News, který shrnují <a href=\"https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847\">Seznam Zprávy</a>, prezident znovu kritizoval, že Lipavský nemá magisterské vzdělání, a podle přepisu médií mu opět vyčítal <i>„nedostatečné vzdělání“</i>, přičemž znovu připomněl nejhorší možnou známku bakalářské práce. CNN Prima News v článku k tomuto rozhovoru výslovně uvádí, že <i>„prezident Lipavskému vyčítal také nedostatečné vzdělání, jelikož má ‚pouze‘ bakalářský titul“</i>, a cituje Zemanova slova o tom, že jako jediný z členů vlády je „jenom bakalář“ (<a href=\"https://cnn.iprima.cz/zeman-k-lipavskemu-premier-mi-osobne-garantoval-udrzeni-dobrych-vztahu-s-izraelem-53556\">CNN Prima News</a>).</p>\n\n<p>Zároveň je pravda, že Zeman ve svém stanovisku uváděl i další důvody: nesouhlas s údajně distancovaným postojem Jana Lipavského k Visegrádské čtyřce, k Izraeli a kritiku jeho návrhu uspořádat v Česku Sudetoněmecké dny, jak je opět zachyceno ve zmiňovaném <a href=\"https://linux.kscm.cz/cs/node/520888\">oficiálním textu</a>. Výrok Petra Pavla ale tvrdí pouze to, že Zeman odpor ke jmenování <i>„například“</i> v tomto případě zdůvodňoval nedostatečným vzděláním, nikoli že šlo o jediný důvod. To odpovídá realitě – vzdělání bylo jedním z klíčových a opakovaně zmiňovaných argumentů prezidenta.</p>\n\n<p>Na základě oficiálního stanoviska prezidenta, souhlasného zpravodajství i pozdějších rozhovorů jsme dospěli k závěru, že obě dílčí tvrzení výroku jsou fakticky správná. Miloš Zeman skutečně odmítal Jana Lipavského jmenovat ministrem zahraničí a mezi uváděnými důvody opakovaně zdůrazňoval jeho formální vzdělání jako údajně nedostatečné. Výrok „Miloš Zeman svůj odpor například ke jmenování Jana Lipavského zdůvodňoval nedostatečným vzděláním“ proto hodnotíme jako pravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_0cbaa3a3019f66ea006979e06829a481a2a875946eb99480f8",
+    "created_at": 1769594984.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e075520881a2befd1668440f70cb",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cbaa3a3019f66ea006979e07a597081a28abae1b50e3f06c5",
+        "action": {
+          "query": "Miloš Zeman odmítl Jana Lipavského důvod nedostatečné vzdělání",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "Miloš Zeman odmítl Jana Lipavského důvod nedostatečné vzdělání",
+            "Zeman \"nedostatečné vzdělání\" \"Jan Lipavský\"",
+            "proč Zeman nejmenoval Jana Lipavského ministrem zahraničí důvody vzdělání",
+            "projev Miloše Zemana o kandidátovi na ministra zahraničí Jana Lipavského prosinec 2021"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e07e051881a2ad339a825a33d57e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cbaa3a3019f66ea006979e07f130c81a282969c5070871788",
+        "action": {
+          "query": "\"Jan Lipavsky\" \"absolvoval pouze bakalarske studium\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Jan Lipavsky\" \"absolvoval pouze bakalarske studium\"",
+            "\"prezident republiky\" \"Jan Lipavsky\" \"bakalarske\"",
+            "\"Jedinou vyjimkou je osoba Jana Lipavskeho\" prezident republiky odmita jmenovat",
+            "\"Jedinou výjimkou\" \"osoba Jana Lipavského\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e08200c481a2bdf6555ea2cd43b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cbaa3a3019f66ea006979e0848a6081a288582dd9a902d38f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e085bf9081a289315a9521a3171f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cbaa3a3019f66ea006979e09694d081a297d53816f0354004",
+        "action": {
+          "query": "\"nedostatecne vzdelani Jana Lipavskeho\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"nedostatecne vzdelani Jana Lipavskeho\"",
+            "\"udajne nedostatecne vzdelani\" \"Jan Lipavsky\"",
+            "\"nedostatecne vzdelani\" \"Lipavskeho\"",
+            "\"odkaz prezidenta na udajne nedostatecne vzdelani Jana Lipavskeho\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e09d116881a2bcad2af7aa3e865f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cbaa3a3019f66ea006979e0af08fc81a2805a553ed2eca31c",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e0b0936881a2a7e64ede576a138a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cbaa3a3019f66ea006979e0b6cf1481a2a548fa60f9055d88",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e0bbdc4881a29b9cfc9db94cf5ca",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cbaa3a3019f66ea006979e0f7d50081a2b864be0800702486",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e0f989a081a2a3046ce12959ac33",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cbaa3a3019f66ea006979e0fce24c81a28efdc833e0dbe42f",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e0fe214081a2bf63a72045eca9b6",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cbaa3a3019f66ea006979e1065d6881a299315337ccce5af3",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e107cc8081a2945e4466b2233c14",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_0cbaa3a3019f66ea006979e10b5a5881a295bb8bd76b9c05e2",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0cbaa3a3019f66ea006979e10e10b881a2b67a2c95836a7870",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_0cbaa3a3019f66ea006979e145024881a2a3d5df48d47089fd",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1278,
+                "start_index": 1223,
+                "title": "Prezident republiky ukončil seznamovací rozhovory s kandidáty do nové vlády | Komunistická strana Čech a Moravy",
+                "type": "url_citation",
+                "url": "https://linux.kscm.cz/cs/node/520888"
+              },
+              {
+                "end_index": 1720,
+                "start_index": 1558,
+                "title": "POLITIKA: Stanovisko prezidenta republiky Miloše Zemana k odmítavému postoji ke jmenování navrženého Jana Lipavského – JV Press",
+                "type": "url_citation",
+                "url": "https://jvpress.cz/2021/12/11/politika-stanovisko-prezidenta-republiky-milose-zemana-k-odmitavemu-postoji-ke-jmenovani-navrzeneho-jana-lipavskeho/"
+              },
+              {
+                "end_index": 2064,
+                "start_index": 2017,
+                "title": "Zeman trvá na nejmenování Lipavského, vadí mu, že má pouze bakaláře",
+                "type": "url_citation",
+                "url": "https://denikn.cz/minuta/765762/"
+              },
+              {
+                "end_index": 2439,
+                "start_index": 2315,
+                "title": "Zeman odmítá jmenovat Lipavského. Nelíbí se mu jeho názory ani kvalifikace - Pražský deník",
+                "type": "url_citation",
+                "url": "https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai"
+              },
+              {
+                "end_index": 2653,
+                "start_index": 2529,
+                "title": "Zeman odmítá jmenovat Lipavského. Nelíbí se mu jeho názory ani kvalifikace - Pražský deník",
+                "type": "url_citation",
+                "url": "https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai"
+              },
+              {
+                "end_index": 3078,
+                "start_index": 2920,
+                "title": "Lipavského nejmenuji, je nekompetentní, oznámil Zeman - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-fiala-pujde-za-zemanem-v-pondeli-nekula-si-na-jmenovani-pocka-183067?utm_source=openai"
+              },
+              {
+                "end_index": 3325,
+                "start_index": 3197,
+                "title": "Zeman nejmenuje Lipavského ministrem zahraničí, Fiala: Je třeba kompetence vyjasnit jednou pro vždy - Patria.cz",
+                "type": "url_citation",
+                "url": "https://www.patria.cz/zpravodajstvi/4864144/zeman-nejmenuje-lipavskeho-ministrem-zahranici.html?utm_source=openai"
+              },
+              {
+                "end_index": 4365,
+                "start_index": 4310,
+                "title": "Prezident republiky ukončil seznamovací rozhovory s kandidáty do nové vlády | Komunistická strana Čech a Moravy",
+                "type": "url_citation",
+                "url": "https://linux.kscm.cz/cs/node/520888"
+              },
+              {
+                "end_index": 4982,
+                "start_index": 4883,
+                "title": "Zeman do toho nemá co mluvit | 10. 12. 2021 | Britské listy",
+                "type": "url_citation",
+                "url": "https://www.blisty.cz/art/106144-zeman-do-toho-nema-co-mluvit.html?utm_source=openai"
+              },
+              {
+                "end_index": 5306,
+                "start_index": 5182,
+                "title": "Zeman odmítá jmenovat Lipavského. Nelíbí se mu jeho názory ani kvalifikace - Pražský deník",
+                "type": "url_citation",
+                "url": "https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai"
+              },
+              {
+                "end_index": 5599,
+                "start_index": 5475,
+                "title": "Zeman odmítá jmenovat Lipavského. Nelíbí se mu jeho názory ani kvalifikace - Pražský deník",
+                "type": "url_citation",
+                "url": "https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai"
+              },
+              {
+                "end_index": 6056,
+                "start_index": 5908,
+                "title": "Zeman zdůvodnil odmítnutí Lipavského. Ústava je podle něj na jeho straně - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/zpravy/domaci/zeman-vlada-fiala-jmenovani-prezident-premier-ministri.A211210_120057_domaci_remy?utm_source=openai"
+              },
+              {
+                "end_index": 6396,
+                "start_index": 6349,
+                "title": "Zeman trvá na nejmenování Lipavského, vadí mu, že má pouze bakaláře",
+                "type": "url_citation",
+                "url": "https://denikn.cz/minuta/765762/"
+              },
+              {
+                "end_index": 7096,
+                "start_index": 6943,
+                "title": "Expert: Zemanova odmítnutí ministrů? Je na místě uvažovat o změně Ústavy - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-zeman-zmenil-nazor-na-jmenovani-lipavskeho-zalekl-se-mozne-zaloby-183302"
+              },
+              {
+                "end_index": 7806,
+                "start_index": 7667,
+                "title": "Odmítnutí ministra? Prezident si počíná protiústavně, shodují se politologové a ústavní právníci | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/milos-zeman-jan-lipavsky-kompetencni-zaloba-ustavni-pravnici-politolog_2112110500_vtk"
+              },
+              {
+                "end_index": 8500,
+                "start_index": 8356,
+                "title": "Zeman: Lipavský je slabý kus ve stádě. Premiér se za něj osobně zaručil - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847"
+              },
+              {
+                "end_index": 8796,
+                "start_index": 8652,
+                "title": "Zeman: Lipavský je slabý kus ve stádě. Premiér se za něj osobně zaručil - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847"
+              },
+              {
+                "end_index": 9377,
+                "start_index": 9231,
+                "title": "Zeman k Lipavskému: Premiér mi dal osobní garanci, ta má váhu - CNN Prima NEWS",
+                "type": "url_citation",
+                "url": "https://cnn.iprima.cz/zeman-k-lipavskemu-premier-mi-osobne-garantoval-udrzeni-dobrych-vztahu-s-izraelem-53556?utm_source=openai"
+              },
+              {
+                "end_index": 9942,
+                "start_index": 9887,
+                "title": "Prezident republiky ukončil seznamovací rozhovory s kandidáty do nové vlády | Komunistická strana Čech a Moravy",
+                "type": "url_citation",
+                "url": "https://linux.kscm.cz/cs/node/520888"
+              },
+              {
+                "end_index": 10313,
+                "start_index": 10189,
+                "title": "Zemanovy důvody nestačí, říká ústavní právník - Novinky",
+                "type": "url_citation",
+                "url": "https://www.novinky.cz/clanek/domaci-zemanovy-duvody-nestaci-rika-ustavni-pravnik-40380760?utm_source=openai"
+              },
+              {
+                "end_index": 10515,
+                "start_index": 10376,
+                "title": "Odmítnutí ministra? Prezident si počíná protiústavně, shodují se politologové a ústavní právníci | iROZHLAS - spolehlivé zprávy",
+                "type": "url_citation",
+                "url": "https://www.irozhlas.cz/zpravy-domov/milos-zeman-jan-lipavsky-kompetencni-zaloba-ustavni-pravnici-politolog_2112110500_vtk"
+              },
+              {
+                "end_index": 10904,
+                "start_index": 10771,
+                "title": "Je to oficiálně - Neviditelný pes",
+                "type": "url_citation",
+                "url": "https://neviditelnypes.lidovky.cz/cirkus/je-to-oficialne.A211210_174000_p_cirkus_nef?utm_source=openai"
+              },
+              {
+                "end_index": 11179,
+                "start_index": 11124,
+                "title": "Prezident republiky ukončil seznamovací rozhovory s kandidáty do nové vlády | Komunistická strana Čech a Moravy",
+                "type": "url_citation",
+                "url": "https://linux.kscm.cz/cs/node/520888"
+              },
+              {
+                "end_index": 11501,
+                "start_index": 11357,
+                "title": "Zeman: Lipavský je slabý kus ve stádě. Premiér se za něj osobně zaručil - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847"
+              },
+              {
+                "end_index": 12129,
+                "start_index": 12074,
+                "title": "Prezident republiky ukončil seznamovací rozhovory s kandidáty do nové vlády | Komunistická strana Čech a Moravy",
+                "type": "url_citation",
+                "url": "https://linux.kscm.cz/cs/node/520888"
+              },
+              {
+                "end_index": 12384,
+                "start_index": 12240,
+                "title": "Zeman: Lipavský je slabý kus ve stádě. Premiér se za něj osobně zaručil - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847"
+              },
+              {
+                "end_index": 12648,
+                "start_index": 12495,
+                "title": "Expert: Zemanova odmítnutí ministrů? Je na místě uvažovat o změně Ústavy - Seznam Zprávy",
+                "type": "url_citation",
+                "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-zeman-zmenil-nazor-na-jmenovani-lipavskeho-zalekl-se-mozne-zaloby-183302"
+              }
+            ],
+            "text": "## 1. Specifikace výroku\n\nOvěřovaný výrok (Petr Pavel):  \n„Miloš Zeman svůj odpor například ke jmenování Jana Lipavského zdůvodňoval nedostatečným vzděláním.“\n\nVýrok míří ke sporu z prosince 2021, kdy tehdejší prezident Miloš Zeman odmítal jmenovat Jana Lipavského (Piráti) ministrem zahraničí ve vládě Petra Fialy.\n\n---\n\n## 2. Rozklad výroku na dílčí tvrzení\n\n1. **(A1)** Miloš Zeman vyjadřoval odpor k jmenování Jana Lipavského ministrem zahraničí (odmítal ho jmenovat na návrh premiéra).\n2. **(A2)** Jedním z výrazně komunikovaných důvodů tohoto odporu bylo, že Zeman považoval Lipavského vzdělání/kvalifikaci za nedostatečné (zejména proto, že má „jen“ bakalářské studium a špatně hodnocenou bakalářskou práci).\n\n---\n\n## 3. Důkazy k jednotlivým dílčím tvrzením\n\n### 3.1 A1: Zeman odmítal jmenovat Jana Lipavského ministrem zahraničí\n\n#### Podpůrné zdroje\n\n**a) Oficiální stanovisko prezidenta (přesný text tiskového prohlášení)**  \n\nText tiskového prohlášení „Stanovisko prezidenta republiky“ z 10. 12. 2021 (původně na webu Pražského hradu, zde v autorizovaném přepisu na webu KSČM, se zdrojem „hrad.cz“) uvádí:\n\n> „Jedinou výjimkou je osoba Jana Lipavského, jehož prezident republiky odmítá jmenovat z těchto důvodů:“([linux.kscm.cz](https://linux.kscm.cz/cs/node/520888))  \n\nTo je přímý (byť distribuovaný) přepis oficiálního stanoviska Hradu a jednoznačně dokládá, že prezident Zeman **odmítal Lipavského jmenovat**.\n\nStejný text (včetně této věty) je přetištěn např. na JV Press a dalších webech, s uvedeným autorem Jiřím Ovčáčkem a zdrojem hrad.cz.([jvpress.cz](https://jvpress.cz/2021/12/11/politika-stanovisko-prezidenta-republiky-milose-zemana-k-odmitavemu-postoji-ke-jmenovani-navrzeneho-jana-lipavskeho/))  \n\n**b) Deník N – zpravodajství z 10. 12. 2021**\n\nDeník N shrnuje prezidentovo vyjádření takto:\n\n> „Miloš Zeman podle svého vyjádření souhlasí se všemi kandidáty na ministerské posty vlády Petra Fialy, ale s jednou výjimkou: Janem Lipavským. Kandidáta Pirátů odmítá jmenovat ministrem zahraničí…“([denikn.cz](https://denikn.cz/minuta/765762/))  \n\nTo potvrzuje, že Zemanův „odpor“ nebyl jen rétorický, ale konkrétně šlo o **odmítnutí jmenování**.\n\n**c) Pražský deník (Deník.cz)**  \n\nPražský deník informuje:\n\n> „Prezident Miloš Zeman se … rozhodl nejmenovat ministrem zahraničí Jana Lipavského.“([prazsky.denik.cz](https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai))  \n\nA dále vysvětluje, že Lipavský je **jedinou výjimkou**, u níž prezident odmítá podpis.([prazsky.denik.cz](https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai))  \n\n**d) Další média (Seznam Zprávy, iROZHLAS, iDNES, aj.)**\n\nNapř. článek Seznam Zpráv shrnuje:\n\n> „Prezident Miloš Zeman v pátek oznámil, že odmítá jmenovat kandidáta Pirátů na ministra zahraničí Jana Lipavského. Je jediným nominantem, kterého hlava státu odmítne.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-politika-fiala-pujde-za-zemanem-v-pondeli-nekula-si-na-jmenovani-pocka-183067?utm_source=openai))  \n\nPodobně i další média (iDNES, iROZHLAS, aj.) konzistentně informují, že Zeman návrh na jmenování Lipavského odmítl.([patria.cz](https://www.patria.cz/zpravodajstvi/4864144/zeman-nejmenuje-lipavskeho-ministrem-zahranici.html?utm_source=openai))  \n\n#### Závěr k A1\n\nExistuje široká shoda napříč zdroji i v oficiálním stanovisku Hradu, že **Miloš Zeman odmítl Jana Lipavského jmenovat ministrem zahraničí**. Dílčí tvrzení A1 je doložené.\n\n---\n\n### 3.2 A2: Jako jeden z hlavních důvodů uváděl „nedostatečné vzdělání“ / nízkou kvalifikaci\n\nJe třeba rozlišit:\n\n- co říká **oficiální písemné stanovisko Hradu**,  \n- jak to shrnují média a komentátoři,  \n- jak Zeman později o tomtéž mluví v rozhovorech.\n\n#### 3.2.1 Oficiální písemné stanovisko Hradu\n\nVe stejném dokumentu „Stanovisko prezidenta republiky“ (10. 12. 2021) jsou uvedeny konkrétní důvody, proč Zeman Lipavského odmítá jmenovat. Bod 1 se týká přímo vzdělání:\n\n> „Jedinou výjimkou je osoba Jana Lipavského, jehož prezident republiky odmítá jmenovat z těchto důvodů:  \n>  1. **Nízká kvalifikace.** Na rozdíl od ostatních kandidátů pan Lipavský absolvoval pouze bakalářské studium a podle týdeníku Euro jeho závěrečná bakalářská práce byla hodnocena nejhorší možnou známkou.“([linux.kscm.cz](https://linux.kscm.cz/cs/node/520888))  \n\nKlíčové body:\n\n- Hrad uvádí u Jana Lipavského **čtyři důvody**, z nichž **první je „nízká kvalifikace“**.  \n- Tato „nízká kvalifikace“ je **konkrétně vyjádřena přes formální vzdělání**: jen bakalářské studium a navíc špatné hodnocení bakalářské práce. Tedy nejde o neurčitou „odbornou zkušenost“, ale explicitně o **úroveň formálního vzdělání**.\n\nToto stanovisko je přesně v této podobě přetištěno na řadě webů (JV Press, Britské listy, Patria, Raptor TV) s uvedeným autorem Jiřím Ovčáčkem a citací zdroje hrad.cz.([blisty.cz](https://www.blisty.cz/art/106144-zeman-do-toho-nema-co-mluvit.html?utm_source=openai))  \n\n#### 3.2.2 Zpravodajské shrnutí důvodů – média\n\n**Pražský deník (Deník.cz)** shrnuje oficiální argumentaci takto:\n\n- „Důvody jsou podle hlavy státu jeho nedostatečná kvalifikace a některé názory.“([prazsky.denik.cz](https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai))  \n- Dále rozvádí, že jedním z důvodů je „nízká kvalifikace“ a že „pan Lipavský absolvoval pouze bakalářské studium“ a jeho bakalářská práce měla nejhorší možnou známku.([prazsky.denik.cz](https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html?utm_source=openai))  \n\n**iDNES – článek „Zeman zdůvodnil odmítnutí Lipavského“ (10. 12. 2021)** přímo cituje pasáž ze stanoviska:\n\n> „Na rozdíl od ostatních kandidátů pan Lipavský absolvoval pouze bakalářské studium a podle týdeníku Euro jeho závěrečná bakalářská práce byla hodnocena nejhorší možnou známkou,“ kritizoval Zeman.([idnes.cz](https://www.idnes.cz/zpravy/domaci/zeman-vlada-fiala-jmenovani-prezident-premier-ministri.A211210_120057_domaci_remy?utm_source=openai))  \n\n**Deník N – Minuta N „Zeman trvá na nejmenování Lipavského, vadí mu, že má pouze bakaláře“ (10. 12. 2021)** uvádí:\n\n> „Kandidáta Pirátů odmítá jmenovat ministrem zahraničí podle svých slov z důvodů, že má pouze bakalářský titul a má distancovaný postoj k Izraeli a visegrádské spolupráci.“([denikn.cz](https://denikn.cz/minuta/765762/))  \n\nZ toho je patrné, že **formální vzdělání („pouze bakalářský titul“) je v médiích uváděno jako jeden z hlavních oficiálních důvodů** pro nejmenování.\n\n**Seznam Zprávy – shrnující článek k rozhovoru s ústavním právníkem Antošem (14. 12. 2021)** výslovně používá formulaci „nedostatečné vzdělání“:\n\n> „Prezidentovi vadilo, že má Jan Lipavský vlažný vztah k Visegrádské čtyřce i Izraeli a pouze bakalářský titul.“  \n> „Odkaz prezidenta na **údajně nedostatečné vzdělání** Jana Lipavského pro výkon ministra zahraničí byl na první pohled absurdní.“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-zeman-zmenil-nazor-na-jmenovani-lipavskeho-zalekl-se-mozne-zaloby-183302))  \n\nTento článek shrnuje prezidentovu argumentaci a hodnotí, že odkaz na „nedostatečné vzdělání“ je z hlediska Ústavy irelevantní – ale i kritické hodnocení vychází z toho, že **prezident skutečně svou výtku formuloval v rovině vzdělání**.\n\n**iROZHLAS – komentář ústavního právníka Jana Wintra (11. 12. 2021)** uvádí, že mezi důvody Hradu jsou i výhrady ke vzdělání, a kritizuje je:\n\n> „To, že někdo nemá vzdělání nebo byla špatně hodnocena jeho bakalářská práce…“ – Wintr tyto argumenty označuje za „absurdní“ mj. proto, že v Zemanově vládě byli i lidé bez vysoké školy.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/milos-zeman-jan-lipavsky-kompetencni-zaloba-ustavni-pravnici-politolog_2112110500_vtk))  \n\nTaké zde je zřejmé, že **vzdělání (včetně konkrétní úrovně titulu a hodnocení práce) bylo jádrem jednoho z uváděných důvodů**.\n\n#### 3.2.3 Pozdější vyjádření Miloše Zemana (po jmenování Lipavského)\n\nI poté, co Miloš Zeman po dohodě s premiérem Lipavského nakonec jmenoval, vracel se ve veřejných vystoupeních k tématu jeho vzdělání:\n\n**Seznam Zprávy – článek „Zeman: Lipavský je slabý kus ve stádě“ (19. 12. 2021)** shrnuje prezidentův rozhovor (Partie, CNN Prima News):\n\n> „Novému ministrovi zahraničí také vyčítá, že nemá magisterské vzdělání…“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847))  \n\nA dále:\n\n> „Zopakoval však, že **nedostatečné vzdělání** Lipavskému vyčítá. ‚Jeho bakalářská práce byla ostatně hodnocena nejhorší možnou známkou…‘“([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847))  \n\nTo je přímé shrnutí prezidentových slov v televizním rozhovoru a používá přesně formulaci „nedostatečné vzdělání“.\n\n**CNN Prima NEWS – shrnutí stejného rozhovoru** (jiný článek) uvádí:\n\n> „Prezident Lipavskému vyčítal také **nedostatečné vzdělání**, jelikož má ‚pouze‘ bakalářský titul… ‚Panu Lipavskému jsme vyčítali, že jako jediný z členů vlády je jenom bakalář a jeho bakalářská práce byla ohodnocena nejhorší možnou známkou.‘“([cnn.iprima.cz](https://cnn.iprima.cz/zeman-k-lipavskemu-premier-mi-osobne-garantoval-udrzeni-dobrych-vztahu-s-izraelem-53556?utm_source=openai))  \n\nToto potvrzuje, že **sám Zeman v rozhovoru rámoval svůj problém s Lipavským jako problém „nedostatečného vzdělání“ (pouze bakalářský titul, špatně hodnocená práce)**.\n\n#### 3.2.4 Kontext a protinázory (Ústava, jiné důvody)\n\n- V oficiálním stanovisku jsou uvedeny **čtyři důvody**:  \n  1. nízká kvalifikace (vysvětlená přes bakalářský titul a špatnou práci),  \n  2. distancovaný postoj k Visegrádské spolupráci,  \n  3. distancovaný postoj ke vztahu s Izraelem,  \n  4. návrh uspořádat Sudetoněmecké dny v ČR.([linux.kscm.cz](https://linux.kscm.cz/cs/node/520888))  \n\n  Tj. **vzdělání / kvalifikace nebyl jediný důvod**, ale byl uveden **na prvním místě** a velmi detailně.\n\n- Ústavní právníci (např. Antoš, Wintr) upozorňovali, že:\n\n  - Ústava **nepředepisuje žádnou formální úroveň vzdělání** pro členy vlády;([novinky.cz](https://www.novinky.cz/clanek/domaci-zemanovy-duvody-nestaci-rika-ustavni-pravnik-40380760?utm_source=openai))  \n  - argumenty se vzděláním považují za zástupné či absurdní.([irozhlas.cz](https://www.irozhlas.cz/zpravy-domov/milos-zeman-jan-lipavsky-kompetencni-zaloba-ustavni-pravnici-politolog_2112110500_vtk))  \n\n  To ale nijak nepopírá, že Zeman tyto **vzdělanostní argumenty skutečně použil** – jen zpochybňuje jejich relevanci.\n\n- Média i komentátoři (včetně pozdějších analýz) tento aspekt shrnují právě jako výhradu k „nedostatečnému vzdělání“ Jana Lipavského.([neviditelnypes.lidovky.cz](https://neviditelnypes.lidovky.cz/cirkus/je-to-oficialne.A211210_174000_p_cirkus_nef?utm_source=openai))  \n\n#### Závěr k A2\n\n- Oficiální stanovisko prezidenta explicitně uvádí jako první důvod **„nízkou kvalifikaci“**, která je výslovně konkretizována jako **„pouze bakalářské studium“ a špatně hodnocená bakalářská práce**.([linux.kscm.cz](https://linux.kscm.cz/cs/node/520888))  \n- Následné televizní vystoupení prezidenta Zemana tento motiv potvrdilo a Zeman sám v něm (podle přepisů médií) hovoří o **„nedostatečném vzdělání“**, které Lipavskému vyčítá.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847))  \n\nTedy lze říci, že **svůj odpor k Lipavského jmenování skutečně významně zdůvodňoval právě výtkami k jeho formálnímu vzdělání**.\n\n---\n\n## 4. Celkové zhodnocení výroku\n\n- Dílčí tvrzení **A1** (Zeman odmítl jmenovat Lipavského ministrem) je jednoznačně doloženo oficiálním stanoviskem Hradu i širokou shodou médií.\n- Dílčí tvrzení **A2** (tento odpor byl – mj. – zdůvodňován „nedostatečným vzděláním“) je rovněž dobře podloženo:\n  - v oficiálním dokumentu je vzdělání/kvalifikace **první uvedený důvod**, vyložený skrze „pouze bakalářské studium“ a špatné hodnocení práce;([linux.kscm.cz](https://linux.kscm.cz/cs/node/520888))  \n  - v pozdějších rozhovorech Zeman sám hovoří o **„nedostatečném vzdělání“** Jana Lipavského jako o výhradě;([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847))  \n  - média a ústavní právníci tento prezidentův argument shrnují právě jako odkaz na „nedostatečné vzdělání“.([seznamzpravy.cz](https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-zeman-zmenil-nazor-na-jmenovani-lipavskeho-zalekl-se-mozne-zaloby-183302))  \n\nJediné upřesnění je, že **nejmenování nebylo odůvodněno jen vzděláním**, ale také hodnotovými a politickými postoji (V4, Izrael, Sudetoněmecké dny). Výrok Petra Pavla to ale nepopírá – říká, že Zeman svůj odpor „například“ v tomto případě zdůvodňoval nedostatečným vzděláním, což odpovídá realitě.\n\n**Z faktického hlediska tedy výrok Petra Pavla odpovídá doloženým informacím (s vědomím, že šlo o jeden z více uvedených důvodů).**\n\n---\n\n## 5. Přehled klíčových zdrojů (URL)\n\n*(URL jsou uvedeny v kódu, aby byly v souladu s instrukcemi systému.)*\n\n```text\nOficiální stanovisko (přepis / kopie):\n- https://linux.kscm.cz/cs/node/520888\n- https://jvpress.cz/2021/12/11/politika-stanovisko-prezidenta-republiky-milose-zemana-k-odmitavemu-postoji-ke-jmenovani-navrzeneho-jana-lipavskeho/\n- (původní: https://www.hrad.cz/.../stanovisko-prezidenta-republiky-16207 – nyní 404)\n\nZpravodajství o odmítnutí Lipavského:\n- https://prazsky.denik.cz/zpravy-z-ceska/zeman-lipavsky-vlada-jmenovani-20211210.html\n- https://denikn.cz/minuta/765762/\n- https://www.idnes.cz/zpravy/domaci/zeman-vlada-fiala-jmenovani-prezident-premier-ministri.A211210_120057_domaci_remy\n- https://www.seznamzpravy.cz/clanek/domaci-politika-lipavskeho-nejmenuji-je-nekompetentni-oznamil-zeman-183067\n- https://www.irozhlas.cz/zpravy-domov/jan-lipavsky-milos-zeman-ministr-zahranici_2112101228_ako\n\nRozhovory a komentáře k „nedostatečnému vzdělání“:\n- https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-zeman-zmenil-nazor-na-jmenovani-lipavskeho-zalekl-se-mozne-zaloby-183302\n- https://www.seznamzpravy.cz/clanek/domaci-zeman-za-lipavskeho-se-premier-osobne-zarucil-ale-je-to-slaby-kus-ve-stade-183847\n- https://cnn.iprima.cz/zeman-k-lipavskemu-premier-mi-osobne-garantoval-udrzeni-dobrych-vztahu-s-izraelem-53556\n- https://www.novinky.cz/clanek/domaci-zemanovy-duvody-nestaci-rika-ustavni-pravnik-40380760\n- https://www.irozhlas.cz/zpravy-domov/milos-zeman-jan-lipavsky-kompetencni-zaloba-ustavni-pravnici-politolog_2112110500_vtk\n```",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 60305,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 13596,
+      "output_tokens_details": {
+        "reasoning_tokens": 9082
+      },
+      "total_tokens": 73901
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1769595288,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}

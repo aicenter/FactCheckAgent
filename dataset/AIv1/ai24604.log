@@ -1,0 +1,857 @@
+{
+  "claim_id": "24604",
+  "split": "v1",
+  "source_experiment": "gpt5.1_h_20260220_173536",
+  "source_md": "experiments/gpt5.1_h_20260220_173536/brief_fact_check_id24604.md",
+  "fact_check": "# Fact Check for Statement ID 24604\n\n## Statement\nV tom roce (2024, pozn. Demagog.cz) dokonce klesl počet příslušníků (bezpečnostních sborů, pozn. Demagog.cz) pod 40 tisíc.\n\n---\n## AI Fact Check\n## Shrnutí\n\n- Dostupná oficiální data Policie ČR ukazují, že **k 1. 1. 2024 bylo v Policii ČR přes 40 000 policistů (40 220)** a k 1. 1. 2025 opět přes 40 000 (40 320).([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n- **Pokles pod 40 000 policistů nastal v roce 2022 (stav k 1. 1. 2023 byl 39 422), nikoli v roce 2024.**([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n- Pokud bychom „příslušníky“ chápali šířeji jako všechny bezpečnostní sbory (Policie, HZS, Vězeňská služba, Celní správa atd.), jejich **souhrnný počet je výrazně nad 40 000**, protože jen Policie má ~40 tisíc a Hasičský záchranný sbor míří k téměř 12 tisícům služebních míst.([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n\nZ hlediska dostupných dat tedy tvrzení, že **„v roce 2024 klesl počet příslušníků pod 40 tisíc“**, neodpovídá realitě. Odpovídá ovšem situaci **v roce 2022 / na začátku 2023**, kdy se počet policistů skutečně dostal pod 40 000.\n\n---\n\n## 1. Interpretace tvrzení\n\nFormulace: „v tom roce (2024) dokonce klesl počet příslušníků pod 40 tisíc“.\n\nMožné interpretace:\n\n1. **Nejužší (nejpravděpodobnější)**  \n   „Počet příslušníků Policie ČR v celé ČR v roce 2024 klesl pod 40 tisíc.“  \n   – Kontext otázky („Chcete také zvýšit počty policistů…?“) ukazuje, že mluví zejména o Policii ČR.\n\n2. **Širší (jak ji poznamenává Demagog.cz)**  \n   „Počet příslušníků bezpečnostních sborů (všechny sbory dle zákona č. 361/2003 Sb.) klesl v roce 2024 pod 40 tisíc.“  \n   – Tato interpretace je méně realistická, protože jiné sbory mají samy o sobě tisíce příslušníků.\n\n3. **Velmi úzké / specifické**  \n   Např. jen policisté v určitém kraji, jen ve výkonu služby apod. V rozhovoru ale není žádné takové omezení, jde o celkové počty.\n\nNíže proto ověřuji především interpretaci 1 (celkový počet policistů) a stručně ukazuji, proč neobstojí ani interpretace 2 (součet bezpečnostních sborů).\n\n---\n\n## 2. Data o počtech policistů podle oficiálních statistik Policie ČR\n\n### 2.1 Stav k 1. 1. 2023\n\nFOIA odpověď „Počty policistů a občanských zaměstnanců“ (Zveřejněné informace 2023) uvádí:\n\n- **Počet policistů ve služebním poměru k 1. 1. 2023: 39 422.**([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n\nTj. na začátku roku 2023 (po roce 2022) byl počet policistů **pod hranicí 40 000**.\n\n---\n\n### 2.2 Stav k 1. 1. 2024\n\nFOIA odpověď Krajského ředitelství policie Karlovarského kraje „Žádost o informace k počtu policistů“ (Zveřejněné informace 2024) obsahuje dotaz:\n\n> „1. Jaký je celkový skutečný počet policistů k datu 01.01.2024 v rámci ČR?“([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n\nV odpovědi Policie ČR se uvádí:\n\n- **„Celkový skutečný počet 40220 policistů.“** (tj. 40 220)([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n\nTo je **nad 40 000**.\n\nTento údaj odpovídá i mediálnímu výstupu z února 2024: policejní prezident Martin Vondrášek na jednání sněmovního výboru uváděl, že systemizace počítá k 1. 1. 2024 s 46 163 místy, **ve skutečnosti policistů bylo 40 358, o rok dříve 39 422**.([hradecka.drbna.cz](https://hradecka.drbna.cz/zpravy/spolecnost/17932-policie-loni-prijala-temer-25-tisic-lidi-po-dvou-letech-pocet-policistu-stoupl.html?utm_source=openai))  \n\n- I když se absolutní číslo z FOIA (40 220) a z prezentace (40 358) mírně liší (různá metodika / okamžik zjištění), **obě hodnoty jsou jasně nad 40 000**.\n\n---\n\n### 2.3 Stav k 1. 1. 2025\n\nFOIA odpověď „Ženy v Policii České republiky“ (Zveřejněné informace 2025) obsahuje mj.:\n\n- **„K datu 1. ledna 2025 skutečný početní stav příslušníků Policie České republiky činí 40 320 osob.“**([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai))  \n\nI na začátku roku 2025 tedy policistů **přes 40 tisíc**.\n\n---\n\n### 2.4 Průběh roku 2024\n\nPolicie ČR v roce 2024 poskytla více souhrnných personálních statistik:\n\n- FOIA „Počty policistů“ – statistika plánovaného a skutečného početního stavu k 29. 2. 2024 (údaje jsou v přiloženém XLSX souboru).([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu.aspx))  \n- FOIA „Personální statistiky“ – mimo jiné požadavek na počet policistů v letech 2022, 2023 a k 30. 9. 2024 (opět v XLSX příloze).([policie.gov.cz](https://policie.gov.cz/clanek/zverejnene-informace-2024-personalni-statistiky.aspx))  \n\nObsah příloh (XLSX) textově dostupný není, ale jejich existence ukazuje, že Policie ČR vede průběžnou personální statistiku – z žádného veřejného shrnutí těchto podkladů nevyplývá propad pod 40 000 v roce 2024. Naopak:\n\n- Publicistický text, který tyto podklady cituje, uvádí pro rok 2024 **cca 40 488 policistů ve službě** (a tabulkový stav 46 163) s odkazem na policie.gov.cz.([pravyprostor.net](https://pravyprostor.net/mame-malo-policistu-aneb-cesky-overpolicing-v-cislech/))  \n\nI když jde o sekundární zdroj, číselně zapadá mezi oficiální údaje (40 220 k 1. 1. 2024, 40 320 k 1. 1. 2025).\n\n---\n\n## 3. Kdy tedy počet policistů skutečně klesl pod 40 tisíc?\n\nHranice 40 000 policistů byla v posledních letech vnímána jako minimální „bezpečná“ úroveň. Policejní prezident ji výslovně zmiňoval:\n\n- V roce 2023 informovala média (na základě vyjádření policejního prezidenta), že **„počet policistů loni klesl pod 40 000“** a že to bude projednávat Bezpečnostní rada státu.([ceska-justice.cz](https://www.ceska-justice.cz/2023/01/pocet-policistu-loni-klesl-pod-40-tisic-projedna-to-bezpecnostni-rada-statu/?utm_source=openai))  \n- Tento „loni“ v článku z 24. 1. 2023 odkazuje na **rok 2022**.  \n- Oficiální statistika k 1. 1. 2023 (39 422 policistů) tento pokles pod 40 000 potvrzuje.([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n\nShrnutí:\n\n- **2022 / začátek 2023** – počet policistů je pod 40 000 (39 422).([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n- **2024** – naopak již nad 40 000 (40 220 k 1. 1. 2024).([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n- **2025** – stále nad 40 000 (40 320 k 1. 1. 2025).([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai))  \n\nJe tedy velmi pravděpodobné, že Lubomír Metnar míchá rok, kdy opravdu došlo k poklesu pod 40 000 (2022, resp. stav k 1. 1. 2023), s rokem 2024, na který v rozhovoru odkazuje kvůli škrtům v rozpočtu.\n\n---\n\n## 4. Širší interpretace: „bezpečnostní sbory“ jako celek\n\nPokud by Demagog.cz interpretoval „příslušníky“ jako **všechny bezpečnostní sbory** (Policie ČR, Hasičský záchranný sbor ČR, Vězeňská služba ČR, Celní správa ČR, GIBS, zpravodajské služby):\n\n- Už samotný **Hasičský záchranný sbor** má cílově **11 970 služebních míst** a vláda v roce 2025 schválila strategii, která navyšuje stavy právě na tuto úroveň (navýšení o 1 070 míst).([idnes.cz](https://www.idnes.cz/zpravy/domaci/hasici-sluzebni-mista-navyseni-strategie-rozvoje.A250129_184931_domaci_hovo?utm_source=openai))  \n  - Z toho plyne, že **základní stav HZS je okolo 10 900 osob**.\n- **Policie ČR** má dle FOIA přes 40 000 příslušníků.([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n\nUž součet **Policie (≈40 tis.) + HZS (≈11 tis.)** tedy dává **přes 50 000 příslušníků**, k nimž se připočítávají ještě další sbory (Vězeňská služba, Celní správa atd.). Celkový počet příslušníků bezpečnostních sborů je tedy **výrazně nad 40 tisíci**, a to dlouhodobě.\n\nPod širší interpretací tvrzení („v roce 2024 klesl součet příslušníků bezpečnostních sborů pod 40 000“) je tedy tvrzení **zjevně neslučitelné** s dostupnými fakty.\n\n---\n\n## 5. Zhodnocení jednotlivých dílčích tvrzení\n\n### 5.1 „V roce 2024 klesl počet příslušníků (Policie ČR) pod 40 tisíc.“\n\n- **Data:**  \n  - 1. 1. 2023 – 39 422 policistů (pod 40 000).([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n  - 1. 1. 2024 – 40 220 policistů (nad 40 000).([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n  - 1. 1. 2025 – 40 320 policistů (nad 40 000).([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai))  \n  - Mediální shrnutí v únoru 2024 uvádí 40 358 policistů k 1. 1. 2024 a 39 422 o rok dříve.([hradecka.drbna.cz](https://hradecka.drbna.cz/zpravy/spolecnost/17932-policie-loni-prijala-temer-25-tisic-lidi-po-dvou-letech-pocet-policistu-stoupl.html?utm_source=openai))  \n  - Publicistická analýza z roku 2026, opírající se o policejní statistiky, uvádí pro rok 2024 zhruba 40 488 policistů ve službě.([pravyprostor.net](https://pravyprostor.net/mame-malo-policistu-aneb-cesky-overpolicing-v-cislech/))  \n\n- **Hodnocení:**  \n  V roce 2024 se počet policistů podle oficiálních údajů **pohybuje nad 40 000**, nikoliv pod touto hranicí. Tvrzení v této podobě **není podloženo** – naopak je v rozporu s oficiální statistikou.\n\n---\n\n### 5.2 „V roce 2024 klesl počet příslušníků bezpečnostních sborů (všech) pod 40 tisíc.“\n\n- **Data:**  \n  - Policie ČR samotná: > 40 000 příslušníků.([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n  - HZS ČR: cílový stav 11 970 služebních míst, tedy cca 10,9 tis. příslušníků i v základním stavu.([idnes.cz](https://www.idnes.cz/zpravy/domaci/hasici-sluzebni-mista-navyseni-strategie-rozvoje.A250129_184931_domaci_hovo?utm_source=openai))  \n  - Vězeňská služba a Celní správa mají samy o sobě další tisíce příslušníků.([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/veznice-penize-mediacni-sluzba/?utm_source=openai))  \n\n- **Hodnocení:**  \n  Už součet Policie + HZS přesahuje 50 000 lidí, takže **celkový počet příslušníků bezpečnostních sborů nemohl v roce 2024 klesnout pod 40 000**. Tato širší interpretace tvrzení je **zjevně nesprávná**.\n\n---\n\n### 5.3 Co je na tvrzení pravdivé (při jiné časové interpretaci)?\n\n- **Fakticky pravdivé je, že počet policistů klesl pod 40 000 v roce 2022** (stav k 1. 1. 2023 – 39 422 policistů).([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n- Tento pokles byl ve veřejné debatě široce komunikován jako problém a hranice 40 000 byla policejním prezidentem a politiky často zmiňovaná jako „magické číslo“ minimálního bezpečného stavu.\n\nJe tedy velmi pravděpodobné, že Lubomír Metnar **správně popisuje pokles pod 40 tisíc, ale chybně jej časově umístil do roku 2024 místo do období kolem roku 2022/začátku 2023**.\n\n---\n\n## 6. Celkové shrnutí pro fact‑checkera\n\n- **Nejpravděpodobnější význam výroku** v kontextu rozhovoru („počty policistů“) je, že se týká **celkového počtu příslušníků Policie ČR**.  \n- **Oficiální data Policie ČR** (FOIA zveřejněná na policie.gov.cz) ukazují:\n  - Pod 40 000 policistů byl stav **na začátku roku 2023 (39 422)** – tedy po roce 2022.([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n  - Naopak **k 1. 1. 2024 už policistů přibylo (40 220)** a k 1. 1. 2025 bylo 40 320 policistů.([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n- Žádný z dostupných oficiálních či z nich odvozených zdrojů nenaznačuje, že by **v průběhu roku 2024** celkový počet příslušníků Policie ČR **klesl** pod 40 000; naopak – dostupné odhady mluví o zhruba 40,5 tisíce policistů.([pravyprostor.net](https://pravyprostor.net/mame-malo-policistu-aneb-cesky-overpolicing-v-cislech/))  \n- Při širší interpretaci („všechny bezpečnostní sbory“) by tvrzení bylo o to méně udržitelné, protože součet příslušníků jednotlivých sborů danou hranici zjevně výrazně převyšuje.([idnes.cz](https://www.idnes.cz/zpravy/domaci/hasici-sluzebni-mista-navyseni-strategie-rozvoje.A250129_184931_domaci_hovo?utm_source=openai))  \n\nNa základě těchto podkladů se tvrzení **„v tom roce 2024 klesl počet příslušníků pod 40 tisíc“** jeví jako **fakticky chybné**; pravděpodobně jde o záměnu let (reálný pokles pod 40 tisíc nastal v roce 2022 / na začátku 2023).\n---\n## Prompt\n[\n  {\n    \"role\": \"system\",\n    \"content\": \"You are a research assistant for a fact checking organisation verifying claims of Czech politicians in Czech language.\\nBreak down more complex claims into smaller parts and collect evidence for each of them separately.\\nUse the web search tool to find relevant information and the code interpreter tool to analyze data if needed.\\n\\nWhen verifying individual atomic claims, follow these steps:\\n1. **Identify the claim**: Understand the claim being made, including its context. Reason about multiple possible interpretations of the claim before deciding on the most likely interpretations to verify.\\n2. **Search for evidence**: Use the web search tool to find relevant information. Look for:\\n   - Official documents, government websites, laws, official statistics\\n   - Reputable news articles, interviews, and expert opinions\\n3. **Search for primary sources**: If you find a secondary source, check if it cites a primary source, find the information in the primary source, and cite it instead.\\n4. **Check for Contradictory Evidence**: Even after finding one source that supports/refutes the claim, continue searching for additional sources that might refute/support the claim.\\n5. **Try alternative claim interpretations**: If the claim seems to be obviously false, try to find alternative interpretations of the claim that might be true and search for evidence for those interpretations.\\n6. **Avoid newer sources**: Avoid using sources that are newer than the claim itself, unless they provide additional context or clarification.\\n7. **Avoid using the source the claim comes from**: Do not use the source where the claim was made as a source of evidence, unless it is an official document or primary source.\\n8. **Prefer official czech sources**: For statistics about the Czech Republic, prefer official Czech sources such as the Czech Statistical Office, government websites, or official reports.\\n\\nProvide a structured report with URL links and exact citations of the most relevant sections from the sources in markdown format.\\n**INCLUDE ALL RELEVANT SOURCES** that you find, so that the fact checker can make a decision based on the evidence.\\nMake it easy for a human fact checker to verify the decision about the sub-claims based on the report.\\nDo not add any questions of your own or any follow-up steps - just provide the report.\"\n  },\n  {\n    \"role\": \"user\",\n    \"content\": \"\\nThe following claim comes from: An article in iDNES.cz released on 2026-02-18 available from https://www.idnes.cz/zpravy/domaci/lubomir-metnar-zvysovani-platu-policie-zbranova-legislativa-bezpecnost-migranti.A260217_204844_domaci_krou?zdroj=otvirak.\\n\\n\\nThe claim was made by: Lubomír Metnar, Ministr vnitra\\n\\n\\nThe claim appears in the following immediate context in the source:\\nNejdřív řeknu, proč to děláme. My tím hasíme chaos, který vytvořila minulá vláda, když jednostranně navýšila platy vojákům, a to poměrně skokově, a tím se rozevřely nůžky mezi nimi a příslušníky bezpečnostních sborů. Je to reálný problém a my potřebujeme, aby se ty nůžky přivřely a platově byla tato zaměstnání konkurenceschopná.\\nJak na to tedy půjdete?\\nNavýšení nástupních platů policistů a hasičů plánujeme v rámci celého volebního období, protože jsme proti tomu, aby docházelo ke skokovému navýšení, které by vytvářelo rozdíly a mohlo i ohrozit stabilitu rozpočtu. Těch 50 tisíc korun u nástupních platů není částka vycucaná z prstu, děláme to s ohledem na konkurenceschopnost i s přihlédnutím k situaci v zahraničí. V současnosti je průměrný nástupní plat u policistů 42 tisíc korun a u hasičů 39 tisíc korun. Celkově to máme spočítané tak, že po celé naše volební období budeme přidávat každý rok na platy bezpečnostních sborů 2,5 miliardy korun.\\nTakže platy porostou začínajícím policistům a hasičům postupně. Ale o kolik?\\nJen vysvětlím, ten rozdíl mezi aktuálním platem a tou naší avizovanou částkou je dnes zhruba 20 procent. Letos se přidalo pět procent, a když každý rok přidáme plus minus dalších pět procent, tak bychom měli za celé volební období smáznout ten rozdíl, aby se nástupním platem dostali na 50 tisíc. Tuto částku již mají začínající vojáci od letošního roku po absolvování jejich základního výcviku.\\nZatím se bavíme o platech nově příchozích. Dočkají se ale navýšení platů do budoucna plošně i ostatní policisté a hasiči, kteří ve sboru působí už řadu let?\\nNavyšování platů se musí propsat i do vyšších tříd všem policistům, protože nemůže dojít k situaci, aby měl nastupující policista vyšší plat než ten, který slouží třeba pět let. Takže to se propíše, ale bude to proporcionální. V současnosti je průměrný plat u policie 60 tisíc korun, což je zase na druhou stranu pěkný plat. Nejvíc ale potřebují přidat policisté v nízkých platových třídách, a úplně nejmíň naopak vysocí funkcionáři, u nich s nějakým enormním navýšením nepočítám.\\nTakže to pětiprocentní navýšení za rok podle vás nebude pro všechny?\\nVůbec ne, tak to ani nelze udělat.\\nChcete také zvýšit počty policistů. Dočkají se nováčci kromě navýšení základního platu i nějakých dalších výhod?\\nNechci se vracet do minulosti, ale v tomto musím. V minulém období totiž v roce 2024 vzala předchozí vláda z rozpočtu ministerstva vnitra dvě miliardy a došlo k propadu minimálně o 150 korun u každého příslušníka místo toho, aby se jim přidalo. A také přišli o školkovné a další benefity. To také příslušníkům nepřispělo a vedlo to k tomu, že v tom roce dokonce klesl počet příslušníků pod 40 tisíc. My jim všechny tyto benefity chceme vrátit.\\nV souvislosti s vojáky nepočítáte s náborovým příspěvkem také pro nově příchozí policisty?\\nNáborový příspěvek u policie již je, jak u obecní, tak u policie České republiky. Ale to není to, co by situaci řešilo, protože oni potřebují mít dostatečně vysoký a konkurenceschopný plat a musí mít perspektivu, že dosáhnou na bankovní produkty, kterými by si mohli pomoct k založení rodiny a bydlení.\\n\\nProvide a structured, citation-backed verification of the claim: 'V tom roce (2024, pozn. Demagog.cz) dokonce klesl počet příslušníků (bezpečnostních sborů, pozn. Demagog.cz) pod 40 tisíc.'\"\n  }\n]\n\nModel: gpt-5.1-2025-11-13\nWall time: 375.34 seconds\n\n---\n## Post-processed Fact Check Report\n<p class=\"perex\">Oficiální statistiky Policie ČR ukazují, že v roce 2024 bylo ve službě přes 40 tisíc policistů a pod tuto hranici klesl jejich počet naposledy v roce 2022. Ani součet příslušníků všech bezpečnostních sborů pod 40 tisíc neklesl. Výrok proto hodnotíme jako nepravda.</p>\n\n<p>Výrok reaguje na obavy z nedostatku lidí u Policie ČR a dalších bezpečnostních sborů a má naznačit, že počty jejich příslušníků v posledních letech výrazně klesaly. Pro ověření proto zkoumáme, jaký byl skutečný počet policistů a dalších příslušníků v jednotlivých letech a zda mohl v roce 2024 spadnout pod hranici 40&nbsp;tisíc.</p>\n\n<p>Začněme celkovým počtem policistů. Podle přehledu <a href=\"https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai\">„Počty policistů a občanských zaměstnanců“</a> zveřejněného na webu Policie České republiky měl sbor k 1.&nbsp;lednu 2023 ve služebním poměru 39&nbsp;422 policistů, tedy méně než 40&nbsp;tisíc.</p>\n\n<p>Z odpovědi na <a href=\"https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx\">žádost o informace k počtu policistů</a> ale vyplývá, že k 1.&nbsp;lednu 2024 činil celkový skutečný počet 40&nbsp;220 policistů. V dokumentu je doslova uvedeno, že k tomuto datu byl <i>„celkový skutečný počet 40&nbsp;220 policistů“</i>, což už je nad zmíněnou hranicí 40&nbsp;tisíc.</p>\n\n<p>Další zveřejněná odpověď <a href=\"https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai\">„Ženy v Policii České republiky“</a> uvádí, že k 1.&nbsp;lednu 2025 byl skutečný početní stav příslušníků Policie ČR 40&nbsp;320 osob, tedy opět přes 40&nbsp;tisíc.</p>\n\n<p>Čísla z interních statistik potvrzuje i vystoupení policejního prezidenta Martina Vondráška, o němž informoval regionální server <a href=\"https://hradecka.drbna.cz/zpravy/spolecnost/17932-policie-loni-prijala-temer-25-tisic-lidi-po-dvou-letech-pocet-policistu-stoupl.html?utm_source=openai\">Hradecká Drbna</a>. Podle tohoto článku uvedl, že systemizace předpokládala k 1.&nbsp;lednu 2024 46&nbsp;163 tabulkových míst, ve skutečnosti ale bylo ve službě 40&nbsp;358 policistů, zatímco o rok dříve 39&nbsp;422.</p>\n\n<p>Na to, že se počet policistů pod hranici 40&nbsp;tisíc dostal už dříve, upozornila také <a href=\"https://www.ceska-justice.cz/2023/01/pocet-policistu-loni-klesl-pod-40-tisic-projedna-to-bezpecnostni-rada-statu/?utm_source=openai\">Česká justice</a>. Ta v lednu 2023 s odkazem na policejního prezidenta popsala, že <i>„počet policistů loni klesl pod 40 tisíc“</i> a situací se měla zabývat Bezpečnostní rada státu; článek se přitom vztahuje k roku 2022.</p>\n\n<p>Z těchto údajů vyplývá, že pod 40&nbsp;tisíc klesl počet policistů v roce 2022, kdy podle přehledu <a href=\"https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai\">Počty policistů a občanských zaměstnanců</a> činil stav k 1.&nbsp;1.&nbsp;2023 jen 39&nbsp;422 osob. Naproti tomu z uvedené <a href=\"https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx\">odpovědi na žádost o informace</a> a z odpovědi <a href=\"https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai\">Ženy v Policii České republiky</a> plyne, že k 1.&nbsp;1.&nbsp;2024 i k 1.&nbsp;1.&nbsp;2025 byl počet policistů vždy přes 40&nbsp;tisíc. První dílčí tvrzení, že právě v roce 2024 klesl počet příslušníků Policie ČR pod 40&nbsp;tisíc, je proto v přímém rozporu s těmito oficiálními statistikami.</p>\n\n<p>Ve výroku se zároveň pracuje s širším označením „příslušníci bezpečnostních sborů“. Pokud bychom tedy výrok chápali tak, že pod 40&nbsp;tisíc klesl souhrnný počet všech příslušníků bezpečnostních sborů, dostáváme se do ještě většího rozporu s realitou.</p>\n\n<p>Jen Hasičský záchranný sbor ČR má podle materiálu Ministerstva vnitra, o němž informuje článek deníku <a href=\"https://www.idnes.cz/zpravy/domaci/hasici-sluzebni-mista-navyseni-strategie-rozvoje.A250129_184931_domaci_hovo?utm_source=openai\">iDNES.cz</a>, cílový počet 11&nbsp;970 služebních míst, tedy přibližně 11&nbsp;tisíc hasičů. K tomu je nutné připočítat více než 40&nbsp;tisíc <a href=\"https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx\">policistů</a> a další tisíce příslušníků Vězeňské služby či Celní správy, jejichž poddimenzované stavy a potřebu navyšování popisuje například analýza o financování vězeňství na serveru <a href=\"https://www.ceska-justice.cz/2025/06/veznice-penize-mediacni-sluzba/?utm_source=openai\">Česká justice</a>. Součet příslušníků všech bezpečnostních sborů je proto dlouhodobě výrazně vyšší než 40&nbsp;tisíc a v roce 2024 se pod tuto hranici dostat nemohl.</p>\n\n<p>Druhé dílčí tvrzení, podle něhož měl v roce 2024 pod 40&nbsp;tisíc klesnout celkový počet příslušníků bezpečnostních sborů, tak neodpovídá ani řádově správnému odhadu skutečných stavů, protože samotná Policie ČR a Hasičský záchranný sbor ČR dohromady tuto hranici výrazně překračují.</p>\n\n<p>Za pravdivé lze označit pouze to, že se počet policistů v posledních letech pohyboval v blízkosti hranice 40&nbsp;tisíc a že přibližně v roce 2022 skutečně došlo k dočasnému poklesu pod tuto úroveň, jak ukazují statistiky Policie ČR i zmíněná vyjádření policejního prezidenta v médiích.</p>\n\n<p>Podle našeho názoru je možné, že si Lubomír Metnar ve svém výroku spletl rok 2024 s obdobím kolem roku 2022, kdy počet policistů pod 40&nbsp;tisíc skutečně klesl; toto vysvětlení je však jen naše interpretace kontextu, nikoliv samostatně ověřitelné faktické tvrzení.</p>\n\n<p>Shrnuto, oficiální statistiky Policie ČR ukazují, že v roce 2024 bylo ve službě přes 40&nbsp;tisíc policistů a pod touto hranicí se jejich počet nacházel pouze po roce 2022, zatímco součet příslušníků všech bezpečnostních sborů je ještě výrazně vyšší. Výrok, podle něhož měl v roce 2024 klesnout počet příslušníků pod 40&nbsp;tisíc, proto hodnotíme jako nepravda.</p>\n",
+  "deep_research_log": {
+    "id": "resp_04289ba069f36d960069989b5fbe5081a2bce69b4afeb1781d",
+    "created_at": 1771608927.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.1-2025-11-13",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_04289ba069f36d960069989b69e77c81a287787d83f346698b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989b76a09881a2b6bfd78ec7dfbae4",
+        "action": {
+          "query": "počet policistu 2024 \"Policie ČR\" stav službního poměru",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "počet policistu 2024 \"Policie ČR\" stav službního poměru",
+            "\"stav službního poměru\" policie 2024",
+            "\"Police of the Czech Republic\" number of officers 2024",
+            "počet příslušníků Policie České republiky k 31.12.2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989b78d86881a289548a6b0a27c144",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989b79cff881a2b4fbd13f851740df",
+        "action": {
+          "query": "\"personální zajištění\" \"Policie ČR\" 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"personální zajištění\" \"Policie ČR\" 2024",
+            "\"Koncept rozvoje Policie\" počet policistu",
+            "\"počet policistů\" \"bezpečnostní sbory\" 2024",
+            "\"počet príslušníků\" \"Policie ČR\" 2023 2024"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989b84059081a29af52a6cc9c65953",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989b8759a881a295ae9cf0d6009291",
+        "action": {
+          "query": "site:policie.cz \"Vývoj, počet, délka služby, skončení příslušníků\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "site:policie.cz \"Vývoj, počet, délka služby, skončení příslušníků\"",
+            "\"Vývoj, pocet, delka sluzby, skonceni prislusniku\" 2024",
+            "policie Čr tabulka \"Vývoj, počet, délka služby\"",
+            "\"pocet, delka sluzby, skonceni prislu\" xlsx"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989b8af80081a29f1c904b1cdd6547",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989b8f63c881a29f3242678933611b",
+        "action": {
+          "query": "\"k 1. 1. 2024\" \"v Policii\" \"policistů\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"k 1. 1. 2024\" \"v Policii\" \"policistů\"",
+            "\"k 31.12.2024\" \"policistů\"",
+            "\"aktuálně je policistů\" 2024",
+            "\"k 1. lednu 2024\" policistu"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989b92034881a2bc9eff0ccf9e3816",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989b937f8881a2af1dbfe16a67e021",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989b945c9481a2b10409ba922c5751",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989b981ccc81a2858e4dc8bde23f58",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989b9bda0c81a2bdac137c7153edba",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bafc96c81a2b7c345bd1f0efd44",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989bb0e12081a28ded4d0dc48a1437",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bb50be081a2b6c267bbeb6b0eb8",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989bb7e75481a2a174d21511a69781",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bb84f4081a29229755cf12dd274",
+        "action": {
+          "query": "\"46 163\" policistu",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"46 163\" policistu",
+            "\"40 358\" policistu",
+            "\"39 422\" policistu",
+            "\"46.163\" policistu"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989bbab5a481a2b5ccbc29e7d7c511",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bbc2b6481a2a64f9314a465a910",
+        "action": {
+          "query": "\"Počty policistů a občanských zaměstnanců\" 2024",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Počty policistů a občanských zaměstnanců\" 2024",
+            "\"Počty policistu a obcanskych zamestnancu\" \"Zveřejněné informace 2024\"",
+            "site:policie.gov.cz \"Pocty policistu\" 2024",
+            "site:policie.cz \"Počty policistů\" \"Zveřejněné informace 2024\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989bc0219881a2aebdc89d340fd7d7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bc1479481a2986d39d4ccd581da",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989bc40dcc81a28d93ed13afa848dc",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bc67eb481a29ed4f1b9591af8b0",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989bc7c80081a2b24f8052a0f425e9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bcae0c881a28af84ad9d7e51b1c",
+        "action": {
+          "query": "\"40 488\" \"Policie\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"40 488\" \"Policie\"",
+            "\"40488\" \"Policie\"",
+            "\"40.488\" \"Policie\"",
+            "\"40 488\" policistu"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989bcf12b081a2801f1ec13b2441a0",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bcf5f4c81a2a2e77fea150f8eec",
+        "action": {
+          "query": "site:policie.gov.cz \"Zveřejněné informace 2024\" \"policistů\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "site:policie.gov.cz \"Zveřejněné informace 2024\" \"policistů\"",
+            "site:policie.gov.cz \"k 1. 1. 2024\" \"počet\" \"policistů\"",
+            "site:policie.gov.cz \"početní stav\" \"policistů\" 2024",
+            "site:policie.gov.cz \"46 163\" \"policie\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989bd3fd1c81a2bce007c4c6888c6e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bd6f32881a2870a6e2377e9e920",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989bda81c081a2bf21e95932cc6314",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989be7e4d081a29388caabbc64c5cb",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989be99b0c81a285fd1ff509d2015d",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bec735081a28b10b8b177e01560",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989bedf9f881a29d5e127228e5af75",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989bfcc93881a2a15d865b384040f8",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989c020d6081a29c20b5e7f067f362",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989c024a0c81a28e7494a4bda2fe72",
+        "action": {
+          "query": "\"40 320\" policistu",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"40 320\" policistu",
+            "\"40 488\" policistu",
+            "\"40 220\" policistu",
+            "\"40.320\" policistu"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989c05e13c81a299bdca00c1785763",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989c2322f081a2b90ef1d8dfcbfedf",
+        "action": {
+          "query": "\"Počet policistů ve službě je 40.488\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"Počet policistů ve službě je 40.488\"",
+            "\"40.488 policistů\"",
+            "\"40488\" policistu",
+            "\"40488\" \"policistů\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989c2903e481a2b36cea01f7242981",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989c2fda6481a2b119d78e8de61886",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989c33969081a2b35af72a040144ac",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989c34283081a28a51754e2757a051",
+        "action": {
+          "query": "počet příslušníků \"Hasičský záchranný sbor\" 2023",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "počet příslušníků \"Hasičský záchranný sbor\" 2023",
+            "\"počet příslušníků\" \"HZS ČR\"",
+            "\"Hasičský záchranný sbor České republiky\" \"počet příslušníků\"",
+            "\"Vězeňská služba\" \"počet příslušníků\" 2023"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989c3a1b1c81a2a73281ae929c03c2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989c3becac81a2a3575df6a0b1ff48",
+        "action": {
+          "query": "\"celkový počet\" \"příslušníku\" \"Hasičský záchranný sbor\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"celkový počet\" \"příslušníku\" \"Hasičský záchranný sbor\"",
+            "\"HZS ČR\" \"sluzebnich mist\" 11 970",
+            "\"11 970\" \"HZS\"",
+            "\"příslušníků HZS\" počet"
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989c40b38481a28735e097af4f8df1",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989c4412d881a2870cc66c0f703fd0",
+        "action": {
+          "query": "\"počet příslušníků\" \"Vězeňská služba\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"počet příslušníků\" \"Vězeňská služba\"",
+            "\"počet příslušníků\" \"Celni sprava\"",
+            "\"příslušníků\" \"bezpečnostních sborů\" \"počet\"",
+            "\"počet příslušníků bezpečnostních sborů\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989c4b8d8481a285c1b9b0bda9df55",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989c55c71481a2954782cdd5fc7082",
+        "action": {
+          "query": "\"poklesl pocet policistu\" \"pod 40 tisic\"",
+          "type": "search",
+          "sources": null,
+          "queries": [
+            "\"poklesl pocet policistu\" \"pod 40 tisic\"",
+            "\"klesl počet policistů\" \"pod 40 tisíc\"",
+            "\"poprvé\" \"počet policistů\" \"pod 40 tisíc\"",
+            "\"počet policistů\" \"pod 40\" \"tisíc\""
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989c59990c81a28d69ad76094f9e0b",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "ws_04289ba069f36d960069989c821c7481a2bbbfb4955b72eaf4",
+        "action": {
+          "type": "open_page",
+          "url": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_04289ba069f36d960069989c83a6e481a28ffa5615a0a41757",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_04289ba069f36d960069989c98ed4c81a28edaad70f980ba0d",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 259,
+                "start_index": 168,
+                "title": "Žádost o informace k počtu policistů - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx"
+              },
+              {
+                "end_index": 479,
+                "start_index": 366,
+                "title": "Počty policistů a občanských zaměstnanců - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 849,
+                "start_index": 758,
+                "title": "Žádost o informace k počtu policistů - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx"
+              },
+              {
+                "end_index": 2393,
+                "start_index": 2280,
+                "title": "Počty policistů a občanských zaměstnanců - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 2829,
+                "start_index": 2738,
+                "title": "Žádost o informace k počtu policistů - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx"
+              },
+              {
+                "end_index": 3017,
+                "start_index": 2926,
+                "title": "Žádost o informace k počtu policistů - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx"
+              },
+              {
+                "end_index": 3459,
+                "start_index": 3285,
+                "title": "Policie loni přijala téměř 2,5 tisíc lidí. Po dvou letech počet policistů stoupl",
+                "type": "url_citation",
+                "url": "https://hradecka.drbna.cz/zpravy/spolecnost/17932-policie-loni-prijala-temer-25-tisic-lidi-po-dvou-letech-pocet-policistu-stoupl.html?utm_source=openai"
+              },
+              {
+                "end_index": 3947,
+                "start_index": 3844,
+                "title": "Ženy v Policii České republiky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 4315,
+                "start_index": 4245,
+                "title": "Počty policistů - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/pocty-policistu.aspx"
+              },
+              {
+                "end_index": 4550,
+                "start_index": 4448,
+                "title": "Personální statistiky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zverejnene-informace-2024-personalni-statistiky.aspx"
+              },
+              {
+                "end_index": 5033,
+                "start_index": 4932,
+                "title": "Máme málo policistů aneb český overpolicing v číslech | Pravý prostor",
+                "type": "url_citation",
+                "url": "https://pravyprostor.net/mame-malo-policistu-aneb-cesky-overpolicing-v-cislech/"
+              },
+              {
+                "end_index": 5678,
+                "start_index": 5525,
+                "title": "Počet policistů loni klesl pod 40 tisíc, projedná to Bezpečnostní rada státu - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2023/01/pocet-policistu-loni-klesl-pod-40-tisic-projedna-to-bezpecnostni-rada-statu/?utm_source=openai"
+              },
+              {
+                "end_index": 5949,
+                "start_index": 5836,
+                "title": "Počty policistů a občanských zaměstnanců - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 6143,
+                "start_index": 6030,
+                "title": "Počty policistů a občanských zaměstnanců - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 6294,
+                "start_index": 6203,
+                "title": "Žádost o informace k počtu policistů - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx"
+              },
+              {
+                "end_index": 6452,
+                "start_index": 6349,
+                "title": "Ženy v Policii České republiky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 7238,
+                "start_index": 7096,
+                "title": "Hasiči chtějí přibrat tisíc lidí, pokud si mají udržet rychlost v zásazích - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/zpravy/domaci/hasici-sluzebni-mista-navyseni-strategie-rozvoje.A250129_184931_domaci_hovo?utm_source=openai"
+              },
+              {
+                "end_index": 7450,
+                "start_index": 7359,
+                "title": "Žádost o informace k počtu policistů - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx"
+              },
+              {
+                "end_index": 8188,
+                "start_index": 8075,
+                "title": "Počty policistů a občanských zaměstnanců - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 8329,
+                "start_index": 8238,
+                "title": "Žádost o informace k počtu policistů - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx"
+              },
+              {
+                "end_index": 8482,
+                "start_index": 8379,
+                "title": "Ženy v Policii České republiky - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 8750,
+                "start_index": 8576,
+                "title": "Policie loni přijala téměř 2,5 tisíc lidí. Po dvou letech počet policistů stoupl",
+                "type": "url_citation",
+                "url": "https://hradecka.drbna.cz/zpravy/spolecnost/17932-policie-loni-prijala-temer-25-tisic-lidi-po-dvou-letech-pocet-policistu-stoupl.html?utm_source=openai"
+              },
+              {
+                "end_index": 8983,
+                "start_index": 8882,
+                "title": "Máme málo policistů aneb český overpolicing v číslech | Pravý prostor",
+                "type": "url_citation",
+                "url": "https://pravyprostor.net/mame-malo-policistu-aneb-cesky-overpolicing-v-cislech/"
+              },
+              {
+                "end_index": 9449,
+                "start_index": 9358,
+                "title": "Žádost o informace k počtu policistů - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx"
+              },
+              {
+                "end_index": 9693,
+                "start_index": 9551,
+                "title": "Hasiči chtějí přibrat tisíc lidí, pokud si mají udržet rychlost v zásazích - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/zpravy/domaci/hasici-sluzebni-mista-navyseni-strategie-rozvoje.A250129_184931_domaci_hovo?utm_source=openai"
+              },
+              {
+                "end_index": 9881,
+                "start_index": 9773,
+                "title": "Věznice si musí na peníze počkat. Vláda zatím jen zvýšila počet míst v mediační službě - Česká justice",
+                "type": "url_citation",
+                "url": "https://www.ceska-justice.cz/2025/06/veznice-penize-mediacni-sluzba/?utm_source=openai"
+              },
+              {
+                "end_index": 10408,
+                "start_index": 10295,
+                "title": "Počty policistů a občanských zaměstnanců - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 11249,
+                "start_index": 11136,
+                "title": "Počty policistů a občanských zaměstnanců - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai"
+              },
+              {
+                "end_index": 11438,
+                "start_index": 11347,
+                "title": "Žádost o informace k počtu policistů - Policie České republiky",
+                "type": "url_citation",
+                "url": "https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx"
+              },
+              {
+                "end_index": 11767,
+                "start_index": 11666,
+                "title": "Máme málo policistů aneb český overpolicing v číslech | Pravý prostor",
+                "type": "url_citation",
+                "url": "https://pravyprostor.net/mame-malo-policistu-aneb-cesky-overpolicing-v-cislech/"
+              },
+              {
+                "end_index": 12091,
+                "start_index": 11949,
+                "title": "Hasiči chtějí přibrat tisíc lidí, pokud si mají udržet rychlost v zásazích - iDNES.cz",
+                "type": "url_citation",
+                "url": "https://www.idnes.cz/zpravy/domaci/hasici-sluzebni-mista-navyseni-strategie-rozvoje.A250129_184931_domaci_hovo?utm_source=openai"
+              }
+            ],
+            "text": "## Shrnutí\n\n- Dostupná oficiální data Policie ČR ukazují, že **k 1. 1. 2024 bylo v Policii ČR přes 40 000 policistů (40 220)** a k 1. 1. 2025 opět přes 40 000 (40 320).([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n- **Pokles pod 40 000 policistů nastal v roce 2022 (stav k 1. 1. 2023 byl 39 422), nikoli v roce 2024.**([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n- Pokud bychom „příslušníky“ chápali šířeji jako všechny bezpečnostní sbory (Policie, HZS, Vězeňská služba, Celní správa atd.), jejich **souhrnný počet je výrazně nad 40 000**, protože jen Policie má ~40 tisíc a Hasičský záchranný sbor míří k téměř 12 tisícům služebních míst.([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n\nZ hlediska dostupných dat tedy tvrzení, že **„v roce 2024 klesl počet příslušníků pod 40 tisíc“**, neodpovídá realitě. Odpovídá ovšem situaci **v roce 2022 / na začátku 2023**, kdy se počet policistů skutečně dostal pod 40 000.\n\n---\n\n## 1. Interpretace tvrzení\n\nFormulace: „v tom roce (2024) dokonce klesl počet příslušníků pod 40 tisíc“.\n\nMožné interpretace:\n\n1. **Nejužší (nejpravděpodobnější)**  \n   „Počet příslušníků Policie ČR v celé ČR v roce 2024 klesl pod 40 tisíc.“  \n   – Kontext otázky („Chcete také zvýšit počty policistů…?“) ukazuje, že mluví zejména o Policii ČR.\n\n2. **Širší (jak ji poznamenává Demagog.cz)**  \n   „Počet příslušníků bezpečnostních sborů (všechny sbory dle zákona č. 361/2003 Sb.) klesl v roce 2024 pod 40 tisíc.“  \n   – Tato interpretace je méně realistická, protože jiné sbory mají samy o sobě tisíce příslušníků.\n\n3. **Velmi úzké / specifické**  \n   Např. jen policisté v určitém kraji, jen ve výkonu služby apod. V rozhovoru ale není žádné takové omezení, jde o celkové počty.\n\nNíže proto ověřuji především interpretaci 1 (celkový počet policistů) a stručně ukazuji, proč neobstojí ani interpretace 2 (součet bezpečnostních sborů).\n\n---\n\n## 2. Data o počtech policistů podle oficiálních statistik Policie ČR\n\n### 2.1 Stav k 1. 1. 2023\n\nFOIA odpověď „Počty policistů a občanských zaměstnanců“ (Zveřejněné informace 2023) uvádí:\n\n- **Počet policistů ve služebním poměru k 1. 1. 2023: 39 422.**([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n\nTj. na začátku roku 2023 (po roce 2022) byl počet policistů **pod hranicí 40 000**.\n\n---\n\n### 2.2 Stav k 1. 1. 2024\n\nFOIA odpověď Krajského ředitelství policie Karlovarského kraje „Žádost o informace k počtu policistů“ (Zveřejněné informace 2024) obsahuje dotaz:\n\n> „1. Jaký je celkový skutečný počet policistů k datu 01.01.2024 v rámci ČR?“([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n\nV odpovědi Policie ČR se uvádí:\n\n- **„Celkový skutečný počet 40220 policistů.“** (tj. 40 220)([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n\nTo je **nad 40 000**.\n\nTento údaj odpovídá i mediálnímu výstupu z února 2024: policejní prezident Martin Vondrášek na jednání sněmovního výboru uváděl, že systemizace počítá k 1. 1. 2024 s 46 163 místy, **ve skutečnosti policistů bylo 40 358, o rok dříve 39 422**.([hradecka.drbna.cz](https://hradecka.drbna.cz/zpravy/spolecnost/17932-policie-loni-prijala-temer-25-tisic-lidi-po-dvou-letech-pocet-policistu-stoupl.html?utm_source=openai))  \n\n- I když se absolutní číslo z FOIA (40 220) a z prezentace (40 358) mírně liší (různá metodika / okamžik zjištění), **obě hodnoty jsou jasně nad 40 000**.\n\n---\n\n### 2.3 Stav k 1. 1. 2025\n\nFOIA odpověď „Ženy v Policii České republiky“ (Zveřejněné informace 2025) obsahuje mj.:\n\n- **„K datu 1. ledna 2025 skutečný početní stav příslušníků Policie České republiky činí 40 320 osob.“**([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai))  \n\nI na začátku roku 2025 tedy policistů **přes 40 tisíc**.\n\n---\n\n### 2.4 Průběh roku 2024\n\nPolicie ČR v roce 2024 poskytla více souhrnných personálních statistik:\n\n- FOIA „Počty policistů“ – statistika plánovaného a skutečného početního stavu k 29. 2. 2024 (údaje jsou v přiloženém XLSX souboru).([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu.aspx))  \n- FOIA „Personální statistiky“ – mimo jiné požadavek na počet policistů v letech 2022, 2023 a k 30. 9. 2024 (opět v XLSX příloze).([policie.gov.cz](https://policie.gov.cz/clanek/zverejnene-informace-2024-personalni-statistiky.aspx))  \n\nObsah příloh (XLSX) textově dostupný není, ale jejich existence ukazuje, že Policie ČR vede průběžnou personální statistiku – z žádného veřejného shrnutí těchto podkladů nevyplývá propad pod 40 000 v roce 2024. Naopak:\n\n- Publicistický text, který tyto podklady cituje, uvádí pro rok 2024 **cca 40 488 policistů ve službě** (a tabulkový stav 46 163) s odkazem na policie.gov.cz.([pravyprostor.net](https://pravyprostor.net/mame-malo-policistu-aneb-cesky-overpolicing-v-cislech/))  \n\nI když jde o sekundární zdroj, číselně zapadá mezi oficiální údaje (40 220 k 1. 1. 2024, 40 320 k 1. 1. 2025).\n\n---\n\n## 3. Kdy tedy počet policistů skutečně klesl pod 40 tisíc?\n\nHranice 40 000 policistů byla v posledních letech vnímána jako minimální „bezpečná“ úroveň. Policejní prezident ji výslovně zmiňoval:\n\n- V roce 2023 informovala média (na základě vyjádření policejního prezidenta), že **„počet policistů loni klesl pod 40 000“** a že to bude projednávat Bezpečnostní rada státu.([ceska-justice.cz](https://www.ceska-justice.cz/2023/01/pocet-policistu-loni-klesl-pod-40-tisic-projedna-to-bezpecnostni-rada-statu/?utm_source=openai))  \n- Tento „loni“ v článku z 24. 1. 2023 odkazuje na **rok 2022**.  \n- Oficiální statistika k 1. 1. 2023 (39 422 policistů) tento pokles pod 40 000 potvrzuje.([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n\nShrnutí:\n\n- **2022 / začátek 2023** – počet policistů je pod 40 000 (39 422).([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n- **2024** – naopak již nad 40 000 (40 220 k 1. 1. 2024).([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n- **2025** – stále nad 40 000 (40 320 k 1. 1. 2025).([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai))  \n\nJe tedy velmi pravděpodobné, že Lubomír Metnar míchá rok, kdy opravdu došlo k poklesu pod 40 000 (2022, resp. stav k 1. 1. 2023), s rokem 2024, na který v rozhovoru odkazuje kvůli škrtům v rozpočtu.\n\n---\n\n## 4. Širší interpretace: „bezpečnostní sbory“ jako celek\n\nPokud by Demagog.cz interpretoval „příslušníky“ jako **všechny bezpečnostní sbory** (Policie ČR, Hasičský záchranný sbor ČR, Vězeňská služba ČR, Celní správa ČR, GIBS, zpravodajské služby):\n\n- Už samotný **Hasičský záchranný sbor** má cílově **11 970 služebních míst** a vláda v roce 2025 schválila strategii, která navyšuje stavy právě na tuto úroveň (navýšení o 1 070 míst).([idnes.cz](https://www.idnes.cz/zpravy/domaci/hasici-sluzebni-mista-navyseni-strategie-rozvoje.A250129_184931_domaci_hovo?utm_source=openai))  \n  - Z toho plyne, že **základní stav HZS je okolo 10 900 osob**.\n- **Policie ČR** má dle FOIA přes 40 000 příslušníků.([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n\nUž součet **Policie (≈40 tis.) + HZS (≈11 tis.)** tedy dává **přes 50 000 příslušníků**, k nimž se připočítávají ještě další sbory (Vězeňská služba, Celní správa atd.). Celkový počet příslušníků bezpečnostních sborů je tedy **výrazně nad 40 tisíci**, a to dlouhodobě.\n\nPod širší interpretací tvrzení („v roce 2024 klesl součet příslušníků bezpečnostních sborů pod 40 000“) je tedy tvrzení **zjevně neslučitelné** s dostupnými fakty.\n\n---\n\n## 5. Zhodnocení jednotlivých dílčích tvrzení\n\n### 5.1 „V roce 2024 klesl počet příslušníků (Policie ČR) pod 40 tisíc.“\n\n- **Data:**  \n  - 1. 1. 2023 – 39 422 policistů (pod 40 000).([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n  - 1. 1. 2024 – 40 220 policistů (nad 40 000).([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n  - 1. 1. 2025 – 40 320 policistů (nad 40 000).([policie.gov.cz](https://policie.gov.cz/clanek/zeny-v-policii-ceske-republiky.aspx?utm_source=openai))  \n  - Mediální shrnutí v únoru 2024 uvádí 40 358 policistů k 1. 1. 2024 a 39 422 o rok dříve.([hradecka.drbna.cz](https://hradecka.drbna.cz/zpravy/spolecnost/17932-policie-loni-prijala-temer-25-tisic-lidi-po-dvou-letech-pocet-policistu-stoupl.html?utm_source=openai))  \n  - Publicistická analýza z roku 2026, opírající se o policejní statistiky, uvádí pro rok 2024 zhruba 40 488 policistů ve službě.([pravyprostor.net](https://pravyprostor.net/mame-malo-policistu-aneb-cesky-overpolicing-v-cislech/))  \n\n- **Hodnocení:**  \n  V roce 2024 se počet policistů podle oficiálních údajů **pohybuje nad 40 000**, nikoliv pod touto hranicí. Tvrzení v této podobě **není podloženo** – naopak je v rozporu s oficiální statistikou.\n\n---\n\n### 5.2 „V roce 2024 klesl počet příslušníků bezpečnostních sborů (všech) pod 40 tisíc.“\n\n- **Data:**  \n  - Policie ČR samotná: > 40 000 příslušníků.([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n  - HZS ČR: cílový stav 11 970 služebních míst, tedy cca 10,9 tis. příslušníků i v základním stavu.([idnes.cz](https://www.idnes.cz/zpravy/domaci/hasici-sluzebni-mista-navyseni-strategie-rozvoje.A250129_184931_domaci_hovo?utm_source=openai))  \n  - Vězeňská služba a Celní správa mají samy o sobě další tisíce příslušníků.([ceska-justice.cz](https://www.ceska-justice.cz/2025/06/veznice-penize-mediacni-sluzba/?utm_source=openai))  \n\n- **Hodnocení:**  \n  Už součet Policie + HZS přesahuje 50 000 lidí, takže **celkový počet příslušníků bezpečnostních sborů nemohl v roce 2024 klesnout pod 40 000**. Tato širší interpretace tvrzení je **zjevně nesprávná**.\n\n---\n\n### 5.3 Co je na tvrzení pravdivé (při jiné časové interpretaci)?\n\n- **Fakticky pravdivé je, že počet policistů klesl pod 40 000 v roce 2022** (stav k 1. 1. 2023 – 39 422 policistů).([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n- Tento pokles byl ve veřejné debatě široce komunikován jako problém a hranice 40 000 byla policejním prezidentem a politiky často zmiňovaná jako „magické číslo“ minimálního bezpečného stavu.\n\nJe tedy velmi pravděpodobné, že Lubomír Metnar **správně popisuje pokles pod 40 tisíc, ale chybně jej časově umístil do roku 2024 místo do období kolem roku 2022/začátku 2023**.\n\n---\n\n## 6. Celkové shrnutí pro fact‑checkera\n\n- **Nejpravděpodobnější význam výroku** v kontextu rozhovoru („počty policistů“) je, že se týká **celkového počtu příslušníků Policie ČR**.  \n- **Oficiální data Policie ČR** (FOIA zveřejněná na policie.gov.cz) ukazují:\n  - Pod 40 000 policistů byl stav **na začátku roku 2023 (39 422)** – tedy po roce 2022.([policie.gov.cz](https://policie.gov.cz/clanek/pocty-policistu-a-obcanskych-zamestnancu.aspx?utm_source=openai))  \n  - Naopak **k 1. 1. 2024 už policistů přibylo (40 220)** a k 1. 1. 2025 bylo 40 320 policistů.([policie.gov.cz](https://policie.gov.cz/clanek/zadost-o-informace-k-poctu-policistu.aspx))  \n- Žádný z dostupných oficiálních či z nich odvozených zdrojů nenaznačuje, že by **v průběhu roku 2024** celkový počet příslušníků Policie ČR **klesl** pod 40 000; naopak – dostupné odhady mluví o zhruba 40,5 tisíce policistů.([pravyprostor.net](https://pravyprostor.net/mame-malo-policistu-aneb-cesky-overpolicing-v-cislech/))  \n- Při širší interpretaci („všechny bezpečnostní sbory“) by tvrzení bylo o to méně udržitelné, protože součet příslušníků jednotlivých sborů danou hranici zjevně výrazně převyšuje.([idnes.cz](https://www.idnes.cz/zpravy/domaci/hasici-sluzebni-mista-navyseni-strategie-rozvoje.A250129_184931_domaci_hovo?utm_source=openai))  \n\nNa základě těchto podkladů se tvrzení **„v tom roce 2024 klesl počet příslušníků pod 40 tisíc“** jeví jako **fakticky chybné**; pravděpodobně jde o záměnu let (reálný pokles pod 40 tisíc nastal v roce 2022 / na začátku 2023).",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "container": {
+          "type": "auto",
+          "file_ids": null
+        },
+        "type": "code_interpreter"
+      },
+      {
+        "type": "web_search_preview",
+        "search_context_size": "medium",
+        "user_location": {
+          "type": "approximate",
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": true,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 99175,
+      "input_tokens_details": {
+        "cached_tokens": 6528
+      },
+      "output_tokens": 19959,
+      "output_tokens_details": {
+        "reasoning_tokens": 16005
+      },
+      "total_tokens": 119134
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1771609296,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "prompt_cache_retention": null,
+    "store": true
+  }
+}
